@@ -43,8 +43,8 @@ msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:23 #-#-# translate crowdin quest_lindsey_piano_start_4527aad9:
-msgid "[_mc_] [lindsey]!{w=1.0}{nw}" with Move((15,0), (-15,0), .10, bounce=True, repeat=True, delay=.825)
-msgstr "[_mc_] [lindsey]!{w=1.0}{nw}" with Move((15,0), (-15,0), .10, bounce=True, repeat=True, delay=.825)
+msgid "[_mc_] [lindsey]!{w=1.0}{nw} [withMove151510]"
+msgstr "[_mc_] [lindsey]!{w=1.0}{nw} [withMove151510]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:24 #-#-# translate crowdin quest_lindsey_piano_start_96b6a90f:
 msgid "[_extend_]  Hello?"
