@@ -1,0 +1,694 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/replays/35_kate_punishment.po\n"
+"X-Crowdin-File-ID: 12650\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"PO-Revision-Date: 2023-11-09 19:53\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/35_kate_punishment.rpy:6 #-#-# translate crowdin replay_kate_punishment_eedc76f6:
+msgid "[_kate_s_cheerleader_feet_] Down where you belong."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:7 #-#-# translate crowdin replay_kate_punishment_a72e8c17:
+msgid "[_kate_s_cheerleader_feet_] Did you really think you could be disrespectful and get away with it?{space=-10}"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:8 #-#-# translate crowdin replay_kate_punishment_a5e68f55:
+msgid "[_lacey_] He looks like a maggot!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:9 #-#-# translate crowdin replay_kate_punishment_5e207bcd:
+msgid "[_stacy_] He probably is one."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:10 #-#-# translate crowdin replay_kate_punishment_cbd5dd58:
+msgid "[_casey_] Is there maggot DNA in you?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:11 #-#-# translate crowdin replay_kate_punishment_2b35b6fe:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:12 #-#-# translate crowdin replay_kate_punishment_47dfdf82:
+msgid "[_kate_s_cheerleader_feet_] Answer her."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:13 #-#-# translate crowdin replay_kate_punishment_cc761816:
+msgid "[_mc_] No..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:14 #-#-# translate crowdin replay_kate_punishment_e587e445:
+msgid "[_kate_s_cheerleader_feet_] No, what?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:16 #-#-# translate crowdin replay_kate_punishment_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:18 #-#-# translate crowdin replay_kate_punishment_3ffe61a7:
+msgid "[_mc_] No, ma'am..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:19 #-#-# translate crowdin replay_kate_punishment_bc384e05:
+msgid "[_kate_s_cheerleader_feet_] Better."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:20 #-#-# translate crowdin replay_kate_punishment_666bcc20:
+msgid "[_casey_] You're so good at getting him in line, Katie!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:21 #-#-# translate crowdin replay_kate_punishment_06d18a73:
+msgid "[_kate_s_cheerleader_feet_] Hopefully, he's learning."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:22 #-#-# translate crowdin replay_kate_punishment_2f0b8596:
+msgid "[_stacy_] Are you learning, little maggot?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:23 #-#-# translate crowdin replay_kate_punishment_54072732:
+msgid "[_mc_] Yes, ma'am..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:24 #-#-# translate crowdin replay_kate_punishment_363d393f:
+msgid "[_lacey_] Queen!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:25 #-#-# translate crowdin replay_kate_punishment_42eff1fb:
+msgid "[_kate_s_cheerleader_feet_] All right, we're going to get back to practice. You stay put, [mc]."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:27 #-#-# translate crowdin replay_kate_punishment_361ba968:
+msgid "Nothing to do but staying put, I guess."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:28 #-#-# translate crowdin replay_kate_punishment_429057bb:
+msgid "Damn, these ropes are tight..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:30 #-#-# translate crowdin replay_kate_punishment_7f0478b7:
+msgid "[_mc_] No, you psychotic bitch."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:31 #-#-# translate crowdin replay_kate_punishment_ed21bfdc:
+msgid "[_lacey_] {i}Gasp!{/} [withvpunch]"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:32 #-#-# translate crowdin replay_kate_punishment_fbfa306b:
+msgid "[_stacy_] My god."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:33 #-#-# translate crowdin replay_kate_punishment_1de165c2:
+msgid "[_casey_] How dare..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:34 #-#-# translate crowdin replay_kate_punishment_2c29d205:
+msgid "[_kate_s_cheerleader_feet_kate_neutral_] For someone in your position, that was a very stupid thing to say."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:35 #-#-# translate crowdin replay_kate_punishment_3a673c4d:
+msgid "[_kate_s_cheerleader_feet_kate_laughing_] Luckily, I know exactly how to deal with unruly prisoners!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:41 #-#-# translate crowdin replay_kate_punishment_76fdedbf:
+msgid "[_mc_] Wait just one minute!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:42 #-#-# translate crowdin replay_kate_punishment_367f359f:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_holdingsock_smile_] What's wrong?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:43 #-#-# translate crowdin replay_kate_punishment_42af93d8:
+msgid "[_lacey_] I think it's time to open wide, [mc]."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:44 #-#-# translate crowdin replay_kate_punishment_90a7f742:
+msgid "[_casey_] Yeah, you pervert! Say, \"aaaah!\""
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:45 #-#-# translate crowdin replay_kate_punishment_e5ab74e1:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_holdingsock_neutral_] They're going into your mouth whether you like it or not."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:46 #-#-# translate crowdin replay_kate_punishment_e5140f9c:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_holdingsock_neutral_] We're tired of your insolence."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:47 #-#-# translate crowdin replay_kate_punishment_f75b2beb:
+msgid "Fuck! There's no way she's putting her dirty socks in my mouth..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:48 #-#-# translate crowdin replay_kate_punishment_06fd84e1:
+msgid "What do I do?!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:49 #-#-# translate crowdin replay_kate_punishment_0ee12cbb:
+msgid "I can tell they're all itching to give me a wedgie if I don't comply..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:50 #-#-# translate crowdin replay_kate_punishment_e78ba8fe:
+msgid "There's no winning here, only different levels of losing."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:52 #-#-# translate crowdin replay_kate_punishment_11fdb519_1:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:54 #-#-# translate crowdin replay_kate_punishment_2b35b6fe_1:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:55 #-#-# translate crowdin replay_kate_punishment_0fbdd14e:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_holdingsock_neutral_] Girls. You know what to do."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:56 #-#-# translate crowdin replay_kate_punishment_059f9342:
+msgid "[_stacy_] You asked for this, loser!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:62 #-#-# translate crowdin replay_kate_punishment_9ec27782:
+msgid "[_mc_] Ow, fuck! [withvpunch]"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:63 #-#-# translate crowdin replay_kate_punishment_b4b6c651:
+msgid "It's been so long... I'd forgotten how painful that wedgie is..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:64 #-#-# translate crowdin replay_kate_punishment_3e4ab43f:
+msgid "[_lacey_] Let's take it to the next level, yeah?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:65 #-#-# translate crowdin replay_kate_punishment_518c0d3e:
+msgid "[_mc_] Fuck me! You're tearing me—"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:66 #-#-# translate crowdin replay_kate_punishment_8e8a4a2a:
+msgid "[_mc_] {i}Mmmph!{/} [withvpunch]"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:72 #-#-# translate crowdin replay_kate_punishment_7fa9b69f:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_laughing_] There you go! I told you those socks would go into your mouth..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:73 #-#-# translate crowdin replay_kate_punishment_6b7aa0a4:
+msgid "[_mc_] {i}Muhgugh!{/}"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:74 #-#-# translate crowdin replay_kate_punishment_987dd0fc:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_confident_] Didn't quite catch that."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:76 #-#-# translate crowdin replay_kate_punishment_729e819b:
+msgid "[_mc_] Aaaah..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:77 #-#-# translate crowdin replay_kate_punishment_1ce23b39:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_holdingsock_smile_] Finally."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:85 #-#-# translate crowdin replay_kate_punishment_06cd3b9e:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_confident_] There's a good boy! That ought to shut you up..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:86 #-#-# translate crowdin replay_kate_punishment_d22185af:
+msgid "[_mc_] {i}Mmmph.{/}"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:87 #-#-# translate crowdin replay_kate_punishment_630bac6e:
+msgid "The taste of feet is overwhelming. Sweat, old and new."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:88 #-#-# translate crowdin replay_kate_punishment_2a7ca2d0:
+msgid "Kate's feet..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:89 #-#-# translate crowdin replay_kate_punishment_a134af2e:
+msgid "Fuck, why am I getting turned on all of a sudden?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:90 #-#-# translate crowdin replay_kate_punishment_4ece7fe0:
+msgid "If they flip me over, I'll never hear the end of it."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:91 #-#-# translate crowdin replay_kate_punishment_b3659f16:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_smile_] We're going to practice now."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:92 #-#-# translate crowdin replay_kate_punishment_130f166d:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_smile_] If you behave, we'll let you go once we're done."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:93 #-#-# translate crowdin replay_kate_punishment_0cc26bae:
+msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_neutral_] If not, we'll let the janitor find you in a bathroom stall at the end of the day."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:94 #-#-# translate crowdin replay_kate_punishment_7ae0894c:
+msgid "[_kate_s_cheerleader_feet_shoeless_sockless_] Let's go, girls!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:96 #-#-# translate crowdin replay_kate_punishment_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:97 #-#-# translate crowdin replay_kate_punishment_7fe4a2a2:
+msgid "The upside is that I have a first row seat to a group of hot girls in skimpy outfits."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:98 #-#-# translate crowdin replay_kate_punishment_9a41d594:
+msgid "The downside is that I have [kate]'s socks in my mouth, and my dick is about to burst out of my pants."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:99 #-#-# translate crowdin replay_kate_punishment_37e078db:
+msgid "Fuck me... I better reduce the swelling before they're done."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:105 #-#-# translate crowdin replay_kate_punishment_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:106 #-#-# translate crowdin replay_kate_punishment_4386f626:
+msgid "Damn it. And I don't even have a good view of them..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:107 #-#-# translate crowdin replay_kate_punishment_2f83a5e1:
+msgid "Their long legs, dancing across the gym floor... Their short skirts, flapping in the wind..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:108 #-#-# translate crowdin replay_kate_punishment_3282a940:
+msgid "How long has it been since my imprisonment? Days? weeks?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:109 #-#-# translate crowdin replay_kate_punishment_38fcefa9:
+msgid "The only good thing about this is that I'm hard as a rock."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:110 #-#-# translate crowdin replay_kate_punishment_f51e441e:
+msgid "My dick keeps the blood circulation going."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:116 #-#-# translate crowdin replay_kate_punishment_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:117 #-#-# translate crowdin replay_kate_punishment_1a42169b:
+msgid "Shit, they're coming over."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:119 #-#-# translate crowdin replay_kate_punishment_d1939d88:
+msgid "[_kate_s_cheerleader_feet_] Enjoying yourself down there?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:120 #-#-# translate crowdin replay_kate_punishment_d22185af_1:
+msgid "[_mc_] {i}Mmmph.{/}"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:121 #-#-# translate crowdin replay_kate_punishment_c0f18c40:
+msgid "[_kate_s_cheerleader_feet_] See, [lacey]? This is why I always keep an extra pair of gym socks."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:122 #-#-# translate crowdin replay_kate_punishment_d25668d3:
+msgid "[_lacey_] Your wisdom is a marvel to behold..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:123 #-#-# translate crowdin replay_kate_punishment_24ef91b7:
+msgid "[_kate_s_cheerleader_feet_] Bitch, don't roll your eyes at me."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:124 #-#-# translate crowdin replay_kate_punishment_57f427bf:
+msgid "[_lacey_] Sorry, hah!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:125 #-#-# translate crowdin replay_kate_punishment_81c9b681:
+msgid "[_kate_s_cheerleader_feet_] We're halfway through practice, but we thought we'd take a break to inspect our prisoner."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:126 #-#-# translate crowdin replay_kate_punishment_b666417a:
+msgid "[_kate_s_cheerleader_feet_] [casey], check his ropes."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:127 #-#-# translate crowdin replay_kate_punishment_d1dc62e9:
+msgid "[_casey_] Why me? I don't want to touch him!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:128 #-#-# translate crowdin replay_kate_punishment_070e73d9:
+msgid "[_kate_s_cheerleader_feet_] No one wants to, okay?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:129 #-#-# translate crowdin replay_kate_punishment_87cd1276:
+msgid "[_lacey_] Can't we make him check his own ropes?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:130 #-#-# translate crowdin replay_kate_punishment_d4df2b01:
+msgid "[_stacy_] Babe, you're doing that thing again..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:131 #-#-# translate crowdin replay_kate_punishment_e9366bee:
+msgid "[_lacey_] What thing?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:132 #-#-# translate crowdin replay_kate_punishment_44376d79:
+msgid "[_stacy_] Being stupid."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:133 #-#-# translate crowdin replay_kate_punishment_67dc2af3:
+msgid "[_lacey_] Okay, miss smartypants. You check his ropes, then."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:134 #-#-# translate crowdin replay_kate_punishment_72c413ce:
+msgid "[_stacy_] I'm not touching that!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:135 #-#-# translate crowdin replay_kate_punishment_189e60a3:
+msgid "[_kate_s_cheerleader_feet_] You know what? He wouldn't dare to escape."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:136 #-#-# translate crowdin replay_kate_punishment_e8b7b8ca:
+msgid "[_kate_s_cheerleader_feet_] I'm sure he'll stay just like this until we say otherwise."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:137 #-#-# translate crowdin replay_kate_punishment_1062898d:
+msgid "The world has always been at the feet of beautiful women."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:138 #-#-# translate crowdin replay_kate_punishment_d02d8caa:
+msgid "That's more clear to me than ever."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:139 #-#-# translate crowdin replay_kate_punishment_dc3af3e2:
+msgid "For some reason, there's a sort of calming clarity in letting go and submitting."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:140 #-#-# translate crowdin replay_kate_punishment_5dc6e189:
+msgid "The bulge between my legs isn't something I control, but perhaps the lack of control is the real turn on."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:141 #-#-# translate crowdin replay_kate_punishment_2330548d:
+msgid "Not sure if I'm ready to face such levels of humiliation, though..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:142 #-#-# translate crowdin replay_kate_punishment_d3e1ee04:
+msgid "Maybe certain things should be left unsaid."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:144 #-#-# translate crowdin replay_kate_punishment_11fdb519_2:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:161 #-#-# translate crowdin replay_kate_punishment_cb5ef17f:
+msgid "[_casey_] ..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:162 #-#-# translate crowdin replay_kate_punishment_f48e6247:
+msgid "[_lacey_] ..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:163 #-#-# translate crowdin replay_kate_punishment_338e9220:
+msgid "[_stacy_] ..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:164 #-#-# translate crowdin replay_kate_punishment_7968f749:
+msgid "[_kate_s_cheerleader_feet_] Well, there's the proof."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:165 #-#-# translate crowdin replay_kate_punishment_1f15b3ed:
+msgid "[_kate_s_cheerleader_feet_] What kind of slimy perverted dog gets horny in such a situation?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:166 #-#-# translate crowdin replay_kate_punishment_a5e76813:
+msgid "[_casey_] He's truly one of a kind, this one."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:167 #-#-# translate crowdin replay_kate_punishment_9c3982e4:
+msgid "[_lacey_] Ewwwwww!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:168 #-#-# translate crowdin replay_kate_punishment_7e1c6dea:
+msgid "[_stacy_] Disgusting."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:169 #-#-# translate crowdin replay_kate_punishment_bf0ac58c:
+msgid "[_kate_s_cheerleader_feet_] Turn back over. No one wants to see that."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:170 #-#-# translate crowdin replay_kate_punishment_3ebb61fa:
+msgid "Not sure if I should be happy that they even noticed the bulge, or just completely ashamed..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:185 #-#-# translate crowdin replay_kate_punishment_e461fb32:
+msgid "[_kate_s_cheerleader_feet_] Well, if this turns you on, wait until you learn what else we have in store for you this year."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:186 #-#-# translate crowdin replay_kate_punishment_835c2d0d:
+msgid "In a weird way, I'm both terrified and excited..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:187 #-#-# translate crowdin replay_kate_punishment_3592f4b4:
+msgid "Damn it, I need to get these thoughts out of my head."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:188 #-#-# translate crowdin replay_kate_punishment_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:189 #-#-# translate crowdin replay_kate_punishment_5d7be336:
+msgid "But maybe the only way is to embrace it?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:190 #-#-# translate crowdin replay_kate_punishment_b30cc7f5:
+msgid "[_kate_s_cheerleader_feet_] Come on, girls! Let's finish up practice."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:193 #-#-# translate crowdin replay_kate_punishment_960870c0:
+msgid "There's no telling what would happen by showing [kate] that this kind of treatment is turning me on."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:194 #-#-# translate crowdin replay_kate_punishment_a4b799b5:
+msgid "Why increase her hold over me?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:195 #-#-# translate crowdin replay_kate_punishment_b30cc7f5_1:
+msgid "[_kate_s_cheerleader_feet_] Come on, girls! Let's finish up practice."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:197 #-#-# translate crowdin replay_kate_punishment_6d20a89d:
+msgid "Phew! Somehow made it through unnoticed..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:203 #-#-# translate crowdin replay_kate_punishment_a20cefa7_4:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:204 #-#-# translate crowdin replay_kate_punishment_d142b6d4:
+msgid "When I woke up this morning, I never thought I'd end up in bondage."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:205 #-#-# translate crowdin replay_kate_punishment_b7348ad9:
+msgid "Hmm... does this actually count as bondage?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:206 #-#-# translate crowdin replay_kate_punishment_ecb4867d:
+msgid "If so, does that mean I just had sex with all the cheerleaders at once?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:207 #-#-# translate crowdin replay_kate_punishment_6bbc35bf:
+msgid "No one except Chad could pull that off!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:208 #-#-# translate crowdin replay_kate_punishment_a20cefa7_5:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:209 #-#-# translate crowdin replay_kate_punishment_169162c9:
+msgid "I can't believe they practice for this long..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:210 #-#-# translate crowdin replay_kate_punishment_dbb417ba:
+msgid "Maybe I should try to get loose?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:211 #-#-# translate crowdin replay_kate_punishment_46462c57:
+msgid "Hmm... probably not worth the risk."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:212 #-#-# translate crowdin replay_kate_punishment_a20cefa7_6:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:213 #-#-# translate crowdin replay_kate_punishment_58c74607:
+msgid "Huh, the music finally stopped. Maybe they're done?"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:215 #-#-# translate crowdin replay_kate_punishment_5d3688a9:
+msgid "[_kate_s_cheerleader_feet_] We're done with practice for today."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:216 #-#-# translate crowdin replay_kate_punishment_3f1e4d90:
+msgid "[_kate_s_cheerleader_feet_] We were supposed to go the whole day, but we've decided to take the rest of the day off."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:217 #-#-# translate crowdin replay_kate_punishment_27b61074:
+msgid "[_kate_s_cheerleader_feet_] I'm treating the girls to a night at the Newfall spa."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:218 #-#-# translate crowdin replay_kate_punishment_363d393f_1:
+msgid "[_lacey_] Queen!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:219 #-#-# translate crowdin replay_kate_punishment_d4c0f23f:
+msgid "[_kate_s_cheerleader_feet_] Unfortunately for you, your fate will have to wait until the morning."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:220 #-#-# translate crowdin replay_kate_punishment_1125b37d:
+msgid "[_kate_s_cheerleader_feet_] Let's go, girls!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:222 #-#-# translate crowdin replay_kate_punishment_babf7924:
+msgid "What the hell? Are they really going to leave me here overnight?!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:223 #-#-# translate crowdin replay_kate_punishment_d64eb40e:
+msgid "Fuck..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:224 #-#-# translate crowdin replay_kate_punishment_782963a5:
+msgid "And they said they had the gym booked for the rest of the day..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:225 #-#-# translate crowdin replay_kate_punishment_a20cefa7_7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:226 #-#-# translate crowdin replay_kate_punishment_042a9696:
+msgid "Huh? Someone's coming."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:229 #-#-# translate crowdin replay_kate_punishment_b2a35f79:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_confident_] Had a few more things to tell you before I go."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:230 #-#-# translate crowdin replay_kate_punishment_8b16aa4f:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_laughing_] Those ropes look good on you! I like how they dig into your skin and keep you in a docile little package..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:231 #-#-# translate crowdin replay_kate_punishment_d766ded4:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_confident_] I've studied Japanese rope techniques such as shibari and kinbaku. Those ropes are expertly tied and won't be coming off until I say so.{space=-5}"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:232 #-#-# translate crowdin replay_kate_punishment_f56debe9:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_smile_] And I say they stay on until the morning."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:233 #-#-# translate crowdin replay_kate_punishment_2435ca6a:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_smile_] I spoke to [jo], and told her you're staying over at my place tonight."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:234 #-#-# translate crowdin replay_kate_punishment_f52a7ea4:
+msgid "What the fuck. No way."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:235 #-#-# translate crowdin replay_kate_punishment_62f558d8:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_laughing_] She sounded surprised, but happy..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:236 #-#-# translate crowdin replay_kate_punishment_98d8c5ae:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_laughing_] She didn't even question it! Just told me to have fun."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:237 #-#-# translate crowdin replay_kate_punishment_62892b8b:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_smile_] I know that look, but don't worry. I quite like keeping you under my heel, and I wouldn't want anything serious to happen to you."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:238 #-#-# translate crowdin replay_kate_punishment_bfb99334:
+msgid "Somehow, I don't buy that for a second..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:239 #-#-# translate crowdin replay_kate_punishment_f9b87a2d:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_smile_] In case of an emergency, I've put my number into your phone. Here you go."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:240 #-#-# translate crowdin replay_kate_punishment_4bfafc1d:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_smile_] So, just press call with your nose or something."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:241 #-#-# translate crowdin replay_kate_punishment_78bc14ed:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_neutral_] But keep in mind that abusing this rare privilege would have dire consequences."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:242 #-#-# translate crowdin replay_kate_punishment_817371e5:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_neutral_] Nod if you understand."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:244 #-#-# translate crowdin replay_kate_punishment_11fdb519_3:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:263 #-#-# translate crowdin replay_kate_punishment_ea99a070:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_confident_] That's a good pet!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:264 #-#-# translate crowdin replay_kate_punishment_a36500ea:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_confident_] I love obedience. I can already tell you'll be very obedient."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:265 #-#-# translate crowdin replay_kate_punishment_7e94c175:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_smile_] Keep it up, and this might be a good year for you..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:283 #-#-# translate crowdin replay_kate_punishment_c22fbe87:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_neutral_] Bad pet! I see you require some training still..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:284 #-#-# translate crowdin replay_kate_punishment_5a4f259b:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_confident_] Luckily, we have all year and by the end of it, you're going to be my little bitch."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:285 #-#-# translate crowdin replay_kate_punishment_26c0dab7:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_confident_] You're going to do everything I say. Even bark on command."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:286 #-#-# translate crowdin replay_kate_punishment_5dc98279:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_smile_] All in good time, though."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:287 #-#-# translate crowdin replay_kate_punishment_d69ecef7:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_neutral_] Oh, and one more thing — no cumming."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:288 #-#-# translate crowdin replay_kate_punishment_aabfba4f:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_neutral_] I'll check in the morning, so don't you dare try."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:289 #-#-# translate crowdin replay_kate_punishment_871e69c9:
+msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_laughing_] Sleep well!"
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:291 #-#-# translate crowdin replay_kate_punishment_ae4a367a:
+msgid "Man, I can't believe [kate] is actually going to go through with it..."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:292 #-#-# translate crowdin replay_kate_punishment_c1054395:
+msgid "Never thought this is how I'd get her number either."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:293 #-#-# translate crowdin replay_kate_punishment_ce345dfa:
+msgid "In fact, I never thought I'd get her number period."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:294 #-#-# translate crowdin replay_kate_punishment_270328f5:
+msgid "In a weird way, by leaving her number she's showing that she's not rotten to the core."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:295 #-#-# translate crowdin replay_kate_punishment_01e0a8b5:
+msgid "Although, knowing her, it might just be a fake number to crush my hope one last time during an emergency."
+msgstr ""
+
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:296 #-#-# translate crowdin replay_kate_punishment_a3adbd60:
+msgid "Might as well try to get some sleep..."
+msgstr ""
+
