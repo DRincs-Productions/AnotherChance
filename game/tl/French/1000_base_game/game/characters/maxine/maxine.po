@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 18:40\n"
+"PO-Revision-Date: 2023-11-10 14:44\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/maxine.rpy:1595 #-#-# translate crowdin maxine_talk_one_e47f2210:
 msgid "[_maxine_s_afraid_] Not now, the Vending Corporation is trying to pull the wool over my eyes!"
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1625 #-#-# translate crowdin maxine_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
-msgstr ""
+msgstr "Elle a probablement eu assez de mon chitchat pour aujourd'hui."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1630 #-#-# translate crowdin maxine_flirt_default_55addcd6:
 msgid "[_maxine_s_skeptical_] [mc], I really would suggest the acquiescence of your preferred pimple cream."
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1640 #-#-# translate crowdin maxine_flirt_one_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1643 #-#-# translate crowdin maxine_flirt_one_828cc8f6:
 msgid "[_mc_] The specimen in Area 12."
@@ -118,7 +118,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1675 #-#-# translate crowdin maxine_flirt_two_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1678 #-#-# translate crowdin maxine_flirt_two_4f7c9d7f:
 msgid "[_mc_] I was just looking for the popcorn dispenser."
@@ -190,7 +190,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1709 #-#-# translate crowdin maxine_flirt_three_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1712 #-#-# translate crowdin maxine_flirt_three_7028fc4f:
 msgid "[_mc_] You look absolutely delicious today!"
@@ -210,7 +210,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1716 #-#-# translate crowdin maxine_flirt_three_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1721 #-#-# translate crowdin maxine_flirt_three_d3566e58:
 msgid "[_mc_] I've been trying to correct my past."
@@ -306,7 +306,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1756 #-#-# translate crowdin maxine_flirt_over_7d6bfd23:
 msgid "She must be sick of my poor attempts at flirting by now..."
-msgstr ""
+msgstr "Elle doit être malade de mes mauvaises tentatives de flirter maintenant ..."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/maxine/maxine.rpy:1639
 msgid "\"The specimen in Area 12.\""
