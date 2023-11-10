@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:55\n"
+"PO-Revision-Date: 2023-11-10 15:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/hall/int_door_bathroom.rpy:43 #-#-# translate crowdin home_hall_door_bathroom_interact_flora_cooking_chilli_return_phone_c824e642:
 msgid "[_mc_] [flora], are you okay?"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/hall/int_door_bathroom.rpy:50 #-#-# translate crowdin home_hall_door_bathroom_interact_flora_cooking_chilli_return_phone_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/home/hall/int_door_bathroom.rpy:52 #-#-# translate crowdin home_hall_door_bathroom_interact_flora_cooking_chilli_return_phone_3ea1a3a2:
 msgid "[_flora_] Ow! Ow! Ow!"
