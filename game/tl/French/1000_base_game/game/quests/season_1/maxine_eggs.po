@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:56\n"
+"PO-Revision-Date: 2023-11-10 15:37\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:100 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_8e2441bc:
 msgid "Well, depending on how you look at it, there might be treasures here. One man's trash, and all that."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:111 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_61fae46f:
 msgid "Crap."
-msgstr ""
+msgstr "Crap."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:112 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_fb070db5:
 msgid "[_maxine_s_annoyed_] Did you just grapple-hook your way in through the window?"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:113 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_5ccacf96:
 msgid "[_mc_] Sort of."
-msgstr ""
+msgstr "[_mc_] Triés."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:114 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_020beef4:
 msgid "[_maxine_s_thinking_] Without triggering the intruder-alarm?"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:115 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_a3b1a71e:
 msgid "[_mc_] I guess."
-msgstr ""
+msgstr "[_mc_] Je suppose."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:116 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_0f87c4d2:
 msgid "[_maxine_s_angry_] I knew the popcorn dispenser could only be trusted with popcorn!"
@@ -90,7 +90,7 @@ msgstr ""
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:132 #-#-# translate crowdin quest_maxine_eggs_computer_room_arrival_3dc6a042:
 msgid "[_cyberia_] {i}Professor{/} [cyberia]."
-msgstr ""
+msgstr "[_cyberia_] {i}Professeur { / } [cyberia]."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:133 #-#-# translate crowdin quest_maxine_eggs_computer_room_arrival_41d41782:
 msgid "Whoever programmed this abomination had a really poor sense of humor."
