@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:54\n"
+"PO-Revision-Date: 2023-11-10 14:45\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2 #-#-# translate crowdin quest_maya_witch_start_7c4911ec:
 msgid "Oh, man. There's [maya] again."
@@ -282,7 +282,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:99 #-#-# translate crowdin quest_maya_witch_start_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:100 #-#-# translate crowdin quest_maya_witch_start_dab1eec1:
 msgid "[_mc_] I don't need your sass."
@@ -350,7 +350,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:136 #-#-# translate crowdin quest_maya_witch_start_95c7633a:
 msgid "[_mc_] Are you okay?"
-msgstr ""
+msgstr "[_mc_] Etes-vous d'accord?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:137 #-#-# translate crowdin quest_maya_witch_start_f648b576:
 msgid "[_maya_s_cringe_soaked_] Oh, def. Being drenched in soda is one of my favorite things, didn't you know?"
@@ -460,7 +460,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:201 #-#-# translate crowdin quest_maya_witch_english_class_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:203 #-#-# translate crowdin quest_maya_witch_english_class_3b307a6e:
 msgid "The art of spying is a lost form. Time to bring it back."
@@ -485,7 +485,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:212 #-#-# translate crowdin quest_maya_witch_english_class_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:215 #-#-# translate crowdin quest_maya_witch_english_class_472d6576:
 msgid "[_mc_] Yeah, well, that tracks with my life."
@@ -1073,7 +1073,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:445 #-#-# translate crowdin quest_maya_witch_gym_class_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:449 #-#-# translate crowdin quest_maya_witch_gym_class_9069fedf:
 msgid "[_mc_] I think bullying is gross."
@@ -1125,7 +1125,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:461 #-#-# translate crowdin quest_maya_witch_gym_class_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:462 #-#-# translate crowdin quest_maya_witch_gym_class_d168a032:
 msgid "[_mc_] {i}I'm Batman.{/}"
@@ -1382,7 +1382,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:615 #-#-# translate crowdin quest_maya_witch_computer_class_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:618 #-#-# translate crowdin quest_maya_witch_computer_class_14dcf4b7:
 msgid "[_mc_] I think you're really cute."
@@ -1446,7 +1446,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:634 #-#-# translate crowdin quest_maya_witch_computer_class_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:635 #-#-# translate crowdin quest_maya_witch_computer_class_f8b76ff8:
 msgid "[_mc_] You don't actually—"
@@ -1490,7 +1490,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:647 #-#-# translate crowdin quest_maya_witch_computer_class_cfce055e:
 msgid "[_mc_] Are you sure?"
-msgstr ""
+msgstr "[_mc_] Etes-vous sûr?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:648 #-#-# translate crowdin quest_maya_witch_computer_class_039a0f89:
 msgid "[_maya_s_dramatic_] Gosh, on second thought, I really need to double check with you that it's okay!"
@@ -1514,7 +1514,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:653 #-#-# translate crowdin quest_maya_witch_computer_class_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:656 #-#-# translate crowdin quest_maya_witch_computer_class_3d164bd6:
 msgid "[_mc_] I always come to the computer room at this time."
@@ -1728,7 +1728,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:721 #-#-# translate crowdin quest_maya_witch_locked_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:724 #-#-# translate crowdin quest_maya_witch_locked_add66f15:
 msgid "[_mc_] I'm actually not [mc] at all, I'm just wearing his skin."
@@ -1876,7 +1876,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:784 #-#-# translate crowdin quest_maya_witch_phone_call_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:787 #-#-# translate crowdin quest_maya_witch_phone_call_19c1f0a2:
 msgid "[_mc_] I didn't do it on purpose!"
@@ -2164,7 +2164,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:876 #-#-# translate crowdin quest_maya_witch_wait_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:877 #-#-# translate crowdin quest_maya_witch_wait_3ea65d49:
 msgid "[_maya_s_eyeroll_] That was a joke."
@@ -2192,7 +2192,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:883 #-#-# translate crowdin quest_maya_witch_wait_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:884 #-#-# translate crowdin quest_maya_witch_wait_748373a8:
 msgid "[_mc_] I've seen you drink coffee before."
@@ -2276,7 +2276,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:930 #-#-# translate crowdin quest_maya_witch_wait_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:933 #-#-# translate crowdin quest_maya_witch_wait_f0c551f8:
 msgid "[_mc_] Like what?!"
@@ -2693,7 +2693,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1251 #-#-# translate crowdin quest_maya_witch_help_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1252 #-#-# translate crowdin quest_maya_witch_help_b58b0e0e:
 msgid "[_mc_] Yes, [maxine]. That's why I'm here."
@@ -2737,7 +2737,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264 #-#-# translate crowdin quest_maya_witch_help_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1267 #-#-# translate crowdin quest_maya_witch_help_4f2e20ae:
 msgid "[_mc_] You know what? Nevermind."
@@ -2962,7 +2962,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1344 #-#-# translate crowdin quest_maya_witch_help_29310efc:
 msgid "[_mc_] Whatever you say."
-msgstr ""
+msgstr "[_mc_] Tout ce que vous dites."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1361 #-#-# translate crowdin quest_maya_witch_meet_up_school_homeroom_rope_d1923d35:
 msgid "What the hell? Did [maxine] just pull up the rope?"
@@ -3067,7 +3067,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1392 #-#-# translate crowdin quest_maya_witch_meet_up_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1395 #-#-# translate crowdin quest_maya_witch_meet_up_9dc34584:
 msgid "[_mc_] So, I just run in place or what?"
@@ -3582,7 +3582,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1889 #-#-# translate crowdin quest_maya_witch_meet_up_6dc051d7:
 msgid "[_mc_] Thanks, I guess?"
-msgstr ""
+msgstr "[_mc_] Merci, je suppose?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1893 #-#-# translate crowdin quest_maya_witch_meet_up_cca120e0:
 msgid "I can't believe I'm actually going to try breaking a curse with this dusty old thing."
