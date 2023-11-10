@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 19:04\n"
+"PO-Revision-Date: 2023-11-10 16:43\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/vcr_tape.rpy:17 #-#-# translate crowdin vcr_tape_interact_6ccc05e1:
 msgid "{i}\"Due to the difficulty and intensity, exercises are best conducted without the hindrance of clothing.\"{/}"
-msgstr ""
+msgstr "{i}\"En raison de la difficulté et de l'intensité, les exercices sont mieux réalisés sans l'obstacle des vêtements.\" { / }"
 
 # game/1000_base_game/game/items/vcr_tape.rpy:18 #-#-# translate crowdin vcr_tape_interact_2858a3d3:
 msgid "Sounds like my kind of workout."
-msgstr ""
+msgstr "Ça ressemble à mon genre de travail."
 
