@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 19:18\n"
+"PO-Revision-Date: 2023-11-10 15:14\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:28 #-#-# translate crowdin school_bathroom_locker1_take_405b7ad3:
 msgid "Any itsy bitsy spiders here?"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:73 #-#-# translate crowdin school_bathroom_locker2_interact_fd38f889:
 msgid "Nope."
-msgstr ""
+msgstr "Non."
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:75 #-#-# translate crowdin school_bathroom_locker2_interact_3b09ea91:
 msgid "Just this wallet..."
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:77 #-#-# translate crowdin school_bathroom_locker2_interact_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:80 #-#-# translate crowdin school_bathroom_locker2_interact_09a229d3:
 msgid "If they wanted the money, they wouldn't have left their wallet here."
