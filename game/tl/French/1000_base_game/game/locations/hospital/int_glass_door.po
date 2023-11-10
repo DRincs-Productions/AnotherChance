@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 19:14\n"
+"PO-Revision-Date: 2023-11-10 16:49\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/hospital/int_glass_door.rpy:19 #-#-# translate crowdin hospital_glass_door_interact_fd07bb04:
 msgid "This door is locked up tight."
-msgstr ""
+msgstr "Cette porte est verrouillée."
 
 # game/1000_base_game/game/locations/hospital/int_glass_door.rpy:20 #-#-# translate crowdin hospital_glass_door_interact_2a711d46:
 msgid "No authorization without a key card or the right personnel."
-msgstr ""
+msgstr "Pas d'autorisation sans carte clé ou personnel de droite."
 
