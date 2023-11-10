@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:55\n"
+"PO-Revision-Date: 2023-11-10 15:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/hall/int_hole.rpy:38 #-#-# translate crowdin home_hall_hole_use_dc9867cb:
 msgid "Ugh, my neck and back hurts from all the reaching and lassoing earlier. Need to rest for a while."
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:61 #-#-# translate crowdin home_hall_hole_use_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:64 #-#-# translate crowdin home_hall_hole_use_0c16606b:
 msgid "Hmm... let's see..."
