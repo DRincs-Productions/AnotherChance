@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:21\n"
+"PO-Revision-Date: 2023-11-10 16:55\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:36 #-#-# translate crowdin school_first_hall_water_fountain_interact_askmaxine_845a5804:
 msgid "{i}*Cough, cough*{/}"
-msgstr ""
+msgstr "{i}*Toux, toux * { / }"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:37 #-#-# translate crowdin school_first_hall_water_fountain_interact_askmaxine_5d1a8c04:
 msgid "What the hell?"
@@ -22,23 +22,23 @@ msgstr "Qu'est-ce que l'enfer?"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:38 #-#-# translate crowdin school_first_hall_water_fountain_interact_askmaxine_d2df262d:
 msgid "How did this piece of paper end up in my throat?"
-msgstr ""
+msgstr "Comment ce morceau de papier s'est-il fini dans ma gorge?"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:44 #-#-# translate crowdin school_first_hall_water_fountain_interact_04961b96:
 msgid "Life giving sustenance."
-msgstr ""
+msgstr "La vie donne de la nourriture."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:45 #-#-# translate crowdin school_first_hall_water_fountain_interact_219eeff2:
 msgid "Who needs it?"
-msgstr ""
+msgstr "Qui en a besoin?"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:59 #-#-# translate crowdin school_first_hall_water_fountain_use_item_fe062c18:
 msgid "I wonder what [kate] will think when I return her socks perfectly clean...{space=-45}"
-msgstr ""
+msgstr "Je me demande ce que [kate] va penser quand je retourne ses chaussettes parfaitement propres ... { space=-45 }"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:60 #-#-# translate crowdin school_first_hall_water_fountain_use_item_a71bb4d1:
 msgid "It's weird, but I can't wait to feel that shame she'll undoubtedly pour on."
-msgstr ""
+msgstr "C'est bizarre, mais j'ai hâte de ressentir cette honte qu'elle versera sans aucun doute."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:61 #-#-# translate crowdin school_first_hall_water_fountain_use_item_a20cefa7:
 msgid "..."
@@ -46,43 +46,43 @@ msgstr "..."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:78 #-#-# translate crowdin school_first_hall_water_fountain_use_item_0392d5d3:
 msgid "It's good to stay hydrated."
-msgstr ""
+msgstr "C'est bon de rester hydraté."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:79 #-#-# translate crowdin school_first_hall_water_fountain_use_item_b7311bec:
 msgid "[lindsey] wanted water in her own bottle, though."
-msgstr ""
+msgstr "[lindsey] voulait de l'eau dans sa propre bouteille."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:81 #-#-# translate crowdin school_first_hall_water_fountain_use_item_322892a5:
 msgid "Even though this water is free, I still like to imagine I'm getting one over on the establishment."
-msgstr ""
+msgstr "Même si cette eau est gratuite, j'imagine toujours que je vais en faire un sur l'établissement."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:83 #-#-# translate crowdin school_first_hall_water_fountain_use_item_a9e1685e:
 msgid "I sprinkle a few drops of water on my [item.title_lower]."
-msgstr ""
+msgstr "Je saupoudrez quelques gouttes d'eau sur mon [item.title_lower]."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:84 #-#-# translate crowdin school_first_hall_water_fountain_use_item_106037ce:
 msgid "Then I stand around like an idiot as if something was supposed to happen."
-msgstr ""
+msgstr "Alors je me tiens comme un idiot comme si quelque chose devait arriver."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:92 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_846bda8d:
 msgid "All right... here we go, I guess..."
-msgstr ""
+msgstr "D'accord ... ici on y va, je suppose ..."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:96 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_0980c350:
 msgid "Ugh. Feels like my internal organs just got filled with water!"
-msgstr ""
+msgstr "Ugh. Des pieds comme mes organes internes viennent d'être remplis d'eau !"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:97 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_388bd9a1:
 msgid "Oh, god. Better put the hoodie back before the school gets flooded."
-msgstr ""
+msgstr "Oh, mon dieu. Il vaut mieux remettre le capuchon avant que l'école ne soit inondée."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:99 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_edbaf4e4:
 msgid "Damn. I'm going to be in so much trouble."
-msgstr ""
+msgstr "Merde. Je vais être dans tant de problèmes."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:103 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_6553994a:
 msgid "[_kate_s_laughing_] Haha! What a look! Like a wet puppy!"
-msgstr ""
+msgstr "[_kate_s_laughing_] Haha ! Quel regard ! Comme un chiot mouillé !"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:104 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_2b35b6fe:
 msgid "[_mc_] ..."
@@ -90,7 +90,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:105 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_195d080d:
 msgid "[_kate_s_neutral_] Are you my wet puppy?"
-msgstr ""
+msgstr "[_kate_s_neutral_] Êtes-vous mon chiot mouillé?"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:106 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_6434dfd2:
 msgid "[_mc_] Ugh..."
@@ -98,7 +98,7 @@ msgstr "[_mc_] Ugh ..."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:107 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_453f1f47:
 msgid "[_kate_s_confident_] Well, you better go find a mop quickly. I'll get the principal if I get bored."
-msgstr ""
+msgstr "[_kate_s_confident_] Bien, vous feriez mieux de trouver une foule rapidement. Je vais chercher le principal si je m'ennute."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:108 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_54072732:
 msgid "[_mc_] Yes, ma'am..."
@@ -106,29 +106,29 @@ msgstr "[_mc_] Oui, madame ..."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:109 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_17879fa2:
 msgid "[_kate_s_sad_] Poor wet puppy..."
-msgstr ""
+msgstr "[_kate_s_sad_] Mauvpauvre chiot mouillé ..."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:110 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_bafc0389:
 msgid "[_kate_s_gushing_] Fetch!"
-msgstr ""
+msgstr "[_kate_s_gushing_] Fetch !"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:111 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_475bacce:
 msgid "How utterly humiliating..."
-msgstr ""
+msgstr "Comment tout à fait humiliant ..."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:112 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_82c7e75e:
 msgid "Well, there's probably a mop in the janitor's closet."
-msgstr ""
+msgstr "Eh bien, il y a probablement une foule dans le placard du concierge."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:116 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_3f37bd0c:
 msgid "Not sure how long I can stall. [kate]'s impatience is growing."
-msgstr ""
+msgstr "Pas sûr combien de temps je peux décrochage.  L'impatience de [kate]augmente."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:138 #-#-# translate crowdin school_first_hall_water_fountain_hoodie_interact_8ba0b80d:
 msgid "It was a health risk anyway. I practically did everyone a favor."
-msgstr ""
+msgstr "De toute façon, c'était un risque pour la santé. J'ai pratiquement fait une faveur à tous."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:89
 msgid "Remove the hoodie"
-msgstr ""
+msgstr "Retirer le capuchon"
 
