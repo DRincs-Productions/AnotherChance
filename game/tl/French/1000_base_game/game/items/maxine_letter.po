@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 14:56\n"
+"PO-Revision-Date: 2023-11-10 16:38\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/maxine_letter.rpy:21 #-#-# translate crowdin maxine_letter_combine_c405c6b3:
 msgid "[maxine] isn't exactly the easiest person to deal with."
-msgstr ""
+msgstr "[maxine] n'est pas exactement la personne la plus facile à traiter."
 
 # game/1000_base_game/game/items/maxine_letter.rpy:22 #-#-# translate crowdin maxine_letter_combine_efde4c49:
 msgid "Writing to her requires a special touch. A certain skill. Hmm..."
-msgstr ""
+msgstr "Écrire à elle a besoin d'une touche spéciale. Une certaine compétence. Hmm ..."
 
 # game/1000_base_game/game/items/maxine_letter.rpy:24 #-#-# translate crowdin maxine_letter_combine_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -26,23 +26,23 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:37 #-#-# translate crowdin maxine_letter_combine_f0844281:
 msgid "{i}\"[maxineletterbegin]\"{/}"
-msgstr ""
+msgstr "{i}\"[maxineletterbegin] \" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:38 #-#-# translate crowdin maxine_letter_combine_4defc862:
 msgid "{i}\"In this time of uncertainty and turmoil, I come to you with a request.\"{/}"
-msgstr ""
+msgstr "{i}\"En cette période d'incertitude et de turbulences, je vous présente une demande.\" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:39 #-#-# translate crowdin maxine_letter_combine_3ba05bf8:
 msgid "{i}\"A crime has been committed, and with it, all our safety hangs in the balance.\"{/}"
-msgstr ""
+msgstr "{i}\"Un crime a été commis, et avec lui, toute notre sécurité est en jeu.\" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:40 #-#-# translate crowdin maxine_letter_combine_c1964e9f:
 msgid "{i}\"I beseech your guidance... and sort of hope that you've seen something, or know where to start or whatever?\"{/}"
-msgstr ""
+msgstr "{i}\"Je vous ai donné des conseils ... et j'espère que vous avez vu quelque chose ou que vous savez où commencer ou quoi que ce soit?\" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:41 #-#-# translate crowdin maxine_letter_combine_9fc3646a:
 msgid "{i}\"Sorry about the ending, I ran out of cool words.\"{/}"
-msgstr ""
+msgstr "{i}\"Désolé pour la fin, j'ai manqué de mots cool.\" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:43 #-#-# translate crowdin maxine_letter_combine_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -50,69 +50,69 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:56 #-#-# translate crowdin maxine_letter_combine_51d2e266:
 msgid "{i}\"[maxineletterend]\"{/}"
-msgstr ""
+msgstr "{i}\"[maxineletterend] \" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:59 #-#-# translate crowdin maxine_letter_combine_87f8b617:
 msgid "That should do it."
-msgstr ""
+msgstr "Ça devrait le faire."
 
 # game/1000_base_game/game/items/maxine_letter.rpy:60 #-#-# translate crowdin maxine_letter_combine_33420fcb:
 msgid "Now, this letter just needs to be posted in [maxine]'s mailbox — the potted plant."
-msgstr ""
+msgstr "Maintenant, cette lettre doit être affichée dans la boîte aux lettres de [maxine]-l'usine en pot."
 
 # game/1000_base_game/game/items/maxine_letter.rpy:64 #-#-# translate crowdin maxine_letter_interact_f0844281:
 msgid "{i}\"[maxineletterbegin]\"{/}"
-msgstr ""
+msgstr "{i}\"[maxineletterbegin] \" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:65 #-#-# translate crowdin maxine_letter_interact_4defc862:
 msgid "{i}\"In this time of uncertainty and turmoil, I come to you with a request.\"{/}"
-msgstr ""
+msgstr "{i}\"En cette période d'incertitude et de turbulences, je vous présente une demande.\" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:66 #-#-# translate crowdin maxine_letter_interact_3ba05bf8:
 msgid "{i}\"A crime has been committed, and with it, all our safety hangs in the balance.\"{/}"
-msgstr ""
+msgstr "{i}\"Un crime a été commis, et avec lui, toute notre sécurité est en jeu.\" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:67 #-#-# translate crowdin maxine_letter_interact_c1964e9f:
 msgid "{i}\"I beseech your guidance... and sort of hope that you've seen something, or know where to start or whatever?\"{/}"
-msgstr ""
+msgstr "{i}\"Je vous ai donné des conseils ... et j'espère que vous avez vu quelque chose ou que vous savez où commencer ou quoi que ce soit?\" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:68 #-#-# translate crowdin maxine_letter_interact_9fc3646a:
 msgid "{i}\"Sorry about the ending, I ran out of cool words.\"{/}"
-msgstr ""
+msgstr "{i}\"Désolé pour la fin, j'ai manqué de mots cool.\" { / }"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:69 #-#-# translate crowdin maxine_letter_interact_51d2e266:
 msgid "{i}\"[maxineletterend]\"{/}"
-msgstr ""
+msgstr "{i}\"[maxineletterend] \" { / }"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/items/maxine_letter.rpy:23
 msgid "\"Dear protector of the Sacred Plant...\""
-msgstr ""
+msgstr "\"Cher protecteur de la plante sacrée ...\""
 
 # game/1000_base_game/game/items/maxine_letter.rpy:23
 msgid "\"Dear [spinach] enthusiast...\""
-msgstr ""
+msgstr "\"Chère [spinach] enthousiaste ...\""
 
 # game/1000_base_game/game/items/maxine_letter.rpy:23
 msgid "\"My fellow seeker of truths...\""
-msgstr ""
+msgstr "\"Mon cher chercheur des vérités ...\""
 
 # game/1000_base_game/game/items/maxine_letter.rpy:23
 msgid "\"My fellow keeper of secrets...\""
-msgstr ""
+msgstr "\"Mon collègue gardien des secrets ...\""
 
 # game/1000_base_game/game/items/maxine_letter.rpy:42
 msgid "\"Yours truly, [mc].\""
-msgstr ""
+msgstr "\"Yours truly, [mc].\""
 
 # game/1000_base_game/game/items/maxine_letter.rpy:42
 msgid "\"An anonymous vigilante.\""
-msgstr ""
+msgstr "\"Un justicier anonyme.\""
 
 # game/1000_base_game/game/items/maxine_letter.rpy:42
 msgid "\"Kind regards, your future friend.\""
-msgstr ""
+msgstr "\"Kind regarde, ton futur ami.\""
 
 # game/1000_base_game/game/items/maxine_letter.rpy:42
 msgid "\"Signed only, V.\""
-msgstr ""
+msgstr "\"Signé uniquement, V.\""
 
