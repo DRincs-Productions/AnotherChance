@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 18:45\n"
+"PO-Revision-Date: 2023-11-10 16:32\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/car_wash_sign.rpy:17 #-#-# translate crowdin car_wash_sign_interact_853125c1:
 msgid "{i}\"Welcome to Newfall High's car wash fundraiser!\"{/}"
-msgstr ""
+msgstr "{i}\"Welcome to Newfall High's car wash collecteurs !\" { / }"
 
 # game/1000_base_game/game/items/car_wash_sign.rpy:18 #-#-# translate crowdin car_wash_sign_interact_d55c8450:
 msgid "{i}\"Roll up your windows and prepare to get wet!\"{/}"
-msgstr ""
+msgstr "{i}\"Faites rouler vos fenêtres et prépareez à vous mouiller !\" { / }"
 
