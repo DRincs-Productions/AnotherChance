@@ -10,257 +10,257 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 18:54\n"
+"PO-Revision-Date: 2023-11-10 11:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/leyline_indicator.rpy:50 #-#-# translate crowdin int_leyline_locator_charge_bb60e552:
 msgid "This thing is dead. It does seem to run on electricity, though... perhaps there's a way to charge it?"
-msgstr ""
+msgstr "Questa cosa è morta. Sembra funzionare sull'elettricità, però... forse c'è un modo per caricarlo?"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:57 #-#-# translate crowdin int_leyline_locator_uncharged_af2f465c:
 msgid "This thing is out of juice. It almost needs a refill as much as I need a shot of strawberry J."
-msgstr ""
+msgstr "Questa cosa è fuori dal succo. Ha quasi bisogno di una ricarica tanto quanto ho bisogno di un colpo di fragola J."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:67 #-#-# translate crowdin int_leyline_locator_not_now_d4ae17d2:
 msgid "Okay, let's see if I've got any matches on Tinder... wait, this is not my phone."
-msgstr ""
+msgstr "Va bene, vediamo se ho delle partite su Tinder... aspetta, questo non è il mio telefono."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:73 #-#-# translate crowdin int_leyline_locator_finished_b8fcd723:
 msgid "Man, I keep checking this thing more than my phone..."
-msgstr ""
+msgstr "Uomo, continuo a controllare questa cosa più del mio telefono..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:164 #-#-# translate crowdin locator_button_1_interact_a45a34d3:
 msgid "[_lll_] {i}Locking in position...{/}"
-msgstr ""
+msgstr "[_lll_] {i}Blocco in posizione...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:172 #-#-# translate crowdin locator_button_1_interact_a7bc119d:
 msgid "[_lll_] {i}Position successfully locked in!{/}"
-msgstr ""
+msgstr "[_lll_] Posizione {i}bloccata con successo!{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:196 #-#-# translate crowdin locator_button_2_interact_final_9f4986ea:
 msgid "[_lll_] {i}Triangulating positions...{/}"
-msgstr ""
+msgstr "[_lll_] {i}Posizioni triangolanti...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:197 #-#-# translate crowdin locator_button_2_interact_final_da47c3cf:
 msgid "[_lll_] {i}...{/}"
-msgstr ""
+msgstr "[_lll_] {i}...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:198 #-#-# translate crowdin locator_button_2_interact_final_ec9b3800:
 msgid "[_lll_] {i}Ley Line Pattern: Complete.{/}"
-msgstr ""
+msgstr "[_lll_] {i}Ley Line Pattern: Completo.{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:199 #-#-# translate crowdin locator_button_2_interact_final_da47c3cf_1:
 msgid "[_lll_] {i}...{/}"
-msgstr ""
+msgstr "[_lll_] {i}...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:201 #-#-# translate crowdin locator_button_2_interact_final_78f037d0:
 msgid "[_lll_] {i}4th node successfully located.{/}"
-msgstr ""
+msgstr "[_lll_] {i}4° nodo trovato con successo.{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:207 #-#-# translate crowdin locator_button_2_interact_final_9f4986ea_1:
 msgid "[_lll_] {i}Triangulating positions...{/}"
-msgstr ""
+msgstr "[_lll_] {i}Posizioni triangolanti...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:208 #-#-# translate crowdin locator_button_2_interact_final_da47c3cf_2:
 msgid "[_lll_] {i}...{/}"
-msgstr ""
+msgstr "[_lll_] {i}...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:209 #-#-# translate crowdin locator_button_2_interact_final_ec9b3800_1:
 msgid "[_lll_] {i}Ley Line Pattern: Complete.{/}"
-msgstr ""
+msgstr "[_lll_] {i}Ley Line Pattern: Completo.{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:210 #-#-# translate crowdin locator_button_2_interact_final_da47c3cf_3:
 msgid "[_lll_] {i}...{/}"
-msgstr ""
+msgstr "[_lll_] {i}...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:211 #-#-# translate crowdin locator_button_2_interact_final_8c9c5781:
 msgid "[_lll_] {i}Error. Signal too weak.{/}"
-msgstr ""
+msgstr "[_lll_] Errore {i}. Segnale troppo debole.{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:212 #-#-# translate crowdin locator_button_2_interact_final_0a06dfe7:
 msgid "Damn it. Maybe [maxine] is right... I need a magnet on each node."
-msgstr ""
+msgstr "Dannazione. Forse [maxine] ha ragione... Ho bisogno di un magnete su ogni nodo."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:217 #-#-# translate crowdin locator_button_2_interact_9f4986ea:
 msgid "[_lll_] {i}Triangulating positions...{/}"
-msgstr ""
+msgstr "[_lll_] {i}Posizioni triangolanti...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:218 #-#-# translate crowdin locator_button_2_interact_da47c3cf:
 msgid "[_lll_] {i}...{/}"
-msgstr ""
+msgstr "[_lll_] {i}...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:219 #-#-# translate crowdin locator_button_2_interact_ec9b3800:
 msgid "[_lll_] {i}Ley Line Pattern: Complete.{/}"
-msgstr ""
+msgstr "[_lll_] {i}Ley Line Pattern: Completo.{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:220 #-#-# translate crowdin locator_button_2_interact_da47c3cf_1:
 msgid "[_lll_] {i}...{/}"
-msgstr ""
+msgstr "[_lll_] {i}...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:221 #-#-# translate crowdin locator_button_2_interact_8c9c5781:
 msgid "[_lll_] {i}Error. Signal too weak.{/}"
-msgstr ""
+msgstr "[_lll_] Errore {i}. Segnale troppo debole.{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:222 #-#-# translate crowdin locator_button_2_interact_3c173ef1:
 msgid "What the hell does that mean?"
-msgstr ""
+msgstr "Che cosa significa l'inferno?"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:223 #-#-# translate crowdin locator_button_2_interact_71f917d2:
 msgid "Why is there an error? I'm sure I put in the right positions."
-msgstr ""
+msgstr "Perché c'è un errore? Sono sicuro di aver messo nelle posizioni giuste."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:224 #-#-# translate crowdin locator_button_2_interact_0cd2478b:
 msgid "It said that the signal was too weak... maybe [maxine] knows what that means?"
-msgstr ""
+msgstr "Ha detto che il segnale era troppo debole... forse [maxine] sa cosa significa?"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:228 #-#-# translate crowdin locator_button_2_interact_7031eaa4:
 msgid "[_lll_] {i}Insufficient positions locked in...{/}"
-msgstr ""
+msgstr "[_lll_] {i}Posizioni insufficienti bloccate in...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:233 #-#-# translate crowdin locator_button_2_interact_3bdf9952:
 msgid "[_lll_] {i}Resetting positions...{/}"
-msgstr ""
+msgstr "[_lll_] {i}Ripristino posizioni...{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:234 #-#-# translate crowdin locator_button_2_interact_52002f31:
 msgid "[_lll_] {i}Positions successfully reset.{/}"
-msgstr ""
+msgstr "[_lll_] {i}Posizioni ripristinate con successo.{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:244 #-#-# translate crowdin locator_out_of_fuel_04940df2:
 msgid "Crap. This thing ran out of fuel... better go charge it."
-msgstr ""
+msgstr "Crap. Questa cosa ha esaurito il carburante... meglio andare a caricarlo."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:312 #-#-# translate crowdin locator_screen_school_art_class_b0189856:
 msgid "It's hard to tell if someone drew these lines here with a luminescent marker..."
-msgstr ""
+msgstr "E 'difficile dire se qualcuno ha disegnato queste linee qui con un marcatore luminescente..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:316 #-#-# translate crowdin locator_screen_school_cafeteria_7ae2986e:
 msgid "If only these lines could point me in the direction of the best doughnuts..."
-msgstr ""
+msgstr "Se solo queste linee potessero indicarmi nella direzione delle ciambelle migliori..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:317 #-#-# translate crowdin locator_screen_school_cafeteria_c4ad2b30:
 msgid "On second thought, that direction is the [guard]'s booth. Don't need no magic lines to tell me!"
-msgstr ""
+msgstr "Al secondo pensiero, quella direzione è lo stand della [guard]. Non c'è bisogno di linee magiche per dirmi!"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:321 #-#-# translate crowdin locator_screen_school_english_class_e34c05a1:
 msgid "That looks a bit like an inverted gastrohedron, but without the hexatropinac flexpod..."
-msgstr ""
+msgstr "Sembra un po' un gastroedro invertito, ma senza il flexpod esatropinaco..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:322 #-#-# translate crowdin locator_screen_school_english_class_c63c1382:
 msgid "I'm just making up words."
-msgstr ""
+msgstr "Sto solo preparando parole."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:326 #-#-# translate crowdin locator_screen_school_first_hall_1cd0a860:
 msgid "Whoa! A new line has materialized, leading down the main stairs into the entrance hall..."
-msgstr ""
+msgstr "Choa! Si è materializzata una nuova linea, che conduce lungo le scale principali nella sala d'ingresso..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:331 #-#-# translate crowdin locator_screen_school_first_hall_final_79da9882:
 msgid "The lines here converge into a node of some sort..."
-msgstr ""
+msgstr "Le righe qui convergono in un nodo di qualche tipo..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:332 #-#-# translate crowdin locator_screen_school_first_hall_final_fd0d754c:
 msgid "One line leads off in the direction of each wing."
-msgstr ""
+msgstr "Una linea conduce fuori nella direzione di ogni ala."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:336 #-#-# translate crowdin locator_screen_school_first_hall_east_b461315a:
 msgid "This line leads straight into the gym."
-msgstr ""
+msgstr "Questa linea conduce dritto in palestra."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:337 #-#-# translate crowdin locator_screen_school_first_hall_east_3e5aa980:
 msgid "I'm not sure if following these is the smartest thing..."
-msgstr ""
+msgstr "Non sono sicuro se seguire questi è la cosa più intelligente..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:338 #-#-# translate crowdin locator_screen_school_first_hall_east_68ed68a8:
 msgid "Next thing you know, you're at the end of the rainbow, and a leprechaun is hitting you over the head with a gold ingot and cussing you out in Irish!"
-msgstr ""
+msgstr "La prossima cosa che sai, sei alla fine dell'arcobaleno, e un leprechaun ti sta colpendo sopra la testa con un lingotto d'oro e ti sta uccidendo in irlandese!"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:342 #-#-# translate crowdin locator_screen_school_first_hall_west_8b2ed324:
 msgid "It's hard to come full circle when it looks like this..."
-msgstr ""
+msgstr "È difficile venire a cerchio pieno quando sembra questo..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:346 #-#-# translate crowdin locator_screen_school_ground_floor_west_1ed8dd31:
 msgid "These lines are red instead of yellow... and they have a very distinct shape..."
-msgstr ""
+msgstr "Queste linee sono rosse invece di giallo... e hanno una forma molto distinta..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:347 #-#-# translate crowdin locator_screen_school_ground_floor_west_6d8c7465:
 msgid "Are they at all related to the yellow lines?"
-msgstr ""
+msgstr "Sono affatto legati alle linee gialle?"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:351 #-#-# translate crowdin locator_screen_school_gym_a0ad75d5:
 msgid "This circle connects to the line in the corridor outside."
-msgstr ""
+msgstr "Questo cerchio si collega alla linea nel corridoio esterno."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:352 #-#-# translate crowdin locator_screen_school_gym_a4639cf2:
 msgid "Does that mean what I think it does...?"
-msgstr ""
+msgstr "Questo significa che cosa penso che faccia...?"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:353 #-#-# translate crowdin locator_screen_school_gym_a683a19d:
 msgid "Yeah, no clue."
-msgstr ""
+msgstr "Sì, nessun indizio."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:357 #-#-# translate crowdin locator_screen_school_nurse_room_db62be84:
 msgid "The lines here are... what's the word?"
-msgstr ""
+msgstr "Le linee qui sono... qual è la parola?"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:358 #-#-# translate crowdin locator_screen_school_nurse_room_6d4be334:
 msgid "Right. There is no word to describe these shapes."
-msgstr ""
+msgstr "Giusto. Non c'è parola per descrivere queste forme."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:362 #-#-# translate crowdin locator_screen_school_ground_floor_10c8c3aa:
 msgid "Huh! The final circle surrounds these rows of lockers..."
-msgstr ""
+msgstr "Huh! Il cerchio finale circonda queste file di armadietti..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:371 #-#-# translate crowdin quest_maxine_lines_use_magnet_76bd1aac:
 msgid "Putting magnets in random locations is totally not crazy! [maxine] knows what she's talking about."
-msgstr ""
+msgstr "Mettere magneti in luoghi casuali non è completamente pazzo! [maxine] sa di cosa sta parlando."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:375 #-#-# translate crowdin quest_maxine_lines_use_magnet_c1558b30:
 msgid "Not really sure why I'm doing this mumbo-jumbo..."
-msgstr ""
+msgstr "Non veramente sicuro perché sto facendo questo mumbo-jumbo..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:376 #-#-# translate crowdin quest_maxine_lines_use_magnet_dbd01bd3:
 msgid "Maybe it's just the need to know?"
-msgstr ""
+msgstr "Forse è solo il bisogno di sapere?"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:380 #-#-# translate crowdin quest_maxine_lines_use_magnet_ff005bc7:
 msgid "The thirst for the unknown drives me. Or maybe it's just the thirst for [maxine]? Either way..."
-msgstr ""
+msgstr "La sete degli sconosciuti mi guida. O forse è solo la sete di [maxine]? In entrambi i casi..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:383 #-#-# translate crowdin quest_maxine_lines_use_magnet_d03fab30:
 msgid "Imbuing my [item.title_lower] with mysterious arcane properties seems like a quick way to attract a vengeful coven of witches."
-msgstr ""
+msgstr "Imperare la mia [item.title_lower] con proprietà arcane misteriose sembra un modo rapido per attrarre una cala vendetta di streghe."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:384 #-#-# translate crowdin quest_maxine_lines_use_magnet_f640908f:
 msgid "Magically hot... but also dangerous."
-msgstr ""
+msgstr "Magicamente caldo... ma anche pericoloso."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:387 #-#-# translate crowdin quest_maxine_lines_use_magnet_656340bd:
 msgid "My [item.title_lower] would make for a beautiful floor decoration, but [lindsey]'s probably just going to trip again."
-msgstr ""
+msgstr "La mia [item.title_lower] farebbe per una bella decorazione del pavimento, ma [lindsey]probabilmente sta solo andando di nuovo a viaggiare."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:390 #-#-# translate crowdin quest_maxine_lines_use_magnet_a3ced8d2:
 msgid "Putting my [item.title_lower] in this circle could awaken some ancient spirit..."
-msgstr ""
+msgstr "Mettere il mio [item.title_lower] in questo cerchio potrebbe risvegliare un po 'di spirito antico..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:391 #-#-# translate crowdin quest_maxine_lines_use_magnet_b665eb53:
 msgid "And you can't fuck a spirit, so what's the point?"
-msgstr ""
+msgstr "E non si può scopare uno spirito, quindi qual è il punto?"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:414 #-#-# translate crowdin quest_maxine_lines_locator_no_lines_9b4d66d7:
 msgid "Man, I keep checking this thing more than my phone. Nothing here, though..."
-msgstr ""
+msgstr "Uomo, continuo a controllare questa cosa più del mio telefono. Niente qui, però..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:416 #-#-# translate crowdin quest_maxine_lines_locator_no_lines_b9102ad4:
 msgid "This reminds me of my Game Boy Colour addiction! No lines drawn for either."
-msgstr ""
+msgstr "Questo mi ricorda la mia dipendenza da Game Boy Colour! Nessuna linea disegnata per entrambi."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:418 #-#-# translate crowdin quest_maxine_lines_locator_no_lines_84da0da8:
 msgid "No lines here, and maybe that's a relief."
-msgstr ""
+msgstr "Nessuna linea qui, e forse è un sollievo."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:420 #-#-# translate crowdin quest_maxine_lines_locator_no_lines_60464d0a:
 msgid "No lines here... whoever drew them must've run out of paint."
-msgstr ""
+msgstr "Nessuna linea qui... chi li ha disegnati deve aver esaurito la vernice."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:422 #-#-# translate crowdin quest_maxine_lines_locator_no_lines_6d605bbb:
 msgid "Okay, let's see if I've got any matches on Tinder... wait, this is not my phone. No lines either."
-msgstr ""
+msgstr "Va bene, vediamo se ho delle partite su Tinder... aspetta, questo non è il mio telefono. Nessuna riga neanche."
 
