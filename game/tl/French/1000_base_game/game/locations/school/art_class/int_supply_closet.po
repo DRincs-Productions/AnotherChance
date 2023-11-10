@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:55\n"
+"PO-Revision-Date: 2023-11-10 15:14\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:42 #-#-# translate crowdin school_art_class_supply_closet_interact_95047015:
 msgid "This is where all the pranksters find their equipment."
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:59 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_4cbe89e4:
 msgid "Huh?"
-msgstr ""
+msgstr "Huh?"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:60 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_e2e0789e:
 msgid "[_mc_] Is someone in there?"
@@ -110,7 +110,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:86 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:90 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_43348198:
 msgid "[_mc_] Yeah, she's in the supply closet."
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:96 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:97 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_6bd151f2:
 msgid "[_kate_s_smile_] Did you really think I was going to give you a reward?"
@@ -150,7 +150,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:103 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:106 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_5881170b:
 msgid "[_mc_] We'll need to find a way to unlock it."
@@ -234,7 +234,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:145 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:150 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_e86e654a:
 msgid "[_mc_] Sorry, I haven't seen her."
@@ -346,7 +346,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:187 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_force_open_a0ca9454:
 msgid "[_spinach_] Meow!"
-msgstr ""
+msgstr "[_spinach_] Meow !"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:192 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_force_open_10097d53:
 msgid "The cat darted out of the closet. Probably couldn't stand the company."
@@ -406,7 +406,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:217 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:221 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_37d73836:
 msgid "[_mc_] Aha! Found you!"
