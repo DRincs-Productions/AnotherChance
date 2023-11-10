@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:15\n"
+"PO-Revision-Date: 2023-11-10 16:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_cooking_pot.rpy:27 #-#-# translate crowdin school_cafeteria_cooking_pot_interact_d8dfa340:
 msgid "{i}\"If a man does not have the sauce, then he is lost. But the same man can be lost in the sauce.\"{/}"
-msgstr ""
+msgstr "{i}\" Si un homme n'a pas la sauce, alors il est perdu. Mais le même homme peut être perdu dans la sauce. \" { / }"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_cooking_pot.rpy:28 #-#-# translate crowdin school_cafeteria_cooking_pot_interact_29a1ed9d:
 msgid "They must have been talking about bolognese."
-msgstr ""
+msgstr "Ils ont dû parler de bolognese."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_cooking_pot.rpy:32 #-#-# translate crowdin school_cafeteria_cooking_pot_take_flora_cooking_chilli_1056ca3f:
 msgid "[_mc_] Hello, mind if I borrow a big pot?"
-msgstr ""
+msgstr "[_mc_] Bonjour, si j'emprunte un gros pot?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_cooking_pot.rpy:33 #-#-# translate crowdin school_cafeteria_cooking_pot_take_flora_cooking_chilli_2b35b6fe:
 msgid "[_mc_] ..."
@@ -30,9 +30,9 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_cooking_pot.rpy:34 #-#-# translate crowdin school_cafeteria_cooking_pot_take_flora_cooking_chilli_b124e2f0:
 msgid "No answer. They're too busy brewing their witch broths."
-msgstr ""
+msgstr "Pas de réponse. Ils sont trop occupés à briller leurs bouillons de sorcière."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_cooking_pot.rpy:35 #-#-# translate crowdin school_cafeteria_cooking_pot_take_flora_cooking_chilli_f8ea1bb3:
 msgid "Oh well, they probably won't miss it."
-msgstr ""
+msgstr "Oh bien, ils ne manqueront probablement pas."
 
