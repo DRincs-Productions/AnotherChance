@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:55\n"
+"PO-Revision-Date: 2023-11-10 15:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:49 #-#-# translate crowdin home_bathroom_sink_use_socks_fe062c18:
 msgid "I wonder what [kate] will think when I return her socks perfectly clean...{space=-45}"
@@ -142,7 +142,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:125 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_d9da181d:
 msgid "What the hell...?"
-msgstr ""
+msgstr "Qu'est-ce que l'enfer ...?"
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:126 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_4a588dc0:
 msgid "The nerd in the mirror is definitely younger — high school age, perhaps."
@@ -206,7 +206,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:142 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:144 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_a792a87e:
 msgid "[_mc_] Err... yes, [jo]! I'll be down in a minute!"
