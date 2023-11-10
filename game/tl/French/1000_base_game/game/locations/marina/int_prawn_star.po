@@ -10,14 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 19:15\n"
+"PO-Revision-Date: 2023-11-10 16:49\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/marina/int_prawn_star.rpy:15 #-#-# translate crowdin marina_prawn_star_interact_f7dc8d09:
 msgid "The Prawn Star's locally famous fish 'n' shrimps is not only a cheeky{space=-15}\n"
 "take on the traditional dish..."
-msgstr ""
+msgstr "Le fameux poisson'n'ratatines de Prawn Star n'est pas seulement un { space=-15 }\n"
+"prendre sur le plat traditionnel ..."
 
 # game/1000_base_game/game/locations/marina/int_prawn_star.rpy:16 #-#-# translate crowdin marina_prawn_star_interact_65f1c2ad:
 msgid "...it is also the reigning champion of the Newfall Food Fair Famine Challenge."
-msgstr ""
+msgstr "... c'est aussi le champion en titre du Newfall Food Fair Famine Challenge."
 
