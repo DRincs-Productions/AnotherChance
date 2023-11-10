@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 19:04\n"
+"PO-Revision-Date: 2023-11-10 11:14\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/water_bottle.rpy:24 #-#-# translate crowdin int_water_bottle_2c52b029:
 msgid "A bottle of liquid H2O molecules. Don't need to be a chemist to see the danger in that."
-msgstr ""
+msgstr "Una bottiglia di molecole di H2O liquide. Non c'è bisogno di essere un chimico per vedere il pericolo in questo."
 
 # game/1000_base_game/game/items/water_bottle.rpy:28 #-#-# translate crowdin consume_water_bottle_d23c4d77:
 msgid "[flora] always tells me I'm too thirsty."
-msgstr ""
+msgstr "[flora] mi dice sempre che ho troppo sete."
 
 # game/1000_base_game/game/items/water_bottle.rpy:29 #-#-# translate crowdin consume_water_bottle_d88521f8:
 msgid "Let's see if this helps."
-msgstr ""
+msgstr "Vediamo se questo aiuta."
 
 # game/1000_base_game/game/items/water_bottle.rpy:32 #-#-# translate crowdin consume_water_bottle_08113797:
 msgid "Nope. Just made it worse."
-msgstr ""
+msgstr "Nope. Appena l'ha peggiorata."
 
 # game/1000_base_game/game/items/water_bottle.rpy:38 #-#-# translate crowdin consume_water_bottle_maxine_845a5804:
 msgid "{i}*Cough, cough*{/}"
-msgstr ""
+msgstr "{i}*Tosse, tosse*{/}"
 
 # game/1000_base_game/game/items/water_bottle.rpy:39 #-#-# translate crowdin consume_water_bottle_maxine_5d1a8c04:
 msgid "What the hell?"
@@ -38,5 +38,5 @@ msgstr ""
 
 # game/1000_base_game/game/items/water_bottle.rpy:40 #-#-# translate crowdin consume_water_bottle_maxine_d43fba44:
 msgid "How did this piece of paper end up in my drink?"
-msgstr ""
+msgstr "Come è finito questo pezzo di carta nella mia bevanda?"
 
