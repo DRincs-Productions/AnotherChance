@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 18:49\n"
+"PO-Revision-Date: 2023-11-10 16:35\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/full_letter.rpy:18 #-#-# translate crowdin int_full_letter_85220737:
 msgid "{i}\"Use me if you get hungry.\"{/}"
-msgstr ""
+msgstr "{i}\"Utilisez-moi si vous avez faim.\" { / }"
 
 # game/1000_base_game/game/items/full_letter.rpy:19 #-#-# translate crowdin int_full_letter_9fd184b0:
 msgid "That's an odd request, but I guess it's different strokes for different folks. "
-msgstr ""
+msgstr "C'est une demande étrange, mais je suppose que ce sont des coups différents pour des gens différents. "
 
