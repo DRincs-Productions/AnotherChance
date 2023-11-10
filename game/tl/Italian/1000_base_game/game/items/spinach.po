@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 19:01\n"
+"PO-Revision-Date: 2023-11-10 11:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/spinach.rpy:18 #-#-# translate crowdin spinach_interact_30dabd49:
 msgid "[_spinach_s_neutral_] Meow?"
@@ -18,11 +18,11 @@ msgstr ""
 
 # game/1000_base_game/game/items/spinach.rpy:19 #-#-# translate crowdin spinach_interact_b66bea32:
 msgid "[_mc_] Shhh!"
-msgstr ""
+msgstr "[_mc_] Shhh!"
 
 # game/1000_base_game/game/items/spinach.rpy:20 #-#-# translate crowdin spinach_interact_12d500fc:
 msgid "[_mc_] Stay in my backpack, girl. I'll give you a sardine later."
-msgstr ""
+msgstr "[_mc_] Rimani nel mio zaino, ragazza. Ti darò una sardina più tardi."
 
 # game/1000_base_game/game/items/spinach.rpy:21 #-#-# translate crowdin spinach_interact_e7ac4dde:
 msgid "[_spinach_s_tongueout_] Meow!"
