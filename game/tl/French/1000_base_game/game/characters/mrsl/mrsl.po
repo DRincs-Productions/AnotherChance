@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 18:41\n"
+"PO-Revision-Date: 2023-11-10 14:45\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1201 #-#-# translate crowdin mrsl_talk_day1_take2_ffe543b6:
 msgid "[_mrsl_s_smile_] Hi, [mc]!"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1204 #-#-# translate crowdin mrsl_talk_day1_take2_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1207 #-#-# translate crowdin mrsl_talk_day1_take2_312711ab:
 msgid "[_mc_] I like your new style, [mrsl]!"
@@ -62,11 +62,11 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1227 #-#-# translate crowdin mrsl_flirt_over_7d6bfd23:
 msgid "She must be sick of my poor attempts at flirting by now..."
-msgstr ""
+msgstr "Elle doit être malade de mes mauvaises tentatives de flirter maintenant ..."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1231 #-#-# translate crowdin mrsl_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
-msgstr ""
+msgstr "Elle a probablement eu assez de mon chitchat pour aujourd'hui."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1237 #-#-# translate crowdin mrsl_talk_one_836d6358:
 msgid "[_mrsl_s_neutral_] The passion of the students is what fuels me."
@@ -146,7 +146,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1287 #-#-# translate crowdin mrsl_flirt_one_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1290 #-#-# translate crowdin mrsl_flirt_one_c936f935:
 msgid "[_mc_] Getting out of your old clothes."
@@ -202,7 +202,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1321 #-#-# translate crowdin mrsl_flirt_two_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1324 #-#-# translate crowdin mrsl_flirt_two_5cd3b523:
 msgid "[_mc_] Excited students."
@@ -246,7 +246,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1352 #-#-# translate crowdin mrsl_flirt_three_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1355 #-#-# translate crowdin mrsl_flirt_three_f9e79650:
 msgid "[_mc_] Wet floor signs."
