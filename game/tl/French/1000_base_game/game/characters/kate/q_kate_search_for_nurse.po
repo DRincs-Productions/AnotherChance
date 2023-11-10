@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 18:39\n"
+"PO-Revision-Date: 2023-11-10 14:43\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:3 #-#-# translate crowdin kate_quest_search_for_nurse_start_54d5c121:
 msgid "[_kate_s_neutral_] Excuse you. Why are you standing so near me?"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:6 #-#-# translate crowdin kate_quest_search_for_nurse_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:9 #-#-# translate crowdin kate_quest_search_for_nurse_start_3b63310c:
 msgid "[_mc_] Sorry, I didn't mean to."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:15 #-#-# translate crowdin kate_quest_search_for_nurse_start_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:21 #-#-# translate crowdin kate_quest_search_for_nurse_start_dd89ee1b:
 msgid "[_mc_] You smell nice."
@@ -74,7 +74,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:33 #-#-# translate crowdin kate_quest_search_for_nurse_start_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:35 #-#-# translate crowdin kate_quest_search_for_nurse_start_abab4804:
 msgid "[_kate_s_smile_] Wait, you're serious?"
@@ -194,7 +194,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:73 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:76 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_e9a2f801:
 msgid "[_mc_] Well, I guess I would try to be nicer to people."
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:101 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Quoi?"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:102 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_e9284188:
 msgid "[_flora_s_worried_] What did you just say?"
@@ -318,7 +318,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:120 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_11455b53_1:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Quoi?"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:121 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_1844b6ee:
 msgid "[_flora_s_confused_] You said you'd been looking for me."
@@ -366,7 +366,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:140 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:143 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_d6d91fef:
 msgid "[_mc_] Yeah, I just need to have a word with her."
@@ -390,7 +390,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:150 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:153 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_0fc0db47:
 msgid "[_mc_] I'll let you know if I find her."
@@ -510,7 +510,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:206 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:210 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_1fe5fc2b:
 msgid "[_mc_] I don't think so."
@@ -766,7 +766,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:303 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:305 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_958ed025:
 msgid "[_mc_] I'd say a rectal one is in order."
@@ -978,7 +978,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:370 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:374 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_37c7e83f:
 msgid "[_mc_] Doesn't hurt to be thorough."
