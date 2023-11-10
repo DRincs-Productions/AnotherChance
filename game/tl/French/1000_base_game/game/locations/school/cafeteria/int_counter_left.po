@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 19:19\n"
+"PO-Revision-Date: 2023-11-10 15:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:55 #-#-# translate crowdin school_cafeteria_counter_left_interact_two_0aaef48c:
 msgid "Entering the kitchen is against school regulations."
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:74 #-#-# translate crowdin school_cafeteria_counter_left_isabelle_haggis_seconds_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:75 #-#-# translate crowdin school_cafeteria_counter_left_isabelle_haggis_seconds_fde181f9:
 msgid "No one's answering, but there's still a big pot left. Not entirely surprising."
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:90 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:93 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_d97767d5:
 msgid "I'm just going to pocket this garlic and no one will—"
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:101 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_a31340dd:
 msgid "[_mc_] Really?"
-msgstr ""
+msgstr "[_mc_] Vraiement?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:102 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_d14b77ef:
 msgid "[_jo_s_angry_] No! I'm cutting your TV cable."
@@ -126,7 +126,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:113 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_fb6e33a2:
 msgid "Shit."
-msgstr ""
+msgstr "Merde."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:114 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_b879f31e:
 msgid "[_jo_s_neutral_] What do you have to say for yourself?"
