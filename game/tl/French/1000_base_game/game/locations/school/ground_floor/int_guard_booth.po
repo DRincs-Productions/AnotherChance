@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:55\n"
+"PO-Revision-Date: 2023-11-10 15:25\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:88 #-#-# translate crowdin school_ground_floor_guard_booth_interact_default_c0f68e65:
 msgid "The [guard] seems to be asleep. "
@@ -38,15 +38,15 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:101 #-#-# translate crowdin school_ground_floor_guard_booth_interact_the_key_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:103 #-#-# translate crowdin school_ground_floor_guard_booth_interact_the_key_779c051a:
 msgid "[_mc_] Yes!"
-msgstr ""
+msgstr "[_mc_] Oui !"
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:105 #-#-# translate crowdin school_ground_floor_guard_booth_interact_the_key_5233a746:
 msgid "[_guard_] ..."
-msgstr ""
+msgstr "[_guard_]..."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:106 #-#-# translate crowdin school_ground_floor_guard_booth_interact_the_key_7ef572c1:
 msgid "[_guard_] Please, sign here."
@@ -90,7 +90,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:126 #-#-# translate crowdin school_ground_floor_guard_booth_interact_isabelle_stolen_flash_drive_ff216961:
 msgid "Come on..."
-msgstr ""
+msgstr "Allez ..."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:127 #-#-# translate crowdin school_ground_floor_guard_booth_interact_isabelle_stolen_flash_drive_a20cefa7:
 msgid "..."
@@ -98,7 +98,7 @@ msgstr "..."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:128 #-#-# translate crowdin school_ground_floor_guard_booth_interact_isabelle_stolen_flash_drive_e446a283:
 msgid "Aha!"
-msgstr ""
+msgstr "Aha !"
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:129 #-#-# translate crowdin school_ground_floor_guard_booth_interact_isabelle_stolen_flash_drive_68e6a2d2:
 msgid "The surveillance footage is all mine."
