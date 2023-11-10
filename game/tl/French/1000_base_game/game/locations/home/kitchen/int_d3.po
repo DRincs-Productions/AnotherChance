@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:09\n"
+"PO-Revision-Date: 2023-11-10 16:47\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:53 #-#-# translate crowdin home_kitchen_d3_interact_flora_bonsai_d6cedc54:
 msgid "I already got enough items. I should give them to [flora]."
@@ -22,15 +22,15 @@ msgstr "Tu as ramassé un article de cuisine. C'est la bonne? Personne ne le sai
 
 # game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:64 #-#-# translate crowdin home_kitchen_d3_interact_information_da6e0357:
 msgid "This drawer contains a measuring beaker, and a bunch of shot glasses."
-msgstr ""
+msgstr "Ce tiroir contient un bécher de mesure, et un paquet de lunettes."
 
 # game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:65 #-#-# translate crowdin home_kitchen_d3_interact_information_481651be:
 msgid "Apart from my ego, this is where all the fragile things are."
-msgstr ""
+msgstr "En dehors de mon ego, c'est là que sont toutes les choses fragiles."
 
 # game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:74 #-#-# translate crowdin flora_quest_flora_cooking_chilli_d3_distraction_7a21bb09:
 msgid "I can probably use something in here to make a distraction."
-msgstr ""
+msgstr "Je peux probablement utiliser quelque chose ici pour faire une distraction."
 
 # game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:76 #-#-# translate crowdin flora_quest_flora_cooking_chilli_d3_distraction_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -38,9 +38,9 @@ msgstr "[_extend_]  [nointeract]"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:75
 msgid "Measuring Beaker"
-msgstr ""
+msgstr "Mesure du bécher"
 
 # game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:75
 msgid "Shot Glass"
-msgstr ""
+msgstr "Verre de verre"
 
