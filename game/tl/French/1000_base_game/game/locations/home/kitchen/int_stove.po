@@ -10,39 +10,39 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:11\n"
+"PO-Revision-Date: 2023-11-10 16:48\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:35 #-#-# translate crowdin home_kitchen_stove_interact_327b112f:
 msgid "Right. After the last incident, [jo] put safety locks on the stove."
-msgstr ""
+msgstr "D'accord. Après le dernier incident, le [jo] place des serrures de sécurité sur le poêle."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:39 #-#-# translate crowdin home_kitchen_stove_interact_boil_c31700a0:
 msgid "After the last incident, I no longer have stove privileges."
-msgstr ""
+msgstr "Après le dernier incident, je n'ai plus de privilèges de poêle."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:40 #-#-# translate crowdin home_kitchen_stove_interact_boil_e18dd89d:
 msgid "Only [jo] and [flora] knows the twelve-digit code to the safety lock."
-msgstr ""
+msgstr "Seuls les codes [jo] et [flora] connaissent le code à douze chiffres du verrou de sécurité."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:41 #-#-# translate crowdin home_kitchen_stove_interact_boil_437ead8f:
 msgid "I need to find another way to boil these leaves."
-msgstr ""
+msgstr "Je dois trouver un autre moyen de faire bouillir ces feuilles."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:47 #-#-# translate crowdin quest_jo_pot_stove_93706af8:
 msgid "Two minutes to midnight and the world is on fire. It's high time to add water and leaves, then sit back and enjoy a cup of tea."
-msgstr ""
+msgstr "Deux minutes à minuit et le monde est en feu. Il est grand temps d'ajouter de l'eau et des feuilles, puis de s'asseoir et de déguster une tasse de thé."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:51 #-#-# translate crowdin quest_jo_pot_stove_6873c992:
 msgid "I'm all for experimenting with cooking, but boiling water on my [item.title_lower] is too Frankenstein even for me."
-msgstr ""
+msgstr "Je suis tout pour expérimenter avec la cuisine, mais l'eau bouillante sur mon [item.title_lower] est trop Frankenstein même pour moi."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:57 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_0c8cd162:
 msgid "Okay, time to toss that caesar salad..."
-msgstr ""
+msgstr "Ok, le temps de jeter cette salade caesar ..."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:63 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_223df4be:
 msgid "Best to keep the Whooshster™ Sauce. Never know when it might come in handy."
-msgstr ""
+msgstr "Le meilleur pour garder la Whooshster™ Sauce. Ne sait jamais quand il pourrait venir à la main."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:64 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_a20cefa7:
 msgid "..."
@@ -50,47 +50,47 @@ msgstr "..."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:67 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_7b923e6a:
 msgid "Okay, the salad is done."
-msgstr ""
+msgstr "Ok, la salade est faite."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:68 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_45c68d37:
 msgid "Now to wait for [jacklyn]."
-msgstr ""
+msgstr "Maintenant, pour attendre [jacklyn]."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:84 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_4da9d435:
 msgid "My first date ever and I refuse to do even the most basic of preparations?"
-msgstr ""
+msgstr "Ma première date et je refuse de faire les préparatifs les plus basique?"
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:85 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_b8ce7c6b:
 msgid "Suprising? No."
-msgstr ""
+msgstr "Susoulèvement? Non."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:86 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_90592855:
 msgid "Disappointing? Yes."
-msgstr ""
+msgstr "Dénommant? Oui."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:87 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_fd8cfc9a:
 msgid "I know I can do better."
-msgstr ""
+msgstr "Je sais que je peux faire mieux."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:88 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_e7bf2fac:
 msgid "How do you even make a salad without garlic?"
-msgstr ""
+msgstr "Comment faire une salade sans ail?"
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:89 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_6e3d0870:
 msgid "That's like a pizza without cheese."
-msgstr ""
+msgstr "C'est comme une pizza sans fromage."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:90 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_18c8f142:
 msgid "The school kitchen should have a few cloves to spare."
-msgstr ""
+msgstr "La cuisine de l'école devrait avoir quelques gousses à épargner."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:101 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_59001665:
 msgid "Still missing the[missingstring]"
-msgstr ""
+msgstr "Toujours manquant le[missingstring]"
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:102 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_28d513c5:
 msgid "But let's be honest, you probably don't need every ingredient to make a good salad."
-msgstr ""
+msgstr "Mais soyons honnêtes, vous n'avez probablement pas besoin de chaque ingrédient pour faire une bonne salade."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:104 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -98,15 +98,15 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:106 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_1a818ea8:
 msgid "Honestly, following recipes is for sheep and people who are afraid of trying new flavors..."
-msgstr ""
+msgstr "Honnêtement, les recettes sont pour les moutons et les gens qui ont peur d'essayer de nouvelles saveurs ..."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:107 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_e021b1e2:
 msgid "It'll be fine."
-msgstr ""
+msgstr "Ça ira bien."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:113 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_223df4be:
 msgid "Best to keep the Whooshster™ Sauce. Never know when it might come in handy."
-msgstr ""
+msgstr "Le meilleur pour garder la Whooshster™ Sauce. Ne sait jamais quand il pourrait venir à la main."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:114 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_a20cefa7:
 msgid "..."
@@ -114,21 +114,21 @@ msgstr "..."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:117 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_7b923e6a:
 msgid "Okay, the salad is done."
-msgstr ""
+msgstr "Ok, la salade est faite."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:118 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_45c68d37:
 msgid "Now to wait for [jacklyn]."
-msgstr ""
+msgstr "Maintenant, pour attendre [jacklyn]."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:126 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_76b139fa:
 msgid "Mmm, yeah... probably best to follow the recipe."
-msgstr ""
+msgstr "Mmm, ouais ... probablement mieux de suivre la recette."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:103
 msgid "Proceed without the missing ingredients"
-msgstr ""
+msgstr "Passer sans les ingrédients manquants"
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:103
 msgid "Do it right"
-msgstr ""
+msgstr "Fais-le bien"
 
