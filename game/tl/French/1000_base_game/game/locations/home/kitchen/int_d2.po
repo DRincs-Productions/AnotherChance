@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 19:12\n"
+"PO-Revision-Date: 2023-11-10 15:09\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_d2.rpy:53 #-#-# translate crowdin home_kitchen_d2_interact_flora_bonsai_d6cedc54:
 msgid "I already got enough items. I should give them to [flora]."
-msgstr ""
+msgstr "J'ai déjà assez d'articles. Je devrais leur donner le [flora]."
 
 # game/1000_base_game/game/locations/home/kitchen/int_d2.rpy:59 #-#-# translate crowdin home_kitchen_d2_interact_flora_bonsai_c1c15586:
 msgid "You picked up a cooking item. Is it the right one? No one knows."
-msgstr ""
+msgstr "Tu as ramassé un article de cuisine. C'est la bonne? Personne ne le sait."
 
 # game/1000_base_game/game/locations/home/kitchen/int_d2.rpy:64 #-#-# translate crowdin home_kitchen_d2_interact_information_c9e7f806:
 msgid "This drawer contains a cutting board, a grater, and a pan."
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/kitchen/int_d2.rpy:76 #-#-# translate crowdin flora_quest_flora_cooking_chilli_d2_distraction_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/kitchen/int_d2.rpy:75
 msgid "Cutting Board"
