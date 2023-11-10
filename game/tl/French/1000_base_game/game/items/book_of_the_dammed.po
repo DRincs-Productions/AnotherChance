@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 18:44\n"
+"PO-Revision-Date: 2023-11-10 16:32\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/book_of_the_dammed.rpy:18 #-#-# translate crowdin book_of_the_dammed_interact_3570fe06:
 msgid "{i}\"Contains foul language and dangerous information. Read with extreme caution.\"{/}"
-msgstr ""
+msgstr "{i}\" Contient un langage grossir et des informations dangereuses. Lisez avec une extrême prudence. \" { / }"
 
 # game/1000_base_game/game/items/book_of_the_dammed.rpy:19 #-#-# translate crowdin book_of_the_dammed_interact_71b3349f:
 msgid "Why is there a disclaimer on the first page of this book?"
-msgstr ""
+msgstr "Pourquoi y a-t­il une clause de non-responsabilité sur la première page de ce livre?"
 
