@@ -11,21 +11,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 19:06\n"
+"PO-Revision-Date: 2023-11-10 16:44\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bathroom/int_laundry_instructions.rpy:15 #-#-# translate crowdin home_laundry_instructions_interact_f0b204be:
 msgid "{i}\"Step 1: Fill the sink with hot water.\"{/}"
-msgstr ""
+msgstr "{i}\"Etape 1: Remplir l'évier avec de l'eau chaude.\" { / }"
 
 # game/1000_base_game/game/locations/home/bathroom/int_laundry_instructions.rpy:16 #-#-# translate crowdin home_laundry_instructions_interact_27ba714b:
 msgid "{i}\"Step 2: Add laundry detergent.\"{/}"
-msgstr ""
+msgstr "{i}\"Etape 2: Ajouter un détergent à lessive.\" { / }"
 
 # game/1000_base_game/game/locations/home/bathroom/int_laundry_instructions.rpy:17 #-#-# translate crowdin home_laundry_instructions_interact_1a465992:
 msgid "{i}\"Step 3: Wash the clothes in the laundry basket.\"{/}"
-msgstr ""
+msgstr "{i}\"Etape 3: Lavez les vêtements dans le panier.\" { / }"
 
 # game/1000_base_game/game/locations/home/bathroom/int_laundry_instructions.rpy:18 #-#-# translate crowdin home_laundry_instructions_interact_dace9cde:
 msgid "{i}\"Step 4: Hang the laundry to dry.\"{/}"
-msgstr ""
+msgstr "{i}\"Etape 4: Raccrochez le linge à sec.\" { / }"
 
