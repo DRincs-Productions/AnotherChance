@@ -10,57 +10,57 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 19:26\n"
+"PO-Revision-Date: 2023-11-10 16:55\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:39 #-#-# translate crowdin school_first_hall_vending_interact_1ad8eef7:
 msgid "This vending machine hasn't been stocked yet. It currently only offers lollipops and water bottles."
-msgstr ""
+msgstr "Ce distributeur n'a pas encore été approvisionné. Il n'offre actuellement que des lollipops et des bouteilles d'eau."
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:44 #-#-# translate crowdin school_first_hall_vending_interact_8a60d6f4:
 msgid "Nothing in life is free."
-msgstr ""
+msgstr "Rien dans la vie n'est libre."
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:48 #-#-# translate crowdin school_first_hall_vending_interact_ce3d23da:
 msgid "Who would spend their life savings on a lollipop?"
-msgstr ""
+msgstr "Qui dépenserait leurs économies de vie sur une lollipop?"
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:52 #-#-# translate crowdin school_first_hall_vending_interact_157f5e26:
 msgid "Back in the day, my granny bought a twelve acre farm and a three story villa for this price."
-msgstr ""
+msgstr "De retour dans la journée, ma nourrice a acheté une ferme de douze acres et une villa de trois étages pour ce prix."
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:53 #-#-# translate crowdin school_first_hall_vending_interact_3e9343ac:
 msgid "After the Great War, water bottles became a luxury item."
-msgstr ""
+msgstr "Après la Grande Guerre, les bouteilles d'eau sont devenues un objet de luxe."
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:54 #-#-# translate crowdin school_first_hall_vending_interact_96219f60:
 msgid "Affording one is not only a staple of wealth, it is a social badge of refinement."
-msgstr ""
+msgstr "Il ne s'agit pas seulement d'un aliment de base, mais d'un écusson social de raffinement."
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:60 #-#-# translate crowdin school_first_hall_vending_interact_kate_search_for_nurse_83c00893:
 msgid "Someone bought up half the lollipop stock."
-msgstr ""
+msgstr "Quelqu'un a acheté la moitié du stock de lollipop."
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:61 #-#-# translate crowdin school_first_hall_vending_interact_kate_search_for_nurse_b78fe751:
 msgid "The wrappers are everywhere..."
-msgstr ""
+msgstr "Les enveloppeurs sont partout ..."
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:62 #-#-# translate crowdin school_first_hall_vending_interact_kate_search_for_nurse_d6a031d3:
 msgid "Everyone knows the [nurse] is a hopeless stress eater."
-msgstr ""
+msgstr "Tout le monde sait que le [nurse] est un mangeur de stress sans espoir."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:40
 msgid "?mc.money>=1@[mc.money]/1|{image=ui hud icon_money}|{image=items lollipop_1 }|Lollipop"
-msgstr ""
+msgstr "? mc.money> =1@[mc.money]/1 | { image=ui hud icon_money } | { image=items lollipop_1 } | Lollipop"
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:40
 msgid "?mc.money>=50@[mc.money]/50|{image=ui hud icon_money}|{image=items lollipop_2 }|Big Lollipop"
-msgstr ""
+msgstr "? mc.money> =50 @[mc.money]/50 | { image=ui hud icon_money } | { image=items lollipop_2 } | Big Lollipop"
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:40
 msgid "?mc.money>=100@[mc.money]/100|{image=ui hud icon_money}|{image=items bottle water_bottle }|Bottle of Water"
-msgstr ""
+msgstr "? mc.money> =100 @[mc.money]/100 | { image=ui hud icon_money } | { image=items bouteille water_bouteille } | Bouteille d'eau"
 
 # game/1000_base_game/game/locations/school/first_hall/int_vending.rpy:40
 msgid "Nothing for now"
-msgstr ""
+msgstr "Rien pour l'instant"
 
