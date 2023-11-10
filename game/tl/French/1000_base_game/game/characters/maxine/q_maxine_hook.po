@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:54\n"
+"PO-Revision-Date: 2023-11-10 14:45\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:3 #-#-# translate crowdin quest_maxine_hook_start_8a0e7ef1:
 msgid "[_mc_] Hey, [maxine]! What are you doing?"
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:9 #-#-# translate crowdin quest_maxine_hook_start_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:10 #-#-# translate crowdin quest_maxine_hook_start_a77fe206:
 msgid "[_mc_] What were you doing right before you started talking to me?"
@@ -290,7 +290,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:101 #-#-# translate crowdin quest_maxine_hook_wake_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:102 #-#-# translate crowdin quest_maxine_hook_wake_03226406:
 msgid "[_maxine_s_thinking_] ..."
@@ -310,7 +310,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:108 #-#-# translate crowdin quest_maxine_hook_wake_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:111 #-#-# translate crowdin quest_maxine_hook_wake_ae105fa0:
 msgid "[_mc_] I'm not lying!"
@@ -354,7 +354,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:121 #-#-# translate crowdin quest_maxine_hook_wake_9930ed4b:
 msgid "[_mc_] Great."
-msgstr ""
+msgstr "[_mc_] Grand."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:122 #-#-# translate crowdin quest_maxine_hook_wake_f4bf0b8b:
 msgid "[_maxine_s_annoyed_] It would be for you, since your questions seem to be endless."
@@ -630,7 +630,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:214 #-#-# translate crowdin quest_maxine_hook_lindsey_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:217 #-#-# translate crowdin quest_maxine_hook_lindsey_f5451d50:
 msgid "[_mc_] You look like a princess today."
@@ -642,7 +642,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:220 #-#-# translate crowdin quest_maxine_hook_lindsey_95c7633a:
 msgid "[_mc_] Are you okay?"
-msgstr ""
+msgstr "[_mc_] Etes-vous d'accord?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:221 #-#-# translate crowdin quest_maxine_hook_lindsey_6f2a664b:
 msgid "[_lindsey_s_smile_] It's just so much right now with everything. I feel a bit overwhelmed..."
@@ -842,7 +842,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:305 #-#-# translate crowdin quest_maxine_hook_glade_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:308 #-#-# translate crowdin quest_maxine_hook_glade_5a129ff4:
 msgid "[_mc_] Yeah, but little animals don't snap twigs..."
@@ -866,7 +866,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:315 #-#-# translate crowdin quest_maxine_hook_glade_95c7633a:
 msgid "[_mc_] Are you okay?"
-msgstr ""
+msgstr "[_mc_] Etes-vous d'accord?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:316 #-#-# translate crowdin quest_maxine_hook_glade_d0a0474c:
 msgid "[_isabelle_s_neutral_] For the most part. Wandering through the forest is therapeutic to me.{space=-35}"
@@ -1150,7 +1150,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:419 #-#-# translate crowdin quest_maxine_hook_glade_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:422 #-#-# translate crowdin quest_maxine_hook_glade_1fe5fc2b_1:
 msgid "[_mc_] I don't think so."
@@ -1218,7 +1218,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:444 #-#-# translate crowdin quest_maxine_hook_glade_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:445 #-#-# translate crowdin quest_maxine_hook_glade_54871a23:
 msgid "[_mc_] Aren't you going to open it?"
@@ -1230,7 +1230,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:447 #-#-# translate crowdin quest_maxine_hook_glade_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:448 #-#-# translate crowdin quest_maxine_hook_glade_f30ad74a:
 msgid "[_mc_] When?"
@@ -1442,7 +1442,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:563 #-#-# translate crowdin quest_maxine_hook_dig_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:566 #-#-# translate crowdin quest_maxine_hook_dig_b7e0b20e:
 msgid "[_mc_] No, I'm not."
@@ -1554,7 +1554,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:615 #-#-# translate crowdin quest_maxine_hook_dig_use_item_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:618 #-#-# translate crowdin quest_maxine_hook_dig_use_item_195fe6f2:
 msgid "[_mc_] Don't you need help carrying it?"
@@ -1690,7 +1690,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:699 #-#-# translate crowdin quest_maxine_hook_night_school_entrance_door_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:701 #-#-# translate crowdin quest_maxine_hook_night_school_entrance_door_e4a08f52:
 msgid "Maybe [jo] is working late and can give me a ride home?"
@@ -1758,7 +1758,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:732 #-#-# translate crowdin quest_maxine_hook_day_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:736 #-#-# translate crowdin quest_maxine_hook_day_3604fa3d:
 msgid "[_mc_] You'll have to drag me there."
@@ -2138,7 +2138,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:923 #-#-# translate crowdin quest_maxine_hook_thief_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:926 #-#-# translate crowdin quest_maxine_hook_thief_3c492be8:
 msgid "[_mc_] What if I report you?"
@@ -2154,7 +2154,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:929 #-#-# translate crowdin quest_maxine_hook_thief_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:930 #-#-# translate crowdin quest_maxine_hook_thief_ba662d0e:
 msgid "[_mc_] Fine. I won't say anything."
@@ -2198,7 +2198,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:953 #-#-# translate crowdin quest_maxine_hook_thief_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:955 #-#-# translate crowdin quest_maxine_hook_thief_04465160:
 msgid "[_mc_] This makes absolutely no sense..."
@@ -2454,7 +2454,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1041 #-#-# translate crowdin quest_maxine_hook_table_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1045 #-#-# translate crowdin quest_maxine_hook_table_eda91528:
 msgid "[_maxine_s_hooking_up_orgasm_hands_behind_back_] Oh! That was something else!"
@@ -2474,7 +2474,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1049 #-#-# translate crowdin quest_maxine_hook_table_9930ed4b:
 msgid "[_mc_] Great."
-msgstr ""
+msgstr "[_mc_] Grand."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1050 #-#-# translate crowdin quest_maxine_hook_table_bf1a5d4c:
 msgid "[_maxine_s_hooking_up_flirty_hands_behind_back_] Turn the power on again!"
@@ -2482,7 +2482,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1051 #-#-# translate crowdin quest_maxine_hook_table_55310c42:
 msgid "[_mc_] Seriously?"
-msgstr ""
+msgstr "[_mc_] Sérieusement?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1052 #-#-# translate crowdin quest_maxine_hook_table_e8aeb4dd:
 msgid "[_maxine_s_hooking_up_flirty_hands_behind_back_] Yes! Higher voltage!"
@@ -2578,7 +2578,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1092 #-#-# translate crowdin quest_maxine_hook_table_95c7633a:
 msgid "[_mc_] Are you okay?"
-msgstr ""
+msgstr "[_mc_] Etes-vous d'accord?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1093 #-#-# translate crowdin quest_maxine_hook_table_bb512488:
 msgid "[_maxine_s_hooking_up_out_of_it_hands_behind_back_] I... I saw it..."
