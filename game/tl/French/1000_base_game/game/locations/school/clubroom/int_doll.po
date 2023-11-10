@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:55\n"
+"PO-Revision-Date: 2023-11-10 15:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:17 #-#-# translate crowdin school_clubroom_doll_interact_42443d95:
 msgid "Spinach keeps hissing at it. A cat is never wrong about these things."
@@ -34,11 +34,11 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:30 #-#-# translate crowdin maxine_lines_doll_prison_746b3321:
 msgid "[_maxine_s_sad_] ..."
-msgstr ""
+msgstr "[_maxine_s_sad_]..."
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:31 #-#-# translate crowdin maxine_lines_doll_prison_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Quoi?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:32 #-#-# translate crowdin maxine_lines_doll_prison_48a2035d:
 msgid "[_maxine_s_thinking_] There are bigger dangers than the saucer-eyed doll still lurking in the shadows."
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:35 #-#-# translate crowdin maxine_lines_doll_prison_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:38 #-#-# translate crowdin maxine_lines_doll_prison_617aff28:
 msgid "[_mc_] We'll pick them off together, one by one!"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:46 #-#-# translate crowdin maxine_lines_doll_prison_f34c4f12:
 msgid "[_maxine_s_laughing_] Don't be ridiculous!"
-msgstr ""
+msgstr "[_maxine_s_laughing_] Ne pas être ridicule !"
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:47 #-#-# translate crowdin maxine_lines_doll_prison_4db914e6:
 msgid "[_maxine_s_angry_] We could never take it on."
