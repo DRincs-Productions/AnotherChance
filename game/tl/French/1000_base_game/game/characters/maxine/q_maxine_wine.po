@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 08:54\n"
+"PO-Revision-Date: 2023-11-10 14:45\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:2 #-#-# translate crowdin quest_maxine_wine_start_4c8369be:
 msgid "[_maxine_] I already know what you're going to say..."
@@ -122,7 +122,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:38 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:41 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_40ca1bf8:
 msgid "[_mc_] What's wrong with Ben?"
@@ -182,7 +182,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:59 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:60 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_7e00e9ab:
 msgid "[_mc_] Anyway..."
@@ -282,7 +282,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:92 #-#-# translate crowdin quest_maxine_wine_flora_deal_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:95 #-#-# translate crowdin quest_maxine_wine_flora_deal_970d7b46:
 msgid "[_mc_] What if I juggle balls?"
@@ -338,7 +338,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:111 #-#-# translate crowdin quest_maxine_wine_flora_deal_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:113 #-#-# translate crowdin quest_maxine_wine_flora_deal_d69711d4:
 msgid "[_mc_] I've trained my heart through hours in the gym just so it would squirt blood on you if this ever happened."
@@ -474,7 +474,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:149 #-#-# translate crowdin quest_maxine_wine_flora_deal_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:150 #-#-# translate crowdin quest_maxine_wine_flora_deal_26dffa1e:
 msgid "[_flora_s_flirty_] Riiight?"
@@ -498,7 +498,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:161 #-#-# translate crowdin quest_maxine_wine_flora_pin_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:162 #-#-# translate crowdin quest_maxine_wine_flora_pin_0be52cad:
 msgid "[_flora_s_skeptical_] Oh."
@@ -522,7 +522,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:169 #-#-# translate crowdin quest_maxine_wine_flora_pin_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:172 #-#-# translate crowdin quest_maxine_wine_flora_pin_32c30ed3:
 msgid "[_mc_] Let me smell your hand, then."
@@ -590,7 +590,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:189 #-#-# translate crowdin quest_maxine_wine_flora_pin_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:192 #-#-# translate crowdin quest_maxine_wine_flora_pin_1d06297b:
 msgid "[_mc_] I have questions about your internship."
@@ -766,7 +766,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:238 #-#-# translate crowdin quest_maxine_wine_flora_pin_2613b4ef:
 msgid "[_flora_s_annoyed_] ..."
-msgstr ""
+msgstr "[_flora_s_annoyed_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:239 #-#-# translate crowdin quest_maxine_wine_flora_pin_3f81b008:
 msgid "[_mc_] Bye!"
@@ -826,7 +826,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:264 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:267 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_8bd96642:
 msgid "[_mc_] How did you get this job?"
@@ -910,7 +910,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:290 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:291 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_0d8f1e98:
 msgid "The things she says..."
@@ -994,7 +994,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:317 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:318 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_4b590074:
 msgid "[_jacklyn_s_laughing_] I'm just tugging your bandana!"
@@ -1062,7 +1062,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:342 #-#-# translate crowdin quest_maxine_wine_make_a_move_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:345 #-#-# translate crowdin quest_maxine_wine_make_a_move_2c6ea062:
 msgid "[_mc_] What about Uranus?"
@@ -1082,7 +1082,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:350 #-#-# translate crowdin quest_maxine_wine_make_a_move_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:351 #-#-# translate crowdin quest_maxine_wine_make_a_move_032cd2ce:
 msgid "Knowing [maxine], she probably did mean that."
@@ -1146,7 +1146,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:371 #-#-# translate crowdin quest_maxine_wine_make_a_move_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:372 #-#-# translate crowdin quest_maxine_wine_make_a_move_70cbbd06:
 msgid "[_maxine_s_confident_] ..."
@@ -1210,7 +1210,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:390 #-#-# translate crowdin quest_maxine_wine_make_a_move_a31340dd:
 msgid "[_mc_] Really?"
-msgstr ""
+msgstr "[_mc_] Vraiement?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:391 #-#-# translate crowdin quest_maxine_wine_make_a_move_deb3096b:
 msgid "[_maxine_s_sad_] You engage in a lot of aimless and sometimes circular walking."
