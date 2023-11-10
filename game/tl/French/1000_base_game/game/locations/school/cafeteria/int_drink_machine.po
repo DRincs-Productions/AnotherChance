@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:15\n"
+"PO-Revision-Date: 2023-11-10 16:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:39 #-#-# translate crowdin school_cafeteria_drink_machine_interact_5ff67c8d:
 msgid "This thing would be more interesting if it worked more like an actual fountain, spraying soda into the ceiling..."
-msgstr ""
+msgstr "Cette chose serait plus intéressante si elle fonctionnait plus comme une fontaine réelle, arrosant le soda dans le plafond ..."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:46 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_90c42596:
 msgid "All right... the choice is simple, but..."
-msgstr ""
+msgstr "D'accord ... le choix est simple, mais ..."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:48 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -26,82 +26,83 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:53 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_strawberry_juice_a932a750:
 msgid "Yes! At long last!"
-msgstr ""
+msgstr "Oui ! En dernier !"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:61 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_banana_milk_34738e3a:
 msgid "The weird smell and sickly yellow color put most people off."
-msgstr ""
+msgstr "L'odeur bizarre et la couleur jaune drépandit la plupart des gens."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:62 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_banana_milk_f413dadb:
 msgid "The milky banana taste takes care of the rest."
-msgstr ""
+msgstr "Le goût laiteux de la banane prend soin du reste."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:68 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_seven_hp_5730a1a8:
 msgid "The jocks always drink this crap. Tastes like watered-down Sprite."
-msgstr ""
+msgstr "Les jocks boivent toujours cette merde. Des Tastes comme le Sprite à diluer."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:74 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_salted_cola_d6a8dc40:
 msgid "Tastes like cold semen. [mrsl] is the only person who likes this\n"
 "foul liquid."
-msgstr ""
+msgstr "Les Tastes aiment le sperme froid. [mrsl] est la seule personne qui aime ce liquide\n"
+"."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:80 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_pepelepsi_b234df0a:
 msgid "There was an article in the school paper about this drink once — said it contained traces of amphetamine."
-msgstr ""
+msgstr "Il y avait un article dans le journal de l'école sur cette boisson une fois-dit qu'il contenait des traces d'amphétamines."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:81 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_pepelepsi_2ad006bf:
 msgid "Not sure if that was ever confirmed..."
-msgstr ""
+msgstr "Pas sûr si cela a été confirmé ..."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:86 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_pepelepsi_66cf29fc:
 msgid "Right, this thing isn't free. Damn it."
-msgstr ""
+msgstr "Bien, cette chose n'est pas libre. Merde."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:88 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_pepelepsi_8ecb7e55:
 msgid "If I want to refill this bottle with a different liquid, I should probably empty it first..."
-msgstr ""
+msgstr "Si je veux recharger cette bouteille avec un liquide différent, je devrais probablement la vider d'abord ..."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:90 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_pepelepsi_d1fba470:
 msgid "While pouring soda on my [item.title_lower] seems like a good idea in theory, it's a bit less effective in practice."
-msgstr ""
+msgstr "Alors que verser soda sur mon [item.title_lower] semble une bonne idée en théorie, c'est un peu moins efficace dans la pratique."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_strawberry_juice_small}|{vspace=5}Strawberry Juice"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=spray_strawberry_juice_small } | { vspace= 5 } Strawberry Juice"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=strawberry_juice_small}|{vspace=5}Strawberry Juice"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=strawberry_juice_small } | { vspace= 5 } Strawberry Juice"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_banana_milk_small}|{vspace=5}Banana Milk"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=spray_banana_milk_small } | { vspace= 5 } Lait Banana"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=banana_milk_small}|{vspace=5}Banana Milk"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=banana_milk_small } | { vspace= 5 } Lait Banana"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_seven_hp_small}|{vspace=5}Seven HP"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=spray_seven_hp_small } | { vspace= 5 } Seven HP"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=seven_hp_small}|{vspace=5}Seven HP"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=seven_hp_small } | { vspace= 5 } Seven HP"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_salted_cola_small}|{vspace=5}Salted Cola"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=spray_salted_cola_small } | { vspace= 5 } Salted Cola"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=salted_cola_small}|{vspace=5}Salted Cola"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=salted_cola_small } | { vspace= 5 } Salted Cola"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_pepelepsi_small}|{vspace=5}Pepelepsi"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui icon_money } | { space=20 } { image=spray_pepelepsi_small } | { vspace= 5 } Pepelepsi"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=pepelepsi_small}|{vspace=5}Pepelepsi"
-msgstr ""
+msgstr "[mc.money]/1 | { image=ui icon_money } | { space=20 } { image=pepelepsi_small } | { vspace= 5 } Pepelepsi"
 
