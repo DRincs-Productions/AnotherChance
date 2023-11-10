@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-09 18:41\n"
+"PO-Revision-Date: 2023-11-10 08:54\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:3 #-#-# translate crowdin quest_maxine_lines_start_81141839:
 msgid "[maxine] always seems to be investigating something, and it's usually best not to ask any questions..."
@@ -1730,7 +1730,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:576 #-#-# translate crowdin quest_maxine_lines_helpinghand_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:577 #-#-# translate crowdin quest_maxine_lines_helpinghand_bc0f8ca1:
 msgid "Never thought I'd unzip in the entrance hall..."
