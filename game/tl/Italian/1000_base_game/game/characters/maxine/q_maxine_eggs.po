@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 18:40\n"
+"PO-Revision-Date: 2023-11-14 09:16\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:2 #-#-# translate crowdin quest_maxine_eggs_start_7b81f9fd:
 msgid "[_maxine_] You have to schedule an appointment. I'm a very busy woman."
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:10 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:13 #-#-# translate crowdin quest_maxine_eggs_start_35520496:
 msgid "[_mc_] I guess I'd like to schedule an appointment."
@@ -62,7 +62,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:21 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:24 #-#-# translate crowdin quest_maxine_eggs_start_2253b51e:
 msgid "[_mc_] What if I help you out?"
@@ -118,7 +118,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:44 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:47 #-#-# translate crowdin quest_maxine_eggs_start_0dded477:
 msgid "[_mc_] There's no catch. I know how hard you work for the school paper."
@@ -330,7 +330,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:122 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:125 #-#-# translate crowdin quest_maxine_eggs_start_2253b51e_1:
 msgid "[_mc_] What if I help you out?"
@@ -358,7 +358,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:139 #-#-# translate crowdin quest_maxine_eggs_start_journalist_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:142 #-#-# translate crowdin quest_maxine_eggs_start_journalist_77f7bb82:
 msgid "[_mc_] Photography is one of my biggest interests."
@@ -590,11 +590,11 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:227 #-#-# translate crowdin quest_maxine_eggs_computer_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:228 #-#-# translate crowdin quest_maxine_eggs_computer_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:229 #-#-# translate crowdin quest_maxine_eggs_computer_214eb7fd:
 msgid "Whenever I enter my password, I get an error."
@@ -698,7 +698,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:256 #-#-# translate crowdin quest_maxine_eggs_computer_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:258 #-#-# translate crowdin quest_maxine_eggs_computer_ecd32dce:
 msgid "[_mc_] I'm a changed man! I've learned from my mistakes. I {i}love{/} learning..."
@@ -898,7 +898,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:326 #-#-# translate crowdin quest_maxine_eggs_deliver_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:327 #-#-# translate crowdin quest_maxine_eggs_deliver_a1e1de7d:
 msgid "[_maxine_s_skeptical_] I don't think it's worth the risk."
@@ -930,7 +930,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:336 #-#-# translate crowdin quest_maxine_eggs_deliver_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:339 #-#-# translate crowdin quest_maxine_eggs_deliver_8d4e7c5c:
 msgid "[_mc_] If anything happens, I'll help you out. I promise."
@@ -1238,7 +1238,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:437 #-#-# translate crowdin quest_maxine_eggs_deliver_11455b53_1:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:438 #-#-# translate crowdin quest_maxine_eggs_deliver_a8d26b6e:
 msgid "What does that even mean? Did Spider-Man finally hook up with Mary Jane?"
@@ -1322,7 +1322,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:474 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:478 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_5e074d3a:
 msgid "[_mc_] You've caught me after the clock struck twelve. This is how I really look."
@@ -1406,7 +1406,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:507 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:510 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_d4358764:
 msgid "[_mc_] Not really, no."
@@ -1594,7 +1594,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:574 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:577 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_347b27fb:
 msgid "[_mc_] There's an infestation of radioactive spiders here. I've come to save the day."
@@ -1890,7 +1890,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:666 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:669 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_cf2143f0:
 msgid "It's too good of an opportunity to pass up on... plus, she'll be none the wiser."
@@ -1902,7 +1902,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:671 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:673 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_98139b64:
 msgid "There she is! Still wrapped up in her towel like a cute little present."
@@ -1990,7 +1990,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:697 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_a20cefa7_1:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:698 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_1fe115cf:
 msgid "Girls all pretend they're above going to the toilet."
@@ -2230,7 +2230,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:790 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:793 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_40784947:
 msgid "[_mc_] Aren't you surprised in the slightest?"
