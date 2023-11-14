@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 18:36\n"
+"PO-Revision-Date: 2023-11-14 09:13\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:8 #-#-# translate crowdin quest_isabelle_locker_start_95c7633a:
 msgid "[_mc_] Are you okay?"
@@ -62,7 +62,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:22 #-#-# translate crowdin quest_isabelle_locker_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:25 #-#-# translate crowdin quest_isabelle_locker_start_1eaafac2:
 msgid "[_mc_] Nothing besides questioning as many people as possible."
@@ -298,7 +298,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:105 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:108 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_6de1e072:
 msgid "[_mc_] Can't [flora] do it?"
@@ -486,7 +486,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:185 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:186 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_f672430a:
 msgid "[_maxine_s_eyeroll_] What?"
@@ -514,7 +514,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:194 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:197 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_afdfe631:
 msgid "[_mc_] Nobody. What plans are you talking about?"
@@ -702,7 +702,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:273 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_11455b53_1:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:274 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_5d0aaf2f:
 msgid "[_maxine_s_thinking_] You're made up of memories. That's all a person is. A memory container."
@@ -758,7 +758,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:292 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_brb_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:298 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_pay_12340752:
 msgid "[_mc_] All information has a price. I'm willing to pay."
@@ -778,7 +778,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:302 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_pay_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:303 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_pay_1d017330:
 msgid "[_maxine_s_thinking_] You heard me."
@@ -1290,7 +1290,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:453 #-#-# translate crowdin quest_isabelle_locker_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:457 #-#-# translate crowdin quest_isabelle_locker_talk_cebecb78:
 msgid "[_mc_] Give me your panties."
@@ -1434,7 +1434,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:516 #-#-# translate crowdin quest_isabelle_locker_catnap_maxine_back_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:519 #-#-# translate crowdin quest_isabelle_locker_catnap_maxine_back_941078b8:
 msgid "[_mc_] What do you think about the new art teacher?"
@@ -2046,7 +2046,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:818 #-#-# translate crowdin quest_isabelle_locker_email_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:821 #-#-# translate crowdin quest_isabelle_locker_email_4eb49f5c:
 msgid "Might as well flex on this skinny nerd."
@@ -2078,7 +2078,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:835 #-#-# translate crowdin quest_isabelle_locker_email_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:838 #-#-# translate crowdin quest_isabelle_locker_email_ca75a63b:
 msgid "[_mc_] I'll compose it."
@@ -2294,7 +2294,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:926 #-#-# translate crowdin quest_isabelle_locker_wait_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:929 #-#-# translate crowdin quest_isabelle_locker_wait_78a02766:
 msgid "[_mc_] That's enough, [isabelle]."
@@ -2502,7 +2502,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:997 #-#-# translate crowdin quest_isabelle_locker_wait_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:998 #-#-# translate crowdin quest_isabelle_locker_wait_8c9a9800:
 msgid "[_isabelle_s_straddling_kiss_] ..."
@@ -3062,7 +3062,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1652 #-#-# translate crowdin quest_isabelle_locker_wait_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1657 #-#-# translate crowdin quest_isabelle_locker_wait_43ede6f7:
 msgid "My dick spasms inside her, shooting my load deep into her pussy."
