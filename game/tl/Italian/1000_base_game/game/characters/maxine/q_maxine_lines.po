@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 18:41\n"
+"PO-Revision-Date: 2023-11-14 09:17\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:3 #-#-# translate crowdin quest_maxine_lines_start_81141839:
 msgid "[maxine] always seems to be investigating something, and it's usually best not to ask any questions..."
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:20 #-#-# translate crowdin quest_maxine_lines_start_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:21 #-#-# translate crowdin quest_maxine_lines_start_c3ce82ca_1:
 msgid "[_maxine_s_skeptical_] How many lamps are there in the ceiling?"
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:25 #-#-# translate crowdin quest_maxine_lines_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:28 #-#-# translate crowdin quest_maxine_lines_start_ed7e15a7:
 msgid "[_mc_] Thirteen."
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:122 #-#-# translate crowdin maxine_lines_locator_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:125 #-#-# translate crowdin maxine_lines_locator_1d4ec855:
 msgid "[_mc_] Check your calendar."
@@ -554,7 +554,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:178 #-#-# translate crowdin maxine_lines_locator_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:181 #-#-# translate crowdin maxine_lines_locator_bff3a6eb:
 msgid "[_mc_] One."
@@ -822,7 +822,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:265 #-#-# translate crowdin maxine_lines_reward_interact_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:268 #-#-# translate crowdin maxine_lines_reward_interact_maxine_8d19adbe:
 msgid "[_mc_] You know the answer to that."
@@ -1106,7 +1106,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:363 #-#-# translate crowdin quest_maxine_lines_insight_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:366 #-#-# translate crowdin quest_maxine_lines_insight_3248dd49:
 msgid "[_mc_] You absolutely did!"
@@ -1146,7 +1146,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:377 #-#-# translate crowdin quest_maxine_lines_insight_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:380 #-#-# translate crowdin quest_maxine_lines_insight_29861232:
 msgid "[_mc_] We're done testing."
@@ -1238,7 +1238,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:405 #-#-# translate crowdin quest_maxine_lines_insight_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:406 #-#-# translate crowdin quest_maxine_lines_insight_fa8511b6:
 msgid "[_maxine_s_blush_] Nothing. The experiment is over."
@@ -1626,7 +1626,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:524 #-#-# translate crowdin quest_maxine_lines_unscrew_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:527 #-#-# translate crowdin quest_maxine_lines_unscrew_5de725a8:
 msgid "[_mc_] No! That's not what I meant!"
@@ -1730,7 +1730,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:576 #-#-# translate crowdin quest_maxine_lines_helpinghand_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:577 #-#-# translate crowdin quest_maxine_lines_helpinghand_bc0f8ca1:
 msgid "Never thought I'd unzip in the entrance hall..."
