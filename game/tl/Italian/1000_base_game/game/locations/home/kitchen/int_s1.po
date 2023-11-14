@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 19:13\n"
+"PO-Revision-Date: 2023-11-14 09:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_s1.rpy:53 #-#-# translate crowdin home_kitchen_s1_interact_flora_bonsai_d6cedc54:
 msgid "I already got enough items. I should give them to [flora]."
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/kitchen/int_s1.rpy:73 #-#-# translate crowdin flora_quest_flora_cooking_chilli_s1_distraction_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/kitchen/int_s1.rpy:72
 msgid "Apron"
