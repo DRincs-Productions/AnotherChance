@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 18:41\n"
+"PO-Revision-Date: 2023-11-14 09:17\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3 #-#-# translate crowdin mrsl_quest_HOT_start_9598f0ee:
 msgid "[mrsl] seems lost in thought. Her eyes wander slowly over the gym."
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:13 #-#-# translate crowdin mrsl_quest_HOT_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:17 #-#-# translate crowdin mrsl_quest_HOT_start_fa7cdc9b:
 msgid "[_mc_] How much?"
@@ -158,7 +158,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:59 #-#-# translate crowdin mrsl_quest_HOT_start_deal_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:63 #-#-# translate crowdin mrsl_quest_HOT_start_deal_08ad240c:
 msgid "[_mc_] Here you go."
@@ -382,7 +382,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:142 #-#-# translate crowdin mrsl_quest_HOT_eavesdrop_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:143 #-#-# translate crowdin mrsl_quest_HOT_eavesdrop_52a73c27:
 msgid "It went very quiet all of a sudden. I should probably get going before they find me eavesdropping."
@@ -418,7 +418,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:158 #-#-# translate crowdin mrsl_quest_lindsey_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:161 #-#-# translate crowdin mrsl_quest_lindsey_talk_acea0f5f:
 msgid "[_mc_] I didn't mean anything bad by it."
@@ -530,7 +530,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:201 #-#-# translate crowdin mrsl_quest_lindsey_talk_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:205 #-#-# translate crowdin mrsl_quest_lindsey_talk_bd8e263c:
 msgid "[_mc_] I agree with [flora]. You have nothing to worry about, [lindsey]!"
@@ -570,7 +570,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:221 #-#-# translate crowdin mrsl_quest_lindsey_talk_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:226 #-#-# translate crowdin mrsl_quest_lindsey_talk_45eb2876:
 msgid "[_mc_] Which time? I didn't know we were keeping track."
@@ -682,7 +682,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:270 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:273 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_d140ed82:
 msgid "[_mc_] Sure, [jo]!"
@@ -942,7 +942,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:391 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:392 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_76f33e6a:
 msgid "[_jo_s_neutral_] You heard me, young man."
@@ -998,7 +998,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:407 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:410 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_1277451d:
 msgid "[_mc_] Life is more than just grades, [jo]."
@@ -1242,7 +1242,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:492 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:496 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_1b7607c2:
 msgid "[_mc_] Why do you always assume I'm in trouble when talking to [jo]?"
@@ -1262,7 +1262,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:500 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:501 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_885428c8:
 msgid "[_jo_s_displeased_] What is she talking about, [mc]?"
@@ -1454,7 +1454,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:566 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:569 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_f0a72fbc:
 msgid "[_mc_] None of your goddamn business."
