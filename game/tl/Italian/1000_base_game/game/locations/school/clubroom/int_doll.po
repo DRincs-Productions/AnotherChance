@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 19:19\n"
+"PO-Revision-Date: 2023-11-14 09:45\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:17 #-#-# translate crowdin school_clubroom_doll_interact_42443d95:
 msgid "Spinach keeps hissing at it. A cat is never wrong about these things."
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:31 #-#-# translate crowdin maxine_lines_doll_prison_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:32 #-#-# translate crowdin maxine_lines_doll_prison_48a2035d:
 msgid "[_maxine_s_thinking_] There are bigger dangers than the saucer-eyed doll still lurking in the shadows."
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:35 #-#-# translate crowdin maxine_lines_doll_prison_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:38 #-#-# translate crowdin maxine_lines_doll_prison_617aff28:
 msgid "[_mc_] We'll pick them off together, one by one!"
@@ -126,7 +126,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:64 #-#-# translate crowdin maxine_lines_doll_prison_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:65 #-#-# translate crowdin maxine_lines_doll_prison_15ac3446:
 msgid "[maxine] seems like the right person to ask for help in solving my time travelling mystery."
