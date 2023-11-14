@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 11:07\n"
+"PO-Revision-Date: 2023-11-14 09:27\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/maxine_letter.rpy:21 #-#-# translate crowdin maxine_letter_combine_c405c6b3:
 msgid "[maxine] isn't exactly the easiest person to deal with."
@@ -22,7 +22,7 @@ msgstr "Scrivere per lei richiede un tocco speciale. Una certa abilità. Hmm..."
 
 # game/1000_base_game/game/items/maxine_letter.rpy:24 #-#-# translate crowdin maxine_letter_combine_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:37 #-#-# translate crowdin maxine_letter_combine_f0844281:
 msgid "{i}\"[maxineletterbegin]\"{/}"
@@ -46,7 +46,7 @@ msgstr "{i}\"Mi dispiace per la fine, ho esaurito le belle parole.\"{/}"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:43 #-#-# translate crowdin maxine_letter_combine_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/items/maxine_letter.rpy:56 #-#-# translate crowdin maxine_letter_combine_51d2e266:
 msgid "{i}\"[maxineletterend]\"{/}"
