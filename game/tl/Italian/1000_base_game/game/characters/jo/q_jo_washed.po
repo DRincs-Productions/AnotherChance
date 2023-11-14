@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 18:38\n"
+"PO-Revision-Date: 2023-11-14 09:14\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:43 #-#-# translate crowdin quest_jo_washed_start_0d7bce5a:
 msgid "Sometimes when life gets rough, it's easier to just escape."
@@ -297,7 +297,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:164 #-#-# translate crowdin quest_jo_washed_start_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:165 #-#-# translate crowdin quest_jo_washed_start_b6734dce:
 msgid "The cars are already here, so I should probably get started."
@@ -341,7 +341,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:191 #-#-# translate crowdin quest_jo_washed_supplies_reminder_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:192 #-#-# translate crowdin quest_jo_washed_supplies_reminder_08309069:
 msgid "[_flora_s_embarrassed_] Can't you see the cars?! Why aren't you helping?!"
@@ -413,7 +413,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:209 #-#-# translate crowdin quest_jo_washed_supplies_reminder_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:210 #-#-# translate crowdin quest_jo_washed_supplies_reminder_0a036c56:
 msgid "It was really hard to focus on anything while thinking about her\n"
@@ -631,7 +631,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:295 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:298 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_af1a956a:
 msgid "[_mc_] The blight can wait. I need the hose."
@@ -969,7 +969,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:432 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:435 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_b3ff8ff9:
 msgid "Just thinking about the next part makes my cheek burn in shame."
@@ -1085,7 +1085,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:498 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:504 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_3020c50d:
 msgid "I probably shouldn't have let her walk all over me like this, but I\n"
@@ -1334,7 +1334,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:638 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:641 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_c6825dba:
 msgid "[_mc_] It's fine! I got this."
@@ -1625,7 +1625,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:774 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:777 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_fe0878bf:
 msgid "[_mc_] Know the truth."
@@ -2418,7 +2418,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1114 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_a20cefa7:
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1115 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_0ddb574d:
 msgid "Someone was definitely crying in one of the stalls."
@@ -2617,7 +2617,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1168 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1171 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_14c337f9:
 msgid "[_mc_] You look incredible, [jo]."
