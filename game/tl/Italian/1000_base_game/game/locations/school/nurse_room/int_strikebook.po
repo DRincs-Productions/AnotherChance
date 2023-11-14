@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 19:43\n"
+"PO-Revision-Date: 2023-11-14 10:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:17 #-#-# translate crowdin school_nurse_room_strikebook_interact_331c5bce:
 msgid "Let's see here..."
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:23 #-#-# translate crowdin school_nurse_room_strikebook_interact_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:22
 msgid "?nurse_strikes_text>=1@1 strike|{image=school nurse_room strikebook}|Forced nudity (Office)"
