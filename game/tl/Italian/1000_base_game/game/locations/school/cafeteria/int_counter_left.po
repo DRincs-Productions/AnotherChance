@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 19:19\n"
+"PO-Revision-Date: 2023-11-14 09:45\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:55 #-#-# translate crowdin school_cafeteria_counter_left_interact_two_0aaef48c:
 msgid "Entering the kitchen is against school regulations."
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:90 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:93 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_d97767d5:
 msgid "I'm just going to pocket this garlic and no one will—"
