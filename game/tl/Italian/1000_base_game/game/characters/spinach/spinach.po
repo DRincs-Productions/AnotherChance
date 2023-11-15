@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 18:42\n"
+"PO-Revision-Date: 2023-11-15 14:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/spinach/spinach.rpy:209 #-#-# translate crowdin spinach_talk_hide_ff1922d5:
 msgid "[_spinach_] ..."
@@ -102,7 +102,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:262 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_706736d3:
 msgid "[_mc_] Oh, no!"
-msgstr ""
+msgstr "[_mc_] Oh, no!"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:263 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_33f8d010:
 msgid "[_spinach_s_hearteyed_] Meow!"
