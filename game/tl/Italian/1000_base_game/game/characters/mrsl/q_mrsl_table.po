@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-14 09:17\n"
+"PO-Revision-Date: 2023-11-15 14:02\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:27 #-#-# translate crowdin quest_mrsl_table_start_11f39de7:
 msgid "[_mrsl_s_flirty_] Why, thank you!"
-msgstr ""
+msgstr "[_mrsl_s_flirty_] Perché, grazie!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:30 #-#-# translate crowdin quest_mrsl_table_start_703bf3f8:
 msgid "[_mc_] I wanted to ask you about the swim team tryout."
@@ -818,7 +818,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:481 #-#-# translate crowdin quest_mrsl_table_flora_1c0d51e6:
 msgid "[_flora_s_cringe_] W-what?"
-msgstr ""
+msgstr "[_flora_s_cringe_] W-cosa?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:482 #-#-# translate crowdin quest_mrsl_table_flora_40bd7746:
 msgid "[_mc_] Anyway, you didn't notice that you flooded the bathroom and knocked over the laundry basket?"
@@ -954,11 +954,11 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:518 #-#-# translate crowdin quest_mrsl_table_flora_b3fe7560:
 msgid "[_mc_] Goodnight, [flora]!"
-msgstr ""
+msgstr "[_mc_] Buongiorno, [flora]!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:519 #-#-# translate crowdin quest_mrsl_table_flora_c352e87e:
 msgid "[_flora_s_annoyed_texting_] Night."
-msgstr ""
+msgstr "[_flora_s_annoyed_texting_] Notte."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:529 #-#-# translate crowdin quest_mrsl_table_sleep_1969ec4c:
 msgid "Ugh, what time is it?"
@@ -974,7 +974,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:544 #-#-# translate crowdin quest_mrsl_table_totally_bawling_bf3bf7c2:
 msgid "[_flora_s_crying_] How could you?"
-msgstr ""
+msgstr "[_flora_s_crying_] Come potevi?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:545 #-#-# translate crowdin quest_mrsl_table_totally_bawling_11455b53:
 msgid "[_mc_] What?"
@@ -1042,7 +1042,7 @@ msgstr "[_mc_] Cosa?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:579 #-#-# translate crowdin quest_mrsl_table_morning_5959d64d:
 msgid "[_kate_s_smile_] You heard me."
-msgstr ""
+msgstr "[_kate_s_smile_] Mi hai sentito."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:580 #-#-# translate crowdin quest_mrsl_table_morning_df295d3a:
 msgid "[_mc_] Why are you here, then?"
@@ -1078,7 +1078,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:592 #-#-# translate crowdin quest_mrsl_table_morning_9717989e:
 msgid "[_lacey_] Exciting!"
-msgstr ""
+msgstr "[_lacey_] Eccitante!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:593 #-#-# translate crowdin quest_mrsl_table_morning_c24dfc84:
 msgid "[_kate_s_confident_] Looks like this will be an interesting day, after all."
@@ -1322,7 +1322,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:686 #-#-# translate crowdin quest_mrsl_table_school_homeroom_door_talk_d728ab42:
 msgid "[_lacey_] I did!"
-msgstr ""
+msgstr "[_lacey_] Ho fatto!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:687 #-#-# translate crowdin quest_mrsl_table_school_homeroom_door_talk_15d4a291:
 msgid "[_mc_] You did?"
@@ -1570,7 +1570,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:795 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_e219c056:
 msgid "[_kate_] But—"
-msgstr ""
+msgstr "[_kate_] Ma—"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:796 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_90df5bc9:
 msgid "[_jo_] No buts, [kate]. The school is supposed to be closed today, your cheer practice is the exception."
@@ -1622,7 +1622,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:812 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_cc2f72da:
 msgid "[_jo_s_under_desk_closed_legs_] Come in!"
-msgstr ""
+msgstr "[_jo_s_under_desk_closed_legs_] Vieni in!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:815 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_0b9fb1ef:
 msgid "[_jo_s_under_desk_closed_legs_] [maya]? What are you doing here today? School's closed!"
@@ -1670,7 +1670,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:826 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_1968f3cb:
 msgid "What the hell is going on?"
-msgstr ""
+msgstr "Che diavolo sta succedendo?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:827 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_a0021e43:
 msgid "[_jo_s_under_desk_open_legs_] Well, were you a bad kitty?"
@@ -1710,7 +1710,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:838 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_30d800c7:
 msgid "[_mc_] What the hell is going on?!"
-msgstr ""
+msgstr "[_mc_] Che diavolo sta succedendo?!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:840 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_2c11373b:
 msgid "[_maya_] Meep!"
@@ -2046,7 +2046,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:996 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_af2e0f5c:
 msgid "[_jo_s_under_desk_tongue5_] Fuck!"
-msgstr ""
+msgstr "[_jo_s_under_desk_tongue5_] Scopata!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:997 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_db362f77:
 msgid "Don't swear, [jo]."
