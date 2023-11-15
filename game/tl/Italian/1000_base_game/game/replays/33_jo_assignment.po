@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-14 10:12\n"
+"PO-Revision-Date: 2023-11-15 14:59\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/33_jo_assignment.rpy:6 #-#-# translate crowdin replay_jo_assignment_0b9fb1ef:
 msgid "[_jo_s_under_desk_closed_legs_] [maya]? What are you doing here today? School's closed!"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/1000_base_game/game/replays/33_jo_assignment.rpy:17 #-#-# translate crowdin replay_jo_assignment_1968f3cb:
 msgid "What the hell is going on?"
-msgstr ""
+msgstr "Che diavolo sta succedendo?"
 
 # game/1000_base_game/game/replays/33_jo_assignment.rpy:18 #-#-# translate crowdin replay_jo_assignment_a0021e43:
 msgid "[_jo_s_under_desk_open_legs_] Well, were you a bad kitty?"
@@ -98,7 +98,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/replays/33_jo_assignment.rpy:29 #-#-# translate crowdin replay_jo_assignment_30d800c7:
 msgid "[_mc_] What the hell is going on?!"
-msgstr ""
+msgstr "[_mc_] Che diavolo sta succedendo?!"
 
 # game/1000_base_game/game/replays/33_jo_assignment.rpy:31 #-#-# translate crowdin replay_jo_assignment_2c11373b:
 msgid "[_maya_] Meep!"
@@ -406,7 +406,7 @@ msgstr ""
 
 # game/1000_base_game/game/replays/33_jo_assignment.rpy:162 #-#-# translate crowdin replay_jo_assignment_af2e0f5c:
 msgid "[_jo_s_under_desk_tongue5_] Fuck!"
-msgstr ""
+msgstr "[_jo_s_under_desk_tongue5_] Scopata!"
 
 # game/1000_base_game/game/replays/33_jo_assignment.rpy:163 #-#-# translate crowdin replay_jo_assignment_db362f77:
 msgid "Don't swear, [jo]."
