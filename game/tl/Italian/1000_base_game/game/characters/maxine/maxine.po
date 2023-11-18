@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-14 09:16\n"
+"PO-Revision-Date: 2023-11-18 16:29\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/maxine.rpy:1595 #-#-# translate crowdin maxine_talk_one_e47f2210:
 msgid "[_maxine_s_afraid_] Not now, the Vending Corporation is trying to pull the wool over my eyes!"
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1625 #-#-# translate crowdin maxine_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
-msgstr ""
+msgstr "Probabilmente ha avuto abbastanza delle mie chitchat per oggi."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1630 #-#-# translate crowdin maxine_flirt_default_55addcd6:
 msgid "[_maxine_s_skeptical_] [mc], I really would suggest the acquiescence of your preferred pimple cream."
@@ -210,7 +210,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1716 #-#-# translate crowdin maxine_flirt_three_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1721 #-#-# translate crowdin maxine_flirt_three_d3566e58:
 msgid "[_mc_] I've been trying to correct my past."
@@ -306,7 +306,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1756 #-#-# translate crowdin maxine_flirt_over_7d6bfd23:
 msgid "She must be sick of my poor attempts at flirting by now..."
-msgstr ""
+msgstr "Deve essere stufa dei miei poveri tentativi di flirtare ora..."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/maxine/maxine.rpy:1639
 msgid "\"The specimen in Area 12.\""
