@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-14 09:16\n"
+"PO-Revision-Date: 2023-11-18 16:29\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4 #-#-# translate crowdin quest_lindsey_angel_start_9b346f38:
 msgid "[_guard_] Good morning, Newfall High. This is your administrator speaking."
@@ -206,7 +206,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:78 #-#-# translate crowdin quest_lindsey_angel_good_news_fa45f281:
 msgid "[_mc_] Thanks..."
-msgstr ""
+msgstr "[_mc_] Grazie..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:79 #-#-# translate crowdin quest_lindsey_angel_good_news_1bb46dc4:
 msgid "[_jo_s_sarcastic_bag_] I don't know if they're allowing more visitors yet, but..."
@@ -279,7 +279,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:105 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_11bedf1c:
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:106 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_2efc9c1e:
 msgid "Maybe the [nurse] could help me?"
@@ -319,7 +319,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:122 #-#-# translate crowdin quest_lindsey_angel_nurse_3d996037:
 msgid "[_mc_] What are you talking about?"
-msgstr ""
+msgstr "[_mc_] Di cosa stai parlando?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:123 #-#-# translate crowdin quest_lindsey_angel_nurse_976ce29d:
 msgid "[_nurse_s_concerned_] You didn't know? Oh, I'm so sorry. It's not my place to tell."
@@ -375,7 +375,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:141 #-#-# translate crowdin quest_lindsey_angel_nurse_cff7deb3:
 msgid "[_nurse_s_annoyed_] ..."
-msgstr ""
+msgstr "[_nurse_s_annoyed_] ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:142 #-#-# translate crowdin quest_lindsey_angel_nurse_4a2ab17e:
 msgid "[_nurse_s_annoyed_] I don't think I understand..."
@@ -567,11 +567,11 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:224 #-#-# translate crowdin quest_lindsey_angel_keycard_school_ground_floor_computer_room_door_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:228 #-#-# translate crowdin quest_lindsey_angel_keycard_school_ground_floor_homeroom_door_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:232 #-#-# translate crowdin quest_lindsey_angel_keycard_school_ground_floor_exit_arrow_d9b9bebd:
 msgid "Not without the [nurse]'s keycard, smart one."
@@ -579,23 +579,23 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:236 #-#-# translate crowdin quest_lindsey_angel_keycard_school_ground_floor_cafeteria_doors_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:240 #-#-# translate crowdin quest_lindsey_angel_keycard_school_ground_floor_guard_booth_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:244 #-#-# translate crowdin quest_lindsey_angel_keycard_school_ground_floor_janitor_door_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:248 #-#-# translate crowdin quest_lindsey_angel_keycard_school_ground_floor_science_class_door_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:252 #-#-# translate crowdin quest_lindsey_angel_keycard_school_ground_floor_west_principal_door_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:256 #-#-# translate crowdin quest_lindsey_angel_keycard_school_nurse_room_c66e6142:
 msgid "All right, let's see here..."
@@ -607,39 +607,39 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:262 #-#-# translate crowdin quest_lindsey_angel_keycard_school_roof_landing_door_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:266 #-#-# translate crowdin quest_lindsey_angel_keycard_school_first_hall_west_door_art_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:270 #-#-# translate crowdin quest_lindsey_angel_keycard_school_first_hall_west_door_english_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:274 #-#-# translate crowdin quest_lindsey_angel_keycard_school_first_hall_west_door_music_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:278 #-#-# translate crowdin quest_lindsey_angel_keycard_school_first_hall_west_door_library_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:282 #-#-# translate crowdin quest_lindsey_angel_keycard_school_first_hall_east_door_gym_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:286 #-#-# translate crowdin quest_lindsey_angel_keycard_school_first_hall_east_door_pool_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:290 #-#-# translate crowdin quest_lindsey_angel_keycard_school_first_hall_east_door_bathroom_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:294 #-#-# translate crowdin quest_lindsey_angel_keycard_school_first_hall_east_door_locker_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:298 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_787744f0:
 msgid "I need a way to get into the science classroom without being seen..."
@@ -778,19 +778,19 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:375 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_4d49d164:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr ""
+msgstr "[_guard_] Chiamata {i}...{/}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:376 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_187f3109:
 msgid "[_guard_] {i}...{/}"
-msgstr ""
+msgstr "[_guard_] {i}...{/}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:377 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_4d49d164_1:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr ""
+msgstr "[_guard_] Chiamata {i}...{/}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:378 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_187f3109_1:
 msgid "[_guard_] {i}...{/}"
-msgstr ""
+msgstr "[_guard_] {i}...{/}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:380 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_5abb1537:
 msgid "Hopefully, the [guard] will take the bait."
@@ -929,7 +929,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:463 #-#-# translate crowdin quest_lindsey_angel_escape_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:466 #-#-# translate crowdin quest_lindsey_angel_escape_2c37b7fe:
 msgid "This is so weird..."
@@ -973,7 +973,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:478 #-#-# translate crowdin quest_lindsey_angel_escape_5e44a000:
 msgid "[_mc_] Right..."
-msgstr ""
+msgstr "[_mc_] A Destra..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:479 #-#-# translate crowdin quest_lindsey_angel_escape_414f63c3:
 msgid "[_mc_] Who are you?"
@@ -986,7 +986,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:481 #-#-# translate crowdin quest_lindsey_angel_escape_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:482 #-#-# translate crowdin quest_lindsey_angel_escape_e1250b83:
 msgid "[_mc_] What are you?"
@@ -1022,7 +1022,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:490 #-#-# translate crowdin quest_lindsey_angel_escape_2447c87a:
 msgid "[_mc_] Excuse me?"
-msgstr ""
+msgstr "[_mc_] Mi scusa?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:491 #-#-# translate crowdin quest_lindsey_angel_escape_c2c6b6ae:
 msgid "[_cyberia_] You aided my escape\n"
@@ -1301,7 +1301,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:631 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9950ab28:
 msgid "Oh, my god..."
-msgstr ""
+msgstr "Oh, mio dio..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:632 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f18119e4:
 msgid "I don't know what I was expecting, but damn..."
@@ -1469,7 +1469,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:680 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_bc4f1a33:
 msgid "[_mc_] Right?"
-msgstr ""
+msgstr "[_mc_] Destra?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:681 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9c289b81:
 msgid "[_lindsey_s_hospital_bed_s_sad_] I... I don't know..."
@@ -1629,7 +1629,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:725 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3f871f46:
 msgid "[_mc_] Hmm?"
-msgstr ""
+msgstr "[_mc_] Hmm?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:726 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_fac575a8:
 msgid "[_lindsey_s_hospital_bed_s_sad_] I keep seeing it..."
@@ -1826,7 +1826,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:781 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:782 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1324168d:
 msgid "[_mc_] When I thought you were gone... and then when they weren't sure if you would wake up..."
