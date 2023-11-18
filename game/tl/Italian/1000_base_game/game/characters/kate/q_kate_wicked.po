@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-14 09:15\n"
+"PO-Revision-Date: 2023-11-18 16:28\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:20 #-#-# translate crowdin quest_kate_wicked_start_ccd3f5c7:
 msgid "[_kate_s_confident_] I thought I heard someone being noisy over here."
@@ -114,7 +114,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:55 #-#-# translate crowdin quest_kate_wicked_start_4bbe5891:
 msgid "[_mc_] Sorry..."
-msgstr ""
+msgstr "[_mc_] Sorry..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:56 #-#-# translate crowdin quest_kate_wicked_start_2876dba1:
 msgid "[_kate_s_neutral_] Are we clear?"
@@ -122,7 +122,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:57 #-#-# translate crowdin quest_kate_wicked_start_35dce81c:
 msgid "[_mc_] Yes, ma'am."
-msgstr ""
+msgstr "[_mc_] Sì, ma'am."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:59 #-#-# translate crowdin quest_kate_wicked_start_70761405:
 msgid "[_kate_s_confident_] Good."
@@ -154,7 +154,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:66 #-#-# translate crowdin quest_kate_wicked_start_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:67 #-#-# translate crowdin quest_kate_wicked_start_bdb0cdb3:
 msgid "[_kate_s_excited_] You're going to call [jo] over here. And when she gets here, you're going to ask her for the key to the music classroom."
@@ -162,7 +162,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:68 #-#-# translate crowdin quest_kate_wicked_start_2876efd9:
 msgid "[_mc_] Why?"
-msgstr ""
+msgstr "[_mc_] Perché?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:69 #-#-# translate crowdin quest_kate_wicked_start_303630fe:
 msgid "[_kate_s_excited_] Because I said so."
@@ -222,7 +222,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:87 #-#-# translate crowdin quest_kate_wicked_start_acc26762:
 msgid "[_mc_] I guess..."
-msgstr ""
+msgstr "[_mc_] indovino..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:88 #-#-# translate crowdin quest_kate_wicked_start_9a762dc8:
 msgid "[_kate_s_smile_] Stop joking and get to it."
@@ -242,7 +242,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:95 #-#-# translate crowdin quest_kate_wicked_start_5875a1bf:
 msgid "[_mc_] Fine..."
-msgstr ""
+msgstr "[_mc_] Fine..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:96 #-#-# translate crowdin quest_kate_wicked_start_988734d1:
 msgid "[_kate_s_skeptical_] Is there a problem?"
@@ -308,19 +308,19 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:138 #-#-# translate crowdin quest_kate_wicked_phone_call_4d49d164:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr ""
+msgstr "[_guard_] Chiamata {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:139 #-#-# translate crowdin quest_kate_wicked_phone_call_187f3109:
 msgid "[_guard_] {i}...{/}"
-msgstr ""
+msgstr "[_guard_] {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:140 #-#-# translate crowdin quest_kate_wicked_phone_call_4d49d164_1:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr ""
+msgstr "[_guard_] Chiamata {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:141 #-#-# translate crowdin quest_kate_wicked_phone_call_187f3109_1:
 msgid "[_guard_] {i}...{/}"
-msgstr ""
+msgstr "[_guard_] {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:145 #-#-# translate crowdin quest_kate_wicked_phone_call_397c741f:
 msgid "[_jo_] Hi, honey!"
@@ -464,7 +464,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:210 #-#-# translate crowdin quest_kate_wicked_phone_call_5e44a000:
 msgid "[_mc_] Right..."
-msgstr ""
+msgstr "[_mc_] A Destra..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:211 #-#-# translate crowdin quest_kate_wicked_phone_call_f4aad5d7:
 msgid "[_jo_s_excited_] So, why didn't she come ask me herself?"
@@ -549,7 +549,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:245 #-#-# translate crowdin quest_kate_wicked_phone_call_3ca6e109:
 msgid "[_mc_] Thanks, [jo]!"
-msgstr ""
+msgstr "[_mc_] Grazie, [jo]!"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:246 #-#-# translate crowdin quest_kate_wicked_phone_call_cbb7297a:
 msgid "[_jo_s_confident_] You're very welcome. See you after school!"
@@ -577,7 +577,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:259 #-#-# translate crowdin quest_kate_wicked_phone_call_kate_716019b8:
 msgid "[_mc_] Right."
-msgstr ""
+msgstr "[_mc_] Destra."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:260 #-#-# translate crowdin quest_kate_wicked_phone_call_kate_eb349388:
 msgid "[_kate_s_neutral_] So, did you get the key?"
@@ -638,7 +638,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:281 #-#-# translate crowdin quest_kate_wicked_phone_call_kate_fa45f281:
 msgid "[_mc_] Thanks..."
-msgstr ""
+msgstr "[_mc_] Grazie..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:282 #-#-# translate crowdin quest_kate_wicked_phone_call_kate_0f46a390:
 msgid "[_kate_s_excited_] Don't look so sad! You needed the makeover."
@@ -695,7 +695,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:301 #-#-# translate crowdin quest_kate_wicked_phone_call_kate_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:302 #-#-# translate crowdin quest_kate_wicked_phone_call_kate_8c547852:
 msgid "That's messed up, even for [kate]."
@@ -727,7 +727,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:309 #-#-# translate crowdin quest_kate_wicked_phone_call_kate_fa45f281_1:
 msgid "[_mc_] Thanks..."
-msgstr ""
+msgstr "[_mc_] Grazie..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:310 #-#-# translate crowdin quest_kate_wicked_phone_call_kate_a1d95bc8:
 msgid "[_kate_s_smile_] Good. Now if you'll excuse me, I have a party to plan."
@@ -828,7 +828,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:356 #-#-# translate crowdin quest_kate_wicked_costume_shop_2df2b661:
 msgid "Now to wait for the delivery..."
-msgstr ""
+msgstr "Ora di aspettare la consegna..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:361 #-#-# translate crowdin quest_kate_wicked_school_717a7c76:
 msgid "[_kate_s_neutral_] You there."
@@ -836,7 +836,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:362 #-#-# translate crowdin quest_kate_wicked_school_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:363 #-#-# translate crowdin quest_kate_wicked_school_63834ba8:
 msgid "[_kate_s_confident_] Yes, I'm talking to you."
@@ -852,7 +852,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:366 #-#-# translate crowdin quest_kate_wicked_school_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:367 #-#-# translate crowdin quest_kate_wicked_school_6fe03a8d:
 msgid "[_mc_] I'll do my best..."
@@ -920,7 +920,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:392 #-#-# translate crowdin quest_kate_wicked_school_08530240:
 msgid "[_kate_s_neutral_] What?"
-msgstr ""
+msgstr "[_kate_s_neutral_] Cosa?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:393 #-#-# translate crowdin quest_kate_wicked_school_d030b8f8:
 msgid "[_mc_] Why not have the party somewhere else?"
@@ -960,7 +960,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:403 #-#-# translate crowdin quest_kate_wicked_school_e45cd792:
 msgid "[_mc_] Gee, thanks."
-msgstr ""
+msgstr "[_mc_] Gee, grazie."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:404 #-#-# translate crowdin quest_kate_wicked_school_678b77b3:
 msgid "[_kate_s_embarrassed_] Don't give me attitude."
@@ -1056,7 +1056,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:476 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:477 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_1e6abd80:
 msgid "[_mc_] There you go..."
@@ -1112,7 +1112,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:493 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:494 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_7be24f3d:
 msgid "[_kate_s_laughing_] It's only polite!"
@@ -1120,7 +1120,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:495 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_5875a1bf:
 msgid "[_mc_] Fine..."
-msgstr ""
+msgstr "[_mc_] Fine..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:496 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_306439ed:
 msgid "[_kate_s_confident_] Good boy."
@@ -1168,7 +1168,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:512 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_11bedf1c:
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:513 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_5082556c:
 msgid "How about a ghost? Being invisible is already kind of my thing."
@@ -1212,7 +1212,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:540 #-#-# translate crowdin quest_kate_wicked_costume_locked_3043db92:
 msgid "Locked."
-msgstr ""
+msgstr "Bloccato."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:544 #-#-# translate crowdin quest_kate_wicked_costume_first_hall_c2efd801:
 msgid "Damn, the flashlight of the [guard] is coming up the stairs..."
@@ -1236,7 +1236,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:554 #-#-# translate crowdin quest_kate_wicked_costume_first_hall_stairs_5875a1bf:
 msgid "[_mc_] Fine..."
-msgstr ""
+msgstr "[_mc_] Fine..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:559 #-#-# translate crowdin quest_kate_wicked_costume_sports_wing_4b19a064:
 msgid "Huh? What the hell?"
@@ -1252,7 +1252,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:568 #-#-# translate crowdin quest_kate_wicked_costume_entrance_hall_stairs_61fae46f:
 msgid "Crap."
-msgstr ""
+msgstr "Crap."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:571 #-#-# translate crowdin quest_kate_wicked_costume_entrance_hall_stairs_fb6e090e:
 msgid "[_guard_s_angry_flashlight_] Guess I'll have to throw you out myself..."
@@ -1260,7 +1260,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:572 #-#-# translate crowdin quest_kate_wicked_costume_entrance_hall_stairs_ebec935a:
 msgid "Well, shit."
-msgstr ""
+msgstr "Beh, merda."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:589 #-#-# translate crowdin quest_kate_wicked_costume_exterior_181117cb:
 msgid "Oh, well. So much for that party."
@@ -1380,19 +1380,19 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:639 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_4d49d164:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr ""
+msgstr "[_guard_] Chiamata {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:640 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_187f3109:
 msgid "[_guard_] {i}...{/}"
-msgstr ""
+msgstr "[_guard_] {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:641 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_4d49d164_1:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr ""
+msgstr "[_guard_] Chiamata {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:642 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_187f3109_1:
 msgid "[_guard_] {i}...{/}"
-msgstr ""
+msgstr "[_guard_] {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:646 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_49222ee1:
 msgid "[_flora_] This better be important."
@@ -1435,7 +1435,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:660 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_0bb15cb3:
 msgid "[_flora_] ..."
-msgstr ""
+msgstr "[_flora_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:661 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_66bf58ad:
 msgid "[_flora_] I guess it would be fun\n"
@@ -1469,7 +1469,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:683 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_1e819cdf:
 msgid "[_mc_] [flora]?"
-msgstr ""
+msgstr "[_mc_] [flora]?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:684 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_354f9370:
 msgid "[_mc_] Are you there?"
@@ -1526,19 +1526,19 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:715 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_4d49d164:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr ""
+msgstr "[_guard_] Chiamata {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:716 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_187f3109:
 msgid "[_guard_] {i}...{/}"
-msgstr ""
+msgstr "[_guard_] {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:717 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_4d49d164_1:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr ""
+msgstr "[_guard_] Chiamata {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:718 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_187f3109_1:
 msgid "[_guard_] {i}...{/}"
-msgstr ""
+msgstr "[_guard_] {i}...{/}"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:722 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_dfe7e51d:
 msgid "[_maxine_] You have reached the\n"
@@ -1600,7 +1600,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:734 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_6434dfd2:
 msgid "[_mc_] Ugh..."
-msgstr ""
+msgstr "[_mc_] Ugh..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:735 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_6b806a3e:
 msgid "[_mc_] Can you please just\n"
@@ -1739,7 +1739,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:785 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_6085ac83:
 msgid "All right, here's my chance!"
-msgstr ""
+msgstr "Bene, ecco la mia occasione!"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:788 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_eea9a02d:
 msgid "[_mc_] Ugh, forget it..."
@@ -1860,7 +1860,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:826 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:827 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_18157c7d:
 msgid "[_mc_] Can you please throw\n"
@@ -2181,7 +2181,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:993 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_cff7deb3:
 msgid "[_nurse_s_annoyed_] ..."
-msgstr ""
+msgstr "[_nurse_s_annoyed_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:994 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_054c5ee0:
 msgid "[_mc_] I see."
@@ -2201,7 +2201,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:998 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_e4068727:
 msgid "[_mc_] What is?"
-msgstr ""
+msgstr "[_mc_] Che cos'è?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:999 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_b108452d:
 msgid "[_nurse_s_annoyed_] I'm... going to be the entertainment at her party..."
@@ -2217,7 +2217,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1002 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_46cfa2f4:
 msgid "[_mc_] All right..."
-msgstr ""
+msgstr "[_mc_] Va bene..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1005 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_15cdc598:
 msgid "[_mc_] Astronomy class."
@@ -2265,7 +2265,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1017 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_56c3991c:
 msgid "[_mc_] Why not?"
-msgstr ""
+msgstr "[_mc_] Perché no?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1020 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_65ac9b75:
 msgid "[_nurse_s_sad_] I haven't been on a date in so long... I'm sure I would just embarrass myself."
@@ -2297,7 +2297,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1027 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_00c5a493:
 msgid "[_mc_] Exactly!"
-msgstr ""
+msgstr "[_mc_] Esattamente!"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1029 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_4e6b90bc:
 msgid "[_nurse_s_sad_] I don't think it would be appropriate."
@@ -2598,7 +2598,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1125 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_363d393f:
 msgid "[_lacey_] Queen!"
-msgstr ""
+msgstr "[_lacey_] Queen!"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1126 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_483b52e8:
 msgid "Damn, I can't believe they don't even know my name."
@@ -2785,7 +2785,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1214 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_363d393f_1:
 msgid "[_lacey_] Queen!"
-msgstr ""
+msgstr "[_lacey_] Queen!"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1215 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_53e108be:
 msgid "[_lindsey_] Hey, guys!"
@@ -2923,7 +2923,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1271 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1272 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_cd1db31a:
 msgid "[_kate_] {i}I swear to god, you won't be able to walk for a month.{/}"
@@ -2931,7 +2931,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1273 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1274 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_00ff0da0:
 msgid "[_lindsey_] Still nothing..."
@@ -3232,7 +3232,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1394 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_675c8f0c:
 msgid "[_mc_] Where?"
-msgstr ""
+msgstr "[_mc_] Dove?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1395 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_215098d3:
 msgid "[_nurse_s_afraid_] I'll unlock the door to my office!"
@@ -3310,7 +3310,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1419 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_dd847a7b:
 msgid "[_nurse_] ..."
-msgstr ""
+msgstr "[_nurse_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1420 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_0656f24d:
 msgid "[_kate_] Good girl."
@@ -3330,7 +3330,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1424 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_363d393f_2:
 msgid "[_lacey_] Queen!"
-msgstr ""
+msgstr "[_lacey_] Queen!"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1429 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_ac2a3363:
 msgid "[_casey_] Oof, she's heavy..."
@@ -3455,7 +3455,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1489 #-#-# translate crowdin quest_kate_wicked_party_bba456df:
 msgid "Oh, crap."
-msgstr ""
+msgstr "Oh, merda."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1490 #-#-# translate crowdin quest_kate_wicked_party_3fd8bf06:
 msgid "[_kate_s_surprised_] Chloe? Is that you?"
