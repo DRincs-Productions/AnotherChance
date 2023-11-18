@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-14 09:13\n"
+"PO-Revision-Date: 2023-11-18 16:27\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:2 #-#-# translate crowdin quest_jacklyn_sweets_start_9efa726c:
 msgid "[_guard_] ZzzZzzzzZzz..."
@@ -74,7 +74,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:18 #-#-# translate crowdin quest_jacklyn_sweets_start_e4068727:
 msgid "[_mc_] What is?"
-msgstr ""
+msgstr "[_mc_] Che cos'è?"
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:19 #-#-# translate crowdin quest_jacklyn_sweets_start_afea3882:
 msgid "[_jo_s_smile_] Being an adult isn't always easy. You have a lot of responsibilities, and some things keep you up at night."
@@ -406,7 +406,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:152 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_84f16542:
 msgid "[_mc_] Okay..."
-msgstr ""
+msgstr "[_mc_] Okay..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:153 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_d56d0c19:
 msgid "[_jacklyn_s_excited_] Think of the untouched wilderness instead. Think of mars-landings in swimsuits. Think of the antithesis of suburbia."
@@ -414,7 +414,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:154 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_8fea2db2:
 msgid "[_mc_] Hmm..."
-msgstr ""
+msgstr "[_mc_] Hmm..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:155 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_029857ee:
 msgid "[_jacklyn_s_laughing_] Find the inspiration, then get to it!"
@@ -566,7 +566,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:216 #-#-# translate crowdin quest_jacklyn_sweets_inspiration_school_english_class_fd38f889:
 msgid "Nope."
-msgstr ""
+msgstr "No,"
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:217 #-#-# translate crowdin quest_jacklyn_sweets_inspiration_school_english_class_fbc83145:
 msgid "{i}\"Shut Up and Sleep, Mr. Sheep\"{/}"
@@ -690,7 +690,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:278 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_ddcd0287:
 msgid "[_flora_s_thinking_] ..."
-msgstr ""
+msgstr "[_flora_s_thinking_] ..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:279 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_11455b53:
 msgid "[_mc_] What?"
@@ -814,7 +814,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:317 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_359eecce:
 msgid "[_flora_s_thinking_] Hmm..."
-msgstr ""
+msgstr "[_flora_s_thinking_] Hmm..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:318 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_767b3ec5:
 msgid "[_flora_s_flirty_] ..."
@@ -858,7 +858,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:328 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_2cd3ba80:
 msgid "[_flora_s_annoyed_texting_] ..."
-msgstr ""
+msgstr "[_flora_s_annoyed_texting_] ..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:329 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_45ab273e:
 msgid "[_flora_s_annoyed_texting_] If you show it to anyone, I will murder you. No joke."
@@ -906,7 +906,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:350 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_2cd3ba80_1:
 msgid "[_flora_s_annoyed_texting_] ..."
-msgstr ""
+msgstr "[_flora_s_annoyed_texting_] ..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:351 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_9e4a56ae:
 msgid "[_mc_] What exactly are you doing now?"
@@ -982,7 +982,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:375 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_11bedf1c:
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:376 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_5e77ea8e:
 msgid "I just had the craziest idea! Thank you, [flora]!"
@@ -1166,7 +1166,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:498 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_0a6a0ba0:
 msgid "[_mc_] Well, I..."
-msgstr ""
+msgstr "[_mc_] Beh, Io..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:499 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_fee80e70:
 msgid "[_jacklyn_s_smile_] It's cool, I don't mind a little blush."
@@ -1190,7 +1190,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:511 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:512 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_e2b5b3ae:
 msgid "[_jacklyn_s_king_of_sweets_approval_] What the fuck? This is not bad!"
@@ -1402,7 +1402,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:626 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_2f12239f:
 msgid "[_mc_] Mmmm..."
-msgstr ""
+msgstr "[_mc_] Mmmm..."
 
 # game/1000_base_game/game/characters/jacklyn/q_jacklyn_sweets.rpy:627 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_d0129eaf:
 msgid "[_jacklyn_s_king_of_sweets_stroke2_] Every single stroke..."
