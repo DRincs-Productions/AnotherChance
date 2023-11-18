@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-14 09:16\n"
+"PO-Revision-Date: 2023-11-18 16:29\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:2 #-#-# translate crowdin quest_maxine_eggs_start_7b81f9fd:
 msgid "[_maxine_] You have to schedule an appointment. I'm a very busy woman."
@@ -534,7 +534,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:206 #-#-# translate crowdin quest_maxine_eggs_start_spider_c8155816:
 msgid "[_mc_] The what?"
-msgstr ""
+msgstr "[_mc_] Il cosa?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:207 #-#-# translate crowdin quest_maxine_eggs_start_spider_c7f04411:
 msgid "[_maxine_s_annoyed_] The glowing spider eggs."
@@ -622,7 +622,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:236 #-#-# translate crowdin quest_maxine_eggs_computer_2876efd9:
 msgid "[_mc_] Why?"
-msgstr ""
+msgstr "[_mc_] Perché?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:237 #-#-# translate crowdin quest_maxine_eggs_computer_a2a91fcc:
 msgid "[_cyberia_] The latest scan found a security breach."
@@ -638,7 +638,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:240 #-#-# translate crowdin quest_maxine_eggs_computer_91d6ce47:
 msgid "[_mc_] What's the problem?"
-msgstr ""
+msgstr "[_mc_] Qual è il problema?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:241 #-#-# translate crowdin quest_maxine_eggs_computer_c61d0323:
 msgid "[_cyberia_] An email detailing your crimes will shortly be dispatched to the principal."
@@ -966,7 +966,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:349 #-#-# translate crowdin quest_maxine_eggs_deliver_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:350 #-#-# translate crowdin quest_maxine_eggs_deliver_32fa8956:
 msgid "[_maxine_s_neutral_] Even small animals need their rest."
@@ -998,7 +998,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:357 #-#-# translate crowdin quest_maxine_eggs_deliver_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:358 #-#-# translate crowdin quest_maxine_eggs_deliver_eefc6f8b:
 msgid "[_mc_] Yes, [maxine]."
@@ -1050,7 +1050,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:375 #-#-# translate crowdin quest_maxine_eggs_deliver_bc666b09:
 msgid "[_mc_] Anytime."
-msgstr ""
+msgstr "[_mc_] in qualsiasi momento."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:376 #-#-# translate crowdin quest_maxine_eggs_deliver_828202c0:
 msgid "[_maxine_s_smile_] Very well. I guess you can install it, then."
@@ -1086,7 +1086,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:386 #-#-# translate crowdin quest_maxine_eggs_deliver_9474ae7d:
 msgid "[_mc_] Fine, whatever."
-msgstr ""
+msgstr "[_mc_] Bene, qualsiasi cosa."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:387 #-#-# translate crowdin quest_maxine_eggs_deliver_edc97b55_1:
 msgid "[_maxine_s_confident_mic_] Okay, speak clearly into the voice recorder."
@@ -1106,7 +1106,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:391 #-#-# translate crowdin quest_maxine_eggs_deliver_2b35b6fe_2:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:392 #-#-# translate crowdin quest_maxine_eggs_deliver_eefc6f8b_1:
 msgid "[_mc_] Yes, [maxine]."
@@ -1162,7 +1162,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:412 #-#-# translate crowdin quest_maxine_eggs_deliver_2b35b6fe_3:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:413 #-#-# translate crowdin quest_maxine_eggs_deliver_42c7c88a:
 msgid "It's so annoying when people hover over your shoulder when you work."
@@ -1178,7 +1178,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:416 #-#-# translate crowdin quest_maxine_eggs_deliver_2b35b6fe_4:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:417 #-#-# translate crowdin quest_maxine_eggs_deliver_e2df9fbc:
 msgid "[_mc_] Why do you have a document named \"[mc]?\""
@@ -1226,7 +1226,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:434 #-#-# translate crowdin quest_maxine_eggs_deliver_2b35b6fe_5:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:435 #-#-# translate crowdin quest_maxine_eggs_deliver_def0ad19:
 msgid "[_mc_] What is it?"
@@ -1302,7 +1302,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:460 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr ""
+msgstr "[_mc_] Huh?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:468 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_b666aa2e:
 msgid "[_lindsey_s_afraid_] What...?"
@@ -1410,7 +1410,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:510 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_d4358764:
 msgid "[_mc_] Not really, no."
-msgstr ""
+msgstr "[_mc_] Non veramente, no."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:512 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_1996aa4a:
 msgid "[_lindsey_s_cringe_] So, it's something creepy..."
@@ -1630,7 +1630,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:586 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_473f6d41:
 msgid "[_mc_] Yup."
-msgstr ""
+msgstr "[_mc_] Yup."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:589 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_cfeafd9a:
 msgid "[_mc_] I was looking for the light switch."
@@ -1766,7 +1766,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:626 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_a912442c:
 msgid "[_lindsey_s_thinking_] ..."
-msgstr ""
+msgstr "[_lindsey_s_thinking_] ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:627 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_23fc66e6:
 msgid "[_lindsey_s_blush_] I think I might have an idea!"
@@ -1834,7 +1834,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:650 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_3ab180c4:
 msgid "[_mc_] Got it!"
-msgstr ""
+msgstr "[_mc_] Ho capito!"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:651 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_bcddafaa:
 msgid "[_lindsey_s_excited_keyring_] Yay! Great!"
@@ -2158,11 +2158,11 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:767 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:768 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_2b35b6fe_1:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:769 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_7fdbed6e:
 msgid "[_mc_] How about now?"
@@ -2334,7 +2334,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:823 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_6d04953c:
 msgid "[_mc_] Thanks!"
-msgstr ""
+msgstr "[_mc_] Grazie!"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:825 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_ed9ac224:
 msgid "[_mc_] Is it okay if I bring [isabelle] along?"
