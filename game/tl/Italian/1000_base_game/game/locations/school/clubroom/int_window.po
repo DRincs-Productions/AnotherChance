@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 19:20\n"
+"PO-Revision-Date: 2023-11-18 16:58\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/clubroom/int_window.rpy:25 #-#-# translate crowdin clubroom_window_paper_cb60a146:
 msgid "Leaving with [maxine]'s priced paper will get me in so much trouble."
@@ -18,5 +18,5 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/clubroom/int_window.rpy:26 #-#-# translate crowdin clubroom_window_paper_19885c5b:
 msgid "She doesn't mess around."
-msgstr ""
+msgstr "Lei non si arrabbia."
 
