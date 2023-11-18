@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 11:10\n"
+"PO-Revision-Date: 2023-11-18 16:43\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/seven_hp.rpy:24 #-#-# translate crowdin int_seven_hp_cbaf5c3e:
 msgid "Sparkling water, except there's nothing sparkly or watery about the taste."
@@ -38,7 +38,7 @@ msgstr "{i}*Tosse, tosse*{/}"
 
 # game/1000_base_game/game/items/seven_hp.rpy:56 #-#-# translate crowdin consume_seven_hp_maxine_5d1a8c04:
 msgid "What the hell?"
-msgstr ""
+msgstr "Che inferno?"
 
 # game/1000_base_game/game/items/seven_hp.rpy:57 #-#-# translate crowdin consume_seven_hp_maxine_d43fba44:
 msgid "How did this piece of paper end up in my drink?"
