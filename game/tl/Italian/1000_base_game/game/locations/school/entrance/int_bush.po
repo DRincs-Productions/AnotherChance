@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-14 09:48\n"
+"PO-Revision-Date: 2023-11-22 08:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:48 #-#-# translate crowdin school_entrance_bush_interact_a31a7204:
 msgid "Always be sure to check your local bush for a certain Italian assassin."
@@ -286,7 +286,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:136 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_da9a2594:
 msgid "[_nurse_s_afraid_] ..."
-msgstr ""
+msgstr "[_nurse_s_afraid_] ..."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:139 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
