@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:30\n"
+"PO-Revision-Date: 2023-11-22 07:46\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3 #-#-# translate crowdin mrsl_quest_HOT_start_9598f0ee:
 msgid "[mrsl] seems lost in thought. Her eyes wander slowly over the gym."
@@ -26,7 +26,7 @@ msgstr "Forse il suo vecchio sé si nasconde ancora sotto la superficie."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:6 #-#-# translate crowdin mrsl_quest_HOT_start_21e17cc6:
 msgid "[_mc_] Excuse me."
-msgstr ""
+msgstr "[_mc_] Scusatemi."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:7 #-#-# translate crowdin mrsl_quest_HOT_start_170ac825:
 msgid "[_mrsl_s_surprised_] Hm?"
@@ -182,7 +182,7 @@ msgstr "[_mrsl_s_concerned_] È la mia povera autostima che agisce di nuovo. Qui
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:72 #-#-# translate crowdin mrsl_quest_HOT_start_deal_9d427f8a:
 msgid "[_mc_] Err... okay."
-msgstr ""
+msgstr "[_mc_] Errato... okay."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:73 #-#-# translate crowdin mrsl_quest_HOT_start_deal_e360fd2d:
 msgid "[_mrsl_s_sad_] Please, don't tell anyone about this. It was a lapse of common sense."
@@ -370,7 +370,7 @@ msgstr "Aspetta. In realtà stanno parlando di me?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:139 #-#-# translate crowdin mrsl_quest_HOT_eavesdrop_ec67b419:
 msgid "??? [special_delimiter] ..."
-msgstr ""
+msgstr "??? [special_delimiter]..."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:140 #-#-# translate crowdin mrsl_quest_HOT_eavesdrop_a0af26d0:
 msgid "??? [special_delimiter] You're planning something."
@@ -410,7 +410,7 @@ msgstr "Sembra un po' frustrata e logorata."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:154 #-#-# translate crowdin mrsl_quest_lindsey_talk_c99dfe2c:
 msgid "[_mc_] You look tired."
-msgstr ""
+msgstr "[_mc_] Sembri stanco."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:155 #-#-# translate crowdin mrsl_quest_lindsey_talk_2aee464d:
 msgid "[_lindsey_s_eyeroll_] Gee, thanks."
@@ -638,7 +638,7 @@ msgstr "[_flora_s_worried_] Hai finalmente intenzione di metterti in forma, o qu
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:251 #-#-# translate crowdin mrsl_quest_lindsey_talk_0fc8cbed:
 msgid "[_mc_] Err... yes?"
-msgstr ""
+msgstr "[_mc_] Errore... sì?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:252 #-#-# translate crowdin mrsl_quest_lindsey_talk_4084eb29:
 msgid "[_flora_s_eyeroll_] It's something perverted, isn't it?"
@@ -702,7 +702,7 @@ msgstr "[_jo_s_excited_] C'è un elenco di istruzioni per la lavanderia in bagno
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:278 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_1277f03d:
 msgid "[_mc_] Anytime, [jo]!"
-msgstr ""
+msgstr "[_mc_] Anytime, [jo]!"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:282 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_1dda4a14:
 msgid "[_mc_] Err... it's not that urgent."
@@ -1094,7 +1094,7 @@ msgstr "[_jo_s_eyeroll_] Lo sai che la spazzatura non ti fa bene."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:440 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_34786b31:
 msgid "[_mc_] Please!"
-msgstr ""
+msgstr "[_mc_] Per favore!"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:441 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_19ca4273:
 msgid "[_jo_s_eyeroll_] The answer is no."
