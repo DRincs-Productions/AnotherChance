@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:49\n"
+"PO-Revision-Date: 2023-11-22 08:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:96 #-#-# translate crowdin home_bedroom_bed_interact_smash_or_pass_beeping_65c0f802:
 msgid "With that blasted thing going off, there ain't no rest for the wicked."
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:115 #-#-# translate crowdin home_bedroom_bed_interact_isabelle_tour_b5562f1d:
 msgid "Thread count: 400."
-msgstr ""
+msgstr "Conteggio filetti: 400."
 
 # game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:116 #-#-# translate crowdin home_bedroom_bed_interact_isabelle_tour_ad3520ce:
 msgid "Girl count: 0."
@@ -154,7 +154,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:188 #-#-# translate crowdin home_bedroom_bed_interact_sleep_7b854a1e:
 msgid "My work here is done."
-msgstr ""
+msgstr "Il mio lavoro qui è finito."
 
 # game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:200 #-#-# translate crowdin home_bedroom_bed_interact_force_sleep_2b57cdb7:
 msgid "An evil energy disturbs my sleep."
