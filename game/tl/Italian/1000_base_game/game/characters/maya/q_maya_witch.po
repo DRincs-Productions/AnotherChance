@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:30\n"
+"PO-Revision-Date: 2023-11-22 07:43\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2 #-#-# translate crowdin quest_maya_witch_start_7c4911ec:
 msgid "Oh, man. There's [maya] again."
@@ -258,7 +258,7 @@ msgstr "[_maya_s_annoyed_] Ora fatelo di nuovo, ma questa volta lasciatemi aprir
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:93 #-#-# translate crowdin quest_maya_witch_start_ac7895cf:
 msgid "[_mc_] I don't—"
-msgstr ""
+msgstr "[_mc_] non lo faccio—"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:94 #-#-# translate crowdin quest_maya_witch_start_f32d6094:
 msgid "[_maya_s_annoyed_] Just do it!"
@@ -410,7 +410,7 @@ msgstr "Devo solo aspettare che lei lasci la casa prima..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:164 #-#-# translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_interact_mrsl_bdb9113e:
 msgid "I'm pretty damn stealthy, but breaking into [mrsl]'s desk while she's sitting there is above my paygrade."
-msgstr ""
+msgstr "Sono piuttosto dannatamente furtivo, ma rompendo nella scrivania di [mrsl]mentre è seduta c'è sopra il mio paygrade."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:169 #-#-# translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_interact_67f77bf1:
 msgid "I'll just open this drawer here, and..."
@@ -426,7 +426,7 @@ msgstr "Chiusa, ovviamente."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:176 #-#-# translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_use_item_mrsl_bdb9113e:
 msgid "I'm pretty damn stealthy, but breaking into [mrsl]'s desk while she's sitting there is above my paygrade."
-msgstr ""
+msgstr "Sono piuttosto dannatamente furtivo, ma rompendo nella scrivania di [mrsl]mentre è seduta c'è sopra il mio paygrade."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:183 #-#-# translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_use_item_3fa4ab85:
 msgid "Just gotta jiggle it this way..."
@@ -555,7 +555,7 @@ msgstr "[_jacklyn_s_excited_] Oh, aspetta! C'era qualcosa!"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:230 #-#-# translate crowdin quest_maya_witch_english_class_c17ef8ec:
 msgid "[_mc_] What's that?"
-msgstr ""
+msgstr "[_mc_] Che cos'è?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:231 #-#-# translate crowdin quest_maya_witch_english_class_7ce1dbc3:
 msgid "[_jacklyn_s_excited_] The other day, in the piss box, the lights flipped shit when she entered!{space=-70}\n"
@@ -1473,7 +1473,7 @@ msgstr "[_maya_s_sarcastic_] È tutto sulle mommie."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:638 #-#-# translate crowdin quest_maya_witch_computer_class_b5174296:
 msgid "[_mc_] Very funny..."
-msgstr ""
+msgstr "[_mc_] Molto divertente..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:639 #-#-# translate crowdin quest_maya_witch_computer_class_2a238913:
 msgid "...and weirdly kind of hot..."
@@ -1793,7 +1793,7 @@ msgstr "[_maya_s_neutral_] Qualunque sia il sapore, non cambia il fatto che siam
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:740 #-#-# translate crowdin quest_maya_witch_locked_8f8075c6:
 msgid "[_mc_] I guess not..."
-msgstr ""
+msgstr "[_mc_] Immagino di no..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:741 #-#-# translate crowdin quest_maya_witch_locked_f830991b:
 msgid "[_maya_s_bored_] Oh, well. I'll just waste my time and life on the internet like I came here to do in the first place."
@@ -1941,7 +1941,7 @@ msgstr "[_jo_] Perché il tuo futuro è\n"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:795 #-#-# translate crowdin quest_maya_witch_phone_call_6a561189:
 msgid "[_mc_] [jo]!"
-msgstr ""
+msgstr "[_mc_] [jo]!"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:798 #-#-# translate crowdin quest_maya_witch_phone_call_1324f0b1:
 msgid "[_mc_] Yeah, because I totally\n"
@@ -2786,7 +2786,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1267 #-#-# translate crowdin quest_maya_witch_help_4f2e20ae:
 msgid "[_mc_] You know what? Nevermind."
-msgstr ""
+msgstr "[_mc_] Tu sai cosa? Mai."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1268 #-#-# translate crowdin quest_maya_witch_help_2a95ea07:
 msgid "[_mc_] I'll just figure it out on my own."
