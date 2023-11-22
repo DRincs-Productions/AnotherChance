@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 17:18\n"
+"PO-Revision-Date: 2023-11-22 08:34\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/07_nurse_compromise.rpy:9 #-#-# translate crowdin replay_nurse_compromise_2eb35981:
 msgid "[_nurse_s_afraid_] [mc]?! What in god's name?!"
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/1000_base_game/game/replays/07_nurse_compromise.rpy:27 #-#-# translate crowdin replay_nurse_compromise_4b55bbfd:
 msgid "[_nurse_s_concerned_] I... I..."
-msgstr ""
+msgstr "[_nurse_s_concerned_] I... I..."
 
 # game/1000_base_game/game/replays/07_nurse_compromise.rpy:28 #-#-# translate crowdin replay_nurse_compromise_213dcb4d:
 msgid "[_mc_] Don't worry, I won't tell anyone."
