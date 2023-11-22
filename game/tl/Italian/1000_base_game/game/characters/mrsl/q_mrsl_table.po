@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:30\n"
+"PO-Revision-Date: 2023-11-22 07:46\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
@@ -310,7 +310,7 @@ msgstr "[_mrsl_s_flirty_] Ti dispiacerebbe farmi un piccolo favore?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:95 #-#-# translate crowdin quest_mrsl_table_start_a29e8b0c:
 msgid "[_mc_] Sure, I guess."
-msgstr ""
+msgstr "[_mc_] Certo, immagino."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:96 #-#-# translate crowdin quest_mrsl_table_start_b262ffd7:
 msgid "[_mrsl_s_laughing_] Thanks! I'm really busy right now, so that would be much appreciated!"
@@ -322,7 +322,7 @@ msgstr "[_mrsl_s_laughing_] Le festività di Newfall Independence Day e tutto qu
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:99 #-#-# translate crowdin quest_mrsl_table_start_5a86862f:
 msgid "[_mc_] Not at all."
-msgstr ""
+msgstr "[_mc_] Non affatto."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:100 #-#-# translate crowdin quest_mrsl_table_start_e18c4ea8:
 msgid "[_mrsl_s_confident_] You're a true dear!"
@@ -606,7 +606,7 @@ msgstr "Sono condannato! Siamo tutti condannati!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:356 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_9eac5ce7:
 msgid "Wait a minute..."
-msgstr ""
+msgstr "Aspetta un minuto..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:357 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_050dbee5:
 msgid "What the hell is this?"
@@ -630,7 +630,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:368 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_e446a283:
 msgid "Aha!"
-msgstr ""
+msgstr "Aha!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:369 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_050dbee5_1:
 msgid "What the hell is this?"
@@ -734,7 +734,7 @@ msgstr "Se non pulisco il pasticcio in bagno presto, [jo] mi ucciderà e mi mett
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:439 #-#-# translate crowdin quest_mrsl_table_cleaned_up_68a42dad:
 msgid "All right, that should be all of it..."
-msgstr ""
+msgstr "Va bene, questo dovrebbe essere tutto..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:440 #-#-# translate crowdin quest_mrsl_table_cleaned_up_b0889f1f:
 msgid "Only broke like three vertebrae to get it done."
@@ -742,7 +742,7 @@ msgstr "Solo si è rotto come tre vertebre per farlo fare."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:446 #-#-# translate crowdin quest_mrsl_table_home_hall_storage_closet_take_e446a283:
 msgid "Aha!"
-msgstr ""
+msgstr "Aha!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:447 #-#-# translate crowdin quest_mrsl_table_home_hall_storage_closet_take_eabaa0ea:
 msgid "Here it is, the fabled dragon's hoard of cleaning supplies."
@@ -1086,7 +1086,7 @@ msgstr "[_kate_s_confident_] Sembra che questo sarà un giorno interessante, dop
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:594 #-#-# translate crowdin quest_mrsl_table_morning_62dc131a:
 msgid "Shit. Fuck. Cock."
-msgstr ""
+msgstr "Mossa. Cazzo. Cazzo."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:595 #-#-# translate crowdin quest_mrsl_table_morning_413e8e8a:
 msgid "[_kate_s_neutral_] [mc], get on your knees."
@@ -1102,7 +1102,7 @@ msgstr "[_mc_] Non mi prenderai mai viva, cagnoli!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:607 #-#-# translate crowdin quest_mrsl_table_morning_a7d26855:
 msgid "Running. Running. Running."
-msgstr ""
+msgstr "Running. Running. Running."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:608 #-#-# translate crowdin quest_mrsl_table_morning_0ada47b2:
 msgid "Fuck. Fuck. Fuck."
@@ -1178,7 +1178,7 @@ msgstr "[_kate_] Aprite la porta e vediamo quel dolore, vero?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:633 #-#-# translate crowdin quest_mrsl_table_morning_f5d9b31f:
 msgid "[_mc_] Never!"
-msgstr ""
+msgstr "[_mc_] Mai!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:636 #-#-# translate crowdin quest_mrsl_table_morning_8b9f3008:
 msgid "[_mc_] Your charm and soft words have no power over me!"
@@ -1218,7 +1218,7 @@ msgstr "[_kate_] [lacey], custodisci la porta. Io prenderò qualcuno con una chi
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:647 #-#-# translate crowdin quest_mrsl_table_morning_663729c5:
 msgid "Oh, crap!"
-msgstr ""
+msgstr "Oh, merda!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:648 #-#-# translate crowdin quest_mrsl_table_morning_1bc0daa0:
 msgid "Where's the invisibility cloak when you need it?!"
@@ -1478,11 +1478,11 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:763 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_890a1ac5:
 msgid "Fuck, this is tighter than [lindsey]'s butt..."
-msgstr ""
+msgstr "Scopo, questo è più stretto di [lindsey]'s butt..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:764 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_aed11981:
 msgid "At least, I'm somewhat hidden."
-msgstr ""
+msgstr "Almeno, sono un po 'nascosto."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:770 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_d013f050:
 msgid "If they find me here, they'll need like six horses to pull me out."
@@ -1522,7 +1522,7 @@ msgstr "[_jo_] È solo una aula..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:783 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_c83e7235:
 msgid "[_jo_] ..."
-msgstr ""
+msgstr "[_jo_] ..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:784 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_5eebd43f:
 msgid "[_jo_] Mhm..."
@@ -1594,7 +1594,7 @@ msgstr "[_jo_] Bye, ragazze. Oh, e assicurati di spegnere le luci in palestra qu
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:803 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_c83e7235_1:
 msgid "[_jo_] ..."
-msgstr ""
+msgstr "[_jo_] ..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:804 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_a52ddb1e:
 msgid "[_jo_s_under_desk_half_open_legs_] Goodness gracious..."
@@ -1602,7 +1602,7 @@ msgstr "[_jo_s_under_desk_half_open_legs_] Bontà graziosa..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:805 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_139af7d8:
 msgid "Oh, fuck!"
-msgstr ""
+msgstr "Oh, fuck!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:806 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_163ed284:
 msgid "[_jo_s_under_desk_half_open_legs_] They certainly don't pay me enough for this job..."
