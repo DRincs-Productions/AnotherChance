@@ -1,0 +1,4714 @@
+# TODO: Translation updated at 2023-11-05 22:06
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11
+translate french quest_nurse_venting_start_c9c79ca7:
+
+    # mc "I don't believe what I'm seeing."
+    mc "Je ne crois pas ce que je vois."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:12
+translate french quest_nurse_venting_start_9238ee87:
+
+    # maxine sad_fishing "On the road to truth, the eyes are false signposts."
+    maxine sad_fishing "Sur la route de la vérité, les yeux sont de faux repères."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:13
+translate french quest_nurse_venting_start_53bfbdaf:
+
+    # mc "I don't know anything about eye signposts, but what I'm seeing is you fishing in the school vents."
+    mc "Je ne sais rien des panneaux indicateurs, mais ce que je vois, c'est la pêche dans les cheminées de l'école."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:14
+translate french quest_nurse_venting_start_b158022d:
+
+    # maxine sad_fishing "This time your signposts are correct."
+    maxine sad_fishing "Cette fois, vos repères sont corrects."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:15
+translate french quest_nurse_venting_start_81cb4b54:
+
+    # mc "What are you fishing for? Dust bunnies?"
+    mc "Qu'est-ce que vous pêchez? Dust bunnies?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:16
+translate french quest_nurse_venting_start_72518b75:
+
+    # maxine confident_fishing "Soap goblins."
+    maxine confident_fishing "Les gobelets de savon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:17
+translate french quest_nurse_venting_start_d1acaafb:
+
+    # "Talking to [maxine] is like talking to a brick wall with its head in the clouds."
+    "Parler au [maxine] c'est comme parler à un mur de briques avec sa tête dans les nuages."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:18
+translate french quest_nurse_venting_start_37de2799:
+
+    # mc "What are soap goblins?"
+    mc "Qu'est-ce que les goblins à savon?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:19
+translate french quest_nurse_venting_start_e9ffd850:
+
+    # maxine eyeroll_fishing "They're goblins. Made of soap."
+    maxine eyeroll_fishing "Ils sont des gobelets. Fait de savon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:20
+translate french quest_nurse_venting_start_55a79e29:
+
+    # maxine skeptical_fishing "Very dangerous, but their hide can be used to make bombs."
+    maxine skeptical_fishing "Très dangereux, mais leur peau peut être utilisée pour fabriquer des bombes."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:21
+translate french quest_nurse_venting_start_b2cbe71d:
+
+    # mc "Do I even want to know what you're planning on blowing up?"
+    mc "Je veux même savoir ce que vous prévoyez faire exploser?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:22
+translate french quest_nurse_venting_start_e78dd044:
+
+    # maxine concerned_fishing "I'd never blow something up!"
+    maxine concerned_fishing "Je ne souffrais jamais quelque chose !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:23
+translate french quest_nurse_venting_start_1c426994:
+
+    # maxine excited_fishing "Or, if I was going to blow something up, I'd never tell someone beforehand."
+    maxine excited_fishing "Ou, si j'allais faire sauter quelque chose, je ne parlerais jamais à quelqu'un d'avance."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:24
+translate french quest_nurse_venting_start_f82366e4:
+
+    # maxine excited_fishing "I'll use the soap goblins as soap. That's all."
+    maxine excited_fishing "I'll use the soap goblins as soap. C'est tout."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:25
+translate french quest_nurse_venting_start_5d266373:
+
+    # "That's a relief. I was about to call in a bomb squad."
+    "C'est un soulagement. J'étais sur le point de faire appel à un escadron de la bombe."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:26
+translate french quest_nurse_venting_start_e834591f:
+
+    # mc "All right... tell me, are you using a fishing hook to snag the soap goblins?"
+    mc "Tout droit ... dites-moi, est-ce que vous utilisez un crochet de pêche pour chappez les gobelets de savon?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:27
+translate french quest_nurse_venting_start_b74fcfc9:
+
+    # maxine smile_fishing "Can't go fishing without a fishing hook, can I?"
+    maxine smile_fishing "Ne peut pas aller à la pêche sans crochet de pêche, puis-je?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:28
+translate french quest_nurse_venting_start_be78f2d6:
+
+    # mc "Can I borrow the hook when you're done?"
+    mc "Puis-je emprunter le crochet lorsque vous avez terminé?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:29
+translate french quest_nurse_venting_start_bf5f40f1:
+
+    # maxine smile_fishing "Maybe. If I get a good haul."
+    maxine smile_fishing "Peut-être. Si j'ai une bonne distance."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:30
+translate french quest_nurse_venting_start_85d437b8:
+
+    # mc "But what about if you get no haul, because soap goblins aren't real?{space=-5}"
+    mc "Mais qu'en est-il si vous n'obtenez pas de transport, parce que les gobelets de savon ne sont pas réels? { space=-5 }"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:31
+translate french quest_nurse_venting_start_43bf719c:
+
+    # maxine angry_fishing "Soap goblins are very much real! In fact, just the other day—"
+    maxine angry_fishing "Les gobelets Soap sont bien réels ! En fait, juste l'autre jour-"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:44
+translate french quest_nurse_venting_start_f1cffe4e:
+
+    # maxine smile_fishing "I've got one!"
+    maxine smile_fishing "J'en ai un !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:51
+translate french quest_nurse_venting_start_336e0bf1:
+
+    # maxine smile_fishing "Soap goblins always bite when there's doubt in the air."
+    maxine smile_fishing "Les gobelins de savon mordent toujours en cas de doute dans l'air."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:58
+translate french quest_nurse_venting_start_8f4e669e:
+
+    # maxine laughing_fishing "Wow, it's a big one! It's really fighting me!"
+    maxine laughing_fishing "Wow, c'est un gros ! Ça me bat vraiment !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:65
+translate french quest_nurse_venting_start_0927bb66:
+
+    # maxine laughing_fishing "I can hardly get it to budge at all!"
+    maxine laughing_fishing "Je peux difficilement le faire bouger du tout !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:66
+translate french quest_nurse_venting_start_8ebaa478:
+
+    # "Of course it won't budge... she's caught on a piece of metal."
+    "Bien sûr que ça ne bouge pas ... elle est prise sur un morceau de métal."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:67
+translate french quest_nurse_venting_start_810e51fc:
+
+    # mc "Let it out a little. See if that dislodges it."
+    mc "Let it out a little. Voir si ça le déloge."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:74
+translate french quest_nurse_venting_start_2f91904a:
+
+    # maxine angry_fishing "It's not lodged anywhere! It's a big soap goblin!"
+    maxine angry_fishing "Ce n'est nulle part ! C'est un gros savon gobelin !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:81
+translate french quest_nurse_venting_start_9ffec099:
+
+    # maxine angry_fishing "Help me pull!"
+    maxine angry_fishing "Aide-moi à tirer !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:84
+translate french quest_nurse_venting_start_11fdb519:
+
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:87
+translate french quest_nurse_venting_start_23347149:
+
+    # mc "Fine! Let me grab the rod."
+    mc "Fine ! Laisse-moi attraper la canne."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:89
+translate french quest_nurse_venting_start_8e7113d6:
+
+    # maxine flirty_fishing "Thank you! Let's get this soap goblin out of there!"
+    maxine flirty_fishing "Merci ! Faisons ce savon gobelin de là !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:90
+translate french quest_nurse_venting_start_080adc93:
+
+    # maxine flirty_fishing "I'll let you keep some of the soap once I've butchered it!"
+    maxine flirty_fishing "Je vous laisse garder une partie du savon une fois que je l'ai boucher !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:91
+translate french quest_nurse_venting_start_b8673ce7:
+
+    # "If a soap goblin shoots up through this vent, I'll never doubt [maxine] again..."
+    "Si un savon gobelin s'abat à travers cet évent, je ne doute jamais [maxine]..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:92
+translate french quest_nurse_venting_start_ec3aba97:
+
+    # mc "We'll give it a big pull on three."
+    mc "Nous allons lui donner un gros pull sur trois."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:106
+translate french quest_nurse_venting_start_571555e7:
+
+    # maxine afraid "The line snapped! It got away!"
+    maxine afraid "La ligne a été alignée ! Ça s'est enfuir !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:107
+translate french quest_nurse_venting_start_b48ee291:
+
+    # mc "And that means the fishing hook is now stuck in the vent..."
+    mc "Et cela signifie que le crochet de pêche est maintenant coincé dans l'évent ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:108
+translate french quest_nurse_venting_start_425e3d82:
+
+    # maxine afraid "Who cares about the fishing hook?!"
+    maxine afraid "Qui se soucie du crochet de la pêche? !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:109
+translate french quest_nurse_venting_start_57841289:
+
+    # maxine afraid "That was the biggest soap goblin I've never seen!"
+    maxine afraid "C'était le plus gros gobelin de savon que je n'ai jamais vu !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:110
+translate french quest_nurse_venting_start_b2cf3884:
+
+    # "The biggest she's {i}never{/} seen? What does that even mean?"
+    "Le plus gros qu'elle soit {i}jamais { / } vu? Qu'est-ce que cela signifie même?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:111
+translate french quest_nurse_venting_start_5cb484f4:
+
+    # maxine thinking "A stronger line, that's what I need."
+    maxine thinking "Une ligne plus forte, c'est ce dont j'ai besoin."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:112
+translate french quest_nurse_venting_start_5472430d:
+
+    # mc "Can you think of a way to get the hook?"
+    mc "Pouvez-vous imaginer une façon d'obtenir le crochet?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:113
+translate french quest_nurse_venting_start_685ab20a:
+
+    # maxine sad "Steel, maybe? No, too weak..."
+    maxine sad "acier, peut-être? Non, trop faible ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:114
+translate french quest_nurse_venting_start_35062b6d:
+
+    # maxine thinking "Carbon nano-filament. That's the ticket."
+    maxine thinking "Le nanofilament de carbone. C'est le ticket."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:115
+translate french quest_nurse_venting_start_9641cdf5:
+
+    # maxine thinking "I'll do some research."
+    maxine thinking "Je ferai de la recherche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:118
+translate french quest_nurse_venting_start_d4e2a144:
+
+    # mc "There's no such thing as soap goblins. You're on your own for\nthis one."
+    mc "Il n'y a pas de gobelet à savon. Vous êtes seul pour le\ncelui-ci."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:120
+translate french quest_nurse_venting_start_8b915a9d:
+
+    # maxine afraid_fishing "We'll see about that!"
+    maxine afraid_fishing "Nous allons voir ça !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:121
+translate french quest_nurse_venting_start_93e04d38:
+
+    # maxine thinking_fishing "You'll be so jealous when you see how clean the soap gets me."
+    maxine thinking_fishing "Vous serez si jaloux quand vous verrez comment nettoyer le savon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:122
+translate french quest_nurse_venting_start_80099b49:
+
+    # maxine thinking_fishing "And don't even get me started on the bombs I'll make."
+    maxine thinking_fishing "Et ne m'avez même pas commencé sur les bombes que je ferai."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:129
+translate french quest_nurse_venting_start_e7ce2d71:
+
+    # maxine afraid_fishing "If I could just... get this line... to move!"
+    maxine afraid_fishing "Si je pouvais juste ... obtenir cette ligne ... pour bouger !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:130
+translate french quest_nurse_venting_start_0eb7e3e2:
+
+    # "[maxine] is officially losing her mind."
+    "[maxine] est officiellement en train de perdre l'esprit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:131
+translate french quest_nurse_venting_start_a58024c1:
+
+    # "Maybe she'll become a touch more sane if she sees that soap goblins don't exist?"
+    "Peut-être qu'elle va devenir une touche plus sane si elle voit que les gobelets de savon n'existent pas?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:132
+translate french quest_nurse_venting_start_72258ea2:
+
+    # mc "Pull with your back."
+    mc "Pull avec ton dos."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:139
+translate french quest_nurse_venting_start_5bf340e3:
+
+    # maxine afraid_fishing "You had your chance to be helpful!"
+    maxine afraid_fishing "Vous avez eu la chance d'être utile !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:140
+translate french quest_nurse_venting_start_e6dea848:
+
+    # mc "Stop dragging the line on the edge of the vent. It's fraying."
+    mc "Arrête de traîner la ligne sur le bord de l'évent. C'est effilant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:147
+translate french quest_nurse_venting_start_633e3ec4:
+
+    # maxine afraid_fishing "I know what I'm doing!"
+    maxine afraid_fishing "Je sais ce que je fais !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:148
+translate french quest_nurse_venting_start_09c7143b:
+
+    # mc "It's gonna break..."
+    mc "It's gonna break ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:155
+translate french quest_nurse_venting_start_ed99034c:
+
+    # maxine afraid_fishing "No, it won't! I've got it loose!"
+    maxine afraid_fishing "Non, ce ne sera pas ! Je l'ai perdu !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:169
+translate french quest_nurse_venting_start_b72acc2c:
+
+    # mc "It frayed right through! I told you that would happen!"
+    mc "Il s'est effilé ! Je t'ai dit que ça arriverait !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:170
+translate french quest_nurse_venting_start_5c7f2e8d:
+
+    # maxine concerned "This wouldn't have happened if you'd helped me."
+    maxine concerned "Cela ne serait pas arrivé si vous m'aviez aidé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:171
+translate french quest_nurse_venting_start_af5268f2:
+
+    # mc "And now the hook is lost in the vent..."
+    mc "Et maintenant le crochet est perdu dans l'évent ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:172
+translate french quest_nurse_venting_start_9b65283d:
+
+    # maxine concerned "Maybe the trick is getting the soap gobling to come to me?"
+    maxine concerned "Peut-être que l'astuce est de me faire avaler le savon?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:173
+translate french quest_nurse_venting_start_98a65a74:
+
+    # maxine concerned "They subsist on a diet of centipedes and mildew."
+    maxine concerned "Ils se nourrissent d'un régime de centipèdes et de mildiou."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:174
+translate french quest_nurse_venting_start_f3eaf52e:
+
+    # maxine excited "Maybe if I set up a centipede terrarium, with a fan to blow the smell into the vents..."
+    maxine excited "Peut-être que si j'ai mis en place un terrarium de centipede, avec un ventilateur pour faire sauter l'odeur dans les évents ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:177
+translate french quest_nurse_venting_start_5edfb098:
+
+    # "Alright, she's not gonna be any more help."
+    "D'accord, elle ne sera plus d'aide."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:178
+translate french quest_nurse_venting_start_a89863af:
+
+    # "I know the vents get pretty big in there... maybe I could get inside and crawl around?"
+    "Je sais que les bouches sont assez grosses là ... peut-être que je pourrais me trouver à l'intérieur et ramper?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:179
+translate french quest_nurse_venting_start_fde9f722:
+
+    # "Hmm... and then get stuck in there with all the soap goblins."
+    "Hmm ... et ensuite on est coincé avec tous les gobelets de savon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:180
+translate french quest_nurse_venting_start_4d78d305:
+
+    # "Even though there's no way soap goblins are real... definitely\nno way..."
+    "Même s'il n'y a pas moyen de savons que les goblins sont réels ... sans aucun doute\npas de chemin ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:181
+translate french quest_nurse_venting_start_d52861cd:
+
+    # "But... strange things have been happening around the school."
+    "Mais ... des choses étranges ont eu lieu autour de l'école."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:182
+translate french quest_nurse_venting_start_15d75198:
+
+    # "I'd better find someone to go into the vents for me."
+    "Je ferais mieux de trouver quelqu'un pour me rendre dans les bouches pour moi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:183
+translate french quest_nurse_venting_start_45ba5b67:
+
+    # "Somebody who likes to be helpful..."
+    "Quelqu'un qui aime être utile ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:190
+translate french quest_nurse_venting_help_a792f492:
+
+    # nurse smile "How can I help you today, [mc]?"
+    nurse smile "Comment puis-je vous aider aujourd'hui, [mc]?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:191
+translate french quest_nurse_venting_help_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:192
+translate french quest_nurse_venting_help_3d3925fa:
+
+    # nurse concerned "Are you all right, dear? You look a bit flushed."
+    nurse concerned "Vous avez raison, ma chère? Tu as l'air un peu vidé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:193
+translate french quest_nurse_venting_help_eba83970:
+
+    # mc "Yes, just..."
+    mc "Oui, juste ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:194
+translate french quest_nurse_venting_help_3b52bbf8:
+
+    # "Flexing."
+    "Flexing."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:195
+translate french quest_nurse_venting_help_f720fb65:
+
+    # nurse blush "Oh, my."
+    nurse blush "Oh, mon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:196
+translate french quest_nurse_venting_help_e7cd65f0:
+
+    # nurse blush "Now that I think about it, you have been looking healthy lately. I'm happy to see that."
+    nurse blush "Maintenant que je pense à ça, vous avez été en bonne santé ces derniers temps. Je suis heureux de voir ça."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:197
+translate french quest_nurse_venting_help_4844f118:
+
+    # mc "I've been hitting the gym. And I've been getting more of that special cardio."
+    mc "J'ai frappé la salle de gym. Et j'ai reçu plus de ce cardio spécial."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:198
+translate french quest_nurse_venting_help_8cf7a370:
+
+    # nurse thinking "Special cardio?"
+    nurse thinking "cardio spécial?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:199
+translate french quest_nurse_venting_help_179a7b3d:
+
+    # mc "Let's just say it's less about the feet and more about the hips..."
+    mc "Let's just say it's less about the feet and more about the hips ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:200
+translate french quest_nurse_venting_help_e27b8ad0:
+
+    # nurse concerned "That... motion... is quite improper, [mc]."
+    nurse concerned "Cette ... motion ... est tout à fait inappropriée, [mc]."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:202
+translate french quest_nurse_venting_help_e24a37c6:
+
+    # mc "Well, you're the expert on improper behavior."
+    mc "Eh bien, vous êtes l'expert sur le comportement inapproprié."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:203
+translate french quest_nurse_venting_help_f5a68742:
+
+    # nurse afraid "Not so loud, please!"
+    nurse afraid "Pas si fort, s'il vous plaît !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:204
+translate french quest_nurse_venting_help_b3bc6da7:
+
+    # mc "Or what?"
+    mc "Ou quoi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:205
+translate french quest_nurse_venting_help_01071ec9:
+
+    # nurse annoyed "Or nothing..."
+    nurse annoyed "Ou rien ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:206
+translate french quest_nurse_venting_help_80cc082a:
+
+    # mc "That's what I thought."
+    mc "C'est ce que j'ai pensé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:207
+translate french quest_nurse_venting_help_ae2ce4f9:
+
+    # nurse annoyed "I'm sorry to cut this short, but I have to get going..."
+    nurse annoyed "Je suis désolé de couper court, mais je dois aller ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:209
+translate french quest_nurse_venting_help_4bbe5891:
+
+    # mc "Sorry..."
+    mc "Désolé ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:210
+translate french quest_nurse_venting_help_8fe6ea0c:
+
+    # "Not sure what I was thinking there..."
+    "Pas sûr de ce que je pensais là ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:211
+translate french quest_nurse_venting_help_7ae42870:
+
+    # nurse smile "That's all right."
+    nurse smile "Tout va bien."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:212
+translate french quest_nurse_venting_help_02a7e839:
+
+    # nurse smile "I'm sorry to cut this short, but I have to get going..."
+    nurse smile "Je suis désolé de couper court, mais je dois aller ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:213
+translate french quest_nurse_venting_help_85165494:
+
+    # mc "Wait, I actually need your help with something!"
+    mc "Attends, j'ai vraiment besoin de ton aide avec quelque chose !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:214
+translate french quest_nurse_venting_help_c09fb81a:
+
+    # nurse neutral "What is it?"
+    nurse neutral "Qu'est-ce que c'est?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:217
+translate french quest_nurse_venting_help_11fdb519:
+
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:221
+translate french quest_nurse_venting_help_930d23f1:
+
+    # mc "You're going into the school's vents for me."
+    mc "Vous allez dans les bouches de l'école pour moi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:222
+translate french quest_nurse_venting_help_8c41cbe0:
+
+    # mc "You're gonna crawl."
+    mc "Vous allez ramper."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:223
+translate french quest_nurse_venting_help_26a9927b:
+
+    # nurse afraid "Into the vents?! What if I get stuck?"
+    nurse afraid "Dans les évents? ! Et si je suis coincé?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:224
+translate french quest_nurse_venting_help_64e277cd:
+
+    # mc "This isn't when you ask questions. This is when you say yes."
+    mc "Ce n'est pas quand vous posez des questions. C'est quand vous dites oui."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:225
+translate french quest_nurse_venting_help_7360f798:
+
+    # nurse annoyed "...yes."
+    nurse annoyed "... oui."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:226
+translate french quest_nurse_venting_help_b3da17e9:
+
+    # mc "Good. Now, the first thing we need is to find a vent you can get into.{space=-10}"
+    mc "Bon. La première chose dont nous avons besoin, c'est de trouver un évent que vous pouvez entrer. { space=-10 }"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:227
+translate french quest_nurse_venting_help_90ac908f:
+
+    # nurse annoyed "There's one in my office... right behind the bed..."
+    nurse annoyed "Il y en a un dans mon bureau ... juste derrière le lit ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:228
+translate french quest_nurse_venting_help_8793cfa2:
+
+    # mc "Perfect! We'll use that."
+    mc "Parfait ! Nous l'utiliserons."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:229
+translate french quest_nurse_venting_help_0650d7c5:
+
+    # nurse annoyed "That does sound... perfect."
+    nurse annoyed "Ça sème ... parfait."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:230
+translate french quest_nurse_venting_help_7b679ccf:
+
+    # mc "I'll be back when I've got everything I need to guide you."
+    mc "Je serai de retour quand j'aurai tout ce dont j'ai besoin pour vous guider."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:231
+translate french quest_nurse_venting_help_0c9a5645:
+
+    # mc "And I wouldn't be too worried about getting stuck... I'll make sure you're nice and slippery."
+    mc "Et je ne serais pas trop inquiet pour être coincé ... Je vais vous assurer que vous êtes gentile et glissant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:234
+translate french quest_nurse_venting_help_7e5a9435:
+
+    # mc "I lost my inhaler..."
+    mc "J'ai perdu mon inhalateur ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:235
+translate french quest_nurse_venting_help_f307f012:
+
+    # mc "I need help getting it back."
+    mc "J'ai besoin d'aide pour le récupérer."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:236
+translate french quest_nurse_venting_help_df833696:
+
+    # nurse thinking "You have an inhaler?"
+    nurse thinking "Vous avez un inhalateur?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:237
+translate french quest_nurse_venting_help_be5ab8db:
+
+    # nurse thinking "My records don't have you as asthmatic."
+    nurse thinking "Mes dossiers ne vous ont pas comme asthmatiques."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:238
+translate french quest_nurse_venting_help_57b04ca4:
+
+    # mc "It's... a recent development."
+    mc "C'est. .. un développement récent."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:239
+translate french quest_nurse_venting_help_f2f39458:
+
+    # nurse concerned "Should you be doing that special cardio if you're asthmatic?"
+    nurse concerned "Devriez-vous faire ce cardio spécial si vous êtes asthmatique?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:240
+translate french quest_nurse_venting_help_e20e2859:
+
+    # nurse concerned "I'll make a note about this. No more cardio for you."
+    nurse concerned "Je ferai une remarque à ce sujet. Pas plus de cardio pour toi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:241
+translate french quest_nurse_venting_help_8129f99c:
+
+    # "The [nurse] is always so concerned about my health."
+    "Le [nurse] est toujours tellement préoccupé par ma santé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:242
+translate french quest_nurse_venting_help_afbb16a9:
+
+    # "I wish there was an easier way to make her do what I want...{space=-25}"
+    "J'aimerais qu'il y ait une façon plus facile de faire ce que j'ai ... { space=-25 }"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:243
+translate french quest_nurse_venting_help_8194c995:
+
+    # mc "Don't worry about my asthma. It's fine."
+    mc "Ne vous inquiétez pas pour mon asthme. C'est bien."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:244
+translate french quest_nurse_venting_help_dcacabe8:
+
+    # mc "Will you help me find my inhaler?"
+    mc "Est-ce que tu m'aideras à trouver mon inhalateur?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:245
+translate french quest_nurse_venting_help_3a79b3d2:
+
+    # nurse smile "I'm not sure how helpful I can be, but I'll certainly try!"
+    nurse smile "Je ne sais pas à quel point je peux être utile, mais j'essaierai certainement !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:246
+translate french quest_nurse_venting_help_034c26ca:
+
+    # mc "So, I actually dropped it into a vent..."
+    mc "Donc, je l'ai laissé tomber dans un évent ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:247
+translate french quest_nurse_venting_help_516f94dd:
+
+    # nurse neutral "A vent?"
+    nurse neutral "Un évent?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:248
+translate french quest_nurse_venting_help_63ce86c1:
+
+    # mc "Yeah. Really clumsy of me."
+    mc "Oui. Vraie maladroie de moi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:249
+translate french quest_nurse_venting_help_f56ec873:
+
+    # nurse smile "That's okay, I'm oftentimes clumsy myself."
+    nurse smile "C'est bon, je suis souvent maladrogante."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:250
+translate french quest_nurse_venting_help_c4592127:
+
+    # nurse smile "Have you tried fishing it out?"
+    nurse smile "Avez-vous essayé de la pêcher?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:251
+translate french quest_nurse_venting_help_990895cb:
+
+    # mc "Err... yes. I've actually tried everything except climbing into the vent.{space=-10}"
+    mc "Err ... oui. J'ai tout essayé à l'exception de l'escalade dans l'évent. { space=-10 }"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:252
+translate french quest_nurse_venting_help_cc6aa19f:
+
+    # mc "Because that would be bad for my... asthma."
+    mc "Parce que ce serait mauvais pour mon ... asthme."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:253
+translate french quest_nurse_venting_help_32306d7a:
+
+    # nurse thinking "Yes, the vents can be a bit dusty."
+    nurse thinking "Oui, les évents peuvent être un peu poussiéreux."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:254
+translate french quest_nurse_venting_help_24c9aa39:
+
+    # mc "So, can you help me?"
+    mc "Alors, pouvez-vous m'aider?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:255
+translate french quest_nurse_venting_help_2bc99a47:
+
+    # nurse sad "Um, I don't know..."
+    nurse sad "Um, je ne sais pas ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:256
+translate french quest_nurse_venting_help_1fc3976c:
+
+    # nurse sad "Crawling into a vent seems dangerous. I don't know if I can do that."
+    nurse sad "Le balayage dans un évent semble dangereux. Je ne sais pas si je peux faire ça."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:257
+translate french quest_nurse_venting_help_3d63591e:
+
+    # mc "You know what? You're right. I'll go in myself."
+    mc "Vous savez quoi? Tu as raison. Je vais me rendre moi-même."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:258
+translate french quest_nurse_venting_help_b91cb064:
+
+    # mc "Just me and my poor asthmatic lungs crawling around in the dark... All that dry air... No big deal...."
+    mc "Juste moi et mes pauvres poumons asthmatiques ramper dans le noir ... Tout ce air sec ... Pas grand chose ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:259
+translate french quest_nurse_venting_help_4bb66bf4:
+
+    # nurse surprised "Oh, no, don't do that!"
+    nurse surprised "Oh, non, ne fais pas ça !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:260
+translate french quest_nurse_venting_help_e974ffbf:
+
+    # mc "Don't have much other choice, do I?"
+    mc "Ne pas avoir beaucoup d'autres choix, dois-je?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:261
+translate french quest_nurse_venting_help_658519a7:
+
+    # nurse neutral "Can't you just get a new one?"
+    nurse neutral "Vous ne pouvez pas vous en procurer un nouveau?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:262
+translate french quest_nurse_venting_help_121a2a5f:
+
+    # mc "Technically, yes. But it'll be a few days before the renewal of the prescription..."
+    mc "Techniquement, oui. Mais ce sera quelques jours avant le renouvellement de l'ordonnance ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:263
+translate french quest_nurse_venting_help_4100514a:
+
+    # mc "I kind of need it now or I might fail gym class."
+    mc "J'en ai besoin maintenant ou je risque d'échouer en classe de gym."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:264
+translate french quest_nurse_venting_help_b032711a:
+
+    # nurse afraid "Oh, no! We can't have that..."
+    nurse afraid "Oh, non ! Nous ne pouvons pas avoir ça ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:265
+translate french quest_nurse_venting_help_1a82f8e8:
+
+    # mc "Yeah, that would be bad. All that hard work and special cardio for nothing."
+    mc "Oui, ce serait mauvais. Tout ce dur travail et une cardio spéciale pour rien."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:266
+translate french quest_nurse_venting_help_d46fec18:
+
+    # nurse annoyed "All right. I'll go in for you."
+    nurse annoyed "Très bien. Je vais te rendre pour toi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:267
+translate french quest_nurse_venting_help_bf50600c:
+
+    # mc "Thank you! You really are the best nurse in this school."
+    mc "Merci ! Tu es vraiment la meilleure infirmière de cette école."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:268
+translate french quest_nurse_venting_help_bf16d54f:
+
+    # nurse blush "Aw, that's so kind."
+    nurse blush "Aw, c'est si gentil."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:269
+translate french quest_nurse_venting_help_74d48d24:
+
+    # nurse blush "Okay, do you know where to enter the vent?"
+    nurse blush "Ok, tu sais où entrer dans l'évent?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:270
+translate french quest_nurse_venting_help_b13d3760:
+
+    # mc "I know there's one in the sports wing, but that's hard to reach."
+    mc "Je sais qu'il y en a un dans l'aile sportive, mais c'est difficile à atteindre."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:271
+translate french quest_nurse_venting_help_de915098:
+
+    # nurse thinking "Hmm... now that I think of it, there's actually one in my office. Right behind the bed."
+    nurse thinking "Hmm ... Maintenant que je pense à ça, il y en a un dans mon bureau. Juste derrière le lit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:272
+translate french quest_nurse_venting_help_8793cfa2_1:
+
+    # mc "Perfect! We'll use that."
+    mc "Parfait ! Nous l'utiliserons."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:273
+translate french quest_nurse_venting_help_7b679ccf_1:
+
+    # mc "I'll be back when I've got everything I need to guide you."
+    mc "Je serai de retour quand j'aurai tout ce dont j'ai besoin pour vous guider."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:274
+translate french quest_nurse_venting_help_ae1a88b1:
+
+    # nurse concerned "Okay, then. Just be careful with your lungs in the meantime."
+    nurse concerned "Ok, alors. Faites attention avec vos poumons en attendant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:276
+translate french quest_nurse_venting_help_afe3a46b:
+
+    # "Shit, come to think of it, what do I need?"
+    "Merde, venez en penser, qu'est-ce que j'ai besoin?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:277
+translate french quest_nurse_venting_help_62063031:
+
+    # "She's going into a dark hole. I need to be able to talk to her. And see her, maybe? Is that a thing?"
+    "Elle va dans un trou noir. J'ai besoin de pouvoir lui parler. Et la voir, peut-être? Est-ce une chose?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:278
+translate french quest_nurse_venting_help_7e297110:
+
+    # "I've seen spelunking videos online before. Those people have radios and cameras to keep track of each other."
+    "J'ai déjà vu des vidéos en ligne avant. Ces gens ont des radios et des caméras pour suivre l'autre."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:279
+translate french quest_nurse_venting_help_2df88890:
+
+    # "Something like that could be a good start..."
+    "Quelque chose comme ça pourrait être un bon début ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:280
+translate french quest_nurse_venting_help_ffac7e7d:
+
+    # "Who do I know who likes to mess around with gadgets?"
+    "Qui est-ce que je sais qui aime gâcher avec des gadgets?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:286
+translate french quest_nurse_venting_supplies_maxine_a2bc79fe:
+
+    # maxine confident_hands_down "Did the soap goblins scare you off?"
+    maxine confident_hands_down "Est-ce que les gobelets à savon vous font peur?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:287
+translate french quest_nurse_venting_supplies_maxine_1b6de902:
+
+    # mc "A little. I found someone else to go into the vents for me."
+    mc "Un peu. J'ai trouvé quelqu'un d'autre pour me rendre dans les vents pour moi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:288
+translate french quest_nurse_venting_supplies_maxine_136edf5f:
+
+    # maxine confident_hands_down "And you want some tips for fighting the goblins?"
+    maxine confident_hands_down "Et vous voulez des trucs pour combattre les gobelets?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:289
+translate french quest_nurse_venting_supplies_maxine_fe81e015:
+
+    # maxine skeptical "You might think water is a good move, but all that does is make them frothy."
+    maxine skeptical "Vous pourriez penser que l'eau est une bonne chose, mais tout ce qui fait est de les rendre mousseux."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:290
+translate french quest_nurse_venting_supplies_maxine_4efccbab:
+
+    # "Frothy goblins... there's a mental image."
+    "Froton goblins ... il y a une image mentale."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:291
+translate french quest_nurse_venting_supplies_maxine_ce60949f:
+
+    # mc "I need a way to talk to the person while they're in the vent."
+    mc "J'ai besoin d'un moyen de parler à la personne pendant qu'elle est dans l'évent."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:292
+translate french quest_nurse_venting_supplies_maxine_cb634bc7:
+
+    # maxine skeptical "A decoy is a good way of luring your prey. You'd be making a smart move if you were hunting soap goblins."
+    maxine skeptical "Une leurre est une bonne façon de leurrer votre proie. Tu ferais un geste intelligent si tu chassais des gobelets de savon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:293
+translate french quest_nurse_venting_supplies_maxine_2fb909c5:
+
+    # mc "I could do both. I'll look for the fish hook, and I'll let you know if I come across any soap goblins."
+    mc "Je pourrais faire les deux. Je vais chercher le crochet du poisson, et je vous laisse savoir si je viens de tous les gobelets de savon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:294
+translate french quest_nurse_venting_supplies_maxine_ceb9792a:
+
+    # mc "But you'll have to help me talk to the person. Do you have any radios?{space=-45}"
+    mc "Mais vous devez m'aider à parler à la personne. Avez-vous des radios? { space=-45 }"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:295
+translate french quest_nurse_venting_supplies_maxine_b7aabed9:
+
+    # "Deal of the century, right here — give me radios and I'll pretend your crazy theories aren't crazy."
+    "Deal of the century, right here-donnez-moi des radios et je prétends que vos théories folles ne sont pas folles."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:296
+translate french quest_nurse_venting_supplies_maxine_b9a55c91:
+
+    # maxine smile "I'd be willing to consider that deal."
+    maxine smile "Je serais prêt à considérer cet accord."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:297
+translate french quest_nurse_venting_supplies_maxine_a9c2419c:
+
+    # maxine smile "I tried using these walkie-talkies to talk to the gaseous aliens who live{space=-35}\nin the clouds, but they must be operating on a paranormal frequency.{space=-25}"
+    maxine smile "J'ai essayé d'utiliser ces walkie-talkies pour parler aux extraterrestres qui vivent { space=-35 }\ndans les nuages, mais ils doivent fonctionner sur une fréquence paranormale. { space=-25 }"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:298
+translate french quest_nurse_venting_supplies_maxine_ffe477c8:
+
+    # maxine smile "Here, you can keep them."
+    maxine smile "Ici, vous pouvez les garder."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:300
+translate french quest_nurse_venting_supplies_maxine_dd565e8f:
+
+    # mc "Walkie-talkies? You thought the cloud aliens were chatting like kids in 80s movies?"
+    mc "Walkie-talkies? Vous avez pensé que les aliens en nuage bavardaient comme des enfants dans des films de 80 ans?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:301
+translate french quest_nurse_venting_supplies_maxine_988334e4:
+
+    # maxine angry "It was only a theory! Besides, if I had the right paranormal antennae,{space=-10}\nit would have worked."
+    maxine angry "C'était seulement une théorie ! De plus, si j'avais les antennes paranormales de droite, { space=-10 }\nça aurait fonctionné."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:302
+translate french quest_nurse_venting_supplies_maxine_006cac95:
+
+    # maxine neutral "Now, if you're done being critical, I'd like you to test something\nfor me."
+    maxine neutral "Maintenant, si vous êtes critique, j'aimerais que vous tesiez quelque\npour moi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:303
+translate french quest_nurse_venting_supplies_maxine_a9cbcbd9:
+
+    # maxine neutral "I've outfitted my camera with an x-ray function. You can use it to see the person you're guiding."
+    maxine neutral "J'ai équipé mon appareil photo d'une fonction de radiographie. Vous pouvez l'utiliser pour voir la personne qui vous guide."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:308
+translate french quest_nurse_venting_supplies_maxine_2f6b12ba:
+
+    # "Oh, wow! X-ray vision!"
+    "Oh, wow ! La vision des rayons X !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:309
+translate french quest_nurse_venting_supplies_maxine_bdc29ba3:
+
+    # mc "Tell me, can it see through... anything?"
+    mc "Dites-moi, est-ce que ça peut voir ... n'importe quoi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:310
+translate french quest_nurse_venting_supplies_maxine_b15ad0f2:
+
+    # maxine thinking "I've got it configured for walls and metal. Not fabric."
+    maxine thinking "Je l'ai configurée pour les murs et le métal. Pas de matrice."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:311
+translate french quest_nurse_venting_supplies_maxine_d2b1e067:
+
+    # mc "Okay, okay. Just checking..."
+    mc "Ok, ok. Juste le contrôle ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:312
+translate french quest_nurse_venting_supplies_maxine_278e38e5:
+
+    # mc "I'll let you know if we run into any soap goblins in there."
+    mc "Je vous laisse savoir si nous courons dans n'importe quel gobelet de savon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:313
+translate french quest_nurse_venting_supplies_maxine_e5e23bf8:
+
+    # maxine thinking "Their venom will clean a person's blood until it's like water. Watch out for that."
+    maxine thinking "Leur venin nettoira le sang d'une personne jusqu'à ce qu'elle soit comme de l'eau. Attention à ça."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:321
+translate french quest_nurse_venting_supplies_supply_closet_b04df6b1:
+
+    # "Easy on the body, easy on the eyes."
+    "Facile sur le corps, facile sur les yeux."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:322
+translate french quest_nurse_venting_supplies_supply_closet_1972abcf:
+
+    # "No way does [jacklyn] use this for art."
+    "Le [jacklyn] n'est pas utilisé pour l'art."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:331
+translate french quest_nurse_venting_nurse_room_vent_interact_d8bfac65:
+
+    # "Nah. Who knows what lurks inside the school's walls?"
+    "Nah. Qui sait ce qui se trouve à l'intérieur des murs de l'école?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:332
+translate french quest_nurse_venting_nurse_room_vent_interact_57dc89e9:
+
+    # "Spiders... soap goblins... [maxine]..."
+    "Les araignées ... les gobelets à savon ... [maxine]..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:333
+translate french quest_nurse_venting_nurse_room_vent_interact_d24fcb05:
+
+    # "Yeah, no thanks."
+    "Oui, merci."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:338
+translate french quest_nurse_venting_ready_f96f67db:
+
+    # nurse concerned "Is it time? Into the vent?"
+    nurse concerned "Est-il temps? Dans l'évent?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:341
+translate french quest_nurse_venting_ready_11fdb519:
+
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:344
+translate french quest_nurse_venting_ready_0dddfcb6:
+
+    # mc "First we have to get you ready. Strip."
+    mc "Nous devons d'abord vous préparer. Bande."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:345
+translate french quest_nurse_venting_ready_429a1969:
+
+    # nurse thinking "Strip?"
+    nurse thinking "Bande?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:346
+translate french quest_nurse_venting_ready_60fa5763:
+
+    # mc "Of course. The vents are tight. We have to remove every unnecessary{space=-30}\nlayer of clothing."
+    mc "Bien sûr. Les évents sont serrés. Nous devons retirer toutes les couches inutiles de vêtements { space=-30 }\n."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:347
+translate french quest_nurse_venting_ready_9ae6d0cc:
+
+    # nurse sad "If you say so..."
+    nurse sad "Si vous le dites ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:348
+translate french quest_nurse_venting_ready_046eafdd:
+
+    # nurse sad "Some days I think I spend more time undressed than I do dressed."
+    nurse sad "Certains jours, je pense que je passe plus de temps en déshabillé que je ne suis habillé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:354
+translate french quest_nurse_venting_ready_c117c59f:
+
+    # nurse concerned "I don't know how I feel about that."
+    nurse concerned "Je ne sais pas ce que je ressens à ce sujet."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:355
+translate french quest_nurse_venting_ready_cef9cdf4:
+
+    # mc "Don't be coy. It excites you."
+    mc "Ne pas être coy. Ça vous excite."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:361
+translate french quest_nurse_venting_ready_da6d24e1:
+
+    # nurse blush "I don't know about that..."
+    nurse blush "Je ne sais pas ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:362
+translate french quest_nurse_venting_ready_fc164b32:
+
+    # mc "But I do."
+    mc "Mais je le fais."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:368
+translate french quest_nurse_venting_ready_e8139aac:
+
+    # nurse thinking "I'm so exposed like this..."
+    nurse thinking "Je suis si exposée comme ça ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:369
+translate french quest_nurse_venting_ready_7340f02f:
+
+    # nurse thinking "What if I get caught?"
+    nurse thinking "Que faire si je me capture?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:370
+translate french quest_nurse_venting_ready_36d2bbe9:
+
+    # mc "Don't be ridiculous. The [guard] has eaten way too many doughnuts to fit in the vent."
+    mc "Ne pas être ridicule. Le [guard] a consommé trop de beignes pour s'adapter à l'évent."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:371
+translate french quest_nurse_venting_ready_08c87b15:
+
+    # nurse annoyed "But what if I get stuck?"
+    nurse annoyed "Mais si je suis coincé?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:372
+translate french quest_nurse_venting_ready_3c71a4a4:
+
+    # mc "See, that's why I brought this. Let's oil you up."
+    mc "Voir, c'est pourquoi j'ai apporté ça. Allons-y de l'huile."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:373
+translate french quest_nurse_venting_ready_81fb2f94:
+
+    # nurse neutral "But won't I be all icky then?"
+    nurse neutral "Mais je ne serai pas tout aussi icky?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:374
+translate french quest_nurse_venting_ready_a6b458f7:
+
+    # mc "Do you want friction burns?"
+    mc "Est-ce que vous voulez des brûlures de friction?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:375
+translate french quest_nurse_venting_ready_d4c64e6a:
+
+    # nurse annoyed "No..."
+    nurse annoyed "Non."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:376
+translate french quest_nurse_venting_ready_744ddbd2:
+
+    # mc "Then shut up and let me spread this on you."
+    mc "Ensuite, fermez et laissez-moi vous étendre sur vous."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:377
+translate french quest_nurse_venting_ready_8ad528a7:
+
+    # nurse annoyed "Yes, sir..."
+    nurse annoyed "Oui, monsieur ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:378
+translate french quest_nurse_venting_ready_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:384
+translate french quest_nurse_venting_ready_69ccfca2:
+
+    # nurse afraid "Ah! It's cold!"
+    nurse afraid "Ah ! Il fait froid !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:387
+translate french quest_nurse_venting_ready_fb5f687d:
+
+    # "The oil spreads over her skin like liquid light."
+    "L'huile se répand sur sa peau comme la lumière liquide."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:388
+translate french quest_nurse_venting_ready_69bf9345:
+
+    # "My hands explore every inch of her, the curve of her hips, the fold under her tits, the warmth between her thighs..."
+    "Mes mains explorent chaque pouce d'elle, la courbe de ses hanches, le pli sous ses seins, la chaleur entre ses cuisses ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:389
+translate french quest_nurse_venting_ready_8b737346:
+
+    # "The heat of me goes into the oil, so that her skin heats up, getting slick and warm."
+    "La chaleur de moi va dans l'huile, de sorte que sa peau se réchauffe, se coupe et se réchauffe."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:390
+translate french quest_nurse_venting_ready_d5e8eea8:
+
+    # "Little shivers of ecstasy radiate out from my touch. She's trembling.{space=-5}"
+    "Peu de frissons d'extase rayonnent de mon toucher. Elle tremble. { space=-5 }"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:391
+translate french quest_nurse_venting_ready_13569386:
+
+    # "Look at her. The way her lips part, her eyes close, and her head\ntilts back."
+    "Regarde elle. La façon dont sa bouche part, ses yeux de près, et sa tête\nbascule."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:392
+translate french quest_nurse_venting_ready_16925a8c:
+
+    # mc "You're getting off on this, aren't you?"
+    mc "Vous allez vous en sortir, n'est-ce pas?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:393
+translate french quest_nurse_venting_ready_737d5dd6:
+
+    # nurse annoyed_oiled_up "I'm not sure I should say..."
+    nurse annoyed_oiled_up "Je ne suis pas sûr de dire ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:394
+translate french quest_nurse_venting_ready_53e25cc6:
+
+    # mc "I'm telling you to answer me. Are you enjoying this?"
+    mc "Je vous dis de me répondre. Es-tu en train de profiter de ça?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:395
+translate french quest_nurse_venting_ready_ac965cc1:
+
+    # nurse blush_oiled_up "Y-yes."
+    nurse blush_oiled_up "Y-oui."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:396
+translate french quest_nurse_venting_ready_9e793d27:
+
+    # mc "Are you getting excited?"
+    mc "Vous êtes excité?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:398
+translate french quest_nurse_venting_ready_43510995:
+
+    # nurse blush_oiled_up "Yes..."
+    nurse blush_oiled_up "Oui ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:399
+translate french quest_nurse_venting_ready_9b63b813:
+
+    # mc "Haha! You really are! You're soaked."
+    mc "Haha ! Vous êtes vraiment ! Tu es trempé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:400
+translate french quest_nurse_venting_ready_b29591e6:
+
+    # mc "If only I'd known, we wouldn't have needed so much oil."
+    mc "Si seulement j'avais su, nous n'aurions pas eu besoin de beaucoup d'huile."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:401
+translate french quest_nurse_venting_ready_05861391:
+
+    # nurse sad_oiled_up "Please, you're embarrassing me..."
+    nurse sad_oiled_up "S'il vous plaît, vous me gênez ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:402
+translate french quest_nurse_venting_ready_e7b88e90:
+
+    # mc "Whatever."
+    mc "Quoi qu'il en soit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:405
+translate french quest_nurse_venting_ready_19c6a66d:
+
+    # mc "I've got everything we need."
+    mc "J'ai tout ce dont nous avons besoin."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:406
+translate french quest_nurse_venting_ready_b3d87ae7:
+
+    # nurse thinking "And what is it we're looking for again?"
+    nurse thinking "Et qu'est-ce que nous recherchons à nouveau?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:407
+translate french quest_nurse_venting_ready_a5d0a60e:
+
+    # mc "My inhaler. But if you happen to find a fish hook in there, take it."
+    mc "Mon inhalateur. Mais si vous trouvez un crochet de la pêche, prez-le."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:408
+translate french quest_nurse_venting_ready_54d48702:
+
+    # nurse sad "Are you sure you have an inhaler?"
+    nurse sad "Etes-vous sûr d'avoir un inhalateur?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:409
+translate french quest_nurse_venting_ready_7ee22fb4:
+
+    # mc "Of course I do!"
+    mc "Bien sûr que je le fais !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:410
+translate french quest_nurse_venting_ready_68df94bb:
+
+    # nurse sad "Because I'd help you even if you were looking for something else."
+    nurse sad "Parce que je t'aiderais même si tu cherchais quelque chose d'autre."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:411
+translate french quest_nurse_venting_ready_07abedd8:
+
+    # nurse blush "I like to be helpful."
+    nurse blush "J'aime être utile."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:412
+translate french quest_nurse_venting_ready_06dd4d03:
+
+    # mc "...fine. There's no inhaler. It's the fish hook I'm really after."
+    mc "... fin. Il n'y a pas d'inhalateur. C'est le crochet du poisson que je suis vraiment après."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:414
+translate french quest_nurse_venting_ready_37910738:
+
+    # nurse smile "Thank you for being honest. Honesty is very important to me."
+    nurse smile "Merci d'être honnête. L'honnêteté est très importante pour moi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:415
+translate french quest_nurse_venting_ready_7dca57c3:
+
+    # "Ugh, now I kind of feel bad. She's so sweet."
+    "Ugh, maintenant je me sens mal. Elle est si douce."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:416
+translate french quest_nurse_venting_ready_f96d56b3:
+
+    # "But... it's for the greater good..."
+    "Mais ... c'est pour le plus grand bien ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:417
+translate french quest_nurse_venting_ready_a1c51a13:
+
+    # mc "Are you sure you're okay with this?"
+    mc "Etes-vous sûr que vous allez bien avec ça?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:418
+translate french quest_nurse_venting_ready_7a57c037:
+
+    # nurse smile "Will it make you happy?"
+    nurse smile "Est-ce que ça te rendra heureux?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:419
+translate french quest_nurse_venting_ready_8077eab6:
+
+    # mc "It would."
+    mc "Il le ferait."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:420
+translate french quest_nurse_venting_ready_4c09c622:
+
+    # nurse smile "Then I'm okay with it."
+    nurse smile "Alors je vais bien avec."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:423
+translate french quest_nurse_venting_ready_09a0d666:
+
+    # mc "Not yet. I need more things."
+    mc "Pas encore. J'ai besoin de plus de choses."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:424
+translate french quest_nurse_venting_ready_f36e3c22:
+
+    # nurse concerned "Okay, I'll be waiting..."
+    nurse concerned "Ok, je vais attendre ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:427
+translate french quest_nurse_venting_ready_28fe3f60:
+
+    # mc "Let's get this started. Here's your walkie-talkie."
+    mc "Commençons par commencer. Voici votre walkie-talkie."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:429
+translate french quest_nurse_venting_ready_d1cd275e:
+
+    # mc "The place you're trying to get to is two floors above us, so try to go up as much as possible."
+    mc "La place que vous essayez d'atteindre est deux étages au-dessus de nous, alors essayez d'augmenter autant que possible."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:430
+translate french quest_nurse_venting_ready_62c2757c:
+
+    # mc "If you get stuck or lost, wait for me to come find you. I'll help you figure out where to go."
+    mc "Si vous êtes coincé ou perdu, attendez que je vienne vous trouver. Je t'aiderai à trouver où aller."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:432
+translate french quest_nurse_venting_ready_73fc0741:
+
+    # nurse annoyed_oiled_up "I'm not sure my hips can fit into the vent... It's going to be tight."
+    nurse annoyed_oiled_up "Je ne suis pas sûr que mes hanches puissent entrer dans l'évent ... Ça va être serré."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:434
+translate french quest_nurse_venting_ready_29af0e2d:
+
+    # nurse annoyed "I'm not sure my hips can fit into the vent... It's going to be tight."
+    nurse annoyed "Je ne suis pas sûr que mes hanches puissent entrer dans l'évent ... Ça va être serré."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:435
+translate french quest_nurse_venting_ready_3e883d5d:
+
+    # mc "Tight fits are the best fits! Nothing a little push can't fix."
+    mc "Les vêtements adaptés sont les meilleurs ! Rien qu'une petite poussée ne peut réparer."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:437
+translate french quest_nurse_venting_ready_6343f3c4:
+
+    # nurse neutral_oiled_up "Okay... Please just... don't abandon me in there. It's dark."
+    nurse neutral_oiled_up "Ok ... S'il vous plaît, ne m'abandonnez pas ici. C'est sombre."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:439
+translate french quest_nurse_venting_ready_11788cd5:
+
+    # nurse neutral "Okay... Please just... don't abandon me in there. It's dark."
+    nurse neutral "Ok ... S'il vous plaît, ne m'abandonnez pas ici. C'est sombre."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:440
+translate french quest_nurse_venting_ready_104c3a48:
+
+    # mc "We've got our walkie-talkies. Don't worry. I won't let you down."
+    mc "Nous avons nos walkie-talkies. Ne t'inquiète pas. Je ne te laisserai pas tomber."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:442
+translate french quest_nurse_venting_ready_da40baef:
+
+    # nurse smile_oiled_up "Thank you..."
+    nurse smile_oiled_up "Merci ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:443
+translate french quest_nurse_venting_ready_da04f39e:
+
+    # nurse smile_oiled_up "Here I go."
+    nurse smile_oiled_up "Je vais y aller."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:445
+translate french quest_nurse_venting_ready_6581e446:
+
+    # nurse smile "Thank you..."
+    nurse smile "Merci ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:446
+translate french quest_nurse_venting_ready_4d4d70bc:
+
+    # nurse smile "Here I go."
+    nurse smile "Je vais y aller."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:466
+translate french quest_nurse_venting_walkie_talkie_93e9f412:
+
+    # nurse "I have no idea where I am..."
+    nurse "Je n'ai aucune idée où je suis ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:467
+translate french quest_nurse_venting_walkie_talkie_5f9c1c2e:
+
+    # nurse "I might be dehydrated.\nThe air is so hot and dry."
+    nurse "Je pourrais être déshydraté.\nL'air est si chaud et sec."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:468
+translate french quest_nurse_venting_walkie_talkie_55d6cbc3:
+
+    # mc "Do you need me to\ncome find you?"
+    mc "Vous avez besoin de moi au\nvenir vous trouver?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:469
+translate french quest_nurse_venting_walkie_talkie_d4c6052e:
+
+    # nurse "P-please..."
+    nurse "P-SVP ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:470
+translate french quest_nurse_venting_walkie_talkie_54f1af82:
+
+    # mc "Hold tight. Let me\ncheck some rooms."
+    mc "Suspension serrée. Laissez-moi\nvérifier certaines chambres."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:472
+translate french quest_nurse_venting_walkie_talkie_36c9e566:
+
+    # "The [nurse] has finally made it to [maxine]'s office! Now I just need to drop her a water bottle before she passes out..."
+    "Le [nurse] l'a finalement fait au bureau [maxine]! Maintenant j'ai juste besoin de lui laisser une bouteille d'eau avant qu'elle ne passe ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:482
+translate french quest_nurse_venting_walkie_talkie_72b289a4:
+
+    # nurse "I forgot which way I was\ngoing... I might be a bit\ndisoriented..."
+    nurse "J'ai oublié de quel chemin j'étais\n... Je pourrais être un peu\ndésorienté ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:483
+translate french quest_nurse_venting_walkie_talkie_51d817de:
+
+    # nurse "I'm so dehydrated...\nI'm seeing double...\nNo, triple... No, single..."
+    nurse "Je suis déshydraté ...\nJe vois le double ...\nNon, triple ... Non, célio ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:484
+translate french quest_nurse_venting_walkie_talkie_27c0e95e:
+
+    # mc "You do sound dehydrated.\nLet's get you out of here."
+    mc "You do sound déshydrated.\nLaissez vous sortir d'ici."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:485
+translate french quest_nurse_venting_walkie_talkie_4a5136e2:
+
+    # mc "You're in the gym. You\nhave to turn around."
+    mc "Vous êtes dans la salle de gym. You\nhave to turn around."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:486
+translate french quest_nurse_venting_walkie_talkie_033d1a0d:
+
+    # nurse "There's an intersection.\nWhich way should I go?"
+    nurse "Il y a une intersection.\nQuelle est la voie à suivre?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:489
+translate french quest_nurse_venting_walkie_talkie_01d71aab:
+
+    # mc "Left."
+    mc "Gauche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:490
+translate french quest_nurse_venting_walkie_talkie_1bea1257:
+
+    # nurse "To the left, to the left!"
+    nurse "A gauche, à gauche !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:491
+translate french quest_nurse_venting_walkie_talkie_b37cc237:
+
+    # nurse "I used to sing that\nin nursing school..."
+    nurse "I used to sing that\nin nursing school ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:492
+translate french quest_nurse_venting_walkie_talkie_0ce168e8:
+
+    # nurse "Hey, it smells like paint!"
+    nurse "Hé, ça sent la peinture !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:495
+translate french quest_nurse_venting_walkie_talkie_8c4d38a3:
+
+    # mc "Straight."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:496
+translate french quest_nurse_venting_walkie_talkie_6d5807bd:
+
+    # nurse "I can do straight! And I can\ndo ladies, too! Haha!"
+    nurse "Je peux faire droit ! Et je peux\nfaire des dames aussi ! Haha !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:497
+translate french quest_nurse_venting_walkie_talkie_dd847a7b:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:498
+translate french quest_nurse_venting_walkie_talkie_caf51b06:
+
+    # nurse "Sounds like someone is\nwriting on a blackboard...\nand I think I heard [mrsl]'s\nvoice."
+    nurse "Sounds like someone is\nwriting on a blackboard ...\nand I think I heard [mrsl]'s\nvoice."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:501
+translate french quest_nurse_venting_walkie_talkie_716019b8:
+
+    # mc "Right."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:502
+translate french quest_nurse_venting_walkie_talkie_0ab846ca:
+
+    # nurse "Right!"
+    nurse "Droit !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:503
+translate french quest_nurse_venting_walkie_talkie_f36e5aec:
+
+    # mc "Exactly."
+    mc "Exactement."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:504
+translate french quest_nurse_venting_walkie_talkie_5bf3f9f9:
+
+    # nurse "Haha! I think I heard a\nvending machine puke!"
+    nurse "Haha ! Je crois que j'ai entendu un petit distributeur automatique de\n!"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:507
+translate french quest_nurse_venting_walkie_talkie_540674d8:
+
+    # nurse "I could drink a whole vending\nmachine right now..."
+    nurse "I could drink a whole vending\nmachine right now ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:508
+translate french quest_nurse_venting_walkie_talkie_5276f391:
+
+    # mc "That's all sugar stuff.\nShouldn't nurses be\nmore into water?"
+    mc "C'est tout le sucre.\nLes infirmières ne devraient-elles pas être\nplus dans l'eau?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:509
+translate french quest_nurse_venting_walkie_talkie_8d618721:
+
+    # nurse "I have a hopeless\nsweet tooth!"
+    nurse "I have a hopeless\nsweet tooth !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:510
+translate french quest_nurse_venting_walkie_talkie_a7e590b0:
+
+    # mc "Maybe that's something\nthat needs working on..."
+    mc "Peut-être que c'est quelque chose\nqui a besoin de travailler sur ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:511
+translate french quest_nurse_venting_walkie_talkie_62453c6d:
+
+    # mc "Anyway, keep going."
+    mc "En tout cas, continuez."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:512
+translate french quest_nurse_venting_walkie_talkie_95c541fa:
+
+    # nurse "Which way should\nI go?"
+    nurse "Quel est le chemin\n?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:515
+translate french quest_nurse_venting_walkie_talkie_01d71aab_1:
+
+    # mc "Left."
+    mc "Gauche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:516
+translate french quest_nurse_venting_walkie_talkie_227e02d2:
+
+    # nurse "Getting left behind...\nthat's what I was always\nworried about in school."
+    nurse "Getting left behind ...\nthat's what I was always\ninquiet about in school."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:517
+translate french quest_nurse_venting_walkie_talkie_dd847a7b_1:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:518
+translate french quest_nurse_venting_walkie_talkie_4e2976e1:
+
+    # nurse "I can hear balls up ahead!\nBouncing, bouncing! And\nrunning feet!"
+    nurse "I can hear ball up ahead !\nBrebondit, rebondit ! Et\npieds de course !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:521
+translate french quest_nurse_venting_walkie_talkie_8c4d38a3_1:
+
+    # mc "Straight."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:522
+translate french quest_nurse_venting_walkie_talkie_4e877908:
+
+    # nurse "As an arrow!"
+    nurse "En tant que flèche !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:523
+translate french quest_nurse_venting_walkie_talkie_bcd26773:
+
+    # nurse "Ow!" with vpunch
+    nurse "Ow !" with vpunch
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:524
+translate french quest_nurse_venting_walkie_talkie_ef4c3c9e:
+
+    # nurse "I hit my head..."
+    nurse "J'ai frappé la tête ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:525
+translate french quest_nurse_venting_walkie_talkie_bc224947:
+
+    # nurse "I think I can hear [mrsl]?\nSmells like cigarettes here."
+    nurse "Je crois que je peux entendre [mrsl]?\nDes odeurs comme les cigarettes ici."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:528
+translate french quest_nurse_venting_walkie_talkie_716019b8_1:
+
+    # mc "Right."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:529
+translate french quest_nurse_venting_walkie_talkie_354b5625:
+
+    # nurse "Right, okay."
+    nurse "Droit, ok."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:530
+translate french quest_nurse_venting_walkie_talkie_dd847a7b_2:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:531
+translate french quest_nurse_venting_walkie_talkie_54ff3261:
+
+    # nurse "I'm hearing a chisel.\nNo, wait! Two chisels!"
+    nurse "J'entends un ciseau.\nNon, attendez ! Deux ciseaux !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:534
+translate french quest_nurse_venting_walkie_talkie_bf4c6f19:
+
+    # mc "Let's hurry this up. I\ndon't want you to get\nstuck in there."
+    mc "Allons de l'avant. I\nne veux pas que vous obtiens\n."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:535
+translate french quest_nurse_venting_walkie_talkie_7ec4198e:
+
+    # nurse "If I get stuck they'll have\nto perform a c-section on\nthe vent! Haha!"
+    nurse "Si je suis coincé, ils auront\npour effectuer une c-section sur\nle vent ! Haha !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:538
+translate french quest_nurse_venting_walkie_talkie_ebccc5e7:
+
+    # "That's probably easier said than done."
+    "C'est probablement plus facile à dire qu'à faire."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:541
+translate french quest_nurse_venting_walkie_talkie_7ed92dcf:
+
+    # mc "Please don't get\nstuck in there..."
+    mc "S'il vous plaît, ne recevez pas\ncoincé là ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:542
+translate french quest_nurse_venting_walkie_talkie_021d67dc:
+
+    # nurse "I'll do my best!"
+    nurse "Je ferai de mon mieux !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:543
+translate french quest_nurse_venting_walkie_talkie_d2b2af4c:
+
+    # mc "Okay, let's pick a\ndirection for you."
+    mc "Ok, choisissez une direction\npour vous."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:546
+translate french quest_nurse_venting_walkie_talkie_01d71aab_2:
+
+    # mc "Left."
+    mc "Gauche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:547
+translate french quest_nurse_venting_walkie_talkie_3e42f36b:
+
+    # nurse "Left, left, left,\nright, left!"
+    nurse "Gauche, gauche, gauche,\ndroite, gauche !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:548
+translate french quest_nurse_venting_walkie_talkie_92cf410e:
+
+    # nurse "If it wasn't so serious, I'd\nlove to be an army medic."
+    nurse "Si ce n'était pas si grave, j'aurais\namour d'être un infirmier militaire."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:549
+translate french quest_nurse_venting_walkie_talkie_87cd8c4c:
+
+    # nurse "They're always getting\ntold what to do."
+    nurse "Ils reçoivent toujours\ndire quoi faire."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:550
+translate french quest_nurse_venting_walkie_talkie_dd847a7b_3:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:551
+translate french quest_nurse_venting_walkie_talkie_f8cab383:
+
+    # nurse "Squeaky shoes and\ncheers in this direction!"
+    nurse "Les chaussures Squeaky et\nles acclameurs dans cette direction !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:554
+translate french quest_nurse_venting_walkie_talkie_8c4d38a3_2:
+
+    # mc "Straight."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:555
+translate french quest_nurse_venting_walkie_talkie_6d4fa769:
+
+    # nurse "Straight? You or me?"
+    nurse "Droit? Toi ou moi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:558
+translate french quest_nurse_venting_walkie_talkie_a0071fbf:
+
+    # "That dehydration is really getting to her..."
+    "Cette déshydratation va vraiment à elle ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:561
+translate french quest_nurse_venting_walkie_talkie_5a8cf11b:
+
+    # mc "Just keep going, [nurse]."
+    mc "Just keep going, [nurse]."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:562
+translate french quest_nurse_venting_walkie_talkie_af2833d4:
+
+    # nurse "Oh, deary me...\nI'm so thirsty."
+    nurse "Oh, déary me ...\nI'm so soif."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:563
+translate french quest_nurse_venting_walkie_talkie_2e3ecc03:
+
+    # nurse "There's a {i}tap tap tap tap,\nclink{/} up ahead!"
+    nurse "Il y a un robinet du robinet du robinet {i},\nclink { / } à l'avance !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:564
+translate french quest_nurse_venting_walkie_talkie_9304e36f:
+
+    # nurse "Sounds like an\nold typewriter!"
+    nurse "Sounds like an\nold typewriter !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:567
+translate french quest_nurse_venting_walkie_talkie_716019b8_2:
+
+    # mc "Right."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:568
+translate french quest_nurse_venting_walkie_talkie_f73d66a3:
+
+    # nurse "You said it!"
+    nurse "Vous l'avez dit !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:569
+translate french quest_nurse_venting_walkie_talkie_4f2bfdc0:
+
+    # mc "I did say it."
+    mc "Je l'ai dit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:570
+translate french quest_nurse_venting_walkie_talkie_dd847a7b_4:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:571
+translate french quest_nurse_venting_walkie_talkie_018b4586:
+
+    # nurse "It's quiet up ahead... just\nthe sound of chalk scratching\na blackboard."
+    nurse "It's quiet up ahead ... just\nthe sound of chalk scratching\na blackboard."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:574
+translate french quest_nurse_venting_walkie_talkie_20c85a66:
+
+    # nurse "Are we close? We\nhave to be close..."
+    nurse "Sommes-nous près? We\nhave to be close ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:575
+translate french quest_nurse_venting_walkie_talkie_877004d7:
+
+    # mc "Almost there... I think."
+    mc "Presque là ... Je pense."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:576
+translate french quest_nurse_venting_walkie_talkie_ae57ec7f:
+
+    # nurse "Okay. I trust you."
+    nurse "Ok. Je vous fais confiance."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:577
+translate french quest_nurse_venting_walkie_talkie_a19a4404:
+
+    # nurse "Where to next?"
+    nurse "Où ensuite?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:580
+translate french quest_nurse_venting_walkie_talkie_01d71aab_3:
+
+    # mc "Left."
+    mc "Gauche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:581
+translate french quest_nurse_venting_walkie_talkie_2b0e3914:
+
+    # nurse "It feels like I've been\nin here forever..."
+    nurse "C'est comme si j'avais été\nici pour toujours ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:582
+translate french quest_nurse_venting_walkie_talkie_a888eae0:
+
+    # nurse "Maybe I'll be old enough\nto retire when I get out."
+    nurse "Peut-être que je serai assez vieux\npour prendre ma retraite."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:583
+translate french quest_nurse_venting_walkie_talkie_dd847a7b_5:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:584
+translate french quest_nurse_venting_walkie_talkie_3acd2c54:
+
+    # nurse "I hear a tap and\nsplashing water."
+    nurse "J'entends un robinet et\néclaboussage d'eau."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:587
+translate french quest_nurse_venting_walkie_talkie_8c4d38a3_3:
+
+    # mc "Straight."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:588
+translate french quest_nurse_venting_walkie_talkie_2008d977:
+
+    # nurse "I've got a good feeling\nabout this one!"
+    nurse "I've got a good feeling\nabout this one !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:589
+translate french quest_nurse_venting_walkie_talkie_acc20661:
+
+    # mc "Me too!"
+    mc "Moi aussi !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:590
+translate french quest_nurse_venting_walkie_talkie_d9591dd0:
+
+    # nurse "[maxine] plays basketball\nin her office, right?"
+    nurse "[maxine] joue au basket-ball\ndans son bureau, non?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:591
+translate french quest_nurse_venting_walkie_talkie_85152b91:
+
+    # nurse "I'm hearing basketballs..."
+    nurse "I'm hearing basketball ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:594
+translate french quest_nurse_venting_walkie_talkie_716019b8_3:
+
+    # mc "Right."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:595
+translate french quest_nurse_venting_walkie_talkie_957b35e8:
+
+    # nurse "That's the question!\nWhere to?"
+    nurse "C'est la question !\nOù?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:596
+translate french quest_nurse_venting_walkie_talkie_3de85c7e:
+
+    # mc "No, I'm answering\nyou. Go right."
+    mc "Non, je répondis\n. Va bien."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:597
+translate french quest_nurse_venting_walkie_talkie_5b2a9c2c:
+
+    # nurse "Oh, I thought you were\nsaying... sorry, I'm getting\na bit sleepy..."
+    nurse "Oh, je pensais que tu étais\nen disant ... désolé, je prends\nun peu endormi ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:598
+translate french quest_nurse_venting_walkie_talkie_0f3e7acb:
+
+    # nurse "Okay, right."
+    nurse "Ok, non."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:599
+translate french quest_nurse_venting_walkie_talkie_45b3f836:
+
+    # mc "What are you hearing now?"
+    mc "Qu'entend-on maintenant?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:600
+translate french quest_nurse_venting_walkie_talkie_f3df12e8:
+
+    # nurse "You!"
+    nurse "Vous !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:601
+translate french quest_nurse_venting_walkie_talkie_3664961a:
+
+    # mc "Yes, but put the walkie-talkie\ndown and then listen."
+    mc "Oui, mais mettre le talkie-walkie\npuis écouter."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:602
+translate french quest_nurse_venting_walkie_talkie_f5ef45eb:
+
+    # nurse "I did! I heard you\nthrough the wall!"
+    nurse "Je l'ai fait ! Je t'ai entendu\nà travers le mur !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:603
+translate french quest_nurse_venting_walkie_talkie_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:604
+translate french quest_nurse_venting_walkie_talkie_dd847a7b_6:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:605
+translate french quest_nurse_venting_walkie_talkie_21c0f0bd:
+
+    # mc "Did you just go\nin a circle?"
+    mc "Avez-vous juste fait le\ndans un cercle?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:606
+translate french quest_nurse_venting_walkie_talkie_3a2b7f85:
+
+    # nurse "Possibly!"
+    nurse "Éventuellement !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:614
+translate french quest_nurse_venting_walkie_talkie_65dd1493:
+
+    # nurse "It's dark in here. I keep catching\non the vent's edges."
+    nurse "Il fait noir ici. Je continue à attraper\nsur les bords de l'évent."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:615
+translate french quest_nurse_venting_walkie_talkie_622ad2ba:
+
+    # mc " But are you making progress?\nCan you see where you're going?"
+    mc " Mais est-ce que tu fais des progrès?\nPouvez-vous voir où vous allez?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:616
+translate french quest_nurse_venting_walkie_talkie_f4ae5ad0:
+
+    # nurse "Sort of... there's openings\nthat let in some light..."
+    nurse "Triés de ... il y a des ouvertures\nqui laissent en lumière ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:617
+translate french quest_nurse_venting_walkie_talkie_40de629d:
+
+    # nurse "And it's so hot. I'm sweating.\nThe dust is sticking to my sweat."
+    nurse "Et c'est si chaud. Je transpirais.\nLa poussière s'en tient à ma sueur."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:618
+translate french quest_nurse_venting_walkie_talkie_25ecbe8b:
+
+    # mc "We'll get you showered\noff once you're done."
+    mc "Nous vous ferons connaître\nune fois que vous aurez terminé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:619
+translate french quest_nurse_venting_walkie_talkie_39ccff21:
+
+    # mc "Just keep moving for now.\nHave you gone up a floor yet?"
+    mc "Just keep moving for now.\nAvez-vous déjà pris la parole?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:620
+translate french quest_nurse_venting_walkie_talkie_44b58b9a:
+
+    # nurse "Yes, but I can't find another\nway up. I've passed a few\njunctions and I may have\ngotten turned around..."
+    nurse "Oui, mais je n'arrive pas à trouver un autre moyen de\n. J'ai passé quelques\njonctions et j'ai peut-être\n..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:623
+translate french quest_nurse_venting_walkie_talkie_702b3ae7:
+
+    # "I shouldn't be surprised. She could get lost on a one-way street."
+    "Je ne devrais pas être surpris. Elle pourrait se perdre dans une rue à sens unique."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:626
+translate french quest_nurse_venting_walkie_talkie_6307b445:
+
+    # mc "Just keep moving. I'm sure\nyou'll find the way eventually."
+    mc "Just keep moving. Je suis sûr que\nvous trouverez la voie à la fin."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:629
+translate french quest_nurse_venting_walkie_talkie_93e9f412_1:
+
+    # nurse "I have no idea where I am..."
+    nurse "Je n'ai aucune idée où je suis ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:630
+translate french quest_nurse_venting_walkie_talkie_5f9c1c2e_1:
+
+    # nurse "I might be dehydrated.\nThe air is so hot and dry."
+    nurse "Je pourrais être déshydraté.\nL'air est si chaud et sec."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:631
+translate french quest_nurse_venting_walkie_talkie_55d6cbc3_1:
+
+    # mc "Do you need me to\ncome find you?"
+    mc "Vous avez besoin de moi au\nvenir vous trouver?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:632
+translate french quest_nurse_venting_walkie_talkie_d4c6052e_1:
+
+    # nurse "P-please..."
+    nurse "P-SVP ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:633
+translate french quest_nurse_venting_walkie_talkie_54f1af82_1:
+
+    # mc "Hold tight. Let me\ncheck some rooms."
+    mc "Suspension serrée. Laissez-moi\nvérifier certaines chambres."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:638
+translate french quest_nurse_venting_walkie_talkie_93e9f412_2:
+
+    # nurse "I have no idea where I am..."
+    nurse "Je n'ai aucune idée où je suis ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:639
+translate french quest_nurse_venting_walkie_talkie_5f9c1c2e_2:
+
+    # nurse "I might be dehydrated.\nThe air is so hot and dry."
+    nurse "Je pourrais être déshydraté.\nL'air est si chaud et sec."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:640
+translate french quest_nurse_venting_walkie_talkie_55d6cbc3_2:
+
+    # mc "Do you need me to\ncome find you?"
+    mc "Vous avez besoin de moi au\nvenir vous trouver?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:641
+translate french quest_nurse_venting_walkie_talkie_d4c6052e_2:
+
+    # nurse "P-please..."
+    nurse "P-SVP ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:642
+translate french quest_nurse_venting_walkie_talkie_54f1af82_2:
+
+    # mc "Hold tight. Let me\ncheck some rooms."
+    mc "Suspension serrée. Laissez-moi\nvérifier certaines chambres."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:652
+translate french quest_nurse_venting_walkie_talkie_home_5e230eea:
+
+    # "Hmm... no signal. Maybe I got too far from the [nurse]?"
+    "Hmm ... pas de signal. Peut-être que je suis trop loin du [nurse]?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:656
+translate french quest_nurse_venting_ground_floor_exit_arrow_go1_c8173548:
+
+    # "I promised the [nurse] I wouldn't abandon her in the vents. Can't let her down now."
+    "J'ai promis le [nurse] Je ne l'abandonnerais pas dans les évents. Je ne peux pas la laisser tomber maintenant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:665
+translate french quest_nurse_venting_lost_dd3ea87e:
+
+    # nurse "[mc]? I'm getting nervous...\nand possibly delirious."
+    nurse "[mc]? Je suis nerveuse ...\net peut-être délirante."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:666
+translate french quest_nurse_venting_lost_103cb135:
+
+    # nurse "There's strange shapes\nmoving inside the vents..."
+    nurse "Il y a des formes étranges\nse déplaçant à l'intérieur des évents ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:669
+translate french quest_nurse_venting_lost_eca4b631:
+
+    # "Could those be the soap goblins...?"
+    "Est-ce que ce sont les goblins à savon ...?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:670
+translate french quest_nurse_venting_lost_a56f43df:
+
+    # "No way. Those definitely aren't real."
+    "Pas de chemin. Ce n'est absolument pas réel."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:673
+translate french quest_nurse_venting_lost_51bd6b84:
+
+    # mc "Hold on. I'm still checking\nrooms. I'll find you soon."
+    mc "Mise en attente. Je vérifie encore\nchambres. Je te trouverai bientôt."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:674
+translate french quest_nurse_venting_lost_69efe1ec:
+
+    # nurse "Please hurry!"
+    nurse "Veuillez vous dépêchez !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:676
+translate french quest_nurse_venting_lost_36264fec:
+
+    # mc "You don't tell me\nwhat to do."
+    mc "You don't tell me\nwhat to do."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:677
+translate french quest_nurse_venting_lost_cf37cc47:
+
+    # nurse "Of course. I'm sorry."
+    nurse "Bien sûr. Je suis désolé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:678
+translate french quest_nurse_venting_lost_d9ba0a11:
+
+    # nurse "It's the heat... I'm\nfeeling so open."
+    nurse "C'est la chaleur ... Je suis\nsensation si ouverte."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:679
+translate french quest_nurse_venting_lost_53b708ae:
+
+    # mc "You've been in there for\nwhat? Five minutes?"
+    mc "You've been in there for\nwhat? Cinq minutes?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:680
+translate french quest_nurse_venting_lost_40ffec0d:
+
+    # nurse "I believe it's been a\nbit longer than that..."
+    nurse "Je crois que c'est un\nde plus que ça ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:681
+translate french quest_nurse_venting_lost_51f17182:
+
+    # mc "Well, either way. You're\ngoing to quit whining."
+    mc "Bien, non plus. Vous êtes\npour cesser de fumer."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:682
+translate french quest_nurse_venting_lost_1cd23985:
+
+    # mc "Let's talk about\nsomething else."
+    mc "Parlons de\nautre chose."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:683
+translate french quest_nurse_venting_lost_8f45623e:
+
+    # nurse "Okay..."
+    nurse "Ok ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:685
+translate french quest_nurse_venting_lost_f0ac5754:
+
+    # mc "Just try to relax. I'm\nsorry it's taking so long."
+    mc "Juste essayer de vous détendre. Je suis\ndésolé ça prend tant de temps."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:686
+translate french quest_nurse_venting_lost_8dda4848:
+
+    # mc "Try to breathe slower and\nthink of something else."
+    mc "Essayez de respirer plus lentement et\npensez à autre chose."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:687
+translate french quest_nurse_venting_lost_dd847a7b:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:688
+translate french quest_nurse_venting_lost_d3168e9e:
+
+    # nurse "I like that."
+    nurse "J'aime ça."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:689
+translate french quest_nurse_venting_lost_b2aba0e3:
+
+    # mc "Like what?"
+    mc "Comme quoi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:690
+translate french quest_nurse_venting_lost_de0e6e2a:
+
+    # nurse "That you're taking care\nof me. It's nice..."
+    nurse "Que vous prenez soin\nde moi. C'est sympa ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:691
+translate french quest_nurse_venting_lost_a592fd66:
+
+    # nurse "Do you want to know why I\nlike helping people so much?"
+    nurse "Vous voulez savoir pourquoi je\ncomme aider tant les gens?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:692
+translate french quest_nurse_venting_lost_418d4ec8:
+
+    # mc "Sure, I've been wondering\nabout that."
+    mc "Bien sûr, je me demandais\nà ce sujet."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:694
+translate french quest_nurse_venting_lost_74fe88a9:
+
+    # nurse "I have a hard time knowing\nwhat I'm supposed to do..."
+    nurse "J'ai du mal à connaître\nce que je suis censé faire ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:695
+translate french quest_nurse_venting_lost_7d5a2200:
+
+    # nurse "This same feeling is why\npeople get into astrology\nor self-help groups."
+    nurse "Ce même sentiment est pourquoi\npersonnes entrent dans l'astrologie\nou des groupes d'entraide."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:696
+translate french quest_nurse_venting_lost_1d7d0871:
+
+    # nurse "So, I almost appreciate it\nwhen somebody is sick."
+    nurse "Alors, j'apprécie presque le\nquand quelqu'un est malade."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:697
+translate french quest_nurse_venting_lost_6dd692b6:
+
+    # nurse "When they're sick, I know\nexactly what I'm supposed\nto do."
+    nurse "Quand ils sont malades, je sais\nexactement ce que je suis censé\nfaire."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:698
+translate french quest_nurse_venting_lost_5c92a301:
+
+    # nurse "I care for them. Give them\nmedicine. And make sure\nthey're healthy again."
+    nurse "Je m'en souciais. Donnez-leur\nmédicaments. Et assurez-vous que\nils sont à nouveau en bonne santé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:699
+translate french quest_nurse_venting_lost_5f562fd2:
+
+    # nurse "I don't have to think."
+    nurse "Je n'ai pas à penser."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:700
+translate french quest_nurse_venting_lost_c0f9eff6:
+
+    # nurse "But there's more to my life\nthan my job, and I guess I\nfeel lost most of the time..."
+    nurse "Mais ma vie ne s'arrête pas là\nque mon travail, et je pense que je\nme sens perdue la plupart du temps..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:701
+translate french quest_nurse_venting_lost_fd85351f:
+
+    # nurse "When somebody tells me\nI have to do something —\neven if I don't like it — it's\ncomfortable in a way."
+    nurse "Quand quelqu'un me dit\nje dois faire quelque chose-\nmême si je n'aime pas ça-c'est\nconfortable d'une façon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:702
+translate french quest_nurse_venting_lost_4401a2ac:
+
+    # nurse "I have to do it, so I do."
+    nurse "Je dois le faire, donc je le fais."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:704
+translate french quest_nurse_venting_lost_083976a5:
+
+    # mc "That's good, because I like\ntelling you what to do."
+    mc "C'est bon, parce que j'aime le\nvous dire quoi faire."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:705
+translate french quest_nurse_venting_lost_0b4ee4e8:
+
+    # mc "You're so kind and gentle,\nI just want to..."
+    mc "Vous êtes gentilhomme et doux,\nJe veux juste ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:706
+translate french quest_nurse_venting_lost_1bda53c1:
+
+    # nurse "What?"
+    nurse "Quoi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:707
+translate french quest_nurse_venting_lost_3841e331:
+
+    # mc "I guess I want to see how\nfar I can push you."
+    mc "Je suppose que je veux voir comment\nfar je peux vous pousser."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:708
+translate french quest_nurse_venting_lost_56d7e57f:
+
+    # nurse "Oh..."
+    nurse "Oh ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:709
+translate french quest_nurse_venting_lost_2147d3e8:
+
+    # mc "Do you know what\nI'm talking about?"
+    mc "Connaissez-vous le\ndont je parle?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:710
+translate french quest_nurse_venting_lost_c204d3e1:
+
+    # nurse "I think so..."
+    nurse "Je pense que ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:711
+translate french quest_nurse_venting_lost_d7ccc1da:
+
+    # mc "And how do you\nfeel about that?"
+    mc "Et comment vous sentez-vous\n?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:712
+translate french quest_nurse_venting_lost_949af06a:
+
+    # nurse "Um... I trust you."
+    nurse "Um ... Je vous fais confiance."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:713
+translate french quest_nurse_venting_lost_524dcaa6:
+
+    # mc "But how do you\nfeel about it?"
+    mc "Mais comment vous sentez-vous\n?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:714
+translate french quest_nurse_venting_lost_e9e16567:
+
+    # nurse "It makes me nervous...\nand..."
+    nurse "Ça me rend nerveux ...\net ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:715
+translate french quest_nurse_venting_lost_c42b05ac:
+
+    # mc "And?"
+    mc "Et?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:716
+translate french quest_nurse_venting_lost_e459216f:
+
+    # nurse "...excited."
+    nurse "... excité."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:718
+translate french quest_nurse_venting_lost_6aa81c2e:
+
+    # mc "I know exactly how\nyou feel."
+    mc "Je sais exactement comment vous ressentez le\n."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:719
+translate french quest_nurse_venting_lost_9014088d:
+
+    # mc "I've also felt lost and aimless\nfor most of my life."
+    mc "I've also felt lost and aimless\nfor most of my life."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:720
+translate french quest_nurse_venting_lost_f793430b:
+
+    # nurse "But you're only a senior!\nYou still have structure\nin your life."
+    nurse "Mais vous n'êtes qu'un aîné !\nVous avez toujours la structure\ndans votre vie."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:721
+translate french quest_nurse_venting_lost_5e44a000:
+
+    # mc "Right..."
+    mc "Droit ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:722
+translate french quest_nurse_venting_lost_d947e27d:
+
+    # nurse "When you finish school,\na lot of it will disappear."
+    nurse "Quand vous avez terminé l'école,\nbeaucoup de ça va disparaître."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:725
+translate french quest_nurse_venting_lost_d7a85828:
+
+    # "I'm all too aware of that..."
+    "Je suis tout à fait conscient de ça ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:728
+translate french quest_nurse_venting_lost_6c56d3fc:
+
+    # nurse "At the end of the day,\nyou'll only have yourself\nto turn to."
+    nurse "À la fin de la journée,\nvous n'aurez que\nà tour de tour."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:729
+translate french quest_nurse_venting_lost_b6bf256c:
+
+    # mc "And then you fall into a pit\nof self-loathing, because\nyou can no longer blame\nanyone else..."
+    mc "Et puis vous tombez dans une fosse\nd'auto-loathing, parce que\nvous ne pouvez plus blâer\npersonne d'autre ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:730
+translate french quest_nurse_venting_lost_c93db827:
+
+    # nurse "That's... exactly it."
+    nurse "C'est. .. exactement."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:731
+translate french quest_nurse_venting_lost_7b1d688a:
+
+    # nurse "You're wise beyond\nyour years, [mc]."
+    nurse "You're wise beyond\nyour years, [mc]."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:732
+translate french quest_nurse_venting_lost_5c6dcb82:
+
+    # nurse "I think that's why\nI trust you."
+    nurse "Je pense que c'est pourquoi\nJe vous fais confiance."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:733
+translate french quest_nurse_venting_lost_dd847a7b_1:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:734
+translate french quest_nurse_venting_lost_62ea79ca:
+
+    # nurse "Sorry, I keep\nblabbering on..."
+    nurse "Sorry, I keep\nblabbering on ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:735
+translate french quest_nurse_venting_lost_70e13838:
+
+    # mc "That's okay."
+    mc "C'est bon."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:736
+translate french quest_nurse_venting_lost_4f88c7f0:
+
+    # mc "Letting someone else\ntake control for a bit...\nit's very freeing in a way."
+    mc "Letting quelqu'un else\ntake control for a bit ...\nit's very libère in a way."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:737
+translate french quest_nurse_venting_lost_63482fdb:
+
+    # nurse "Oh, it is!"
+    nurse "Oh, c'est !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:738
+translate french quest_nurse_venting_lost_3f3729ef:
+
+    # nurse "I just wish... some people...\nwere a little nicer when\nthey make me do things..."
+    nurse "I just wish ... some people ...\nétaient un petit nicer quand\nils me font faire les choses ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:739
+translate french quest_nurse_venting_lost_11f2e23a:
+
+    # mc "Is this about me?"
+    mc "Est-ce pour moi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:740
+translate french quest_nurse_venting_lost_f9809aa9:
+
+    # nurse "No, no! It's...\nsomeone else."
+    nurse "Non, non ! C'est. ..\nquelqu'un d'autre."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:741
+translate french quest_nurse_venting_lost_9d52e63e:
+
+    # nurse "I like being told what to\ndo, but I like to know\nthat the person cares."
+    nurse "I like being told what to\ndo, but I like to know\nthat the person cares."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:742
+translate french quest_nurse_venting_lost_7cc2cbbc:
+
+    # nurse "Do you understand\nwhat I'm saying?"
+    nurse "Est-ce que vous comprenez\nce que je dis?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:745
+translate french quest_nurse_venting_lost_5ef70042:
+
+    # mc "I think so."
+    mc "Je pense que oui."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:746
+translate french quest_nurse_venting_lost_f80f0bcf:
+
+    # mc "You want to be put in\nyour place, but only for\nthe right reasons."
+    mc "Vous voulez être mis en\nvotre place, mais seulement pour\nles bonnes raisons."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:748
+translate french quest_nurse_venting_lost_56d0cbfd:
+
+    # nurse "You get it. Thanks\nfor listening."
+    nurse "Vous l'avez. Merci\npour l'écoute."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:749
+translate french quest_nurse_venting_lost_83b2bf14:
+
+    # nurse "Sorry for talking\nso much..."
+    nurse "Désolé pour avoir parlé\ntellement ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:750
+translate french quest_nurse_venting_lost_47784bf9:
+
+    # mc "That's all right. We all want\nto know our place in the world."
+    mc "Tout va bien. Nous voulons tous\npour connaître notre place dans le monde."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:751
+translate french quest_nurse_venting_lost_97b9c6c3:
+
+    # mc "That comes more easily to\nsome people than others."
+    mc "Ce qui arrive plus facilement à\ncertaines personnes que d'autres."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:752
+translate french quest_nurse_venting_lost_3ea76ac7:
+
+    # mc "I've known my place for\na long time, but it's only\nrecently that I'm figuring\nout how to get there."
+    mc "J'ai connu ma place pour\nun long moment, mais ce n'est que\nrécemment que je vais trouver le\ncomment s'y rendre."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:753
+translate french quest_nurse_venting_lost_ff62bfd0:
+
+    # nurse "I'm happy to hear that!"
+    nurse "Je suis heureux d'entendre ça !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:754
+translate french quest_nurse_venting_lost_ff036a60:
+
+    # mc "Me, too. But anyway, I should\nget back to looking for you."
+    mc "Moi aussi. Mais de toute façon, je devrais\nrevenir à la recherche de vous."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:756
+translate french quest_nurse_venting_lost_c72ffa8a:
+
+    # mc "You're talking about\n[kate], aren't you?"
+    mc "Vous parlez de\n[kate], n'est-ce pas?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:757
+translate french quest_nurse_venting_lost_bec14fdf:
+
+    # nurse "I... I shouldn't say."
+    nurse "I ... Je ne devrais pas dire."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:760
+translate french quest_nurse_venting_lost_02a3c36b:
+
+    # mc "You don't have to worry\nabout her anymore."
+    mc "Vous n'avez plus à vous inquiéter\npour elle."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:761
+translate french quest_nurse_venting_lost_04d0ddb9:
+
+    # nurse "How come?"
+    nurse "Comment venir?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:762
+translate french quest_nurse_venting_lost_a5cb96c0:
+
+    # mc "Well, let's just say she won't\nbe bothering you anymore."
+    mc "Eh bien, disons qu'elle ne\nne vous dérange plus."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:763
+translate french quest_nurse_venting_lost_56d7e57f_1:
+
+    # nurse "Oh..."
+    nurse "Oh ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:764
+translate french quest_nurse_venting_lost_088924ff:
+
+    # mc "You don't sound too\nhappy about that?"
+    mc "You don't sound too\ncontent about that?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:765
+translate french quest_nurse_venting_lost_a40dd7aa:
+
+    # nurse "N-no... I am."
+    nurse "N ° ... Je suis."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:766
+translate french quest_nurse_venting_lost_270ea6f7:
+
+    # mc "She gave you a certain\nfeeling, didn't she?"
+    mc "Elle vous a donné un certain sentiment\n, n'est-ce pas?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:767
+translate french quest_nurse_venting_lost_dd847a7b_2:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:768
+translate french quest_nurse_venting_lost_efe0c2da:
+
+    # nurse "I suppose so."
+    nurse "Je suppose que oui."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:769
+translate french quest_nurse_venting_lost_bf1c319f:
+
+    # mc "There are others like her,\nyou know. Others who would\nactually care about you."
+    mc "Il y a d'autres comme elle,\nvous savez. D'autres qui feraient\nse souciaient vraiment de vous."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:770
+translate french quest_nurse_venting_lost_60839c76:
+
+    # nurse "I know. It's for the best."
+    nurse "Je sais. C'est pour le meilleur."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:772
+translate french quest_nurse_venting_lost_42e5f40b:
+
+    # nurse "Thank you, [mc]."
+    nurse "Merci, [mc]."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:774
+translate french quest_nurse_venting_lost_fe43fdaf:
+
+    # mc "She's irrelevant\nto you now."
+    mc "Elle n'a rien à voir avec le\n."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:775
+translate french quest_nurse_venting_lost_c2f1573a:
+
+    # nurse "She is?"
+    nurse "Elle est?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:776
+translate french quest_nurse_venting_lost_1ba96afa:
+
+    # mc "Yes. I own you now.\nCompletely."
+    mc "Oui. Je vous en ai maintenant.\nComplètement."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:777
+translate french quest_nurse_venting_lost_56d7e57f_2:
+
+    # nurse "Oh..."
+    nurse "Oh ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:778
+translate french quest_nurse_venting_lost_b2101ab5:
+
+    # mc "When I tell you to do something,\nalways remember that I have all\nthe dirt on you that [kate] did."
+    mc "Quand je vous dis de faire quelque chose,\nn'oubliez pas que j'ai tous\nla saleté sur vous que [kate]."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:779
+translate french quest_nurse_venting_lost_dd847a7b_3:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:780
+translate french quest_nurse_venting_lost_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:781
+translate french quest_nurse_venting_lost_b1c77510:
+
+    # mc "[nurse]?"
+    mc "[nurse]?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:782
+translate french quest_nurse_venting_lost_4d7f125f:
+
+    # nurse "Sorry. I'm just a bit\ndizzy, that's all..."
+    nurse "Désolé. Je suis juste un peu de\nvertiges, c'est tout ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:783
+translate french quest_nurse_venting_lost_9be22ec7:
+
+    # mc "Okay, let's get\na move on."
+    mc "Okay, get\na move on."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:785
+translate french quest_nurse_venting_lost_1bb734b5:
+
+    # mc "I know that you are."
+    mc "Je sais que vous êtes."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:786
+translate french quest_nurse_venting_lost_9c8d789b:
+
+    # mc "She can be quite scary."
+    mc "Elle peut être assez effrayée."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:787
+translate french quest_nurse_venting_lost_f8d6702c:
+
+    # nurse "She definitely can..."
+    nurse "Elle peut vraiment ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:788
+translate french quest_nurse_venting_lost_fdc6938d:
+
+    # mc "Let's get a move on and\nwe'll figure out [kate] later."
+    mc "Let's get a move on and\nwe'll chiffre out [kate] later."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:789
+translate french quest_nurse_venting_lost_6f67be7f:
+
+    # nurse "O-okay."
+    nurse "O-okay."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:791
+translate french quest_nurse_venting_lost_54e7a3c0:
+
+    # mc "Maybe. But I don't care."
+    mc "Peut-être. Mais je m'en fiche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:792
+translate french quest_nurse_venting_lost_036e8af4:
+
+    # nurse "You don't?"
+    nurse "Vous ne le faites pas?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:793
+translate french quest_nurse_venting_lost_d1a60015:
+
+    # mc "Not even a little bit."
+    mc "Pas même un peu."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:794
+translate french quest_nurse_venting_lost_63e627f0:
+
+    # mc "We've all got our reasons\nfor being the way we are,\nand most of them aren't\nthat interesting."
+    mc "Nous avons tous nos raisons\npour être comme nous sommes,\net la plupart d'entre eux ne sont pas\nce qui est intéressant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:795
+translate french quest_nurse_venting_lost_6c38b391:
+
+    # mc "You're no exception."
+    mc "Vous ne faites pas exception."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:796
+translate french quest_nurse_venting_lost_08952341:
+
+    # mc "All I want to hear from\nyou is, \"Yes, sir.\""
+    mc "Tout ce que je veux entendre de\n, c'est \"Oui, monsieur.\""
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:798
+translate french quest_nurse_venting_lost_3374506c:
+
+    # nurse "Yes, sir..."
+    nurse "Oui, monsieur ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:799
+translate french quest_nurse_venting_lost_80c2e69c:
+
+    # nurse "Thank you for being\nhonest. I'll do better."
+    nurse "Merci d'être\nhonnête. Je ferais mieux."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:800
+translate french quest_nurse_venting_lost_ff60248e:
+
+    # mc "Good girl. We'll talk\nlater after I find you."
+    mc "Bonne fille. Nous parlerons\nplus tard après que je vous ai trouvé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:809
+translate french quest_nurse_venting_lost_57e6a05e:
+
+    # jo smile "Hey, honey! What are you up to?"
+    jo smile "Hé, chérie ! Qu'est-ce que tu veux?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:810
+translate french quest_nurse_venting_lost_134399bb:
+
+    # "Crap. How does [jo] manage to show up at all the worst times?"
+    "Crap. Comment le [jo] arrive-il à se manifester à tous les moments les plus mauvais?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:811
+translate french quest_nurse_venting_lost_6641c462:
+
+    # "I can't let her find out I've got the [nurse] up in the vents."
+    "Je ne peux pas la laisser savoir que j'ai le [nurse] dans les évents."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:812
+translate french quest_nurse_venting_lost_cdb463cd:
+
+    # "That's got to be breaking every school health code..."
+    "Ça doit être de briser tous les codes de santé de l'école ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:813
+translate french quest_nurse_venting_lost_0da53da3:
+
+    # mc "Oh, um... just killing time between classes. Going for a stroll."
+    mc "Oh, um ... juste tuer le temps entre les classes. Pour une promenade."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:814
+translate french quest_nurse_venting_lost_620d0fb3:
+
+    # jo concerned "Killing time in the sports wing? Is that right? I thought you hated\nit here."
+    jo concerned "Killing time in the sports wing? C'est vrai? Je pensais que tu déteste\nici."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:815
+translate french quest_nurse_venting_lost_e5b02e77:
+
+    # mc "Yeah, but you know, lately I've been trying to be more open to things,{space=-25}\nso here I am..."
+    mc "Oui, mais vous savez, dernièrement, j'ai essayé d'être plus ouvert aux choses, { space=-25 }\nici je suis ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:816
+translate french quest_nurse_venting_lost_cd0b0da0:
+
+    # jo skeptical "More open to things..."
+    jo skeptical "Plus ouvert aux choses ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:817
+translate french quest_nurse_venting_lost_ff1e18d8:
+
+    # jo skeptical "Does that have to do with the walkie-talkie? Who are you being open{space=-10}\nto things with, hm?"
+    jo skeptical "Cela a-t-il à voir avec le talkie-walkie? Avec qui êtes-vous ouvert { space=-10 }\naux choses avec, hm?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:818
+translate french quest_nurse_venting_lost_883555b4:
+
+    # mc "Oh, this? No one, no one. I'm just playing pretend, you know?"
+    mc "Oh, ça? Personne, personne. Je suis juste en train de faire semblant, tu sais?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:819
+translate french quest_nurse_venting_lost_8bbe3dc9:
+
+    # jo confident "Aren't you a little old to be playing pretend?"
+    jo confident "N'êtes-vous pas un peu vieux à faire semblant?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:820
+translate french quest_nurse_venting_lost_35a32a46:
+
+    # "I really am. But I'm committed now."
+    "Je suis vraiment. Mais je suis engagé maintenant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:821
+translate french quest_nurse_venting_lost_38976f5d:
+
+    # mc "No way! I'm being a pilot. It's a lot of fun."
+    mc "Pas de chemin ! Je suis pilote. C'est très amusant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:824
+translate french quest_nurse_venting_lost_24c8c205:
+
+    # mc "Kch! This is Red-Niner, calling Blue-Seven! Come in, Blue-Seven!"
+    mc "Kch ! C'est Red-Niner, appeler Blue-Seven ! Allez, Blue-Seven !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:826
+translate french quest_nurse_venting_lost_c3809b37:
+
+    # "I hate myself right now..."
+    "Je me déteste maintenant ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:827
+translate french quest_nurse_venting_lost_9e1739f0:
+
+    # mc "See? Pretty cool."
+    mc "Voir? Plutôt cool."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:828
+translate french quest_nurse_venting_lost_bfb6e43e:
+
+    # jo laughing "If you say so!"
+    jo laughing "Si vous le dites !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:829
+translate french quest_nurse_venting_lost_b17d5b02:
+
+    # jo excited "I'll admit, I miss seeing you have fun like this..."
+    jo excited "Je vais admettre, je regrette de voir que tu t'amuse comme ça ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:830
+translate french quest_nurse_venting_lost_8be5aea2:
+
+    # jo excited "Who cares if other people make fun of you? You be the best you that you can be, okay?"
+    jo excited "Qui se soucie si d'autres personnes s'amusent de vous? Tu es le meilleur que tu peux être, d'accord?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:831
+translate french quest_nurse_venting_lost_a4ae604f:
+
+    # jo laughing "Just try to keep it down. This is still a school, you know? It's not an aircraft carrier!"
+    jo laughing "Juste essayer de le garder. C'est encore une école, tu sais? Ce n'est pas un porte-avions !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:832
+translate french quest_nurse_venting_lost_0bbe03cd:
+
+    # mc "Absolutely, [jo]. Quiet as a mouse."
+    mc "Absolument, [jo]. Calme comme une souris."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:833
+translate french quest_nurse_venting_lost_d6575ab7:
+
+    # jo laughing "A mouse in an airplane! Oh, you're adorable!"
+    jo laughing "Une souris dans un avion ! Oh, tu es adorable !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:838
+translate french quest_nurse_venting_lost_8e933d34:
+
+    # "Alright, I hated that conversation. Let's get this vent adventure over and done with..."
+    "D'accord, j'ai détesté cette conversation. Faisons l'aventure de l'évent avec ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:839
+translate french quest_nurse_venting_lost_a9e6a054:
+
+    # "Where the hell is the [nurse] at?"
+    "Où diable est le [nurse]?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:854
+translate french quest_nurse_venting_maxine_camera_36c9e566:
+
+    # "The [nurse] has finally made it to [maxine]'s office! Now I just need to drop her a water bottle before she passes out..."
+    "Le [nurse] l'a finalement fait au bureau [maxine]! Maintenant j'ai juste besoin de lui laisser une bouteille d'eau avant qu'elle ne passe ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:867
+translate french quest_nurse_venting_maxine_camera_95c7633a:
+
+    # mc "Are you okay?"
+    mc "Etes-vous d'accord?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:868
+translate french quest_nurse_venting_maxine_camera_bec70dec:
+
+    # nurse vent_waiting video "I don't know..."
+    nurse vent_waiting video "Je ne sais pas ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:869
+translate french quest_nurse_venting_maxine_camera_b6351bea:
+
+    # nurse vent_waiting video "I forgot which way I was going... I might be a bit disoriented..."
+    nurse vent_waiting video "J'ai oublié de quelle façon j'allais ... Je pourrais être un peu désorienté ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:870
+translate french quest_nurse_venting_maxine_camera_fa99780f:
+
+    # nurse vent_waiting video "I'm so dehydrated... I'm seeing double... No, triple... No, single..."
+    nurse vent_waiting video "Je suis déshydraté ... Je vois deux fois ... Non, triple ... Non, célio ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:871
+translate french quest_nurse_venting_maxine_camera_46a2c798:
+
+    # mc "You do look dehydrated. Let's get you out of here."
+    mc "Vous avez l'air déshydraté. Faisons vous sortir d'ici."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:872
+translate french quest_nurse_venting_maxine_camera_693c2ff7:
+
+    # mc "You're in the gym. You have to turn around."
+    mc "Vous êtes dans la salle de gym. Tu dois faire demi-tour."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:873
+translate french quest_nurse_venting_maxine_camera_6a3a395d:
+
+    # nurse vent_waiting video "In nursing school, they taught us that one of the symptoms of dehydration... is thirst!"
+    nurse vent_waiting video "Dans les écoles de sciences infirmières, ils nous ont appris que l'un des symptômes de la déshydratation ... est la soif !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:874
+translate french quest_nurse_venting_maxine_camera_2a583e63:
+
+    # nurse vent_waiting video "Did you know that?"
+    nurse vent_waiting video "Le saviez-vous?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:875
+translate french quest_nurse_venting_maxine_camera_f7da2b95:
+
+    # mc "I did not."
+    mc "Je ne l'ai pas fait."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:876
+translate french quest_nurse_venting_maxine_camera_8afb7794:
+
+    # nurse vent_waiting video "Well, now you do!"
+    nurse vent_waiting video "Eh bien, maintenant vous le faites !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:877
+translate french quest_nurse_venting_maxine_camera_6cbabddb:
+
+    # mc "Great. Listen, you need to turn around. You need to find a way to go up in the vents."
+    mc "Grand. Écoute, tu dois faire demi-tour. Vous devez trouver un moyen de monter dans les évents."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:878
+translate french quest_nurse_venting_maxine_camera_75c20d14:
+
+    # nurse vent_waiting video "At nursing school they also called me the head nurse! Do you\nknow why?"
+    nurse vent_waiting video "À l'école de sciences infirmières, ils m'ont aussi appelé l'infirmière en chef ! Est-ce que vous savez pourquoi\n?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:879
+translate french quest_nurse_venting_maxine_camera_c27fe806:
+
+    # "She's really getting delirious. We have to hurry this up."
+    "Elle devient vraiment délirante. Nous devons nous dépêchez."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:880
+translate french quest_nurse_venting_maxine_camera_537ec911:
+
+    # mc "I'm guessing because you give good head."
+    mc "Je suppose que vous donnez une bonne tête."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:881
+translate french quest_nurse_venting_maxine_camera_104bc643:
+
+    # nurse vent_waiting video "No, not that! It's because I give good head!"
+    nurse vent_waiting video "Non, pas ça ! C'est parce que je donne de la bonne tête !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:882
+translate french quest_nurse_venting_maxine_camera_e15a9fab:
+
+    # nurse vent_waiting video "Wait, is that what you said?"
+    nurse vent_waiting video "Attends, c'est ce que tu as dit?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:883
+translate french quest_nurse_venting_maxine_camera_f34a2135:
+
+    # "It's never easy. Why is it never easy?"
+    "Ce n'est jamais facile. Pourquoi n'est-ce pas facile?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:884
+translate french quest_nurse_venting_maxine_camera_306e61fd:
+
+    # mc "Have you turned around?"
+    mc "Avez-vous fait un tour?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:894
+translate french quest_nurse_venting_maxine_camera_0e562882:
+
+    # nurse vent_crawling video "Y-yes."
+    nurse vent_crawling video "Y-oui."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:895
+translate french quest_nurse_venting_maxine_camera_5ed0bc33:
+
+    # mc "Start crawling."
+    mc "Démarrer l'exploration."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:896
+translate french quest_nurse_venting_maxine_camera_6c0809b8:
+
+    # nurse vent_crawling video "Hehe! Yes, sir!"
+    nurse vent_crawling video "Hehe ! Oui, monsieur !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:897
+translate french quest_nurse_venting_maxine_camera_016ea82a:
+
+    # "Okay, now I just need to—"
+    "Ok, maintenant j'ai juste besoin de-"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:898
+translate french quest_nurse_venting_maxine_camera_140cf083:
+
+    # nurse vent_crawling video "[mc], I need help..."
+    nurse vent_crawling video "[mc], j'ai besoin d'aide ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:899
+translate french quest_nurse_venting_maxine_camera_c17fa26d:
+
+    # "Ugh, what now?"
+    "Ugh, quoi maintenant?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:900
+translate french quest_nurse_venting_maxine_camera_f3b3d28f:
+
+    # mc "What's wrong?"
+    mc "Qu'est-ce qui ne va pas?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:902
+translate french quest_nurse_venting_maxine_camera_9083c7bb:
+
+    # nurse vent_crawling video "I forgot which way I was going... I might be a bit disoriented..."
+    nurse vent_crawling video "J'ai oublié de quelle façon j'allais ... Je pourrais être un peu désorienté ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:903
+translate french quest_nurse_venting_maxine_camera_51227206:
+
+    # nurse vent_crawling video "I'm so dehydrated... I'm seeing double... No, triple... No, single..."
+    nurse vent_crawling video "Je suis déshydraté ... Je vois deux fois ... Non, triple ... Non, célio ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:904
+translate french quest_nurse_venting_maxine_camera_46a2c798_1:
+
+    # mc "You do look dehydrated. Let's get you out of here."
+    mc "Vous avez l'air déshydraté. Faisons vous sortir d'ici."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:905
+translate french quest_nurse_venting_maxine_camera_693c2ff7_1:
+
+    # mc "You're in the gym. You have to turn around."
+    mc "Vous êtes dans la salle de gym. Tu dois faire demi-tour."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:906
+translate french quest_nurse_venting_maxine_camera_62ca5f4c:
+
+    # nurse vent_crawling video "There's an intersection. Which way should I go?"
+    nurse vent_crawling video "Il y a une intersection. Lequel devrais-je y aller?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:908
+translate french quest_nurse_venting_maxine_camera_11fdb519:
+
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:910
+translate french quest_nurse_venting_maxine_camera_01d71aab:
+
+    # mc "Left."
+    mc "Gauche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:911
+translate french quest_nurse_venting_maxine_camera_345e33c4:
+
+    # nurse vent_crawling video "To the left, to the left!"
+    nurse vent_crawling video "A gauche, à gauche !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:912
+translate french quest_nurse_venting_maxine_camera_43a04a7d:
+
+    # nurse vent_crawling video "I used to sing that in nursing school..."
+    nurse vent_crawling video "I used to sing that in nursing school ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:913
+translate french quest_nurse_venting_maxine_camera_d52f31d7:
+
+    # nurse vent_crawling video "Hey, it smells like paint!"
+    nurse vent_crawling video "Hé, ça sent la peinture !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:916
+translate french quest_nurse_venting_maxine_camera_8c4d38a3:
+
+    # mc "Straight."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:917
+translate french quest_nurse_venting_maxine_camera_b0b8a163:
+
+    # nurse vent_crawling video "I can do straight! And I can do ladies, too! Haha!"
+    nurse vent_crawling video "Je peux faire droit ! Et je peux faire des dames aussi ! Haha !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:918
+translate french quest_nurse_venting_maxine_camera_efdf8b46:
+
+    # nurse vent_crawling video "..."
+    nurse vent_crawling video "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:919
+translate french quest_nurse_venting_maxine_camera_ebfd73db:
+
+    # nurse vent_crawling video "Sounds like someone is writing on a blackboard... and I think I heard [mrsl]'s voice."
+    nurse vent_crawling video "Sounds like someone is writing on a blackboard ... and I think I heard [mrsl]'s voice."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:922
+translate french quest_nurse_venting_maxine_camera_716019b8:
+
+    # mc "Right."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:923
+translate french quest_nurse_venting_maxine_camera_098514d9:
+
+    # nurse vent_crawling video "Right!"
+    nurse vent_crawling video "Droit !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:924
+translate french quest_nurse_venting_maxine_camera_f36e5aec:
+
+    # mc "Exactly."
+    mc "Exactement."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:925
+translate french quest_nurse_venting_maxine_camera_186cf419:
+
+    # nurse vent_crawling video "Haha! I think I heard a vending machine puke!"
+    nurse vent_crawling video "Haha ! Je crois que j'ai entendu un distributeur automatique !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:928
+translate french quest_nurse_venting_maxine_camera_a562f942:
+
+    # nurse vent_crawling video "What am I looking for again?"
+    nurse vent_crawling video "Qu'est-ce que je cherche à nouveau?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:929
+translate french quest_nurse_venting_maxine_camera_c15cfe9d:
+
+    # mc "A way to go up a floor, and then a fishing hook."
+    mc "A way to go up a floor, and then a fishing hook."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:930
+translate french quest_nurse_venting_maxine_camera_e1ae2016:
+
+    # nurse vent_crawling video "Haha! Am I looking for a hook or a hooker? Haha!"
+    nurse vent_crawling video "Haha ! Je cherche un crochet ou un talonneur? Haha !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:931
+translate french quest_nurse_venting_maxine_camera_d09657ed:
+
+    # mc "A hook!"
+    mc "Un crochet !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:932
+translate french quest_nurse_venting_maxine_camera_4c3aecf4:
+
+    # mc "For now, just keep crawling, go up a floor, and find the hook, okay?"
+    mc "Pour l'instant, continuer à ramper, monter un étage, et trouver le crochet, d'accord?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:933
+translate french quest_nurse_venting_maxine_camera_e6400a3e:
+
+    # mc "I'm gonna drop a water bottle where the hook is. Drink that when you get there."
+    mc "Je vais déposer une bouteille d'eau où le crochet est. Buvez ça quand vous y aurez."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:936
+translate french quest_nurse_venting_maxine_camera_34df7085:
+
+    # nurse vent_crawling video "I could drink a whole vending machine right now..."
+    nurse vent_crawling video "I could drink a whole vending machine right now ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:937
+translate french quest_nurse_venting_maxine_camera_49cff64f:
+
+    # mc "That's all sugar stuff. Shouldn't nurses be more into water?"
+    mc "C'est tout le sucre. Les infirmières ne devraient-elles pas être plus dans l'eau?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:938
+translate french quest_nurse_venting_maxine_camera_82ae691f:
+
+    # nurse vent_crawling video "I have a hopeless sweet tooth!"
+    nurse vent_crawling video "J'ai une dent sucrée sans espoir !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:939
+translate french quest_nurse_venting_maxine_camera_508b9553:
+
+    # mc "Maybe that's something that needs working on..."
+    mc "Peut-être que c'est quelque chose qui a besoin de travailler sur ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:940
+translate french quest_nurse_venting_maxine_camera_62453c6d:
+
+    # mc "Anyway, keep going."
+    mc "En tout cas, continuez."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:941
+translate french quest_nurse_venting_maxine_camera_3428a32e:
+
+    # nurse vent_crawling video "Which way should I go?"
+    nurse vent_crawling video "Quel chemin devrais-je aller?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:943
+translate french quest_nurse_venting_maxine_camera_11fdb519_1:
+
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:945
+translate french quest_nurse_venting_maxine_camera_01d71aab_1:
+
+    # mc "Left."
+    mc "Gauche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:946
+translate french quest_nurse_venting_maxine_camera_6883b00b:
+
+    # nurse vent_crawling video "Getting left behind... that's what I was always worried about in school."
+    nurse vent_crawling video "Se laisser derrière ... c'est ce que j'étais toujours inquiet à l'école."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:947
+translate french quest_nurse_venting_maxine_camera_efdf8b46_1:
+
+    # nurse vent_crawling video "..."
+    nurse vent_crawling video "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:948
+translate french quest_nurse_venting_maxine_camera_1174ad81:
+
+    # nurse vent_crawling video "I can hear balls up ahead! Bouncing, bouncing! And running feet!"
+    nurse vent_crawling video "Je peux entendre des couilles à l'avance ! Bdénoncer, rebonchez ! Et les pieds de course !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:951
+translate french quest_nurse_venting_maxine_camera_8c4d38a3_1:
+
+    # mc "Straight."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:952
+translate french quest_nurse_venting_maxine_camera_ef391550:
+
+    # nurse vent_crawling video "As an arrow!"
+    nurse vent_crawling video "En tant que flèche !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:953
+translate french quest_nurse_venting_maxine_camera_9fd780b4:
+
+    # nurse vent_crawling video "Ow!" with vpunch
+    nurse vent_crawling video "Ow !" with vpunch
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:954
+translate french quest_nurse_venting_maxine_camera_6e173391:
+
+    # nurse vent_crawling video "I hit my head..."
+    nurse vent_crawling video "J'ai frappé la tête ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:955
+translate french quest_nurse_venting_maxine_camera_8fcfbd3e:
+
+    # nurse vent_crawling video "I think I can hear [mrsl]? Smells like cigarettes here."
+    nurse vent_crawling video "Je crois que je peux entendre [mrsl]? Des odeurs comme les cigarettes ici."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:958
+translate french quest_nurse_venting_maxine_camera_716019b8_1:
+
+    # mc "Right."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:959
+translate french quest_nurse_venting_maxine_camera_047e3e77:
+
+    # nurse vent_crawling video "Right, okay."
+    nurse vent_crawling video "Droit, ok."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:960
+translate french quest_nurse_venting_maxine_camera_efdf8b46_2:
+
+    # nurse vent_crawling video "..."
+    nurse vent_crawling video "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:961
+translate french quest_nurse_venting_maxine_camera_f2ea1043:
+
+    # nurse vent_crawling video "I'm hearing a chisel. No, wait! Two chisels!"
+    nurse vent_crawling video "J'entends un ciseau. Non, attends ! Deux ciseaux !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:964
+translate french quest_nurse_venting_maxine_camera_d272e618:
+
+    # mc "Let's hurry this up. I don't want you to get stuck in there."
+    mc "Allons de l'avant. Je ne veux pas que vous vous y accrochez."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:965
+translate french quest_nurse_venting_maxine_camera_d51cc52d:
+
+    # nurse vent_crawling video "If I get stuck they'll have to perform a c-section on the vent! Haha!"
+    nurse vent_crawling video "Si je suis coincé, ils devront faire une c-section sur l'évent ! Haha !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:966
+translate french quest_nurse_venting_maxine_camera_ebccc5e7:
+
+    # "That's probably easier said than done."
+    "C'est probablement plus facile à dire qu'à faire."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:967
+translate french quest_nurse_venting_maxine_camera_c5fb73ec:
+
+    # mc "Please don't get stuck in there..."
+    mc "S'il vous plaît ne pas être coincé là ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:968
+translate french quest_nurse_venting_maxine_camera_3cf1f814:
+
+    # nurse vent_crawling video "I'll do my best!"
+    nurse vent_crawling video "Je ferai de mon mieux !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:969
+translate french quest_nurse_venting_maxine_camera_973951a3:
+
+    # mc "Okay, let's pick a direction for you."
+    mc "Ok, choisissez une direction pour vous."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:971
+translate french quest_nurse_venting_maxine_camera_11fdb519_2:
+
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:973
+translate french quest_nurse_venting_maxine_camera_01d71aab_2:
+
+    # mc "Left."
+    mc "Gauche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:974
+translate french quest_nurse_venting_maxine_camera_35c911e8:
+
+    # nurse vent_crawling video "Left, left, left, right, left!"
+    nurse vent_crawling video "Gauche, gauche, gauche, droite, gauche !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:975
+translate french quest_nurse_venting_maxine_camera_a904aaa1:
+
+    # nurse vent_crawling video "If it wasn't so serious, I'd love to be an army medic."
+    nurse vent_crawling video "Si ce n'était pas si grave, j'adorerais être un infirmier de l'armée."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:976
+translate french quest_nurse_venting_maxine_camera_6c962b4b:
+
+    # nurse vent_crawling video "They're always getting told what to do."
+    nurse vent_crawling video "Ils se font toujours dire ce qu'il faut faire."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:977
+translate french quest_nurse_venting_maxine_camera_efdf8b46_3:
+
+    # nurse vent_crawling video "..."
+    nurse vent_crawling video "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:978
+translate french quest_nurse_venting_maxine_camera_1753155e:
+
+    # nurse vent_crawling video "Squeaky shoes and cheers in this direction!"
+    nurse vent_crawling video "Les chaussures et les acclameurs de Squeaky dans cette direction !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:981
+translate french quest_nurse_venting_maxine_camera_8c4d38a3_2:
+
+    # mc "Straight."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:982
+translate french quest_nurse_venting_maxine_camera_b7febc5c:
+
+    # nurse vent_crawling video "Straight? You or me?"
+    nurse vent_crawling video "Droit? Toi ou moi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:983
+translate french quest_nurse_venting_maxine_camera_a0071fbf:
+
+    # "That dehydration is really getting to her..."
+    "Cette déshydratation va vraiment à elle ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:984
+translate french quest_nurse_venting_maxine_camera_5a8cf11b:
+
+    # mc "Just keep going, [nurse]."
+    mc "Just keep going, [nurse]."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:985
+translate french quest_nurse_venting_maxine_camera_8e7633cd:
+
+    # nurse vent_crawling video "Oh, deary me... I'm so thirsty."
+    nurse vent_crawling video "Oh, me déary ... J'ai tellement soif."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:986
+translate french quest_nurse_venting_maxine_camera_862edafe:
+
+    # nurse vent_crawling video "There's a {i}tap tap tap tap, clink{/} up ahead!"
+    nurse vent_crawling video "Il y a un robinet du robinet du robinet {i}, clink { / } avant !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:987
+translate french quest_nurse_venting_maxine_camera_f4112c04:
+
+    # nurse vent_crawling video "Sounds like an old typewriter!"
+    nurse vent_crawling video "Des sons comme une vieille machine à écrire !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:990
+translate french quest_nurse_venting_maxine_camera_716019b8_2:
+
+    # mc "Right."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:991
+translate french quest_nurse_venting_maxine_camera_2ac8ed0a:
+
+    # nurse vent_crawling video "You said it!"
+    nurse vent_crawling video "Vous l'avez dit !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:992
+translate french quest_nurse_venting_maxine_camera_4f2bfdc0:
+
+    # mc "I did say it."
+    mc "Je l'ai dit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:993
+translate french quest_nurse_venting_maxine_camera_efdf8b46_4:
+
+    # nurse vent_crawling video "..."
+    nurse vent_crawling video "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:994
+translate french quest_nurse_venting_maxine_camera_5ac4934f:
+
+    # nurse vent_crawling video "It's quiet up ahead... just the sound of chalk scratching a blackboard."
+    nurse vent_crawling video "It's quiet up ahead ... just the sound of chalk scratching a blackboard."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:997
+translate french quest_nurse_venting_maxine_camera_a0468a27:
+
+    # nurse vent_crawling video "Are we close? We have to be close..."
+    nurse vent_crawling video "Sommes-nous près? Nous devons être proches ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:998
+translate french quest_nurse_venting_maxine_camera_877004d7:
+
+    # mc "Almost there... I think."
+    mc "Presque là ... Je pense."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:999
+translate french quest_nurse_venting_maxine_camera_6c9cdf61:
+
+    # nurse vent_crawling video "Okay. I trust you."
+    nurse vent_crawling video "Ok. Je vous fais confiance."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1000
+translate french quest_nurse_venting_maxine_camera_581582b0:
+
+    # nurse vent_crawling video "Where to next?"
+    nurse vent_crawling video "Où ensuite?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1002
+translate french quest_nurse_venting_maxine_camera_11fdb519_3:
+
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1004
+translate french quest_nurse_venting_maxine_camera_01d71aab_3:
+
+    # mc "Left."
+    mc "Gauche."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1005
+translate french quest_nurse_venting_maxine_camera_d4b70bdb:
+
+    # nurse vent_crawling video "It feels like I've been in here forever..."
+    nurse vent_crawling video "J'ai l'impression d'être ici pour toujours ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1006
+translate french quest_nurse_venting_maxine_camera_6719d628:
+
+    # nurse vent_crawling video "Maybe I'll be old enough to retire when I get out."
+    nurse vent_crawling video "Peut-être que je serai assez vieux pour prendre ma retraite."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1007
+translate french quest_nurse_venting_maxine_camera_efdf8b46_5:
+
+    # nurse vent_crawling video "..."
+    nurse vent_crawling video "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1008
+translate french quest_nurse_venting_maxine_camera_d29d43bc:
+
+    # nurse vent_crawling video "I hear a tap and splashing water."
+    nurse vent_crawling video "J'entends un robinet et l'eau qui éclaboussa."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1011
+translate french quest_nurse_venting_maxine_camera_8c4d38a3_3:
+
+    # mc "Straight."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1012
+translate french quest_nurse_venting_maxine_camera_fe2a66ca:
+
+    # nurse vent_crawling video "I've got a good feeling about this one!"
+    nurse vent_crawling video "J'ai un bon sentiment à propos de celui-ci !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1013
+translate french quest_nurse_venting_maxine_camera_acc20661:
+
+    # mc "Me too!"
+    mc "Moi aussi !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1014
+translate french quest_nurse_venting_maxine_camera_a5a8b3f3:
+
+    # nurse vent_crawling video "[maxine] plays basketball in her office, right?"
+    nurse vent_crawling video "[maxine] joue au basket-ball dans son bureau, non?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1015
+translate french quest_nurse_venting_maxine_camera_0fee7741:
+
+    # nurse vent_crawling video "I'm hearing basketballs..."
+    nurse vent_crawling video "I'm hearing basketball ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1018
+translate french quest_nurse_venting_maxine_camera_716019b8_3:
+
+    # mc "Right."
+    mc "Droit."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1019
+translate french quest_nurse_venting_maxine_camera_f2d4065a:
+
+    # nurse vent_crawling video "That's the question! Where to?"
+    nurse vent_crawling video "C'est la question ! Où se rendre?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1020
+translate french quest_nurse_venting_maxine_camera_a8b107e2:
+
+    # mc "No, I'm answering you. Go right."
+    mc "Non, je vous répond. Va bien."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1021
+translate french quest_nurse_venting_maxine_camera_879133be:
+
+    # nurse vent_crawling video "Oh, I thought you were saying... sorry, I'm getting a bit sleepy..."
+    nurse vent_crawling video "Oh, je pensais que vous disiez ... désolé, j'ai un peu de sommeil ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1022
+translate french quest_nurse_venting_maxine_camera_ae70fc0d:
+
+    # nurse vent_crawling video "Okay, right."
+    nurse vent_crawling video "Ok, non."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1023
+translate french quest_nurse_venting_maxine_camera_45b3f836:
+
+    # mc "What are you hearing now?"
+    mc "Qu'entend-on maintenant?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1024
+translate french quest_nurse_venting_maxine_camera_185fbdcd:
+
+    # nurse vent_crawling video "You!"
+    nurse vent_crawling video "Vous !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1025
+translate french quest_nurse_venting_maxine_camera_40485844:
+
+    # mc "Yes, but put the walkie-talkie down and then listen."
+    mc "Oui, mais mettez le talkie-walkie en bas, puis écoutez."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1026
+translate french quest_nurse_venting_maxine_camera_b54b12ac:
+
+    # nurse vent_crawling video "I did! I heard you through the wall!"
+    nurse vent_crawling video "Je l'ai fait ! Je t'ai entendu à travers le mur !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1027
+translate french quest_nurse_venting_maxine_camera_2b35b6fe:
+
+    # mc "..."
+    mc "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1028
+translate french quest_nurse_venting_maxine_camera_efdf8b46_6:
+
+    # nurse vent_crawling video "..."
+    nurse vent_crawling video "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1029
+translate french quest_nurse_venting_maxine_camera_21fc75e2:
+
+    # mc "Did you just go in a circle?"
+    mc "Avez-vous simplement fait un cercle?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1030
+translate french quest_nurse_venting_maxine_camera_abb0a2f7:
+
+    # nurse vent_crawling video "Possibly!"
+    nurse vent_crawling video "Éventuellement !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1052
+translate french quest_nurse_venting_maxine_camera_home_7d0ecdb9:
+
+    # "Huh? The x-ray function on this thing only seems to work on the school vents..."
+    "Huh? La fonction de radiographie sur cette chose ne semble fonctionner que sur les bouches de l'école ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1053
+translate french quest_nurse_venting_maxine_camera_home_9b401d77:
+
+    # "How did [maxine] even do this?"
+    "Comment le [maxine] a-il fait ça?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1057
+translate french quest_nurse_venting_entrance_path_go_c8173548:
+
+    # "I promised the [nurse] I wouldn't abandon her in the vents. Can't let her down now."
+    "J'ai promis le [nurse] Je ne l'abandonnerais pas dans les évents. Je ne peux pas la laisser tomber maintenant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1061
+translate french quest_nurse_venting_entrance_right_path_go_c8173548:
+
+    # "I promised the [nurse] I wouldn't abandon her in the vents. Can't let her down now."
+    "J'ai promis le [nurse] Je ne l'abandonnerais pas dans les évents. Je ne peux pas la laisser tomber maintenant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1065
+translate french quest_nurse_venting_entrance_bus_stop_go_c8173548:
+
+    # "I promised the [nurse] I wouldn't abandon her in the vents. Can't let her down now."
+    "J'ai promis le [nurse] Je ne l'abandonnerais pas dans les évents. Je ne peux pas la laisser tomber maintenant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1069
+translate french quest_nurse_venting_kitchen_stairs_go_c8173548:
+
+    # "I promised the [nurse] I wouldn't abandon her in the vents. Can't let her down now."
+    "J'ai promis le [nurse] Je ne l'abandonnerais pas dans les évents. Je ne peux pas la laisser tomber maintenant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1073
+translate french quest_nurse_venting_clubroom_vent_interact_03f4214f:
+
+    # "As if this room wasn't weird enough..."
+    "Comme si cette pièce n'était pas assez bizarre ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1074
+translate french quest_nurse_venting_clubroom_vent_interact_60e7d2e7:
+
+    # "What kind of architect puts a vent in the floor?"
+    "Quel type d'architecte met un évent dans le sol?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1094
+translate french quest_nurse_venting_clubroom_vent_use_item_ce76b99d:
+
+    # nurse "Oww! You dropped a\nbottle on my head!"
+    nurse "Oww ! Vous avez laissé tomber une bouteille de\nsur ma tête !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1095
+translate french quest_nurse_venting_clubroom_vent_use_item_e09c9a85:
+
+    # nurse "That's a funny coincidence!\nI'm so thirsty!"
+    nurse "C'est une coïncidence drôle !\nJ'ai tellement soif !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1096
+translate french quest_nurse_venting_clubroom_vent_use_item_5f72f0ce:
+
+    # mc "Drink the bottle,\nyou'll feel better."
+    mc "Drink the bottle,\nyou'll feel better."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1097
+translate french quest_nurse_venting_clubroom_vent_use_item_d6614e99:
+
+    # nurse "Oh, my! You could be a\nnurse, you know that?"
+    nurse "Oh, mon ! Vous pourriez être une infirmière\n, vous le savez?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1098
+translate french quest_nurse_venting_clubroom_vent_use_item_dd847a7b:
+
+    # nurse "..."
+    nurse "..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1099
+translate french quest_nurse_venting_clubroom_vent_use_item_1d23fe70:
+
+    # nurse "{i}*Gurgle*{/}"
+    nurse "{i}*Gurgle * { / }"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1100
+translate french quest_nurse_venting_clubroom_vent_use_item_fcacbb77:
+
+    # nurse "Ah, I chugged it... and I\nstabbed my hand on\nsomething sharp..."
+    nurse "Ah, j'ai chugged ... et je\nj'ai poignardé la main sur\nquelque chose de tranchant ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1101
+translate french quest_nurse_venting_clubroom_vent_use_item_8741f7ef:
+
+    # mc "Is it a fishing hook?"
+    mc "Est-ce un hameçon de pêche?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1102
+translate french quest_nurse_venting_clubroom_vent_use_item_e8f45809:
+
+    # nurse "It might be? It's\npretty dark..."
+    nurse "C'est peut-être vrai? C'est\nassez sombre ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1103
+translate french quest_nurse_venting_clubroom_vent_use_item_3f695e3b:
+
+    # nurse "I'm either feeling better\nnow... or much worse."
+    nurse "Je me sens mieux\nmaintenant ... ou bien pire."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1104
+translate french quest_nurse_venting_clubroom_vent_use_item_40afd0ba:
+
+    # mc "You feel better."
+    mc "Vous vous sentez mieux."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1105
+translate french quest_nurse_venting_clubroom_vent_use_item_047921f2:
+
+    # nurse "You know what?\nI think I do!"
+    nurse "Vous savez quoi?\nJe pense que je le fais !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1106
+translate french quest_nurse_venting_clubroom_vent_use_item_cb621136:
+
+    # mc "Can you figure out how to\nget back to your office?"
+    mc "Pouvez-vous trouver comment revenir à votre bureau\n?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1107
+translate french quest_nurse_venting_clubroom_vent_use_item_2442cfdb:
+
+    # nurse "Now that my head is clear...\nI think I can. It's down, left,\nright, right again, then left—"
+    nurse "Maintenant que ma tête est claire ...\nJe pense que je peux. Il est en bas, à gauche,\ndroit, encore une fois, puis à gauche-"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1108
+translate french quest_nurse_venting_clubroom_vent_use_item_6b69d58d:
+
+    # mc "You got this! I'll\nmeet you there."
+    mc "Vous avez ceci ! Je vais\nvous rencontrer là-bas."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1121
+translate french quest_nurse_venting_clubroom_vent_use_item_efb0226c:
+
+    # "The [nurse] is so out of her mind, she might actually try to drink my [item.title_lower]..."
+    "Le [nurse] est si hors de son esprit, elle pourrait essayer de boire mon [item.title_lower]..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1126
+translate french quest_nurse_venting_clubroom_window_go_6712f913:
+
+    # "Assuming the [nurse] makes it back safe and sound, I'm not gonna need these gadgets anymore."
+    "En supposant que le [nurse] le rend sain et sauf, je ne vais plus avoir besoin de ces gadgets."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1127
+translate french quest_nurse_venting_clubroom_window_go_3c0b75f6:
+
+    # "Might as well leave them here before [maxine] pesters me about the soap goblins again..."
+    "En plus de les laisser ici avant [maxine] pesters me sur le savon goblins à nouveau ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1134
+translate french quest_nurse_venting_ground_floor_exit_arrow_go2_ad9e60d9:
+
+    # "As enticing as escaping this hellhole is, I promised to meet the [nurse] in her office."
+    "En nous permettant d'échapper à ce trou d'enfer, j'ai promis de rencontrer le [nurse] dans son bureau."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1141
+translate french quest_nurse_venting_stuck_5d429815:
+
+    # nurse "[mc]? Is that you?"
+    nurse "[mc]? C'est toi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1142
+translate french quest_nurse_venting_stuck_1792a34a:
+
+    # "Woah, her ass looks extra fine coming out of there!"
+    "Woah, son cul a l'air extra fin de là !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1143
+translate french quest_nurse_venting_stuck_b21b4564:
+
+    # "Those thick juicy thighs wobbling like jelly..."
+    "Ces gros cuisses juteux agenouilleux comme la gelée ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1144
+translate french quest_nurse_venting_stuck_eb3d9d0e:
+
+    # nurse "Oh, my..."
+    nurse "Oh, mon ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1145
+translate french quest_nurse_venting_stuck_f3b3d28f:
+
+    # mc "What's wrong?"
+    mc "Qu'est-ce qui ne va pas?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1146
+translate french quest_nurse_venting_stuck_50c83ead:
+
+    # nurse "I can't move..."
+    nurse "Je ne peux pas bouger ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1147
+translate french quest_nurse_venting_stuck_5c122d02:
+
+    # nurse "Oh, no..."
+    nurse "Oh, non ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1148
+translate french quest_nurse_venting_stuck_a9fd9e74:
+
+    # mc "You're stuck?"
+    mc "Vous êtes coincé?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1149
+translate french quest_nurse_venting_stuck_558f2815:
+
+    # nurse "Y-yes..."
+    nurse "Y-oui ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1150
+translate french quest_nurse_venting_stuck_e708bb85:
+
+    # nurse "This is entirely unprecedented!"
+    nurse "C'est tout à fait sans précédent !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1151
+translate french quest_nurse_venting_stuck_6700e27e:
+
+    # mc "Let me see if I can help get you loose."
+    mc "Laissez-moi voir si je peux vous aider à vous perdre."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1152
+translate french quest_nurse_venting_stuck_59c40e01:
+
+    # nurse "Very well, but I have felt bloated lately and there's a couple of extra pounds I've meant to get rid off..."
+    nurse "Très bien, mais je me suis senti gonflé ces derniers temps et il y a quelques kilos supplémentaires que j'ai voulu me débarrasser ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1153
+translate french quest_nurse_venting_stuck_ed422103:
+
+    # mc "Nonsense! You look great."
+    mc "Nonsens ! Tu as l'air super."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1154
+translate french quest_nurse_venting_stuck_c0730012:
+
+    # "My fingers press into her thickness. She's so soft."
+    "Mes doigts presse son épaisseur. Elle est si douce."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1155
+translate french quest_nurse_venting_stuck_1979d74e:
+
+    # mc "And you feel great too."
+    mc "Et vous vous sentez bien aussi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1156
+translate french quest_nurse_venting_stuck_14c6848d:
+
+    # nurse "Oh, but... [mc]..."
+    nurse "Oh, mais ... [mc]..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1157
+translate french quest_nurse_venting_stuck_11455b53:
+
+    # mc "What?"
+    mc "Quoi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1158
+translate french quest_nurse_venting_stuck_46b1618d:
+
+    # nurse "That's a bit inappropriate..."
+    nurse "C'est un peu inapproprié ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1159
+translate french quest_nurse_venting_stuck_559355e4:
+
+    # mc "So is crawling naked through the vents."
+    mc "Il est donc possible de ramper nue à travers les évents."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1160
+translate french quest_nurse_venting_stuck_9b46c4f3:
+
+    # nurse "I suppose..."
+    nurse "Je suppose ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1161
+translate french quest_nurse_venting_stuck_191b59a4:
+
+    # "If I grab her by the hips, I could perhaps work her free."
+    "Si je l'attrapais par les hanches, je pourrais peut-être la libérer."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1162
+translate french quest_nurse_venting_stuck_55050dc2:
+
+    # "But seeing her like this... stuck... presenting... helpless... I can't help but feel her up."
+    "Mais la voir comme ça ... coincé ... présenté ... sans défense ... Je ne peux pas m'empêcher de la sentir."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1163
+translate french quest_nurse_venting_stuck_6c96a770:
+
+    # nurse "I... I think if you help me wiggle, it might help..."
+    nurse "I ... Je pense que si tu m'aimes, ça pourrait aider ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1164
+translate french quest_nurse_venting_stuck_dc8c8596:
+
+    # mc "You bet. Let's get you wiggling."
+    mc "Vous pariez. Faisons vous igouler."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1166
+translate french quest_nurse_venting_stuck_11fdb519:
+
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1168
+translate french quest_nurse_venting_stuck_210998de:
+
+    # mc "All right, here we go."
+    mc "Très bien, ici on y va."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1174
+translate french quest_nurse_venting_stuck_a54fc33d:
+
+    # nurse "Oh!" with vpunch
+    nurse "Oh !" with vpunch
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1181
+translate french quest_nurse_venting_stuck_ecaee8f5:
+
+    # nurse blush "You did it!"
+    nurse blush "Vous l'avez fait !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1182
+translate french quest_nurse_venting_stuck_dd5ccfdb:
+
+    # nurse blush "Thank you. That was quite the ordeal."
+    nurse blush "Merci. C'était tout à fait l'épreuve."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1183
+translate french quest_nurse_venting_stuck_4d2daba2:
+
+    # mc "Don't mention it!"
+    mc "Ne le mentionnez pas !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1184
+translate french quest_nurse_venting_stuck_9c0541c5:
+
+    # mc "Do you have the hook?"
+    mc "Avez-vous le crochet?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1185
+translate french quest_nurse_venting_stuck_8cef784f:
+
+    # nurse blush "Here you go."
+    nurse blush "Ici, vous allez."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1192
+translate french quest_nurse_venting_stuck_dcb6dace:
+
+    # mc "Thank you. You should probably get some rest now."
+    mc "Merci. Tu devrais probablement te reposer maintenant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1193
+translate french quest_nurse_venting_stuck_03ec3898:
+
+    # nurse concerned "I suppose I should."
+    nurse concerned "Je suppose que je devrais."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1194
+translate french quest_nurse_venting_stuck_4cc05154:
+
+    # nurse concerned "This was enough excitement to last the rest of the year..."
+    nurse concerned "C'était assez excitant pour durer le reste de l'année ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1196
+translate french quest_nurse_venting_stuck_185f1a66:
+
+    # "My fingers dig deeper into her hips."
+    "Mes doigts creusent plus profondément dans ses hanches."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1197
+translate french quest_nurse_venting_stuck_17b17ac1:
+
+    # "Her ass shakes and wiggles, and something stirs inside me."
+    "Son cul se gâte et se torpille, et quelque chose me mordu en moi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1198
+translate french quest_nurse_venting_stuck_51dc981c:
+
+    # "Perhaps helping her can wait a bit..."
+    "Peut-être qu'elle peut l'aider à attendre un peu ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1199
+translate french quest_nurse_venting_stuck_65e6a06b:
+
+    # nurse "Oh... that's... that..."
+    nurse "Oh ... c'est ... que ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1200
+translate french quest_nurse_venting_stuck_d7d3946b:
+
+    # mc "I have a different plan."
+    mc "J'ai un plan différent."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1201
+translate french quest_nurse_venting_stuck_5a9fa793:
+
+    # nurse "What do you mean?"
+    nurse "Que voulez-vous dire?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1202
+translate french quest_nurse_venting_stuck_da7e8dae:
+
+    # "She's built like a fertility goddess. Those big thighs leading up to that full ass. That winking sphincter."
+    "Elle est construite comme une déesse de la fertilité. Ces gros cuisses menant à ce cul plein. Ce sphincter de treuil."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1203
+translate french quest_nurse_venting_stuck_72c52284:
+
+    # mc "You're incredibly stuck, but I have an idea."
+    mc "Vous êtes incroyablement coincé, mais j'ai une idée."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1213
+translate french quest_nurse_venting_stuck_afd90519:
+
+    # nurse "Oh!"
+    nurse "Oh !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1214
+translate french quest_nurse_venting_stuck_7a3aed40:
+
+    # "She knows where this is going. Her knees are pulling apart. She's opening herself to me."
+    "Elle sait où ça va. Ses genoux se déportent. Elle s'ouvre à moi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1215
+translate french quest_nurse_venting_stuck_429e9ce1:
+
+    # nurse "But what if someone comes in?"
+    nurse "Mais que se passe-il si quelqu'un vient?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1216
+translate french quest_nurse_venting_stuck_40ea3949:
+
+    # mc "They'll see me fucking you."
+    mc "Ils vont me voir putain."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1217
+translate french quest_nurse_venting_stuck_a52888da:
+
+    # nurse "I could get in trouble!"
+    nurse "Je pourrais avoir des problèmes !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1218
+translate french quest_nurse_venting_stuck_0cd326ee:
+
+    # mc "Oh, you're already in trouble."
+    mc "Oh, vous êtes déjà en difficulté."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1219
+translate french quest_nurse_venting_stuck_e122f520:
+
+    # nurse "I suppose I am..."
+    nurse "Je suppose que je suis ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1220
+translate french quest_nurse_venting_stuck_28ba79cd:
+
+    # mc "That's right."
+    mc "C'est vrai."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1221
+translate french quest_nurse_venting_stuck_ed5e0f3b:
+
+    # "My fingers run up and down her inner thighs. This brings my face close to her pussy and the heat coming off it."
+    "Mes doigts se dirigent vers le haut et le bas de ses cuisses. Cela m'amène mon visage près de sa chatte et de la chaleur qui en vient."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1222
+translate french quest_nurse_venting_stuck_7a8ed1a4:
+
+    # "A sheen of wetness is already spreading along the line of her lips."
+    "Une gaine d'humidité se répand déjà le long de la ligne de ses lèvres."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1223
+translate french quest_nurse_venting_stuck_113328c3:
+
+    # "I give her a lick, top to bottom, and her knees give out. She tastes a little sour, a little sweet."
+    "Je lui donne une lèche, de haut en bas, et ses genoux donnent. Elle a un petit goût, un peu sucré."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1224
+translate french quest_nurse_venting_stuck_0ed9c1a6:
+
+    # "The flat of my tongue works her lips. With the tip, I give her clit the occasional flick."
+    "L'appartement de ma langue travaille sur ses lèvres. Avec le bout, je lui donne un coup de coup."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1225
+translate french quest_nurse_venting_stuck_65bed0e7:
+
+    # "She's trembling, arching her back upwards. She can't help herself."
+    "Elle tremble, la voûte vers le haut. Elle ne peut pas s'aider elle-même."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1226
+translate french quest_nurse_venting_stuck_d47e4504:
+
+    # nurse "P-please!"
+    nurse "P s'il vous plaît !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1227
+translate french quest_nurse_venting_stuck_46d024ef:
+
+    # mc "Please what?"
+    mc "S'il vous plaît quoi?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1228
+translate french quest_nurse_venting_stuck_531e1814:
+
+    # nurse "Please, give it to me... sir."
+    nurse "S'il vous plaît, laissez-moi ... monsieur."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1229
+translate french quest_nurse_venting_stuck_d7bba259:
+
+    # mc "Oh, I do like that!"
+    mc "Oh, je fais comme ça !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1234
+translate french quest_nurse_venting_stuck_2646ac45:
+
+    # "I've always wanted to try a pornstar position..."
+    "J'ai toujours voulu essayer un poste pornstar ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1235
+translate french quest_nurse_venting_stuck_e02f7afb:
+
+    # "I play the head of my dick over her pussy."
+    "Je joue la tête de ma bite sur sa chatte."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1236
+translate french quest_nurse_venting_stuck_ca0e1778:
+
+    # "I have to make her mine. The power over her is exhilarating."
+    "Je dois faire sa mine. Le pouvoir sur elle est exaltant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1237
+translate french quest_nurse_venting_stuck_87ebb778:
+
+    # "Before I press in, I savor how good it will feel."
+    "Avant que je presse, je savouais à quel point il se sentira bien."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1238
+translate french quest_nurse_venting_stuck_bea3a2f8:
+
+    # "That pressure, that warmth, that long slide..."
+    "Cette pression, cette chaleur, cette longue glissade ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1247
+translate french quest_nurse_venting_stuck_f191d84a:
+
+    # "Carefully, I ease the tip in. Savoring her soft heat."
+    "Je vous en facilite la pointe. Savourant sa chaleur douce."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1248
+translate french quest_nurse_venting_stuck_afd90519_1:
+
+    # nurse "Oh!"
+    nurse "Oh !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1249
+translate french quest_nurse_venting_stuck_1638e95b:
+
+    # "The touch sends a wave of electricity through me."
+    "Le toucher envoie une vague d'électricité à travers moi."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1254
+translate french quest_nurse_venting_stuck_31c7bb1a:
+
+    # "Slow, steady, heavy thrusts. I've got her ass moving like the surface of the ocean."
+    "Des charrouilles intenses, stables et stables. J'ai son cul qui se déplace comme la surface de l'océan."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1255
+translate french quest_nurse_venting_stuck_073118f2:
+
+    # "It's mesmerizing."
+    "C'est hypnotiser."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1256
+translate french quest_nurse_venting_stuck_010cd6e0:
+
+    # "Time to put some marks on her."
+    "Il est temps de lui accorder des points."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1262
+translate french quest_nurse_venting_stuck_329489d4:
+
+    # "The first spank is a doozy, right where the fat of her ass folds over the fat of her thigh."
+    "Le premier spank est un doozy, c'est là que la graisse de son cul se plique sur la graisse de sa cuisse."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1263
+translate french quest_nurse_venting_stuck_899bfc09:
+
+    # nurse "Ow!"
+    nurse "Ow !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1264
+translate french quest_nurse_venting_stuck_9e530d4f:
+
+    # mc "Shut up. You like it."
+    mc "Arrêt. Tu aimais ça."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1265
+translate french quest_nurse_venting_stuck_68fa02c4:
+
+    # nurse "I do!"
+    nurse "I do !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1266
+translate french quest_nurse_venting_stuck_2abaff8c:
+
+    # "I increase the pace."
+    "J'augmente le rythme."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1272
+translate french quest_nurse_venting_stuck_c7bf4109:
+
+    # nurse "Harder!"
+    nurse "Harder !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1273
+translate french quest_nurse_venting_stuck_5c4d48a0:
+
+    # mc "Beg for it!"
+    mc "Beg pour ça !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1274
+translate french quest_nurse_venting_stuck_652b4384:
+
+    # nurse "Please, harder!"
+    nurse "S'il vous plaît, plus difficile !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1280
+translate french quest_nurse_venting_stuck_07f418a8:
+
+    # "I put my back into it, rising off the floor to give her my attention."
+    "Je lui ai mis mon dos, me levai la parole pour lui donner mon attention."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1281
+translate french quest_nurse_venting_stuck_cd07ecaa:
+
+    # "As I get closer, I increase the pace still."
+    "Au fur et à mesure que je me rapproche, j'augmente le rythme."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1282
+translate french quest_nurse_venting_stuck_8f464168:
+
+    # nurse "Yes! Yes! Please!"
+    nurse "Oui ! Oui ! Je te prie !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1288
+translate french quest_nurse_venting_stuck_71abb570:
+
+    # "After years and years of masturbation and self-edging, I've mastered my own pleasure..."
+    "Après des années et des années de masturbation et d'auto-édage, j'ai maîtrisé mon propre plaisir ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1289
+translate french quest_nurse_venting_stuck_2452579e:
+
+    # "Holding it in. Holding it in longer and longer."
+    "En le tenant. La tenir plus longtemps et plus longtemps."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1290
+translate french quest_nurse_venting_stuck_ad9f8fd5:
+
+    # nurse "Oh, my lord!"
+    nurse "Oh, mon seigneur !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1296
+translate french quest_nurse_venting_stuck_0f50ee1c:
+
+    # "Fucking her deep and hard."
+    "Fucking son profond et dur."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1297
+translate french quest_nurse_venting_stuck_a138eea7:
+
+    # "Well... as hard as this position allows me..."
+    "Eh bien ... aussi dur que cette position me permet ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1298
+translate french quest_nurse_venting_stuck_c8ae0c4b:
+
+    # "My stomach muscles flex with every thrust."
+    "Mes muscles de l'estomac fléchir avec chaque poussée."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1299
+translate french quest_nurse_venting_stuck_e65ee36c:
+
+    # "Her ass jiggles. She moans. An orgasm rips through her."
+    "Son cul jiggles. Elle moans. Un orgasme traverse elle."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1300
+translate french quest_nurse_venting_stuck_e60698db:
+
+    # "And that's not something my masturbation practice has prepared me for."
+    "Et ce n'est pas quelque chose que ma pratique de masturbation m'a préparé."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1301
+translate french quest_nurse_venting_stuck_83852efa:
+
+    # "Tight, pulsing, pulling me in..."
+    "Tight, pulchanter, me tirer dans ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1302
+translate french quest_nurse_venting_stuck_97cc9ce7:
+
+    # "I have to pull out!"
+    "Je dois me retirer !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1304
+translate french quest_nurse_venting_stuck_21801d2a:
+
+    # mc "F-fuck!"
+    mc "F-fuck !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1305
+translate french quest_nurse_venting_stuck_72679f11:
+
+    # "Ropes of cum stream out across her ass cheeks."
+    "Des cordes de foutre sortent de ses joues."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1306
+translate french quest_nurse_venting_stuck_17b5eb46:
+
+    # nurse "Oooh! That's burning hot!"
+    nurse "Oooh ! C'est brûlant !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1307
+translate french quest_nurse_venting_stuck_ab7f7a97:
+
+    # "I've never felt so good finishing myself off. It's like my soul is leaving my body."
+    "Je ne me suis jamais senti aussi bien finissant. C'est comme mon âme qui quitte mon corps."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1308
+translate french quest_nurse_venting_stuck_991dc41a:
+
+    # "I brace myself against the floor and pour out the rest of my jizz onto her."
+    "Je me brasse contre le sol et je verse le reste de mon jizz sur elle."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1309
+translate french quest_nurse_venting_stuck_654c65df:
+
+    # "Some of it runs down the slope of her ass cheeks and pools in the small of her back."
+    "Certains d'entre elles descassent la pente de ses joues et de ses piscines dans le petit de son dos."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1310
+translate french quest_nurse_venting_stuck_df01fea2:
+
+    # nurse "Oh, dear..."
+    nurse "Oh, chérie ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1311
+translate french quest_nurse_venting_stuck_9cdabd8d:
+
+    # mc "Oh, dear, indeed."
+    mc "Oh, chérie, en effet."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1321
+translate french quest_nurse_venting_stuck_d9677c9b:
+
+    # "And now what, I help her get free?"
+    "Et maintenant, je l'aide à se libérer?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1322
+translate french quest_nurse_venting_stuck_de24d778:
+
+    # "Maybe I won't."
+    "Peut-être que je ne le ferai pas."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1323
+translate french quest_nurse_venting_stuck_e0bdc3f5:
+
+    # "Maybe I'll walk away and lock the door behind me..."
+    "Peut-être que je vais m'enfuir et fermer la porte derrière moi ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1324
+translate french quest_nurse_venting_stuck_9e7156c4:
+
+    # "I wouldn't mind having my own personal fuck toy stuck in this vent."
+    "Je ne voudrais pas avoir mon propre merde personnel coincé dans cet évent."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1325
+translate french quest_nurse_venting_stuck_8a6e5202:
+
+    # "Just need to figure out how to bring her food and I'm—"
+    "Il suffit de savoir comment apporter sa nourriture et je suis-"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1326
+translate french quest_nurse_venting_stuck_52e5d6f1:
+
+    # nurse "[mc]? It worked!"
+    nurse "[mc]? Ça a marché !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1327
+translate french quest_nurse_venting_stuck_661bb4d1:
+
+    # mc "What did?"
+    mc "Qu'est-ce qu'il a fait?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1328
+translate french quest_nurse_venting_stuck_4706c2ef:
+
+    # nurse "Your plan! I'm free!"
+    nurse "Votre plan ! Je suis libre !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1330
+translate french quest_nurse_venting_stuck_3273faed:
+
+    # "No freaking way..."
+    "Pas de moyen de panique ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1331
+translate french quest_nurse_venting_stuck_10413277:
+
+    # mc "Err... of course it did! Told you so!"
+    mc "Err ... bien sûr ! Told you so !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1332
+translate french quest_nurse_venting_stuck_b35c8291:
+
+    # nurse blush "So you did."
+    nurse blush "Alors vous l'avez fait."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1333
+translate french quest_nurse_venting_stuck_fa85e1d4:
+
+    # nurse blush "I should trust you from now on."
+    nurse blush "Je dois vous faire confiance dès maintenant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1334
+translate french quest_nurse_venting_stuck_48b81418:
+
+    # mc "You definitely should."
+    mc "Vous devriez vraiment."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1335
+translate french quest_nurse_venting_stuck_9c0541c5_1:
+
+    # mc "Do you have the hook?"
+    mc "Avez-vous le crochet?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1336
+translate french quest_nurse_venting_stuck_8cef784f_1:
+
+    # nurse blush "Here you go."
+    nurse blush "Ici, vous allez."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1343
+translate french quest_nurse_venting_stuck_bcfd267a:
+
+    # nurse concerned "I don't think I'll be able to sit for a week..."
+    nurse concerned "Je ne pense pas pouvoir m'asseoir pendant une semaine ..."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1344
+translate french quest_nurse_venting_stuck_c6fcc58f:
+
+    # nurse concerned "Time to break out the polysporin."
+    nurse concerned "Temps de rupture de la polysporine."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1353
+translate french quest_nurse_venting_not_stuck_58a39ba6:
+
+    # mc "You've made it!"
+    mc "Vous l'avez fait !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1354
+translate french quest_nurse_venting_not_stuck_9c0541c5:
+
+    # mc "Do you have the hook?"
+    mc "Avez-vous le crochet?"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1355
+translate french quest_nurse_venting_not_stuck_58576c3d:
+
+    # nurse smile "Here you go."
+    nurse smile "Ici, vous allez."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1362
+translate french quest_nurse_venting_not_stuck_4cfd5321:
+
+    # mc "You should probably get some rest now."
+    mc "Vous devriez probablement vous reposer maintenant."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1363
+translate french quest_nurse_venting_not_stuck_405cf24f:
+
+    # mc "Thanks for the help!"
+    mc "Merci pour l'aide !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1364
+translate french quest_nurse_venting_not_stuck_cb99f494:
+
+    # nurse smile "Anytime!"
+    nurse smile "En tout temps !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1366
+translate french quest_nurse_venting_not_stuck_3487d162:
+
+    # "The [nurse] is so sweet. I wish we could hang out more."
+    "Le [nurse] est si gentile. J'aimerais que nous raccrochez davantage."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1367
+translate french quest_nurse_venting_not_stuck_dfce5cf7:
+
+    # "I don't care that she's a bit older, she's so... soft and agreeable."
+    "Je me fiche de savoir qu'elle est un peu plus âgée, elle est si douce et agréable."
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1368
+translate french quest_nurse_venting_not_stuck_bf1d34bb:
+
+    # "So squeezable!"
+    "Donc squeezable !"
+
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1369
+translate french quest_nurse_venting_not_stuck_c4beb45f:
+
+    # "Maybe I could ask her out some time?"
+    "Peut-être que je pourrais lui demander un peu de temps?"
+
+translate french strings:
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:83
+    old "Help her pull"
+    new "Aide son pull"
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:83
+    old "Let her figure it out"
+    new "Laissez-le la comprendre"
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:216
+    old "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"You're going into the school's vents for me.\""
+    new "? mc.owned_item ('compromising_photo') @ | { image = items compromising_photo } | \"Vous allez dans les évents de l'école pour moi.\""
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:216
+    old "\"I lost my inhaler...\""
+    new "\"J'ai perdu mon inhalateur ...\""
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:340
+    old "?mc.owned_item('walkie_talkie') and mc.owned_item('maxine_camera') and mc.owned_item('body_oil')@|{image=items walkie_talkie}|{color=#fefefe}+{/}|{image=items maxine_camera}|{color=#fefefe}+{/}|{image=items body_oil}|\"First we have to{space=-40}\nget you ready. Strip.\"{space=-95}"
+    new "? mc.owned_item ('walkie_talkie') et mc.owned_item ('maxine_camera') et mc.owned_item ('body_oil') @ | { image = items walkie_talkie } | { color=#fefefe} + { / } | { image=items maxine_camera } | { color=#fefefe} + { / } | { image=items body_oil } | \" First we have to { space=-40 }\nget you ready. Bande. \" { space = -95 }"
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:340
+    old "?mc.owned_item('walkie_talkie') and mc.owned_item('maxine_camera')@|{image=items walkie_talkie}|{color=#fefefe}+{/}|{image=items maxine_camera}|\"I've got everything\nwe need.\""
+    new "?mc.owned_item('walkie_talkie') and mc.owned_item('maxine_camera')@|{image=items walkie_talkie}|{color=#fefefe}+{/}|{image=items maxine_camera}|\"J'ai tout\nce dont vous avez besoin.\""
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:340
+    old "\"Not yet. I need more things.\""
+    new "\" Pas encore. J'ai besoin de plus de choses. \""
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:487
+    old "\"Left.\""
+    new "\"Gauche.\""
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:487
+    old "\"Straight.\""
+    new "\"Droit\"."
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:487
+    old "\"Right.\""
+    new "\"Bien.\""
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:743
+    old "\"I think so.\""
+    new "\"Je pense que oui.\""
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:743
+    old "\"You're talking about\n[kate], aren't you?\""
+    new "\"Vous parlez de\n[kate], n'est-ce pas?\""
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:743
+    old "\"Maybe. But I don't care.\""
+    new "\" Peut-être. Mais je m'en fiche. \""
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1165
+    old "Pull her out"
+    new "Pull her dehors"
+
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1165
+    old "?nurse.lust>=8@[nurse.lust]/8|{image=nurse contact_icon}|{image=stats lust}|Find an alternative plan"
+    new "? nurse.lust> =8@[nurse.lust]/8 | { image=nurse contact_icon } | { image=stats lust } | Trouver un autre plan"
+

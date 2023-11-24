@@ -1,0 +1,14 @@
+# TODO: Translation updated at 2023-11-05 22:06
+
+# game/1000_base_game/game/locations/hospital/int_left_poster.rpy:15
+translate french hospital_left_poster_interact_ac11dc48:
+
+    # "Hospitals really know how to make anatomy pictures unsexy..."
+    "Les hôpitaux savent vraiment comment rendre les images anatomiques unsexy ..."
+
+# game/1000_base_game/game/locations/hospital/int_left_poster.rpy:16
+translate french hospital_left_poster_interact_9cf0561d:
+
+    # "Show me where the clitoris is!"
+    "Montrez-moi où est le clitoris !"
+
