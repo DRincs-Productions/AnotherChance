@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:25\n"
+"PO-Revision-Date: 2023-11-24 09:10\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:11 #-#-# translate crowdin quest_flora_bonsai_spaghetti_505d8ca3:
 msgid "[_nurse_s_smile_] Hello there, [mc]. How are you feeling today?"
@@ -230,7 +230,7 @@ msgstr "[_flora_s_angry_] ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:86 #-#-# translate crowdin quest_flora_bonsai_spaghetti_aa8f95d7:
 msgid "[_flora_s_angry_] You know I will make you suffer for that comment."
-msgstr ""
+msgstr "[_flora_s_angry_] Sai che ti farò soffrire per questo commento."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:87 #-#-# translate crowdin quest_flora_bonsai_spaghetti_a6e22ffd:
 msgid "[_mc_] Point and case."
@@ -266,7 +266,7 @@ msgstr "[_flora_s_annoyed_] Non mi fido di te con il mio peluche meno preferito.
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:98 #-#-# translate crowdin quest_flora_bonsai_spaghetti_433a05c9:
 msgid "[_mc_] I wouldn't either, but your plushies are evil."
-msgstr ""
+msgstr "[_mc_] Nemmeno io lo farei, ma i tuoi peluche sono malvagi."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:99 #-#-# translate crowdin quest_flora_bonsai_spaghetti_17a9bf15:
 msgid "[_flora_s_angry_] Is that supposed to help your case?"
@@ -650,7 +650,7 @@ msgstr "[_flora_s_afraid_] Dove sto per dormire?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:247 #-#-# translate crowdin quest_flora_bonsai_bed_1ab69d5f:
 msgid "[_mc_] Don't be so immature. My bed is big enough."
-msgstr ""
+msgstr "[_mc_] Non essere così immaturo. Il mio letto è abbastanza grande."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:248 #-#-# translate crowdin quest_flora_bonsai_bed_2613b4ef:
 msgid "[_flora_s_annoyed_] ..."
@@ -1154,7 +1154,7 @@ msgstr "È già fuori controllo."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:476 #-#-# translate crowdin quest_flora_bonsai_knock_knock_a6b93c07:
 msgid "[_mc_] I'll bring them to you. Hold on."
-msgstr ""
+msgstr "[_mc_] Te li porterò. Aspettate."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:477 #-#-# translate crowdin quest_flora_bonsai_knock_knock_b928347a:
 msgid "[_isabelle_] All right."
@@ -1818,7 +1818,7 @@ msgstr "[_flora_] Sono contento che tu fossi in giro."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:924 #-#-# translate crowdin quest_flora_bonsai_ending_love_859b6491:
 msgid "[_mc_] I'm glad too."
-msgstr ""
+msgstr "[_mc_] Anch'io ne sono felice."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:925 #-#-# translate crowdin quest_flora_bonsai_ending_love_6d34850f:
 msgid "Knowing her, she'll have forgotten about this by the start of next week, but for once it's nice to be a hero in her eyes and not some worthless loser."
