@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:40\n"
+"PO-Revision-Date: 2023-11-24 09:13\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/kate/q_kate_desire.rpy:4 #-#-# translate crowdin quest_kate_desire_start_e8823701:
 msgid "Whenever I see [kate] in the gym, my heart starts beating a little faster..."
@@ -882,7 +882,7 @@ msgstr "[_kate_s_confident_] Quindi, ecco dove si trovava. Grazie per averlo tro
 
 # game/1000_base_game/game/characters/kate/q_kate_desire.rpy:375 #-#-# translate crowdin quest_kate_desire_bus_interact_9f5bba98:
 msgid "[_mc_] You followed me?"
-msgstr ""
+msgstr "[_mc_] Mi hai seguito?"
 
 # game/1000_base_game/game/characters/kate/q_kate_desire.rpy:376 #-#-# translate crowdin quest_kate_desire_bus_interact_53cafd83:
 msgid "[_kate_s_smile_right_] Yeah, I felt like grabbing a snack from the cafeteria."
