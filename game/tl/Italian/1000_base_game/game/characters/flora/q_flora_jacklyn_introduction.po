@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:26\n"
+"PO-Revision-Date: 2023-11-24 09:10\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:3 #-#-# translate crowdin flora_quest_flora_jacklyn_introduction_start_5a36f080:
 msgid "[_flora_s_annoyed_] What?"
@@ -542,7 +542,7 @@ msgstr "[_mc_] Hai davvero fatto un'impressione su [flora]e vorrebbe essere tuo 
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:180 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_62272ce9:
 msgid "[_jacklyn_s_excited_] Badass. Can you remind me who [flora] is? I've seen too many new faces recently."
-msgstr ""
+msgstr "[_jacklyn_s_excited_] Tosto. Puoi ricordarmi chi è [flora]? Ho visto troppe facce nuove di recente."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:181 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_5b31129e:
 msgid "[_mc_] She's about this tall... and has a temper about this tall..."
