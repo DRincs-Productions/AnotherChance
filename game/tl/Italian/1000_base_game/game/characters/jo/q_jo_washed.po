@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:40\n"
+"PO-Revision-Date: 2023-11-24 09:13\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:43 #-#-# translate crowdin quest_jo_washed_start_0d7bce5a:
 msgid "Sometimes when life gets rough, it's easier to just escape."
@@ -2657,7 +2657,8 @@ msgstr "[_jo_s_blush_] [mc]..."
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1176 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_a5b01dc2:
 msgid "[_jo_s_blush_] I appreciate your support, but you don't need to lie to make me\n"
 "feel better."
-msgstr ""
+msgstr "[_jo_s_blush_] Apprezzo il tuo sostegno, ma non è necessario mentire per farmi \n"
+"sentire meglio."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1177 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_608b2dd0:
 msgid "[_jo_s_blush_] The thing barely covers what it needs to!"
