@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:26\n"
+"PO-Revision-Date: 2023-11-24 09:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:47 #-#-# translate crowdin quest_isabelle_piano_start_af63ac0e:
 msgid "[_isabelle_s_excited_] I had no idea you play the piano!"
@@ -781,7 +781,8 @@ msgstr "Non ha idea di non sono chi pensa che io sia."
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:400 #-#-# translate crowdin quest_isabelle_piano_score_interact_2762b604:
 msgid "[_isabelle_s_blush_] I feel like praise isn't enough, but I don't really have anything\n"
 "apart from this..."
-msgstr ""
+msgstr "[_isabelle_s_blush_] Sento che le lodi non sono sufficienti, ma non ho nulla\n"
+"oltre a questo..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:401 #-#-# translate crowdin quest_isabelle_piano_score_interact_34bf8921:
 msgid "[_isabelle_s_blush_] It's my favorite ice tea. I hope you like it."
