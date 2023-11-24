@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-10 11:55\n"
+"PO-Revision-Date: 2023-11-24 10:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
@@ -112,7 +112,7 @@ msgstr "Visualizzazione"
 
 # game/1000_base_game/screens.rpy:735
 msgid "Window"
-msgstr ""
+msgstr "Finestra"
 
 # game/1000_base_game/screens.rpy:736
 msgid "Fullscreen"
