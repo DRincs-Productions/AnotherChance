@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:46\n"
+"PO-Revision-Date: 2023-11-24 09:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3 #-#-# translate crowdin mrsl_quest_HOT_start_9598f0ee:
 msgid "[mrsl] seems lost in thought. Her eyes wander slowly over the gym."
@@ -622,7 +622,7 @@ msgstr "[_mc_] No, penso che sia più intenso..."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:245 #-#-# translate crowdin mrsl_quest_lindsey_talk_ce2479ac:
 msgid "[_flora_s_worried_] Didn't [jo] use to do something like that?"
-msgstr ""
+msgstr "[_flora_s_worried_] Il sito [jo] non faceva qualcosa del genere?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:246 #-#-# translate crowdin mrsl_quest_lindsey_talk_3be8fb60:
 msgid "Now that [flora] mentions it, [jo] was into all sorts of training programs. Totally forgot about that."
@@ -1766,7 +1766,7 @@ msgstr "Questo è uno strano commerciale..."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:678 #-#-# translate crowdin home_bedroom_computer_interact_mrsl_HOT_watch_2a101392:
 msgid "But the first lesson is {i}always{/} free?"
-msgstr ""
+msgstr "Ma la prima lezione è {i}sempre{/} libera?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:679 #-#-# translate crowdin home_bedroom_computer_interact_mrsl_HOT_watch_c907a4bc:
 msgid "Hmm... maybe, maybe, maybe..."
