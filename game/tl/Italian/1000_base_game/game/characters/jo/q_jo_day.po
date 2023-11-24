@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:40\n"
+"PO-Revision-Date: 2023-11-24 09:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_day.rpy:3 #-#-# translate crowdin quest_jo_day_start_9e2bc76f:
 msgid "[_jo_s_displeased_cup_] Ugh... who uses bold text in a professional email? Who does she think she's talking to—"
@@ -420,7 +420,7 @@ msgstr "[_mc_] Immagino che tu abbia ragione..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:140 #-#-# translate crowdin quest_jo_day_flora_a0938ab3:
 msgid "[_flora_s_sarcastic_] You know I am. Always."
-msgstr ""
+msgstr "[_flora_s_sarcastic_] Sapete che lo sono. Sempre."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:141 #-#-# translate crowdin quest_jo_day_flora_037db49a:
 msgid "[_mc_] Except that one time when you said you could chug an entire glass of milk."
@@ -464,7 +464,7 @@ msgstr "[_mc_] Pregate per me..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:155 #-#-# translate crowdin quest_jo_day_flora_2f6c6fd5:
 msgid "[_mc_] Unless... you want to help me?"
-msgstr ""
+msgstr "[_mc_] A meno che... non voglia aiutarmi?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:158 #-#-# translate crowdin quest_jo_day_flora_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -986,7 +986,7 @@ msgstr "[_mc_] Non dovrebbe essere troppo difficile, se è comune come si dice."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:453 #-#-# translate crowdin quest_jo_day_nurse_7ece711b:
 msgid "[_nurse_s_annoyed_] Yes, I'll... I'll find a few bulbs for you..."
-msgstr ""
+msgstr "[_nurse_s_annoyed_] Sì, io... Troverò qualche lampadina per lei..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:454 #-#-# translate crowdin quest_jo_day_nurse_87e26eb2:
 msgid "[_mc_] Good girl."
@@ -1058,7 +1058,7 @@ msgstr "[_mc_] No, grazie. Questo è tutto per ora."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:488 #-#-# translate crowdin quest_jo_day_nurse_harvest_9ea772ec:
 msgid "[_nurse_s_thinking_] Did [maxine] give you anything for me?"
-msgstr ""
+msgstr "[_nurse_s_thinking_] [maxine] ti ha dato qualcosa per me?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:489 #-#-# translate crowdin quest_jo_day_nurse_harvest_3331ddd5:
 msgid "[_mc_] Uh... no, I don't think so..."
