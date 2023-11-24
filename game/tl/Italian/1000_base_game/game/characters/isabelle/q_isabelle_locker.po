@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:26\n"
+"PO-Revision-Date: 2023-11-24 09:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:8 #-#-# translate crowdin quest_isabelle_locker_start_95c7633a:
 msgid "[_mc_] Are you okay?"
@@ -302,7 +302,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:108 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_6de1e072:
 msgid "[_mc_] Can't [flora] do it?"
-msgstr ""
+msgstr "[_mc_] Non può farlo [flora]?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:110 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_4a321e3d:
 msgid "[_jo_s_eyeroll_] I asked you, [mc]..."
@@ -366,7 +366,7 @@ msgstr "[_mrsl_s_thinking_] Locker mancante?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:134 #-#-# translate crowdin quest_isabelle_locker_interrogate_mrsl_0ed2e7b2:
 msgid "[_mc_] Yeah, someone stole [isabelle]'s entire locker."
-msgstr ""
+msgstr "[_mc_] Sì, qualcuno ha rubato l'intero armadietto di [isabelle]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:135 #-#-# translate crowdin quest_isabelle_locker_interrogate_mrsl_0c6e953c:
 msgid "[_mc_] I take it you didn't know?"
@@ -3226,7 +3226,7 @@ msgstr "?mc.intellect>=6@[mc.intellect]/6<unk> {image=stats int}<unk> \"Potrei a
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:104
 msgid "\"Can't [flora] do it?\""
-msgstr ""
+msgstr "\"Non può farlo [flora]?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:104
 msgid "\"Sure thing, [jo]! I'll take care of it.\""
