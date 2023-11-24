@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:42\n"
+"PO-Revision-Date: 2023-11-24 10:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:5 #-#-# translate crowdin quest_lindsey_wrong_start_c5a1334f:
 msgid "[_lindsey_s_concerned_] ..."
@@ -2610,7 +2610,7 @@ msgstr "[_mc_] Forse questa non è l'età oscura."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:1046 #-#-# translate crowdin quest_lindsey_wrong_lindseyclothes_716c360f:
 msgid "[_lindsey_s_smile_] You know what? I can't be angry with you after you helped me."
-msgstr ""
+msgstr "[_lindsey_s_smile_] Sai una cosa? Non posso essere arrabbiato con te dopo che mi hai aiutato."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:1047 #-#-# translate crowdin quest_lindsey_wrong_lindseyclothes_49cbf6d5:
 msgid "[_mc_] Twice."
