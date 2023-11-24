@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:26\n"
+"PO-Revision-Date: 2023-11-24 09:10\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:13 #-#-# translate crowdin quest_flora_squid_start_3779c151:
 msgid "[_mc_] Hey, [flora]? Have you seen my electric toothbrush?"
@@ -218,7 +218,7 @@ msgstr "[_mc_] Voglio dire... tecnicamente, non {i}me...{/}"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:80 #-#-# translate crowdin quest_flora_squid_jealous_2271d9f4:
 msgid "[_flora_] You know what, I don't want to know."
-msgstr ""
+msgstr "[_flora_] Sai cosa, non voglio saperlo."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:81 #-#-# translate crowdin quest_flora_squid_jealous_91745ca5:
 msgid "[_flora_] Leave me alone!"
@@ -3054,7 +3054,7 @@ msgstr "[_flora_s_worried_] Sono serio, [mc]."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1443 #-#-# translate crowdin quest_flora_squid_shower_3ff8ac55:
 msgid "[_mc_] I know. We won't."
-msgstr ""
+msgstr "[_mc_] Lo so. Non lo faremo."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1444 #-#-# translate crowdin quest_flora_squid_shower_e4ed8ccc:
 msgid "[_flora_s_thinking_] I have to go..."
