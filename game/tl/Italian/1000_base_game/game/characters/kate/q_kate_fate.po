@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:41\n"
+"PO-Revision-Date: 2023-11-24 10:50\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/kate/q_kate_fate.rpy:17 #-#-# translate crowdin quest_kate_fate_start_ec93e813:
 msgid "[_kate_s_neutral_] Excuse me. What do you think you're doing?"
@@ -954,7 +954,7 @@ msgstr "[_stacy_] Non lo tocco!"
 
 # game/1000_base_game/game/characters/kate/q_kate_fate.rpy:510 #-#-# translate crowdin quest_kate_fate_socks_189e60a3:
 msgid "[_kate_s_cheerleader_feet_] You know what? He wouldn't dare to escape."
-msgstr ""
+msgstr "[_kate_s_cheerleader_feet_] Sapete cosa vi dico? Non oserebbe scappare."
 
 # game/1000_base_game/game/characters/kate/q_kate_fate.rpy:511 #-#-# translate crowdin quest_kate_fate_socks_e8b7b8ca:
 msgid "[_kate_s_cheerleader_feet_] I'm sure he'll stay just like this until we say otherwise."
@@ -1490,7 +1490,7 @@ msgstr "Perché sto ottenendo difficile da essere bossed intorno?"
 
 # game/1000_base_game/game/characters/kate/q_kate_fate.rpy:802 #-#-# translate crowdin quest_kate_fate_fight_surrender_77b2c03b:
 msgid "I can't let them see it. That would be {i}very{/} bad."
-msgstr ""
+msgstr "Non posso farglielo vedere. Sarebbe {i}molto{/} brutto."
 
 # game/1000_base_game/game/characters/kate/q_kate_fate.rpy:803 #-#-# translate crowdin quest_kate_fate_fight_surrender_ffbefe0d:
 msgid "[_mc_] Please... err..."
