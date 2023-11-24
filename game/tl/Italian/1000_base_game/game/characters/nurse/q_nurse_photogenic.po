@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:46\n"
+"PO-Revision-Date: 2023-11-24 09:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:10 #-#-# translate crowdin quest_nurse_photogenic_strawberry_juice_69d25e76:
 msgid "[_mc_] Ah, the lifeblood courses through my veins once more!"
@@ -772,7 +772,7 @@ msgstr "[_lindsey_] ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:341 #-#-# translate crowdin quest_nurse_photogenic_eavesdrop_ad6137bf:
 msgid "[_lindsey_] You know he could've gotten hurt, right?"
-msgstr ""
+msgstr "[_lindsey_] Sai che avrebbe potuto farsi male, vero?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:342 #-#-# translate crowdin quest_nurse_photogenic_eavesdrop_30354dd6:
 msgid "[_maxine_] A small sacrifice in the grand scheme of things."
@@ -866,7 +866,7 @@ msgstr "Ugh, comunque..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:368 #-#-# translate crowdin quest_nurse_photogenic_eavesdrop_a338e995:
 msgid "I need to get to the [nurse]... who knows what [maxine] poisoned me with?{space=-75}"
-msgstr ""
+msgstr "Devo andare su [nurse]... chissà con cosa mi ha avvelenato [maxine]?{space=-75}"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:373 #-#-# translate crowdin quest_nurse_photogenic_curtain_c53f0c87:
 msgid "[_nurse_] ...I can't."
@@ -1269,7 +1269,8 @@ msgstr "Probabilmente non è niente di serio"
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:70
 msgid "\"Sorry, [flora]... I'm grateful you\n"
 "were around.\""
-msgstr ""
+msgstr "\"Scusa, [flora]... Sono grato che voi\n"
+"foste nei paraggi.\""
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:70
 msgid "\"Noted. Next time, I'll just die on\n"
