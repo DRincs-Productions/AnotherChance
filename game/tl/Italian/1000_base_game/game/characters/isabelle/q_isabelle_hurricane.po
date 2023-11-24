@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:26\n"
+"PO-Revision-Date: 2023-11-24 09:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6 #-#-# translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
 msgid "[_mc_] Hey, how are you holding up?"
@@ -476,7 +476,7 @@ msgstr "[_maxine_s_sad_] ho detto troppo."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:180 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_7f26030a:
 msgid "[_mc_] Why are {i}you{/} snooping around in your office?"
-msgstr ""
+msgstr "[_mc_] Perché {i}tu{/} stai curiosando nel tuo ufficio?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:181 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_ce52c395:
 msgid "[_maxine_s_excited_] A fair question."
@@ -900,7 +900,7 @@ msgstr "[_mc_] Oh, quello era solo me che praticavo per una lettura di poesia."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:341 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_4524d9f7:
 msgid "[_kate_s_laughing_] Right, right. And I didn't make the [nurse] swallow eight dicks this morning."
-msgstr ""
+msgstr "[_kate_s_laughing_] Giusto, giusto. E non ho fatto ingoiare otto cazzi a [nurse] stamattina."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:342 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_361c94b5:
 msgid "[_mc_] Why wasn't I invited?"
@@ -2167,12 +2167,14 @@ msgstr "[_mc_] Posso almeno darti la testa\n"
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:882 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_79f5e345:
 msgid "[_maxine_] Are you trying\n"
 "to court me?"
-msgstr ""
+msgstr "[_maxine_] Stai cercando\n"
+"di farmi la corte?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:883 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_1ab22fcf:
 msgid "[_mc_] No! I'm just\n"
 "being friendly."
-msgstr ""
+msgstr "[_mc_] No! Sto solo\n"
+"facendo amicizia."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:884 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_e820de3d:
 msgid "[_maxine_] That's too bad."
@@ -2985,7 +2987,8 @@ msgstr "\"Quello è nessuno dei vostri affari.\""
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:93
 msgid "\"Why are {i}you{/} snooping around\n"
 "in your office?\""
-msgstr ""
+msgstr "\"Perché {i}tu{/} stai curiosando\n"
+"nel tuo ufficio?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:220
 msgid "\"What do you want?\""
