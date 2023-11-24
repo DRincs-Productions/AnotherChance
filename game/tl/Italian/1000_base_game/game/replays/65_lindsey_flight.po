@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 17:22\n"
+"PO-Revision-Date: 2023-11-24 10:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/65_lindsey_flight.rpy:6 #-#-# translate crowdin replay_lindsey_flight_7d6b1e76:
 msgid "Oh, wow. Half the school is still here."
@@ -103,7 +103,8 @@ msgstr "[_mc_] È troppo lungo..."
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:43 #-#-# translate crowdin replay_lindsey_flight_5974d439:
 msgid "[_jo_] I'll be there as\n"
 "fast as I can—"
-msgstr ""
+msgstr "[_jo_] Sarò lì come\n"
+"più velocemente che posso—"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:50 #-#-# translate crowdin replay_lindsey_flight_796b6b2e:
 msgid "Fuck it, I'm not waiting for [lindsey] to fall down!"
@@ -394,9 +395,10 @@ msgstr "...e lei cade."
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/replays/65_lindsey_flight.rpy:48
 msgid "\"Fuck it, I'm not waiting\n"
 "for [lindsey] to fall down!\""
-msgstr ""
+msgstr "\"Cazzatelo, non sto aspettando\n"
+"che [lindsey] cada!\""
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:48
 msgid "\"Oh, well. I've done what I could.\""
-msgstr ""
+msgstr "\"Oh, bene. Ho fatto quello che potevo.\""
 
