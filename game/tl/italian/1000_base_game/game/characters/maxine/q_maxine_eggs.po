@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:42\n"
+"PO-Revision-Date: 2023-11-24 10:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:2 #-#-# translate crowdin quest_maxine_eggs_start_7b81f9fd:
 msgid "[_maxine_] You have to schedule an appointment. I'm a very busy woman."
@@ -2206,7 +2206,7 @@ msgstr "[_maxine_s_skeptical_] Cosa ti fa pensare che sto considerando altri col
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:780 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_5767c4c1:
 msgid "[_mc_] You know what, forget it."
-msgstr ""
+msgstr "[_mc_] Sai cosa, lascia perdere."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:781 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_3c1a86e4:
 msgid "[_maxine_s_thinking_] Forgetting is never a good idea."

@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:41\n"
+"PO-Revision-Date: 2023-11-24 10:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:3 #-#-# translate crowdin kate_quest_search_for_nurse_start_54d5c121:
 msgid "[_kate_s_neutral_] Excuse you. Why are you standing so near me?"
@@ -634,7 +634,7 @@ msgstr "[_nurse_s_afraid_] W-cosa?"
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:254 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_b34f3718:
 msgid "[_kate_s_eyeroll_] You heard me loud and clear. Do it. Let's give [mc] a reward for helping out."
-msgstr ""
+msgstr "[_kate_s_eyeroll_] Mi avete sentito forte e chiaro. Fallo. Diamo a [mc] una ricompensa per averci aiutato."
 
 # game/1000_base_game/game/characters/kate/q_kate_search_for_nurse.rpy:255 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_bba40a01_1:
 msgid "[_nurse_s_sad_] ..."

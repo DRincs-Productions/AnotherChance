@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:41\n"
+"PO-Revision-Date: 2023-11-24 10:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:20 #-#-# translate crowdin quest_kate_wicked_start_ccd3f5c7:
 msgid "[_kate_s_confident_] I thought I heard someone being noisy over here."
@@ -206,7 +206,7 @@ msgstr "[_mc_] Sapete che i partiti sono contrari alle regole della scuola, gius
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:79 #-#-# translate crowdin quest_kate_wicked_start_b8ca1c38:
 msgid "[_kate_s_eyeroll_] That's why it's a {i}secret{/} party, dumbo."
-msgstr ""
+msgstr "[_kate_s_eyeroll_] Ecco perché è una festa {i}segreta{/}, idiota."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:82 #-#-# translate crowdin quest_kate_wicked_start_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -291,7 +291,8 @@ msgstr "[_kate_s_excited_] Buon ragazzo. Ora arriva."
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:121 #-#-# translate crowdin quest_kate_wicked_start_55ddd02e:
 msgid "As much as [kate] is a demanding bitch, it's always best to do\n"
 "what she says."
-msgstr ""
+msgstr "Per quanto [kate] sia una stronza esigente, è sempre meglio fare\n"
+"quello che dice."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:122 #-#-# translate crowdin quest_kate_wicked_start_902444c3:
 msgid "I just need to come up with a good excuse when I call [jo]..."
@@ -330,7 +331,8 @@ msgstr "[_jo_] Ciao, miele!"
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:146 #-#-# translate crowdin quest_kate_wicked_phone_call_eb0597ff:
 msgid "[_mc_] Hey, [jo]. Are you\n"
 "busy right now?"
-msgstr ""
+msgstr "[_mc_] Ehi, [jo]. Sei\n"
+"occupato in questo momento?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:147 #-#-# translate crowdin quest_kate_wicked_phone_call_d8fcbb4a:
 msgid "[_jo_] I'm always busy,\n"
@@ -467,7 +469,8 @@ msgstr "[_jo_s_laughing_] È fantastico, [mc]!"
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:209 #-#-# translate crowdin quest_kate_wicked_phone_call_9fc7f334:
 msgid "[_jo_s_excited_] [kate] is a great student and very popular. I think you could learn\n"
 "a lot from her."
-msgstr ""
+msgstr "[_jo_s_excited_] [kate] è un'ottima studentessa e molto popolare.\n"
+"Penso che si possa imparare molto da lei."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:210 #-#-# translate crowdin quest_kate_wicked_phone_call_5e44a000:
 msgid "[_mc_] Right..."
@@ -826,7 +829,8 @@ msgstr "Ma questo buono copre solo piccoli oggetti..."
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:346 #-#-# translate crowdin quest_kate_wicked_costume_shop_f002be86:
 msgid "Oh! They have the pig mask that [isabelle] asked for! Let's go\n"
 "with that!"
-msgstr ""
+msgstr "Oh! Hanno la maschera da maiale che [isabelle] ha richiesto! Andiamo su\n"
+"con quella!"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:348 #-#-# translate crowdin quest_kate_wicked_costume_shop_2e647d1c:
 msgid "Guess I'll just go with the pig mask. It's a classic."
@@ -1655,7 +1659,8 @@ msgstr "[_extend_]  [nointeract]"
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:743 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_9fb280c6:
 msgid "[_mc_] Enough! I'm not interested\n"
 "in fucking ASS, okay?"
-msgstr ""
+msgstr "[_mc_] Basta! Non sono interessato\n"
+"a scopare il culo, ok?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:744 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_9a9747f3:
 msgid "[_maxine_] Is there something\n"
@@ -1942,7 +1947,10 @@ msgid "[_maxine_] TITs has offices all over\n"
 "the globe. Small ones,\n"
 "big ones — we come in\n"
 "all sizes."
-msgstr ""
+msgstr "[_maxine_] TITs ha uffici in tutto\n"
+"il mondo. Piccoli,\n"
+"grandi: siamo disponibili in\n"
+"tutte le dimensioni."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:830 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_c45c232e:
 msgid "[_maxine_] As a member, you have to\n"
@@ -2240,7 +2248,7 @@ msgstr "[_nurse_s_concerned_] ..."
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:982 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_33a7e4ef:
 msgid "[_mc_] What are {i}you{/} doing here after dark?"
-msgstr ""
+msgstr "[_mc_] Cosa ci fate {i}voi{/} qui dopo il tramonto?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:983 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_c4638072:
 msgid "[_nurse_s_concerned_] Nothing, just... finishing up... some things..."
@@ -3334,7 +3342,7 @@ msgstr "[_mc_] Dove?"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1395 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_215098d3:
 msgid "[_nurse_s_afraid_] I'll unlock the door to my office!"
-msgstr ""
+msgstr "[_nurse_s_afraid_] Aprirò la porta del mio ufficio!"
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:1397 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_3bb59d86:
 msgid "[_nurse_s_afraid_] Go!"
@@ -4607,7 +4615,8 @@ msgstr "\"Hai detto che c'era qualcosa\n"
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:262
 msgid "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|\"Yes, but she said I couldn't\n"
 "give it away.\""
-msgstr ""
+msgstr "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|\"Sì, ma ha detto che non potevo \n"
+"darlo via.\""
 
 # game/1000_base_game/game/characters/kate/q_kate_wicked.rpy:374
 msgid "\"Yes, ma'am. I'll be there.\""

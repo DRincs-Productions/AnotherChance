@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-24 09:15\n"
+"PO-Revision-Date: 2023-11-24 10:52\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2 #-#-# translate crowdin quest_maya_witch_start_7c4911ec:
 msgid "Oh, man. There's [maya] again."
@@ -471,7 +471,8 @@ msgstr "L'arte dello spionaggio è una forma perduta. È tempo di riportarla."
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:205 #-#-# translate crowdin quest_maya_witch_english_class_62f6ea7e:
 msgid "Oh, silent canvases, what secrets do you keep? What truths do\n"
 "you know?"
-msgstr ""
+msgstr "Oh, tele silenziose, quali segreti custodite? Quali verità\n"
+"conoscete?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:207 #-#-# translate crowdin quest_maya_witch_english_class_4c88f288:
 msgid "[_jacklyn_s_smile_hands_down_] Hey, hey, [mc]! Is the bacon sizzling?"
@@ -817,7 +818,7 @@ msgstr "E questa è un'amicizia in via di sviluppo tra [maya] e [isabelle]?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:320 #-#-# translate crowdin quest_maya_witch_english_class_e9165328:
 msgid "[isabelle] sure knows how to pick the most difficult people... but if anyone could handle [maya]'s thorns, it's her."
-msgstr ""
+msgstr "[isabelle] sa sicuramente come scegliere le persone più difficili... ma se c'è qualcuno che può gestire le spine di [maya] è lei."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:321 #-#-# translate crowdin quest_maya_witch_english_class_e3267302:
 msgid "Still, nothing about that sounded too out of the ordinary. It's always a jungle in the virtual world."
@@ -1315,7 +1316,7 @@ msgstr "[_casey_s_neutral_s_flip_] ...aspetta, come va di nuovo?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:566 #-#-# translate crowdin quest_maya_witch_gym_class_5ca78a94:
 msgid "[maya] sure knows how to handle herself in tough situations."
-msgstr ""
+msgstr "[maya] sa sicuramente come comportarsi in situazioni difficili."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:567 #-#-# translate crowdin quest_maya_witch_gym_class_136e0486:
 msgid "They all look completely lost."
@@ -1915,7 +1916,9 @@ msgstr "[_mc_] Cosa? Ottenere\n"
 msgid "[_jo_] Well, I don't know what\n"
 "you kids get up to these\n"
 "days when you're bored."
-msgstr ""
+msgstr "[_jo_] Beh, non so cosa\n"
+"facciate voi ragazzi in questi giorni di\n"
+"quando vi annoiate."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:791 #-#-# translate crowdin quest_maya_witch_phone_call_73e145e0:
 msgid "[_mc_] I can promise you\n"

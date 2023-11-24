@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:42\n"
+"PO-Revision-Date: 2023-11-24 10:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4 #-#-# translate crowdin quest_lindsey_angel_start_9b346f38:
 msgid "[_guard_] Good morning, Newfall High. This is your administrator speaking."
@@ -440,7 +440,7 @@ msgstr "[_mc_] Riesci a immaginarlo? Che paura deve essere?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:163 #-#-# translate crowdin quest_lindsey_angel_nurse_4255db3b:
 msgid "[_mc_] Her life forever changed, but lucky to even be alive."
-msgstr ""
+msgstr "[_mc_] La sua vita è cambiata per sempre, ma è fortunata ad essere ancora viva."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:164 #-#-# translate crowdin quest_lindsey_angel_nurse_13d1dabf:
 msgid "[_mc_] I would think being isolated can't possibly help her recovery."
@@ -703,7 +703,7 @@ msgstr "Ok, proviamo di nuovo..."
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:337 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_e62647e6:
 msgid "Hmm... since he's so consumed by his phone, maybe I can just\n"
 "call it?"
-msgstr ""
+msgstr "Hmm... visto che è così preso dal suo telefono, forse posso chiamarlo su?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:338 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_af116ffa:
 msgid "And then make up some bullshit excuse to get him away from here."
@@ -1084,7 +1084,8 @@ msgstr "[_cyberia_] Intendi bene, come fa la maggior parte\n"
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:509 #-#-# translate crowdin quest_lindsey_angel_escape_84a36474:
 msgid "[_cyberia_] However, I caution\n"
 "you to proceed."
-msgstr ""
+msgstr "[_cyberia_] Tuttavia, vi invito\n"
+"a procedere."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:510 #-#-# translate crowdin quest_lindsey_angel_escape_5f5e3195:
 msgid "[_mc_] Proceed? What?"
@@ -1155,12 +1156,14 @@ msgstr "[_mc_] Quindi, chi è il sospetto?"
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:532 #-#-# translate crowdin quest_lindsey_angel_escape_c902b371:
 msgid "[_cyberia_] Do you know anyone\n"
 "fond of dolls? I do."
-msgstr ""
+msgstr "[_cyberia_] Conoscete qualcuno\n"
+"appassionato di bambole? Io sì."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:533 #-#-# translate crowdin quest_lindsey_angel_escape_ef3e55bd:
 msgid "[_mc_] What are you\n"
 "talking about?"
-msgstr ""
+msgstr "[_mc_] Di cosa \n"
+"state parlando?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:534 #-#-# translate crowdin quest_lindsey_angel_escape_d84cae07:
 msgid "[_cyberia_] She is a bit like a feline,\n"
@@ -1185,7 +1188,8 @@ msgstr "Cyberia sta implicando che [maya] in qualche modo ha piantato la bambola
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:542 #-#-# translate crowdin quest_lindsey_angel_escape_be8863a2:
 msgid "[_mc_] Why are you telling me\n"
 "this? What do you mean?"
-msgstr ""
+msgstr "[_mc_] Perché mi stai dicendo \n"
+"questo a? Che cosa vuoi dire?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:543 #-#-# translate crowdin quest_lindsey_angel_escape_a553c823:
 msgid "[_cyberia_] I'm afraid I cannot divulge\n"
@@ -1202,7 +1206,8 @@ msgstr "[_mc_] Perché l'inferno no?"
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:545 #-#-# translate crowdin quest_lindsey_angel_escape_41463995:
 msgid "[_cyberia_] I'm afraid I cannot\n"
 "answer that."
-msgstr ""
+msgstr "[_cyberia_] Temo di non poter \n"
+"rispondere a."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:546 #-#-# translate crowdin quest_lindsey_angel_escape_567ec938:
 msgid "[_cyberia_] But you released me from\n"
@@ -2240,7 +2245,7 @@ msgstr "Sta diventando in ritardo. Non vedo l'ora di tornare a casa."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1184 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3a2f23e0:
 msgid "Access denied?! How the hell did my [item.title_lower] not work?!"
-msgstr ""
+msgstr "Accesso negato?! Come diavolo ha fatto il mio [item.title_lower] a non funzionare?!"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:134
 msgid "?mc.owned_item(('damning_document','compromising_photo'))@|{image=items [blackmail]}|Blackmail her\n"

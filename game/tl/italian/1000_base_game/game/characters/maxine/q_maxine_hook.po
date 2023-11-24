@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:43\n"
+"PO-Revision-Date: 2023-11-24 10:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:3 #-#-# translate crowdin quest_maxine_hook_start_8a0e7ef1:
 msgid "[_mc_] Hey, [maxine]! What are you doing?"
@@ -1014,7 +1014,7 @@ msgstr "[_isabelle_s_excited_] Oh, è come una vecchia mappa del tesoro?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:370 #-#-# translate crowdin quest_maxine_hook_glade_130bd6b7:
 msgid "[_maxine_s_concerned_] No, it's not {i}like{/} an old treasure map. It {i}is{/} one."
-msgstr ""
+msgstr "[_maxine_s_concerned_] No, non è {i}come{/} una vecchia mappa del tesoro. {i}è{/} una."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:372 #-#-# translate crowdin quest_maxine_hook_glade_50b313e5:
 msgid "[_isabelle_s_skeptical_] Right, because you correcting me in a really bitchy manner is going to turn out well."
@@ -1054,7 +1054,7 @@ msgstr "[_maxine_s_excited_] Ahoy, matey! Vela liscia per yer!"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:384 #-#-# translate crowdin quest_maxine_hook_glade_ba9f19f6:
 msgid "I'm not sure what I just witnessed, but I guess that was [maxine] wrecking [isabelle] in an argument..."
-msgstr ""
+msgstr "Non so a cosa ho appena assistito, ma credo che [maxine] abbia distrutto [isabelle] durante una discussione..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:386 #-#-# translate crowdin quest_maxine_hook_glade_45942d6c:
 msgid "[_isabelle_s_neutral_] Sorry, that's what I meant."
