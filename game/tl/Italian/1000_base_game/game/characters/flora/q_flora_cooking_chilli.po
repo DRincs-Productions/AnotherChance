@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:25\n"
+"PO-Revision-Date: 2023-11-24 09:10\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
 msgid "You picked up a cooking item. Is it the right one? No one knows."
@@ -1070,7 +1070,7 @@ msgstr "Lei è in troppa sofferenza per pensare dritto."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:576 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_608cc3d9:
 msgid "[flora] being naked is nothing new to me, but this feels wrong and inappropriate. But she is suffering..."
-msgstr ""
+msgstr "[flora] Essere nuda non è una novità per me, ma questo mi sembra sbagliato e inappropriato. Ma lei sta soffrendo..."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:579 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1214,7 +1214,7 @@ msgstr "[_flora_s_embarrassed_] Questo... davvero... gentile..."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:627 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_77919a16:
 msgid "[_flora_s_embarrassed_] Aaah! Please don't tell [jo] about this!"
-msgstr ""
+msgstr "[_flora_s_embarrassed_] Aaah! Per favore, non dirlo a [jo]!"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:628 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_94d64b74:
 msgid "[_mc_] Don't worry."
