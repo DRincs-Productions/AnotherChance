@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:42\n"
+"PO-Revision-Date: 2023-11-24 10:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:9 #-#-# translate crowdin quest_lindsey_motive_start_10b530a7:
 msgid "There's something about [lindsey]..."
@@ -1256,7 +1256,7 @@ msgstr "[_mc_] Mi dispiace, questo è proprio come guardo."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:431 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_852bfc11:
 msgid "[_lindsey_s_painting_date_laughing_] You know what you did."
-msgstr ""
+msgstr "[_lindsey_s_painting_date_laughing_] Sai cosa hai fatto."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:432 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_4beaa21f:
 msgid "[_mc_] Nothing wrong with liking swords."
@@ -4010,7 +4010,7 @@ msgstr "Sembra che se ne siano andati..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1769 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_2913e202:
 msgid "What the hell is going on? Did this person really make [lindsey] steal [isabelle]'s chocolate hearts, knowing that I'd help her?"
-msgstr ""
+msgstr "Che diavolo sta succedendo? Questa persona ha davvero fatto in modo che [lindsey] rubasse i cuori di cioccolato di [isabelle], sapendo che l'avrei aiutata?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1770 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_110fec0f:
 msgid "That is so messed up."
@@ -4201,7 +4201,8 @@ msgstr "\"I tuoi beni sono preziosi...\""
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:832
 msgid "?mc.lust>=8@[mc.lust]/8|{image=stats lust}|\"I think it's time for you\n"
 "to undress, [mrsl].\""
-msgstr ""
+msgstr "?mc.lust>=8@[mc.lust]/8|{image=stats lust}|\"Penso che sia giunto il momento per te\n"
+"spogliarsi, [mrsl].\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:877
 msgid "\"Are you okay, [lindsey]?\""
