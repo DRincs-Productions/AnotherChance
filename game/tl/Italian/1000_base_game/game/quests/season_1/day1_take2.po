@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 17:16\n"
+"PO-Revision-Date: 2023-11-24 10:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_1/day1_take2.rpy:46 #-#-# translate crowdin quest_day1_take2_arrived_914a9ae0:
 msgid "Newfall High — the perfect place to have your confidence shattered and your hopes turned to dust, while on a semi-strict diet of eggos and strawberry juice."
@@ -390,7 +390,7 @@ msgstr "[_mrsl_s_excited_] Ma abbiamo un nuovo studente. Ha trasferito tutta la 
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:207 #-#-# translate crowdin quest_day1_take2_homeroom_d28f9e2a:
 msgid "[_mrsl_s_excited_] Everyone, please say hi to [isabelle]!"
-msgstr ""
+msgstr "[_mrsl_s_excited_] Salutate tutti [isabelle]!"
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:210 #-#-# translate crowdin quest_day1_take2_homeroom_c83ffe4b:
 msgid "[_isabelle_] Hello."
