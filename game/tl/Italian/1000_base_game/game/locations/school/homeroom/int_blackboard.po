@@ -10,81 +10,81 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 19:38\n"
+"PO-Revision-Date: 2023-11-24 09:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:37 #-#-# translate crowdin school_homeroom_blackboard_interact_3970b336:
 msgid "{i}\"Seniors, sign up for your focus classes. Three in total. Sign-up lists available in each classroom.\"{/}"
-msgstr ""
+msgstr "{i}\"Seniors, sign up for your focus classes. Three in total. Sign-up list available in each classroom.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:38 #-#-# translate crowdin school_homeroom_blackboard_interact_bbc32583:
 msgid "{i}\"Focus classes require 100 points to pass. Regular classes require 20 points to pass.\"{/}"
-msgstr ""
+msgstr "{i}\"Le classi Focus richiedono 100 punti da passare. Le classi regolari richiedono 20 punti da passare.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:46 #-#-# translate crowdin school_homeroom_blackboard_interact_write_3cbe2472:
 msgid "{i}\"Buried or planted? It's always a matter of perspective.\"{/}"
-msgstr ""
+msgstr "{i}\"Sepolto o piantato? È sempre una questione di prospettiva.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:51 #-#-# translate crowdin school_homeroom_blackboard_interact_write_64f204de:
 msgid "{i}\"There's a reason 'bitch' rhymes with 'sandwich.' Get me one.\"{/}"
-msgstr ""
+msgstr "{i}\"C'è un motivo 'cagna' rime con 'sandwich.' Scaricami uno.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:56 #-#-# translate crowdin school_homeroom_blackboard_interact_write_8188af96:
 msgid "{i}\"Roses are red. Violets are blue. [mrsl], you're a 10, and I'm thinking of you.\"{/}"
-msgstr ""
+msgstr "{i}\"Le rose sono rosse. Le viole sono blu. [mrsl], sei un 10, e penso a te.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:62 #-#-# translate crowdin school_homeroom_blackboard_interact_isabelle_haggis_8a05ba22:
 msgid "{i}\"Cooperation & Teamwork 101\"{/}"
-msgstr ""
+msgstr "{i}\"Cooperazione E Lavoro Di Gruppo 101\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:63 #-#-# translate crowdin school_homeroom_blackboard_interact_isabelle_haggis_f5ea3597:
 msgid "{i}\"One of you will be rewarded today. The reward is a secret, but it is something that will mark you as a problem solver.\"{/}"
-msgstr ""
+msgstr "{i}\"Uno di voi sarà ricompensato oggi. La ricompensa è un segreto, ma è qualcosa che ti segnerà come un risolutore di problemi.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:64 #-#-# translate crowdin school_homeroom_blackboard_interact_isabelle_haggis_e511381a:
 msgid "{i}\"Your task as a group is to decide who gets the reward.\"{/}"
-msgstr ""
+msgstr "{i}\"Il tuo compito come gruppo è decidere chi riceve la ricompensa.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:65 #-#-# translate crowdin school_homeroom_blackboard_interact_isabelle_haggis_8736ea7e:
 msgid "{i}\"The door will remain locked until you've found a solution.\"{/}"
-msgstr ""
+msgstr "{i}\"La porta rimarrà bloccata fino a quando non avrai trovato una soluzione.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:66 #-#-# translate crowdin school_homeroom_blackboard_interact_isabelle_haggis_06938d8e:
 msgid "{i}\"Good luck!\"{/}"
-msgstr ""
+msgstr "{i}\"Buona fortuna!\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:75 #-#-# translate crowdin school_homeroom_blackboard_interact_write_isabelle_haggis_ac4e3412:
 msgid "{i}\"[isabelle], if I lost my homework on the way to school, your homework is the first I'd try to steal.\"{/}"
-msgstr ""
+msgstr "{i}\"[isabelle], se ho perso i miei compiti sulla strada per la scuola, il tuo compito è il primo cercherò.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:79 #-#-# translate crowdin school_homeroom_blackboard_interact_write_isabelle_haggis_4efebf57:
 msgid "{i}\"[flora], you're the flickering fluorescent light in the basement of my life.\"{/}"
-msgstr ""
+msgstr "{i}\"[flora], sei la luce fluorescente tremolante nel seminterrato della mia vita.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:83 #-#-# translate crowdin school_homeroom_blackboard_interact_write_isabelle_haggis_b280cdf3:
 msgid "{i}\"[mrsl], I'll commit every sin cos of your curves.\"{/}"
-msgstr ""
+msgstr "{i}\"[mrsl], Mi impegnerò ogni sin cos delle tue curve.\"{/}"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write something nice"
-msgstr ""
+msgstr "Scrivi qualcosa di bello"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write something vulgar"
-msgstr ""
+msgstr "Scrivi qualcosa di volgare"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write something for [mrsl]"
-msgstr ""
+msgstr "Scrivi qualcosa per [mrsl]"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write nothing"
-msgstr ""
+msgstr "Non scrivere nulla"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:71
 msgid "Write something for [isabelle]"
-msgstr ""
+msgstr "Scrivi qualcosa per [isabelle]"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:71
 msgid "Write something for [flora]"
-msgstr ""
+msgstr "Scrivi qualcosa per [flora]"
 
