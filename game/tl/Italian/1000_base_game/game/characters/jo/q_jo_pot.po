@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:40\n"
+"PO-Revision-Date: 2023-11-24 09:13\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:3 #-#-# translate crowdin quest_jo_pot_start_a253a57b:
 msgid "[_jo_] How's it going, honey?"
@@ -66,7 +66,7 @@ msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:19 #-#-# translate crowdin quest_jo_pot_start_e91bd97f:
 msgid "[_flora_s_neutral_s_flip_] So, who is [jo] talking to?"
-msgstr ""
+msgstr "[_flora_s_neutral_s_flip_] Allora, con chi sta parlando [jo]?"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:22 #-#-# translate crowdin quest_jo_pot_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -210,7 +210,7 @@ msgstr "[_flora_s_sad_] Sta bene?"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:68 #-#-# translate crowdin quest_jo_pot_start_1a90428f:
 msgid "[_mc_] I don't know. She doesn't tell me these things."
-msgstr ""
+msgstr "[_mc_] Non lo so. Lei non mi dice queste cose."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:69 #-#-# translate crowdin quest_jo_pot_start_2f219786:
 msgid "[_flora_s_sad_] Maybe it's her throat again?"
