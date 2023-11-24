@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:46\n"
+"PO-Revision-Date: 2023-11-24 09:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
 msgid "[_mc_] I don't believe what I'm seeing."
@@ -534,7 +534,7 @@ msgstr "[_nurse_s_sad_] Strisciare in uno sfiato sembra pericoloso. Non so se po
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:257 #-#-# translate crowdin quest_nurse_venting_help_3d63591e:
 msgid "[_mc_] You know what? You're right. I'll go in myself."
-msgstr ""
+msgstr "[_mc_] Sapete una cosa? Hai ragione. Ci andrò da solo."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:258 #-#-# translate crowdin quest_nurse_venting_help_b91cb064:
 msgid "[_mc_] Just me and my poor asthmatic lungs crawling around in the dark... All that dry air... No big deal...."
@@ -1052,7 +1052,9 @@ msgstr "L' [nurse] ha finalmente fatto l'ufficio di [maxine]! Ora ho solo bisogn
 msgid "[_nurse_] I forgot which way I was\n"
 "going... I might be a bit\n"
 "disoriented..."
-msgstr ""
+msgstr "[_nurse_] Ho dimenticato da che parte stavo\n"
+"andando... Forse sono un po'\n"
+"disorientato..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:483 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_51d817de:
 msgid "[_nurse_] I'm so dehydrated...\n"
@@ -1137,7 +1139,8 @@ msgstr "[_mc_] Esattamente."
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:504 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_5bf3f9f9:
 msgid "[_nurse_] Haha! I think I heard a\n"
 "vending machine puke!"
-msgstr ""
+msgstr "[_nurse_] Haha! Credo di aver sentito un distributore automatico di\n"
+"vomitare!"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:507 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_540674d8:
 msgid "[_nurse_] I could drink a whole vending\n"
@@ -1338,7 +1341,8 @@ msgstr "[_nurse_] C'è un tocco {i}tap tap tap,\n"
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:564 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_9304e36f:
 msgid "[_nurse_] Sounds like an\n"
 "old typewriter!"
-msgstr ""
+msgstr "[_nurse_] Sembra una vecchia \n"
+"macchina da scrivere!"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:567 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_716019b8_2:
 msgid "[_mc_] Right."
@@ -1669,7 +1673,8 @@ msgstr "[_mc_] Sei stato lì per\n"
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:680 #-#-# translate crowdin quest_nurse_venting_lost_40ffec0d:
 msgid "[_nurse_] I believe it's been a\n"
 "bit longer than that..."
-msgstr ""
+msgstr "[_nurse_] Credo che sia passato \n"
+"un po' più tempo di così..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:681 #-#-# translate crowdin quest_nurse_venting_lost_51f17182:
 msgid "[_mc_] Well, either way. You're\n"
@@ -1690,7 +1695,8 @@ msgstr "[_nurse_] Okay..."
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:685 #-#-# translate crowdin quest_nurse_venting_lost_f0ac5754:
 msgid "[_mc_] Just try to relax. I'm\n"
 "sorry it's taking so long."
-msgstr ""
+msgstr "[_mc_] Cerca solo di rilassarti. \n"
+"Mi dispiace che ci sia voluto così tanto tempo."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:686 #-#-# translate crowdin quest_nurse_venting_lost_8dda4848:
 msgid "[_mc_] Try to breathe slower and\n"
@@ -1713,7 +1719,8 @@ msgstr "[_mc_] Ti piace cosa?"
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:690 #-#-# translate crowdin quest_nurse_venting_lost_de0e6e2a:
 msgid "[_nurse_] That you're taking care\n"
 "of me. It's nice..."
-msgstr ""
+msgstr "[_nurse_] Che ti prendi cura \n"
+"di me. È carino..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:691 #-#-# translate crowdin quest_nurse_venting_lost_a592fd66:
 msgid "[_nurse_] Do you want to know why I\n"
