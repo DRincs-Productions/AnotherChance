@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:26\n"
+"PO-Revision-Date: 2023-11-24 10:49\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:3 #-#-# translate crowdin isabelle_quest_stolen_start_d518eb58:
 msgid "[_isabelle_s_angry_] Can you bloody believe it?!"
@@ -1518,7 +1518,7 @@ msgstr "[_mc_] non sapevo che aveste una sorella."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:578 #-#-# translate crowdin isabelle_quest_stolen_dilemma_3e564f87:
 msgid "[_isabelle_s_sad_] It's... {i}had{/}."
-msgstr ""
+msgstr "[_isabelle_s_sad_] È... {i}aveva{/}."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:579 #-#-# translate crowdin isabelle_quest_stolen_dilemma_11455b53:
 msgid "[_mc_] What?"
@@ -2114,7 +2114,7 @@ msgstr "[_mc_] non sapevo che aveste una sorella."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:791 #-#-# translate crowdin isabelle_quest_stolen_slap_3e564f87:
 msgid "[_isabelle_s_sad_] It's... {i}had{/}."
-msgstr ""
+msgstr "[_isabelle_s_sad_] È... {i}aveva{/}."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:792 #-#-# translate crowdin isabelle_quest_stolen_slap_11455b53:
 msgid "[_mc_] What?"
@@ -2830,7 +2830,7 @@ msgstr "[_jo_s_worried_] Mi dispiace, [isabelle], ma le regole sono regole... se
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1120 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_90820a1c:
 msgid "[_jo_s_worried_] Behavior like this won't be tolerated here. Please, report to [mrsl] for detention."
-msgstr ""
+msgstr "[_jo_s_worried_] Comportamenti del genere non saranno tollerati qui. Per favore, presentatevi all'indirizzo [mrsl] per la punizione."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1125 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_d7b2674b:
 msgid "[_isabelle_s_cringe_] I can't believe you just did that, [mc]! What a truly disgusting thing to do..."
