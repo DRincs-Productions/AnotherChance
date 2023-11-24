@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 17:22\n"
+"PO-Revision-Date: 2023-11-24 10:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/61_isabelle_exception.rpy:6 #-#-# translate crowdin replay_isabelle_exception_e97090bf:
 msgid "[_mc_] I do like exceptions."
@@ -760,7 +760,7 @@ msgstr "...è così incredibilmente caldo."
 
 # game/1000_base_game/game/replays/61_isabelle_exception.rpy:1095 #-#-# translate crowdin replay_isabelle_exception_46b70605:
 msgid "[_mc_] Are {i}you{/} okay, though?"
-msgstr ""
+msgstr "[_mc_] {i}Tu{/} stai bene, comunque?"
 
 # game/1000_base_game/game/replays/61_isabelle_exception.rpy:1096 #-#-# translate crowdin replay_isabelle_exception_f3b9ca52:
 msgid "[_isabelle_] I... think so."
@@ -848,5 +848,5 @@ msgstr "[_mc_] Dio, sei perfetto."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/replays/61_isabelle_exception.rpy:311
 msgid "\"...I'm fucking your ass today.\""
-msgstr ""
+msgstr "\"...Sto scopando il culo oggi.\""
 
