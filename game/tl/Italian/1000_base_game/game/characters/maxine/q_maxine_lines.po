@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:43\n"
+"PO-Revision-Date: 2023-11-24 09:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:3 #-#-# translate crowdin quest_maxine_lines_start_81141839:
 msgid "[maxine] always seems to be investigating something, and it's usually best not to ask any questions..."
@@ -618,7 +618,7 @@ msgstr "[_mc_] Qualcosa-qualcosa che le ombre indicano che dovrebbe esserci una 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:199 #-#-# translate crowdin maxine_lines_locator_06e1c095:
 msgid "[_maxine_s_eyeroll_] Don't be ridiculous."
-msgstr ""
+msgstr "[_maxine_s_eyeroll_] Non essere ridicolo."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:200 #-#-# translate crowdin maxine_lines_locator_3d6fa261:
 msgid "[_maxine_s_annoyed_] There's no lamp here... it gets very dark when the sun goes down. That's the problem."
