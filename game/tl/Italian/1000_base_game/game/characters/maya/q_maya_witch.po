@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-22 07:43\n"
+"PO-Revision-Date: 2023-11-24 09:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2 #-#-# translate crowdin quest_maya_witch_start_7c4911ec:
 msgid "Oh, man. There's [maya] again."
@@ -2080,13 +2080,16 @@ msgstr "[_mc_] Mi piace, ricordando di\n"
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:831 #-#-# translate crowdin quest_maya_witch_phone_call_4c62e1dc:
 msgid "[_jo_] I'm serious! I know how you\n"
 "hormonal teenagers can be."
-msgstr ""
+msgstr "[_jo_] Sono seria! So come potete essere voi\n"
+"adolescenti ormonali."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:832 #-#-# translate crowdin quest_maya_witch_phone_call_5b73e96a:
 msgid "[_mc_] Fine, fine! It's nothing like\n"
 "that, okay? Just... thank\n"
 "you for helping."
-msgstr ""
+msgstr "[_mc_] Bene, bene! Non è come\n"
+"quello, ok? Solo... grazie\n"
+"per l'aiuto."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:833 #-#-# translate crowdin quest_maya_witch_phone_call_7b97bf4e:
 msgid "[_jo_] You're very welcome."
@@ -2888,7 +2891,7 @@ msgstr "[_mc_] Beh, ecco perché sto chiedendo il tuo aiuto."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1304 #-#-# translate crowdin quest_maya_witch_help_5e1a7355:
 msgid "[_maxine_s_confident_] I see. You were wise to seek my council."
-msgstr ""
+msgstr "[_maxine_s_confident_] Capisco. Hai fatto bene a chiedere il mio consiglio."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1305 #-#-# translate crowdin quest_maya_witch_help_a7ee599a:
 msgid "[_maxine_s_confident_] I'll gather them together and—"
@@ -3721,7 +3724,8 @@ msgstr "Nascondi nell'aula d'arte"
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:200
 msgid "?quest.isabelle_dethroning.finished@|{image=isabelle contact_icon}|{image=stats love}|Hide in the\n"
 "music classroom"
-msgstr ""
+msgstr "?quest.isabelle_dethroning.finished@|{image=isabelle contact_icon}|{image=stats love}|Nasconditi nel\n"
+"aula di musica"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:200
 msgid "Hide behind the piano"
