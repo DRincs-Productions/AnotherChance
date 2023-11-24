@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-09 19:21\n"
+"PO-Revision-Date: 2023-11-24 09:44\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/english_class/int_blackboard.rpy:29 #-#-# translate crowdin school_english_class_blackboard_interact_8cdbaaee:
 msgid "{i}\"Welcome!\"{/}"
-msgstr ""
+msgstr "{i}\"Benvenuto!\"{/}"
 
 # game/1000_base_game/game/locations/school/english_class/int_blackboard.rpy:30 #-#-# translate crowdin school_english_class_blackboard_interact_65d700b0:
 msgid "{i}\"The list for English Focus sign-ups is on my desk. Please, register your name there.\"{/}"
-msgstr ""
+msgstr "{i}\"La lista degli iscritti al Focus inglese è sulla mia scrivania. Per favore, registra il tuo nome.\"{/}"
 
 # game/1000_base_game/game/locations/school/english_class/int_blackboard.rpy:31 #-#-# translate crowdin school_english_class_blackboard_interact_e1fc4e11:
 msgid "{i}\"I'm away on a teachers' conference this week, but will be back by Monday.\"{/}"
-msgstr ""
+msgstr "{i}\"Sono assente in una conferenza degli insegnanti questa settimana, ma sarà di nuovo entro lunedì.\"{/}"
 
 # game/1000_base_game/game/locations/school/english_class/int_blackboard.rpy:32 #-#-# translate crowdin school_english_class_blackboard_interact_4935cfdc:
 msgid "{i}\"Sincerely, Mr. Brown.\"{/}"
-msgstr ""
+msgstr "{i}\"Cordialmente, Mr. Brown.\"{/}"
 
 # game/1000_base_game/game/locations/school/english_class/int_blackboard.rpy:36 #-#-# translate crowdin school_english_class_blackboard_interact_write_8dd23079:
 msgid "There's no chalk. The music students must've stolen it again. Stupid chalk-munchers."
-msgstr ""
+msgstr "Non ci sono gessi. Gli studenti di musica devono averlo rubato di nuovo."
 
