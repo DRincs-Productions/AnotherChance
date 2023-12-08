@@ -777,13 +777,13 @@ translate spanish strings:
     old "The updates were cancelled."
     new "La actualización ha sido cancelada."
 
-    # renpy/common/00updater.rpy:1666
-    old "Proceed"
-    new "Continuar"
+    # # renpy/common/00updater.rpy:1666
+    # old "Proceed"
+    # new "Continuar"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Pantalla completa"
+    # # renpy/common/00compat.rpy:371
+    # old "Fullscreen"
+    # new "Pantalla completa"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
@@ -837,9 +837,9 @@ translate spanish strings:
     old "Force GLES2 Renderer"
     new "Forzar renderizador GLES2"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Mando"
+    # # renpy/common/(.*)
+    # old "Gamepad"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
