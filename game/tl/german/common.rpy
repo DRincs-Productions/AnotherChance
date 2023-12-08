@@ -777,13 +777,13 @@ translate german strings:
     old "The updates were cancelled."
     new "Die Updates wurden abgebrochen."
 
-    # renpy/common/00updater.rpy:1666
-    old "Proceed"
-    new "Fortsetzen"
+    # # renpy/common/00updater.rpy:1666
+    # old "Proceed"
+    # new "Fortsetzen"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Vollbild"
+    # # renpy/common/00compat.rpy:371
+    # old "Fullscreen"
+    # new "Vollbild"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
@@ -837,17 +837,17 @@ translate german strings:
     old "Force GLES2 Renderer"
     new "Force GLES2 Renderer"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Gamepad"
+    # # renpy/common/(.*)
+    # old "Gamepad"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Enable (No Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrate"
+    # # renpy/common/(.*)
+    # old "Calibrate"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -877,9 +877,9 @@ translate german strings:
     old "Changes will take effect the next time this program is run."
     new "Die Änderungen werden beim nächsten Neustart des Programms übernommen."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Beenden"
+    # # renpy/common/(.*)
+    # old "Quit"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
