@@ -845,9 +845,9 @@ translate french strings:
     old "Enable (No Blocklist)"
     new "Activer (Sans Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrage"
+    # # renpy/common/(.*)
+    # old "Calibrate"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -877,9 +877,9 @@ translate french strings:
     old "Changes will take effect the next time this program is run."
     new "Les changements prendront effet au prochain démarrage du programme."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Quitter"
+    # # renpy/common/(.*)
+    # old "Quit"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
