@@ -10,104 +10,105 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2023-12-25 10:17\n"
+"PO-Revision-Date: 2023-12-25 13:08\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 # game/1000_base_game/screens.rpy:257
 msgid "History"
-msgstr ""
+msgstr "Історія"
 
 # game/1000_base_game/screens.rpy:258
 msgid "Skip"
-msgstr ""
+msgstr "Пропустити"
 
 # game/1000_base_game/screens.rpy:259
 msgid "Auto"
-msgstr ""
+msgstr "Авто."
 
 # game/1000_base_game/screens.rpy:260
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 # game/1000_base_game/screens.rpy:261
 msgid "Q.Save"
-msgstr ""
+msgstr "Ш. зберегти"
 
 # game/1000_base_game/screens.rpy:262
 msgid "Q.Load"
-msgstr ""
+msgstr "Ш. завантажити"
 
 # game/1000_base_game/screens.rpy:263
 msgid "Prefs"
-msgstr ""
+msgstr "Налаштування"
 
 # game/1000_base_game/screens.rpy:304
 msgid "Start"
-msgstr ""
+msgstr "Почати"
 
 # game/1000_base_game/screens.rpy:312
 msgid "Load"
-msgstr ""
+msgstr "Завантажити"
 
 # game/1000_base_game/screens.rpy:314
 msgid "Preferences"
-msgstr ""
+msgstr "Налаштування"
 
 # game/1000_base_game/screens.rpy:318
 msgid "End Replay"
-msgstr ""
+msgstr "Закінчити повтор"
 
 # game/1000_base_game/screens.rpy:322
 msgid "Main Menu"
-msgstr ""
+msgstr "Головне меню"
 
 # game/1000_base_game/screens.rpy:324
 msgid "About"
-msgstr ""
+msgstr "Про гру"
 
 # game/1000_base_game/screens.rpy:335
 msgid "Quit"
-msgstr ""
+msgstr "Вийти"
 
 # game/1000_base_game/screens.rpy:560
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Версія [config.version!t]\n"
 
 # game/1000_base_game/screens.rpy:566
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "Зроблено з {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
 
 # game/1000_base_game/screens.rpy:648
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/1000_base_game/screens.rpy:648
 msgid "empty slot"
-msgstr ""
+msgstr "порожня комірка"
 
 # game/1000_base_game/screens.rpy:665
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/1000_base_game/screens.rpy:668
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}А"
 
 # game/1000_base_game/screens.rpy:671
 msgid "{#quick_page}Q"
-msgstr ""
+msgstr "{#quick_page}Ш"
 
 # game/1000_base_game/screens.rpy:677
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/1000_base_game/screens.rpy:734
 msgid "Display"
-msgstr ""
+msgstr "Екран показу"
 
 # game/1000_base_game/screens.rpy:735
 msgid "Window"
@@ -115,196 +116,199 @@ msgstr ""
 
 # game/1000_base_game/screens.rpy:736
 msgid "Fullscreen"
-msgstr ""
+msgstr "На весь екран"
 
 # game/1000_base_game/screens.rpy:740
 msgid "Rollback Side"
-msgstr ""
+msgstr "Сторона відкоту"
 
 # game/1000_base_game/screens.rpy:748
 msgid "Unseen Text"
-msgstr ""
+msgstr "Непрочитаний текст"
 
 # game/1000_base_game/screens.rpy:749
 msgid "After Choices"
-msgstr ""
+msgstr "Після вибору"
 
 # game/1000_base_game/screens.rpy:750
 msgid "Transitions"
-msgstr ""
+msgstr "Переходи"
 
 # game/1000_base_game/screens.rpy:763
 msgid "Text Speed"
-msgstr ""
+msgstr "Швидкість появи тексту"
 
 # game/1000_base_game/screens.rpy:767
 msgid "Auto-Forward Time"
-msgstr ""
+msgstr "Швидкість автопропуску"
 
 # game/1000_base_game/screens.rpy:774
 msgid "Music Volume"
-msgstr ""
+msgstr "Гучність музики"
 
 # game/1000_base_game/screens.rpy:781
 msgid "Sound Volume"
-msgstr ""
+msgstr "Гучність ефектів"
 
 # game/1000_base_game/screens.rpy:787
 msgid "Test"
-msgstr ""
+msgstr "Тест"
 
 # game/1000_base_game/screens.rpy:802
 msgid "Mute All"
-msgstr ""
+msgstr "Без звуку"
 
 # game/1000_base_game/screens.rpy:921
 msgid "The dialogue history is empty."
-msgstr ""
+msgstr "Історія діалогу порожня."
 
 # game/1000_base_game/screens.rpy:991
 msgid "Keyboard"
-msgstr ""
+msgstr "Клавіатура"
 
 # game/1000_base_game/screens.rpy:992
 msgid "Mouse"
-msgstr ""
+msgstr "Миша"
 
 # game/1000_base_game/screens.rpy:995
 msgid "Gamepad"
-msgstr ""
+msgstr "Ґеймпад"
 
 # game/1000_base_game/screens.rpy:1008
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 # game/1000_base_game/screens.rpy:1009
 msgid "Advances dialogue and activates the interface."
-msgstr ""
+msgstr "Просуває діалог та вмикає інтерфейс."
 
 # game/1000_base_game/screens.rpy:1012
 msgid "Space"
-msgstr ""
+msgstr "Пробіл"
 
 # game/1000_base_game/screens.rpy:1013
 msgid "Advances dialogue without selecting choices."
-msgstr ""
+msgstr "Просуває діалог без вибору варіантів."
 
 # game/1000_base_game/screens.rpy:1016
 msgid "Arrow Keys"
-msgstr ""
+msgstr "Клавіші зі стрілками"
 
 # game/1000_base_game/screens.rpy:1017
 msgid "Navigate the interface."
-msgstr ""
+msgstr "Навігація по інтерфейсу."
 
 # game/1000_base_game/screens.rpy:1020
 msgid "Escape"
-msgstr ""
+msgstr "Escape"
 
 # game/1000_base_game/screens.rpy:1021
 msgid "Accesses the game menu."
-msgstr ""
+msgstr "Відкрити меню гри."
 
 # game/1000_base_game/screens.rpy:1024
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 # game/1000_base_game/screens.rpy:1025
 msgid "Skips dialogue while held down."
-msgstr ""
+msgstr "Пропускає діалог утримуючи клавішу."
 
 # game/1000_base_game/screens.rpy:1028
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 # game/1000_base_game/screens.rpy:1029
 msgid "Toggles dialogue skipping."
-msgstr ""
+msgstr "Перемикає пропуск діалогів."
 
 # game/1000_base_game/screens.rpy:1032
 msgid "Page Up"
-msgstr ""
+msgstr "Page Up"
 
 # game/1000_base_game/screens.rpy:1033
 msgid "Rolls back to earlier dialogue."
-msgstr ""
+msgstr "Відмотує до попереднього діалогу."
 
 # game/1000_base_game/screens.rpy:1036
 msgid "Page Down"
-msgstr ""
+msgstr "Page Down"
 
 # game/1000_base_game/screens.rpy:1037
 msgid "Rolls forward to later dialogue."
-msgstr ""
+msgstr "Переходить до подальшого діалогу."
 
 # game/1000_base_game/screens.rpy:1041
 msgid "Hides the user interface."
-msgstr ""
+msgstr "Приховує інтерфейс користувача."
 
 # game/1000_base_game/screens.rpy:1045
 msgid "Takes a screenshot."
-msgstr ""
+msgstr "Робить знімок екрана."
 
 # game/1000_base_game/screens.rpy:1049
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr ""
+msgstr "Перемикає допоміжний {a=https://www.renpy.org/l/voicing}дикторський голос{/a}."
 
 # game/1000_base_game/screens.rpy:1055
 msgid "Left Click"
-msgstr ""
+msgstr "ЛКМ"
 
 # game/1000_base_game/screens.rpy:1059
 msgid "Middle Click"
-msgstr ""
+msgstr "СКМ"
 
 # game/1000_base_game/screens.rpy:1063
 msgid "Right Click"
-msgstr ""
+msgstr "ПКМ"
 
 # game/1000_base_game/screens.rpy:1067
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr ""
+msgstr "Коліщатко миші вгору\n"
+"Клац на сторону відкоту"
 
 # game/1000_base_game/screens.rpy:1071
 msgid "Mouse Wheel Down"
-msgstr ""
+msgstr "Коліщатко миші вниз"
 
 # game/1000_base_game/screens.rpy:1078
 msgid "Right Trigger\n"
 "A/Bottom Button"
-msgstr ""
+msgstr "Правий тригер\n"
+"Кнопка A/Bottom"
 
 # game/1000_base_game/screens.rpy:1082
 msgid "Left Trigger\n"
 "Left Shoulder"
-msgstr ""
+msgstr "Лівий тригер\n"
+"Лівий бампер"
 
 # game/1000_base_game/screens.rpy:1086
 msgid "Right Shoulder"
-msgstr ""
+msgstr "Правий бампер"
 
 # game/1000_base_game/screens.rpy:1091
 msgid "D-Pad, Sticks"
-msgstr ""
+msgstr "Хрестовина, стики"
 
 # game/1000_base_game/screens.rpy:1095
 msgid "Start, Guide"
-msgstr ""
+msgstr "Кнопка Start, Guide"
 
 # game/1000_base_game/screens.rpy:1099
 msgid "Y/Top Button"
-msgstr ""
+msgstr "Кнопка Y/Top"
 
 # game/1000_base_game/screens.rpy:1102
 msgid "Calibrate"
-msgstr ""
+msgstr "Відкалібрувати"
 
 # game/1000_base_game/screens.rpy:1214
 msgid "Skipping"
-msgstr ""
+msgstr "Пропуск"
 
 # game/1000_base_game/screens.rpy:1447
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
