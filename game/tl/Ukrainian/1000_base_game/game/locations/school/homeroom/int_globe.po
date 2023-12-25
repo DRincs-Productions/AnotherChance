@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/homeroom/int_globe.po\n"
+"X-Crowdin-File-ID: 12380\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:15\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_globe.rpy:37 #-#-# translate crowdin school_homeroom_globe_interact_684a0ba3:
+msgid "The attachments at the poles are loose. It's probably global warming melting the ice caps."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/homeroom/int_globe.rpy:41 #-#-# translate crowdin school_homeroom_globe_interact_fixed_e40945b8:
+msgid "Back in its proper orbit. Few cosmic entities show such benevolence with their monkey wrenches."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/homeroom/int_globe.rpy:46 #-#-# translate crowdin isabelle_quest_haggis_use_monkey_wrench_globe_d90f7d33:
+msgid "With the right tools, anything's easy to take apart."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/homeroom/int_globe.rpy:47 #-#-# translate crowdin isabelle_quest_haggis_use_monkey_wrench_globe_f2340f93:
+msgid "Even the planet."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/homeroom/int_globe.rpy:48 #-#-# translate crowdin isabelle_quest_haggis_use_monkey_wrench_globe_5d9787e8:
+msgid "Yes, nukes."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/homeroom/int_globe.rpy:51 #-#-# translate crowdin isabelle_quest_haggis_use_monkey_wrench_globe_75d1c6ee:
+msgid "[_mrsl_s_surprised_] I guess some days you just wanna tear the world apart."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/homeroom/int_globe.rpy:52 #-#-# translate crowdin isabelle_quest_haggis_use_monkey_wrench_globe_ed80ce80:
+msgid "[_mrsl_s_thinking_] I've been there before. So who am I to stop you?"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/homeroom/int_globe.rpy:53 #-#-# translate crowdin isabelle_quest_haggis_use_monkey_wrench_globe_d077bec7:
+msgid "[_mrsl_s_excited_] Carry on."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/homeroom/int_globe.rpy:58 #-#-# translate crowdin isabelle_quest_haggis_use_monkey_wrench_globe_c09fa506:
+msgid "That's how the dinosaurs went extinct. Death by [item.title_lower]."
+msgstr ""
+
