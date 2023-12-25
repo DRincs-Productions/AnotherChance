@@ -1,0 +1,3592 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/characters/flora/q_flora_squid.po\n"
+"X-Crowdin-File-ID: 11254\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:06\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:13 #-#-# translate crowdin quest_flora_squid_start_3779c151:
+msgid "[_mc_] Hey, [flora]? Have you seen my electric toothbrush?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:15 #-#-# translate crowdin quest_flora_squid_start_175c4e11:
+msgid "[_flora_] Yes, but I'm using it right now!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:16 #-#-# translate crowdin quest_flora_squid_start_b509e2ec:
+msgid "[_mc_] What do you mean, {i}you're using it?{/}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:19 #-#-# translate crowdin quest_flora_squid_start_e32ec235:
+msgid "[_flora_] Go away!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:20 #-#-# translate crowdin quest_flora_squid_start_43f234d8:
+msgid "Why is she mad now?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:21 #-#-# translate crowdin quest_flora_squid_start_b79a5108:
+msgid "Can't she just be happy all the time like [lindsey]?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:22 #-#-# translate crowdin quest_flora_squid_start_f3b3d28f:
+msgid "[_mc_] What's wrong?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:23 #-#-# translate crowdin quest_flora_squid_start_60cff40a:
+msgid "[_flora_] I just can't deal with you right now!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:24 #-#-# translate crowdin quest_flora_squid_start_54696dae:
+msgid "[_mc_] What did I do?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:25 #-#-# translate crowdin quest_flora_squid_start_32dc149e:
+msgid "[_flora_] You know what you did!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:26 #-#-# translate crowdin quest_flora_squid_start_46a4d46b:
+msgid "[_mc_] I really don't!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:27 #-#-# translate crowdin quest_flora_squid_start_8e819ba5:
+msgid "[_flora_] You made your choice! Don't talk to me!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:28 #-#-# translate crowdin quest_flora_squid_start_c0b6fbcf:
+msgid "What the hell is she talking about?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:29 #-#-# translate crowdin quest_flora_squid_start_11bedf1c:
+msgid "Hmm..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:30 #-#-# translate crowdin quest_flora_squid_start_79414fe6:
+msgid "[_mc_] Is this about [jacklyn]?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:31 #-#-# translate crowdin quest_flora_squid_start_0bb15cb3:
+msgid "[_flora_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:32 #-#-# translate crowdin quest_flora_squid_start_fba28f80:
+msgid "I'll take that as a yes."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:34 #-#-# translate crowdin quest_flora_squid_start_c30c3264:
+msgid "[_flora_] You left with her!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:35 #-#-# translate crowdin quest_flora_squid_start_149db1d8:
+msgid "[_mc_] You were throwing a fit."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:36 #-#-# translate crowdin quest_flora_squid_start_52f7bc33:
+msgid "[_flora_] I was not throwing a fit!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:37 #-#-# translate crowdin quest_flora_squid_start_2b35b6fe:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:38 #-#-# translate crowdin quest_flora_squid_start_61ca2a06:
+msgid "[_mc_] [flora], are you... jealous?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:39 #-#-# translate crowdin quest_flora_squid_start_2064a854:
+msgid "[_flora_] N-no! Not even a little bit!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:41 #-#-# translate crowdin quest_flora_squid_start_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:43 #-#-# translate crowdin quest_flora_squid_start_40bb3994:
+msgid "[_mc_] Well, I did go with her, but nothing happened."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:44 #-#-# translate crowdin quest_flora_squid_start_28b0e604:
+msgid "[_flora_] Really...?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:45 #-#-# translate crowdin quest_flora_squid_start_65ec4260:
+msgid "[_mc_] Yes! She's just teaching me how to be an artist."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:46 #-#-# translate crowdin quest_flora_squid_start_6e15b1c8:
+msgid "[_flora_] And you want me to believe that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:47 #-#-# translate crowdin quest_flora_squid_start_06212304:
+msgid "[_mc_] Ask her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:48 #-#-# translate crowdin quest_flora_squid_start_cc853df9:
+msgid "[_flora_] I would, but my fingers are wet..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:49 #-#-# translate crowdin quest_flora_squid_start_2b35b6fe_1:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:50 #-#-# translate crowdin quest_flora_squid_start_d425a541:
+msgid "[_mc_] [flora], what are you doing with my toothbrush?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:56 #-#-# translate crowdin quest_flora_squid_jealous_88e906b0:
+msgid "[_mc_] Are you sure about that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:57 #-#-# translate crowdin quest_flora_squid_jealous_1bd66b3e:
+msgid "[_flora_] Yes!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:58 #-#-# translate crowdin quest_flora_squid_jealous_b6dc3aed:
+msgid "[_mc_] We had a great time..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:59 #-#-# translate crowdin quest_flora_squid_jealous_2910e9b2:
+msgid "[_mc_] We looked up at the stars. Pondered life's great meanings. Made a statement on the bus."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:61 #-#-# translate crowdin quest_flora_squid_jealous_70f37bf5:
+msgid "[_mc_] Then, I made a statement in [jacklyn]'s ass."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:63 #-#-# translate crowdin quest_flora_squid_jealous_7922bc1a:
+msgid "[_flora_] You're horrible!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:64 #-#-# translate crowdin quest_flora_squid_jealous_e3cf9ab0:
+msgid "[_mc_] It was quite lovely! Two consenting adults, enjoying each other's bodies.{space=-90}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:65 #-#-# translate crowdin quest_flora_squid_jealous_98db18ee:
+msgid "[_mc_] Nothing horrible about that."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:66 #-#-# translate crowdin quest_flora_squid_jealous_9ee81aa9:
+msgid "[_flora_] I did not consent!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:67 #-#-# translate crowdin quest_flora_squid_jealous_ae222d39:
+msgid "[_mc_] I don't remember you being present."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:68 #-#-# translate crowdin quest_flora_squid_jealous_ef4ee9a3:
+msgid "[_flora_] Ugh! Go away!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:70 #-#-# translate crowdin quest_flora_squid_jealous_e39526ef:
+msgid "[_mc_] Then, we—"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:71 #-#-# translate crowdin quest_flora_squid_jealous_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:72 #-#-# translate crowdin quest_flora_squid_jealous_d2e01a21:
+msgid "Maybe I shouldn't tell [flora] that [jacklyn] pegged me..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:74 #-#-# translate crowdin quest_flora_squid_jealous_850bd1f7:
+msgid "She could get all sorts of bad ideas."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:75 #-#-# translate crowdin quest_flora_squid_jealous_15ad0356:
+msgid "[_flora_] You, what?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:76 #-#-# translate crowdin quest_flora_squid_jealous_17e60748:
+msgid "[_mc_] Look, it's complicated."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:78 #-#-# translate crowdin quest_flora_squid_jealous_2a5f8c2e:
+msgid "[_flora_] You fucked her, didn't you?!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:79 #-#-# translate crowdin quest_flora_squid_jealous_5752e39b:
+msgid "[_mc_] I mean... technically, not {i}me...{/}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:80 #-#-# translate crowdin quest_flora_squid_jealous_2271d9f4:
+msgid "[_flora_] You know what, I don't want to know."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:81 #-#-# translate crowdin quest_flora_squid_jealous_91745ca5:
+msgid "[_flora_] Leave me alone!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:83 #-#-# translate crowdin quest_flora_squid_jealous_d528dc05:
+msgid "But now I'm confused... I told [jacklyn] to go after her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:84 #-#-# translate crowdin quest_flora_squid_jealous_7d010a14:
+msgid "[_mc_] What happened?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:85 #-#-# translate crowdin quest_flora_squid_jealous_01347b48:
+msgid "[_flora_] Nothing! You're both selfish people!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:86 #-#-# translate crowdin quest_flora_squid_jealous_2fad2070:
+msgid "[_mc_] I don't know what [jacklyn] said to you, but I asked her to go after you.{space=-35}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:87 #-#-# translate crowdin quest_flora_squid_jealous_01df21ab:
+msgid "[_mc_] I thought that's what you wanted..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:88 #-#-# translate crowdin quest_flora_squid_jealous_972a2898:
+msgid "[_flora_] It's all your fault! You brought her into my life!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:89 #-#-# translate crowdin quest_flora_squid_jealous_46863f81:
+msgid "[_mc_] That's not how I remember it."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:90 #-#-# translate crowdin quest_flora_squid_jealous_dc5b037a:
+msgid "[_mc_] As I recall, you were the one who decided to bake for her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:91 #-#-# translate crowdin quest_flora_squid_jealous_01e57ad8:
+msgid "[_flora_] That... was for a stupid grade..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:92 #-#-# translate crowdin quest_flora_squid_jealous_985171cb:
+msgid "[_mc_] Well, that's what got you on her radar."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:93 #-#-# translate crowdin quest_flora_squid_jealous_d025167a:
+msgid "[_mc_] If you don't want to see her again, you don't have to. Except in class... but that's hard to get around."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:94 #-#-# translate crowdin quest_flora_squid_jealous_82fa8ac4:
+msgid "[_flora_] That's not what I meant!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:95 #-#-# translate crowdin quest_flora_squid_jealous_b98edd63:
+msgid "[_mc_] What did you mean, then?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:96 #-#-# translate crowdin quest_flora_squid_jealous_a394a86c:
+msgid "[_mc_] I was just trying to be helpful..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:97 #-#-# translate crowdin quest_flora_squid_jealous_75d68c40:
+msgid "[_flora_] That's the whole problem!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:98 #-#-# translate crowdin quest_flora_squid_jealous_2b35b6fe:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:99 #-#-# translate crowdin quest_flora_squid_jealous_0edfd9a9:
+msgid "I'm so lost."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:100 #-#-# translate crowdin quest_flora_squid_jealous_abda8531:
+msgid "[_mc_] I still don't get what choice I made..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:101 #-#-# translate crowdin quest_flora_squid_jealous_98d97554:
+msgid "[_flora_] You went on a date with her!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:102 #-#-# translate crowdin quest_flora_squid_jealous_4e2ffae8:
+msgid "[_mc_] Yeah, but then I took a step back when you got upset..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:103 #-#-# translate crowdin quest_flora_squid_jealous_60bb74a1:
+msgid "[_flora_] But it was too late then!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:104 #-#-# translate crowdin quest_flora_squid_jealous_4d0f789a:
+msgid "[_mc_] What do you mean? We didn't even shake hands."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:105 #-#-# translate crowdin quest_flora_squid_jealous_e5eb54be:
+msgid "[_flora_] Yes, but... seeing you with her..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:106 #-#-# translate crowdin quest_flora_squid_jealous_956856fe:
+msgid "[_flora_] ...it made me realize something."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:107 #-#-# translate crowdin quest_flora_squid_jealous_9347c9d6:
+msgid "[_mc_] And what was that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:108 #-#-# translate crowdin quest_flora_squid_jealous_0bb15cb3:
+msgid "[_flora_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:109 #-#-# translate crowdin quest_flora_squid_jealous_75c2bd23:
+msgid "[_mc_] Well, what was it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:110 #-#-# translate crowdin quest_flora_squid_jealous_5b9bd0dc:
+msgid "[_flora_] Nothing! Go away!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:111 #-#-# translate crowdin quest_flora_squid_jealous_1897f3bd:
+msgid "I really don't get girls sometimes..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:112 #-#-# translate crowdin quest_flora_squid_jealous_11bedf1c:
+msgid "Hmm..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:113 #-#-# translate crowdin quest_flora_squid_jealous_cb009487:
+msgid "I really should give [flora] some privacy, but..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:114 #-#-# translate crowdin quest_flora_squid_jealous_3dd3626c:
+msgid "Ever since that incident with the tree, she's been moody and unpredictable. More so than usual."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:115 #-#-# translate crowdin quest_flora_squid_jealous_62c13b79:
+msgid "And who can blame her?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:116 #-#-# translate crowdin quest_flora_squid_jealous_2556dfae:
+msgid "She lived through a nightmare that she can't talk about or even process."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:117 #-#-# translate crowdin quest_flora_squid_jealous_17b217e5:
+msgid "Who would believe her that a bonsai grew into a sentient tree monster and tried to... seed her?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:118 #-#-# translate crowdin quest_flora_squid_jealous_479b289b:
+msgid "I can hardly believe it happened, and I saw it with my own eyes!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:119 #-#-# translate crowdin quest_flora_squid_jealous_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:120 #-#-# translate crowdin quest_flora_squid_jealous_aab7f5ad:
+msgid "Maybe kindness is the only way to help her..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:121 #-#-# translate crowdin quest_flora_squid_jealous_c87d59ab:
+msgid "[_mc_] Hey, [flora]?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:122 #-#-# translate crowdin quest_flora_squid_jealous_5a4756a9:
+msgid "[_flora_] What?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:123 #-#-# translate crowdin quest_flora_squid_jealous_fde501e3:
+msgid "[_mc_] Is there anything I can do for you?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:124 #-#-# translate crowdin quest_flora_squid_jealous_5971d2fe:
+msgid "[_flora_] Shrimps!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:125 #-#-# translate crowdin quest_flora_squid_jealous_11455b53:
+msgid "[_mc_] What?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:126 #-#-# translate crowdin quest_flora_squid_jealous_c687911d:
+msgid "[_flora_] A bucket of shrimps!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:127 #-#-# translate crowdin quest_flora_squid_jealous_582257a8:
+msgid "[_mc_] I'm not getting you shrimps..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:128 #-#-# translate crowdin quest_flora_squid_jealous_b5270fd7:
+msgid "[_flora_] Then, go away!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:129 #-#-# translate crowdin quest_flora_squid_jealous_9c6dfa50:
+msgid "[_mc_] Fine, fine, fine."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:130 #-#-# translate crowdin quest_flora_squid_jealous_7ec4d301:
+msgid "I hope she's okay in there... I guess I'll check up on her again tomorrow."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:135 #-#-# translate crowdin quest_flora_squid_happy_8b0fe8bd:
+msgid "[_flora_] I'm using it to make my squid happy!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:136 #-#-# translate crowdin quest_flora_squid_happy_8033259f:
+msgid "Squid? Is that a euphemism?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:137 #-#-# translate crowdin quest_flora_squid_happy_99d85e3f:
+msgid "[_mc_] Can you unlock the door?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:138 #-#-# translate crowdin quest_flora_squid_happy_0cc64ccc:
+msgid "[_flora_] No! I'll get the floor wet!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:139 #-#-# translate crowdin quest_flora_squid_happy_2af9aae9:
+msgid "Jesus."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:140 #-#-# translate crowdin quest_flora_squid_happy_4b665562:
+msgid "[_mc_] How much longer are you going to, err... {i}play with your squid?{/}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:141 #-#-# translate crowdin quest_flora_squid_happy_d4b76606:
+msgid "[_flora_] I don't know! It needs a lot of attention!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:142 #-#-# translate crowdin quest_flora_squid_happy_3b7d689b:
+msgid "[_flora_] Maybe a few days!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:143 #-#-# translate crowdin quest_flora_squid_happy_e8fa6a99:
+msgid "[_mc_] Days?!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:144 #-#-# translate crowdin quest_flora_squid_happy_b71b3d5f:
+msgid "[_flora_] Yeah, I don't want my squid to dry up like [jo]'s did!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:145 #-#-# translate crowdin quest_flora_squid_happy_42bd829d:
+msgid "[_mc_] Wait, what?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:146 #-#-# translate crowdin quest_flora_squid_happy_c4d68816:
+msgid "[_flora_] I'm following her old manual!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:147 #-#-# translate crowdin quest_flora_squid_happy_b518dacf:
+msgid "That's oddly hot in a way..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:157 #-#-# translate crowdin quest_flora_squid_sleep_d198c741:
+msgid "I thought girls were typically noisy when they play with their squid, but [flora] has been quiet most of the night..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:158 #-#-# translate crowdin quest_flora_squid_sleep_aae78789:
+msgid "If she keeps up the secrecy, I'll just have to bring down the battering ram from the attic."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:164 #-#-# translate crowdin quest_flora_squid_sleep_4df2d2cf:
+msgid "Rest is for the dead."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:165 #-#-# translate crowdin quest_flora_squid_sleep_e89bdcb9:
+msgid "And those who are afraid of energy drinks."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:169 #-#-# translate crowdin quest_flora_squid_trail_hall_050dbee5:
+msgid "What the hell is this?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:170 #-#-# translate crowdin quest_flora_squid_trail_hall_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:171 #-#-# translate crowdin quest_flora_squid_trail_hall_ccbb2681:
+msgid "Did [flora] finally turn into a snail?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:172 #-#-# translate crowdin quest_flora_squid_trail_hall_15288f93:
+msgid "I knew I shouldn't have put that slug in her milk when we were little...{space=-20}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:177 #-#-# translate crowdin quest_flora_squid_trail_kitchen_684235aa:
+msgid "Hmm... the trail leads out the door..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:178 #-#-# translate crowdin quest_flora_squid_trail_kitchen_d6402099:
+msgid "Did the seeds of that tree actually impregnate her? Did her water just break?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:180 #-#-# translate crowdin quest_flora_squid_trail_kitchen_f4ce2e1f:
+msgid "That thought is almost too hard to bear..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:185 #-#-# translate crowdin quest_flora_squid_trail_ground_floor_a3e0dcbf:
+msgid "Well, the trail is gone, but there's this suspicious-looking puddle over there..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:191 #-#-# translate crowdin quest_flora_squid_trail_flora_fc47294b:
+msgid "[flora] looks like she peed herself..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:192 #-#-# translate crowdin quest_flora_squid_trail_flora_96235f48:
+msgid "[_mc_] Is everything okay?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:193 #-#-# translate crowdin quest_flora_squid_trail_flora_d7af9e32:
+msgid "[_flora_s_sad_wet_] No! Nothing is okay."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:196 #-#-# translate crowdin quest_flora_squid_trail_flora_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:199 #-#-# translate crowdin quest_flora_squid_trail_flora_ce6a0b68:
+msgid "[_mc_] Did you have another Pepelepsi-moment?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:200 #-#-# translate crowdin quest_flora_squid_trail_flora_f0e1dcc5:
+msgid "[_flora_s_embarrassed_wet_] I thought we wouldn't talk about that!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:201 #-#-# translate crowdin quest_flora_squid_trail_flora_d038ba46:
+msgid "[_mc_] I mean, I'm just asking."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:202 #-#-# translate crowdin quest_flora_squid_trail_flora_9e4a7f0f:
+msgid "[_mc_] I didn't mind it. You know... that you peed on me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:203 #-#-# translate crowdin quest_flora_squid_trail_flora_bba0aead:
+msgid "[_flora_s_skeptical_wet_] Gross."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:204 #-#-# translate crowdin quest_flora_squid_trail_flora_4400fdea:
+msgid "[_mc_] It's just bodily fluids, and yours happen to be quite lovely."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:205 #-#-# translate crowdin quest_flora_squid_trail_flora_33bdc11f:
+msgid "[_flora_s_skeptical_wet_] You're weird. Stop talking about my pee!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:206 #-#-# translate crowdin quest_flora_squid_trail_flora_c6254b38:
+msgid "[_mc_] It's a little hard when it's right there."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:207 #-#-# translate crowdin quest_flora_squid_trail_flora_7748bc9a:
+msgid "[_flora_s_afraid_wet_] This is just water, you idiot!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:208 #-#-# translate crowdin quest_flora_squid_trail_flora_53c318b5:
+msgid "[_mc_] I mean, that's what all girls say. But it's actually pee, isn't it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:210 #-#-# translate crowdin quest_flora_squid_trail_flora_d804d561:
+msgid "[_flora_s_embarrassed_wet_] What? No! This is water! I swear!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:211 #-#-# translate crowdin quest_flora_squid_trail_flora_d1f32f4a:
+msgid "[_mc_] If that's true, why did you pour it all over yourself?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:212 #-#-# translate crowdin quest_flora_squid_trail_flora_7409323c:
+msgid "[_flora_s_sad_wet_] It wasn't me..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:213 #-#-# translate crowdin quest_flora_squid_trail_flora_c3a0de7e:
+msgid "[_mc_] Oh, yeah? Who was it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:214 #-#-# translate crowdin quest_flora_squid_trail_flora_6e7f1097:
+msgid "[_flora_s_sad_wet_] My squid."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:215 #-#-# translate crowdin quest_flora_squid_trail_flora_c0d77f0c:
+msgid "[_mc_] Right. Your squid..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:216 #-#-# translate crowdin quest_flora_squid_trail_flora_0e22302e:
+msgid "[_flora_s_sad_wet_] It's true. It's a very naughty squid."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:217 #-#-# translate crowdin quest_flora_squid_trail_flora_d4f19680:
+msgid "[_mc_] No kidding! You left a trail."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:218 #-#-# translate crowdin quest_flora_squid_trail_flora_057b81b0:
+msgid "[_flora_s_embarrassed_wet_] Can we change the topic, please?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:221 #-#-# translate crowdin quest_flora_squid_trail_flora_3a515e41:
+msgid "[_mc_] Why are you wet?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:222 #-#-# translate crowdin quest_flora_squid_trail_flora_1647deee:
+msgid "[_flora_s_sad_wet_] I'm not very good at taking care of my squid... It made a mess all the way here."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:223 #-#-# translate crowdin quest_flora_squid_trail_flora_a652b7da:
+msgid "[_flora_s_sad_wet_] I think I teased it too much, and now it's really excited."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:224 #-#-# translate crowdin quest_flora_squid_trail_flora_5933bf71:
+msgid "[_mc_] That's usually what happens when you tease a squid, [flora]."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:225 #-#-# translate crowdin quest_flora_squid_trail_flora_78cfbfdb:
+msgid "[_flora_s_embarrassed_wet_] I know! But I had so much fun!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:226 #-#-# translate crowdin quest_flora_squid_trail_flora_e3cd0b4f:
+msgid "[_mc_] Are you here to ask the [nurse] for help?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:227 #-#-# translate crowdin quest_flora_squid_trail_flora_fd03f8e4:
+msgid "[_flora_s_afraid_wet_] What does she know about naughty squids?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:228 #-#-# translate crowdin quest_flora_squid_trail_flora_4c9e7c28:
+msgid "[_mc_] Oh, I think she knows a thing or two. Her squid is also quite naughty.{space=-15}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:229 #-#-# translate crowdin quest_flora_squid_trail_flora_7b57b1b2:
+msgid "[_flora_s_smile_wet_] Oh, my god! She also has a squid?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:230 #-#-# translate crowdin quest_flora_squid_trail_flora_3287809a:
+msgid "[_mc_] [flora], I think you need to pay more attention during biology class..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:231 #-#-# translate crowdin quest_flora_squid_trail_flora_cbacdfc9:
+msgid "[_flora_s_skeptical_wet_] Whatever."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:234 #-#-# translate crowdin quest_flora_squid_trail_flora_a818d6e7:
+msgid "[_mc_] Are you turning into a slug?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:235 #-#-# translate crowdin quest_flora_squid_trail_flora_73e9013d:
+msgid "[_flora_s_skeptical_wet_] That's not funny."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:236 #-#-# translate crowdin quest_flora_squid_trail_flora_d4af99ed:
+msgid "[_mc_] It wasn't meant to be!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:237 #-#-# translate crowdin quest_flora_squid_trail_flora_c048221c:
+msgid "[_mc_] Do you know how Spider-Man got his powers?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:238 #-#-# translate crowdin quest_flora_squid_trail_flora_ba22e882:
+msgid "[_mc_] I can totally see you sliding down the windows of skyscrapers, leaving wet trails of mucus in your wake."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:240 #-#-# translate crowdin quest_flora_squid_trail_flora_93d3bc24:
+msgid "[_flora_s_sad_wet_] I can't take your bullshit right now..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:243 #-#-# translate crowdin quest_flora_squid_trail_flora_c8543554:
+msgid "[_mc_] You look like you need another hug."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:244 #-#-# translate crowdin quest_flora_squid_trail_flora_b2a8d5e9:
+msgid "[_flora_s_sad_wet_] If this is a trick, I'm not in the mood."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:245 #-#-# translate crowdin quest_flora_squid_trail_flora_e772bf97:
+msgid "[_mc_] I would never do something like that."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:246 #-#-# translate crowdin quest_flora_squid_trail_flora_4ac6900a:
+msgid "[_flora_s_skeptical_wet_] I remember one time when—"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:247 #-#-# translate crowdin quest_flora_squid_trail_flora_a2bcd6cf:
+msgid "[_mc_] Okay, I admit. I've done some bad things in the past, but I'm a changed man."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:248 #-#-# translate crowdin quest_flora_squid_trail_flora_2a78c85c:
+msgid "[_flora_s_sad_wet_] Okay, fine..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:249 #-#-# translate crowdin quest_flora_squid_trail_flora_be743df6:
+msgid "[_mc_] Just like that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:250 #-#-# translate crowdin quest_flora_squid_trail_flora_490e4078:
+msgid "[_flora_s_sad_wet_] I know you've been trying lately. I guess I trust you."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:251 #-#-# translate crowdin quest_flora_squid_trail_flora_5208bfef:
+msgid "[_mc_] Come here..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:257 #-#-# translate crowdin quest_flora_squid_trail_flora_64cb78b9:
+msgid "Wrapping my arms around [flora] fills me with a special kind of happiness."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:261 #-#-# translate crowdin quest_flora_squid_trail_flora_31f0daad:
+msgid "No one needs to know that I'm enjoying the contours of her soft form.{space=-45}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:262 #-#-# translate crowdin quest_flora_squid_trail_flora_c0d45610:
+msgid "The way her head rests against my chest..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:263 #-#-# translate crowdin quest_flora_squid_trail_flora_90733df6:
+msgid "The scent of wild strawberries from her hair..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:264 #-#-# translate crowdin quest_flora_squid_trail_flora_45cdf6a8:
+msgid "[_flora_] Did you just smell me?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:265 #-#-# translate crowdin quest_flora_squid_trail_flora_766fbcc4:
+msgid "[_mc_] What? No!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:266 #-#-# translate crowdin quest_flora_squid_trail_flora_e2a7a8ab:
+msgid "[_flora_] I heard you sniff!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:267 #-#-# translate crowdin quest_flora_squid_trail_flora_812be672:
+msgid "[_mc_] It's just my allergies."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:268 #-#-# translate crowdin quest_flora_squid_trail_flora_1ea0eb08:
+msgid "[_flora_] What allergies?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:274 #-#-# translate crowdin quest_flora_squid_trail_flora_5b144517:
+msgid "[_mc_] I guess I'm allergic to you being nice."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:275 #-#-# translate crowdin quest_flora_squid_trail_flora_d69ee5ae:
+msgid "[_mc_] Who would've thought, right?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:277 #-#-# translate crowdin quest_flora_squid_trail_flora_c99ad04d:
+msgid "[_flora_s_smile_wet_] I'm always nice, so I think we would've discovered that sooner!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:278 #-#-# translate crowdin quest_flora_squid_trail_flora_6d1e0443:
+msgid "[_mc_] I don't know, [flora]. It's not like we know everything about each other.{space=-25}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:279 #-#-# translate crowdin quest_flora_squid_trail_flora_cab76bef:
+msgid "[_mc_] For example, I just recently discovered that your hair smells lovely."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:280 #-#-# translate crowdin quest_flora_squid_trail_flora_4aa697b0:
+msgid "[_flora_s_afraid_wet_] I knew it!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:281 #-#-# translate crowdin quest_flora_squid_trail_flora_d1f50414:
+msgid "[_mc_] Well, are you going to tell me what really happened here?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:282 #-#-# translate crowdin quest_flora_squid_trail_flora_d6352492:
+msgid "[_flora_s_sad_wet_] You're not going to believe me, so let's just move on."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:283 #-#-# translate crowdin quest_flora_squid_trail_flora_1c5c998f:
+msgid "[_mc_] Is there anything I can do to help?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:284 #-#-# translate crowdin quest_flora_squid_trail_flora_859ce74c:
+msgid "[_flora_s_sad_wet_] Would you help me look for my squid?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:285 #-#-# translate crowdin quest_flora_squid_trail_flora_c2665d88:
+msgid "This sounds like the opening to a weird porno..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:286 #-#-# translate crowdin quest_flora_squid_trail_flora_028d954c:
+msgid "[_mc_] I mean, I guess. Have you looked in your pants?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:287 #-#-# translate crowdin quest_flora_squid_trail_flora_357264b8:
+msgid "[_flora_s_skeptical_wet_] If you're not going to take it seriously..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:288 #-#-# translate crowdin quest_flora_squid_trail_flora_ae6b1ecd:
+msgid "[_mc_] Fine! I'll take it seriously. When did you last see it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:289 #-#-# translate crowdin quest_flora_squid_trail_flora_84686c27:
+msgid "[_flora_s_sad_wet_] It grew too big for my little fishbowl, so I had to move it to the aquarium here."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:290 #-#-# translate crowdin quest_flora_squid_trail_flora_e643cfef:
+msgid "[_flora_s_sad_wet_] I was checking the saline levels... and then it was gone!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:291 #-#-# translate crowdin quest_flora_squid_trail_flora_cde15d7b:
+msgid "[_mc_] The squid disappeared?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:292 #-#-# translate crowdin quest_flora_squid_trail_flora_27277df1:
+msgid "[_flora_s_embarrassed_wet_] Yes! I only looked away for a few moments!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:293 #-#-# translate crowdin quest_flora_squid_trail_flora_2f607214:
+msgid "[_mc_] Well, it couldn't have gotten far, right?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:294 #-#-# translate crowdin quest_flora_squid_trail_flora_9d1edb8b:
+msgid "[_mc_] Have you looked under the furniture?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:295 #-#-# translate crowdin quest_flora_squid_trail_flora_b4f33563:
+msgid "[_flora_s_sad_wet_] I've looked everywhere in this corridor..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:296 #-#-# translate crowdin quest_flora_squid_trail_flora_e6f80e4d:
+msgid "[_mc_] Maybe it slipped into the principal's office?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:297 #-#-# translate crowdin quest_flora_squid_trail_flora_5164c6f8:
+msgid "[_flora_s_sad_wet_] I checked it, and I also checked the [nurse]'s office."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:298 #-#-# translate crowdin quest_flora_squid_trail_flora_7fbdc33a:
+msgid "[_mc_] Maybe someone took it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:299 #-#-# translate crowdin quest_flora_squid_trail_flora_f83ab520:
+msgid "[_flora_s_afraid_wet_] Who would do such a thing?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:300 #-#-# translate crowdin quest_flora_squid_trail_flora_d8567695:
+msgid "[_mc_] I can think of a few people..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:301 #-#-# translate crowdin quest_flora_squid_trail_flora_3ace7f0c:
+msgid "[_flora_s_embarrassed_wet_] We have to find it before it's too late!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:302 #-#-# translate crowdin quest_flora_squid_trail_flora_72a739f1:
+msgid "[_mc_] Okay, I guess we should start looking..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:303 #-#-# translate crowdin quest_flora_squid_trail_flora_54eabb01:
+msgid "[_mc_] There are only a few places here that are wet enough for a squid."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:304 #-#-# translate crowdin quest_flora_squid_trail_flora_ac2d8687:
+msgid "[_mc_] Follow me!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:311 #-#-# translate crowdin quest_flora_squid_search_5f256231:
+msgid "A detective would call these puddles a lead."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:312 #-#-# translate crowdin quest_flora_squid_search_8189c4f5:
+msgid "I call it a mess."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:313 #-#-# translate crowdin quest_flora_squid_search_73f1ffb3:
+msgid "What the hell happened here?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:318 #-#-# translate crowdin quest_flora_squid_search_puddles_3d471083:
+msgid "[_mc_] [flora], take a look at this."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:320 #-#-# translate crowdin quest_flora_squid_search_puddles_c7e1bc8c:
+msgid "[_flora_s_thinking_] You're right, this could be the work of [cuthbert]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:321 #-#-# translate crowdin quest_flora_squid_search_puddles_56a6e3eb:
+msgid "[_mc_] [cuthbert]?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:322 #-#-# translate crowdin quest_flora_squid_search_puddles_769e4ee3:
+msgid "[_flora_s_blush_] Yeah, that's the name of my squid."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:323 #-#-# translate crowdin quest_flora_squid_search_puddles_58735407:
+msgid "[_mc_] I had no idea girls named their squids."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:324 #-#-# translate crowdin quest_flora_squid_search_puddles_c62d4fde:
+msgid "[_mc_] I also had no idea a squid could make such a mess... It must've been very stimulated."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:325 #-#-# translate crowdin quest_flora_squid_search_puddles_af062b47:
+msgid "[_flora_s_annoyed_] Can you stop being lewd?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:326 #-#-# translate crowdin quest_flora_squid_search_puddles_4334c3d4:
+msgid "[_mc_] Get your mind out of the gutter, [flora]! I'm just talking about your pet.{space=-35}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:327 #-#-# translate crowdin quest_flora_squid_search_puddles_faa29d83:
+msgid "[_flora_s_eyeroll_] Right..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:328 #-#-# translate crowdin quest_flora_squid_search_puddles_3cf0e486:
+msgid "[_mc_] Either way, it doesn't appear to be here."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:329 #-#-# translate crowdin quest_flora_squid_search_puddles_31fcf6e2:
+msgid "[_flora_s_sad_] Do you think it could've crawled into the fine arts wing?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:330 #-#-# translate crowdin quest_flora_squid_search_puddles_7d089048:
+msgid "[_mc_] I don't know. There's no water there..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:331 #-#-# translate crowdin quest_flora_squid_search_puddles_d879a95e:
+msgid "[_mc_] If I were a squid, I'd go toward the nearest body of water."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:332 #-#-# translate crowdin quest_flora_squid_search_puddles_e0d9f8c5:
+msgid "[_flora_s_afraid_] The women's bathroom? Okay, hurry!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:342 #-#-# translate crowdin quest_flora_squid_choice_d08c2ac8:
+msgid "[_flora_s_embarrassed_] Come on!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:343 #-#-# translate crowdin quest_flora_squid_choice_d16eb48a:
+msgid "[_mc_] I can't go in there. I'll get detention."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:344 #-#-# translate crowdin quest_flora_squid_choice_bca79b7e:
+msgid "[_flora_s_afraid_] Detention?! This is [cuthbert]'s life we're talking about!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:347 #-#-# translate crowdin quest_flora_squid_choice_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:350 #-#-# translate crowdin quest_flora_squid_choice_9f751980:
+msgid "[_mc_] Sorry, I'm not risking that."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:351 #-#-# translate crowdin quest_flora_squid_choice_e6cc3a64:
+msgid "[_flora_s_angry_] I thought you were going to help me!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:352 #-#-# translate crowdin quest_flora_squid_choice_d20c979b:
+msgid "[_mc_] Yes, but I can't just walk into the women's bathroom in broad daylight!{space=-50}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:353 #-#-# translate crowdin quest_flora_squid_choice_8ca0349b:
+msgid "[_flora_s_angry_] It's a matter of life and death!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:354 #-#-# translate crowdin quest_flora_squid_choice_d36c1442:
+msgid "[_mc_] Stop wasting time, then."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:356 #-#-# translate crowdin quest_flora_squid_choice_3588d33b:
+msgid "[_flora_s_angry_] Ugh, you're the worst..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:359 #-#-# translate crowdin quest_flora_squid_choice_96cdac8d:
+msgid "Well, that certainly could've gone better."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:360 #-#-# translate crowdin quest_flora_squid_choice_46b758da:
+msgid "I guess I'll just wait here..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:364 #-#-# translate crowdin quest_flora_squid_choice_1e104d61:
+msgid "[_mc_] Fine... let's go."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:366 #-#-# translate crowdin quest_flora_squid_choice_583f1b3c:
+msgid "[_flora_s_smile_] Thank you!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:374 #-#-# translate crowdin quest_flora_squid_wait_door_bathroom_d5472a28:
+msgid "[_mc_] [flora]? How's it going?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:375 #-#-# translate crowdin quest_flora_squid_wait_door_bathroom_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:376 #-#-# translate crowdin quest_flora_squid_wait_door_bathroom_3512255f:
+msgid "No answer."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:377 #-#-# translate crowdin quest_flora_squid_wait_door_bathroom_a54dc927:
+msgid "She must be snorkeling a toilet or something..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:381 #-#-# translate crowdin quest_flora_squid_wait_door_gym_837e2549:
+msgid "Hopefully, no jocks will find me trespassing while I wait for [flora]..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:385 #-#-# translate crowdin quest_flora_squid_wait_back_ac745a7b:
+msgid "[flora] is already pissed. Leaving now would make her explode."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:386 #-#-# translate crowdin quest_flora_squid_wait_back_6186b468:
+msgid "Actually... hmm..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:387 #-#-# translate crowdin quest_flora_squid_wait_back_bf8434d2:
+msgid "Nah, I'd probably have to clean up the mess."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:392 #-#-# translate crowdin quest_flora_squid_wait_mrsl_4991a1ba:
+msgid "[_mrsl_s_thinking_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:393 #-#-# translate crowdin quest_flora_squid_wait_mrsl_e4d0237e:
+msgid "[mrsl] looks lost in thought..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:394 #-#-# translate crowdin quest_flora_squid_wait_mrsl_330d1f42:
+msgid "[_mrsl_s_thinking_] {i}*Sniff, sniff*{/}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:395 #-#-# translate crowdin quest_flora_squid_wait_mrsl_177d3eb2:
+msgid "[_mc_] What are you doing?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:397 #-#-# translate crowdin quest_flora_squid_wait_mrsl_bbc5294a:
+msgid "[_mrsl_s_surprised_] [mc]! Don't sneak up on an old lady like that! [withvpunch]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:400 #-#-# translate crowdin quest_flora_squid_wait_mrsl_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:403 #-#-# translate crowdin quest_flora_squid_wait_mrsl_5e9ebb5b:
+msgid "[_mc_] You're not that old!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:404 #-#-# translate crowdin quest_flora_squid_wait_mrsl_a3bce872:
+msgid "[_mrsl_s_flirty_] You little charmer..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:405 #-#-# translate crowdin quest_flora_squid_wait_mrsl_d61babb8:
+msgid "[_mrsl_s_flirty_] You make me miss the old days."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:406 #-#-# translate crowdin quest_flora_squid_wait_mrsl_cf3eedc5:
+msgid "[_mc_] I don't know, I always found the 90s pretty slow."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:408 #-#-# translate crowdin quest_flora_squid_wait_mrsl_e9782672:
+msgid "[_mrsl_s_laughing_] Oh, you're so sweet! I could eat you right up."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:409 #-#-# translate crowdin quest_flora_squid_wait_mrsl_330d1f42_1:
+msgid "[_mrsl_s_thinking_] {i}*Sniff, sniff*{/}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:410 #-#-# translate crowdin quest_flora_squid_wait_mrsl_4be58f54:
+msgid "[_mc_] Sorry, but why do you keep sniffing?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:411 #-#-# translate crowdin quest_flora_squid_wait_mrsl_193faae0:
+msgid "[_mrsl_s_surprised_] Can you not smell that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:414 #-#-# translate crowdin quest_flora_squid_wait_mrsl_3bcf85b6:
+msgid "[_mc_] Sorry, but have you seen a squid?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:415 #-#-# translate crowdin quest_flora_squid_wait_mrsl_4cd31baa:
+msgid "[_mrsl_s_skeptical_] What do you mean by that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:416 #-#-# translate crowdin quest_flora_squid_wait_mrsl_8bee74d7:
+msgid "[_mc_] [flora] has lost her pet squid... I assume you haven't seen it."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:417 #-#-# translate crowdin quest_flora_squid_wait_mrsl_1b35534b:
+msgid "[_mrsl_s_thinking_] I'm afraid not."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:418 #-#-# translate crowdin quest_flora_squid_wait_mrsl_0f89f27f:
+msgid "[_mrsl_s_thinking_] Have you looked in the aquarium downstairs?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:419 #-#-# translate crowdin quest_flora_squid_wait_mrsl_91f8e828:
+msgid "[_mc_] Thanks for the tip..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:420 #-#-# translate crowdin quest_flora_squid_wait_mrsl_e05140b9:
+msgid "[_mrsl_s_cringe_hands_up_] {i}*Sniff, sniff*{/}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:421 #-#-# translate crowdin quest_flora_squid_wait_mrsl_4be58f54_1:
+msgid "[_mc_] Sorry, but why do you keep sniffing?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:422 #-#-# translate crowdin quest_flora_squid_wait_mrsl_3e2bb95a:
+msgid "[_mrsl_s_cringe_hands_up_] Can you not smell that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:423 #-#-# translate crowdin quest_flora_squid_wait_mrsl_c31b5cc9:
+msgid "[_mc_] Smell what?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:424 #-#-# translate crowdin quest_flora_squid_wait_mrsl_e467edf2:
+msgid "[_mrsl_s_annoyed_] Oh, this is not good. Not good at all."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:425 #-#-# translate crowdin quest_flora_squid_wait_mrsl_6aea1f19:
+msgid "What is she talking about?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:426 #-#-# translate crowdin quest_flora_squid_wait_mrsl_050446ce:
+msgid "This corridor smells like it always does — sweat and unbridled testosterone."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:427 #-#-# translate crowdin quest_flora_squid_wait_mrsl_dfb66e27:
+msgid "[_mrsl_s_concerned_] Excuse me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:429 #-#-# translate crowdin quest_flora_squid_wait_mrsl_920bae60:
+msgid "[mrsl] looked concerned..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:430 #-#-# translate crowdin quest_flora_squid_wait_mrsl_9f21f6db:
+msgid "What kind of smell would cause her to run off like that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:431 #-#-# translate crowdin quest_flora_squid_wait_mrsl_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:432 #-#-# translate crowdin quest_flora_squid_wait_mrsl_9ec11f17:
+msgid "Might as well have a look around while waiting for [flora]..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:437 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_031547fb:
+msgid "Hmm... odd. The glass is slightly open."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:438 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_a8434fe7:
+msgid "The case containing the school's pride is usually locked up tightly."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:439 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:440 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_424e373e:
+msgid "[mrsl] was right, there's a faint smell coming from inside..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:441 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_cfb823f0:
+msgid "Smells vaguely burnt, but not quite..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:442 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_d8f9c2d1:
+msgid "Like an overheated RC car or drill. Kind of like burning ozone."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:443 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:444 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_db760ced:
+msgid "Why would the trophy case smell like that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:445 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_5a80417b:
+msgid "Maybe I can find the source of the smell if I—"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:446 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_30a97122:
+msgid "[_mc_] Ouch! [withvpunch]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:447 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_057233a8:
+msgid "What the hell? Glass shards?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:448 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:452 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_ed85851e:
+msgid "Why is there a broken snowglobe behind the trophies?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:453 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:454 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_75aa4fed:
+msgid "Odd. Very odd."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:460 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_bf8c6881:
+msgid "[_flora_s_confused_] Are you trying to rob the trophy case?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:461 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2c4ad4ae:
+msgid "[_mc_] I mean, that's the only way I'll ever get a trophy..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:462 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_d7e6601a:
+msgid "[_flora_s_sarcastic_] Ain't that the truth!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:463 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_004dba76:
+msgid "[_mc_] Whatever, dude. Did you find your squid or not?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:464 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_8e44c93e:
+msgid "[_flora_s_cringe_] I've told you not to call me that!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:465 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_42c3e423:
+msgid "[_flora_s_cringe_] But no, still no sign of poor [cuthbert]..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:468 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:471 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_5757848f:
+msgid "[_mc_] Have you looked in your pants?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:472 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_0ab42c22:
+msgid "[_flora_s_annoyed_] What's that even supposed to mean?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:473 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_7471773b:
+msgid "[_mc_] Maybe squid is another word for octopus... with an emphasis on \"pus.\"{space=-55}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:474 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_7e535a92:
+msgid "[_flora_s_cringe_] You're gross. Stop talking."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:475 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2fa33101:
+msgid "[_mc_] If I stop talking, nothing will be said."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:476 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_de7a4bb3:
+msgid "[_flora_s_confused_] That's the whole point..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:477 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_85565843:
+msgid "[_mc_] Do you really want to live in silence, [flora]?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:478 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_102657e0:
+msgid "[_mc_] A home devoid of mirth and the laughter of children?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:479 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_f229fa99:
+msgid "[_flora_s_eyeroll_] Shut up."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:480 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_e119df09:
+msgid "[_mc_] As you wish."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:482 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2613b4ef:
+msgid "[_flora_s_annoyed_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:483 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2b35b6fe:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:484 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_0518abb3:
+msgid "[_flora_s_eyeroll_] I'm leaving."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:485 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2b35b6fe_1:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:487 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2613b4ef_1:
+msgid "[_flora_s_annoyed_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:488 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2b35b6fe_2:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:489 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_72835e48:
+msgid "[_flora_s_angry_] Fine, you can talk! Just don't say stupid things."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:491 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_57a8fad1:
+msgid "[_mc_] I never do!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:492 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_cc740ef5:
+msgid "[_mc_] Except that one time at band camp..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:493 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_a1212176:
+msgid "[_mc_] And that one time when you asked about cereal and I said they're in the TV..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:494 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_50e933a9:
+msgid "[_mc_] And that one time when you were sick and—"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:495 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_26604595:
+msgid "[_flora_s_angry_] I'm leaving!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:496 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_81a2f873:
+msgid "[_mc_] But where are you going?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:497 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_9b76abf1:
+msgid "[_flora_s_thinking_] I need to find [cuthbert]..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:498 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_cbdffdee:
+msgid "[_mc_] Maybe he's outside somewhere?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:502 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_9f5cb12d:
+msgid "[_mc_] Maybe we should expand our horizons?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:503 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_cfa59791:
+msgid "[_flora_s_thinking_] That might actually be a good idea..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:504 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_28eee9ed:
+msgid "[_mc_] That's usually the case with my ideas."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:505 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_a029c7a2:
+msgid "[_flora_s_laughing_] Right!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:506 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_a0c77b9a:
+msgid "[_mc_] I'm serious!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:507 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2948c523:
+msgid "[_mc_] You're looking at the inventor of the self-demoisturizing sock."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:508 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_25907e1c:
+msgid "[_flora_s_worried_] You're weird."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:509 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_afc40c7e:
+msgid "[_mc_] I've been called worse things by better people."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:510 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_cd36dcd5:
+msgid "[_flora_s_cringe_] You're not going to start quoting Canadian politicians again! I won't have it!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:511 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_21106c4c:
+msgid "[_mc_] Every single day, we need to choose hope over fear, diversity over division!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:512 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_c0194057:
+msgid "[_flora_s_annoyed_] Ugh, I'm leaving!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:513 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_58611950:
+msgid "[_mc_] Where to?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:514 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_4b7cbb16:
+msgid "[_flora_s_thinking_] I don't know, but I have to find [cuthbert]..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:517 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_5e86a8d6:
+msgid "[_mc_] [mrsl] is getting hotter every day, don't you think?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:518 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_20d3d4c5:
+msgid "[_flora_s_confused_] What does that have to do with anything?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:519 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_bbba0fbc:
+msgid "[_mc_] So, you agree?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:520 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2cd3ba80:
+msgid "[_flora_s_annoyed_texting_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:521 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_aca2b6de:
+msgid "[_mc_] Who are you texting?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:522 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_fed91996:
+msgid "[_flora_s_annoyed_texting_] Nobody. I'm deleting you from my contacts."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:523 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_49972ae3:
+msgid "[_mc_] That's okay... I'll just add myself back later."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:524 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_c1b1ec30:
+msgid "[_flora_s_annoyed_texting_eyes_up_] I've changed my password!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:525 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_49c6ffe2:
+msgid "[_mc_] Oh, I know."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:526 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_1acb9073:
+msgid "[_mc_] Did you really think I wouldn't figure it out? \"Cutethulhu123\" is pretty obvious."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:527 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_d98d7f3a:
+msgid "[_flora_s_laughing_] That's not it at all!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:528 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_0bc4790e:
+msgid "[_mc_] Oh, yeah? Then how would I know that you have a topless picture of Dr. Octopus as your background?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:529 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_85c12173:
+msgid "[_flora_s_angry_] That's not true!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:530 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_9cf22e9b:
+msgid "[_mc_] It'll be our little secret."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:531 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_ee2447c5:
+msgid "[_flora_s_angry_] I'm telling [jo] about this..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:532 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_c62da90a:
+msgid "[_mc_] Well, then it's not really a secret anymore, is it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:534 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_1c51869e:
+msgid "[_flora_s_angry_] Ugh, shut up!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:535 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_1c394bb8:
+msgid "[_mc_] Maybe [cuthbert] is outside somewhere?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:536 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_647586f8:
+msgid "[_flora_s_thinking_] Maybe..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:539 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_b620a354:
+msgid "[_mc_] I feel like we've checked the entire school."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:540 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_a8d15c4d:
+msgid "[_mc_] There's just one more body of water that I know of..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:541 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_fcde202b:
+msgid "[_flora_s_worried_] What? Where?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:542 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_8e814fee:
+msgid "[_mc_] It's in the forest... although, I'm not sure it's a good idea for you to go out there."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:543 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_e0f15d89:
+msgid "[_flora_s_worried_] Why not?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:544 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_601449f4:
+msgid "[_mc_] Because that's where the... tree monster... escaped to."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:545 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_31f434bf:
+msgid "[_flora_s_afraid_] T-tree monster?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:546 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_61bacfcb:
+msgid "[_mc_] Do you not remember getting assaulted by that tree?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:548 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_276fd670:
+msgid "[_mc_] If I hadn't been there to stop it, who knows what it would've done to you..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:550 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_2cad3738:
+msgid "[_mc_] It bound you in its vines and had its way with you..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:551 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_de00c32f:
+msgid "[_mc_] I got there too late..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:552 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_2894d427:
+msgid "[_flora_s_embarrassed_] T-that actually happened?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:553 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_69c25b65:
+msgid "[_mc_] Yeah..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:554 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_dad9cf2a:
+msgid "[_flora_s_sad_] Oh, my god."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:555 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_ad44b755:
+msgid "[_flora_s_sad_] All this time, I wasn't sure if I'd imagined it or not."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:557 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_db10326d:
+msgid "[_flora_s_blush_] You saved me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:558 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_ccaacce0:
+msgid "[_mc_] I mean, I guess..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:559 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_13c07dad:
+msgid "[_mc_] I don't really think of it like that."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:560 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_b0d84e36:
+msgid "[_flora_s_blush_] No, you did."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:561 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_93aa4b46:
+msgid "[_flora_s_blush_] I know you did."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:562 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_685cf414:
+msgid "[_mc_] You would've done the same for me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:563 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_2c213d93:
+msgid "[_flora_s_worried_] So, a tree did that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:565 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_0f56405e:
+msgid "[_flora_s_crying_] I thought it was a fever dream or the painkillers..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:566 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_f68d5d4e:
+msgid "[_mc_] I'm so sorry..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:567 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_aa360e88:
+msgid "[_flora_s_crying_] It's not your fault."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:568 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_cc98bdfd:
+msgid "Ugh... if only she knew."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:569 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_878a2afa:
+msgid "I'm such a piece of shit..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:570 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_132bda3a:
+msgid "[_mc_] I'm really sorry!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:571 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_fea040b7:
+msgid "[_flora_s_crying_] I know you wouldn't have let it happen if you were there..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:572 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_c6d556f4:
+msgid "[_flora_s_crying_] And you did chase it off."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:573 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_3fd2d5ea:
+msgid "[_flora_s_crying_] Thank you for that."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:574 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_100942db:
+msgid "Fuck me, man..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:575 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_d7c6f2ae:
+msgid "How will I be able to look myself in the mirror after this?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:576 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_32db76b5:
+msgid "[_mc_] You... would've done the same for me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:577 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_8f689ec3:
+msgid "[_flora_s_sad_] So, a tree did that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:578 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_5e944aae:
+msgid "[_mc_] Yeah, it was the [nurse]'s bonsai..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:579 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_abac7ae1:
+msgid "[_mc_] I don't know how it grew so big, but it's still out there somewhere."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:580 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_2b489e18:
+msgid "[_flora_s_worried_] We need to find [cuthbert], though..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:581 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_1b059324:
+msgid "[_mc_] Maybe we should grab some weapons just in case?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:582 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_80d9ce18:
+msgid "[_flora_s_thinking_] Yeah, that would probably be a good idea."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:583 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_283329e6:
+msgid "[_mc_] Okay, I'll be back in a bit!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:589 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_3d4d9bf7:
+msgid "Something that can cut through vines would be good..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:591 #-#-# translate crowdin quest_flora_squid_wait_or_bathroom_fe3f6acc:
+msgid "Luckily, no one has confiscated my machete yet."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:597 #-#-# translate crowdin quest_flora_squid_bathroom_e7944a9e:
+msgid "[_flora_s_neutral_] There are many places to look here. Help me out, okay?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:598 #-#-# translate crowdin quest_flora_squid_bathroom_57f03da9:
+msgid "[_mc_] If you think I'm going to touch those toilets, you're out of your mind.{space=-10}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:599 #-#-# translate crowdin quest_flora_squid_bathroom_6d100ecf:
+msgid "[_flora_s_angry_] This is a life or death situation!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:600 #-#-# translate crowdin quest_flora_squid_bathroom_b14e19ff:
+msgid "[_mc_] You take the toilets, then. I'll look elsewhere."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:601 #-#-# translate crowdin quest_flora_squid_bathroom_e289bda1:
+msgid "[_flora_s_angry_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:602 #-#-# translate crowdin quest_flora_squid_bathroom_5f06b221:
+msgid "[_flora_s_angry_] Fine!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:609 #-#-# translate crowdin quest_flora_squid_bathroom_flora1_7c68facd:
+msgid "[_mc_] [flora]? What are you doing?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:610 #-#-# translate crowdin quest_flora_squid_bathroom_flora1_2437accc:
+msgid "[_flora_] I'm looking for [cuthbert]! What the hell does it look like?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:611 #-#-# translate crowdin quest_flora_squid_bathroom_flora1_2175b57c:
+msgid "[_mc_] It looks like you're about to dive into the toilet..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:612 #-#-# translate crowdin quest_flora_squid_bathroom_flora1_5b757067:
+msgid "[_flora_] That's disgusting! Leave me alone!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:613 #-#-# translate crowdin quest_flora_squid_bathroom_flora1_63cb8cc6:
+msgid "[_mc_] Whatever, dude."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:614 #-#-# translate crowdin quest_flora_squid_bathroom_flora1_b505b88c:
+msgid "[_flora_] Stop calling me that!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:618 #-#-# translate crowdin quest_flora_squid_bathroom_door_5954d2c2:
+msgid "Let's be honest, there probably aren't any squids here."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:619 #-#-# translate crowdin quest_flora_squid_bathroom_door_cded5a99:
+msgid "Still a couple of places left to look in, though... Might as well be thorough."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:623 #-#-# translate crowdin quest_flora_squid_bathroom_water_bottle_b66d0a4d:
+msgid "Well, it's technically a body of water..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:624 #-#-# translate crowdin quest_flora_squid_bathroom_water_bottle_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:625 #-#-# translate crowdin quest_flora_squid_bathroom_water_bottle_d7b3c4c4:
+msgid "Nope, no squid."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:632 #-#-# translate crowdin quest_flora_squid_bathroom_shower1_028e9493:
+msgid "Who doesn't like when girls get wet?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:633 #-#-# translate crowdin quest_flora_squid_bathroom_shower1_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:634 #-#-# translate crowdin quest_flora_squid_bathroom_shower1_f66f5b87:
+msgid "Squids, apparently."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:635 #-#-# translate crowdin quest_flora_squid_bathroom_shower1_c34250f7:
+msgid "None here."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:642 #-#-# translate crowdin quest_flora_squid_bathroom_shower2_10d18f0a:
+msgid "Hmm... no sign of [cuthbert] here..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:643 #-#-# translate crowdin quest_flora_squid_bathroom_shower2_8afd4773:
+msgid "However, it seems like someone's been trying to Scrooge McDuck this bitch up."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:652 #-#-# translate crowdin quest_flora_squid_bathroom_urinal_1477d818:
+msgid "[_mc_] [cuthbert], yo-ho!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:653 #-#-# translate crowdin quest_flora_squid_bathroom_urinal_6237fa0b:
+msgid "[_mc_] Are you down there?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:654 #-#-# translate crowdin quest_flora_squid_bathroom_urinal_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:655 #-#-# translate crowdin quest_flora_squid_bathroom_urinal_fd38f889:
+msgid "Nope."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:663 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_b782bd2f:
+msgid "[_mc_] You know, I don't think the squid is here..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:664 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_cf827a47:
+msgid "[_flora_s_skeptical_] Did you even look anywhere?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:665 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_35db1bd5:
+msgid "[_mc_] Yes, I did!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:666 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_094669e2:
+msgid "[_flora_s_skeptical_] Where did you look?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:669 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:672 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_803a9472:
+msgid "[_mc_] In [lindsey]'s water bottle."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:673 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_4b8ee00e:
+msgid "[_flora_s_angry_] Are you being serious?!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:674 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_b2b9e19d:
+msgid "[_mc_] What do you mean?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:675 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_8f963e71:
+msgid "[_flora_s_angry_] This is a life or death situation, and you're just dicking around!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:676 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_72c291e6:
+msgid "[_flora_s_angry_] I knew you would be no help!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:677 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_a51128cd:
+msgid "[_mc_] Hey, I also checked everywhere else! I just checked the bottle to be thorough."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:678 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_6a6c327c:
+msgid "[_flora_s_sad_] Oh... okay..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:679 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_2689b56d:
+msgid "[_mc_] That's it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:680 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_e1c7fed0:
+msgid "[_mc_] After yelling at me, even though I'm trying to help you?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:681 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_043a46e5:
+msgid "[_flora_s_sad_] I'm sorry... I'm just really worried."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:682 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_9556ded0:
+msgid "[_mc_] It's okay. Don't worry about it."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:684 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_5d238361:
+msgid "[_flora_s_sad_] Thanks..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:687 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_2dd02a58:
+msgid "[_mc_] In the showers."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:688 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_aa1cc3a7:
+msgid "[_flora_s_sad_] And he wasn't there?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:689 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_1019e91d:
+msgid "[_mc_] Nope. I didn't even find any squid slime."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:690 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_6225c6ac:
+msgid "[_flora_s_embarrassed_] Don't call it that!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:691 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_0be2fbd4:
+msgid "[_mc_] What's it called, then?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:692 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_18571702:
+msgid "[_flora_s_embarrassed_] It's moisture!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:693 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_dff5b6b6:
+msgid "[_mc_] Really, [flora]?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:694 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_59131a60:
+msgid "[_flora_s_skeptical_] Yes, really!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:695 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_e4ae2d60:
+msgid "[_mc_] Well, either way, I didn't find him."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:698 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_c9930ed4:
+msgid "[_mc_] In the urinal."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:699 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_92d2eb67:
+msgid "[_flora_s_cringe_] What?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:700 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_31de4c43:
+msgid "[_mc_] I, uh... had to take a piss as well, so I thought it was convenient..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:701 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_0e6df3dc:
+msgid "[_flora_s_cringe_] You potentially peed on [cuthbert]?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:702 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_70e0dc64:
+msgid "[_mc_] No! He wasn't there."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:703 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_566b7f07:
+msgid "[_flora_s_annoyed_] That doesn't make it any better!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:704 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_ba693b8a:
+msgid "[_mc_] Do you even think he can tell the difference between pee and water?{space=-10}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:705 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_13831ada:
+msgid "[_flora_s_annoyed_] Maybe..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:706 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_06e551d2:
+msgid "[_mc_] How about we test it out after we find him?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:707 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_b6c585de:
+msgid "[_flora_s_eyeroll_] Why?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:708 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_2ca781d6:
+msgid "[_mc_] For science, [flora]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:709 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_5214f25b:
+msgid "[_flora_s_annoyed_] You just want to pee on my squid, don't you?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:711 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_c7b2fc35:
+msgid "[_mc_] I mean, you peed on me, so it's only fair."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:712 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_81d9c321:
+msgid "[_flora_s_afraid_] That did not happen!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:713 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_b8606cfe:
+msgid "[_mc_] What do you mean? I literally poured Pepelepsi on your pu—"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:714 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_e740f978:
+msgid "[_flora_s_embarrassed_] Oh, my god! Be quiet!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:715 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_a32775e7:
+msgid "[_mc_] So, you admit it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:716 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_3b949a62:
+msgid "[_flora_s_sad_] You're enjoying this, aren't you?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:717 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_a030c76e:
+msgid "[_mc_] Just a little..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:718 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_33c26cac:
+msgid "[_flora_s_sad_] Fine, it happened. Just be quiet."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:719 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_b80c8748:
+msgid "[_mc_] Want to do it again some time?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:722 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_f0c9ac63:
+msgid "[_mc_] Would you like me to?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:723 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_e47f2c2a:
+msgid "[_flora_s_afraid_] W-what?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:724 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_451f0c0b:
+msgid "[_mc_] I'm very open-minded, [flora]."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:725 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_6bd9a606:
+msgid "[_mc_] If you want me to pee on your squid, I'll happily oblige."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:726 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_fd84ac98:
+msgid "[_mc_] If that's what makes you excited..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:728 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_1bb66218:
+msgid "[_flora_s_skeptical_] You're disgusting."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:729 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_ba64cba6:
+msgid "[_mc_] That's not a no!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:730 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_e07ed734:
+msgid "[_flora_s_sad_] Let's just find [cuthbert]..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:731 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_02577c9f:
+msgid "[_flora_s_sad_] Where could he possibly be?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:732 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_4a2ef417:
+msgid "[_mc_] I don't know..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:736 #-#-# translate crowdin quest_flora_squid_weapon_fire_axe_57aabc96:
+msgid "This thing is for emergencies. Surely, a thirsty sentient tree qualifies as such?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:743 #-#-# translate crowdin quest_flora_squid_weapon_machete_8e336ee0:
+msgid "Yeah, this is perfect for cutting down trees — sentient or otherwise."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:751 #-#-# translate crowdin quest_flora_squid_ready_9dcccaff:
+msgid "[_flora_s_cringe_] What took you so long?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:752 #-#-# translate crowdin quest_flora_squid_ready_359787fe:
+msgid "[_mc_] I went as fast as I could!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:753 #-#-# translate crowdin quest_flora_squid_ready_606f410a:
+msgid "[_flora_s_annoyed_] Well, did you find a weapon?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:754 #-#-# translate crowdin quest_flora_squid_ready_a24066cb:
+msgid "[_mc_] Yeah, don't worry. I'll protect you, milady!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:755 #-#-# translate crowdin quest_flora_squid_ready_12dc7aeb:
+msgid "[_flora_s_eyeroll_] Dork."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:756 #-#-# translate crowdin quest_flora_squid_ready_c2fcb33a:
+msgid "[_mc_] [lindsey] would've liked that..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:757 #-#-# translate crowdin quest_flora_squid_ready_53eaf3e3:
+msgid "[_flora_s_annoyed_] Do I look like [lindsey] to you?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:758 #-#-# translate crowdin quest_flora_squid_ready_d73cbf22:
+msgid "[_mc_] Not really. She's less moody."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:759 #-#-# translate crowdin quest_flora_squid_ready_98db72fa:
+msgid "[_flora_s_annoyed_] Ugh... let's go!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:768 #-#-# translate crowdin quest_flora_squid_forest_glade_0d9e4e52:
+msgid "Seems like we made it here without getting ambushed by the undergrowth..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:769 #-#-# translate crowdin quest_flora_squid_forest_glade_42510523:
+msgid "At least, not the sentient type."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:771 #-#-# translate crowdin quest_flora_squid_forest_glade_089f199b:
+msgid "[_flora_s_worried_] Oh, god! The stream is so polluted!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:772 #-#-# translate crowdin quest_flora_squid_forest_glade_b72f3d51:
+msgid "[_flora_s_thinking_] Who would do such a thing to nature?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:773 #-#-# translate crowdin quest_flora_squid_forest_glade_cbf1c767:
+msgid "[_mc_] Uh, I don't know... Probably some big corporation..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:774 #-#-# translate crowdin quest_flora_squid_forest_glade_15e83580:
+msgid "[_flora_s_sad_] Come on! Help me look for [cuthbert]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:779 #-#-# translate crowdin quest_flora_squid_forest_glade_ed989bc5:
+msgid "[_mc_] Whoa, there!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:780 #-#-# translate crowdin quest_flora_squid_forest_glade_5d538f15:
+msgid "[_flora_s_afraid_] What? We're not going to find my squid without getting in the water!{space=-15}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:781 #-#-# translate crowdin quest_flora_squid_forest_glade_b881fab6:
+msgid "[_mc_] I mean, sure... but the water isn't exactly clean."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:782 #-#-# translate crowdin quest_flora_squid_forest_glade_a1d08e7f:
+msgid "[_flora_s_embarrassed_] Yeah, so we got to find [cuthbert] before he gets poisoned!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:790 #-#-# translate crowdin quest_flora_squid_forest_glade_0f240219:
+msgid "[_mc_] If you say so..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:797 #-#-# translate crowdin quest_flora_squid_forest_glade_road_left_bde7b384:
+msgid "[flora] is knee-deep in the river. She might drown if I leave her here..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:801 #-#-# translate crowdin quest_flora_squid_forest_glade_flora_e9a208d5:
+msgid "[_flora_] Help me look!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:805 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_eeb3713b:
+msgid "[cuthbert] might very well be in these murky waters. It's hard to know for sure."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:807 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:809 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_57df5be9:
+msgid "All right... might as well jump in."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:815 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_c7b5c53e:
+msgid "Fuck. How am I ever going to find anything here?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:816 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_0ff401cf:
+msgid "I need to comb through the stream."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:817 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:818 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_8867a076:
+msgid "Ugh, the chemicals are burning my skin!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:819 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:820 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_cfe08426:
+msgid "If it gets into my eyes, I might turn into Matt Murdock or some shit...{space=-5}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:821 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:823 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_721cc103:
+msgid "Okay, the bottom part of the river is clear."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:829 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_13aac182:
+msgid "I better make sure nothing happens to her..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:833 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_c64d8a39:
+msgid "Phew! I need to catch my breath..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:834 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a5cbfa99:
+msgid "Man, where's that stupid squid hiding?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:835 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:836 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_549e8195:
+msgid "Time to search the middle section of the river, I guess."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:842 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:843 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_5db672b9:
+msgid "Ew! What is this?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:844 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_3640ad52:
+msgid "It looks like... a partially dissolved mannequin arm?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:845 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_963a5fc0:
+msgid "Hmm... I could use that to..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:846 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_be469c06:
+msgid "Nah, that's too depraved, even for me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:847 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:848 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a89c4331:
+msgid "Come on, [cuthbert]! Where are you hiding?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:849 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:850 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_3b59815c:
+msgid "[_flora_] Eeep!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:851 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_61fae46f:
+msgid "Crap."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:862 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_51f549fe:
+msgid "You look away for one fucking minute..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:863 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_ceaf19ca:
+msgid "[_flora_s_embarrassed_vines_] Help!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:864 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_2442a0a9:
+msgid "Fuck, what do I do?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:865 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_137b781d:
+msgid "I can't just chop at [flora]. She'll get hurt."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:868 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_985e1fc0:
+msgid "Oh, god! It's trying to drag her away again!{w=0.5}{nw}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:869 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_57b52002:
+msgid "I'll have to cut around her!{w=0.5}{nw}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:885 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_9ec00bcc:
+msgid "Ha, take that!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:886 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a20cefa7_4:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:888 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_9477c0af:
+msgid "Oh, fuck. They just keep coming!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:893 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_b9cd4ed2:
+msgid "I think I got them all..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:894 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a20cefa7_5:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:896 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a9e031d6:
+msgid "[_flora_s_vine_fight_face1_vine1_vine2_vine4_] Eeep!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:897 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_bba456df:
+msgid "Oh, crap."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:902 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_7e0a6b88:
+msgid "What the hell?!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:903 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_20fb552f:
+msgid "There's too many!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:904 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_6b0d1def:
+msgid "[_mc_] [flora]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:912 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_05500ff6:
+msgid "[_mc_] Huh?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:918 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_c09a2574:
+msgid "[_flora_s_vine_fight_face1_vine1_vine2_vine4_cuthbert1_] [cuthbert]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:919 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_7e0a6b88_1:
+msgid "What the hell?!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:920 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_9eac836b:
+msgid "Squid out of nowhere!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:925 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_bc8457f7:
+msgid "Huh? [cuthbert] is actually fighting the vines?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:926 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_259f7d08:
+msgid "What is even real anymore?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:931 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_373820d7:
+msgid "[_flora_s_vine_fight_face1_braless_vine1_vine2_vine3_vine4_cuthbert2_] Aaaah! [mc]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:932 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_120f6e75:
+msgid "Right, I need to help her!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:933 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_c7027542:
+msgid "Although... the vines just took her bra off..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:934 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_b6b8ec35:
+msgid "Maybe I'm on the wrong side of this fight?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:935 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_6f3acc6c:
+msgid "I mean, can you really fault someone for wanting a handful of those?{space=-20}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:936 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_e9c05388:
+msgid "Those star-studded milkyway-white squeaky toys..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:937 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_143ff819:
+msgid "Mmm..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:938 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_8e3ec6da:
+msgid "Shit, I really need to stop reading budget erotica."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:939 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a36f95e2:
+msgid "Evil shall not prevail! [cuthbert] isn't standing alone this day!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:944 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_7e2bb8dd:
+msgid "Aha! Like cutting broccoli!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:949 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a1247bda:
+msgid "Look at the little guy grappling with the vines..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:950 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_6a4d70cb:
+msgid "Poseidon would've been proud."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:952 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a20cefa7_6:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:953 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_70d0e17a:
+msgid "Maybe I should stop thinking about Greek gods and bring the garden shears to Mr. Ivy..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:958 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_6d6ad603:
+msgid "Snip-snip — vasectomy at its finest!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:969 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a1c9eeab:
+msgid "[_flora_s_smile_] Oh, my god! [cuthbert], you saved me!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:973 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:977 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_db60422a:
+msgid "[_mc_] Where can I find a squid that loyal?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:978 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_bfaa2b1f:
+msgid "[_flora_s_smile_] You can't! [cuthbert] is one of a kind!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:979 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_6e3d4f71:
+msgid "[_flora_s_smile_] He's a rescue squid from my internship."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:980 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_7a9a78b6:
+msgid "[_mc_] Well, now I'm jealous..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:981 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_d133ed0d:
+msgid "[_flora_s_afraid_] No! Don't say that!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:982 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_d4cb3513:
+msgid "[_mc_] Say what? Jealous?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:983 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_c9e4fbb1:
+msgid "[_mc_] Jealous. Jealous. Jealous. Jealous."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:987 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_74ca9644:
+msgid "[_mc_] Yeah, just ignore my efforts as usual..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:988 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_2c5ddd10:
+msgid "[_flora_s_smile_] Oh, you did fine too. Just not as fine as [cuthbert]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:989 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_faab0e64:
+msgid "[_mc_] Jeez. That's what I get for saving your life, huh?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:990 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_2358d72d:
+msgid "[_flora_s_smile_] I'll throw parade in your honor later."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:991 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_9930ed4b:
+msgid "[_mc_] Great."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:992 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_716f8086:
+msgid "[_flora_s_afraid_] Don't pout! [cuthbert] doesn't like pouters."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:993 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_be69a05c:
+msgid "[_mc_] Well, I don't like judgy squids that—"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:997 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_95c7633a:
+msgid "[_mc_] Are you okay?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:998 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_9f1efa80:
+msgid "[_flora_s_smile_] Yeah, I think so."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:999 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_09cd6c6d:
+msgid "[_mc_] I thought you were about to get dragged off again..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1001 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_b3352698:
+msgid "[_flora_s_smile_] Thanks for the help!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1002 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_c63f121a:
+msgid "[_mc_] Your squid doesn't look all too happy."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1003 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_5459ccb8:
+msgid "[_flora_s_afraid_] He's very protective of me, be careful!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1004 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_71070fee:
+msgid "[_mc_] He doesn't seem all that danger—"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1021 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_776b72a9:
+msgid "[_mc_] Aaah! My eyes!!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1022 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_2dd14a48:
+msgid "[_flora_s_eyeroll_] Well, that was your own fault."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1023 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_37448348:
+msgid "[_mc_] [flora], help me! I can't see!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1025 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_60a052b3:
+msgid "[_flora_s_sarcastic_] Well, well, well... It seems like the roles have changed."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1026 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_5dfe5d94:
+msgid "[_mc_] This is not funny! Help me, please!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1027 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_fe8db027:
+msgid "[_flora_s_annoyed_] Fine. Take my hand and I'll lead you home."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1040 #-#-# translate crowdin quest_flora_squid_shower_c6db425e:
+msgid "[_flora_] Watch your step — here come the stairs."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1041 #-#-# translate crowdin quest_flora_squid_shower_8b6d110e:
+msgid "[_mc_] Thanks for not leaving me in the forest..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1042 #-#-# translate crowdin quest_flora_squid_shower_7d5b029c:
+msgid "[_flora_] Oh, please. I would never do something like that!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1043 #-#-# translate crowdin quest_flora_squid_shower_23f201a7:
+msgid "[_mc_] Well, I remember this one time when I climbed onto the roof and you removed the ladder."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1044 #-#-# translate crowdin quest_flora_squid_shower_e34dbe96:
+msgid "[_flora_] I... have no memory of that."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1045 #-#-# translate crowdin quest_flora_squid_shower_66c773db:
+msgid "[_mc_] Sure you don't."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1046 #-#-# translate crowdin quest_flora_squid_shower_36e4842c:
+msgid "[_flora_] Fine, I remember it. I was annoyed about... something."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1047 #-#-# translate crowdin quest_flora_squid_shower_255120e9:
+msgid "[_mc_] I guess the roles have reversed after all..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1048 #-#-# translate crowdin quest_flora_squid_shower_bb4ddedd:
+msgid "[_flora_] Don't even start with me!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1049 #-#-# translate crowdin quest_flora_squid_shower_0bb15cb3:
+msgid "[_flora_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1050 #-#-# translate crowdin quest_flora_squid_shower_0bb15cb3_1:
+msgid "[_flora_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1051 #-#-# translate crowdin quest_flora_squid_shower_2ce9374c:
+msgid "[_flora_] Here we are."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1052 #-#-# translate crowdin quest_flora_squid_shower_86011eb3:
+msgid "[_mc_] I still can't see anything..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1053 #-#-# translate crowdin quest_flora_squid_shower_03f6a649:
+msgid "[_mc_] Can you turn on the shower for me?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1054 #-#-# translate crowdin quest_flora_squid_shower_e25dcc37:
+msgid "[_flora_] What? Are you not going to take off your clothes first?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1055 #-#-# translate crowdin quest_flora_squid_shower_efa1e137:
+msgid "[_mc_] Can you leave the room, then?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1056 #-#-# translate crowdin quest_flora_squid_shower_2ad9ba0c:
+msgid "[_flora_] Of course!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1057 #-#-# translate crowdin quest_flora_squid_shower_2b35b6fe:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1058 #-#-# translate crowdin quest_flora_squid_shower_49d92c55:
+msgid "[_mc_] You're totally there still, aren't you?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1059 #-#-# translate crowdin quest_flora_squid_shower_3de803a1:
+msgid "[_flora_] Maybe..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1060 #-#-# translate crowdin quest_flora_squid_shower_dda827f9:
+msgid "[_flora_] I think it's only fair since the chili incident."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1061 #-#-# translate crowdin quest_flora_squid_shower_2c07ed72:
+msgid "[_mc_] Well, your funeral."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1065 #-#-# translate crowdin quest_flora_squid_shower_3b59815c:
+msgid "[_flora_] Eeep!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1066 #-#-# translate crowdin quest_flora_squid_shower_21ac2ef6:
+msgid "[_mc_] What's wrong, [flora]? Never seen a dick before?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1067 #-#-# translate crowdin quest_flora_squid_shower_588628da:
+msgid "[_flora_] Not covered in ink! I thought you had some kind of disease..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1068 #-#-# translate crowdin quest_flora_squid_shower_6e539ee8:
+msgid "[_mc_] Ugh... just turn on the shower, please..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1069 #-#-# translate crowdin quest_flora_squid_shower_cba37dd1:
+msgid "[_flora_] Sure thing."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1072 #-#-# translate crowdin quest_flora_squid_shower_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1073 #-#-# translate crowdin quest_flora_squid_shower_ee601bed:
+msgid "Ah! The flow of water finally washing away the smell of the river!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1074 #-#-# translate crowdin quest_flora_squid_shower_76665117:
+msgid "Hopefully, it'll get rid of the ink too—"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1075 #-#-# translate crowdin quest_flora_squid_shower_e4062b23:
+msgid "[_mc_] Hey! Stop pushing me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1076 #-#-# translate crowdin quest_flora_squid_shower_6bb8c1aa:
+msgid "[_flora_] Well, you're in the way..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1077 #-#-# translate crowdin quest_flora_squid_shower_f65046bb:
+msgid "She slides up in front of me, the warm skin of her back pressing against my stomach."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1080 #-#-# translate crowdin quest_flora_squid_shower_cc34f4f1:
+msgid "[_mc_] Couldn't you have waited your turn?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1081 #-#-# translate crowdin quest_flora_squid_shower_c25d37c7:
+msgid "[_flora_] Nope!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1082 #-#-# translate crowdin quest_flora_squid_shower_2b35b6fe_1:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1084 #-#-# translate crowdin quest_flora_squid_shower_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1087 #-#-# translate crowdin quest_flora_squid_shower_c4b4df74:
+msgid "[_flora_] Oh! [withvpunch]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1088 #-#-# translate crowdin quest_flora_squid_shower_e98ff25d:
+msgid "For the first time in my life, it feels right."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1089 #-#-# translate crowdin quest_flora_squid_shower_5b5d01d2:
+msgid "[flora] squirms weakly in my arms, her wet skin sliding beneath my touch."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1090 #-#-# translate crowdin quest_flora_squid_shower_57c4ebad:
+msgid "And then she stops moving."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1091 #-#-# translate crowdin quest_flora_squid_shower_2de88423:
+msgid "It's like we both know this is how it's supposed to be."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1093 #-#-# translate crowdin quest_flora_squid_shower_86fba3f0:
+msgid "[_flora_] Thanks for saving my squid..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1094 #-#-# translate crowdin quest_flora_squid_shower_bc666b09:
+msgid "[_mc_] Anytime."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1095 #-#-# translate crowdin quest_flora_squid_shower_d9bead8a:
+msgid "She turns in my arms to face me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1096 #-#-# translate crowdin quest_flora_squid_shower_cb6f6139:
+msgid "Her wet fingers wipe away the ink from my face, from my eyes."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1103 #-#-# translate crowdin quest_flora_squid_shower_88eaf3bc:
+msgid "I never thought we'd end up in a situation like this..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1104 #-#-# translate crowdin quest_flora_squid_shower_985aeea2:
+msgid "Her perky breasts tight against my chest."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1105 #-#-# translate crowdin quest_flora_squid_shower_bc781b16:
+msgid "[flora] is usually a total brat, but there is a soft feminine side to her as well."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1106 #-#-# translate crowdin quest_flora_squid_shower_9f08e70c:
+msgid "A caring side."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1107 #-#-# translate crowdin quest_flora_squid_shower_678c698c:
+msgid "[_mc_] I'd like to know you."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1108 #-#-# translate crowdin quest_flora_squid_shower_cf071278:
+msgid "[_flora_s_shower_hug_] What do you mean?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1109 #-#-# translate crowdin quest_flora_squid_shower_94bd1103:
+msgid "[_mc_] The other side of you."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1110 #-#-# translate crowdin quest_flora_squid_shower_55c73ba9:
+msgid "[_flora_s_shower_hug_] And what side is that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1111 #-#-# translate crowdin quest_flora_squid_shower_9e4c9ddf:
+msgid "[_mc_] This side... Your gentle side."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1112 #-#-# translate crowdin quest_flora_squid_shower_4153d42a:
+msgid "[_flora_s_shower_hug_] Maybe if you treat me well, I'll let you..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1113 #-#-# translate crowdin quest_flora_squid_shower_06eb03ff:
+msgid "[_mc_] I'll do my best."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1114 #-#-# translate crowdin quest_flora_squid_shower_f563ae0d:
+msgid "[_flora_s_shower_hug_] Try it now."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1115 #-#-# translate crowdin quest_flora_squid_shower_84f16542:
+msgid "[_mc_] Okay..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1119 #-#-# translate crowdin quest_flora_squid_shower_c8668e16:
+msgid "Our lips meet for the first time."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1120 #-#-# translate crowdin quest_flora_squid_shower_d3f165ec:
+msgid "The kiss is much wetter than in my fantasies."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1121 #-#-# translate crowdin quest_flora_squid_shower_4e7d03ba:
+msgid "She has a faint sweet taste, nothing more."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1122 #-#-# translate crowdin quest_flora_squid_shower_5f926f1d:
+msgid "Not at all a venomous acid taste like her words would sometimes suggest."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1123 #-#-# translate crowdin quest_flora_squid_shower_a20cefa7_1:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1125 #-#-# translate crowdin quest_flora_squid_shower_8fc67468:
+msgid "I do like her bratty side in moderation, but this is all new to me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1126 #-#-# translate crowdin quest_flora_squid_shower_f7172b45:
+msgid "At first, it's like a thought in the back of my mind — a craving of sorts.{space=-50}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1127 #-#-# translate crowdin quest_flora_squid_shower_d8d836fc:
+msgid "Then it grows..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1128 #-#-# translate crowdin quest_flora_squid_shower_b027dcbb:
+msgid "I need to have her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1129 #-#-# translate crowdin quest_flora_squid_shower_fe0dcf56:
+msgid "It would be a lie to say it's not a carnal desire, but there's definitely something more..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1130 #-#-# translate crowdin quest_flora_squid_shower_b5470497:
+msgid "Something that has been growing in my chest for years."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1131 #-#-# translate crowdin quest_flora_squid_shower_2dcc3014:
+msgid "A yearning of the heart."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1133 #-#-# translate crowdin quest_flora_squid_shower_a0973780:
+msgid "You never really understand how much you love someone until you're close to losing them."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1134 #-#-# translate crowdin quest_flora_squid_shower_7a3a3f3f:
+msgid "Or in my case, until you push them away, and they stop talking to you...{space=-65}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1135 #-#-# translate crowdin quest_flora_squid_shower_5433a486:
+msgid "And then you spend the rest of your life thinking what an idiot and coward you were."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1136 #-#-# translate crowdin quest_flora_squid_shower_6356726f:
+msgid "To never hold her in my arms, her tender form, skin-to-skin... so much regret."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1137 #-#-# translate crowdin quest_flora_squid_shower_28cf6921:
+msgid "[_flora_s_shower_hug_] Are you crying?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1138 #-#-# translate crowdin quest_flora_squid_shower_4298bd1f:
+msgid "[_mc_] No... it's just the ink..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1139 #-#-# translate crowdin quest_flora_squid_shower_022d05c6:
+msgid "She doesn't know how it felt to see her in the arms of another man."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1140 #-#-# translate crowdin quest_flora_squid_shower_4c0a004c:
+msgid "The pictures of her in a blazing white wedding dress..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1141 #-#-# translate crowdin quest_flora_squid_shower_def802c0:
+msgid "God. It hurts to even think about it."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1142 #-#-# translate crowdin quest_flora_squid_shower_a20cefa7_2:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1143 #-#-# translate crowdin quest_flora_squid_shower_1a248cb7:
+msgid "Don't be a fucking coward, man. Not again."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1144 #-#-# translate crowdin quest_flora_squid_shower_43815b60:
+msgid "But maybe she doesn't want this? Maybe she just likes the intimacy?{space=-20}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1145 #-#-# translate crowdin quest_flora_squid_shower_9d469299:
+msgid "Fuck."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1146 #-#-# translate crowdin quest_flora_squid_shower_3c9f2728:
+msgid "[_mc_] [flora]..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1147 #-#-# translate crowdin quest_flora_squid_shower_b578287c:
+msgid "[_flora_s_shower_hug_] What?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1148 #-#-# translate crowdin quest_flora_squid_shower_3948970b:
+msgid "[_mc_] You need to tell me to stop."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1149 #-#-# translate crowdin quest_flora_squid_shower_e92b8cb5:
+msgid "[_mc_] I'm serious. This is wrong."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1150 #-#-# translate crowdin quest_flora_squid_shower_6289c713:
+msgid "[_flora_s_shower_hug_] Stop what?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1151 #-#-# translate crowdin quest_flora_squid_shower_11586c09:
+msgid "[_mc_] What I'm about to do..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1163 #-#-# translate crowdin quest_flora_squid_shower_bb157fc9:
+msgid "[_flora_s_shower_sex_anticipation_] Oh!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1164 #-#-# translate crowdin quest_flora_squid_shower_0933c807:
+msgid "[_flora_s_shower_sex_anticipation_] We can't do this, you know..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1165 #-#-# translate crowdin quest_flora_squid_shower_67cfdb85:
+msgid "[_mc_] I know. Tell me to stop."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1166 #-#-# translate crowdin quest_flora_squid_shower_8c85f4ee:
+msgid "[_flora_s_shower_sex_anticipation_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1167 #-#-# translate crowdin quest_flora_squid_shower_c2d501b7:
+msgid "[_mc_] [flora], please..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1168 #-#-# translate crowdin quest_flora_squid_shower_3434e3bf:
+msgid "[_flora_s_shower_sex_anticipation_] Nope!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1169 #-#-# translate crowdin quest_flora_squid_shower_1fcefdfe:
+msgid "[_mc_] Oh, god."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1170 #-#-# translate crowdin quest_flora_squid_shower_4c6a9608:
+msgid "Instead of saying stop, she takes my hand and leans against the wall for support."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1171 #-#-# translate crowdin quest_flora_squid_shower_bf68f8cd:
+msgid "And it feels right, even though it's not."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1176 #-#-# translate crowdin quest_flora_squid_shower_3adb4215:
+msgid "Our palms meet and our fingers intertwine."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1177 #-#-# translate crowdin quest_flora_squid_shower_3d7791b5:
+msgid "We're going to hell together."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1178 #-#-# translate crowdin quest_flora_squid_shower_b2e4ec0b:
+msgid "[_flora_s_shower_sex_penetration1_] Oww, be careful!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1179 #-#-# translate crowdin quest_flora_squid_shower_9c31ec99:
+msgid "[_mc_] Sorry!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1181 #-#-# translate crowdin quest_flora_squid_shower_87a07c48:
+msgid "[flora] cries out as I part her nether lips and push inside her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1182 #-#-# translate crowdin quest_flora_squid_shower_62be6484:
+msgid "She's so soft, so sensitive..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1183 #-#-# translate crowdin quest_flora_squid_shower_15a27a73:
+msgid "Not at all the tough exterior she puts on."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1184 #-#-# translate crowdin quest_flora_squid_shower_bfd33948:
+msgid "I really do need to be gentle with her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1186 #-#-# translate crowdin quest_flora_squid_shower_4803e9c1:
+msgid "Her pussy finally relaxes a bit, allowing me to push deeper."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1187 #-#-# translate crowdin quest_flora_squid_shower_569dd50e:
+msgid "[flora] seems nervous, but no longer in pain."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1188 #-#-# translate crowdin quest_flora_squid_shower_8ea01587:
+msgid "Maybe she's regretting it already..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1189 #-#-# translate crowdin quest_flora_squid_shower_95c7633a:
+msgid "[_mc_] Are you okay?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1190 #-#-# translate crowdin quest_flora_squid_shower_21926960:
+msgid "[_flora_s_shower_sex_penetration3_] Y-yeah..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1191 #-#-# translate crowdin quest_flora_squid_shower_686c84e1:
+msgid "[_mc_] You can still tell me to stop..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1192 #-#-# translate crowdin quest_flora_squid_shower_23ffae89:
+msgid "[_flora_s_shower_sex_penetration3_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1193 #-#-# translate crowdin quest_flora_squid_shower_1d365f21:
+msgid "She says nothing."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1194 #-#-# translate crowdin quest_flora_squid_shower_ec38d200:
+msgid "And maybe she's waiting for me to back out... but I've been waiting years for this."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1195 #-#-# translate crowdin quest_flora_squid_shower_43f81eba:
+msgid "I need to make her mine, even if it's just once."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1215 #-#-# translate crowdin quest_flora_squid_shower_55434d94:
+msgid "Her thighs and pussy squeeze me hard."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1216 #-#-# translate crowdin quest_flora_squid_shower_c71575ff:
+msgid "Goosebumps explode over my arms and back."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1217 #-#-# translate crowdin quest_flora_squid_shower_8f6ee95b:
+msgid "The heat of her pussy is like nothing I've ever felt before."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1251 #-#-# translate crowdin quest_flora_squid_shower_df5ae067:
+msgid "[_flora_s_shower_sex_penetration2_] Oh, my god!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1252 #-#-# translate crowdin quest_flora_squid_shower_6bcb4df8:
+msgid "[_mc_] Shhh! [jo] will hear you!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1254 #-#-# translate crowdin quest_flora_squid_shower_83239467:
+msgid "[_flora_s_shower_sex_penetration6_] Sorry..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1295 #-#-# translate crowdin quest_flora_squid_shower_07a2aac4:
+msgid "God, she feels so good!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1298 #-#-# translate crowdin quest_flora_squid_shower_cf93d0cf:
+msgid "[_flora_s_shower_sex_penetration7_] Don't stop!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1299 #-#-# translate crowdin quest_flora_squid_shower_f7b3b251:
+msgid "[_mc_] I won't... I've waited thirty years for this..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1301 #-#-# translate crowdin quest_flora_squid_shower_f9a3479a:
+msgid "[_flora_s_shower_sex_penetration3_] W-what?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1302 #-#-# translate crowdin quest_flora_squid_shower_cc5b4594:
+msgid "[_mc_] Uh, nothing!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1365 #-#-# translate crowdin quest_flora_squid_shower_05d52e3e:
+msgid "I just need to keep my mouth shut and enjoy the moment..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1366 #-#-# translate crowdin quest_flora_squid_shower_e2f8f75d:
+msgid "Enjoy every inch of her pussy around my cock."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1367 #-#-# translate crowdin quest_flora_squid_shower_c2399fdc:
+msgid "Enjoy every spasm and moan."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1368 #-#-# translate crowdin quest_flora_squid_shower_041834c3:
+msgid "Take it all in."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1369 #-#-# translate crowdin quest_flora_squid_shower_aeee3e60:
+msgid "Take it all."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1370 #-#-# translate crowdin quest_flora_squid_shower_fb0c586f:
+msgid "Take it!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1402 #-#-# translate crowdin quest_flora_squid_shower_aed277af:
+msgid "[_flora_s_shower_sex_flora_cum1_] Oh, fuck!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1404 #-#-# translate crowdin quest_flora_squid_shower_a843a6c3:
+msgid "With a gasp, the orgasm rips through her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1405 #-#-# translate crowdin quest_flora_squid_shower_e2e60a0e:
+msgid "Every muscle in her body goes rigid, and then starts spasming."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1406 #-#-# translate crowdin quest_flora_squid_shower_e2726f5a:
+msgid "The muscles of her pussy expel me as her eyes roll back."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1407 #-#-# translate crowdin quest_flora_squid_shower_21333553:
+msgid "And the blush of pleasure on her freckled cheeks sends me over the edge."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1413 #-#-# translate crowdin quest_flora_squid_shower_6b4d2dd8:
+msgid "[flora] slumps against the wall, in a post-orgasmic haze."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1414 #-#-# translate crowdin quest_flora_squid_shower_6be58b6a:
+msgid "Her eyes still glazed over from pure bliss."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1415 #-#-# translate crowdin quest_flora_squid_shower_a20cefa7_3:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1416 #-#-# translate crowdin quest_flora_squid_shower_4718fc40:
+msgid "Fuck. What have we done?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1431 #-#-# translate crowdin quest_flora_squid_shower_91afa17e:
+msgid "[_flora_s_blush_] What's wrong?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1433 #-#-# translate crowdin quest_flora_squid_shower_9927e10b:
+msgid "[_mc_] Nothing..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1434 #-#-# translate crowdin quest_flora_squid_shower_ed11ea93:
+msgid "[_flora_s_worried_] Do you regret it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1435 #-#-# translate crowdin quest_flora_squid_shower_4a2ef417:
+msgid "[_mc_] I don't know..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1436 #-#-# translate crowdin quest_flora_squid_shower_cfaae932:
+msgid "[_mc_] Do you?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1437 #-#-# translate crowdin quest_flora_squid_shower_01d42152:
+msgid "[_flora_s_thinking_] I don't know either..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1439 #-#-# translate crowdin quest_flora_squid_shower_4ef358c9:
+msgid "[_flora_s_thinking_] It felt right in the moment."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1440 #-#-# translate crowdin quest_flora_squid_shower_69c25b65:
+msgid "[_mc_] Yeah..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1441 #-#-# translate crowdin quest_flora_squid_shower_ad71eeaf:
+msgid "[_flora_s_worried_] We can't tell anyone about this."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1442 #-#-# translate crowdin quest_flora_squid_shower_163648e2:
+msgid "[_flora_s_worried_] I'm serious, [mc]."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1443 #-#-# translate crowdin quest_flora_squid_shower_3ff8ac55:
+msgid "[_mc_] I know. We won't."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1444 #-#-# translate crowdin quest_flora_squid_shower_e4ed8ccc:
+msgid "[_flora_s_thinking_] I have to go..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1445 #-#-# translate crowdin quest_flora_squid_shower_675c8f0c:
+msgid "[_mc_] Where?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1446 #-#-# translate crowdin quest_flora_squid_shower_65678d5d:
+msgid "[_flora_s_thinking_] To think."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1447 #-#-# translate crowdin quest_flora_squid_shower_84f16542_1:
+msgid "[_mc_] Okay..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1456 #-#-# translate crowdin quest_flora_squid_shower_0409d0bf:
+msgid "How can we live under the same roof after this?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1457 #-#-# translate crowdin quest_flora_squid_shower_d4de20c4:
+msgid "How are we going to stop it from happening again?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1458 #-#-# translate crowdin quest_flora_squid_shower_67a34ae1:
+msgid "Oh, man... Things just got a whole lot more complicated."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1464 #-#-# translate crowdin quest_flora_squid_shower_eec537bc:
+msgid "[_flora_] Hey! [withvpunch]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1465 #-#-# translate crowdin quest_flora_squid_shower_d4404138:
+msgid "[_mc_] Sorry, blind man here."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1466 #-#-# translate crowdin quest_flora_squid_shower_0bb15cb3_2:
+msgid "[_flora_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1467 #-#-# translate crowdin quest_flora_squid_shower_5dde47ab:
+msgid "[_flora_] Your hand is still on my butt..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1468 #-#-# translate crowdin quest_flora_squid_shower_c9ae8486:
+msgid "[_mc_] So it seems."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1469 #-#-# translate crowdin quest_flora_squid_shower_0bb15cb3_3:
+msgid "[_flora_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1470 #-#-# translate crowdin quest_flora_squid_shower_2b35b6fe_2:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1471 #-#-# translate crowdin quest_flora_squid_shower_1b4b0dbe:
+msgid "[_mc_] You haven't told me to remove it yet..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1472 #-#-# translate crowdin quest_flora_squid_shower_4c9b07d0:
+msgid "[_flora_] So it seems."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1473 #-#-# translate crowdin quest_flora_squid_shower_c3dcb0b5:
+msgid "[_mc_] You're a brat."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1474 #-#-# translate crowdin quest_flora_squid_shower_de2a66b1:
+msgid "[_flora_] You're an idiot."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1475 #-#-# translate crowdin quest_flora_squid_shower_2b35b6fe_3:
+msgid "[_mc_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1476 #-#-# translate crowdin quest_flora_squid_shower_0bb15cb3_4:
+msgid "[_flora_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1477 #-#-# translate crowdin quest_flora_squid_shower_2cb688df:
+msgid "[_mc_] You have a nice butt."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1479 #-#-# translate crowdin quest_flora_squid_shower_61d356f1:
+msgid "[_flora_] Shut up."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1480 #-#-# translate crowdin quest_flora_squid_shower_02a1e172:
+msgid "God, the soft curve of her ass in my hand..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1481 #-#-# translate crowdin quest_flora_squid_shower_2ead3e1e:
+msgid "It feels so wrong to touch her like this... but she's okay with it..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1483 #-#-# translate crowdin quest_flora_squid_shower_d3fc4e53:
+msgid "[_flora_] Move back."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1484 #-#-# translate crowdin quest_flora_squid_shower_e96119ca:
+msgid "[_flora_] And wipe that grin off your face."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1485 #-#-# translate crowdin quest_flora_squid_shower_fc551136:
+msgid "[_mc_] This is Apollo 11; we've lost contact with the moon! I repeat; we've lost contact with the moon!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1486 #-#-# translate crowdin quest_flora_squid_shower_627b6954:
+msgid "[_flora_] Just be quiet for once in your life..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1487 #-#-# translate crowdin quest_flora_squid_shower_490c3758:
+msgid "[_mc_] I'm afraid I can't do—"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1488 #-#-# translate crowdin quest_flora_squid_shower_e70ec1d1:
+msgid "[_mc_] [flora]!!!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1498 #-#-# translate crowdin quest_flora_squid_shower_f1fa67c9:
+msgid "This is one of those feelings where you just get floored in an instant.{space=-20}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1499 #-#-# translate crowdin quest_flora_squid_shower_62eb385f:
+msgid "[flora]'s lips wrapped around the tip of my dick..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1501 #-#-# translate crowdin quest_flora_squid_shower_7eac5081:
+msgid "Her mischievous eyes looking up at me..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1502 #-#-# translate crowdin quest_flora_squid_shower_0888c96e:
+msgid "Fuck me, I can't!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1503 #-#-# translate crowdin quest_flora_squid_shower_683a7764:
+msgid "[_mc_] [flora]! W-what, hnngh.... are you doing?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1504 #-#-# translate crowdin quest_flora_squid_shower_fa9494d7:
+msgid "[_flora_s_shower_blowjob_] You had some ink in this hole..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1505 #-#-# translate crowdin quest_flora_squid_shower_0f1b4d84:
+msgid "[_flora_s_shower_blowjob_] I have to suck it out like venom."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1506 #-#-# translate crowdin quest_flora_squid_shower_d24e6ee6:
+msgid "[_mc_] Oh, fuck!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1507 #-#-# translate crowdin quest_flora_squid_shower_64979cd0:
+msgid "The suction of her mouth increases."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1508 #-#-# translate crowdin quest_flora_squid_shower_bf1c6265:
+msgid "It's like my entire soul and spirit is about to get sucked out of my dick.{space=-50}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1509 #-#-# translate crowdin quest_flora_squid_shower_2d6d4815:
+msgid "Stars dance before my eyes as the wet heat of her mouth envelops me.{space=-65}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1511 #-#-# translate crowdin quest_flora_squid_shower_6d52e20a:
+msgid "How did we end up here?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1512 #-#-# translate crowdin quest_flora_squid_shower_e8a687d7:
+msgid "Did I corrupt her? Did she corrupt me?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1513 #-#-# translate crowdin quest_flora_squid_shower_34e65e99:
+msgid "Or was it always a flaw on both our parts?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1514 #-#-# translate crowdin quest_flora_squid_shower_1c48933f:
+msgid "Fuck. I can't think straight."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1536 #-#-# translate crowdin quest_flora_squid_shower_4ae5c8f3:
+msgid "[_flora_s_shower_blowjob_] Stay still... I need to get all the ink out."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1537 #-#-# translate crowdin quest_flora_squid_shower_ac82d8dd:
+msgid "[_mc_] [flora], you're killing me..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1550 #-#-# translate crowdin quest_flora_squid_shower_bb157fc9_1:
+msgid "[_flora_s_shower_sex_anticipation_] Oh!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1551 #-#-# translate crowdin quest_flora_squid_shower_90d94c50:
+msgid "In a daze of pleasure and guilt, I pull her up and push her against the shower wall."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1552 #-#-# translate crowdin quest_flora_squid_shower_ff408260:
+msgid "Her mouth has made me hard. This is her fault."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1553 #-#-# translate crowdin quest_flora_squid_shower_10d9c5e6:
+msgid "Little devilish vixen."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1554 #-#-# translate crowdin quest_flora_squid_shower_06d01a81:
+msgid "She giggles, acting all innocent... as if she doesn't know what she's doing to me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1555 #-#-# translate crowdin quest_flora_squid_shower_a00c92fa:
+msgid "Years and years of teasing has finally unleashed a beast in me."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1556 #-#-# translate crowdin quest_flora_squid_shower_e1c9b4d7:
+msgid "[_flora_s_shower_sex_anticipation_] What are you going to do with that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1557 #-#-# translate crowdin quest_flora_squid_shower_6e90edb6:
+msgid "Only a grunt of frustration passes over my lips."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1558 #-#-# translate crowdin quest_flora_squid_shower_454e62e2:
+msgid "This is so wrong, but I can't help myself."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1559 #-#-# translate crowdin quest_flora_squid_shower_744fe0d2:
+msgid "[_mc_] You little succubus..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1563 #-#-# translate crowdin quest_flora_squid_shower_1828b71e:
+msgid "[_flora_s_shower_sex_penetration1_] Owie!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1564 #-#-# translate crowdin quest_flora_squid_shower_bde08c86:
+msgid "In a flash, my fingers catch her nipple."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1565 #-#-# translate crowdin quest_flora_squid_shower_6f2904fd:
+msgid "And just like that, my cock split her open."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1567 #-#-# translate crowdin quest_flora_squid_shower_84e6ea5d:
+msgid "[_mc_] Isn't this what you wanted?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1568 #-#-# translate crowdin quest_flora_squid_shower_936b1440:
+msgid "The heat of her vagina almost knocks me out; only sheer will keeps me standing."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1569 #-#-# translate crowdin quest_flora_squid_shower_1477bc61:
+msgid "She doesn't answer, but her hand slips between her legs, her fingers teasing her clitoris."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1570 #-#-# translate crowdin quest_flora_squid_shower_5c8f77a3:
+msgid "What a fucked up pair we are..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1572 #-#-# translate crowdin quest_flora_squid_shower_5df47470:
+msgid "To do this in the shower, with only thin walls separating us from [jo]."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1573 #-#-# translate crowdin quest_flora_squid_shower_1c78a610:
+msgid "What would she think if she saw us now?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1576 #-#-# translate crowdin quest_flora_squid_shower_96c4d71e:
+msgid "Guilt flickers through me, and I can see it in [flora]'s face — she's feeling it too."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1577 #-#-# translate crowdin quest_flora_squid_shower_75455d3e:
+msgid "The sheer wrongness of what's happening."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1578 #-#-# translate crowdin quest_flora_squid_shower_002655a0:
+msgid "Still I push myself deeper inside her tight pussy."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1579 #-#-# translate crowdin quest_flora_squid_shower_967a511a:
+msgid "Still she keeps rubbing herself."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1581 #-#-# translate crowdin quest_flora_squid_shower_b580cd68:
+msgid "She gasps as I bottom out inside her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1582 #-#-# translate crowdin quest_flora_squid_shower_36f1d5e0:
+msgid "My fingers keep playing with her nipple."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1583 #-#-# translate crowdin quest_flora_squid_shower_4d4bcb3c:
+msgid "It's so soft, and somehow still firm."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1584 #-#-# translate crowdin quest_flora_squid_shower_2e2c614c:
+msgid "Deliciously erotic to the touch."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1635 #-#-# translate crowdin quest_flora_squid_shower_11b6bc68:
+msgid "[_mc_] God, you're hot!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1636 #-#-# translate crowdin quest_flora_squid_shower_ccaba1cf:
+msgid "[_flora_s_shower_sex_penetration2_] Ohhh!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1637 #-#-# translate crowdin quest_flora_squid_shower_e45d0682:
+msgid "Her moans are loud enough to cut through the rushing water, but I don't care."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1638 #-#-# translate crowdin quest_flora_squid_shower_4f83af4a:
+msgid "I want [flora] to cry out in pleasure."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1716 #-#-# translate crowdin quest_flora_squid_shower_af0d7f31:
+msgid "This might be a once in a lifetime thing."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1718 #-#-# translate crowdin quest_flora_squid_shower_2de2733d:
+msgid "Maybe we'll both pay for it later, but this moment belongs to us alone.{space=-40}"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1719 #-#-# translate crowdin quest_flora_squid_shower_aef2239f:
+msgid "And I'm going to take it all in."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1720 #-#-# translate crowdin quest_flora_squid_shower_aeee3e60_1:
+msgid "Take it all."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1721 #-#-# translate crowdin quest_flora_squid_shower_fb0c586f_1:
+msgid "Take it!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1772 #-#-# translate crowdin quest_flora_squid_shower_ecdec33e:
+msgid "[_flora_s_shower_sex_flora_cum1_] Oh, my god!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1774 #-#-# translate crowdin quest_flora_squid_shower_e39a3b5d:
+msgid "A shiver runs through her body as she goes rigid."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1775 #-#-# translate crowdin quest_flora_squid_shower_64826fc6:
+msgid "Her pussy tightens around my dick, squeezing it with every wave of her orgasm."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1776 #-#-# translate crowdin quest_flora_squid_shower_8c1ce37b:
+msgid "She's gripping my dick so tightly, I almost can't pull it out..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1777 #-#-# translate crowdin quest_flora_squid_shower_415a1a68:
+msgid "But I can't cum inside her!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1783 #-#-# translate crowdin quest_flora_squid_shower_696fb6d0:
+msgid "With a plop, my dick dislodges and sprays my load all over her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1784 #-#-# translate crowdin quest_flora_squid_shower_fe30709a:
+msgid "That was way too fucking close..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1785 #-#-# translate crowdin quest_flora_squid_shower_d726db50:
+msgid "Exhausted, [flora] slumps against the wall, her brain seemingly gone with her orgasm."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1786 #-#-# translate crowdin quest_flora_squid_shower_a20cefa7_4:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1787 #-#-# translate crowdin quest_flora_squid_shower_4718fc40_1:
+msgid "Fuck. What have we done?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1794 #-#-# translate crowdin quest_flora_squid_shower_9b29d026:
+msgid "I gather up her limp form in my arms and wrap her in a towel."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1795 #-#-# translate crowdin quest_flora_squid_shower_44224aec:
+msgid "Whatever the fuck just happened can never be spoken about again."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1796 #-#-# translate crowdin quest_flora_squid_shower_5fb1e7e6:
+msgid "I lost control for a moment, and now..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1797 #-#-# translate crowdin quest_flora_squid_shower_1b0774a1:
+msgid "Well, if [flora] decides this was a mistake, maybe I'll lose her again."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1798 #-#-# translate crowdin quest_flora_squid_shower_ce450356:
+msgid "But at least I'll have the memory of feeling her tight pussy wrapped around my dick..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1799 #-#-# translate crowdin quest_flora_squid_shower_85a5993b:
+msgid "It's a better outcome than last time... I hope."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1812 #-#-# translate crowdin quest_flora_squid_shower_d40c5f3a:
+msgid "I'm not sure what to do in a situation like this..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1813 #-#-# translate crowdin quest_flora_squid_shower_d2c45bf2:
+msgid "Maybe it's just innocent?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1814 #-#-# translate crowdin quest_flora_squid_shower_f161239d:
+msgid "Two people showering together. Nothing strange about that."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1815 #-#-# translate crowdin quest_flora_squid_shower_874df59d:
+msgid "Just saving a squid..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1816 #-#-# translate crowdin quest_flora_squid_shower_86ea3b9f:
+msgid "Saving water as well."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1818 #-#-# translate crowdin quest_flora_squid_shower_15327d8f:
+msgid "Yeah, this is good. This is safe."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:40
+msgid "?not quest.jacklyn_statement['ending']@|\"Well, I did go with her, but\n"
+"nothing happened.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:40
+msgid "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_pegging}|\"Are you sure about that?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:40
+msgid "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_anal}|\"Are you sure about that?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:154
+msgid "What time is it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:154
+msgid "Sleeping time"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:154
+msgid "Brooding time"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:195
+msgid "?quest.flora_cooking_chilli.finished and quest.flora_cooking_chilli['distraction_method'] and not ('love11' in game.unlocked_stat_perks or 'lust11' in game.unlocked_stat_perks)@|{image=flora_squid_pepelepsi}|\"Did you have another Pepelepsi-moment?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:195
+msgid "\"Why are you wet?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:195
+msgid "\"Are you turning into a slug?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:195
+msgid "?quest.flora_bonsai.finished and quest.flora_bonsai['hug']@|{image=flora_squid_hug}|\"You look like you need\n"
+"another hug.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:346
+msgid "\"Sorry, I'm not risking that.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:346
+msgid "\"Fine... let's go.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:399
+msgid "\"You're not that old!\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:399
+msgid "\"Sorry, but have you seen a squid?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:467
+msgid "\"Have you looked in your pants?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:467
+msgid "\"Maybe we should expand our horizons?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:467
+msgid "\"[mrsl] is getting hotter every day, don't you think?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:668
+msgid "\"In [lindsey]'s water bottle.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:668
+msgid "\"In the showers.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:668
+msgid "\"In the urinal.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:806
+msgid "Search"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:806
+msgid "Watch over [flora]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:972
+msgid "\"Where can I find a squid that loyal?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:972
+msgid "\"Yeah, just ignore my efforts as usual...\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:972
+msgid "\"Are you okay?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1083
+msgid "?flora.love>=25@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|Pull her into a hug"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1083
+msgid "?flora.lust>=10@[flora.lust]/10|{image=flora contact_icon}|{image=stats lust_3}|Touch her ass"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1083
+msgid "Do nothing"
+msgstr ""
+
