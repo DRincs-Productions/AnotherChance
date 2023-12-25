@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/items/isabelle_box.po\n"
+"X-Crowdin-File-ID: 11530\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:08\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/isabelle_box.rpy:17 #-#-# translate crowdin isabelle_box_interact_d98683b4:
+msgid "Hey!"
+msgstr ""
+
+# game/1000_base_game/game/items/isabelle_box.rpy:18 #-#-# translate crowdin isabelle_box_interact_8e9b38a6:
+msgid "Wait!"
+msgstr ""
+
+# game/1000_base_game/game/items/isabelle_box.rpy:19 #-#-# translate crowdin isabelle_box_interact_78b9e9e9:
+msgid "I've got a new complaint."
+msgstr ""
+
+# game/1000_base_game/game/items/isabelle_box.rpy:20 #-#-# translate crowdin isabelle_box_interact_777b5a87:
+msgid "Yeah, you guessed it. It's out of chocolate."
+msgstr ""
+
