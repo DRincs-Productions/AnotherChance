@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2023-12-25 10:07\n"
+"PO-Revision-Date: 2023-12-25 21:48\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/book_of_the_dammed.rpy:18 #-#-# translate crowdin book_of_the_dammed_interact_3570fe06:
 msgid "{i}\"Contains foul language and dangerous information. Read with extreme caution.\"{/}"
-msgstr ""
+msgstr "{i}“Містить нецензурну лексику та небезпечну інформацію. Читайте з особливою обережністю.”{/}"
 
 # game/1000_base_game/game/items/book_of_the_dammed.rpy:19 #-#-# translate crowdin book_of_the_dammed_interact_71b3349f:
 msgid "Why is there a disclaimer on the first page of this book?"
-msgstr ""
+msgstr "Чому на першій сторінці цієї книги є дисклеймер?"
 
