@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/home/bedroom/int_courage_badge.po\n"
+"X-Crowdin-File-ID: 11812\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:10\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_courage_badge.rpy:26 #-#-# translate crowdin home_bedroom_courage_badge_interact_040d45b5:
+msgid "No more anxiety. No more fear. No more alone."
+msgstr ""
+
+# game/1000_base_game/game/locations/home/bedroom/int_courage_badge.rpy:27 #-#-# translate crowdin home_bedroom_courage_badge_interact_8ac435e5:
+msgid "Well, one can dream."
+msgstr ""
+
