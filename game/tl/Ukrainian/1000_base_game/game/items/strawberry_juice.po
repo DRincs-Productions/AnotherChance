@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2023-12-25 10:10\n"
+"PO-Revision-Date: 2023-12-25 21:48\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/strawberry_juice.rpy:29 #-#-# translate crowdin int_strawberry_juice_c40c1153:
 msgid "Rolls over your tongue like ruby silk. The only thing better is licking a pussy, or so I've heard."
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/1000_base_game/game/items/strawberry_juice.rpy:43 #-#-# translate crowdin consume_strawberry_juice_maxine_845a5804:
 msgid "{i}*Cough, cough*{/}"
-msgstr ""
+msgstr "{i}*Кашель, кашель*{/}"
 
 # game/1000_base_game/game/items/strawberry_juice.rpy:44 #-#-# translate crowdin consume_strawberry_juice_maxine_5d1a8c04:
 msgid "What the hell?"
@@ -30,5 +30,5 @@ msgstr ""
 
 # game/1000_base_game/game/items/strawberry_juice.rpy:45 #-#-# translate crowdin consume_strawberry_juice_maxine_d43fba44:
 msgid "How did this piece of paper end up in my drink?"
-msgstr ""
+msgstr "Як цей папірець опинився у моєму напої?"
 
