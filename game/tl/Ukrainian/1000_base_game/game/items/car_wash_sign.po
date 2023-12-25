@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2023-12-25 10:08\n"
+"PO-Revision-Date: 2023-12-25 21:48\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/car_wash_sign.rpy:17 #-#-# translate crowdin car_wash_sign_interact_853125c1:
 msgid "{i}\"Welcome to Newfall High's car wash fundraiser!\"{/}"
-msgstr ""
+msgstr "{i}“Ласкаво просимо на збір коштів для автомийки школи Ньюфолл!”{/}"
 
 # game/1000_base_game/game/items/car_wash_sign.rpy:18 #-#-# translate crowdin car_wash_sign_interact_d55c8450:
 msgid "{i}\"Roll up your windows and prepare to get wet!\"{/}"
-msgstr ""
+msgstr "{i}“Опустіть вікна і приготуйтеся намокнути!”{/}"
 
