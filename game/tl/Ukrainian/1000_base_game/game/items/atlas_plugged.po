@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2023-12-25 10:07\n"
+"PO-Revision-Date: 2023-12-25 21:48\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/atlas_plugged.rpy:15 #-#-# translate crowdin int_atlas_plugged_d94a575c:
 msgid "{i}\"Atlas stood under the heavy sky, sweat dotting his brow and broad shoulders, the massive plug firmly lodged in his—\"{/}"
-msgstr ""
+msgstr "{i}“Атлас стояв під важким небом, піт заливав його чоло і широкі плечі, масивний штекер міцно застряг у його—”{/}"
 
 # game/1000_base_game/game/items/atlas_plugged.rpy:16 #-#-# translate crowdin int_atlas_plugged_ed3745d7:
 msgid "All right! That's... that's enough of that!"
-msgstr ""
+msgstr "Все... все, досить!"
 
