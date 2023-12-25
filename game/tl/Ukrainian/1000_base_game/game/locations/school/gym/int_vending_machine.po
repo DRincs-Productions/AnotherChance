@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/gym/int_vending_machine.po\n"
+"X-Crowdin-File-ID: 12360\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:15\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/gym/int_vending_machine.rpy:28 #-#-# translate crowdin school_gym_vending_machine_interact_608e1f48:
+msgid "You gotta make sure to binge three sodas and two bags of chips after exercising."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/gym/int_vending_machine.rpy:29 #-#-# translate crowdin school_gym_vending_machine_interact_678eab36:
+msgid "How else are you going to stay ahead of the fat-burning curve?"
+msgstr ""
+
