@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/cafeteria/int_vending_left.po\n"
+"X-Crowdin-File-ID: 12030\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:12\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_vending_left.rpy:32 #-#-# translate crowdin school_cafeteria_vending_left_interact_two_cec7f1e2:
+msgid "Breaking the glass would be the easiest way to kill half the school and get the other half sick."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/cafeteria/int_vending_left.rpy:33 #-#-# translate crowdin school_cafeteria_vending_left_interact_two_e35cb122:
+msgid "Luckily, the glass is reinforced and bulletproof."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/cafeteria/int_vending_left.rpy:34 #-#-# translate crowdin school_cafeteria_vending_left_interact_two_2ba32fa1:
+msgid "However, you can put coins in if you feel like starting an epidemic."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/cafeteria/int_vending_left.rpy:38 #-#-# translate crowdin school_cafeteria_vending_left_interact_ff046c30:
+msgid "The neglected vending machine. No one's bought a sandwich in years. A bioweapon that breaks at least three Geneva conventions."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/cafeteria/int_vending_left.rpy:45 #-#-# translate crowdin vending_machine_letter_use_28902a0b:
+msgid "The machine ate the letter..."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/cafeteria/int_vending_left.rpy:48 #-#-# translate crowdin vending_machine_letter_use_bf509903:
+msgid "The slot is too tight for my [item.title_lower]."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/cafeteria/int_vending_left.rpy:49 #-#-# translate crowdin vending_machine_letter_use_3b0a5492:
+msgid "In a weird way, that inflates my ego."
+msgstr ""
+
