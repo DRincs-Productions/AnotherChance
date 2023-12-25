@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/home/kitchen/int_d3.po\n"
+"X-Crowdin-File-ID: 11896\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:11\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:53 #-#-# translate crowdin home_kitchen_d3_interact_flora_bonsai_d6cedc54:
+msgid "I already got enough items. I should give them to [flora]."
+msgstr ""
+
+# game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:59 #-#-# translate crowdin home_kitchen_d3_interact_flora_bonsai_c1c15586:
+msgid "You picked up a cooking item. Is it the right one? No one knows."
+msgstr ""
+
+# game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:64 #-#-# translate crowdin home_kitchen_d3_interact_information_da6e0357:
+msgid "This drawer contains a measuring beaker, and a bunch of shot glasses."
+msgstr ""
+
+# game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:65 #-#-# translate crowdin home_kitchen_d3_interact_information_481651be:
+msgid "Apart from my ego, this is where all the fragile things are."
+msgstr ""
+
+# game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:74 #-#-# translate crowdin flora_quest_flora_cooking_chilli_d3_distraction_7a21bb09:
+msgid "I can probably use something in here to make a distraction."
+msgstr ""
+
+# game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:76 #-#-# translate crowdin flora_quest_flora_cooking_chilli_d3_distraction_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:75
+msgid "Measuring Beaker"
+msgstr ""
+
+# game/1000_base_game/game/locations/home/kitchen/int_d3.rpy:75
+msgid "Shot Glass"
+msgstr ""
+
