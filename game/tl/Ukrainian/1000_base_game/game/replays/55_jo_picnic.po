@@ -1,0 +1,497 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/replays/55_jo_picnic.po\n"
+"X-Crowdin-File-ID: 12690\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:17\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/55_jo_picnic.rpy:6 #-#-# translate crowdin replay_jo_picnic_f12695fb:
+msgid "[_mc_] I cleaned my room. Everything's sparkling, so you don't have to lift a finger."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:7 #-#-# translate crowdin replay_jo_picnic_f1a5e99f:
+msgid "[_jo_s_picnic_smile_holding_wine_] Wow! Color me impressed. I can't remember the last time you did that.{space=-50}"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:8 #-#-# translate crowdin replay_jo_picnic_bddc7ac6:
+msgid "[_mc_] Probably never. I've always taken everything for granted."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:9 #-#-# translate crowdin replay_jo_picnic_5d8297e4:
+msgid "[_mc_] But not anymore. I'll try to do better. I want to turn things around."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:10 #-#-# translate crowdin replay_jo_picnic_e5d04aaf:
+msgid "She doesn't know that I've already seen the future that awaits me\n"
+"if I don't..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:11 #-#-# translate crowdin replay_jo_picnic_7d033f0b:
+msgid "[_jo_s_picnic_smile_holding_wine_] I'm glad you're taking up more responsibility. It's an important part of your life as an adult."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:12 #-#-# translate crowdin replay_jo_picnic_1a6f407a:
+msgid "[_jo_s_picnic_blush_smile_holding_wine_] You've grown up so fast. Faster than I ever wanted."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:13 #-#-# translate crowdin replay_jo_picnic_b227a316:
+msgid "[_jo_s_picnic_blush_smile_holding_wine_] I'm proud to see the man you've become."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:15 #-#-# translate crowdin replay_jo_picnic_1007dcd7:
+msgid "[jo] is never proud of me. I guess I really must've impressed her\n"
+"this time."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:17 #-#-# translate crowdin replay_jo_picnic_371be17f:
+msgid "[_jo_s_picnic_flirty_holding_wine_] Now that you're a grown-up, maybe it's time to start treating you like one..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:18 #-#-# translate crowdin replay_jo_picnic_459dc8fa:
+msgid "[_mc_] I'd like that. How's the wine?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:19 #-#-# translate crowdin replay_jo_picnic_bb02ac7e:
+msgid "[_jo_s_picnic_blush_flirty_holding_wine_] It's delicious. It goes down so... smoothly, too."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:20 #-#-# translate crowdin replay_jo_picnic_83b1650c:
+msgid "[_jo_s_picnic_blush_flirty_holding_wine_] Mmm, so delectable..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:21 #-#-# translate crowdin replay_jo_picnic_6d26405c:
+msgid "[_jo_s_picnic_blush_flirty_offering_wine_] Did you try some?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:22 #-#-# translate crowdin replay_jo_picnic_3d1a9509:
+msgid "[_mc_] I'm okay, thanks. It's all yours, you deserve it."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:23 #-#-# translate crowdin replay_jo_picnic_71d4397b:
+msgid "[_mc_] You work so hard, and do so much for me and [flora]."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:24 #-#-# translate crowdin replay_jo_picnic_372d579a:
+msgid "[_jo_s_picnic_smile_holding_wine_] You really are something today, [mc]! I'm not sure what's gotten into you."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:25 #-#-# translate crowdin replay_jo_picnic_d607afd7:
+msgid "[_jo_s_picnic_smile_holding_wine_] Not that I'm complaining!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:26 #-#-# translate crowdin replay_jo_picnic_d73b9c83:
+msgid "[_mc_] Just trying to be better..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:30 #-#-# translate crowdin replay_jo_picnic_b55abd0f:
+msgid "[_jo_s_picnic_surprised_spilling_wine_] Oop!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:31 #-#-# translate crowdin replay_jo_picnic_687578c4:
+msgid "[_jo_s_picnic_surprised_looking_down_spilling_wine_] Oh, no, I've spilled some on myself! Clumsy me..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:32 #-#-# translate crowdin replay_jo_picnic_1a39bde7:
+msgid "[_jo_s_picnic_blush_smile_spilling_wine_] I suppose I should take this thing off, keep it from staining too badly.{space=-20}"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:38 #-#-# translate crowdin replay_jo_picnic_64719f52:
+msgid "[_jo_s_picnic_blush_smile_removing_shirt_] There, that's better already."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:39 #-#-# translate crowdin replay_jo_picnic_234bb837:
+msgid "[_jo_s_picnic_blush_smile_removing_shirt_] Don't you think?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:40 #-#-# translate crowdin replay_jo_picnic_e2992703:
+msgid "[_mc_] Much better..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:41 #-#-# translate crowdin replay_jo_picnic_d0c11ea1:
+msgid "[_jo_s_picnic_blush_flirty_removing_shirt_] I should probably slow down!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:42 #-#-# translate crowdin replay_jo_picnic_f258471d:
+msgid "God, please don't slow down..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:43 #-#-# translate crowdin replay_jo_picnic_38bf9a0e:
+msgid "Wait, what am I thinking? It doesn't matter, I can't look away..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:47 #-#-# translate crowdin replay_jo_picnic_e60034ab:
+msgid "[_jo_s_picnic_blush_smile_holding_wine_shirtless_] Oooh, this wine has me feeling woozy..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:48 #-#-# translate crowdin replay_jo_picnic_671f0cc2:
+msgid "[_jo_s_picnic_blush_smile_holding_wine_shirtless_] It was so good that I drank it a little too quickly."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:49 #-#-# translate crowdin replay_jo_picnic_72b73f75:
+msgid "[_jo_s_picnic_blush_smile_holding_wine_shirtless_] Just a little more won't hurt, though..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:50 #-#-# translate crowdin replay_jo_picnic_0fa8c929:
+msgid "[_mc_] It's okay to have some more. I'm here for you."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:51 #-#-# translate crowdin replay_jo_picnic_55b5d10b:
+msgid "[_jo_s_picnic_flirty_holding_wine_shirtless_] You're going to take responsibility, right?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:52 #-#-# translate crowdin replay_jo_picnic_85d475fe:
+msgid "[_mc_] Of course!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:53 #-#-# translate crowdin replay_jo_picnic_2f96157e:
+msgid "[_jo_s_picnic_blush_flirty_holding_wine_shirtless_] Such a mature, grown man you're becoming..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:54 #-#-# translate crowdin replay_jo_picnic_6e03cca4:
+msgid "[_jo_s_picnic_blush_flirty_holding_wine_shirtless_] I'm so proud of you... taking care of me like this..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:55 #-#-# translate crowdin replay_jo_picnic_fb750bed:
+msgid "[_jo_s_picnic_blush_flirty_holding_wine_shirtless_] How did I get soo lucky?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:56 #-#-# translate crowdin replay_jo_picnic_c8c8e580:
+msgid "Damn, she might actually be drunk now."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:60 #-#-# translate crowdin replay_jo_picnic_6dd980de:
+msgid "[_jo_s_picnic_flirty_pouring_wine_] Oh!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:61 #-#-# translate crowdin replay_jo_picnic_41559867:
+msgid "[_jo_s_picnic_blush_flirty_pouring_wine_] Would you look at that...? I've gone and spilled some more all over my bra..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:62 #-#-# translate crowdin replay_jo_picnic_6819faa8:
+msgid "[_jo_s_picnic_blush_flirty_pouring_wine_] What a clumsy thing I am today."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:63 #-#-# translate crowdin replay_jo_picnic_f13a3c26:
+msgid "[_jo_s_picnic_blush_flirty_pouring_wine_] Thank goodness I have you here, looking after me..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:67 #-#-# translate crowdin replay_jo_picnic_f27bed03:
+msgid "[_jo_s_picnic_blush_flirty_removing_bra_] I should probably take this off though, don't you think?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:68 #-#-# translate crowdin replay_jo_picnic_d3bd5c48:
+msgid "[_mc_] Err, yes... just in case!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:69 #-#-# translate crowdin replay_jo_picnic_7609386c:
+msgid "[_jo_s_picnic_flirty_removing_bra_] Mmm, exactly... just in case..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:73 #-#-# translate crowdin replay_jo_picnic_3764042a:
+msgid "[_jo_s_picnic_blush_flirty_squeezing_boobs_] God, that's muuuch better. So... freeing."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:74 #-#-# translate crowdin replay_jo_picnic_8b77712d:
+msgid "Wow! Her breasts are right there, ready for the taking!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:75 #-#-# translate crowdin replay_jo_picnic_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:76 #-#-# translate crowdin replay_jo_picnic_84240abe:
+msgid "Why am I looking at [jo] this way? Maybe I'm buzzed, too."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:77 #-#-# translate crowdin replay_jo_picnic_5b957a71:
+msgid "[_mc_] I don't know if it's the way the sun's hitting you this late in the day, but you look astonishing."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:78 #-#-# translate crowdin replay_jo_picnic_363db6c2:
+msgid "[_jo_s_picnic_blush_smile_resting_hands_] Aww! You're making me blush!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:79 #-#-# translate crowdin replay_jo_picnic_f1a8f177:
+msgid "[_mc_] I can't imagine how anyone could be mean to you."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:80 #-#-# translate crowdin replay_jo_picnic_462aecbf:
+msgid "[_mc_] You're just so beautiful. How could they?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:81 #-#-# translate crowdin replay_jo_picnic_0a5be541:
+msgid "[_mc_] I bet the person who wrote that email feels terrible about it now."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:82 #-#-# translate crowdin replay_jo_picnic_eb66125f:
+msgid "[_jo_s_picnic_blush_smile_resting_hands_] Oh, I doubt it... but I don't want to think about that right now..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:83 #-#-# translate crowdin replay_jo_picnic_03b13931:
+msgid "[_jo_s_picnic_blush_smile_resting_hands_] I just want to enjoy this relaxing moment."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:84 #-#-# translate crowdin replay_jo_picnic_f08036ce:
+msgid "[_mc_] I know, but I'm kind of glad that she got you so fired up. If she hadn't, we wouldn't be enjoying this moment right now."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:85 #-#-# translate crowdin replay_jo_picnic_9a5db930:
+msgid "[_jo_s_picnic_flirty_resting_hands_] It does feel good to just slow down and enjoy this time with you..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:86 #-#-# translate crowdin replay_jo_picnic_7616a2c4:
+msgid "[_mc_] It does. And you worked so hard to get to where you are now."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:87 #-#-# translate crowdin replay_jo_picnic_8c5548f3:
+msgid "[_mc_] I hope that all of your ambition rubbed off on me."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:88 #-#-# translate crowdin replay_jo_picnic_22baa6e8:
+msgid "[_mc_] [flora] and I really don't know how lucky we are to have someone like you taking care of us."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:89 #-#-# translate crowdin replay_jo_picnic_fe772928:
+msgid "[_jo_s_picnic_blush_flirty_resting_hands_] Sweetie, you're being too generous. An old lady like me?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:90 #-#-# translate crowdin replay_jo_picnic_578ef3a7:
+msgid "[_mc_] You're so vibrant and full of life. You're hardly old."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:91 #-#-# translate crowdin replay_jo_picnic_d3254e87:
+msgid "[_mc_] I mean, just look at your breasts! They're so perky compared to other women your age."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:92 #-#-# translate crowdin replay_jo_picnic_177c777e:
+msgid "[_jo_s_picnic_surprised_squeezing_boobs_] [mc]... that's... that's so inappropriate!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:93 #-#-# translate crowdin replay_jo_picnic_4645bfdb:
+msgid "[_mc_] But it's true!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:94 #-#-# translate crowdin replay_jo_picnic_c8a73487:
+msgid "[_jo_s_picnic_surprised_squeezing_boobs_] That's not the point! You shouldn't even have eyes wandering down there!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:95 #-#-# translate crowdin replay_jo_picnic_8a70bab1:
+msgid "[_mc_] How could I not? They're huge. When they knock against each other,{space=-10}\n"
+"I can't help it..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:96 #-#-# translate crowdin replay_jo_picnic_977709ed:
+msgid "[_mc_] Besides, if you didn't want me to look, you wouldn't have them out."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:97 #-#-# translate crowdin replay_jo_picnic_6a9f5320:
+msgid "[_mc_] Yet here they are. I'm staring right at them, and you're not stopping me.{space=-70}"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:98 #-#-# translate crowdin replay_jo_picnic_7b6060c9:
+msgid "[_jo_s_picnic_neutral_looking_down_squeezing_boobs_] It's just that they've been constricted all day... and then I spilled that wine on, on accident..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:99 #-#-# translate crowdin replay_jo_picnic_b8d95f25:
+msgid "[_mc_] On accident, of course."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:100 #-#-# translate crowdin replay_jo_picnic_394fc39d:
+msgid "[_jo_s_picnic_blush_smile_squeezing_boobs_] Yesss, of course. Accidents happen and that's... that's okay."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:101 #-#-# translate crowdin replay_jo_picnic_147c33b0:
+msgid "[_mc_] I know one thing..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:102 #-#-# translate crowdin replay_jo_picnic_3816f76b:
+msgid "[_mc_] ...if there is a God, the way he created you definitely wasn't an accident."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:103 #-#-# translate crowdin replay_jo_picnic_a1e6deb7:
+msgid "[_jo_s_picnic_smile_resting_hands_] Well, isn't that a thing to say!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:104 #-#-# translate crowdin replay_jo_picnic_cc14e62a:
+msgid "[_jo_s_picnic_smile_resting_hands_] How very sweet of you, [mc]."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:105 #-#-# translate crowdin replay_jo_picnic_fa1808b4:
+msgid "[_jo_s_picnic_smile_resting_hands_] I think I raised you right, after all."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:106 #-#-# translate crowdin replay_jo_picnic_841d53bf:
+msgid "[_mc_] You certainly did."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:107 #-#-# translate crowdin replay_jo_picnic_6bff473a:
+msgid "[_jo_s_picnic_blush_smile_resting_hands_] Goodness, but that wine is so strong..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:108 #-#-# translate crowdin replay_jo_picnic_a964e587:
+msgid "[_jo_s_picnic_blush_smile_resting_hands_] And on an empty stomach. It's really gotten to my head, I think."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:109 #-#-# translate crowdin replay_jo_picnic_8613e71e:
+msgid "[_jo_s_picnic_blush_smile_resting_hands_] How irresponsible!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:110 #-#-# translate crowdin replay_jo_picnic_c14405df:
+msgid "[_mc_] It's okay to just let loose sometimes."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:111 #-#-# translate crowdin replay_jo_picnic_939bee38:
+msgid "[_jo_s_picnic_blush_flirty_resting_hands_] So loose..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:112 #-#-# translate crowdin replay_jo_picnic_04492d22:
+msgid "[_mc_] Remember, you deserve it."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:113 #-#-# translate crowdin replay_jo_picnic_91ec8210:
+msgid "[_mc_] You should lie back and relax. Let the evening breeze wash over your skin."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:114 #-#-# translate crowdin replay_jo_picnic_f01c08f4:
+msgid "[_jo_s_picnic_blush_flirty_resting_hands_] Oh, but that does sound so wonderful..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:115 #-#-# translate crowdin replay_jo_picnic_78954f64:
+msgid "[_jo_s_picnic_blush_flirty_resting_hands_] Maybe just for a moment..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:123 #-#-# translate crowdin replay_jo_picnic_987c7abe:
+msgid "[_jo_s_boobjob_smile_lying_down_] Mmmm... that does feel good..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:124 #-#-# translate crowdin replay_jo_picnic_ebc16fac:
+msgid "[_jo_s_boobjob_smile_lying_down_] That wine has really rushed to my head... makes it hard to th-think too clearly."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:125 #-#-# translate crowdin replay_jo_picnic_a764b387:
+msgid "She keeps saying that, but I can see how much she's enjoying this."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:126 #-#-# translate crowdin replay_jo_picnic_f9cb8d1b:
+msgid "[_mc_] Don't think too much, just keep relaxing."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:127 #-#-# translate crowdin replay_jo_picnic_03b50a96:
+msgid "[_jo_s_boobjob_flirty_lifting_boob_] Ohhh... that feels good, and really helps me relax. Sometimes at night, all on my own, well..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:128 #-#-# translate crowdin replay_jo_picnic_f49fff8f:
+msgid "[_mc_] Yeah?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:129 #-#-# translate crowdin replay_jo_picnic_1741472a:
+msgid "[_jo_s_boobjob_laughing_lifting_boob_] Oh! Never mind, you naughty boy."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:130 #-#-# translate crowdin replay_jo_picnic_7d96fc39:
+msgid "[_mc_] I could help relax you some more, you know."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:131 #-#-# translate crowdin replay_jo_picnic_8b0d1338:
+msgid "[_jo_s_boobjob_flirty_lifting_boob_] Mmmm, yeah? Please..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:135 #-#-# translate crowdin replay_jo_picnic_ec15af47:
+msgid "[_jo_s_boobjob_surprised_looking_down_dick_reveal_] Ohh!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:136 #-#-# translate crowdin replay_jo_picnic_e556b32d:
+msgid "[_jo_s_boobjob_flirty_looking_down_grabbing_dick_] It's been so long since someone showed me a cock like yours..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:137 #-#-# translate crowdin replay_jo_picnic_6a4478a7:
+msgid "[_jo_s_boobjob_flirty_looking_down_grabbing_dick_] ..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:138 #-#-# translate crowdin replay_jo_picnic_2906c5da:
+msgid "[_jo_s_boobjob_concerned_grabbing_dick_] Wait, did I just say that out loud?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:139 #-#-# translate crowdin replay_jo_picnic_9cc6950f:
+msgid "[_mc_] What are you gonna do about it?"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:140 #-#-# translate crowdin replay_jo_picnic_e73018d0:
+msgid "[_jo_s_boobjob_smile_grabbing_dick_] Well... there was one thing my husband loved to do..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:142 #-#-# translate crowdin replay_jo_picnic_93c43af3:
+msgid "[_jo_s_boobjob_flirty_looking_down_grabbing_dick_] He liked to stick it right between..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:143 #-#-# translate crowdin replay_jo_picnic_82ba7ba3:
+msgid "[_jo_s_boobjob_flirty_looking_down_dick_top_] Yes... just like that..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:171 #-#-# translate crowdin replay_jo_picnic_6a6c9759:
+msgid "[_jo_s_boobjob_flirty_looking_down_dick_top_] Oh, my! What a big man you've grown into..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:172 #-#-# translate crowdin replay_jo_picnic_aba9c502:
+msgid "[_jo_s_boobjob_flirty_looking_down_dick_top_] And I do mean big!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:210 #-#-# translate crowdin replay_jo_picnic_fd934ac4:
+msgid "[_jo_s_boobjob_flirty_looking_down_dick_top_] Shove it right between them and really make them bounce!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:211 #-#-# translate crowdin replay_jo_picnic_aae4a25e:
+msgid "[_jo_s_boobjob_flirty_looking_down_dick_top_] Up and down! Up and down!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:240 #-#-# translate crowdin replay_jo_picnic_34db530d:
+msgid "[_jo_s_boobjob_drunk_dick_top_] Keep going! You're doing great!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:241 #-#-# translate crowdin replay_jo_picnic_10b49c06:
+msgid "[_jo_s_boobjob_drunk_dick_top_] Don't you dare stop!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:274 #-#-# translate crowdin replay_jo_picnic_031a1b04:
+msgid "Her boobs feel so perfect, like they were made just for me..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:275 #-#-# translate crowdin replay_jo_picnic_417da6e1:
+msgid "There's no way I could stop now, even if I wanted to!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:313 #-#-# translate crowdin replay_jo_picnic_6a8c1742:
+msgid "[_jo_s_boobjob_drunk_dick_top_] Come on, sweetheart! You can do it!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:314 #-#-# translate crowdin replay_jo_picnic_537cba8b:
+msgid "[_jo_s_boobjob_drunk_dick_top_] Show me how it's done!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:358 #-#-# translate crowdin replay_jo_picnic_bfa33dbb:
+msgid "Fuck! She's squeezing them against me with everything she's got!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:359 #-#-# translate crowdin replay_jo_picnic_c7f8f9e9:
+msgid "I can't believe I'm gonna blow my load right on [jo]'s face!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:380 #-#-# translate crowdin replay_jo_picnic_05756b1b:
+msgid "[_jo_s_boobjob_flirty_aftermath_] Mmmm, yes! Just like that!"
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:381 #-#-# translate crowdin replay_jo_picnic_bd191716:
+msgid "[_mc_] Goddamn... you really drained it all out of me..."
+msgstr ""
+
+# game/1000_base_game/game/replays/55_jo_picnic.rpy:382 #-#-# translate crowdin replay_jo_picnic_46eaa3fb:
+msgid "[_jo_s_boobjob_smile_aftermath_] That's what a woman with experience is supposed to do, honey."
+msgstr ""
+
