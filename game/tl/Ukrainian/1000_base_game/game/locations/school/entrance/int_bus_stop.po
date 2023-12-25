@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/entrance/int_bus_stop.po\n"
+"X-Crowdin-File-ID: 12112\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:13\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_bus_stop.rpy:70 #-#-# translate crowdin school_entrance_bus_stop_interact_day1_take2_5a4a6e39:
+msgid "Skipping school on the first day would look bad. Besides, [jo] knows my old tricks."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/entrance/int_bus_stop.rpy:74 #-#-# translate crowdin school_entrance_bus_stop_interact_kate_blowjob_dream_school_4dfe0314:
+msgid "Too late to go back now."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/entrance/int_bus_stop.rpy:78 #-#-# translate crowdin school_entrance_bus_stop_jacklyn_statement_statement_f9fec3ec:
+msgid "The last bus of the day left long ago. [jacklyn] has to drive me home when we're done."
+msgstr ""
+
