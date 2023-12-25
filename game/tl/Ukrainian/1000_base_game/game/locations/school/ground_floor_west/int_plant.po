@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/ground_floor_west/int_plant.po\n"
+"X-Crowdin-File-ID: 12318\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:14\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor_west/int_plant.rpy:17 #-#-# translate crowdin ground_floor_west_plant_dc5af4ba:
+msgid "On the surface, a completely normal plant."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/ground_floor_west/int_plant.rpy:18 #-#-# translate crowdin ground_floor_west_plant_83bbd635:
+msgid "Under closer inspection, however..."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/ground_floor_west/int_plant.rpy:19 #-#-# translate crowdin ground_floor_west_plant_4aae25a4:
+msgid "Still a completely normal plant."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/ground_floor_west/int_plant.rpy:25 #-#-# translate crowdin ground_floor_west_plant_isabelle_stolen_maxine_letter_920fd6f5:
+msgid "Now that the letter has been deposited into [maxine]'s mailbox, the only thing left to do is wait."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/ground_floor_west/int_plant.rpy:26 #-#-# translate crowdin ground_floor_west_plant_isabelle_stolen_maxine_letter_fb4a71b8:
+msgid "Knowing [maxine], her response is probably going to come in some random place other than this plant."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/ground_floor_west/int_plant.rpy:29 #-#-# translate crowdin ground_floor_west_plant_isabelle_stolen_maxine_letter_d6d689aa:
+msgid "Not quite a letter..."
+msgstr ""
+
