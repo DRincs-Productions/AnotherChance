@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/first_hall_east/int_trophy_case.po\n"
+"X-Crowdin-File-ID: 12194\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:13\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/first_hall_east/int_trophy_case.rpy:35 #-#-# translate crowdin school_first_hall_east_trophy_case_interact_980887eb:
+msgid "All these trophies were won by the swim team. What a legacy."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/first_hall_east/int_trophy_case.rpy:36 #-#-# translate crowdin school_first_hall_east_trophy_case_interact_05230356:
+msgid "Apart from the big football trophy over there, we haven't succeeded in any other sport."
+msgstr ""
+
