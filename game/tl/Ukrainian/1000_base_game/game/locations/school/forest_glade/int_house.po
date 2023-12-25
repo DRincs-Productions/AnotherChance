@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/forest_glade/int_house.po\n"
+"X-Crowdin-File-ID: 12250\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:14\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/forest_glade/int_house.rpy:26 #-#-# translate crowdin school_forest_glade_house_interact_447e0900:
+msgid "The door is locked, but from the cracks in the wall there seems to be all sorts of old farming equipment inside."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/forest_glade/int_house.rpy:30 #-#-# translate crowdin school_forest_glade_house_jo_potted_b23384cd:
+msgid "Maybe I can use some of the farming equipment inside the hut to plow the meadow, but the door is locked."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/forest_glade/int_house.rpy:31 #-#-# translate crowdin school_forest_glade_house_jo_potted_1d42614e:
+msgid "Need to find something long and hook-shaped to pull stuff out through the cracks."
+msgstr ""
+
