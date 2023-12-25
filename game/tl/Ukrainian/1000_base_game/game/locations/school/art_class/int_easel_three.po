@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/art_class/int_easel_three.po\n"
+"X-Crowdin-File-ID: 11974\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:12\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/art_class/int_easel_three.rpy:38 #-#-# translate crowdin school_art_class_easel_03_interact_d0695f5b:
+msgid "Going to need a brush. Finger painting is probably frowned on in these highly pretentious circles."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/art_class/int_easel_three.rpy:42 #-#-# translate crowdin school_art_class_easel_03_interact_kate_search_for_nurse_7d3cd6bd:
+msgid "Different strokes for different folks. Is that about painting or masturbation?"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/art_class/int_easel_three.rpy:46 #-#-# translate crowdin school_art_class_easel_03_jacklyn_art_focus_start_39c02d3f:
+msgid "Even though the minimalism of this canvas is highly attractive, [jacklyn] probably won't feel the same."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/art_class/int_easel_three.rpy:47 #-#-# translate crowdin school_art_class_easel_03_jacklyn_art_focus_start_025b6bb6:
+msgid "I need to find some paint to begin with."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/art_class/int_easel_three.rpy:52 #-#-# translate crowdin school_art_class_easel_03_jacklyn_art_focus_permission_42a3ff5a:
+msgid "Got the brush, but first I need permission."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/art_class/int_easel_three.rpy:53 #-#-# translate crowdin school_art_class_easel_03_jacklyn_art_focus_permission_348dc109:
+msgid "I'm a sucker for authority."
+msgstr ""
+
