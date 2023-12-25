@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/homeroom/int_school_bench.po\n"
+"X-Crowdin-File-ID: 12392\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:15\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_school_bench.rpy:28 #-#-# translate crowdin homeroom_school_bench_interact_33307c98:
+msgid "Someone's carved a penis into this counter. What a dick move."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/homeroom/int_school_bench.rpy:37 #-#-# translate crowdin homeroom_use_bench_9c408130:
+msgid "It's never a good idea to put everything on the table. Especially not my [item.title_lower]."
+msgstr ""
+
