@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/computer_room/int_screen_left.po\n"
+"X-Crowdin-File-ID: 12060\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:12\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:35 #-#-# translate crowdin quest_maxine_eggs_screen_left_flash_drive_1d890dab:
+msgid "Okay, it's working again."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:36 #-#-# translate crowdin quest_maxine_eggs_screen_left_flash_drive_6d5102fd:
+msgid "Time to make a simple appointment system for [maxine]."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:37 #-#-# translate crowdin quest_maxine_eggs_screen_left_flash_drive_7c080612:
+msgid "Shouldn't take more than an hour."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:40 #-#-# translate crowdin quest_maxine_eggs_screen_left_flash_drive_6648a2eb:
+msgid "All right, done!"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:41 #-#-# translate crowdin quest_maxine_eggs_screen_left_flash_drive_f0c5681a:
+msgid "[_mc_] Thanks for the help, [cyberia]!"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:42 #-#-# translate crowdin quest_maxine_eggs_screen_left_flash_drive_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:43 #-#-# translate crowdin quest_maxine_eggs_screen_left_flash_drive_cf7febb3:
+msgid "Maybe she fell asleep?"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:47 #-#-# translate crowdin quest_maxine_eggs_screen_left_flash_drive_817f9a15:
+msgid "Imagine if I could store data on my [item.title_lower]."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:52 #-#-# translate crowdin quest_maxine_eggs_screen_left_interact_d70658a8:
+msgid "What was my password again?"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:53 #-#-# translate crowdin quest_maxine_eggs_screen_left_interact_6f06cd07:
+msgid "Favorite pet? Mother's maiden name?"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/computer_room/int_screen_left.rpy:54 #-#-# translate crowdin quest_maxine_eggs_screen_left_interact_0539baae:
+msgid "Hmm... how about \"[cyberia]HasAThiccMainframe\"?"
+msgstr ""
+
