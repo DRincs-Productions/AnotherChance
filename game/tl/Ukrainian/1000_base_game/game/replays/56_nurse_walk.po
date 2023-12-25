@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/replays/56_nurse_walk.po\n"
+"X-Crowdin-File-ID: 12692\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:17\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/56_nurse_walk.rpy:6 #-#-# translate crowdin replay_nurse_walk_52fd14c8:
+msgid "There's something supremely satisfying about the [nurse] crawling after me, doing my bidding."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:7 #-#-# translate crowdin replay_nurse_walk_02c11741:
+msgid "Even better is the fact that [kate] is here, watching me use her little pet to meet my own needs."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:9 #-#-# translate crowdin replay_nurse_walk_679660c7:
+msgid "[_kate_] What the hell is this?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:11 #-#-# translate crowdin replay_nurse_walk_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:13 #-#-# translate crowdin replay_nurse_walk_58eb03d5:
+msgid "[_mc_] What do you mean? It's just me walking my dog."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:15 #-#-# translate crowdin replay_nurse_walk_1454b8df:
+msgid "[_kate_] Very funny."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:16 #-#-# translate crowdin replay_nurse_walk_6a85823a:
+msgid "[_mc_] I don't see anything funny here. Just me going about my day."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:17 #-#-# translate crowdin replay_nurse_walk_e216cc8a:
+msgid "[_kate_] Well, go about your day somewhere else."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:18 #-#-# translate crowdin replay_nurse_walk_631ddccc:
+msgid "[_mc_] I will, right after I get my gym grade."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:20 #-#-# translate crowdin replay_nurse_walk_52f9ab5c:
+msgid "[_mc_] Did you think you were the only one capable of this?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:22 #-#-# translate crowdin replay_nurse_walk_4f0e1d00:
+msgid "[_kate_] What? Am I supposed to be impressed or something?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:23 #-#-# translate crowdin replay_nurse_walk_051fc4cd:
+msgid "[_kate_] She's the easiest one I've met."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:24 #-#-# translate crowdin replay_nurse_walk_c0e00e5a:
+msgid "[_mc_] Hey, be nice to my dog!"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:26 #-#-# translate crowdin replay_nurse_walk_66249813:
+msgid "[_kate_] Don't tell me what to do, else I'll make {i}you{/} my dog."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:27 #-#-# translate crowdin replay_nurse_walk_a27fff83:
+msgid "[_mc_] As interesting as that would be, I have a gym grade to get right now.{space=-10}"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:29 #-#-# translate crowdin replay_nurse_walk_4ac43476:
+msgid "[_mc_] I'm looking for another bitch. Are you interested?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:31 #-#-# translate crowdin replay_nurse_walk_839d05eb:
+msgid "[_kate_] You sure have a lively fantasy."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:32 #-#-# translate crowdin replay_nurse_walk_72330f96:
+msgid "[_mc_] Are you blushing a little? Maybe that's secretly {i}your{/} fantasy?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:34 #-#-# translate crowdin replay_nurse_walk_d6be28e9:
+msgid "[_kate_] You need to get your eyes checked, you dumb clown."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:35 #-#-# translate crowdin replay_nurse_walk_1839452a:
+msgid "[_kate_] Get the fuck out of here before I call the girls over."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:36 #-#-# translate crowdin replay_nurse_walk_6584697d:
+msgid "[_mc_] Sorry, no can do. I actually have a gym grade to get."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:37 #-#-# translate crowdin replay_nurse_walk_cf189a1f:
+msgid "[_mc_] Please, step out of the way."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:39 #-#-# translate crowdin replay_nurse_walk_22f3b3bd:
+msgid "[_kate_] I knew you were slow, but this is ridiculous."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:40 #-#-# translate crowdin replay_nurse_walk_caf5185e:
+msgid "[_kate_] The gym is closed. C-l-o-s-e-d. Got it?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:41 #-#-# translate crowdin replay_nurse_walk_eeef3fd9:
+msgid "[_mc_] Not according to the Newfall Constitution on Animal Rights, Chapter 87, subsection D."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:43 #-#-# translate crowdin replay_nurse_walk_884e7493:
+msgid "[_kate_] What are you talking about?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:44 #-#-# translate crowdin replay_nurse_walk_76ea2da0:
+msgid "[_mc_] Oh, could it be that you're not familiar with the county rules?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:45 #-#-# translate crowdin replay_nurse_walk_f4f78ecf:
+msgid "[_mc_] Please, do look it up. I'll wait."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:47 #-#-# translate crowdin replay_nurse_walk_58a372eb:
+msgid "[_kate_] Seriously?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:48 #-#-# translate crowdin replay_nurse_walk_32d6e260:
+msgid "[_mc_] Seriously."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:50 #-#-# translate crowdin replay_nurse_walk_63ee856e:
+msgid "[_kate_] ..."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:51 #-#-# translate crowdin replay_nurse_walk_63ee856e_1:
+msgid "[_kate_] ..."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:52 #-#-# translate crowdin replay_nurse_walk_d15cedad:
+msgid "Man, I sure hope [maxine] didn't make this up..."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:54 #-#-# translate crowdin replay_nurse_walk_5bba6fa8:
+msgid "[_kate_] What the fuck?"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:55 #-#-# translate crowdin replay_nurse_walk_f861b71f:
+msgid "[_mc_] See? You're legally required to let me in."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:57 #-#-# translate crowdin replay_nurse_walk_1bc86fc2:
+msgid "[_kate_] This is not a dog, though! She doesn't even bark!"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:59 #-#-# translate crowdin replay_nurse_walk_5b9f5869:
+msgid "[_nurse_s_dog_mouth_open_] Woof! Woof! [withvpunch]"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:61 #-#-# translate crowdin replay_nurse_walk_63ee856e_2:
+msgid "[_kate_] ..."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:62 #-#-# translate crowdin replay_nurse_walk_ef07bd75:
+msgid "[_mc_] Move or I'll get the [guard]. I know he's been looking to bust you ever since you put that special glaze on his doughnuts."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:64 #-#-# translate crowdin replay_nurse_walk_05241773:
+msgid "[_kate_] This is not over, [mc]!"
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:65 #-#-# translate crowdin replay_nurse_walk_e9c2951d:
+msgid "[_kate_] And you... you're in big trouble."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:74 #-#-# translate crowdin replay_nurse_walk_d9838b55:
+msgid "[_mc_] Good girl! You did great."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:75 #-#-# translate crowdin replay_nurse_walk_58106ce8:
+msgid "[_mc_] People really need to stand up to [kate] more often."
+msgstr ""
+
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:76 #-#-# translate crowdin replay_nurse_walk_ff06661e:
+msgid "And speaking of meeting needs... I think I'll get a little more use out of this situation."
+msgstr ""
+
