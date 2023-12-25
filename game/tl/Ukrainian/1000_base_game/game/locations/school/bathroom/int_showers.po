@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/bathroom/int_showers.po\n"
+"X-Crowdin-File-ID: 12012\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2023-12-25 10:12\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/bathroom/int_showers.rpy:34 #-#-# translate crowdin school_bathroom_shower1_interact_028e9493:
+msgid "Who doesn't like when girls get wet?"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/bathroom/int_showers.rpy:35 #-#-# translate crowdin school_bathroom_shower1_interact_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/bathroom/int_showers.rpy:36 #-#-# translate crowdin school_bathroom_shower1_interact_4c49b470:
+msgid "Spiders, apparently."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/bathroom/int_showers.rpy:37 #-#-# translate crowdin school_bathroom_shower1_interact_c34250f7:
+msgid "None here."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/bathroom/int_showers.rpy:74 #-#-# translate crowdin school_bathroom_shower2_interact_1652be63:
+msgid "This place must be a marvel to behold after gym class."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/bathroom/int_showers.rpy:75 #-#-# translate crowdin school_bathroom_shower2_interact_8eb632e7:
+msgid "Soap flowing freely, water splashing everywhere. Bodies slick and shiny.{space=-80}"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/bathroom/int_showers.rpy:76 #-#-# translate crowdin school_bathroom_shower2_interact_63b0b8ff:
+msgid "Two girls on a wild chase... one screaming and laughing... the other whipping a wet towel at the first..."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/bathroom/int_showers.rpy:77 #-#-# translate crowdin school_bathroom_shower2_interact_bdb030c5:
+msgid "Okay, relax. I got no time for a cold shower right now."
+msgstr ""
+
