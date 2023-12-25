@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2023-12-25 10:09\n"
+"PO-Revision-Date: 2023-12-25 21:48\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/pepelepsi.rpy:26 #-#-# translate crowdin consume_pepelepsi_maxine_845a5804:
 msgid "{i}*Cough, cough*{/}"
-msgstr ""
+msgstr "{i}*Кашель, кашель*{/}"
 
 # game/1000_base_game/game/items/pepelepsi.rpy:27 #-#-# translate crowdin consume_pepelepsi_maxine_5d1a8c04:
 msgid "What the hell?"
@@ -22,7 +22,7 @@ msgstr ""
 
 # game/1000_base_game/game/items/pepelepsi.rpy:28 #-#-# translate crowdin consume_pepelepsi_maxine_d43fba44:
 msgid "How did this piece of paper end up in my drink?"
-msgstr ""
+msgstr "Як цей папірець опинився у моєму напої?"
 
 # game/1000_base_game/game/items/pepelepsi.rpy:34 #-#-# translate crowdin int_pepelepsi_d1cdade6:
 msgid "With ingredients scraped off the bottom of toxic waste barrels, the industrial flavor has become synonymous with the Pepelepsi brand."
