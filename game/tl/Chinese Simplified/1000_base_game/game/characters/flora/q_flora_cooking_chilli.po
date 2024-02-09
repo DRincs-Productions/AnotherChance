@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 18:35\n"
+"PO-Revision-Date: 2024-02-09 15:59\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
 msgid "You picked up a cooking item. Is it the right one? No one knows."
@@ -130,7 +130,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:126 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:129 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_365f5767:
 msgid "[_mc_] Yes, here you go!"
@@ -250,7 +250,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:170 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] 什么？"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:171 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_e8dfec7e:
 msgid "[_mc_] How did you get on my computer?"
@@ -366,7 +366,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:229 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:233 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_e1218cab:
 msgid "[_mc_] No, thanks. I think I'll pass."
@@ -702,7 +702,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:416 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:418 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_3bf6c9bd:
 msgid "[_mc_] Hey, [flora]! I found your phone. Well, if you're listening to this, you already know that."
@@ -758,7 +758,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:448 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:451 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_12fed678:
 msgid "[_mc_] Why did you touch yourself while cooking?"
@@ -794,7 +794,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:462 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:465 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_3bb9859d:
 msgid "[_mc_] Sounds like you have a bit of a situation on your hands... and in your panties."
@@ -1074,7 +1074,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:579 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:585 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_6e073743:
 msgid "[_flora_] Aah!"
@@ -1546,7 +1546,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:818 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:823 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_495896dd:
 msgid "[_flora_] Mmmmm!"
