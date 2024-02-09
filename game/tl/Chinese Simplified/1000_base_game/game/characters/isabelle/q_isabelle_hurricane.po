@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 18:36\n"
+"PO-Revision-Date: 2024-02-09 16:00\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6 #-#-# translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
 msgid "[_mc_] Hey, how are you holding up?"
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:25 #-#-# translate crowdin quest_isabelle_hurricane_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:28 #-#-# translate crowdin quest_isabelle_hurricane_start_7a95dcf1:
 msgid "[_mc_] What color do you see now?"
@@ -270,7 +270,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:94 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:97 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_440d5608:
 msgid "[_mc_] I'm looking for a stolen locker."
@@ -455,7 +455,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:174 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] 什么？"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:175 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_29ab0d2f:
 msgid "[_maxine_s_concerned_] The Figures of Schpeetch — a secret cult that used to occupy the school basement."
@@ -579,7 +579,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:221 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:224 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_ed87226f:
 msgid "[_mc_] What do you want?"
@@ -595,7 +595,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:229 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:232 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_918fea83:
 msgid "[_mc_] I'm sorry."
@@ -695,7 +695,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:262 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:265 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_ddd34fd3:
 msgid "[_mc_] Because I asked nicely?"
@@ -1949,7 +1949,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:811 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:815 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_4ae8d20e:
 msgid "[_mc_] I don't think this is a good idea."
@@ -2078,7 +2078,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:865 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:869 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_5198575c:
 msgid "[_mc_] I've discovered a new\n"
@@ -2587,7 +2587,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1252 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1256 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_4abf1b49:
 msgid "[_isabelle_s_locker_cum_inside_] Oh, my god! [withvpunch]"
@@ -2631,7 +2631,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1276 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1278 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_2c06dac4:
 msgid "[_mc_] We should let her soak in it for a few hours."
