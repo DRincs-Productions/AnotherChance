@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 18:43\n"
+"PO-Revision-Date: 2024-02-09 16:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/banana_milk.rpy:25 #-#-# translate crowdin int_banana_milk_e8e6c00e:
 msgid "Good for your throat, and for your skin, and for your face, and for your boobs..."
-msgstr ""
+msgstr "可以滋润你的喉咙，滋养你的肌肤，滋滑你的脸蛋，还能丰润你的胸部…"
 
 # game/1000_base_game/game/items/banana_milk.rpy:26 #-#-# translate crowdin int_banana_milk_808bf39b:
 msgid "The doctors hate this drink."
-msgstr ""
+msgstr "医生们都不喜欢这款饮品。"
 
 # game/1000_base_game/game/items/banana_milk.rpy:32 #-#-# translate crowdin consume_banana_milk_cff32b61:
 msgid "Yuck! Why do I do this to myself? Probably going to throw up now..."
-msgstr ""
+msgstr "呕！我为什么要给自己找不痛快？我可能现在就要吐出来了…"
 
 # game/1000_base_game/game/items/banana_milk.rpy:38 #-#-# translate crowdin consume_banana_milk_maxine_845a5804:
 msgid "{i}*Cough, cough*{/}"
-msgstr ""
+msgstr "{i}*咳咳，咳咳*{/}"
 
 # game/1000_base_game/game/items/banana_milk.rpy:39 #-#-# translate crowdin consume_banana_milk_maxine_5d1a8c04:
 msgid "What the hell?"
@@ -34,5 +34,5 @@ msgstr ""
 
 # game/1000_base_game/game/items/banana_milk.rpy:40 #-#-# translate crowdin consume_banana_milk_maxine_d43fba44:
 msgid "How did this piece of paper end up in my drink?"
-msgstr ""
+msgstr "怎么会有张纸在我的饮料里？"
 
