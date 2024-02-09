@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 19:38\n"
+"PO-Revision-Date: 2024-02-09 16:57\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_bookshelf.rpy:35 #-#-# translate crowdin school_homeroom_bookshelf_interact_first_445ee9ef:
 msgid "{i}\"Bayonets, Etiquette, and Other Things the French Made Dull, Vol. 983\"{/}"
-msgstr ""
+msgstr "{i}\"法国人制造的无趣之物，刺刀，礼仪及其他东西，第983卷\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_bookshelf.rpy:36 #-#-# translate crowdin school_homeroom_bookshelf_interact_first_a1f83069:
 msgid "This title sounds interesting... and it's a lot heavier than expected."
