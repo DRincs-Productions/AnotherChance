@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-02-09 16:03
 
 # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:17
 translate crowdin school_nurse_room_strikebook_interact_331c5bce:
@@ -31,10 +31,10 @@ translate crowdin strings:
     new "?nurse_strikes_text>=1@1 strike|{image=school nurse_room strikebook}|Forced nudity (Office)"
 
     # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:22
-    old "?nurse_strikes_text>=5@5 strikes|{image=school nurse_room strikebook}|Forced nudity (School)\n{space=33}{color=#C00}(not yet available){/}"
-    new "?nurse_strikes_text>=5@5 strikes|{image=school nurse_room strikebook}|Forced nudity (School)\n{space=33}{color=#C00}(not yet available){/}"
+    old "?False@5 strikes|{image=school nurse_room strikebook}|Forced nudity (School)\n{space=33}{color=#C00}(not yet available){/}"
+    new "?False@5 strikes|{image=school nurse_room strikebook}|Forced nudity (School)\n{space=33}{color=#C00}(not yet available){/}"
 
     # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:22
-    old "?nurse_strikes_text>=10@10 strikes|{image=school nurse_room strikebook}|{space=57}Spanking\n{color=#C00}(not yet available){/}"
-    new "?nurse_strikes_text>=10@10 strikes|{image=school nurse_room strikebook}|{space=57}Spanking\n{color=#C00}(not yet available){/}"
+    old "?False@10 strikes|{image=school nurse_room strikebook}|{space=57}Spanking\n{color=#C00}(not yet available){/}"
+    new "?False@10 strikes|{image=school nurse_room strikebook}|{space=57}Spanking\n{color=#C00}(not yet available){/}"
 
