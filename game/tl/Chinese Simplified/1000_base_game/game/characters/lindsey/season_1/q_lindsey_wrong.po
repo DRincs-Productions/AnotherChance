@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 18:40\n"
+"PO-Revision-Date: 2024-02-09 16:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:5 #-#-# translate crowdin quest_lindsey_wrong_start_c5a1334f:
 msgid "[_lindsey_s_concerned_] ..."
@@ -142,7 +142,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:47 #-#-# translate crowdin quest_lindsey_wrong_follow_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:50 #-#-# translate crowdin quest_lindsey_wrong_follow_617e22c3:
 msgid "[_mc_] Do you think I'm stupid or something?"
@@ -366,7 +366,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:124 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:127 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_3a5b2e50:
 msgid "[_lindsey_s_lindseyfall_] Eeep!"
@@ -390,7 +390,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:141 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:143 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_7eb61261:
 msgid "[_mc_] I've been here all along."
@@ -670,7 +670,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:236 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:238 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_95c7633a:
 msgid "[_mc_] Are you okay?"
@@ -846,7 +846,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:310 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_maxine_scene_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:313 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_maxine_scene_1a98c29c:
 msgid "[_mc_] The saucer-eyed doll?"
@@ -1146,7 +1146,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:435 #-#-# translate crowdin quest_lindsey_wrong_gym_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:438 #-#-# translate crowdin quest_lindsey_wrong_gym_e9b90154:
 msgid "[_mc_] You're not the easiest person to catch up to."
@@ -1646,7 +1646,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:658 #-#-# translate crowdin lindsey_wrong_puddle_use_mop_appear_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:661 #-#-# translate crowdin lindsey_wrong_puddle_use_mop_appear_f21e85a8:
 msgid "[_mc_] Just my disgust for you."
@@ -1730,7 +1730,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:708 #-#-# translate crowdin quest_lindsey_wrong_lindseyart_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:711 #-#-# translate crowdin quest_lindsey_wrong_lindseyart_1a2b10f1:
 msgid "[_mc_] Look, I'm closing my eyes!"
@@ -1754,7 +1754,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:721 #-#-# translate crowdin quest_lindsey_wrong_lindseyart_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:724 #-#-# translate crowdin quest_lindsey_wrong_lindseyart_3f196f8d:
 msgid "[_mc_] Sure, no problem."
@@ -2178,7 +2178,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:878 #-#-# translate crowdin flora_quest_lindsey_wrong_florahelp_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:881 #-#-# translate crowdin flora_quest_lindsey_wrong_florahelp_ac107806:
 msgid "[_mc_] I need you to help me get [lindsey]'s clothes from the women's locker room."
@@ -2386,7 +2386,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:967 #-#-# translate crowdin quest_lindsey_wrong_lindseyclothes_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:971 #-#-# translate crowdin quest_lindsey_wrong_lindseyclothes_8aab7647:
 msgid "[_mc_] Sure did, but I kinda like you wearing my shirt."
