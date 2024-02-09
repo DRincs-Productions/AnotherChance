@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 19:33\n"
+"PO-Revision-Date: 2024-02-09 16:52\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:88 #-#-# translate crowdin school_ground_floor_guard_booth_interact_default_c0f68e65:
 msgid "The [guard] seems to be asleep. "
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:101 #-#-# translate crowdin school_ground_floor_guard_booth_interact_the_key_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:103 #-#-# translate crowdin school_ground_floor_guard_booth_interact_the_key_779c051a:
 msgid "[_mc_] Yes!"
