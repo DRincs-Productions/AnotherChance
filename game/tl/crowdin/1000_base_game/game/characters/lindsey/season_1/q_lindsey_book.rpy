@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-02-09 16:03
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:3
 translate crowdin quest_lindsey_book_start_c7688f55:
@@ -996,239 +996,239 @@ translate crowdin quest_lindsey_book_easel_79d5aa91:
     # mc "Here's the easel! And I know it's not pretty, but it works."
     mc "Here's the easel! And I know it's not pretty, but it works."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:309
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:313
 translate crowdin quest_lindsey_book_easel_308a41c8:
 
     # lindsey laughing "Aw! Thank you!"
     lindsey laughing "Aw! Thank you!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:311
-translate crowdin quest_lindsey_book_easel_0fbb8dd6:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:315
+translate crowdin quest_lindsey_book_easel_b210e75d:
 
-    # lindsey flirty "It does look a little rickety, but maybe that's just the aesthetic?"
-    lindsey flirty "It does look a little rickety, but maybe that's just the aesthetic?"
+    # lindsey laughing "It does look a little rickety, but maybe that's just the aesthetic?"
+    lindsey laughing "It does look a little rickety, but maybe that's just the aesthetic?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:312
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:316
 translate crowdin quest_lindsey_book_easel_9378e408:
 
     # mc "It's sturdier than it looks!"
     mc "It's sturdier than it looks!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:313
-translate crowdin quest_lindsey_book_easel_fa617f00:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:317
+translate crowdin quest_lindsey_book_easel_824706a2:
 
-    # lindsey smile "I appreciate it regardless!"
-    lindsey smile "I appreciate it regardless!"
+    # lindsey flirty "I appreciate it regardless!"
+    lindsey flirty "I appreciate it regardless!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:315
-translate crowdin quest_lindsey_book_easel_cbcee86b:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:320
+translate crowdin quest_lindsey_book_easel_bf109a68:
 
-    # lindsey flirty "I've been thinking... since you did this for me, we could paint something together."
-    lindsey flirty "I've been thinking... since you did this for me, we could paint something together."
+    # lindsey flirty "Since you did this for me, maybe we could paint something together?{space=-30}"
+    lindsey flirty "Since you did this for me, maybe we could paint something together?{space=-30}"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:316
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:321
 translate crowdin quest_lindsey_book_easel_690165fb:
 
     # mc "Wait, really?"
     mc "Wait, really?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:317
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:322
 translate crowdin quest_lindsey_book_easel_8bd0ce1e:
 
     # lindsey laughing "Absolutely!"
     lindsey laughing "Absolutely!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:318
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:323
 translate crowdin quest_lindsey_book_easel_b73e6873:
 
     # "Huh! Perhaps it does pay off to do things for others..."
     "Huh! Perhaps it does pay off to do things for others..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:319
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:324
 translate crowdin quest_lindsey_book_easel_e787d7b6:
 
     # "Her excitement is contagious."
     "Her excitement is contagious."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:321
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:326
 translate crowdin quest_lindsey_book_easel_3536a005:
 
     # "I don't want her to paint my [item.title_lower]."
     "I don't want her to paint my [item.title_lower]."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:322
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:327
 translate crowdin quest_lindsey_book_easel_129778d3:
 
     # "I wouldn't mind painting her face though..."
     "I wouldn't mind painting her face though..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:325
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:330
 translate crowdin quest_lindsey_book_easel_81d05d1a:
 
     # lindsey smile "Are you free now? We could get started right away! No time like the present!"
     lindsey smile "Are you free now? We could get started right away! No time like the present!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:326
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:331
 translate crowdin quest_lindsey_book_easel_06f1269c:
 
     # "[lindsey] is the type with infinite energy. It's really hard to keep up sometimes."
     "[lindsey] is the type with infinite energy. It's really hard to keep up sometimes."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:327
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:332
 translate crowdin quest_lindsey_book_easel_fc34cd0b:
 
     # mc "Yeah, we could."
     mc "Yeah, we could."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:328
-translate crowdin quest_lindsey_book_easel_cce4c981:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:333
+translate crowdin quest_lindsey_book_easel_b093dec3:
 
-    # lindsey confident "Okay, where should we put the easel?"
-    lindsey confident "Okay, where should we put the easel?"
+    # lindsey confident "Okay! Where should we put the easel?"
+    lindsey confident "Okay! Where should we put the easel?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:329
-translate crowdin quest_lindsey_book_easel_eac55da8:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:334
+translate crowdin quest_lindsey_book_easel_7510d9df:
 
-    # mc "I don't know... right here seems good."
-    mc "I don't know... right here seems good."
+    # mc "I don't know, right here seems good."
+    mc "I don't know, right here seems good."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:330
-translate crowdin quest_lindsey_book_easel_c39ec596:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:335
+translate crowdin quest_lindsey_book_easel_2bbe2ef3:
 
-    # "The longer we wait, the more chances she'll get to ditch me."
-    "The longer we wait, the more chances she'll get to ditch me."
+    # "The longer we wait, the more chances she'll get to ditch me..."
+    "The longer we wait, the more chances she'll get to ditch me..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:331
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:336
 translate crowdin quest_lindsey_book_easel_2217290e:
 
     # lindsey excited "Nice! I like the spontaneity."
     lindsey excited "Nice! I like the spontaneity."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:334
-translate crowdin quest_lindsey_book_easel_825408d5:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:341
+translate crowdin quest_lindsey_book_easel_927d0949:
 
-    # "Feels good to be appreciated and useful to one of the hottest girls in the school."
-    "Feels good to be appreciated and useful to one of the hottest girls in the school."
+    # "It feels good to be appreciated and useful to one of the hottest girls in the school."
+    "It feels good to be appreciated and useful to one of the hottest girls in the school."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:335
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:342
 translate crowdin quest_lindsey_book_easel_60772615:
 
     # "Even if it's just to paint, this feels like something of a turning point."
     "Even if it's just to paint, this feels like something of a turning point."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:336
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:343
 translate crowdin quest_lindsey_book_easel_ef8826bc:
 
     # "As long as I don't mess up, maybe I have a chance with her?"
     "As long as I don't mess up, maybe I have a chance with her?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:337
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:344
 translate crowdin quest_lindsey_book_easel_94609865:
 
     # "Maybe she'll let me paint her like in Titanic?"
     "Maybe she'll let me paint her like in Titanic?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:338
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:345
 translate crowdin quest_lindsey_book_easel_34b10967:
 
     # lindsey excited "Okay, let me just—"
     lindsey excited "Okay, let me just—"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:346
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:371
 translate crowdin quest_lindsey_book_easel_8ae1a837:
 
     # lindsey afraid "Eeep!"
     lindsey afraid "Eeep!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:348
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:376
 translate crowdin quest_lindsey_book_easel_56dec63b:
 
     # mc "What the hell?!"
     mc "What the hell?!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:351
-translate crowdin quest_lindsey_book_easel_75f765dc:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:377
+translate crowdin quest_lindsey_book_easel_e7349981:
 
-    # lindsey afraid "Was that a beaver?"
-    lindsey afraid "Was that a beaver?"
+    # lindsey afraid "W-was that a beaver?"
+    lindsey afraid "W-was that a beaver?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:352
-translate crowdin quest_lindsey_book_easel_fa3bd0a3:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:378
+translate crowdin quest_lindsey_book_easel_28fa21dc:
 
-    # lindsey afraid "Hey! It stole the easel!"
-    lindsey afraid "Hey! It stole the easel!"
+    # lindsey cringe "Hey! It stole the easel!"
+    lindsey cringe "Hey! It stole the easel!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:355
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:381
 translate crowdin quest_lindsey_book_easel_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:358
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:384
 translate crowdin quest_lindsey_book_easel_09e26d1a:
 
     # mc "Should we go after it?"
     mc "Should we go after it?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:359
-translate crowdin quest_lindsey_book_easel_1a879231:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:385
+translate crowdin quest_lindsey_book_easel_97b6c897:
 
-    # lindsey cringe "I don't know..."
-    lindsey cringe "I don't know..."
+    # lindsey thinking "I, um... I don't know."
+    lindsey thinking "I, um... I don't know."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:360
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:386
 translate crowdin quest_lindsey_book_easel_d2ec9f38:
 
     # lindsey thinking "It probably mistook the easel for regular sticks."
     lindsey thinking "It probably mistook the easel for regular sticks."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:361
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:387
 translate crowdin quest_lindsey_book_easel_3915adea:
 
     # mc "Well, it's going to chew it up and use it for its dam!"
     mc "Well, it's going to chew it up and use it for its dam!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:362
-translate crowdin quest_lindsey_book_easel_5b5342e6:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:388
+translate crowdin quest_lindsey_book_easel_99f1795d:
 
-    # lindsey sad "Not much we can do..."
-    lindsey sad "Not much we can do..."
+    # lindsey sad "There's not much we can do..."
+    lindsey sad "There's not much we can do..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:363
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:389
 translate crowdin quest_lindsey_book_easel_94f4b379:
 
     # "Hell, no! I'm not letting some critter ruin my painting date!"
     "Hell, no! I'm not letting some critter ruin my painting date!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:364
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:390
 translate crowdin quest_lindsey_book_easel_551db983:
 
     # mc "I'm going after it."
     mc "I'm going after it."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:365
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:391
 translate crowdin quest_lindsey_book_easel_606f64dd:
 
     # lindsey concerned "Be careful!"
     lindsey concerned "Be careful!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:369
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:396
 translate crowdin quest_lindsey_book_easel_852cfc1a:
 
     # "Here's my chance to impress [lindsey]!"
     "Here's my chance to impress [lindsey]!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:376
-translate crowdin quest_lindsey_book_easel_b23edab2:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:405
+translate crowdin quest_lindsey_book_easel_57c5b5a0:
 
-    # "Puh, that sucker is fast. It ran into the school."
-    "Puh, that sucker is fast. It ran into the school."
+    # "Puh, that sucker is fast! It ran into the school."
+    "Puh, that sucker is fast! It ran into the school."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:377
-translate crowdin quest_lindsey_book_easel_7caa0040:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:406
+translate crowdin quest_lindsey_book_easel_9b4bf63c:
 
-    # "[lindsey]'s watching, so I can't give up yet."
-    "[lindsey]'s watching, so I can't give up yet."
+    # "[lindsey] is watching, so I can't give up yet..."
+    "[lindsey] is watching, so I can't give up yet..."
 
 translate crowdin strings:
 
@@ -1280,7 +1280,7 @@ translate crowdin strings:
     old "\"I could teach you.\""
     new "\"I could teach you.\""
 
-    # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:354
+    # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:380
     old "?mc.strength>=5@[mc.strength]/5|{image=stats str}|Chase it"
     new "?mc.strength>=5@[mc.strength]/5|{image=stats str}|Chase it"
 

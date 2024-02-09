@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-02-09 16:03
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2
 translate crowdin quest_maya_witch_start_7c4911ec:
@@ -625,10 +625,10 @@ translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_use_ite
     "Just gotta jiggle it this way..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:184
-translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_use_item_8fb69af4:
+translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_use_item_a1a31e70:
 
-    # extend " and finagle it that wad..."
-    extend " and finagle it that wad..."
+    # extend " and finagle it that way..."
+    extend " and finagle it that way..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:186
 translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_use_item_29a9c8f5:
@@ -1705,10 +1705,10 @@ translate crowdin quest_maya_witch_gym_class_cbda13bc:
     kate embarrassed "Ew! You're such a little creep."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:485
-translate crowdin quest_maya_witch_gym_class_72290356:
+translate crowdin quest_maya_witch_gym_class_0c92fff4:
 
-    # maya sarcastic "Let's get together and measure sometime, [mc.name]."
-    maya sarcastic "Let's get together and measure sometime, [mc.name]."
+    # maya sarcastic "Let's get together and measure sometime, [mc]."
+    maya sarcastic "Let's get together and measure sometime, [mc]."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:486
 translate crowdin quest_maya_witch_gym_class_7a82a548:
@@ -3732,1651 +3732,1651 @@ translate crowdin quest_maya_witch_wait_a4f18f15:
     # maya dramatic "Come on, Piss King! Let's fuck off out of here before it happens again!"
     maya dramatic "Come on, Piss King! Let's fuck off out of here before it happens again!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1207
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1208
 translate crowdin quest_maya_witch_wait_a20ddc51:
 
     # mc "Welp, I think I'm starting to believe you when you say you're cursed."
     mc "Welp, I think I'm starting to believe you when you say you're cursed."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1208
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1209
 translate crowdin quest_maya_witch_wait_9e82c835:
 
     # maya bored "And all it took was spontaneous combustion?"
     maya bored "And all it took was spontaneous combustion?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1209
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1210
 translate crowdin quest_maya_witch_wait_154d5e9f:
 
     # mc "I'm serious! I've never seen a computer just catch fire like that out of nowhere."
     mc "I'm serious! I've never seen a computer just catch fire like that out of nowhere."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1210
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1211
 translate crowdin quest_maya_witch_wait_ed2c3be7:
 
     # mc "I thought maybe someone could be playing tricks on you... but how could they have done that?"
     mc "I thought maybe someone could be playing tricks on you... but how could they have done that?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1211
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1212
 translate crowdin quest_maya_witch_wait_c2587ab8:
 
     # maya skeptical "I'm telling you — witches."
     maya skeptical "I'm telling you — witches."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1212
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1213
 translate crowdin quest_maya_witch_wait_685d7fae:
 
     # mc "Maybe we should talk to [maxine]? She knows all about weird stuff like this."
     mc "Maybe we should talk to [maxine]? She knows all about weird stuff like this."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1213
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1214
 translate crowdin quest_maya_witch_wait_897b46d2:
 
     # maya confident "I'll take just about any help at this point. I mean, you're here, aren't you?"
     maya confident "I'll take just about any help at this point. I mean, you're here, aren't you?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1214
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1215
 translate crowdin quest_maya_witch_wait_2381402c:
 
     # mc "Fair enough!"
     mc "Fair enough!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1215
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1216
 translate crowdin quest_maya_witch_wait_4c2aebbb:
 
     # mc "Though [maxine] can be a bit difficult to deal with. Do you want me to handle her?"
     mc "Though [maxine] can be a bit difficult to deal with. Do you want me to handle her?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1216
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1217
 translate crowdin quest_maya_witch_wait_6835a987:
 
     # maya bored "Yeah, sure. I appreciate it."
     maya bored "Yeah, sure. I appreciate it."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1217
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1218
 translate crowdin quest_maya_witch_wait_32044c74:
 
     # maya bored "Later, [mc]."
     maya bored "Later, [mc]."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1224
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1225
 translate crowdin quest_maya_witch_help_f12d9eea:
 
     # "There she is in her unnatural habitat, lying in wait. Ready to pounce on her next unsuspecting victim."
     "There she is in her unnatural habitat, lying in wait. Ready to pounce on her next unsuspecting victim."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1225
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1226
 translate crowdin quest_maya_witch_help_bcbdb91f:
 
     # "Yet, willfully, I go into her den of insanity once again. As suspecting as they come."
     "Yet, willfully, I go into her den of insanity once again. As suspecting as they come."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1229
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1230
 translate crowdin quest_maya_witch_help_17484288:
 
     # maxine skeptical "Did you know?"
     maxine skeptical "Did you know?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1230
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1231
 translate crowdin quest_maya_witch_help_200708b1:
 
     # mc "Know what?"
     mc "Know what?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1231
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1232
 translate crowdin quest_maya_witch_help_50b97dff:
 
     # maxine skeptical "About the thing in the school basement."
     maxine skeptical "About the thing in the school basement."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1232
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1233
 translate crowdin quest_maya_witch_help_fee64c52:
 
     # mc "That sounds ominous... but the school has no basement."
     mc "That sounds ominous... but the school has no basement."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1233
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1234
 translate crowdin quest_maya_witch_help_8c57f4f5:
 
     # maxine eyeroll "Where do the stairs lead, then?"
     maxine eyeroll "Where do the stairs lead, then?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1234
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1235
 translate crowdin quest_maya_witch_help_59c65a9b:
 
     # mc "What stairs?"
     mc "What stairs?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1235
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1236
 translate crowdin quest_maya_witch_help_7ee6f3ab:
 
     # maxine annoyed "You're not ready."
     maxine annoyed "You're not ready."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1236
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1237
 translate crowdin quest_maya_witch_help_bbeeb44e:
 
     # mc "What's that supposed to mean?"
     mc "What's that supposed to mean?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1237
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1238
 translate crowdin quest_maya_witch_help_2b231620:
 
     # maxine annoyed "Like an apple, you're still green and sour. You need to be ripe."
     maxine annoyed "Like an apple, you're still green and sour. You need to be ripe."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1238
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1239
 translate crowdin quest_maya_witch_help_0f380622:
 
     # mc "Ugh, I don't even know what we're talking about anymore!"
     mc "Ugh, I don't even know what we're talking about anymore!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1239
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1240
 translate crowdin quest_maya_witch_help_54d3ff25:
 
     # maxine skeptical "So, it's safe to say that you did not, in fact, know."
     maxine skeptical "So, it's safe to say that you did not, in fact, know."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1240
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1241
 translate crowdin quest_maya_witch_help_53f5ad61:
 
     # mc "Right, I know nothing."
     mc "Right, I know nothing."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1241
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1242
 translate crowdin quest_maya_witch_help_f3c7318e:
 
     # mc "Just like a certain winter bastard."
     mc "Just like a certain winter bastard."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1242
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1243
 translate crowdin quest_maya_witch_help_e378ab9e:
 
     # "Too bad she'll never understand that reference."
     "Too bad she'll never understand that reference."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1243
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1244
 translate crowdin quest_maya_witch_help_0dd2f490:
 
     # "Modern art is lost on her."
     "Modern art is lost on her."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1244
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1245
 translate crowdin quest_maya_witch_help_b7f20a13:
 
     # maxine smile "It's good that you're becoming more self-aware."
     maxine smile "It's good that you're becoming more self-aware."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1245
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1246
 translate crowdin quest_maya_witch_help_ec23b6a0:
 
     # "That makes one of us..."
     "That makes one of us..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1246
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1247
 translate crowdin quest_maya_witch_help_471565c2:
 
     # mc "Anyway, I have a question."
     mc "Anyway, I have a question."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1247
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1248
 translate crowdin quest_maya_witch_help_705cb1bb:
 
     # maxine neutral "Just one?"
     maxine neutral "Just one?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1248
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1249
 translate crowdin quest_maya_witch_help_64d76104:
 
     # mc "At this moment in time, yes."
     mc "At this moment in time, yes."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1249
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1250
 translate crowdin quest_maya_witch_help_83108df0:
 
     # mc "Do you—"
     mc "Do you—"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1250
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1251
 translate crowdin quest_maya_witch_help_9b383a20:
 
     # maxine neutral "Is it for me?"
     maxine neutral "Is it for me?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1251
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1252
 translate crowdin quest_maya_witch_help_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1252
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1253
 translate crowdin quest_maya_witch_help_b58b0e0e:
 
     # mc "Yes, [maxine]. That's why I'm here."
     mc "Yes, [maxine]. That's why I'm here."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1253
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1254
 translate crowdin quest_maya_witch_help_c4549492:
 
     # maxine neutral "Surely, your purpose is greater than that?"
     maxine neutral "Surely, your purpose is greater than that?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1254
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1255
 translate crowdin quest_maya_witch_help_a9f03592:
 
     # mc "I'm not talking about my purpose on earth..."
     mc "I'm not talking about my purpose on earth..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1255
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1256
 translate crowdin quest_maya_witch_help_762b4f36:
 
     # maxine smile "Neither was I."
     maxine smile "Neither was I."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1256
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1257
 translate crowdin quest_maya_witch_help_6f05423d:
 
     # mc "Anyway! Do you know anything about curses?"
     mc "Anyway! Do you know anything about curses?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1257
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1258
 translate crowdin quest_maya_witch_help_99651c14:
 
     # maxine excited "Casting? Lifting? Containing? Selling? Distilling?"
     maxine excited "Casting? Lifting? Containing? Selling? Distilling?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1258
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1259
 translate crowdin quest_maya_witch_help_faa95bcb:
 
     # maxine excited "They {i}can{/} make excellent perfumes."
     maxine excited "They {i}can{/} make excellent perfumes."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1259
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1260
 translate crowdin quest_maya_witch_help_0b6adf40:
 
     # maxine excited "Or maybe pickling? Not to be confused with cucum—"
     maxine excited "Or maybe pickling? Not to be confused with cucum—"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1260
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1261
 translate crowdin quest_maya_witch_help_6ca98622:
 
     # mc "Please stop."
     mc "Please stop."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1261
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1262
 translate crowdin quest_maya_witch_help_2263801b:
 
     # maxine concerned "It's your funeral."
     maxine concerned "It's your funeral."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1265
 translate crowdin quest_maya_witch_help_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1267
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1268
 translate crowdin quest_maya_witch_help_4f2e20ae:
 
     # mc "You know what? Nevermind."
     mc "You know what? Nevermind."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1268
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1269
 translate crowdin quest_maya_witch_help_2a95ea07:
 
     # mc "I'll just figure it out on my own."
     mc "I'll just figure it out on my own."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1269
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1270
 translate crowdin quest_maya_witch_help_35dfc9b4:
 
     # maxine thinking "Please do not cast any curses, hexes, jinxes, or otherwise, without supervision."
     maxine thinking "Please do not cast any curses, hexes, jinxes, or otherwise, without supervision."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1270
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1271
 translate crowdin quest_maya_witch_help_a17bc9ca:
 
     # mc "Whose supervision?"
     mc "Whose supervision?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1271
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1272
 translate crowdin quest_maya_witch_help_50e0f015:
 
     # maxine thinking "A certified Hexalogist, obviously."
     maxine thinking "A certified Hexalogist, obviously."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1272
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1273
 translate crowdin quest_maya_witch_help_ff5dc0d3:
 
     # mc "That's not a thing."
     mc "That's not a thing."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1273
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1274
 translate crowdin quest_maya_witch_help_dc2685e3:
 
     # maxine thinking "It wouldn't exist if it wasn't a thing."
     maxine thinking "It wouldn't exist if it wasn't a thing."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1274
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1275
 translate crowdin quest_maya_witch_help_bf0fecc5:
 
     # "I guess I don't know how to argue with that kind of circular logic..."
     "I guess I don't know how to argue with that kind of circular logic..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1275
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1276
 translate crowdin quest_maya_witch_help_e1e1df98:
 
     # maxine thinking "Says it right under Article II, subsection 1C, clause 592 that unsupervised{space=-110}\npractices are strictly forbidden."
     maxine thinking "Says it right under Article II, subsection 1C, clause 592 that unsupervised{space=-110}\npractices are strictly forbidden."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1276
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1277
 translate crowdin quest_maya_witch_help_edfbbde6:
 
     # mc "...of what?"
     mc "...of what?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1277
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1278
 translate crowdin quest_maya_witch_help_5dbe77b1:
 
     # maxine thinking "The school handbook, of course."
     maxine thinking "The school handbook, of course."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1278
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1279
 translate crowdin quest_maya_witch_help_177162ca:
 
     # mc "Right. I must have missed it in between all the normal rules."
     mc "Right. I must have missed it in between all the normal rules."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1279
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1280
 translate crowdin quest_maya_witch_help_39c830c6:
 
     # maxine sad "You have to read in between the lines."
     maxine sad "You have to read in between the lines."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1280
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1281
 translate crowdin quest_maya_witch_help_2c9c3bf8:
 
     # mc "Of course you do."
     mc "Of course you do."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1281
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1282
 translate crowdin quest_maya_witch_help_548c401b:
 
     # maxine sad "Invisible ink."
     maxine sad "Invisible ink."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1282
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1283
 translate crowdin quest_maya_witch_help_15af4283:
 
     # mc "Right. Whatever."
     mc "Right. Whatever."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1283
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1284
 translate crowdin quest_maya_witch_help_285db37f:
 
     # mc "No place is more magical than the internet, anyway."
     mc "No place is more magical than the internet, anyway."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1284
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1285
 translate crowdin quest_maya_witch_help_b2b18a66:
 
     # maxine afraid "Or more dangerous!"
     maxine afraid "Or more dangerous!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1293
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1294
 translate crowdin quest_maya_witch_help_8d16a72b:
 
     # "Pfft! Dangerous? I'm sure it will be just fine..."
     "Pfft! Dangerous? I'm sure it will be just fine..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1297
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1298
 translate crowdin quest_maya_witch_help_75f7c0dd:
 
     # mc "Is that a threat?"
     mc "Is that a threat?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1298
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1299
 translate crowdin quest_maya_witch_help_b92800ff:
 
     # maxine eyeroll "It's the truth, if you play around with curses."
     maxine eyeroll "It's the truth, if you play around with curses."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1299
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1300
 translate crowdin quest_maya_witch_help_cffda663:
 
     # mc "Pfft! It's curses that better not play around with me."
     mc "Pfft! It's curses that better not play around with me."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1301
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1302
 translate crowdin quest_maya_witch_help_69c4fd5e:
 
     # mc "I've been taking the gym more seriously. Look at these guns!"
     mc "I've been taking the gym more seriously. Look at these guns!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1302
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1303
 translate crowdin quest_maya_witch_help_4198f460:
 
     # maxine annoyed "It's impossible to hit a curse. The necessary velocity can't be obtained.{space=-55}"
     maxine annoyed "It's impossible to hit a curse. The necessary velocity can't be obtained.{space=-55}"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1303
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1304
 translate crowdin quest_maya_witch_help_13879c01:
 
     # mc "Well, that's why I'm asking for your help."
     mc "Well, that's why I'm asking for your help."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1304
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1305
 translate crowdin quest_maya_witch_help_5e1a7355:
 
     # maxine confident "I see. You were wise to seek my council."
     maxine confident "I see. You were wise to seek my council."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1305
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1306
 translate crowdin quest_maya_witch_help_a7ee599a:
 
     # maxine confident "I'll gather them together and—"
     maxine confident "I'll gather them together and—"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1306
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1307
 translate crowdin quest_maya_witch_help_64d4022b:
 
     # mc "Sorry, but it's kind of time sensitive..."
     mc "Sorry, but it's kind of time sensitive..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1307
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1308
 translate crowdin quest_maya_witch_help_625e3537:
 
     # maxine skeptical "You play a dangerous game, [mc]."
     maxine skeptical "You play a dangerous game, [mc]."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1308
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1309
 translate crowdin quest_maya_witch_help_a602260e:
 
     # mc "The most dangerous one."
     mc "The most dangerous one."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1309
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1310
 translate crowdin quest_maya_witch_help_9e571e2f:
 
     # maxine confident_hands_down "I didn't realize you hunt."
     maxine confident_hands_down "I didn't realize you hunt."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1310
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1311
 translate crowdin quest_maya_witch_help_4015f960:
 
     # mc "I, err... I don't."
     mc "I, err... I don't."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1313
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1314
 translate crowdin quest_maya_witch_help_e0d6de64:
 
     # mc "I'll let you lead the procession, then."
     mc "I'll let you lead the procession, then."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1314
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1315
 translate crowdin quest_maya_witch_help_69ac7033:
 
     # maxine smile "Oh, no, if you're dead, then I'm already long gone."
     maxine smile "Oh, no, if you're dead, then I'm already long gone."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1315
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1316
 translate crowdin quest_maya_witch_help_912cc7f4:
 
     # mc "...what is that even supposed to mean?"
     mc "...what is that even supposed to mean?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1316
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1317
 translate crowdin quest_maya_witch_help_8853ef73:
 
     # maxine smile "Exactly what I just said."
     maxine smile "Exactly what I just said."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1317
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1318
 translate crowdin quest_maya_witch_help_995c0841:
 
     # mc "So, you know how I die?"
     mc "So, you know how I die?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1318
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1319
 translate crowdin quest_maya_witch_help_ae8f8124:
 
     # maxine laughing "Don't be absurd! How could I know that?"
     maxine laughing "Don't be absurd! How could I know that?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1319
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1320
 translate crowdin quest_maya_witch_help_550d4607:
 
     # maxine neutral "I know {i}when{/} you die."
     maxine neutral "I know {i}when{/} you die."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1320
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1321
 translate crowdin quest_maya_witch_help_0a7ffbf1:
 
     # "If that's not enough to send a chill down the spine, I don't know what is..."
     "If that's not enough to send a chill down the spine, I don't know what is..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1321
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1322
 translate crowdin quest_maya_witch_help_2c49a9a6:
 
     # mc "I don't like where this conversation is going."
     mc "I don't like where this conversation is going."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1322
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1323
 translate crowdin quest_maya_witch_help_69c1ea2a:
 
     # maxine neutral "You asked."
     maxine neutral "You asked."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1323
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1324
 translate crowdin quest_maya_witch_help_0863166c:
 
     # mc "And I regret it."
     mc "And I regret it."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1324
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1325
 translate crowdin quest_maya_witch_help_c1e188cd:
 
     # mc "Anyway, can you help me out or not?"
     mc "Anyway, can you help me out or not?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1325
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1326
 translate crowdin quest_maya_witch_help_4d1e201d:
 
     # maxine sad "I may have a mutually beneficial solution."
     maxine sad "I may have a mutually beneficial solution."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1329
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1330
 translate crowdin quest_maya_witch_help_14166bea:
 
     # maxine sad "I grant you permission to come to my office tomorrow between the hours of [timeframe]."
     maxine sad "I grant you permission to come to my office tomorrow between the hours of [timeframe]."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1333
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1334
 translate crowdin quest_maya_witch_help_3d7b7765:
 
     # maxine sad "I grant you permission to come to my office between the hours of [timeframe]."
     maxine sad "I grant you permission to come to my office between the hours of [timeframe]."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1334
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1335
 translate crowdin quest_maya_witch_help_ec402f8a:
 
     # mc "That's a tiny window..."
     mc "That's a tiny window..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1335
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1336
 translate crowdin quest_maya_witch_help_7a37d738:
 
     # maxine thinking "I'm a very busy woman, [mc]."
     maxine thinking "I'm a very busy woman, [mc]."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1336
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1337
 translate crowdin quest_maya_witch_help_a87be5c5:
 
     # maxine thinking "The secret popcorn dispenser isn't going to oil itself."
     maxine thinking "The secret popcorn dispenser isn't going to oil itself."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1337
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1338
 translate crowdin quest_maya_witch_help_df29e2e1:
 
     # "I'm not sure if that's some kind of euphemism, but knowing [maxine], probably not."
     "I'm not sure if that's some kind of euphemism, but knowing [maxine], probably not."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1338
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1339
 translate crowdin quest_maya_witch_help_f725bea5:
 
     # "Still, I don't want to know."
     "Still, I don't want to know."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1340
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1341
 translate crowdin quest_maya_witch_help_23c61137:
 
     # mc "Very well. I'll meet you tomorrow within that absurd timeframe."
     mc "Very well. I'll meet you tomorrow within that absurd timeframe."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1342
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1343
 translate crowdin quest_maya_witch_help_f972141a:
 
     # mc "Very well. I'll meet you within that absurd timeframe."
     mc "Very well. I'll meet you within that absurd timeframe."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1343
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1344
 translate crowdin quest_maya_witch_help_a31991bd:
 
     # maxine thinking "It's a pretty standard time, actually."
     maxine thinking "It's a pretty standard time, actually."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1344
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1345
 translate crowdin quest_maya_witch_help_29310efc:
 
     # mc "Whatever you say."
     mc "Whatever you say."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1361
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1362
 translate crowdin quest_maya_witch_meet_up_school_homeroom_rope_d1923d35:
 
     # "What the hell? Did [maxine] just pull up the rope?"
     "What the hell? Did [maxine] just pull up the rope?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1362
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1363
 translate crowdin quest_maya_witch_meet_up_school_homeroom_rope_6313ba68:
 
     # "You've got to be kidding me..."
     "You've got to be kidding me..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1367
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1368
 translate crowdin quest_maya_witch_meet_up_60527ec9:
 
     # maxine thinking "I may have something that can help you."
     maxine thinking "I may have something that can help you."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1368
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1369
 translate crowdin quest_maya_witch_meet_up_a9c9f206:
 
     # mc "That's exactly why I'm here."
     mc "That's exactly why I'm here."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1369
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1370
 translate crowdin quest_maya_witch_meet_up_e6654e96:
 
     # maxine sad "But..."
     maxine sad "But..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1370
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1371
 translate crowdin quest_maya_witch_meet_up_34f6f3fe:
 
     # "Great. Of course there's a but."
     "Great. Of course there's a but."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1371
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1372
 translate crowdin quest_maya_witch_meet_up_bb09d26d:
 
     # maxine thinking "First I need your assistance."
     maxine thinking "First I need your assistance."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1372
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1373
 translate crowdin quest_maya_witch_meet_up_cf4316fe:
 
     # maxine thinking "I've recently switched some of the hardware on my computer, and\nI need help bringing it to life again."
     maxine thinking "I've recently switched some of the hardware on my computer, and\nI need help bringing it to life again."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1373
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1374
 translate crowdin quest_maya_witch_meet_up_d0002cfb:
 
     # mc "Have you tried plugging it in?"
     mc "Have you tried plugging it in?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1374
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1375
 translate crowdin quest_maya_witch_meet_up_0bc1bb14:
 
     # maxine afraid "No, no! It's not safe!"
     maxine afraid "No, no! It's not safe!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1375
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1376
 translate crowdin quest_maya_witch_meet_up_e4505c59:
 
     # "I really should get her a tinfoil hat for Christmas..."
     "I really should get her a tinfoil hat for Christmas..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1376
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1377
 translate crowdin quest_maya_witch_meet_up_71d7ae24:
 
     # mc "Well, how do you plan on using it, then?"
     mc "Well, how do you plan on using it, then?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1377
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1378
 translate crowdin quest_maya_witch_meet_up_04bb06df:
 
     # maxine confident "That's where you come in."
     maxine confident "That's where you come in."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1378
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1379
 translate crowdin quest_maya_witch_meet_up_2fb3e5bb:
 
     # maxine confident "You see, I need my electricity kinetically generated to this generator and kept solely to this room."
     maxine confident "You see, I need my electricity kinetically generated to this generator and kept solely to this room."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1379
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1380
 translate crowdin quest_maya_witch_meet_up_afd984e8:
 
     # mc "Right, that makes perfect sense. Absolutely."
     mc "Right, that makes perfect sense. Absolutely."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1380
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1381
 translate crowdin quest_maya_witch_meet_up_662ca263:
 
     # mc "So, what do you want me to do?"
     mc "So, what do you want me to do?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1381
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1382
 translate crowdin quest_maya_witch_meet_up_b7b4582e:
 
     # maxine confident "You'll hook yourself up to these electrodes and create the power required."
     maxine confident "You'll hook yourself up to these electrodes and create the power required."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1382
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1383
 translate crowdin quest_maya_witch_meet_up_3866026d:
 
     # mc "And in return, you'll help me with the curse?"
     mc "And in return, you'll help me with the curse?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1383
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1384
 translate crowdin quest_maya_witch_meet_up_4de0ef3b:
 
     # maxine skeptical "I'll give you the necessary tools and ensure you are not tried under Article II, subsection 1C, clause 592."
     maxine skeptical "I'll give you the necessary tools and ensure you are not tried under Article II, subsection 1C, clause 592."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1384
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1385
 translate crowdin quest_maya_witch_meet_up_2015c847:
 
     # mc "Tried? For what?"
     mc "Tried? For what?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1385
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1386
 translate crowdin quest_maya_witch_meet_up_079cf259:
 
     # maxine angry "For practicing without the supervision of a certified Hexologist!"
     maxine angry "For practicing without the supervision of a certified Hexologist!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1386
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1387
 translate crowdin quest_maya_witch_meet_up_62b8f504:
 
     # mc "Right, right!"
     mc "Right, right!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1387
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1388
 translate crowdin quest_maya_witch_meet_up_19ceed6a:
 
     # "The things I go along with sometimes..."
     "The things I go along with sometimes..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1388
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1389
 translate crowdin quest_maya_witch_meet_up_97dca029:
 
     # mc "Fine. You have a deal."
     mc "Fine. You have a deal."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1389
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1390
 translate crowdin quest_maya_witch_meet_up_68c62b45:
 
     # maxine laughing "Excellent!"
     maxine laughing "Excellent!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1392
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1393
 translate crowdin quest_maya_witch_meet_up_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1395
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1396
 translate crowdin quest_maya_witch_meet_up_9dc34584:
 
     # mc "So, I just run in place or what?"
     mc "So, I just run in place or what?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1396
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1397
 translate crowdin quest_maya_witch_meet_up_b41ad8cd:
 
     # maxine excited_electrodes "That's exactly right!"
     maxine excited_electrodes "That's exactly right!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1397
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1398
 translate crowdin quest_maya_witch_meet_up_f076040b:
 
     # maxine excited_electrodes "Just remove your shirt and attach these electrodes to your chest and the sides of your head."
     maxine excited_electrodes "Just remove your shirt and attach these electrodes to your chest and the sides of your head."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1406
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1407
 translate crowdin quest_maya_witch_meet_up_33b6de01:
 
     # "When I woke up this morning, I never thought I'd be doing physical labor in exchange for curse help."
     "When I woke up this morning, I never thought I'd be doing physical labor in exchange for curse help."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1407
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1408
 translate crowdin quest_maya_witch_meet_up_98a092ed:
 
     # "Life really is full of unexpected twists sometimes."
     "Life really is full of unexpected twists sometimes."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1408
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1409
 translate crowdin quest_maya_witch_meet_up_b0cf421a:
 
     # "Hopefully, this can help [maya] and I won't keel over before then."
     "Hopefully, this can help [maya] and I won't keel over before then."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1409
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1410
 translate crowdin quest_maya_witch_meet_up_068c0f96:
 
     # maxine electrodes_run smile "Whenever you're ready."
     maxine electrodes_run smile "Whenever you're ready."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1410
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1411
 translate crowdin quest_maya_witch_meet_up_3c69533a:
 
     # mc "Okay, here goes nothing..."
     mc "Okay, here goes nothing..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1416
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1417
 translate crowdin quest_maya_witch_meet_up_aee12f75:
 
     # "I start with a light jog, my heart rate spiking as the generator gives a little hiss of life."
     "I start with a light jog, my heart rate spiking as the generator gives a little hiss of life."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1417
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1418
 translate crowdin quest_maya_witch_meet_up_59da59ae:
 
     # maxine electrodes_run annoyed jog "Faster!"
     maxine electrodes_run annoyed jog "Faster!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1418
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1419
 translate crowdin quest_maya_witch_meet_up_f5319994:
 
     # mc "All right, all right!"
     mc "All right, all right!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1420
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1421
 translate crowdin quest_maya_witch_meet_up_ca5f8e21:
 
     # "Against the weak protests of my aching lungs, I take the jog to a run.{space=-25}"
     "Against the weak protests of my aching lungs, I take the jog to a run.{space=-25}"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1421
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1422
 translate crowdin quest_maya_witch_meet_up_b2d499c2:
 
     # "The sweat gathers at my temples and drips down my head."
     "The sweat gathers at my temples and drips down my head."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1427
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1428
 translate crowdin quest_maya_witch_meet_up_f2cc6a6c:
 
     # "The generator kicks into gear then and [maxine]'s computer flickers to life."
     "The generator kicks into gear then and [maxine]'s computer flickers to life."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1428
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1429
 translate crowdin quest_maya_witch_meet_up_365450fe:
 
     # mc "Why... am I... doing this... again...?"
     mc "Why... am I... doing this... again...?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1430
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1431
 translate crowdin quest_maya_witch_meet_up_0b0dd2fa:
 
     # maxine electrodes_run neutral run generator_lights "To generate power, of course."
     maxine electrodes_run neutral run generator_lights "To generate power, of course."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1431
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1432
 translate crowdin quest_maya_witch_meet_up_340e55bf:
 
     # mc "But... why not... use... the school... computers...?"
     mc "But... why not... use... the school... computers...?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1432
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1433
 translate crowdin quest_maya_witch_meet_up_d4def493:
 
     # maxine electrodes_run neutral run generator_lights "Technology can never be trusted."
     maxine electrodes_run neutral run generator_lights "Technology can never be trusted."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1433
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1434
 translate crowdin quest_maya_witch_meet_up_9f360b99:
 
     # mc "Whatever... you say..."
     mc "Whatever... you say..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1435
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1436
 translate crowdin quest_maya_witch_meet_up_4470bcc0:
 
     # "I pant from the excursion, my out of shape body screaming in protest.{space=-40}"
     "I pant from the excursion, my out of shape body screaming in protest.{space=-40}"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1436
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1437
 translate crowdin quest_maya_witch_meet_up_91f49f80:
 
     # "My skinny legs burn, but I know I'm running towards something."
     "My skinny legs burn, but I know I'm running towards something."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1437
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1438
 translate crowdin quest_maya_witch_meet_up_c9042370:
 
     # "I'm running towards [maya], towards being a better, more selfless person."
     "I'm running towards [maya], towards being a better, more selfless person."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1438
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1439
 translate crowdin quest_maya_witch_meet_up_853344c9:
 
     # "I would run up any hill, power any weird [maxine] experiment to help a friend."
     "I would run up any hill, power any weird [maxine] experiment to help a friend."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1439
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1440
 translate crowdin quest_maya_witch_meet_up_896ccc6e:
 
     # maxine electrodes_run excited faster_run generator_lights "That's it! Keep going!"
     maxine electrodes_run excited faster_run generator_lights "That's it! Keep going!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1440
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1441
 translate crowdin quest_maya_witch_meet_up_ec140a19:
 
     # mc "I am... {i}huff...{/} trying..."
     mc "I am... {i}huff...{/} trying..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1446
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1447
 translate crowdin quest_maya_witch_meet_up_814af03c:
 
     # "I pant through the pain in my lungs, and watch as her computer actually blinks awake."
     "I pant through the pain in my lungs, and watch as her computer actually blinks awake."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1447
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1448
 translate crowdin quest_maya_witch_meet_up_9eeff879:
 
     # mc "It's... actually... {i}huff...{/} working...?"
     mc "It's... actually... {i}huff...{/} working...?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1448
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1449
 translate crowdin quest_maya_witch_meet_up_153920bc:
 
     # maxine electrodes_run excited faster_run lights "Of course it's working! Run, [mc], run!"
     maxine electrodes_run excited faster_run lights "Of course it's working! Run, [mc], run!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1450
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1451
 translate crowdin quest_maya_witch_meet_up_c70dbc86:
 
     # mc "I'm going... {i}huff...{/} as fast... {i}puff...{/} as I can...!"
     mc "I'm going... {i}huff...{/} as fast... {i}puff...{/} as I can...!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1451
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1452
 translate crowdin quest_maya_witch_meet_up_e2e170fb:
 
     # maxine electrodes_run neutral fastest_run lights "Your physical stamina is a bit worrisome. You should probably have that checked."
     maxine electrodes_run neutral fastest_run lights "Your physical stamina is a bit worrisome. You should probably have that checked."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1452
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1453
 translate crowdin quest_maya_witch_meet_up_3343af9b:
 
     # mc "Gee... {i}huff...{/} thanks..."
     mc "Gee... {i}huff...{/} thanks..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1453
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1454
 translate crowdin quest_maya_witch_meet_up_0dfc7020:
 
     # maxine electrodes_run smile fastest_run lights "You're welcome."
     maxine electrodes_run smile fastest_run lights "You're welcome."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1454
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1455
 translate crowdin quest_maya_witch_meet_up_fc4337af:
 
     # "As I go, the generator picks up speed and the computer lights up\nin full."
     "As I go, the generator picks up speed and the computer lights up\nin full."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1455
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1456
 translate crowdin quest_maya_witch_meet_up_a023bafb:
 
     # mc "I can't... {i}huff...{/} go... any... {i}puff...{/} more...!"
     mc "I can't... {i}huff...{/} go... any... {i}puff...{/} more...!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1456
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1457
 translate crowdin quest_maya_witch_meet_up_ba3dbf74:
 
     # maxine electrodes_run smile fastest_run lights "That will be sufficient for today."
     maxine electrodes_run smile fastest_run lights "That will be sufficient for today."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1457
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1458
 translate crowdin quest_maya_witch_meet_up_db74fc70:
 
     # mc "Thank... {i}huff...{/} god..."
     mc "Thank... {i}huff...{/} god..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1466
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1467
 translate crowdin quest_maya_witch_meet_up_e0cf2280:
 
     # "I feel ready to pass out as [maxine] unhooks me, but somehow I manage to stay on my feet."
     "I feel ready to pass out as [maxine] unhooks me, but somehow I manage to stay on my feet."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1469
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1470
 translate crowdin quest_maya_witch_meet_up_e56c94e0:
 
     # mc "Actually, how about you and I generate the power together?"
     mc "Actually, how about you and I generate the power together?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1470
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1471
 translate crowdin quest_maya_witch_meet_up_aba6c6d8:
 
     # maxine concerned "Hmm... that would generate the sort of lasting electricity I need... and twice as fast..."
     maxine concerned "Hmm... that would generate the sort of lasting electricity I need... and twice as fast..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1471
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1472
 translate crowdin quest_maya_witch_meet_up_d569bc6f:
 
     # mc "Err, exactly what I was thinking."
     mc "Err, exactly what I was thinking."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1472
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1473
 translate crowdin quest_maya_witch_meet_up_4159249a:
 
     # maxine excited "Good idea, [mc]."
     maxine excited "Good idea, [mc]."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1473
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1474
 translate crowdin quest_maya_witch_meet_up_d0d1c921:
 
     # mc "Soooo, do you think we could maybe f—"
     mc "Soooo, do you think we could maybe f—"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1474
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1475
 translate crowdin quest_maya_witch_meet_up_2f12bd0e:
 
     # maxine excited "The act of intercourse is actually quite the exercise. It should be more than sufficient."
     maxine excited "The act of intercourse is actually quite the exercise. It should be more than sufficient."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1475
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1476
 translate crowdin quest_maya_witch_meet_up_a9d374b2:
 
     # mc "Agreed! I mean, I guess. Sure."
     mc "Agreed! I mean, I guess. Sure."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1476
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1477
 translate crowdin quest_maya_witch_meet_up_7b088dba:
 
     # maxine flirty "Very well. Let's commence."
     maxine flirty "Very well. Let's commence."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1477
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1478
 translate crowdin quest_maya_witch_meet_up_0787d8a2:
 
     # maxine flirty "Remove your clothing, please."
     maxine flirty "Remove your clothing, please."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1478
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1479
 translate crowdin quest_maya_witch_meet_up_17fa0e15:
 
     # "Seriously? Is [maxine] as horny as I am? Or is she really only doing this for science?"
     "Seriously? Is [maxine] as horny as I am? Or is she really only doing this for science?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1479
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1480
 translate crowdin quest_maya_witch_meet_up_c39a816f:
 
     # "Either way, who am I to stand in the way of the advancement of\nour species?"
     "Either way, who am I to stand in the way of the advancement of\nour species?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1485
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1486
 translate crowdin quest_maya_witch_meet_up_9da66419:
 
     # "I strip down as fast as I can, and I watch her do the same, but\nwith controlled precision."
     "I strip down as fast as I can, and I watch her do the same, but\nwith controlled precision."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1491
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1492
 translate crowdin quest_maya_witch_meet_up_4a9d0d11:
 
     # "She sheds her sweater, and I take the moment to appreciate\nher body."
     "She sheds her sweater, and I take the moment to appreciate\nher body."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1497
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1498
 translate crowdin quest_maya_witch_meet_up_ae385aea:
 
     # maxine flirty "The more freely our sweat can flow, the better."
     maxine flirty "The more freely our sweat can flow, the better."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1503
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1504
 translate crowdin quest_maya_witch_meet_up_b2a7ef68:
 
     # "Goddamn! This is actually happening!"
     "Goddamn! This is actually happening!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1509
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1510
 translate crowdin quest_maya_witch_meet_up_d9f16313:
 
     # mc "I definitely agree..."
     mc "I definitely agree..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1515
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1516
 translate crowdin quest_maya_witch_meet_up_6e34fb70:
 
     # maxine flirty "Then, we will hook up the electrodes and let the electricity flow."
     maxine flirty "Then, we will hook up the electrodes and let the electricity flow."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1521
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1522
 translate crowdin quest_maya_witch_meet_up_84289cab:
 
     # "She comes closer to me, her eyes on mine, lips slightly parted."
     "She comes closer to me, her eyes on mine, lips slightly parted."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1522
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1523
 translate crowdin quest_maya_witch_meet_up_29cd9369:
 
     # "She looks so kissable, so cute and flushed with the excitement\nof what's happening."
     "She looks so kissable, so cute and flushed with the excitement\nof what's happening."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1523
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1524
 translate crowdin quest_maya_witch_meet_up_38fbba8e:
 
     # "I lean in towards her, but instead of a kiss or tender touch, she places the electrodes on my chest and temples."
     "I lean in towards her, but instead of a kiss or tender touch, she places the electrodes on my chest and temples."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1524
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1525
 translate crowdin quest_maya_witch_meet_up_38b564f2:
 
     # maxine excited_electrodes "Perfect."
     maxine excited_electrodes "Perfect."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1533
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1534
 translate crowdin quest_maya_witch_meet_up_c9832fc4:
 
     # "Then, she does the same to herself before taking a seat on her desk.{space=-20}"
     "Then, she does the same to herself before taking a seat on her desk.{space=-20}"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1534
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1535
 translate crowdin quest_maya_witch_meet_up_ff7544a9:
 
     # "She spreads her legs and I see that her pussy is already moist."
     "She spreads her legs and I see that her pussy is already moist."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1535
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1536
 translate crowdin quest_maya_witch_meet_up_781ad4e7:
 
     # "Whether it's from me or her little experiment, the sight makes me fully erect."
     "Whether it's from me or her little experiment, the sight makes me fully erect."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1541
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1542
 translate crowdin quest_maya_witch_meet_up_81078aed:
 
     # "I stand in front of her, and before I can quite comprehend what's happening, [maxine] reaches down and takes hold of my dick."
     "I stand in front of her, and before I can quite comprehend what's happening, [maxine] reaches down and takes hold of my dick."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1542
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1543
 translate crowdin quest_maya_witch_meet_up_d8af07f5:
 
     # "Her hand is slightly rough — probably from all the science stuff she gets up to — but warm."
     "Her hand is slightly rough — probably from all the science stuff she gets up to — but warm."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1543
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1544
 translate crowdin quest_maya_witch_meet_up_b19cb684:
 
     # "The sensation makes my skin tingle and my abdomen clench."
     "The sensation makes my skin tingle and my abdomen clench."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1549
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1550
 translate crowdin quest_maya_witch_meet_up_c96987fd:
 
     # "Slowly, she's lining me up with her pussy, the tip of my head sliding along her opening."
     "Slowly, she's lining me up with her pussy, the tip of my head sliding along her opening."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1550
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1551
 translate crowdin quest_maya_witch_meet_up_75ac43f6:
 
     # "She grips me harder as she guides me into herself."
     "She grips me harder as she guides me into herself."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1556
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1557
 translate crowdin quest_maya_witch_meet_up_805ed6b4:
 
     # maxine electrodes_sex concerned inserting_dick "Mmmm..."
     maxine electrodes_sex concerned inserting_dick "Mmmm..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1557
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1558
 translate crowdin quest_maya_witch_meet_up_55542022:
 
     # "I'm met with some resistance at first — she's surprisingly tight."
     "I'm met with some resistance at first — she's surprisingly tight."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1563
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1564
 translate crowdin quest_maya_witch_meet_up_4590f5e0:
 
     # "But I take hold of her thighs and use them as leverage as I thrust myself the rest of the way in."
     "But I take hold of her thighs and use them as leverage as I thrust myself the rest of the way in."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1564
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1565
 translate crowdin quest_maya_witch_meet_up_4e94a146:
 
     # "I sink deep into her warm, wet hole and then just hold myself there for a moment as she squeezes me."
     "I sink deep into her warm, wet hole and then just hold myself there for a moment as she squeezes me."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1565
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1566
 translate crowdin quest_maya_witch_meet_up_af3d1ccd:
 
     # "I feel her trembling against me, her quick little breaths tickling the side of my neck."
     "I feel her trembling against me, her quick little breaths tickling the side of my neck."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1566
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1567
 translate crowdin quest_maya_witch_meet_up_07c909d2:
 
     # "When I bury my face in her own neck, the faint smell of incense and sweat pervades my nostrils."
     "When I bury my face in her own neck, the faint smell of incense and sweat pervades my nostrils."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1575
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1576
 translate crowdin quest_maya_witch_meet_up_e8010581:
 
     # "Then, remembering why we're here, I pull my hips back slightly and slam my dick into her again, hard."
     "Then, remembering why we're here, I pull my hips back slightly and slam my dick into her again, hard."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1576
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1577
 translate crowdin quest_maya_witch_meet_up_8bff13c0:
 
     # maxine electrodes_sex eyes_closed full_penetration "Oooh!"
     maxine electrodes_sex eyes_closed full_penetration "Oooh!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1607
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1608
 translate crowdin quest_maya_witch_meet_up_3766e35f:
 
     # "I piston in and out of her, the friction of her pussy reluctantly releasing me sends shivers of pleasure down my spine."
     "I piston in and out of her, the friction of her pussy reluctantly releasing me sends shivers of pleasure down my spine."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1608
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1609
 translate crowdin quest_maya_witch_meet_up_bdbd9874:
 
     # "The generator bucks into life then and its whir fills the room."
     "The generator bucks into life then and its whir fills the room."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1609
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1610
 translate crowdin quest_maya_witch_meet_up_32b4a6c3:
 
     # maxine electrodes_sex excited full_penetration generator_lights "T-that's it! Faster!"
     maxine electrodes_sex excited full_penetration generator_lights "T-that's it! Faster!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1630
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1631
 translate crowdin quest_maya_witch_meet_up_7899d442:
 
     # "I give into the sound of her cries and happily obey, thrusting myself into her faster and faster."
     "I give into the sound of her cries and happily obey, thrusting myself into her faster and faster."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1631
-translate crowdin quest_maya_witch_meet_up_217e7c49:
-
-    # "The table shakes beneath us even as [maxine] grips the edge of it for support as a hammer into her."
-    "The table shakes beneath us even as [maxine] grips the edge of it for support as a hammer into her."
-
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1632
+translate crowdin quest_maya_witch_meet_up_75968db0:
+
+    # "The table shakes beneath us even as [maxine] grips the edge of it for support as I hammer into her."
+    "The table shakes beneath us even as [maxine] grips the edge of it for support as I hammer into her."
+
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1633
 translate crowdin quest_maya_witch_meet_up_2db2afd9:
 
     # "The air is now thick with the salty tang of our sweat as it drips down{space=-10}\nour bare bodies."
     "The air is now thick with the salty tang of our sweat as it drips down{space=-10}\nour bare bodies."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1633
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1634
 translate crowdin quest_maya_witch_meet_up_22864eb3:
 
     # "Her pussy juices soak my cock as I speed up into long, deep strokes.{space=-20}"
     "Her pussy juices soak my cock as I speed up into long, deep strokes.{space=-20}"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1669
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1670
 translate crowdin quest_maya_witch_meet_up_243946f3:
 
     # mc "Is that... {i}huff...{/} fast enough... {i}puff...{/} for you?"
     mc "Is that... {i}huff...{/} fast enough... {i}puff...{/} for you?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1670
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1671
 translate crowdin quest_maya_witch_meet_up_0322a2dc:
 
     # maxine electrodes_sex eyes_closed full_penetration generator_lights gripping_table "Mmm, yes! Don't stop! P-please, don't stop!"
     maxine electrodes_sex eyes_closed full_penetration generator_lights gripping_table "Mmm, yes! Don't stop! P-please, don't stop!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1671
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1672
 translate crowdin quest_maya_witch_meet_up_6a608222:
 
     # "Her words come out in ragged, desperate pants. I like to think that it's me she's begging for now, even if it's not the case."
     "Her words come out in ragged, desperate pants. I like to think that it's me she's begging for now, even if it's not the case."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1718
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1719
 translate crowdin quest_maya_witch_meet_up_a8da3a3a:
 
     # "Willingly, I do as she asks. I go from slow to fast again, slamming into her tight little flower as it opens more and more for me."
     "Willingly, I do as she asks. I go from slow to fast again, slamming into her tight little flower as it opens more and more for me."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1719
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1720
 translate crowdin quest_maya_witch_meet_up_1bb32be6:
 
     # "Out of the corner of my eye, I see the computer flash to life."
     "Out of the corner of my eye, I see the computer flash to life."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1720
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1721
 translate crowdin quest_maya_witch_meet_up_028c3a21:
 
     # "It seems to spur [maxine] on and she begins to gyrate into me, with me.{space=-45}"
     "It seems to spur [maxine] on and she begins to gyrate into me, with me.{space=-45}"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1751
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1752
 translate crowdin quest_maya_witch_meet_up_e9079284:
 
     # "We're in sync now, our hearts hammering together, our breaths mingling, one's sweat slicking the other."
     "We're in sync now, our hearts hammering together, our breaths mingling, one's sweat slicking the other."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1752
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1753
 translate crowdin quest_maya_witch_meet_up_a08b99fe:
 
     # "Her juices leak out of her and coat the table beneath her, and the musky odor clogs my senses."
     "Her juices leak out of her and coat the table beneath her, and the musky odor clogs my senses."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1753
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1754
 translate crowdin quest_maya_witch_meet_up_e530981d:
 
     # "We've nearly reached full power and I can feel the climax approaching{space=-35}\nfor us both."
     "We've nearly reached full power and I can feel the climax approaching{space=-35}\nfor us both."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1754
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1755
 translate crowdin quest_maya_witch_meet_up_f7e88628:
 
     # "She gives a little moan and her pussy walls squeeze me tight."
     "She gives a little moan and her pussy walls squeeze me tight."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1775
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1776
 translate crowdin quest_maya_witch_meet_up_c4f51cad:
 
     # mc "F-fuck, I'm getting close!"
     mc "F-fuck, I'm getting close!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1776
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1777
 translate crowdin quest_maya_witch_meet_up_b34dfc84:
 
     # maxine electrodes_sex pleading full_penetration gripping_table lights juices "Just... mmmm... a little more..."
     maxine electrodes_sex pleading full_penetration gripping_table lights juices "Just... mmmm... a little more..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1777
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1778
 translate crowdin quest_maya_witch_meet_up_2c507336:
 
     # mc "Yeah? Want me to give it to you?"
     mc "Yeah? Want me to give it to you?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1778
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1779
 translate crowdin quest_maya_witch_meet_up_bce21177:
 
     # maxine electrodes_sex pleading full_penetration gripping_table lights juices "Y-yes! Keep going! Don't stop!"
     maxine electrodes_sex pleading full_penetration gripping_table lights juices "Y-yes! Keep going! Don't stop!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1779
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1780
 translate crowdin quest_maya_witch_meet_up_4408b860:
 
     # mc "I'm not... gonna stop..."
     mc "I'm not... gonna stop..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1818
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1819
 translate crowdin quest_maya_witch_meet_up_19c88506:
 
     # maxine electrodes_sex orgasm full_penetration gripping_table lights juices "Ohhhh!"
     maxine electrodes_sex orgasm full_penetration gripping_table lights juices "Ohhhh!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1819
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1820
 translate crowdin quest_maya_witch_meet_up_9d767d3c:
 
     # "I bottom out against her cervix and my whole body stiffens."
     "I bottom out against her cervix and my whole body stiffens."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1820
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1821
 translate crowdin quest_maya_witch_meet_up_5f7bf984:
 
     # "Her head falls back and her eyes flutter shut as her orgasm hits just before mine."
     "Her head falls back and her eyes flutter shut as her orgasm hits just before mine."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1821
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1822
 translate crowdin quest_maya_witch_meet_up_9541b7aa:
 
     # "I can feel it rolling through every inch of her as she shakes and shudders against me."
     "I can feel it rolling through every inch of her as she shakes and shudders against me."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1845
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1846
 translate crowdin quest_maya_witch_meet_up_e2db9911:
 
     # mc "Uhhhhhhh!"
     mc "Uhhhhhhh!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1846
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1847
 translate crowdin quest_maya_witch_meet_up_878f6590:
 
     # "Unable to withdraw — and with no desire to —, I explode deep within [maxine]."
     "Unable to withdraw — and with no desire to —, I explode deep within [maxine]."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1847
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1848
 translate crowdin quest_maya_witch_meet_up_bbfbc0b8:
 
     # "I fill her up as I come hard, releasing a steady stream of my hot cum deep into her womb."
     "I fill her up as I come hard, releasing a steady stream of my hot cum deep into her womb."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1848
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1849
 translate crowdin quest_maya_witch_meet_up_aabb53bb:
 
     # "There's something so hot, so primal, about coming inside of her..."
     "There's something so hot, so primal, about coming inside of her..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1849
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1850
 translate crowdin quest_maya_witch_meet_up_b9078cec:
 
     # "Everything for science, and this is the most basic, instinctual science there is."
     "Everything for science, and this is the most basic, instinctual science there is."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1850
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1851
 translate crowdin quest_maya_witch_meet_up_993806a0:
 
     # "A man filling a woman with his seed. Survival of the human race."
     "A man filling a woman with his seed. Survival of the human race."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1851
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1852
 translate crowdin quest_maya_witch_meet_up_5d6c94d5:
 
     # "Not that I want to get her pregnant, but... damn if that need to stay buried deep within her doesn't drown out all other thoughts."
     "Not that I want to get her pregnant, but... damn if that need to stay buried deep within her doesn't drown out all other thoughts."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1857
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1858
 translate crowdin quest_maya_witch_meet_up_f29687db:
 
     # "I groan as my stream turns to spurts and the convulsions stop racking through me."
     "I groan as my stream turns to spurts and the convulsions stop racking through me."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1858
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1859
 translate crowdin quest_maya_witch_meet_up_f3c73f58:
 
     # "Our hearts are still galloping as I finally pull out of her, and the computer pulses with life now."
     "Our hearts are still galloping as I finally pull out of her, and the computer pulses with life now."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1859
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1860
 translate crowdin quest_maya_witch_meet_up_83a6f942:
 
     # mc "H-how's that... for kinetic energy...?"
     mc "H-how's that... for kinetic energy...?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1860
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1861
 translate crowdin quest_maya_witch_meet_up_21e8f477:
 
     # "Her breathing is still uneven and her glasses are slightly fogged over, but she offers me a smile."
     "Her breathing is still uneven and her glasses are slightly fogged over, but she offers me a smile."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1861
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1862
 translate crowdin quest_maya_witch_meet_up_327bc656:
 
     # maxine electrodes_sex aftermath no_penetration lights juices cum "Exactly what I needed..."
     maxine electrodes_sex aftermath no_penetration lights juices cum "Exactly what I needed..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1862
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1863
 translate crowdin quest_maya_witch_meet_up_fe81a59d:
 
     # "Me too, it turns out."
     "Me too, it turns out."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1872
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1873
 translate crowdin quest_maya_witch_meet_up_8faccedd:
 
     # "[maxine] finishes catching her breath and removes our electrodes before getting dressed, back to business as usual."
     "[maxine] finishes catching her breath and removes our electrodes before getting dressed, back to business as usual."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1873
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1874
 translate crowdin quest_maya_witch_meet_up_8ba79656:
 
     # "I follow suit and pull my own clothes back on."
     "I follow suit and pull my own clothes back on."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1874
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1875
 translate crowdin quest_maya_witch_meet_up_b846c097:
 
     # mc "So, about that tool you said could help me?"
     mc "So, about that tool you said could help me?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1875
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1876
 translate crowdin quest_maya_witch_meet_up_cf0bc74f:
 
     # maxine laughing "Ah, yes! There's nothing like a good book to help one in need."
     maxine laughing "Ah, yes! There's nothing like a good book to help one in need."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1876
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1877
 translate crowdin quest_maya_witch_meet_up_961c39f6:
 
     # mc "What kind of book?"
     mc "What kind of book?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1877
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1878
 translate crowdin quest_maya_witch_meet_up_9111fee2:
 
     # maxine smile "It's a spell book. Perfect for all your casting, lifting, containing, selling, distilling, and/or pickling needs."
     maxine smile "It's a spell book. Perfect for all your casting, lifting, containing, selling, distilling, and/or pickling needs."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1878
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1879
 translate crowdin quest_maya_witch_meet_up_16426986:
 
     # maxine smile "Here you go."
     maxine smile "Here you go."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1883
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1884
 translate crowdin quest_maya_witch_meet_up_b4e621cf:
 
     # mc "A spell book? Really?"
     mc "A spell book? Really?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1884
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1885
 translate crowdin quest_maya_witch_meet_up_0fba9720:
 
     # maxine smile "I've read it three times. It's very good."
     maxine smile "I've read it three times. It's very good."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1885
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1886
 translate crowdin quest_maya_witch_meet_up_7aa91420:
 
     # "I suppose I did come here asking about curses..."
     "I suppose I did come here asking about curses..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1886
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1887
 translate crowdin quest_maya_witch_meet_up_80d29ca4:
 
     # "What other option do I have, anyway?"
     "What other option do I have, anyway?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1887
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1888
 translate crowdin quest_maya_witch_meet_up_6a049dd2:
 
     # mc "Very well. I'll give it a try."
     mc "Very well. I'll give it a try."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1888
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1889
 translate crowdin quest_maya_witch_meet_up_cfcc68d8:
 
     # maxine laughing "Have fun!"
     maxine laughing "Have fun!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1889
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1890
 translate crowdin quest_maya_witch_meet_up_6dc051d7:
 
     # mc "Thanks, I guess?"
     mc "Thanks, I guess?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1893
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1894
 translate crowdin quest_maya_witch_meet_up_cca120e0:
 
     # "I can't believe I'm actually going to try breaking a curse with this dusty old thing."
     "I can't believe I'm actually going to try breaking a curse with this dusty old thing."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1894
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1895
 translate crowdin quest_maya_witch_meet_up_289e0215:
 
     # "It's all fun and games until you're in a face-off with an ancient witchy spell or something."
     "It's all fun and games until you're in a face-off with an ancient witchy spell or something."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1895
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1896
 translate crowdin quest_maya_witch_meet_up_dfc0adf0:
 
     # "This is how you fall deeper into the rabbit hole."
     "This is how you fall deeper into the rabbit hole."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1896
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1897
 translate crowdin quest_maya_witch_meet_up_a20cefa7:
 
     # "..."
     "..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1897
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1898
 translate crowdin quest_maya_witch_meet_up_79d9bfdc:
 
     # "But if it helps [maya]..."
     "But if it helps [maya]..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1898
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1899
 translate crowdin quest_maya_witch_meet_up_7699136a:
 
     # "I just need to read through this thing, and probably give her some space."
     "I just need to read through this thing, and probably give her some space."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1899
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1900
 translate crowdin quest_maya_witch_meet_up_5a280940:
 
     # "After all, she's not the most social type, and I basically stalked her the entire day."
     "After all, she's not the most social type, and I basically stalked her the entire day."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1900
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1901
 translate crowdin quest_maya_witch_meet_up_787232b1:
 
     # "Those who wait for something good, and all that jazz."
     "Those who wait for something good, and all that jazz."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1906
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1907
 translate crowdin quest_maya_witch_black_market_home_bedroom_computer_b233c58c:
 
     # "Who needs [maxine] when the internet is more reliable and coherent?"
     "Who needs [maxine] when the internet is more reliable and coherent?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1907
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1908
 translate crowdin quest_maya_witch_black_market_home_bedroom_computer_e53fdafa:
 
     # "I'm sure there's all kinds of books on how to deal with this crap."
     "I'm sure there's all kinds of books on how to deal with this crap."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1908
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1909
 translate crowdin quest_maya_witch_black_market_home_bedroom_computer_d2b31bb6:
 
     # "Let's see here... I just need to get that shady site pulled up..."
     "Let's see here... I just need to get that shady site pulled up..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1909
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1910
 translate crowdin quest_maya_witch_black_market_home_bedroom_computer_a20cefa7:
 
     # "..."
     "..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1910
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1911
 translate crowdin quest_maya_witch_black_market_home_bedroom_computer_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1911
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1912
 translate crowdin quest_maya_witch_black_market_home_bedroom_computer_f3f93db2:
 
     # "Ah, perfect! Here we go."
     "Ah, perfect! Here we go."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1916
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1917
 translate crowdin quest_maya_witch_black_market_d2ad8026:
 
     # "One anti-hex, magical spell recipe book coming right up!"
     "One anti-hex, magical spell recipe book coming right up!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1917
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1918
 translate crowdin quest_maya_witch_black_market_a20cefa7:
 
     # "..."
     "..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1918
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1919
 translate crowdin quest_maya_witch_black_market_57c44cf9:
 
     # "I may have just gipped myself big time."
     "I may have just gipped myself big time."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1919
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1920
 translate crowdin quest_maya_witch_black_market_f0d833f2:
 
     # "Or I'm about to swoop in and be the hero [maya] didn't want but maybe needs."
     "Or I'm about to swoop in and be the hero [maya] didn't want but maybe needs."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1920
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1921
 translate crowdin quest_maya_witch_black_market_08c1f7c6:
 
     # "Either way, time to wait for the delivery..."
@@ -5460,23 +5460,23 @@ translate crowdin strings:
     old "Pee on the fire"
     new "Pee on the fire"
 
-    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1263
+    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264
     old "\"You know what? Nevermind.\""
     new "\"You know what? Nevermind.\""
 
-    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1263
+    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264
     old "\"Is that a threat?\""
     new "\"Is that a threat?\""
 
-    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1263
+    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264
     old "\"I'll let you lead the procession, then.\""
     new "\"I'll let you lead the procession, then.\""
 
-    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1391
+    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1392
     old "\"So, I just run in place or what?\""
     new "\"So, I just run in place or what?\""
 
-    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1391
+    # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1392
     old "?maxine.lust>=8@[maxine.lust]/8|{image=maxine contact_icon}|{image=stats lust_3}|\"Actually, how about you and I generate the power together?\""
     new "?maxine.lust>=8@[maxine.lust]/8|{image=maxine contact_icon}|{image=stats lust_3}|\"Actually, how about you and I generate the power together?\""
 
