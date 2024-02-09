@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 19:54\n"
+"PO-Revision-Date: 2024-02-09 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/42_flora_shower.rpy:9 #-#-# translate crowdin replay_flora_shower_ee601bed:
 msgid "Ah! The flow of water finally washing away the smell of the river!"
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/1000_base_game/game/replays/42_flora_shower.rpy:20 #-#-# translate crowdin replay_flora_shower_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/replays/42_flora_shower.rpy:23 #-#-# translate crowdin replay_flora_shower_c4b4df74:
 msgid "[_flora_] Oh! [withvpunch]"
