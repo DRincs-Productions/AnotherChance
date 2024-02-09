@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 17:04\n"
+"PO-Revision-Date: 2024-02-09 17:01\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:17 #-#-# translate crowdin school_nurse_room_strikebook_interact_331c5bce:
+# TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:17 #-#-# translate crowdin school_nurse_room_strikebook_interact_331c5bce:
 msgid "Let's see here..."
 msgstr "Voyons voir ici ..."
 
@@ -33,14 +33,12 @@ msgid "?nurse_strikes_text>=1@1 strike|{image=school nurse_room strikebook}|Forc
 msgstr "? nurse_strikes_text> =1@1 grève | { image=school nurse_room strikebook } | nudité forcée (Office)"
 
 # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:22
-msgid "?nurse_strikes_text>=5@5 strikes|{image=school nurse_room strikebook}|Forced nudity (School)\n"
+msgid "?False@5 strikes|{image=school nurse_room strikebook}|Forced nudity (School)\n"
 "{space=33}{color=#C00}(not yet available){/}"
-msgstr "? nurse_strikes_text> =5@5 grèves | { image=school nurse_room strikebook } | Forced nudité (School)\n"
-"{ space=33 } { color=#C00} (pas encore disponible) { / }"
+msgstr ""
 
 # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:22
-msgid "?nurse_strikes_text>=10@10 strikes|{image=school nurse_room strikebook}|{space=57}Spanking\n"
+msgid "?False@10 strikes|{image=school nurse_room strikebook}|{space=57}Spanking\n"
 "{color=#C00}(not yet available){/}"
-msgstr "? nurse_strikes_text> =10@ 10 grèves | { image=school nurse_room strikebook } | { space=57 } Spanking\n"
-"{ color=#C00} (pas encore disponible) { / }"
+msgstr ""
 
