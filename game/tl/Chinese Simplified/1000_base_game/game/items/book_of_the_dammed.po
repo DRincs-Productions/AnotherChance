@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 18:44\n"
+"PO-Revision-Date: 2024-02-09 16:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/book_of_the_dammed.rpy:18 #-#-# translate crowdin book_of_the_dammed_interact_3570fe06:
 msgid "{i}\"Contains foul language and dangerous information. Read with extreme caution.\"{/}"
-msgstr ""
+msgstr "{i}\"内含粗俗语言和危险信息。阅读时请格外小心。\"{/}"
 
 # game/1000_base_game/game/items/book_of_the_dammed.rpy:19 #-#-# translate crowdin book_of_the_dammed_interact_71b3349f:
 msgid "Why is there a disclaimer on the first page of this book?"
-msgstr ""
+msgstr "为什么这本书的第一页就有免责声明？"
 
