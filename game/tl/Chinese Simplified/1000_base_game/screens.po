@@ -10,104 +10,105 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 19:58\n"
+"PO-Revision-Date: 2024-02-09 17:16\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 # game/1000_base_game/screens.rpy:257
 msgid "History"
-msgstr ""
+msgstr "历史"
 
 # game/1000_base_game/screens.rpy:258
 msgid "Skip"
-msgstr ""
+msgstr "跳过"
 
 # game/1000_base_game/screens.rpy:259
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 # game/1000_base_game/screens.rpy:260
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 # game/1000_base_game/screens.rpy:261
 msgid "Q.Save"
-msgstr ""
+msgstr "快速保存"
 
 # game/1000_base_game/screens.rpy:262
 msgid "Q.Load"
-msgstr ""
+msgstr "快速读取"
 
 # game/1000_base_game/screens.rpy:263
 msgid "Prefs"
-msgstr ""
+msgstr "偏好"
 
 # game/1000_base_game/screens.rpy:304
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 # game/1000_base_game/screens.rpy:312
 msgid "Load"
-msgstr ""
+msgstr "读取"
 
 # game/1000_base_game/screens.rpy:314
 msgid "Preferences"
-msgstr ""
+msgstr "偏好设置"
 
 # game/1000_base_game/screens.rpy:318
 msgid "End Replay"
-msgstr ""
+msgstr "结束回放"
 
 # game/1000_base_game/screens.rpy:322
 msgid "Main Menu"
-msgstr ""
+msgstr "主菜单"
 
 # game/1000_base_game/screens.rpy:324
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 # game/1000_base_game/screens.rpy:335
 msgid "Quit"
-msgstr ""
+msgstr "离开"
 
 # game/1000_base_game/screens.rpy:560
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "版本 [config.version!t]\n"
 
 # game/1000_base_game/screens.rpy:566
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "由 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作。\n\n"
+"[renpy.license!t]"
 
 # game/1000_base_game/screens.rpy:648
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/1000_base_game/screens.rpy:648
 msgid "empty slot"
-msgstr ""
+msgstr "空存档"
 
 # game/1000_base_game/screens.rpy:665
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/1000_base_game/screens.rpy:668
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}自动"
 
 # game/1000_base_game/screens.rpy:671
 msgid "{#quick_page}Q"
-msgstr ""
+msgstr "{#quick_page}快速"
 
 # game/1000_base_game/screens.rpy:677
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/1000_base_game/screens.rpy:734
 msgid "Display"
-msgstr ""
+msgstr "显示"
 
 # game/1000_base_game/screens.rpy:735
 msgid "Window"
@@ -115,196 +116,199 @@ msgstr ""
 
 # game/1000_base_game/screens.rpy:736
 msgid "Fullscreen"
-msgstr ""
+msgstr "全屏"
 
 # game/1000_base_game/screens.rpy:740
 msgid "Rollback Side"
-msgstr ""
+msgstr "回滚一侧"
 
 # game/1000_base_game/screens.rpy:748
 msgid "Unseen Text"
-msgstr ""
+msgstr "未读文本"
 
 # game/1000_base_game/screens.rpy:749
 msgid "After Choices"
-msgstr ""
+msgstr "之后的选项"
 
 # game/1000_base_game/screens.rpy:750
 msgid "Transitions"
-msgstr ""
+msgstr "转场"
 
 # game/1000_base_game/screens.rpy:763
 msgid "Text Speed"
-msgstr ""
+msgstr "文本速度"
 
 # game/1000_base_game/screens.rpy:767
 msgid "Auto-Forward Time"
-msgstr ""
+msgstr "自动推进时间"
 
 # game/1000_base_game/screens.rpy:774
 msgid "Music Volume"
-msgstr ""
+msgstr "音乐音量"
 
 # game/1000_base_game/screens.rpy:781
 msgid "Sound Volume"
-msgstr ""
+msgstr "音效音量"
 
 # game/1000_base_game/screens.rpy:787
 msgid "Test"
-msgstr ""
+msgstr "测试"
 
 # game/1000_base_game/screens.rpy:802
 msgid "Mute All"
-msgstr ""
+msgstr "全部静音"
 
 # game/1000_base_game/screens.rpy:921
 msgid "The dialogue history is empty."
-msgstr ""
+msgstr "对话历史记录为空。"
 
 # game/1000_base_game/screens.rpy:991
 msgid "Keyboard"
-msgstr ""
+msgstr "键盘"
 
 # game/1000_base_game/screens.rpy:992
 msgid "Mouse"
-msgstr ""
+msgstr "鼠标"
 
 # game/1000_base_game/screens.rpy:995
 msgid "Gamepad"
-msgstr ""
+msgstr "手柄"
 
 # game/1000_base_game/screens.rpy:1008
 msgid "Enter"
-msgstr ""
+msgstr "回车"
 
 # game/1000_base_game/screens.rpy:1009
 msgid "Advances dialogue and activates the interface."
-msgstr ""
+msgstr "推进对话和打开界面。"
 
 # game/1000_base_game/screens.rpy:1012
 msgid "Space"
-msgstr ""
+msgstr "空格"
 
 # game/1000_base_game/screens.rpy:1013
 msgid "Advances dialogue without selecting choices."
-msgstr ""
+msgstr "在不选择选项的情况下推进对话。"
 
 # game/1000_base_game/screens.rpy:1016
 msgid "Arrow Keys"
-msgstr ""
+msgstr "方向键"
 
 # game/1000_base_game/screens.rpy:1017
 msgid "Navigate the interface."
-msgstr ""
+msgstr "导航界面。"
 
 # game/1000_base_game/screens.rpy:1020
 msgid "Escape"
-msgstr ""
+msgstr "Esc键"
 
 # game/1000_base_game/screens.rpy:1021
 msgid "Accesses the game menu."
-msgstr ""
+msgstr "打开游戏菜单。"
 
 # game/1000_base_game/screens.rpy:1024
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 # game/1000_base_game/screens.rpy:1025
 msgid "Skips dialogue while held down."
-msgstr ""
+msgstr "摁住此键时跳过对话。"
 
 # game/1000_base_game/screens.rpy:1028
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 # game/1000_base_game/screens.rpy:1029
 msgid "Toggles dialogue skipping."
-msgstr ""
+msgstr "按住Tab切换键可跳过对话。"
 
 # game/1000_base_game/screens.rpy:1032
 msgid "Page Up"
-msgstr ""
+msgstr "向上翻页"
 
 # game/1000_base_game/screens.rpy:1033
 msgid "Rolls back to earlier dialogue."
-msgstr ""
+msgstr "回滚到之前的对话。"
 
 # game/1000_base_game/screens.rpy:1036
 msgid "Page Down"
-msgstr ""
+msgstr "向下翻页"
 
 # game/1000_base_game/screens.rpy:1037
 msgid "Rolls forward to later dialogue."
-msgstr ""
+msgstr "回滚到之后的对话。"
 
 # game/1000_base_game/screens.rpy:1041
 msgid "Hides the user interface."
-msgstr ""
+msgstr "隐藏用户界面。"
 
 # game/1000_base_game/screens.rpy:1045
 msgid "Takes a screenshot."
-msgstr ""
+msgstr "截屏。"
 
 # game/1000_base_game/screens.rpy:1049
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr ""
+msgstr "切换无障碍{a=https://www.renpy.org/l/voicing}自动语音{/a}。"
 
 # game/1000_base_game/screens.rpy:1055
 msgid "Left Click"
-msgstr ""
+msgstr "鼠标左键"
 
 # game/1000_base_game/screens.rpy:1059
 msgid "Middle Click"
-msgstr ""
+msgstr "鼠标中键"
 
 # game/1000_base_game/screens.rpy:1063
 msgid "Right Click"
-msgstr ""
+msgstr "鼠标右键"
 
 # game/1000_base_game/screens.rpy:1067
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr ""
+msgstr "鼠标滚轮向上滚动\n"
+"在回滚那侧点击"
 
 # game/1000_base_game/screens.rpy:1071
 msgid "Mouse Wheel Down"
-msgstr ""
+msgstr "鼠标滚轮向下滚动"
 
 # game/1000_base_game/screens.rpy:1078
 msgid "Right Trigger\n"
 "A/Bottom Button"
-msgstr ""
+msgstr "右扳机键\n"
+"A/底部按键"
 
 # game/1000_base_game/screens.rpy:1082
 msgid "Left Trigger\n"
 "Left Shoulder"
-msgstr ""
+msgstr "左扳机键\n"
+"左肩键"
 
 # game/1000_base_game/screens.rpy:1086
 msgid "Right Shoulder"
-msgstr ""
+msgstr "右肩键"
 
 # game/1000_base_game/screens.rpy:1091
 msgid "D-Pad, Sticks"
-msgstr ""
+msgstr "十字方向键，摇杆"
 
 # game/1000_base_game/screens.rpy:1095
 msgid "Start, Guide"
-msgstr ""
+msgstr "开始，指南"
 
 # game/1000_base_game/screens.rpy:1099
 msgid "Y/Top Button"
-msgstr ""
+msgstr "Y/顶部按键"
 
 # game/1000_base_game/screens.rpy:1102
 msgid "Calibrate"
-msgstr ""
+msgstr "校准"
 
 # game/1000_base_game/screens.rpy:1214
 msgid "Skipping"
-msgstr ""
+msgstr "跳过中"
 
 # game/1000_base_game/screens.rpy:1447
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
