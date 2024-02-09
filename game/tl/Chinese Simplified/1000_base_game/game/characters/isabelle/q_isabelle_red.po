@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 18:37\n"
+"PO-Revision-Date: 2024-02-09 16:01\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:3 #-#-# translate crowdin quest_isabelle_red_start_5f580138:
 msgid "[_mc_] Hi, do you know where I could find a bucket of red paint?"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:8 #-#-# translate crowdin quest_isabelle_red_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:11 #-#-# translate crowdin quest_isabelle_red_start_67de9cd9:
 msgid "[_mc_] It's for a personal art project."
@@ -426,7 +426,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:150 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:152 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_efde0b80:
 msgid "Locks can't stop me!"
@@ -1166,7 +1166,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:438 #-#-# translate crowdin quest_isabelle_red_cabinet_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:441 #-#-# translate crowdin quest_isabelle_red_cabinet_f77a5b62:
 msgid "[_mc_] Why did you borrow the paint in the first place?"
@@ -1222,7 +1222,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:454 #-#-# translate crowdin quest_isabelle_red_cabinet_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] 什么？"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:455 #-#-# translate crowdin quest_isabelle_red_cabinet_36c75dc5:
 msgid "[_maxine_s_skeptical_] There are owls in the cellar."
