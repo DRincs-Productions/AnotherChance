@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 19:13\n"
+"PO-Revision-Date: 2024-02-09 16:34\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:35 #-#-# translate crowdin home_kitchen_stove_interact_327b112f:
 msgid "Right. After the last incident, [jo] put safety locks on the stove."
@@ -94,7 +94,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:104 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:106 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_1a818ea8:
 msgid "Honestly, following recipes is for sheep and people who are afraid of trying new flavors..."
