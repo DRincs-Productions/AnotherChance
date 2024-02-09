@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:47\n"
+"PO-Revision-Date: 2024-02-09 16:32\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:84 #-#-# translate crowdin kitchen_door_interact_flora_bonsai_sugar_b7dd851b:
+# TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:84 #-#-# translate crowdin kitchen_door_interact_flora_bonsai_sugar_b7dd851b:
 msgid "As much as I wish we had a garden of sugar canes outside, the sugar is probably hiding inside."
 msgstr "Comme j'aimerais que nous avions un jardin de cannes à sucre dehors, le sucre se cache probablement à l'intérieur."
 
@@ -60,95 +60,99 @@ msgstr "Aller à l'extérieur ressemble à un gaspillage d'une bonne maison, vou
 msgid "I can't just leave [flora] hanging. Milk or bust."
 msgstr "Je ne peux pas seulement laisser [flora] pendaison. Lait ou buste."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:125 #-#-# translate crowdin home_kitchen_door_after_hours_49578df5:
-msgid "Everyone's asleep. Late-night expeditions are what landed me the curfew. Need to work that off before further jeopardizing my freedom."
-msgstr "Tout le monde s'endorme. Les expéditions de fin de soirée sont ce qui m'a imposé le couvre-feu. Il faut travailler ça avant de mettre en péril ma liberté."
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:125 #-#-# translate crowdin home_kitchen_door_after_hours_e06e0570:
+msgid "Everyone's asleep. Late-night expeditions are what landed me the curfew."
+msgstr ""
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:131 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_e23fb5f7:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:126 #-#-# translate crowdin home_kitchen_door_after_hours_484c619f:
+msgid "I need to work that off before further jeopardizing my freedom."
+msgstr ""
+
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:132 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_e23fb5f7:
 msgid "[_jacklyn_s_neutral_] Did I miss the costume party memo? I could've rocked my slutty Professor Oak outfit."
 msgstr "[_jacklyn_s_neutral_] Ai-je manqué la note de service? J'aurais pu secouée ma chienne, le professeur Oak."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:132 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_a18b75dd:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:133 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_a18b75dd:
 msgid "[_mc_] Arr! You did, but don't worry, you can dress up as the emperor from the Emperor's New Groove."
 msgstr "[_mc_] Arr ! Vous l'avez fait, mais ne vous inquiétez pas, vous pouvez vous habiller comme l'empereur à partir du New Groove de l'Empereur."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:134 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_4dcc46f8:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:135 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_4dcc46f8:
 msgid "[_jacklyn_s_laughing_] Nice try, cherry pie."
 msgstr "[_jacklyn_s_laughing_] Nice essai, tarte à la cerise."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:135 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_f5ed863a:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:136 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_f5ed863a:
 msgid "Is she flirting with me? God, I hope so."
 msgstr "Est-ce qu'elle flirte avec moi? Mon Dieu, j'espère."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:139 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_1bfe24aa:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:140 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_1bfe24aa:
 msgid "[_jacklyn_s_smile_] Don't you look absolutely baby legs?"
 msgstr "[_jacklyn_s_smile_] Vous n'avez pas l'air de jambes absolument bébé?"
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:141 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_9c3d0b10:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:142 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_9c3d0b10:
 msgid "[_jacklyn_s_smile_] Did you dress up for me?"
 msgstr "[_jacklyn_s_smile_] Êtes-vous habillées pour moi?"
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:142 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_da221a0d:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:143 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_da221a0d:
 msgid "[_mc_] I guess, yeah. Do you like it?"
 msgstr "[_mc_] Je suppose, oui. Tu aimais ça?"
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:143 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_485c41fb:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:144 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_485c41fb:
 msgid "[_jacklyn_s_excited_right_] Yeah! I'd totally put my dick in your ass."
 msgstr "[_jacklyn_s_excited_right_] Oui ! Je metterais ma bite dans le cul."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:144 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_05500ff6:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:145 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_05500ff6:
 msgid "[_mc_] Huh?"
 msgstr "[_mc_] Huh?"
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:145 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_b2bba0b8:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:146 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_b2bba0b8:
 msgid "[_jacklyn_s_excited_] I'm kidding!"
 msgstr "[_jacklyn_s_excited_] Je plaisante !"
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:146 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_48d0ae50:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:147 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_48d0ae50:
 msgid "[_jacklyn_s_laughing_] Unless you'd like that."
 msgstr "[_jacklyn_s_laughing_] A moins que vous n'aimeriez cela."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:147 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_2b35b6fe:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:148 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_2b35b6fe:
 msgid "[_mc_] ..."
 msgstr "[_mc_]..."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:148 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_b00661f9:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:149 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_b00661f9:
 msgid "[_jacklyn_s_neutral_] Oh, quit your blushing. It's not even a real one."
 msgstr "[_jacklyn_s_neutral_] Oh, arrête votre rougeur. Ce n'est même pas un vrai."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:149 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_6875257a:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:150 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_6875257a:
 msgid "Damn, she's quite the handful. How do you handle a girl like her?"
 msgstr "Merde, c'est la poignée. Comment gérer une fille comme elle?"
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:150 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_92e3fdb3:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:151 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_92e3fdb3:
 msgid "Maybe you don't. Maybe you just have to let her take the lead."
 msgstr "Peut-être que vous ne le faites pas. Peut-être que vous avez juste à la laisser prendre le plomb."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:151 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_f231a275:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:152 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_f231a275:
 msgid "Always been shit at this, so maybe that's for the best."
 msgstr "Toujours un peu de merde, alors peut-être que c'est pour le meilleur."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:155 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_e19f4e48:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:156 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_e19f4e48:
 msgid "[_jacklyn_s_cringe_] Sweet limp-on, what is that smell?"
 msgstr "[_jacklyn_s_cringe_] Sweet limp-on, quelle odeur?"
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:156 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_ba02f65b:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:157 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_ba02f65b:
 msgid "[_mc_] It's probably Whooshster™ Sauce."
 msgstr "[_mc_] C'est probablement Whooshster™ Sauce."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:158 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_e72e97f8:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:159 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_e72e97f8:
 msgid "[_jacklyn_s_cringe_] Smells like sweat."
 msgstr "[_jacklyn_s_cringe_] Des odeurs comme la sueur."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:159 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_36f50d8c:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:160 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_36f50d8c:
 msgid "Crap. I should probably have worn something clean."
 msgstr "Crap. J'aurais probablement dû porter quelque chose de propre."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:165 #-#-# translate crowdin kitchen_door_jacklyn_statement_jackdate_57ff1716:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:166 #-#-# translate crowdin kitchen_door_jacklyn_statement_jackdate_57ff1716:
 msgid "Pretty nervous about this, but bailing wouldn't be a great strategy, no matter how you look at it."
 msgstr "Assez nerveux à ce sujet, mais bailing ne serait pas une grande stratégie, peu importe comment vous l'regardez."
 
-# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:169 #-#-# translate crowdin kitchen_door_jacklyn_statement_intruder_a97e6a70:
+# game/1000_base_game/game/locations/home/kitchen/int_door.rpy:170 #-#-# translate crowdin kitchen_door_jacklyn_statement_intruder_a97e6a70:
 msgid "I can't just leave [jacklyn] with a potential murderer in the house..."
 msgstr "Je ne peux pas seulement quitter le [jacklyn] avec un meurtrier potentiel dans la maison ..."
 
