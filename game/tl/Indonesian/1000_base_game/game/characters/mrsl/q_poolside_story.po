@@ -1,0 +1,1594 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: id\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/characters/mrsl/q_poolside_story.po\n"
+"X-Crowdin-File-ID: 11348\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Indonesian\n"
+"Language: id_ID\n"
+"PO-Revision-Date: 2024-02-09 16:05\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:3 #-#-# translate crowdin mrsl_quest_poolside_story_start_9deed393:
+msgid "[_mrsl_s_smile_] Hi, [mc]! How can I help you today?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:4 #-#-# translate crowdin mrsl_quest_poolside_story_start_de8ba2a7:
+msgid "[_mc_] I'd like to try out for the swim team."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:8 #-#-# translate crowdin mrsl_quest_poolside_story_start_66d8ebf3:
+msgid "[_mrsl_s_laughing_] Stop by the pool later, and we'll see what happens..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:9 #-#-# translate crowdin mrsl_quest_poolside_story_start_04ff78f9:
+msgid "Did she just? No..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:10 #-#-# translate crowdin mrsl_quest_poolside_story_start_7b246246:
+msgid "Must be my imagination."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:18 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_f5e4f43e:
+msgid "[_mrsl_s_neutral_] How can I help you, [mc]?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:19 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_19531080:
+msgid "[_mc_] The pool is closed until after the Newfall Independence Day festivities..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:20 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_8fa72426:
+msgid "[_mrsl_s_surprised_] Oh, that's right! I forgot to tell you about that."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:21 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_7d753c4f:
+msgid "[_mc_] What about my swim team tryout?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:22 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_8d33d3b8:
+msgid "[_mrsl_s_concerned_] Unfortunately, you'll have to wait until after Christmas."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:23 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_4fbb0278:
+msgid "[_mrsl_s_concerned_] The season is starting and the school's roster must be finalized before the Newfall Independence Day."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:24 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_36655885:
+msgid "Great. So, me trying to ruin the festivities last year really only ruined it for myself? Fuck."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:25 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_a52a31cb:
+msgid "Well, I guess it ruined it for any freshmen swimmers too..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:26 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_f33b54b8:
+msgid "Not that my goal was to actually join the swim team. I just wanted to see [mrsl] in a swimsuit."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:27 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_db603604:
+msgid "[_mc_] All right. That's too bad."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:28 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_c547daa0:
+msgid "[_mrsl_s_excited_] I hope you come and cheer for us when the season starts still."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:30 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_13a74295:
+msgid "Hmm... maybe there's a way to get around this. Surely, the freshmen won't be happy about this."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:31 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_90b78b53:
+msgid "If I get enough signatures, maybe the board will reverse the decision..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:32 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_6c67fb9a:
+msgid "Getting wet with [mrsl] is something worth fighting for."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:33 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_ed82fdaf:
+msgid "The newbies always check the bulletin board in the entrance hall."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:34 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_11fb5ca3:
+msgid "Putting a petition there would be ideal."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:35 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_a67b5c51:
+msgid "[jo] knows everything about petitions, but she also knows I wouldn't petition for anything."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:36 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_034f9008:
+msgid "[isabelle] on the other hand would probably see this as a great injustice..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:42 #-#-# translate crowdin poolside_story_isabelle_petition_9d0a82c7:
+msgid "[_mc_] Hey, [isabelle]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:43 #-#-# translate crowdin poolside_story_isabelle_petition_c6debf4f:
+msgid "[_isabelle_s_smile_] Hello!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:44 #-#-# translate crowdin poolside_story_isabelle_petition_2446b58b:
+msgid "[_isabelle_s_laughing_] Did you see that [mrsl] looked extra excited earlier?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:45 #-#-# translate crowdin poolside_story_isabelle_petition_841bddf8:
+msgid "[_mc_] Hmm... not really?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:46 #-#-# translate crowdin poolside_story_isabelle_petition_d65e9188:
+msgid "[_isabelle_s_concerned_left_] All right, maybe it was just me then."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:47 #-#-# translate crowdin poolside_story_isabelle_petition_d7c65540:
+msgid "[_mc_] What do you think she was excited about?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:48 #-#-# translate crowdin poolside_story_isabelle_petition_9116d274:
+msgid "[_isabelle_s_excited_] Oh, I was hoping you could tell me... since you spoke to her the moment prior."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:49 #-#-# translate crowdin poolside_story_isabelle_petition_86a727c8:
+msgid "[_mc_] Hmm... no, I didn't notice it. She seemed quite sad when I left."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:50 #-#-# translate crowdin poolside_story_isabelle_petition_4790cd7a:
+msgid "[_isabelle_s_concerned_] Sad? Why sad?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:53 #-#-# translate crowdin poolside_story_isabelle_petition_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:56 #-#-# translate crowdin poolside_story_isabelle_petition_7a6a3ddf:
+msgid "[_mc_] She probably saw my grades."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:57 #-#-# translate crowdin poolside_story_isabelle_petition_d16adc79:
+msgid "[_isabelle_s_thinking_] Are your grades that bad?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:58 #-#-# translate crowdin poolside_story_isabelle_petition_0ad1d689:
+msgid "[_mc_] They're not good, no."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:59 #-#-# translate crowdin poolside_story_isabelle_petition_5bb3930c:
+msgid "[_mc_] I'm especially struggling with English and gym class."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:60 #-#-# translate crowdin poolside_story_isabelle_petition_1330b6f3:
+msgid "[_isabelle_s_afraid_] That's really not good, [mc]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:61 #-#-# translate crowdin poolside_story_isabelle_petition_9fc92b0d:
+msgid "[_isabelle_s_afraid_] Your grades are your future!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:62 #-#-# translate crowdin poolside_story_isabelle_petition_e0cfe785:
+msgid "Ugh, she sounds just like [jo]."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:63 #-#-# translate crowdin poolside_story_isabelle_petition_33e02ae7:
+msgid "[_mc_] I was wondering if you could help me out?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:64 #-#-# translate crowdin poolside_story_isabelle_petition_09b1d6a6:
+msgid "[_isabelle_s_laughing_] I'm not super good at sports myself, but English is my favorite subject!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:65 #-#-# translate crowdin poolside_story_isabelle_petition_d8d1151c:
+msgid "[_mc_] I've just never been able to wrap my head around the literature."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:66 #-#-# translate crowdin poolside_story_isabelle_petition_50e02986:
+msgid "[_isabelle_s_confident_] It can be a bit tricky sometimes, but I can definitely help."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:67 #-#-# translate crowdin poolside_story_isabelle_petition_717430ff:
+msgid "[_mc_] That would be nice of you."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:70 #-#-# translate crowdin poolside_story_isabelle_petition_aedae25e:
+msgid "[_isabelle_s_laughing_] Okay, I'll give you some tips and book recs later!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:73 #-#-# translate crowdin poolside_story_isabelle_petition_c52be65d:
+msgid "[_mc_] Her mouth wasn't big enough."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:74 #-#-# translate crowdin poolside_story_isabelle_petition_1b576f01:
+msgid "[_isabelle_s_skeptical_] Big enough for what?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:75 #-#-# translate crowdin poolside_story_isabelle_petition_9c16c07a:
+msgid "[_mc_] For my dic...tionary. She couldn't fit in the big words."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:76 #-#-# translate crowdin poolside_story_isabelle_petition_b2c3a970:
+msgid "[_isabelle_s_thinking_] I feel like you've used that joke before."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:77 #-#-# translate crowdin poolside_story_isabelle_petition_24db821e:
+msgid "[_mc_] Nope. Definitely the first time."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:79 #-#-# translate crowdin poolside_story_isabelle_petition_b878b2bb:
+msgid "[_isabelle_s_cringe_] Bit inappropriate, innit?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:80 #-#-# translate crowdin poolside_story_isabelle_petition_214385c6:
+msgid "[_mc_] I thought it was funny."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:81 #-#-# translate crowdin poolside_story_isabelle_petition_1bdd5f7b:
+msgid "[_isabelle_s_eyeroll_] Agree to disagree."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:82 #-#-# translate crowdin poolside_story_isabelle_petition_e0beb7bd:
+msgid "Yikes. I really need to update my joke supply, 'cause that shit's running low."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:83 #-#-# translate crowdin poolside_story_isabelle_petition_57a5f66d:
+msgid "[_isabelle_s_smile_] So, was she actually sad?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:84 #-#-# translate crowdin poolside_story_isabelle_petition_f29ae2b8:
+msgid "[_mc_] I don't know. I have a hard time reading her."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:85 #-#-# translate crowdin poolside_story_isabelle_petition_3f00f4f9:
+msgid "[_isabelle_s_laughing_] Fair."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:88 #-#-# translate crowdin poolside_story_isabelle_petition_2b2ec3af:
+msgid "[_mc_] She seems to be in trouble."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:89 #-#-# translate crowdin poolside_story_isabelle_petition_8810c10a:
+msgid "[_isabelle_s_afraid_] In trouble?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:90 #-#-# translate crowdin poolside_story_isabelle_petition_92d4407d:
+msgid "[_mc_] Yeah. I overheard a conversation in the women's locker room earlier."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:91 #-#-# translate crowdin poolside_story_isabelle_petition_684e1107:
+msgid "[_mc_] Someone really told her off. And there was something about a deal."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:92 #-#-# translate crowdin poolside_story_isabelle_petition_08d03ee6:
+msgid "[_isabelle_s_thinking_] Who?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:93 #-#-# translate crowdin poolside_story_isabelle_petition_91357782:
+msgid "[_mc_] I don't know. The voices were pretty muted."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:94 #-#-# translate crowdin poolside_story_isabelle_petition_a73bb16d:
+msgid "[_isabelle_s_thinking_] What kind of deal?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:95 #-#-# translate crowdin poolside_story_isabelle_petition_05753ec8:
+msgid "[_mc_] I think it was something about me..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:96 #-#-# translate crowdin poolside_story_isabelle_petition_724acf4d:
+msgid "[_isabelle_s_thinking_] About you? Are you sure?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:97 #-#-# translate crowdin poolside_story_isabelle_petition_a27042d7:
+msgid "[_mc_] I think the other person accused [mrsl] of being flirtatious with me."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:98 #-#-# translate crowdin poolside_story_isabelle_petition_5452d7f7:
+msgid "[_isabelle_s_cringe_] That's really inappropriate."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:99 #-#-# translate crowdin poolside_story_isabelle_petition_73de6ae6:
+msgid "[_isabelle_s_cringe_] Have you felt that's the case?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:100 #-#-# translate crowdin poolside_story_isabelle_petition_fb16a838:
+msgid "[_mc_] Hmm... maybe. Probably more than last time around."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:101 #-#-# translate crowdin poolside_story_isabelle_petition_9abd48d1:
+msgid "[_isabelle_s_concerned_] Last time around?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:102 #-#-# translate crowdin poolside_story_isabelle_petition_b221fb1c:
+msgid "[_mc_] Last year I mean."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:103 #-#-# translate crowdin poolside_story_isabelle_petition_62674469:
+msgid "[_isabelle_s_skeptical_] Mhm..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:104 #-#-# translate crowdin poolside_story_isabelle_petition_12d3623f:
+msgid "[_isabelle_s_neutral_] Do you reckon it was the principal?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:105 #-#-# translate crowdin poolside_story_isabelle_petition_4ca270cf:
+msgid "[_mc_] No, it wasn't. I'd definitely recognize [jo]'s voice even if muted."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:106 #-#-# translate crowdin poolside_story_isabelle_petition_0843cdd6:
+msgid "[_isabelle_s_concerned_] Maybe you just misunderstood the situation."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:107 #-#-# translate crowdin poolside_story_isabelle_petition_6bd2fad3:
+msgid "[_isabelle_s_concerned_left_] Eavesdropping isn't exactly reliable all of the time."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:108 #-#-# translate crowdin poolside_story_isabelle_petition_392af8d7:
+msgid "[_mc_] I'm not sure..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:109 #-#-# translate crowdin poolside_story_isabelle_petition_aa11544a:
+msgid "[_isabelle_s_excited_] Maybe you should report it to the principal?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:110 #-#-# translate crowdin poolside_story_isabelle_petition_61eb93d1:
+msgid "Knowing [jo], I'd just get in trouble somehow."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:111 #-#-# translate crowdin poolside_story_isabelle_petition_a5e604bf:
+msgid "[_mc_] Hmm... maybe later."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:112 #-#-# translate crowdin poolside_story_isabelle_petition_3cff3964:
+msgid "[_isabelle_s_smile_] So, what have you been up to today?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:113 #-#-# translate crowdin poolside_story_isabelle_petition_db96a691:
+msgid "[_mc_] I'm actually trying to write a petition to open the pool early."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:114 #-#-# translate crowdin poolside_story_isabelle_petition_36958c15:
+msgid "[_isabelle_s_thinking_] I did hear that it was closed the first week..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:115 #-#-# translate crowdin poolside_story_isabelle_petition_f71eee14:
+msgid "[_mc_] It's actually closed longer than that this year. Up until after the Newfall Independence Day."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:116 #-#-# translate crowdin poolside_story_isabelle_petition_ffb100bb:
+msgid "[_mc_] No one will have the chance to try out for the swim team before the season starts."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:117 #-#-# translate crowdin poolside_story_isabelle_petition_9da99119:
+msgid "[_mc_] Freshmen will be robbed of their chance to get a good start on the team."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:118 #-#-# translate crowdin poolside_story_isabelle_petition_323ead37:
+msgid "[_isabelle_s_cringe_] Right. That is a proper mistake by the administration."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:119 #-#-# translate crowdin poolside_story_isabelle_petition_194a934b:
+msgid "[_mc_] Think you can help me out?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:120 #-#-# translate crowdin poolside_story_isabelle_petition_c500130c:
+msgid "[_isabelle_s_confident_] Absolutely can."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:121 #-#-# translate crowdin poolside_story_isabelle_petition_3f582b89:
+msgid "[_isabelle_s_confident_] But the festivities are right around the corner, and I promised [mrsl] to help decorate."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:122 #-#-# translate crowdin poolside_story_isabelle_petition_e67786c7:
+msgid "[_isabelle_s_laughing_] Maybe we can help each other?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:123 #-#-# translate crowdin poolside_story_isabelle_petition_2015b308:
+msgid "[isabelle] has been here for a few weeks and she's already doing more for the school than I did in four full years."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:124 #-#-# translate crowdin poolside_story_isabelle_petition_f505a9d7:
+msgid "Maybe it's time to step up my game."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:125 #-#-# translate crowdin poolside_story_isabelle_petition_1cb2fb03:
+msgid "[_mc_] I guess that sounds fair."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:126 #-#-# translate crowdin poolside_story_isabelle_petition_57362e9d:
+msgid "[_isabelle_s_excited_] Right! We'll need confetti and decorations."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:127 #-#-# translate crowdin poolside_story_isabelle_petition_5a4d8100:
+msgid "[_isabelle_s_excited_] Take care of that for me and I'll handle the petition."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:128 #-#-# translate crowdin poolside_story_isabelle_petition_3efd2505:
+msgid "Great. Once again in charge of the confetti."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:129 #-#-# translate crowdin poolside_story_isabelle_petition_86a6273b:
+msgid "She has no idea that I'm known as the pool clogger."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:130 #-#-# translate crowdin poolside_story_isabelle_petition_5d71a36e:
+msgid "[_mc_] Confetti and decorations. Got it."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:132 #-#-# translate crowdin poolside_story_isabelle_petition_1fefe653:
+msgid "The logical place to start would be the art classroom."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:137 #-#-# translate crowdin poolside_story_enter_art_class_56651c9c:
+msgid "Okay, confetti, confetti, confetti..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:138 #-#-# translate crowdin poolside_story_enter_art_class_4b154dbd:
+msgid "With the sheer drought of paper in this school, it's probably easier to go with mylar."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:139 #-#-# translate crowdin poolside_story_enter_art_class_298feeb6:
+msgid "That should be somewhere in here..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:145 #-#-# translate crowdin poolside_story_making_confetti_glass_shard_4d2194af:
+msgid "This glass shard is technically sharp enough for the job, but it'll take me two aeons to shred a bag of confetti."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:147 #-#-# translate crowdin poolside_story_making_confetti_glass_shard_d47852d8:
+msgid "My locker key is technically sharp enough for the job, but it'll take me two aeons to shred a bag of confetti."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:148 #-#-# translate crowdin poolside_story_making_confetti_glass_shard_c738f762:
+msgid "Need to find something chompier... something chuckier. Maybe a wood chipper?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:153 #-#-# translate crowdin poolside_story_making_confetti_19b00723:
+msgid "There's nothing sharper and more shredding than a pair of beaver teeth."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:154 #-#-# translate crowdin poolside_story_making_confetti_219c4369:
+msgid "Time to show those woodchucks how it's done..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:155 #-#-# translate crowdin poolside_story_making_confetti_2cf1a447:
+msgid "Chuck, chuck, chuck, chuck, chuck...."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:156 #-#-# translate crowdin poolside_story_making_confetti_e715067d:
+msgid "Chuck, chuck, chuck..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:157 #-#-# translate crowdin poolside_story_making_confetti_fde13c40:
+msgid "Chuck, chuck, chuck, chuck..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:158 #-#-# translate crowdin poolside_story_making_confetti_b407e693:
+msgid "And there it is. The finest confetti in town!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:160 #-#-# translate crowdin poolside_story_making_confetti_8ba08848:
+msgid "Now for the decorations..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:161 #-#-# translate crowdin poolside_story_making_confetti_5954131b:
+msgid "Who knows better how to decorate than the art teacher?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:167 #-#-# translate crowdin poolside_story_jacklyn_decoarations_3a1dea53:
+msgid "[_jacklyn_s_smile_] Lookin' good there, shooter."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:168 #-#-# translate crowdin poolside_story_jacklyn_decoarations_be6c0118:
+msgid "[_jacklyn_s_smile_] What do you call that shirt? Some kind of spatter job?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:169 #-#-# translate crowdin poolside_story_jacklyn_decoarations_6ab2d456:
+msgid "Crap. I forgot I spilled mustard on myself last night."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:172 #-#-# translate crowdin poolside_story_jacklyn_decoarations_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:175 #-#-# translate crowdin poolside_story_jacklyn_decoarations_996f853f:
+msgid "[_mc_] I ran out of shirts and the washing machine is broken."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:176 #-#-# translate crowdin poolside_story_jacklyn_decoarations_9dc36188:
+msgid "[_jacklyn_s_neutral_] Unfortunately, this ain't the laundry room."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:177 #-#-# translate crowdin poolside_story_jacklyn_decoarations_dc8c0e01:
+msgid "[_mc_] You're right, I should take better care of my clothes."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:178 #-#-# translate crowdin poolside_story_jacklyn_decoarations_f51e29ee:
+msgid "[_jacklyn_s_thinking_] Jokes. I don't remember that."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:179 #-#-# translate crowdin poolside_story_jacklyn_decoarations_3117b5ef:
+msgid "[_jacklyn_s_smile_] But how you dress is certainly an extension of your artistic self."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:180 #-#-# translate crowdin poolside_story_jacklyn_decoarations_bd5c6e21:
+msgid "[_jacklyn_s_smile_] Polished is cream paint, but ragged is only good if you own it."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:181 #-#-# translate crowdin poolside_story_jacklyn_decoarations_3b2133da:
+msgid "[_mc_] I'll... keep that in mind."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:184 #-#-# translate crowdin poolside_story_jacklyn_decoarations_650ee3d2:
+msgid "[_mc_] I call it \"Mustard Skies Over Gray Chapels.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:186 #-#-# translate crowdin poolside_story_jacklyn_decoarations_7ab46e4f:
+msgid "[_jacklyn_s_laughing_] How very impressionist!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:187 #-#-# translate crowdin poolside_story_jacklyn_decoarations_d20da316:
+msgid "[_mc_] I always like to impress."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:190 #-#-# translate crowdin poolside_story_jacklyn_decoarations_c41e8007:
+msgid "[_mc_] It's a work in progress. Do you have any ideas?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:191 #-#-# translate crowdin poolside_story_jacklyn_decoarations_26f52a0f:
+msgid "[_jacklyn_s_excited_] How about \"Questionable Substance?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:192 #-#-# translate crowdin poolside_story_jacklyn_decoarations_1736e3d5:
+msgid "[_mc_] A Pollock reference?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:193 #-#-# translate crowdin poolside_story_jacklyn_decoarations_7b747776:
+msgid "[_jacklyn_s_laughing_] Freaky! That's a straight up combustion!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:194 #-#-# translate crowdin poolside_story_jacklyn_decoarations_bcfcc819:
+msgid "[_mc_] Thanks. It's due to my teacher, I think."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:196 #-#-# translate crowdin poolside_story_jacklyn_decoarations_81132139:
+msgid "[_jacklyn_s_excited_right_] Okay, now you're just shining my shoes."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:197 #-#-# translate crowdin poolside_story_jacklyn_decoarations_d12a2745:
+msgid "[_mc_] Listen, I promised [isabelle] to help her out with the decorations for the Newfall Independence Day."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:198 #-#-# translate crowdin poolside_story_jacklyn_decoarations_33e02ae7:
+msgid "[_mc_] I was wondering if you could help me out?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:199 #-#-# translate crowdin poolside_story_jacklyn_decoarations_3b83db7f:
+msgid "[_jacklyn_s_thinking_] I can give you the latitudes and maybe the longitudes, but you're steering the ship."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:200 #-#-# translate crowdin poolside_story_jacklyn_decoarations_c27c4c91:
+msgid "[_mc_] Anything would be helpful... I've never made decorations before."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:201 #-#-# translate crowdin poolside_story_jacklyn_decoarations_26744a02:
+msgid "[_jacklyn_s_smile_] It's not exactly exhibit art. All you need is some string, paint, and pennants."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:202 #-#-# translate crowdin poolside_story_jacklyn_decoarations_354fbf7e:
+msgid "Hmm... she's right. It shouldn't be too hard."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:210 #-#-# translate crowdin poolside_story_making_decor_4e2db127:
+msgid "Just dip it like a chip! I'm something of an expert in the field."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:212 #-#-# translate crowdin poolside_story_making_decor_08953120:
+msgid "Dip, dip, dip..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:214 #-#-# translate crowdin poolside_story_making_decor_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:215 #-#-# translate crowdin poolside_story_making_decor_7a75e5b1:
+msgid "And there it is."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:217 #-#-# translate crowdin poolside_story_making_decor_d147050f:
+msgid "Haters, where you at?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:219 #-#-# translate crowdin poolside_story_making_decor_ccc1b980:
+msgid "I left collectibles behind. Banjo would be disappointed."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:225 #-#-# translate crowdin combine_string_pennants_6606a33d:
+msgid "String 'em up. Like a band of outlaws at the gallows."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:226 #-#-# translate crowdin combine_string_pennants_a20cefa7:
+msgid "..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:227 #-#-# translate crowdin combine_string_pennants_85284b84:
+msgid "[_mc_] Fantastic work!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:228 #-#-# translate crowdin combine_string_pennants_b98432b3:
+msgid "Had to say it 'cause no one else would."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:231 #-#-# translate crowdin combine_string_pennants_2aa7d373:
+msgid "All right, time to brag about it to [isabelle]."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:235 #-#-# translate crowdin combine_colored_paper_beaver_a962e2ed:
+msgid "The ferocious teeth of the beaver are too powerful for this job... it'd be like slicing bread with a chainsaw."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:240 #-#-# translate crowdin combine_colored_paper_glass_shard_e024eb1a:
+msgid "Slice 'em up."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:241 #-#-# translate crowdin combine_colored_paper_glass_shard_aa2823ef:
+msgid "Iced-out blade. Glass in my hand."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:242 #-#-# translate crowdin combine_colored_paper_glass_shard_5592c179:
+msgid "No one's ever seen pennants this grand."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:248 #-#-# translate crowdin combine_colored_paper_machete_f693ef6e:
+msgid "When someone asks for a slice of the action, this is what I show them."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:249 #-#-# translate crowdin combine_colored_paper_machete_2e8406a5:
+msgid "Fifteen inches of carbon spring steel."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:250 #-#-# translate crowdin combine_colored_paper_machete_4d44184a:
+msgid "Chops paper decorations just as well as it tears through the heart of Africa."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:256 #-#-# translate crowdin poolside_story_isabelle_isadec_9eaf5c80:
+msgid "[_isabelle_s_smile_] I see you got the decorations done!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:257 #-#-# translate crowdin poolside_story_isabelle_isadec_8a2ce3c9:
+msgid "[_isabelle_s_smile_] Bloody well done!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:258 #-#-# translate crowdin poolside_story_isabelle_isadec_137f0905:
+msgid "[_isabelle_s_smile_left_] I reckon I looked for paper for an hour without much luck..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:259 #-#-# translate crowdin poolside_story_isabelle_isadec_aa6fc1a7:
+msgid "[_mc_] Sometimes you need to know where to look."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:260 #-#-# translate crowdin poolside_story_isabelle_isadec_45af5784:
+msgid "[_isabelle_s_laughing_] I suppose you're right!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:263 #-#-# translate crowdin poolside_story_isabelle_isadec_53fcbff5:
+msgid "[_isabelle_s_laughing_] Thanks for helping me out with this."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:264 #-#-# translate crowdin poolside_story_isabelle_isadec_8765b4cb:
+msgid "[_mc_] You're welcome!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:265 #-#-# translate crowdin poolside_story_isabelle_isadec_de734af4:
+msgid "[_mc_] Did you manage to write up the pool petition?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:266 #-#-# translate crowdin poolside_story_isabelle_isadec_de508137:
+msgid "[_isabelle_s_neutral_] Yeah, I just put it up on the bulletin board at the entrance."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:267 #-#-# translate crowdin poolside_story_isabelle_isadec_b8e80403:
+msgid "[_isabelle_s_neutral_] Give it a few hours to let people add their signatures."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:268 #-#-# translate crowdin poolside_story_isabelle_isadec_19a897de:
+msgid "[_isabelle_s_excited_] Thanks again!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:270 #-#-# translate crowdin poolside_story_isabelle_isadec_095313eb:
+msgid "The shameful wait begins..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:278 #-#-# translate crowdin mrsl_quest_poolside_story_convince_cc42b717:
+msgid "[_mrsl_s_smile_] Hello there, [mc]."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:279 #-#-# translate crowdin mrsl_quest_poolside_story_convince_8a5023a2:
+msgid "[_mrsl_s_smile_] Are you sleeping well?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:280 #-#-# translate crowdin mrsl_quest_poolside_story_convince_7394782b:
+msgid "[_mc_] Hmm... apart from one strange dream, I'd say so."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:281 #-#-# translate crowdin mrsl_quest_poolside_story_convince_fa06b913:
+msgid "[_mc_] Do I look tired?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:282 #-#-# translate crowdin mrsl_quest_poolside_story_convince_0dae277b:
+msgid "[_mrsl_s_sad_] I'm sorry to hear about the dream."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:283 #-#-# translate crowdin mrsl_quest_poolside_story_convince_bab3b8a5:
+msgid "[_mrsl_s_sarcastic_] You do look a little tired, but maybe you're used to worse?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:284 #-#-# translate crowdin mrsl_quest_poolside_story_convince_beffb686:
+msgid "[_mc_] I guess I am."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:285 #-#-# translate crowdin mrsl_quest_poolside_story_convince_8fa6f62f:
+msgid "Always slept like shit in my old timeline."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:286 #-#-# translate crowdin mrsl_quest_poolside_story_convince_73efb093:
+msgid "[_mrsl_s_blush_] In that case, don't mind me!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:287 #-#-# translate crowdin mrsl_quest_poolside_story_convince_6e0b113d:
+msgid "It's hard not to mind her. I mean, just look at her!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:288 #-#-# translate crowdin mrsl_quest_poolside_story_convince_da3c9e5e:
+msgid "[mrsl] never used to give me a second thought and now she's asking about my sleep..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:289 #-#-# translate crowdin mrsl_quest_poolside_story_convince_d134d7c2:
+msgid "This timeline is definitely an improvement to the old one."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:290 #-#-# translate crowdin mrsl_quest_poolside_story_convince_3107a08b:
+msgid "She doesn't look like she knows what's going on, but maybe it's time to start asking questions."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:291 #-#-# translate crowdin mrsl_quest_poolside_story_convince_61bcb16b:
+msgid "[_mc_] Random question but..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:294 #-#-# translate crowdin mrsl_quest_poolside_story_convince_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:297 #-#-# translate crowdin mrsl_quest_poolside_story_convince_70d98ee6:
+msgid "[_mc_] Have you noticed anything odd recently?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:298 #-#-# translate crowdin mrsl_quest_poolside_story_convince_25ab9aa3:
+msgid "[_mrsl_s_concerned_] Odd? What would that be?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:299 #-#-# translate crowdin mrsl_quest_poolside_story_convince_b38d55bd:
+msgid "[_mc_] Oh, I don't know. Things that seem out of place somehow."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:300 #-#-# translate crowdin mrsl_quest_poolside_story_convince_a75801a3:
+msgid "[_mrsl_s_excited_] Well, you seem to have a bigger joy for life than last year!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:301 #-#-# translate crowdin mrsl_quest_poolside_story_convince_7ce32830:
+msgid "[_mrsl_s_excited_] It seems we've both managed to work through some stuff."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:302 #-#-# translate crowdin mrsl_quest_poolside_story_convince_5f3be9b2:
+msgid "[_mc_] What about strange texts? Have you had any of those?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:303 #-#-# translate crowdin mrsl_quest_poolside_story_convince_9505bf5c:
+msgid "[_mrsl_s_thinking_] Can't say I have..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:304 #-#-# translate crowdin mrsl_quest_poolside_story_convince_adc698a3:
+msgid "[_mrsl_s_skeptical_] I usually block numbers I don't recognize."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:305 #-#-# translate crowdin mrsl_quest_poolside_story_convince_78ee9315:
+msgid "[_mrsl_s_skeptical_] Maybe you should do the same?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:306 #-#-# translate crowdin mrsl_quest_poolside_story_convince_88799c3d:
+msgid "[_mc_] Hmm, that might be a good idea..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:307 #-#-# translate crowdin mrsl_quest_poolside_story_convince_19fff59e:
+msgid "[_mrsl_s_flirty_] I think it'd be smart!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:308 #-#-# translate crowdin mrsl_quest_poolside_story_convince_0ad3caa1:
+msgid "[_mrsl_s_cringe_] Nothing worse than getting dragged down by pranksters. Or woken up by unwanted ads."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:309 #-#-# translate crowdin mrsl_quest_poolside_story_convince_98f24022:
+msgid "She does have a point, and I probably would've blocked that number if they weren't the only person that seems to know what's going on."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:310 #-#-# translate crowdin mrsl_quest_poolside_story_convince_4e96752d:
+msgid "[_mc_] I'll consider doing so, thanks!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:313 #-#-# translate crowdin mrsl_quest_poolside_story_convince_424271f7:
+msgid "[_mc_] Do you know what happened to Mrs. Bloomer?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:314 #-#-# translate crowdin mrsl_quest_poolside_story_convince_ba9512be:
+msgid "[_mrsl_s_thinking_] Mrs. Bloomer, hmm..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:315 #-#-# translate crowdin mrsl_quest_poolside_story_convince_d6b62774:
+msgid "[_mrsl_s_thinking_] I believe she had a heart attack in her sleep..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:316 #-#-# translate crowdin mrsl_quest_poolside_story_convince_8a4bae5c:
+msgid "[_mrsl_s_surprised_] The poor lady has been weak for years."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:317 #-#-# translate crowdin mrsl_quest_poolside_story_convince_17b556c4:
+msgid "Undoubtedly due to decades of chain smoking."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:318 #-#-# translate crowdin mrsl_quest_poolside_story_convince_7176a84b:
+msgid "[_mc_] Very unfortunate."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:319 #-#-# translate crowdin mrsl_quest_poolside_story_convince_1d1cdb37:
+msgid "[_mrsl_s_excited_] Yeah, it's sad... but we were lucky to get such a competent replacement!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:320 #-#-# translate crowdin mrsl_quest_poolside_story_convince_3f48b200:
+msgid "She doesn't seem all too heartbroken about it, but nobody really liked Mrs. Bloomer, so I guess that makes sense."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:321 #-#-# translate crowdin mrsl_quest_poolside_story_convince_926fe7e0:
+msgid "[jacklyn] is definitely a splash of well-needed color in this place."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:322 #-#-# translate crowdin mrsl_quest_poolside_story_convince_905f7641:
+msgid "[_mrsl_s_concerned_] Why do you ask?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:323 #-#-# translate crowdin mrsl_quest_poolside_story_convince_f6c650c5:
+msgid "Just trying to figure out why there are anomalies from the old timeline."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:324 #-#-# translate crowdin mrsl_quest_poolside_story_convince_81650c6a:
+msgid "[_mc_] Just curious."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:327 #-#-# translate crowdin mrsl_quest_poolside_story_convince_672182e2:
+msgid "[_mc_] Is the program for exchange students new?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:328 #-#-# translate crowdin mrsl_quest_poolside_story_convince_5d973a3f:
+msgid "[_mrsl_s_thinking_] Yeah, I believe it's new."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:329 #-#-# translate crowdin mrsl_quest_poolside_story_convince_c47a733a:
+msgid "[_mrsl_s_skeptical_] It went through quite unexpectedly, if I do say so myself..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:330 #-#-# translate crowdin mrsl_quest_poolside_story_convince_d9626fa4:
+msgid "[_mrsl_s_skeptical_] Newfall High is a small school with limited resources."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:331 #-#-# translate crowdin mrsl_quest_poolside_story_convince_c005fd6a:
+msgid "[_mrsl_s_surprised_] Hopefully, it won't become a problem."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:332 #-#-# translate crowdin mrsl_quest_poolside_story_convince_4e8c340e:
+msgid "The school board that won't serve proper food to save money, suddenly decides to open up an exchange program?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:333 #-#-# translate crowdin mrsl_quest_poolside_story_convince_d29c1cd6:
+msgid "It seems odd to say the least."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:334 #-#-# translate crowdin mrsl_quest_poolside_story_convince_60a6631e:
+msgid "[_mc_] Do you know who initiated it?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:335 #-#-# translate crowdin mrsl_quest_poolside_story_convince_261944a7:
+msgid "[_mrsl_s_eyeroll_] Unfortunately, I don't. I'm not part of the school board."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:336 #-#-# translate crowdin mrsl_quest_poolside_story_convince_a292e9ab:
+msgid "[_mc_] Hmm, okay... I might look into it."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:337 #-#-# translate crowdin mrsl_quest_poolside_story_convince_ce8486a3:
+msgid "[_mc_] Anyway, on a completely different note. A lot of the students aren't happy about the closed pool."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:338 #-#-# translate crowdin mrsl_quest_poolside_story_convince_891ab083:
+msgid "[_mc_] I managed to get a list of signatures."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:339 #-#-# translate crowdin mrsl_quest_poolside_story_convince_477882f2:
+msgid "[_mrsl_s_surprised_] Huh!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:340 #-#-# translate crowdin mrsl_quest_poolside_story_convince_91c9bf5c:
+msgid "[_mc_] Basically, we'd like you to open the pool before the independence day."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:341 #-#-# translate crowdin mrsl_quest_poolside_story_convince_17a3ebeb:
+msgid "[_mc_] So that everyone has a chance to try out before the roster is locked for the season."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:342 #-#-# translate crowdin mrsl_quest_poolside_story_convince_33aa0ee1:
+msgid "[_mrsl_s_thinking_] That would seem fair..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:343 #-#-# translate crowdin mrsl_quest_poolside_story_convince_442c7d8e:
+msgid "[_mrsl_s_neutral_] However, the sign up list is empty this year."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:344 #-#-# translate crowdin mrsl_quest_poolside_story_convince_9eb842b7:
+msgid "[_mc_] Err... but what about me? I signed up and would like to try out."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:345 #-#-# translate crowdin mrsl_quest_poolside_story_convince_017915c0:
+msgid "[_mrsl_s_smile_] You did, didn't you?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:346 #-#-# translate crowdin mrsl_quest_poolside_story_convince_bfc4ecac:
+msgid "[_mrsl_s_smile_] I can bring the list of signatures to the board, but I don't think they'll open it for one student."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:347 #-#-# translate crowdin mrsl_quest_poolside_story_convince_3be8c114:
+msgid "[_mrsl_s_sad_] The clogged filters cost the school a lot to replace last year."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:348 #-#-# translate crowdin mrsl_quest_poolside_story_convince_e487658f:
+msgid "Damn it. I really want to see her in a swimsuit."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:349 #-#-# translate crowdin mrsl_quest_poolside_story_convince_4c7eb8bf:
+msgid "[_mrsl_s_concerned_] I see that you're disappointed."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:350 #-#-# translate crowdin mrsl_quest_poolside_story_convince_108c0396:
+msgid "[_mrsl_s_excited_] I'll tell you what... meet me at the pool and we'll figure out an alternative."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:357 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_9e82ba76:
+msgid "[_mrsl_s_confident_] There you are!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:358 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_226d5b69:
+msgid "[_mc_] Here I am."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:359 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_5d80079d:
+msgid "[_mrsl_s_laughing_] I came up with an alternative."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:360 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_b27ef8f3:
+msgid "[_mc_] An alternative?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:361 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_3935126c:
+msgid "[_mrsl_s_laughing_] Yeah, since we can't use the pool."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:362 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_93ac66aa:
+msgid "[_mrsl_s_flirty_] I booked the gym for the next hour, so we won't be disturbed."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:363 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_6542d4ce:
+msgid "[_mrsl_s_flirty_] But you have to promise to keep this a secret!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:364 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_57fcb844:
+msgid "[_mrsl_s_confident_] I'm not usually in the habit of making exceptions for the swim team..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:365 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_f2095fdb:
+msgid "[_mrsl_s_confident_] But since you collected all those signatures, I think you deserve a chance."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:366 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_da3e9f8f:
+msgid "[_mc_] Err... okay. But if we can't use the pool?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:367 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_a30c37bc:
+msgid "[_mrsl_s_smile_] Well, like I said, I came up with an alternative."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:368 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_41f0a261:
+msgid "Not sure how we're going to conduct a swim team tryout in the gym, but.... I can't say I'm not intrigued."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:369 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_44cf81b3:
+msgid "[_mrsl_s_blush_] Follow me!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:389 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_98a1e478:
+msgid "[_mrsl_s_smile_] Just one moment, [mc]. I should put on appropriate sports attire."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:401 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_41a433d9:
+msgid "[_mrsl_s_excited_] Damn."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:403 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_3ea9ae44:
+msgid "The swimming suit hugs [mrsl]'s curves, stretches across her boobs — skin-tight delight."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:404 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_09225452:
+msgid "Takes everything in my power not to reach out, cup and squeeze and fondle. Mmmm..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:405 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_45330482:
+msgid "[_mc_] What... err... what's going on?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:406 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_86dad4cb:
+msgid "[_mrsl_s_flirty_] Since the pool is closed, but you really wanted a tryout..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:407 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_c9b37c50:
+msgid "[_mrsl_s_laughing_] Well, I figured this would be a good alternative."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:408 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_23d187f1:
+msgid "[_mc_] A kiddie pool?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:409 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_ea125c44:
+msgid "[_mrsl_s_confident_] It'll be fine!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:410 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_e504491c:
+msgid "[_mrsl_s_flirty_] And definitely more intimate than a usual tryout."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:411 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_d0b3aa51:
+msgid "Not sure what's going on here, but she seems to be serious about it."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:412 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_07f3f3f5:
+msgid "Perhaps this isn't something too unusual..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:413 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_853622aa:
+msgid "But it does seem strange."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:414 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_06f77d5d:
+msgid "The part about not telling anyone about it also felt a bit suspicious..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:415 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_41e22446:
+msgid "[_mrsl_s_flirty_] Ready to get started?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:418 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:421 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_78408637:
+msgid "[_mc_] I was born ready."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:423 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_f91fcad9:
+msgid "[_mrsl_s_laughing_] I love the enthusiasm!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:424 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_1a6cc950:
+msgid "[_mrsl_s_confident_] Have you done any competitive swimming in the past?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:425 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_10bcae07:
+msgid "[_mc_] No, just surfing..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:426 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_0a778830:
+msgid "The internet."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:427 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_d8600f4e:
+msgid "[_mrsl_s_confident_] That's okay. Perhaps you have the talent for it!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:431 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_39db03e5:
+msgid "[_mc_] I don't know... I'm not really sure anymore."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:432 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_8fc60db8:
+msgid "[_mrsl_s_embarrassed_] You seemed excited just a moment ago! What changed?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:433 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_7d429e09:
+msgid "[_mc_] The kiddie pool. The secrecy. I'm not sure it's a good idea..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:434 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_b2038c55:
+msgid "[_mrsl_s_excited_] It is a little unorthodox, but I promise you it'll be fine!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:437 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_11fdb519_1:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:440 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_385d2c17:
+msgid "[_mc_] Okay, let's give it a go..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:442 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_699d40b1:
+msgid "[_mrsl_s_laughing_] Perfect!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:443 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_6e772625:
+msgid "[_mrsl_s_confident_] Now, let's get into the water, shall we?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:447 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_4e3b7e38:
+msgid "[_mc_] I'm sorry, but I've changed my mind."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:448 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_d8233efa:
+msgid "[_mrsl_s_cringe_] Are you telling me I took time out of my busy schedule and filled up this pool for nothing?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:449 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_21b45926:
+msgid "[mrsl] seems genuinely upset. I don't think I've seen her like this before."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:450 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_2c4e1184:
+msgid "[_mc_] I'm sorry, I just don't see how it's going to work... and frankly, it'd be a bit humiliating to step into that pool."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:451 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_5e2046d4:
+msgid "[_mrsl_s_annoyed_] I said it'd be fine!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:452 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_49babbb8:
+msgid "[_mc_] I think I'll just do my tryout in the real pool..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:453 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_60814552:
+msgid "[_mrsl_s_annoyed_] There won't be any new tryouts until Christmas."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:455 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_ba785f12:
+msgid "[_mc_] That's okay. I don't mind waiting."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:457 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_53104d8d:
+msgid "[_mrsl_s_concerned_] Very well. I'll see you in class later, [mc]."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:475 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_08d9fb0a:
+msgid "[_mc_] I didn't actually bring my swim trunks."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:476 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_0bf83b00:
+msgid "[_mrsl_s_laughing_] That's okay. You can just... stay in your underwear."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:477 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_0292ad18:
+msgid "I thought she'd tell me to do it nude there for a moment."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:478 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_77ced356:
+msgid "Oh, well. Let's do this."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:482 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_764cea66:
+msgid "The pool is tiny. [mrsl]'s sizzling hot thighs press against my back."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:483 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_669c0506:
+msgid "[_mrsl_] Okay, just lean forward onto your stomach."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:487 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_d115fd65:
+msgid "[_mrsl_] I'm going to hold you, and you're going to show me your butterfly stroke."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:488 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_4c051aae:
+msgid "Butterfly stroke? Uh, damn. I had no idea that was a requirement..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:489 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_8fd7486e:
+msgid "Fuck. How am I supposed to breathe like this?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:490 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_af4e9342:
+msgid "[_mrsl_] Go ahead, I'll hold you."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:492 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_9d8bdb83:
+msgid "Her left hand just brushed right up the inside of my thigh!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:493 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_7e00be27:
+msgid "Err... this position feels a bit—"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:495 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_225cf4bb:
+msgid "Shit. Okay, better swim!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:499 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_09698224:
+msgid "Fuck, her wrist just touched my balls..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:500 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_7ed7d6ff:
+msgid "This is not the time to get an erection..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:501 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_886f8f16:
+msgid "Ugh, I can't breathe. Focus. Focus!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:504 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_3327eea1:
+msgid "[_mrsl_] That is not a butterfly stroke, [mc]."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:505 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_eb2b0f7a:
+msgid "[_mrsl_] You must be nervous."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:507 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_60fffe12:
+msgid "[_mrsl_] Maybe this will help?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:509 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_96575349:
+msgid "[_mrsl_] Okay, let's try something easier. Give me a good breaststroke."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:510 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_4915c37b:
+msgid "Breaststroke, shit. Okay."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:511 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_846303c9:
+msgid "[_mrsl_] Don't worry, I've got you."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:514 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_d8f30716:
+msgid "What the hell? Where did my boxers go?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:516 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_2980339f:
+msgid "Fuck me!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:517 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_2a963a3d:
+msgid "[_mrsl_] There you go. That got you started."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:518 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_48d48571:
+msgid "Her hand is like a vice around the base of my cock."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:519 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_31a983e0:
+msgid "[_mrsl_] Nice. That's what I'm talking about."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:520 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_17f6d64b:
+msgid "[_mrsl_] Long hard strokes!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:527 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_0534c82c:
+msgid "[_mc_] {i}*Gurgle*{/}"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:534 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_9cab0eaf:
+msgid "Her sharp nails threaten to dig into my flesh, urging me to swim."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:541 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_99111709:
+msgid "[_mrsl_] Faster! Faster!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:548 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_5d0d66d8:
+msgid "Fuck! This is too—"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:558 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_218e6e86:
+msgid "[_mrsl_] This is an old Japanese technique."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:572 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_4d23e618:
+msgid "Oh, god. She's squeezing me, her hand wrestling my dick."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:579 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_14c2f350:
+msgid "Son of a bitch, I'm actually going to cum."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:581 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_67208d1c:
+msgid "[_mrsl_] Your motivation is showing!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:583 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_33b517d7:
+msgid "[_mrsl_] Keep going!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:600 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_f051810d:
+msgid "Oh fuck!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:602 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_95c73039:
+msgid "God! That's heaven."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:603 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_c2524ac4:
+msgid "I can fucking see the light!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:609 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_bfab7242:
+msgid "[_mrsl_] [mc]! Can you hear me?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:610 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_f2457a3c:
+msgid "Uhhh... what the hell?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:619 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_64330cb9:
+msgid "[_mrsl_s_afraid_] Are you okay?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:620 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_321f6fa7:
+msgid "Fuck. Why is my mouth tasting like ashes and salted cola?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:621 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_63bed3e9:
+msgid "[_mrsl_s_concerned_] Goodness! Talk to me, [mc]!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:622 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_81a77eaa:
+msgid "[_mc_] I don't feel so good..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:623 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_f4a6b40b:
+msgid "[_mrsl_s_embarrassed_] I'm sorry, you passed out during the test."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:624 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_e86bb73e:
+msgid "[_mrsl_s_embarrassed_] You got water in your lungs and stopped breathing."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:625 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_81964736:
+msgid "[_mrsl_s_embarrassed_] I had to give you CPR to bring you back."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:626 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_09f75a0e:
+msgid "Huh? I do remember having trouble breathing..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:627 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_74ac7751:
+msgid "[_mc_] How long was I out for?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:628 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_428b6603:
+msgid "[_mrsl_s_concerned_] Oh, I don't think too long. We were going to do breaststrokes when you went limp."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:629 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_cfc0aa90:
+msgid "[_mc_] Limp? I only remember going hard as a fucking lightning rod."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:630 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_e194c085:
+msgid "[_mrsl_s_cringe_] [mc]! That is highly inappropriate."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:631 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_609bea74:
+msgid "Huh? Didn't she just give me the best fucking handjob in the west?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:632 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_dd31a134:
+msgid "[_mc_] Didn't you just... grab me?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:633 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_129ce48a:
+msgid "[_mrsl_s_thinking_] Grab you?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:634 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_6d55c51b:
+msgid "[_mc_] As in, grab my junk."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:635 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_fd4e9abe:
+msgid "[_mrsl_s_surprised_] I most certainly did not! Why would you even say that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:636 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_cb1506c7:
+msgid "Seriously? Did my oxygen-deprived brain just make that whole thing up?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:637 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_da5c1d20:
+msgid "I'm still semi-erect... I feel like I just came..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:638 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_61b6ca3b:
+msgid "[_mrsl_s_cringe_] Your head doesn't seem to be quite right."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:639 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_9a2bf9fe:
+msgid "[_mrsl_s_cringe_] I think we need to take you to the [nurse]."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:640 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_4c183e3e:
+msgid "I honestly can't tell if she's gaslighting me or if this was just fantasy."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:641 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_ba5bb343:
+msgid "She'd be one hell of an actress faking that concern..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:642 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_cbeae888:
+msgid "Hmm... my head's dizzy though. Better go see the [nurse] like she says."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:646 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_c9eeac26:
+msgid "Well, the good news is the [nurse] cleared me."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:647 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_1cb37401:
+msgid "The bad news is that... no matter how ridiculous it sounds, I still feel like [mrsl] gave me that handjob in the pool."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:648 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_e612bcc8:
+msgid "Not sure how I'll prove it, though..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:654 #-#-# translate crowdin poolside_story_enter_sports_text_387a005c:
+msgid "Damn. [mrsl] seemed pissed, but I can't really blame her..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:655 #-#-# translate crowdin poolside_story_enter_sports_text_1cf9535e:
+msgid "She did blow up and fill that pool. She also made an exception for me."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:656 #-#-# translate crowdin poolside_story_enter_sports_text_317d0495:
+msgid "No wonder she got annoyed..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:657 #-#-# translate crowdin poolside_story_enter_sports_text_f0a47458:
+msgid "But truth be told, the whole situation gave me this weird feeling."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:658 #-#-# translate crowdin poolside_story_enter_sports_text_9da66ae0:
+msgid "Another thing to add to the list."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:659 #-#-# translate crowdin poolside_story_enter_sports_text_dc6393a8:
+msgid "Perhaps it's time to send a text to the one person who seems to know what's going on?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:663 #-#-# translate crowdin poolside_story_enter_sports_text_33549476:
+msgid "[_mc_] Weird things keep happening. I need help!"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:667 #-#-# translate crowdin poolside_story_enter_sports_text_c324fcdb:
+msgid "[_mc_] What do you know about [mrsl]?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:671 #-#-# translate crowdin poolside_story_enter_sports_text_90e19757:
+msgid "Now to wait for a reply..."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:677 #-#-# translate crowdin poolside_story_enter_sports_text2_4ade21e3:
+msgid "[_hidden_number_] I am sorry, but I cannot."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:678 #-#-# translate crowdin poolside_story_enter_sports_text2_9784cae1:
+msgid "[_mc_] What do you mean? I need answers."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:679 #-#-# translate crowdin poolside_story_enter_sports_text2_bd076bd2:
+msgid "[_hidden_number_] I have said too much already. I am not allowed to sway you one way or another."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:681 #-#-# translate crowdin poolside_story_enter_sports_text2_c8e37eb0:
+msgid "Sway me? What the hell is this person on about?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:682 #-#-# translate crowdin poolside_story_enter_sports_text2_3acad56e:
+msgid "Well, still useless. Not sure what I expected."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:685 #-#-# translate crowdin poolside_story_enter_sports_text2_dc08db25:
+msgid "[_hidden_number_] Why do you ask that?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:686 #-#-# translate crowdin poolside_story_enter_sports_text2_dd4e096b:
+msgid "[_mc_] Something weird happened."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:687 #-#-# translate crowdin poolside_story_enter_sports_text2_884dc5e1:
+msgid "[_hidden_number_] Weird in what way?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:689 #-#-# translate crowdin poolside_story_enter_sports_text2_ed397dc0:
+msgid "Fuck. How do I even explain this?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:691 #-#-# translate crowdin poolside_story_enter_sports_text2_c941b850:
+msgid "[_mc_] I was meant to try out for the swim team, and I got this weird feeling."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:692 #-#-# translate crowdin poolside_story_enter_sports_text2_7d995c32:
+msgid "[_hidden_number_] Remember what I told you."
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:694 #-#-# translate crowdin poolside_story_enter_sports_text2_081ff126:
+msgid "Hmm... what did they tell me? Trust my heart?"
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:695 #-#-# translate crowdin poolside_story_enter_sports_text2_2d15acdb:
+msgid "Of course it's some cryptic bullshit."
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:52
+msgid "\"She probably saw my grades.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:52
+msgid "\"Her mouth wasn't big enough.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:52
+msgid "\"She seems to be in trouble.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:171
+msgid "\"I ran out of shirts and the washing machine is broken.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:171
+msgid "\"I call it 'Mustard Skies Over Gray Chapels.'\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:171
+msgid "?mc.intellect>=2@[mc.intellect]/2|{image=stats int}|\"It's a work in progress. Do you have any ideas?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:293
+msgid "\"Have you noticed anything odd recently?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:293
+msgid "\"Do you know what happened to Mrs. Bloomer?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:293
+msgid "\"Is the program for exchange students new?\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:417
+msgid "\"I was born ready.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:417
+msgid "\"I don't know... I'm not really sure anymore.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:436
+msgid "\"Okay, let's give it a go...\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:436
+msgid "\"I'm sorry, but I've changed my mind.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:661
+msgid "\"Weird things keep happening. I need help!\""
+msgstr ""
+
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:661
+msgid "\"What do you know about [mrsl]?\""
+msgstr ""
+
