@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 19:40\n"
+"PO-Revision-Date: 2024-02-09 16:59\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/music_class/int_statue.rpy:26 #-#-# translate crowdin school_music_class_statue_interact_dc80c697:
 msgid "This statue used to give me comfort..."
@@ -316,7 +316,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/music_class/int_statue.rpy:399 #-#-# translate crowdin school_music_class_statue_flirt_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/music_class/int_statue.rpy:401 #-#-# translate crowdin school_music_class_statue_flirt_db114d38:
 msgid "There comes a time in your life when you have to make a choice."
