@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 18:38\n"
+"PO-Revision-Date: 2024-02-09 16:02\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:3 #-#-# translate crowdin quest_jo_pot_start_a253a57b:
 msgid "[_jo_] How's it going, honey?"
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:22 #-#-# translate crowdin quest_jo_pot_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:25 #-#-# translate crowdin quest_jo_pot_start_f989dc1f:
 msgid "[_mc_] The adoption services. You're getting a new home!"
@@ -306,7 +306,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:107 #-#-# translate crowdin quest_jo_pot_getnurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:110 #-#-# translate crowdin quest_jo_pot_getnurse_8783749d:
 msgid "[_mc_] You'll make some time."
@@ -358,7 +358,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:133 #-#-# translate crowdin quest_jo_pot_getnurse_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:136 #-#-# translate crowdin quest_jo_pot_getnurse_98054b21:
 msgid "[_mc_] No, I've changed my mind. You're too nice."
@@ -882,7 +882,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:342 #-#-# translate crowdin quest_jo_pot_tea_home_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:345 #-#-# translate crowdin quest_jo_pot_tea_home_23fe38d9:
 msgid "[_mc_] Just err... tea leaves."
@@ -1098,7 +1098,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:415 #-#-# translate crowdin quest_jo_pot_tea_home_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:417 #-#-# translate crowdin quest_jo_pot_tea_home_40fcf4f5:
 msgid "[_mc_] All right, [jo]. Let's get you to bed."
@@ -1746,7 +1746,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:755 #-#-# translate crowdin quest_jo_pot_meadow_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:757 #-#-# translate crowdin quest_jo_pot_meadow_d2b95230:
 msgid "I know at least one person I can blackmail into plowing this field for me..."
