@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 19:13\n"
+"PO-Revision-Date: 2024-02-09 16:33\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:50 #-#-# translate crowdin home_kitchen_mf_interact_flora_bonsai_d6cedc54:
 msgid "I already got enough items. I should give them to [flora]."
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:69 #-#-# translate crowdin home_kitchen_mf_interact_flora_cooking_chilli_distracted_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:72 #-#-# translate crowdin home_kitchen_mf_interact_flora_cooking_chilli_distracted_6e38e62a:
 msgid "Not sure who put milk in a plastic bottle. That seems illegal, somehow."
