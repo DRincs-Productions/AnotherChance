@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-09 17:18\n"
+"PO-Revision-Date: 2024-02-09 19:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:3 #-#-# translate crowdin quest_maya_spell_start_d75d1eb1:
 msgid "[_mc_] Hey, [maya]! Guess what?"
@@ -522,7 +522,7 @@ msgstr "[_kate_s_surprised_] ..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:202 #-#-# translate crowdin quest_maya_spell_hair_kate_426f66e1:
 msgid "[_kate_] Just leave me alone and don't touch me again or I'll... I'll get [jo] involved.{space=-90}"
-msgstr ""
+msgstr "[_kate_] Lasciami in pace e non toccarmi più, altrimenti... verrò coinvolto [jo].{space=-90}"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:203 #-#-# translate crowdin quest_maya_spell_hair_kate_c93f6401:
 msgid "[_mc_] Yeah, yeah. I'm going."
@@ -2022,7 +2022,7 @@ msgstr "[_mc_] Err, nel caso in cui l'incantesimo debba essere fatto."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1165 #-#-# translate crowdin quest_maya_spell_maya_86cc232f:
 msgid "[_mc_] What were {i}you{/} doing out there?"
-msgstr ""
+msgstr "[_mc_] Cosa stavi facendo {i}tu{/} là fuori?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1167 #-#-# translate crowdin quest_maya_spell_maya_a213b167:
 msgid "[_maya_s_skeptical_] Just taking a stroll through the forest, contemplating life's miseries.{space=-5}"
@@ -3531,12 +3531,14 @@ msgstr "\"Posso avere un po' del tuo sudore?\""
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:517
 msgid "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_pegging}|\"I want to get sweaty\n"
 "with you again.\""
-msgstr ""
+msgstr "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_pegging}|\"Voglio sudare\n"
+"di nuovo con te.\""
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:517
 msgid "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_anal}|\"I want to get sweaty\n"
 "with you again.\""
-msgstr ""
+msgstr "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_anal}|\"Voglio sudare\n"
+"di nuovo con te.\""
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1017
 msgid "\"Uh, gross.\""
@@ -3565,7 +3567,8 @@ msgstr "Urla e urla per aiuto"
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1207
 msgid "?mc.money>=20@[mc.money]/20|{image=ui hud icon_money}|Use something from a\n"
 "nearby vending machine"
-msgstr ""
+msgstr "?mc.money>=20@[mc.money]/20|{image=ui hud icon_money}|Usa qualcosa da a\n"
+"distributore automatico nelle vicinanze"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1501
 msgid "Hide in plain sight, masquerading as a statue{space=-35}"
