@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-09 16:02\n"
+"PO-Revision-Date: 2024-02-09 17:40\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:3 #-#-# translate crowdin quest_lindsey_book_start_c7688f55:
 msgid "[_mc_] Hey, [lindsey]! Your, err... your hair looks nice today!"
@@ -682,7 +682,7 @@ msgstr "[_lindsey_s_laughing_] Aw! Grazie!"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:315 #-#-# translate crowdin quest_lindsey_book_easel_b210e75d:
 msgid "[_lindsey_s_laughing_] It does look a little rickety, but maybe that's just the aesthetic?"
-msgstr ""
+msgstr "[_lindsey_s_laughing_] Sembra un po' rickety, ma forse è solo l'estetica?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:316 #-#-# translate crowdin quest_lindsey_book_easel_9378e408:
 msgid "[_mc_] It's sturdier than it looks!"
@@ -690,11 +690,11 @@ msgstr "[_mc_] È più robusto di quello che sembra!"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:317 #-#-# translate crowdin quest_lindsey_book_easel_824706a2:
 msgid "[_lindsey_s_flirty_] I appreciate it regardless!"
-msgstr ""
+msgstr "[_lindsey_s_flirty_] lo apprezzo benissimo!"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:320 #-#-# translate crowdin quest_lindsey_book_easel_bf109a68:
 msgid "[_lindsey_s_flirty_] Since you did this for me, maybe we could paint something together?{space=-30}"
-msgstr ""
+msgstr "[_lindsey_s_flirty_] Dal momento che hai fatto questo per me, forse potremmo dipingere qualcosa insieme?{space=-30}"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:321 #-#-# translate crowdin quest_lindsey_book_easel_690165fb:
 msgid "[_mc_] Wait, really?"
@@ -734,15 +734,15 @@ msgstr "[_mc_] Sì, potevamo."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:333 #-#-# translate crowdin quest_lindsey_book_easel_b093dec3:
 msgid "[_lindsey_s_confident_] Okay! Where should we put the easel?"
-msgstr ""
+msgstr "[_lindsey_s_confident_] Okay! Dove dovremmo mettere il cavallo?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:334 #-#-# translate crowdin quest_lindsey_book_easel_7510d9df:
 msgid "[_mc_] I don't know, right here seems good."
-msgstr ""
+msgstr "[_mc_] Non lo so, proprio qui sembra buono."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:335 #-#-# translate crowdin quest_lindsey_book_easel_2bbe2ef3:
 msgid "The longer we wait, the more chances she'll get to ditch me..."
-msgstr ""
+msgstr "Più a lungo aspettiamo, più possibilità si arriva ad ammazzarmi..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:336 #-#-# translate crowdin quest_lindsey_book_easel_2217290e:
 msgid "[_lindsey_s_excited_] Nice! I like the spontaneity."
@@ -750,7 +750,7 @@ msgstr "[_lindsey_s_excited_] Nizza! Mi piace la spontaneità."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:341 #-#-# translate crowdin quest_lindsey_book_easel_927d0949:
 msgid "It feels good to be appreciated and useful to one of the hottest girls in the school."
-msgstr ""
+msgstr "Si sente bene essere apprezzato e utile per una delle ragazze più calde della scuola."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:342 #-#-# translate crowdin quest_lindsey_book_easel_60772615:
 msgid "Even if it's just to paint, this feels like something of a turning point."
@@ -778,11 +778,11 @@ msgstr "[_mc_] Che inferno?!"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:377 #-#-# translate crowdin quest_lindsey_book_easel_e7349981:
 msgid "[_lindsey_s_afraid_] W-was that a beaver?"
-msgstr ""
+msgstr "[_lindsey_s_afraid_] W-è stato un castore?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:378 #-#-# translate crowdin quest_lindsey_book_easel_28fa21dc:
 msgid "[_lindsey_s_cringe_] Hey! It stole the easel!"
-msgstr ""
+msgstr "[_lindsey_s_cringe_] Ehi! Ha rubato il cavallo!"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:381 #-#-# translate crowdin quest_lindsey_book_easel_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -794,7 +794,7 @@ msgstr "[_mc_] Dovremmo andare dopo?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:385 #-#-# translate crowdin quest_lindsey_book_easel_97b6c897:
 msgid "[_lindsey_s_thinking_] I, um... I don't know."
-msgstr ""
+msgstr "[_lindsey_s_thinking_] Io, um... Non lo so."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:386 #-#-# translate crowdin quest_lindsey_book_easel_d2ec9f38:
 msgid "[_lindsey_s_thinking_] It probably mistook the easel for regular sticks."
@@ -806,7 +806,7 @@ msgstr "[_mc_] Beh, lo masticherà e lo userà per la sua diga!"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:388 #-#-# translate crowdin quest_lindsey_book_easel_99f1795d:
 msgid "[_lindsey_s_sad_] There's not much we can do..."
-msgstr ""
+msgstr "[_lindsey_s_sad_] Non c'è molto che possiamo fare..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:389 #-#-# translate crowdin quest_lindsey_book_easel_94f4b379:
 msgid "Hell, no! I'm not letting some critter ruin my painting date!"
@@ -826,11 +826,11 @@ msgstr "Ecco la mia possibilità di impressionare [lindsey]!"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:405 #-#-# translate crowdin quest_lindsey_book_easel_57c5b5a0:
 msgid "Puh, that sucker is fast! It ran into the school."
-msgstr ""
+msgstr "Puh, quel succhiatore è veloce! Correva nella scuola."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:406 #-#-# translate crowdin quest_lindsey_book_easel_9b4bf63c:
 msgid "[lindsey] is watching, so I can't give up yet..."
-msgstr ""
+msgstr "[lindsey] sta guardando, quindi non posso ancora rinunciare..."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:11
 msgid "\"Well, suck it up, princess. Life's not a bed of roses.\""
