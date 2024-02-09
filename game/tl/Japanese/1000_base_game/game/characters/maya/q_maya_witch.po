@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2023-11-09 18:41\n"
+"PO-Revision-Date: 2024-02-09 16:04\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2 #-#-# translate crowdin quest_maya_witch_start_7c4911ec:
+# TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2 #-#-# translate crowdin quest_maya_witch_start_7c4911ec:
 msgid "Oh, man. There's [maya] again."
 msgstr ""
 
@@ -430,8 +430,8 @@ msgstr ""
 msgid "Just gotta jiggle it this way..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:184 #-#-# translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_use_item_8fb69af4:
-msgid "[_extend_]  and finagle it that wad..."
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:184 #-#-# translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_use_item_a1a31e70:
+msgid "[_extend_]  and finagle it that way..."
 msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:186 #-#-# translate crowdin quest_maya_witch_schedule_school_homeroom_teacher_desk_use_item_29a9c8f5:
@@ -1159,8 +1159,8 @@ msgstr ""
 msgid "[_kate_s_embarrassed_] Ew! You're such a little creep."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:485 #-#-# translate crowdin quest_maya_witch_gym_class_72290356:
-msgid "[_maya_s_sarcastic_] Let's get together and measure sometime, [mc.name]."
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:485 #-#-# translate crowdin quest_maya_witch_gym_class_0c92fff4:
+msgid "[_maya_s_sarcastic_] Let's get together and measure sometime, [mc]."
 msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:486 #-#-# translate crowdin quest_maya_witch_gym_class_7a82a548:
@@ -2551,1112 +2551,1112 @@ msgstr ""
 msgid "[_maya_s_dramatic_] Come on, Piss King! Let's fuck off out of here before it happens again!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1207 #-#-# translate crowdin quest_maya_witch_wait_a20ddc51:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1208 #-#-# translate crowdin quest_maya_witch_wait_a20ddc51:
 msgid "[_mc_] Welp, I think I'm starting to believe you when you say you're cursed."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1208 #-#-# translate crowdin quest_maya_witch_wait_9e82c835:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1209 #-#-# translate crowdin quest_maya_witch_wait_9e82c835:
 msgid "[_maya_s_bored_] And all it took was spontaneous combustion?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1209 #-#-# translate crowdin quest_maya_witch_wait_154d5e9f:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1210 #-#-# translate crowdin quest_maya_witch_wait_154d5e9f:
 msgid "[_mc_] I'm serious! I've never seen a computer just catch fire like that out of nowhere."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1210 #-#-# translate crowdin quest_maya_witch_wait_ed2c3be7:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1211 #-#-# translate crowdin quest_maya_witch_wait_ed2c3be7:
 msgid "[_mc_] I thought maybe someone could be playing tricks on you... but how could they have done that?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1211 #-#-# translate crowdin quest_maya_witch_wait_c2587ab8:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1212 #-#-# translate crowdin quest_maya_witch_wait_c2587ab8:
 msgid "[_maya_s_skeptical_] I'm telling you — witches."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1212 #-#-# translate crowdin quest_maya_witch_wait_685d7fae:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1213 #-#-# translate crowdin quest_maya_witch_wait_685d7fae:
 msgid "[_mc_] Maybe we should talk to [maxine]? She knows all about weird stuff like this."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1213 #-#-# translate crowdin quest_maya_witch_wait_897b46d2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1214 #-#-# translate crowdin quest_maya_witch_wait_897b46d2:
 msgid "[_maya_s_confident_] I'll take just about any help at this point. I mean, you're here, aren't you?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1214 #-#-# translate crowdin quest_maya_witch_wait_2381402c:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1215 #-#-# translate crowdin quest_maya_witch_wait_2381402c:
 msgid "[_mc_] Fair enough!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1215 #-#-# translate crowdin quest_maya_witch_wait_4c2aebbb:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1216 #-#-# translate crowdin quest_maya_witch_wait_4c2aebbb:
 msgid "[_mc_] Though [maxine] can be a bit difficult to deal with. Do you want me to handle her?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1216 #-#-# translate crowdin quest_maya_witch_wait_6835a987:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1217 #-#-# translate crowdin quest_maya_witch_wait_6835a987:
 msgid "[_maya_s_bored_] Yeah, sure. I appreciate it."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1217 #-#-# translate crowdin quest_maya_witch_wait_32044c74:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1218 #-#-# translate crowdin quest_maya_witch_wait_32044c74:
 msgid "[_maya_s_bored_] Later, [mc]."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1224 #-#-# translate crowdin quest_maya_witch_help_f12d9eea:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1225 #-#-# translate crowdin quest_maya_witch_help_f12d9eea:
 msgid "There she is in her unnatural habitat, lying in wait. Ready to pounce on her next unsuspecting victim."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1225 #-#-# translate crowdin quest_maya_witch_help_bcbdb91f:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1226 #-#-# translate crowdin quest_maya_witch_help_bcbdb91f:
 msgid "Yet, willfully, I go into her den of insanity once again. As suspecting as they come."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1229 #-#-# translate crowdin quest_maya_witch_help_17484288:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1230 #-#-# translate crowdin quest_maya_witch_help_17484288:
 msgid "[_maxine_s_skeptical_] Did you know?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1230 #-#-# translate crowdin quest_maya_witch_help_200708b1:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1231 #-#-# translate crowdin quest_maya_witch_help_200708b1:
 msgid "[_mc_] Know what?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1231 #-#-# translate crowdin quest_maya_witch_help_50b97dff:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1232 #-#-# translate crowdin quest_maya_witch_help_50b97dff:
 msgid "[_maxine_s_skeptical_] About the thing in the school basement."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1232 #-#-# translate crowdin quest_maya_witch_help_fee64c52:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1233 #-#-# translate crowdin quest_maya_witch_help_fee64c52:
 msgid "[_mc_] That sounds ominous... but the school has no basement."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1233 #-#-# translate crowdin quest_maya_witch_help_8c57f4f5:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1234 #-#-# translate crowdin quest_maya_witch_help_8c57f4f5:
 msgid "[_maxine_s_eyeroll_] Where do the stairs lead, then?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1234 #-#-# translate crowdin quest_maya_witch_help_59c65a9b:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1235 #-#-# translate crowdin quest_maya_witch_help_59c65a9b:
 msgid "[_mc_] What stairs?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1235 #-#-# translate crowdin quest_maya_witch_help_7ee6f3ab:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1236 #-#-# translate crowdin quest_maya_witch_help_7ee6f3ab:
 msgid "[_maxine_s_annoyed_] You're not ready."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1236 #-#-# translate crowdin quest_maya_witch_help_bbeeb44e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1237 #-#-# translate crowdin quest_maya_witch_help_bbeeb44e:
 msgid "[_mc_] What's that supposed to mean?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1237 #-#-# translate crowdin quest_maya_witch_help_2b231620:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1238 #-#-# translate crowdin quest_maya_witch_help_2b231620:
 msgid "[_maxine_s_annoyed_] Like an apple, you're still green and sour. You need to be ripe."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1238 #-#-# translate crowdin quest_maya_witch_help_0f380622:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1239 #-#-# translate crowdin quest_maya_witch_help_0f380622:
 msgid "[_mc_] Ugh, I don't even know what we're talking about anymore!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1239 #-#-# translate crowdin quest_maya_witch_help_54d3ff25:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1240 #-#-# translate crowdin quest_maya_witch_help_54d3ff25:
 msgid "[_maxine_s_skeptical_] So, it's safe to say that you did not, in fact, know."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1240 #-#-# translate crowdin quest_maya_witch_help_53f5ad61:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1241 #-#-# translate crowdin quest_maya_witch_help_53f5ad61:
 msgid "[_mc_] Right, I know nothing."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1241 #-#-# translate crowdin quest_maya_witch_help_f3c7318e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1242 #-#-# translate crowdin quest_maya_witch_help_f3c7318e:
 msgid "[_mc_] Just like a certain winter bastard."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1242 #-#-# translate crowdin quest_maya_witch_help_e378ab9e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1243 #-#-# translate crowdin quest_maya_witch_help_e378ab9e:
 msgid "Too bad she'll never understand that reference."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1243 #-#-# translate crowdin quest_maya_witch_help_0dd2f490:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1244 #-#-# translate crowdin quest_maya_witch_help_0dd2f490:
 msgid "Modern art is lost on her."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1244 #-#-# translate crowdin quest_maya_witch_help_b7f20a13:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1245 #-#-# translate crowdin quest_maya_witch_help_b7f20a13:
 msgid "[_maxine_s_smile_] It's good that you're becoming more self-aware."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1245 #-#-# translate crowdin quest_maya_witch_help_ec23b6a0:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1246 #-#-# translate crowdin quest_maya_witch_help_ec23b6a0:
 msgid "That makes one of us..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1246 #-#-# translate crowdin quest_maya_witch_help_471565c2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1247 #-#-# translate crowdin quest_maya_witch_help_471565c2:
 msgid "[_mc_] Anyway, I have a question."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1247 #-#-# translate crowdin quest_maya_witch_help_705cb1bb:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1248 #-#-# translate crowdin quest_maya_witch_help_705cb1bb:
 msgid "[_maxine_s_neutral_] Just one?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1248 #-#-# translate crowdin quest_maya_witch_help_64d76104:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1249 #-#-# translate crowdin quest_maya_witch_help_64d76104:
 msgid "[_mc_] At this moment in time, yes."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1249 #-#-# translate crowdin quest_maya_witch_help_83108df0:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1250 #-#-# translate crowdin quest_maya_witch_help_83108df0:
 msgid "[_mc_] Do you—"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1250 #-#-# translate crowdin quest_maya_witch_help_9b383a20:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1251 #-#-# translate crowdin quest_maya_witch_help_9b383a20:
 msgid "[_maxine_s_neutral_] Is it for me?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1251 #-#-# translate crowdin quest_maya_witch_help_2b35b6fe:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1252 #-#-# translate crowdin quest_maya_witch_help_2b35b6fe:
 msgid "[_mc_] ..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1252 #-#-# translate crowdin quest_maya_witch_help_b58b0e0e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1253 #-#-# translate crowdin quest_maya_witch_help_b58b0e0e:
 msgid "[_mc_] Yes, [maxine]. That's why I'm here."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1253 #-#-# translate crowdin quest_maya_witch_help_c4549492:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1254 #-#-# translate crowdin quest_maya_witch_help_c4549492:
 msgid "[_maxine_s_neutral_] Surely, your purpose is greater than that?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1254 #-#-# translate crowdin quest_maya_witch_help_a9f03592:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1255 #-#-# translate crowdin quest_maya_witch_help_a9f03592:
 msgid "[_mc_] I'm not talking about my purpose on earth..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1255 #-#-# translate crowdin quest_maya_witch_help_762b4f36:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1256 #-#-# translate crowdin quest_maya_witch_help_762b4f36:
 msgid "[_maxine_s_smile_] Neither was I."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1256 #-#-# translate crowdin quest_maya_witch_help_6f05423d:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1257 #-#-# translate crowdin quest_maya_witch_help_6f05423d:
 msgid "[_mc_] Anyway! Do you know anything about curses?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1257 #-#-# translate crowdin quest_maya_witch_help_99651c14:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1258 #-#-# translate crowdin quest_maya_witch_help_99651c14:
 msgid "[_maxine_s_excited_] Casting? Lifting? Containing? Selling? Distilling?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1258 #-#-# translate crowdin quest_maya_witch_help_faa95bcb:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1259 #-#-# translate crowdin quest_maya_witch_help_faa95bcb:
 msgid "[_maxine_s_excited_] They {i}can{/} make excellent perfumes."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1259 #-#-# translate crowdin quest_maya_witch_help_0b6adf40:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1260 #-#-# translate crowdin quest_maya_witch_help_0b6adf40:
 msgid "[_maxine_s_excited_] Or maybe pickling? Not to be confused with cucum—"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1260 #-#-# translate crowdin quest_maya_witch_help_6ca98622:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1261 #-#-# translate crowdin quest_maya_witch_help_6ca98622:
 msgid "[_mc_] Please stop."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1261 #-#-# translate crowdin quest_maya_witch_help_2263801b:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1262 #-#-# translate crowdin quest_maya_witch_help_2263801b:
 msgid "[_maxine_s_concerned_] It's your funeral."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264 #-#-# translate crowdin quest_maya_witch_help_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1265 #-#-# translate crowdin quest_maya_witch_help_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1267 #-#-# translate crowdin quest_maya_witch_help_4f2e20ae:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1268 #-#-# translate crowdin quest_maya_witch_help_4f2e20ae:
 msgid "[_mc_] You know what? Nevermind."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1268 #-#-# translate crowdin quest_maya_witch_help_2a95ea07:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1269 #-#-# translate crowdin quest_maya_witch_help_2a95ea07:
 msgid "[_mc_] I'll just figure it out on my own."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1269 #-#-# translate crowdin quest_maya_witch_help_35dfc9b4:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1270 #-#-# translate crowdin quest_maya_witch_help_35dfc9b4:
 msgid "[_maxine_s_thinking_] Please do not cast any curses, hexes, jinxes, or otherwise, without supervision."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1270 #-#-# translate crowdin quest_maya_witch_help_a17bc9ca:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1271 #-#-# translate crowdin quest_maya_witch_help_a17bc9ca:
 msgid "[_mc_] Whose supervision?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1271 #-#-# translate crowdin quest_maya_witch_help_50e0f015:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1272 #-#-# translate crowdin quest_maya_witch_help_50e0f015:
 msgid "[_maxine_s_thinking_] A certified Hexalogist, obviously."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1272 #-#-# translate crowdin quest_maya_witch_help_ff5dc0d3:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1273 #-#-# translate crowdin quest_maya_witch_help_ff5dc0d3:
 msgid "[_mc_] That's not a thing."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1273 #-#-# translate crowdin quest_maya_witch_help_dc2685e3:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1274 #-#-# translate crowdin quest_maya_witch_help_dc2685e3:
 msgid "[_maxine_s_thinking_] It wouldn't exist if it wasn't a thing."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1274 #-#-# translate crowdin quest_maya_witch_help_bf0fecc5:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1275 #-#-# translate crowdin quest_maya_witch_help_bf0fecc5:
 msgid "I guess I don't know how to argue with that kind of circular logic..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1275 #-#-# translate crowdin quest_maya_witch_help_e1e1df98:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1276 #-#-# translate crowdin quest_maya_witch_help_e1e1df98:
 msgid "[_maxine_s_thinking_] Says it right under Article II, subsection 1C, clause 592 that unsupervised{space=-110}\n"
 "practices are strictly forbidden."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1276 #-#-# translate crowdin quest_maya_witch_help_edfbbde6:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1277 #-#-# translate crowdin quest_maya_witch_help_edfbbde6:
 msgid "[_mc_] ...of what?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1277 #-#-# translate crowdin quest_maya_witch_help_5dbe77b1:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1278 #-#-# translate crowdin quest_maya_witch_help_5dbe77b1:
 msgid "[_maxine_s_thinking_] The school handbook, of course."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1278 #-#-# translate crowdin quest_maya_witch_help_177162ca:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1279 #-#-# translate crowdin quest_maya_witch_help_177162ca:
 msgid "[_mc_] Right. I must have missed it in between all the normal rules."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1279 #-#-# translate crowdin quest_maya_witch_help_39c830c6:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1280 #-#-# translate crowdin quest_maya_witch_help_39c830c6:
 msgid "[_maxine_s_sad_] You have to read in between the lines."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1280 #-#-# translate crowdin quest_maya_witch_help_2c9c3bf8:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1281 #-#-# translate crowdin quest_maya_witch_help_2c9c3bf8:
 msgid "[_mc_] Of course you do."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1281 #-#-# translate crowdin quest_maya_witch_help_548c401b:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1282 #-#-# translate crowdin quest_maya_witch_help_548c401b:
 msgid "[_maxine_s_sad_] Invisible ink."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1282 #-#-# translate crowdin quest_maya_witch_help_15af4283:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1283 #-#-# translate crowdin quest_maya_witch_help_15af4283:
 msgid "[_mc_] Right. Whatever."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1283 #-#-# translate crowdin quest_maya_witch_help_285db37f:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1284 #-#-# translate crowdin quest_maya_witch_help_285db37f:
 msgid "[_mc_] No place is more magical than the internet, anyway."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1284 #-#-# translate crowdin quest_maya_witch_help_b2b18a66:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1285 #-#-# translate crowdin quest_maya_witch_help_b2b18a66:
 msgid "[_maxine_s_afraid_] Or more dangerous!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1293 #-#-# translate crowdin quest_maya_witch_help_8d16a72b:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1294 #-#-# translate crowdin quest_maya_witch_help_8d16a72b:
 msgid "Pfft! Dangerous? I'm sure it will be just fine..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1297 #-#-# translate crowdin quest_maya_witch_help_75f7c0dd:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1298 #-#-# translate crowdin quest_maya_witch_help_75f7c0dd:
 msgid "[_mc_] Is that a threat?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1298 #-#-# translate crowdin quest_maya_witch_help_b92800ff:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1299 #-#-# translate crowdin quest_maya_witch_help_b92800ff:
 msgid "[_maxine_s_eyeroll_] It's the truth, if you play around with curses."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1299 #-#-# translate crowdin quest_maya_witch_help_cffda663:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1300 #-#-# translate crowdin quest_maya_witch_help_cffda663:
 msgid "[_mc_] Pfft! It's curses that better not play around with me."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1301 #-#-# translate crowdin quest_maya_witch_help_69c4fd5e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1302 #-#-# translate crowdin quest_maya_witch_help_69c4fd5e:
 msgid "[_mc_] I've been taking the gym more seriously. Look at these guns!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1302 #-#-# translate crowdin quest_maya_witch_help_4198f460:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1303 #-#-# translate crowdin quest_maya_witch_help_4198f460:
 msgid "[_maxine_s_annoyed_] It's impossible to hit a curse. The necessary velocity can't be obtained.{space=-55}"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1303 #-#-# translate crowdin quest_maya_witch_help_13879c01:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1304 #-#-# translate crowdin quest_maya_witch_help_13879c01:
 msgid "[_mc_] Well, that's why I'm asking for your help."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1304 #-#-# translate crowdin quest_maya_witch_help_5e1a7355:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1305 #-#-# translate crowdin quest_maya_witch_help_5e1a7355:
 msgid "[_maxine_s_confident_] I see. You were wise to seek my council."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1305 #-#-# translate crowdin quest_maya_witch_help_a7ee599a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1306 #-#-# translate crowdin quest_maya_witch_help_a7ee599a:
 msgid "[_maxine_s_confident_] I'll gather them together and—"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1306 #-#-# translate crowdin quest_maya_witch_help_64d4022b:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1307 #-#-# translate crowdin quest_maya_witch_help_64d4022b:
 msgid "[_mc_] Sorry, but it's kind of time sensitive..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1307 #-#-# translate crowdin quest_maya_witch_help_625e3537:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1308 #-#-# translate crowdin quest_maya_witch_help_625e3537:
 msgid "[_maxine_s_skeptical_] You play a dangerous game, [mc]."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1308 #-#-# translate crowdin quest_maya_witch_help_a602260e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1309 #-#-# translate crowdin quest_maya_witch_help_a602260e:
 msgid "[_mc_] The most dangerous one."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1309 #-#-# translate crowdin quest_maya_witch_help_9e571e2f:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1310 #-#-# translate crowdin quest_maya_witch_help_9e571e2f:
 msgid "[_maxine_s_confident_hands_down_] I didn't realize you hunt."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1310 #-#-# translate crowdin quest_maya_witch_help_4015f960:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1311 #-#-# translate crowdin quest_maya_witch_help_4015f960:
 msgid "[_mc_] I, err... I don't."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1313 #-#-# translate crowdin quest_maya_witch_help_e0d6de64:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1314 #-#-# translate crowdin quest_maya_witch_help_e0d6de64:
 msgid "[_mc_] I'll let you lead the procession, then."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1314 #-#-# translate crowdin quest_maya_witch_help_69ac7033:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1315 #-#-# translate crowdin quest_maya_witch_help_69ac7033:
 msgid "[_maxine_s_smile_] Oh, no, if you're dead, then I'm already long gone."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1315 #-#-# translate crowdin quest_maya_witch_help_912cc7f4:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1316 #-#-# translate crowdin quest_maya_witch_help_912cc7f4:
 msgid "[_mc_] ...what is that even supposed to mean?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1316 #-#-# translate crowdin quest_maya_witch_help_8853ef73:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1317 #-#-# translate crowdin quest_maya_witch_help_8853ef73:
 msgid "[_maxine_s_smile_] Exactly what I just said."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1317 #-#-# translate crowdin quest_maya_witch_help_995c0841:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1318 #-#-# translate crowdin quest_maya_witch_help_995c0841:
 msgid "[_mc_] So, you know how I die?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1318 #-#-# translate crowdin quest_maya_witch_help_ae8f8124:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1319 #-#-# translate crowdin quest_maya_witch_help_ae8f8124:
 msgid "[_maxine_s_laughing_] Don't be absurd! How could I know that?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1319 #-#-# translate crowdin quest_maya_witch_help_550d4607:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1320 #-#-# translate crowdin quest_maya_witch_help_550d4607:
 msgid "[_maxine_s_neutral_] I know {i}when{/} you die."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1320 #-#-# translate crowdin quest_maya_witch_help_0a7ffbf1:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1321 #-#-# translate crowdin quest_maya_witch_help_0a7ffbf1:
 msgid "If that's not enough to send a chill down the spine, I don't know what is..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1321 #-#-# translate crowdin quest_maya_witch_help_2c49a9a6:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1322 #-#-# translate crowdin quest_maya_witch_help_2c49a9a6:
 msgid "[_mc_] I don't like where this conversation is going."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1322 #-#-# translate crowdin quest_maya_witch_help_69c1ea2a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1323 #-#-# translate crowdin quest_maya_witch_help_69c1ea2a:
 msgid "[_maxine_s_neutral_] You asked."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1323 #-#-# translate crowdin quest_maya_witch_help_0863166c:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1324 #-#-# translate crowdin quest_maya_witch_help_0863166c:
 msgid "[_mc_] And I regret it."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1324 #-#-# translate crowdin quest_maya_witch_help_c1e188cd:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1325 #-#-# translate crowdin quest_maya_witch_help_c1e188cd:
 msgid "[_mc_] Anyway, can you help me out or not?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1325 #-#-# translate crowdin quest_maya_witch_help_4d1e201d:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1326 #-#-# translate crowdin quest_maya_witch_help_4d1e201d:
 msgid "[_maxine_s_sad_] I may have a mutually beneficial solution."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1329 #-#-# translate crowdin quest_maya_witch_help_14166bea:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1330 #-#-# translate crowdin quest_maya_witch_help_14166bea:
 msgid "[_maxine_s_sad_] I grant you permission to come to my office tomorrow between the hours of [timeframe]."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1333 #-#-# translate crowdin quest_maya_witch_help_3d7b7765:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1334 #-#-# translate crowdin quest_maya_witch_help_3d7b7765:
 msgid "[_maxine_s_sad_] I grant you permission to come to my office between the hours of [timeframe]."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1334 #-#-# translate crowdin quest_maya_witch_help_ec402f8a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1335 #-#-# translate crowdin quest_maya_witch_help_ec402f8a:
 msgid "[_mc_] That's a tiny window..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1335 #-#-# translate crowdin quest_maya_witch_help_7a37d738:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1336 #-#-# translate crowdin quest_maya_witch_help_7a37d738:
 msgid "[_maxine_s_thinking_] I'm a very busy woman, [mc]."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1336 #-#-# translate crowdin quest_maya_witch_help_a87be5c5:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1337 #-#-# translate crowdin quest_maya_witch_help_a87be5c5:
 msgid "[_maxine_s_thinking_] The secret popcorn dispenser isn't going to oil itself."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1337 #-#-# translate crowdin quest_maya_witch_help_df29e2e1:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1338 #-#-# translate crowdin quest_maya_witch_help_df29e2e1:
 msgid "I'm not sure if that's some kind of euphemism, but knowing [maxine], probably not."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1338 #-#-# translate crowdin quest_maya_witch_help_f725bea5:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1339 #-#-# translate crowdin quest_maya_witch_help_f725bea5:
 msgid "Still, I don't want to know."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1340 #-#-# translate crowdin quest_maya_witch_help_23c61137:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1341 #-#-# translate crowdin quest_maya_witch_help_23c61137:
 msgid "[_mc_] Very well. I'll meet you tomorrow within that absurd timeframe."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1342 #-#-# translate crowdin quest_maya_witch_help_f972141a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1343 #-#-# translate crowdin quest_maya_witch_help_f972141a:
 msgid "[_mc_] Very well. I'll meet you within that absurd timeframe."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1343 #-#-# translate crowdin quest_maya_witch_help_a31991bd:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1344 #-#-# translate crowdin quest_maya_witch_help_a31991bd:
 msgid "[_maxine_s_thinking_] It's a pretty standard time, actually."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1344 #-#-# translate crowdin quest_maya_witch_help_29310efc:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1345 #-#-# translate crowdin quest_maya_witch_help_29310efc:
 msgid "[_mc_] Whatever you say."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1361 #-#-# translate crowdin quest_maya_witch_meet_up_school_homeroom_rope_d1923d35:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1362 #-#-# translate crowdin quest_maya_witch_meet_up_school_homeroom_rope_d1923d35:
 msgid "What the hell? Did [maxine] just pull up the rope?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1362 #-#-# translate crowdin quest_maya_witch_meet_up_school_homeroom_rope_6313ba68:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1363 #-#-# translate crowdin quest_maya_witch_meet_up_school_homeroom_rope_6313ba68:
 msgid "You've got to be kidding me..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1367 #-#-# translate crowdin quest_maya_witch_meet_up_60527ec9:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1368 #-#-# translate crowdin quest_maya_witch_meet_up_60527ec9:
 msgid "[_maxine_s_thinking_] I may have something that can help you."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1368 #-#-# translate crowdin quest_maya_witch_meet_up_a9c9f206:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1369 #-#-# translate crowdin quest_maya_witch_meet_up_a9c9f206:
 msgid "[_mc_] That's exactly why I'm here."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1369 #-#-# translate crowdin quest_maya_witch_meet_up_e6654e96:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1370 #-#-# translate crowdin quest_maya_witch_meet_up_e6654e96:
 msgid "[_maxine_s_sad_] But..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1370 #-#-# translate crowdin quest_maya_witch_meet_up_34f6f3fe:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1371 #-#-# translate crowdin quest_maya_witch_meet_up_34f6f3fe:
 msgid "Great. Of course there's a but."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1371 #-#-# translate crowdin quest_maya_witch_meet_up_bb09d26d:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1372 #-#-# translate crowdin quest_maya_witch_meet_up_bb09d26d:
 msgid "[_maxine_s_thinking_] First I need your assistance."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1372 #-#-# translate crowdin quest_maya_witch_meet_up_cf4316fe:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1373 #-#-# translate crowdin quest_maya_witch_meet_up_cf4316fe:
 msgid "[_maxine_s_thinking_] I've recently switched some of the hardware on my computer, and\n"
 "I need help bringing it to life again."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1373 #-#-# translate crowdin quest_maya_witch_meet_up_d0002cfb:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1374 #-#-# translate crowdin quest_maya_witch_meet_up_d0002cfb:
 msgid "[_mc_] Have you tried plugging it in?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1374 #-#-# translate crowdin quest_maya_witch_meet_up_0bc1bb14:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1375 #-#-# translate crowdin quest_maya_witch_meet_up_0bc1bb14:
 msgid "[_maxine_s_afraid_] No, no! It's not safe!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1375 #-#-# translate crowdin quest_maya_witch_meet_up_e4505c59:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1376 #-#-# translate crowdin quest_maya_witch_meet_up_e4505c59:
 msgid "I really should get her a tinfoil hat for Christmas..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1376 #-#-# translate crowdin quest_maya_witch_meet_up_71d7ae24:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1377 #-#-# translate crowdin quest_maya_witch_meet_up_71d7ae24:
 msgid "[_mc_] Well, how do you plan on using it, then?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1377 #-#-# translate crowdin quest_maya_witch_meet_up_04bb06df:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1378 #-#-# translate crowdin quest_maya_witch_meet_up_04bb06df:
 msgid "[_maxine_s_confident_] That's where you come in."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1378 #-#-# translate crowdin quest_maya_witch_meet_up_2fb3e5bb:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1379 #-#-# translate crowdin quest_maya_witch_meet_up_2fb3e5bb:
 msgid "[_maxine_s_confident_] You see, I need my electricity kinetically generated to this generator and kept solely to this room."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1379 #-#-# translate crowdin quest_maya_witch_meet_up_afd984e8:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1380 #-#-# translate crowdin quest_maya_witch_meet_up_afd984e8:
 msgid "[_mc_] Right, that makes perfect sense. Absolutely."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1380 #-#-# translate crowdin quest_maya_witch_meet_up_662ca263:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1381 #-#-# translate crowdin quest_maya_witch_meet_up_662ca263:
 msgid "[_mc_] So, what do you want me to do?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1381 #-#-# translate crowdin quest_maya_witch_meet_up_b7b4582e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1382 #-#-# translate crowdin quest_maya_witch_meet_up_b7b4582e:
 msgid "[_maxine_s_confident_] You'll hook yourself up to these electrodes and create the power required."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1382 #-#-# translate crowdin quest_maya_witch_meet_up_3866026d:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1383 #-#-# translate crowdin quest_maya_witch_meet_up_3866026d:
 msgid "[_mc_] And in return, you'll help me with the curse?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1383 #-#-# translate crowdin quest_maya_witch_meet_up_4de0ef3b:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1384 #-#-# translate crowdin quest_maya_witch_meet_up_4de0ef3b:
 msgid "[_maxine_s_skeptical_] I'll give you the necessary tools and ensure you are not tried under Article II, subsection 1C, clause 592."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1384 #-#-# translate crowdin quest_maya_witch_meet_up_2015c847:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1385 #-#-# translate crowdin quest_maya_witch_meet_up_2015c847:
 msgid "[_mc_] Tried? For what?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1385 #-#-# translate crowdin quest_maya_witch_meet_up_079cf259:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1386 #-#-# translate crowdin quest_maya_witch_meet_up_079cf259:
 msgid "[_maxine_s_angry_] For practicing without the supervision of a certified Hexologist!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1386 #-#-# translate crowdin quest_maya_witch_meet_up_62b8f504:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1387 #-#-# translate crowdin quest_maya_witch_meet_up_62b8f504:
 msgid "[_mc_] Right, right!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1387 #-#-# translate crowdin quest_maya_witch_meet_up_19ceed6a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1388 #-#-# translate crowdin quest_maya_witch_meet_up_19ceed6a:
 msgid "The things I go along with sometimes..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1388 #-#-# translate crowdin quest_maya_witch_meet_up_97dca029:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1389 #-#-# translate crowdin quest_maya_witch_meet_up_97dca029:
 msgid "[_mc_] Fine. You have a deal."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1389 #-#-# translate crowdin quest_maya_witch_meet_up_68c62b45:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1390 #-#-# translate crowdin quest_maya_witch_meet_up_68c62b45:
 msgid "[_maxine_s_laughing_] Excellent!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1392 #-#-# translate crowdin quest_maya_witch_meet_up_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1393 #-#-# translate crowdin quest_maya_witch_meet_up_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1395 #-#-# translate crowdin quest_maya_witch_meet_up_9dc34584:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1396 #-#-# translate crowdin quest_maya_witch_meet_up_9dc34584:
 msgid "[_mc_] So, I just run in place or what?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1396 #-#-# translate crowdin quest_maya_witch_meet_up_b41ad8cd:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1397 #-#-# translate crowdin quest_maya_witch_meet_up_b41ad8cd:
 msgid "[_maxine_s_excited_electrodes_] That's exactly right!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1397 #-#-# translate crowdin quest_maya_witch_meet_up_f076040b:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1398 #-#-# translate crowdin quest_maya_witch_meet_up_f076040b:
 msgid "[_maxine_s_excited_electrodes_] Just remove your shirt and attach these electrodes to your chest and the sides of your head."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1406 #-#-# translate crowdin quest_maya_witch_meet_up_33b6de01:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1407 #-#-# translate crowdin quest_maya_witch_meet_up_33b6de01:
 msgid "When I woke up this morning, I never thought I'd be doing physical labor in exchange for curse help."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1407 #-#-# translate crowdin quest_maya_witch_meet_up_98a092ed:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1408 #-#-# translate crowdin quest_maya_witch_meet_up_98a092ed:
 msgid "Life really is full of unexpected twists sometimes."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1408 #-#-# translate crowdin quest_maya_witch_meet_up_b0cf421a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1409 #-#-# translate crowdin quest_maya_witch_meet_up_b0cf421a:
 msgid "Hopefully, this can help [maya] and I won't keel over before then."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1409 #-#-# translate crowdin quest_maya_witch_meet_up_068c0f96:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1410 #-#-# translate crowdin quest_maya_witch_meet_up_068c0f96:
 msgid "[_maxine_s_electrodes_run_s_smile_] Whenever you're ready."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1410 #-#-# translate crowdin quest_maya_witch_meet_up_3c69533a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1411 #-#-# translate crowdin quest_maya_witch_meet_up_3c69533a:
 msgid "[_mc_] Okay, here goes nothing..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1416 #-#-# translate crowdin quest_maya_witch_meet_up_aee12f75:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1417 #-#-# translate crowdin quest_maya_witch_meet_up_aee12f75:
 msgid "I start with a light jog, my heart rate spiking as the generator gives a little hiss of life."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1417 #-#-# translate crowdin quest_maya_witch_meet_up_59da59ae:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1418 #-#-# translate crowdin quest_maya_witch_meet_up_59da59ae:
 msgid "[_maxine_s_electrodes_run_s_annoyed_s_jog_] Faster!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1418 #-#-# translate crowdin quest_maya_witch_meet_up_f5319994:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1419 #-#-# translate crowdin quest_maya_witch_meet_up_f5319994:
 msgid "[_mc_] All right, all right!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1420 #-#-# translate crowdin quest_maya_witch_meet_up_ca5f8e21:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1421 #-#-# translate crowdin quest_maya_witch_meet_up_ca5f8e21:
 msgid "Against the weak protests of my aching lungs, I take the jog to a run.{space=-25}"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1421 #-#-# translate crowdin quest_maya_witch_meet_up_b2d499c2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1422 #-#-# translate crowdin quest_maya_witch_meet_up_b2d499c2:
 msgid "The sweat gathers at my temples and drips down my head."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1427 #-#-# translate crowdin quest_maya_witch_meet_up_f2cc6a6c:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1428 #-#-# translate crowdin quest_maya_witch_meet_up_f2cc6a6c:
 msgid "The generator kicks into gear then and [maxine]'s computer flickers to life."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1428 #-#-# translate crowdin quest_maya_witch_meet_up_365450fe:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1429 #-#-# translate crowdin quest_maya_witch_meet_up_365450fe:
 msgid "[_mc_] Why... am I... doing this... again...?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1430 #-#-# translate crowdin quest_maya_witch_meet_up_0b0dd2fa:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1431 #-#-# translate crowdin quest_maya_witch_meet_up_0b0dd2fa:
 msgid "[_maxine_s_electrodes_run_s_neutral_s_run_s_generator_lights_] To generate power, of course."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1431 #-#-# translate crowdin quest_maya_witch_meet_up_340e55bf:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1432 #-#-# translate crowdin quest_maya_witch_meet_up_340e55bf:
 msgid "[_mc_] But... why not... use... the school... computers...?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1432 #-#-# translate crowdin quest_maya_witch_meet_up_d4def493:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1433 #-#-# translate crowdin quest_maya_witch_meet_up_d4def493:
 msgid "[_maxine_s_electrodes_run_s_neutral_s_run_s_generator_lights_] Technology can never be trusted."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1433 #-#-# translate crowdin quest_maya_witch_meet_up_9f360b99:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1434 #-#-# translate crowdin quest_maya_witch_meet_up_9f360b99:
 msgid "[_mc_] Whatever... you say..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1435 #-#-# translate crowdin quest_maya_witch_meet_up_4470bcc0:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1436 #-#-# translate crowdin quest_maya_witch_meet_up_4470bcc0:
 msgid "I pant from the excursion, my out of shape body screaming in protest.{space=-40}"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1436 #-#-# translate crowdin quest_maya_witch_meet_up_91f49f80:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1437 #-#-# translate crowdin quest_maya_witch_meet_up_91f49f80:
 msgid "My skinny legs burn, but I know I'm running towards something."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1437 #-#-# translate crowdin quest_maya_witch_meet_up_c9042370:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1438 #-#-# translate crowdin quest_maya_witch_meet_up_c9042370:
 msgid "I'm running towards [maya], towards being a better, more selfless person."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1438 #-#-# translate crowdin quest_maya_witch_meet_up_853344c9:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1439 #-#-# translate crowdin quest_maya_witch_meet_up_853344c9:
 msgid "I would run up any hill, power any weird [maxine] experiment to help a friend."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1439 #-#-# translate crowdin quest_maya_witch_meet_up_896ccc6e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1440 #-#-# translate crowdin quest_maya_witch_meet_up_896ccc6e:
 msgid "[_maxine_s_electrodes_run_s_excited_s_faster_run_s_generator_lights_] That's it! Keep going!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1440 #-#-# translate crowdin quest_maya_witch_meet_up_ec140a19:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1441 #-#-# translate crowdin quest_maya_witch_meet_up_ec140a19:
 msgid "[_mc_] I am... {i}huff...{/} trying..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1446 #-#-# translate crowdin quest_maya_witch_meet_up_814af03c:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1447 #-#-# translate crowdin quest_maya_witch_meet_up_814af03c:
 msgid "I pant through the pain in my lungs, and watch as her computer actually blinks awake."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1447 #-#-# translate crowdin quest_maya_witch_meet_up_9eeff879:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1448 #-#-# translate crowdin quest_maya_witch_meet_up_9eeff879:
 msgid "[_mc_] It's... actually... {i}huff...{/} working...?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1448 #-#-# translate crowdin quest_maya_witch_meet_up_153920bc:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1449 #-#-# translate crowdin quest_maya_witch_meet_up_153920bc:
 msgid "[_maxine_s_electrodes_run_s_excited_s_faster_run_s_lights_] Of course it's working! Run, [mc], run!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1450 #-#-# translate crowdin quest_maya_witch_meet_up_c70dbc86:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1451 #-#-# translate crowdin quest_maya_witch_meet_up_c70dbc86:
 msgid "[_mc_] I'm going... {i}huff...{/} as fast... {i}puff...{/} as I can...!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1451 #-#-# translate crowdin quest_maya_witch_meet_up_e2e170fb:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1452 #-#-# translate crowdin quest_maya_witch_meet_up_e2e170fb:
 msgid "[_maxine_s_electrodes_run_s_neutral_s_fastest_run_s_lights_] Your physical stamina is a bit worrisome. You should probably have that checked."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1452 #-#-# translate crowdin quest_maya_witch_meet_up_3343af9b:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1453 #-#-# translate crowdin quest_maya_witch_meet_up_3343af9b:
 msgid "[_mc_] Gee... {i}huff...{/} thanks..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1453 #-#-# translate crowdin quest_maya_witch_meet_up_0dfc7020:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1454 #-#-# translate crowdin quest_maya_witch_meet_up_0dfc7020:
 msgid "[_maxine_s_electrodes_run_s_smile_s_fastest_run_s_lights_] You're welcome."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1454 #-#-# translate crowdin quest_maya_witch_meet_up_fc4337af:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1455 #-#-# translate crowdin quest_maya_witch_meet_up_fc4337af:
 msgid "As I go, the generator picks up speed and the computer lights up\n"
 "in full."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1455 #-#-# translate crowdin quest_maya_witch_meet_up_a023bafb:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1456 #-#-# translate crowdin quest_maya_witch_meet_up_a023bafb:
 msgid "[_mc_] I can't... {i}huff...{/} go... any... {i}puff...{/} more...!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1456 #-#-# translate crowdin quest_maya_witch_meet_up_ba3dbf74:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1457 #-#-# translate crowdin quest_maya_witch_meet_up_ba3dbf74:
 msgid "[_maxine_s_electrodes_run_s_smile_s_fastest_run_s_lights_] That will be sufficient for today."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1457 #-#-# translate crowdin quest_maya_witch_meet_up_db74fc70:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1458 #-#-# translate crowdin quest_maya_witch_meet_up_db74fc70:
 msgid "[_mc_] Thank... {i}huff...{/} god..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1466 #-#-# translate crowdin quest_maya_witch_meet_up_e0cf2280:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1467 #-#-# translate crowdin quest_maya_witch_meet_up_e0cf2280:
 msgid "I feel ready to pass out as [maxine] unhooks me, but somehow I manage to stay on my feet."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1469 #-#-# translate crowdin quest_maya_witch_meet_up_e56c94e0:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1470 #-#-# translate crowdin quest_maya_witch_meet_up_e56c94e0:
 msgid "[_mc_] Actually, how about you and I generate the power together?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1470 #-#-# translate crowdin quest_maya_witch_meet_up_aba6c6d8:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1471 #-#-# translate crowdin quest_maya_witch_meet_up_aba6c6d8:
 msgid "[_maxine_s_concerned_] Hmm... that would generate the sort of lasting electricity I need... and twice as fast..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1471 #-#-# translate crowdin quest_maya_witch_meet_up_d569bc6f:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1472 #-#-# translate crowdin quest_maya_witch_meet_up_d569bc6f:
 msgid "[_mc_] Err, exactly what I was thinking."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1472 #-#-# translate crowdin quest_maya_witch_meet_up_4159249a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1473 #-#-# translate crowdin quest_maya_witch_meet_up_4159249a:
 msgid "[_maxine_s_excited_] Good idea, [mc]."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1473 #-#-# translate crowdin quest_maya_witch_meet_up_d0d1c921:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1474 #-#-# translate crowdin quest_maya_witch_meet_up_d0d1c921:
 msgid "[_mc_] Soooo, do you think we could maybe f—"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1474 #-#-# translate crowdin quest_maya_witch_meet_up_2f12bd0e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1475 #-#-# translate crowdin quest_maya_witch_meet_up_2f12bd0e:
 msgid "[_maxine_s_excited_] The act of intercourse is actually quite the exercise. It should be more than sufficient."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1475 #-#-# translate crowdin quest_maya_witch_meet_up_a9d374b2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1476 #-#-# translate crowdin quest_maya_witch_meet_up_a9d374b2:
 msgid "[_mc_] Agreed! I mean, I guess. Sure."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1476 #-#-# translate crowdin quest_maya_witch_meet_up_7b088dba:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1477 #-#-# translate crowdin quest_maya_witch_meet_up_7b088dba:
 msgid "[_maxine_s_flirty_] Very well. Let's commence."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1477 #-#-# translate crowdin quest_maya_witch_meet_up_0787d8a2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1478 #-#-# translate crowdin quest_maya_witch_meet_up_0787d8a2:
 msgid "[_maxine_s_flirty_] Remove your clothing, please."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1478 #-#-# translate crowdin quest_maya_witch_meet_up_17fa0e15:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1479 #-#-# translate crowdin quest_maya_witch_meet_up_17fa0e15:
 msgid "Seriously? Is [maxine] as horny as I am? Or is she really only doing this for science?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1479 #-#-# translate crowdin quest_maya_witch_meet_up_c39a816f:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1480 #-#-# translate crowdin quest_maya_witch_meet_up_c39a816f:
 msgid "Either way, who am I to stand in the way of the advancement of\n"
 "our species?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1485 #-#-# translate crowdin quest_maya_witch_meet_up_9da66419:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1486 #-#-# translate crowdin quest_maya_witch_meet_up_9da66419:
 msgid "I strip down as fast as I can, and I watch her do the same, but\n"
 "with controlled precision."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1491 #-#-# translate crowdin quest_maya_witch_meet_up_4a9d0d11:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1492 #-#-# translate crowdin quest_maya_witch_meet_up_4a9d0d11:
 msgid "She sheds her sweater, and I take the moment to appreciate\n"
 "her body."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1497 #-#-# translate crowdin quest_maya_witch_meet_up_ae385aea:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1498 #-#-# translate crowdin quest_maya_witch_meet_up_ae385aea:
 msgid "[_maxine_s_flirty_] The more freely our sweat can flow, the better."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1503 #-#-# translate crowdin quest_maya_witch_meet_up_b2a7ef68:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1504 #-#-# translate crowdin quest_maya_witch_meet_up_b2a7ef68:
 msgid "Goddamn! This is actually happening!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1509 #-#-# translate crowdin quest_maya_witch_meet_up_d9f16313:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1510 #-#-# translate crowdin quest_maya_witch_meet_up_d9f16313:
 msgid "[_mc_] I definitely agree..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1515 #-#-# translate crowdin quest_maya_witch_meet_up_6e34fb70:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1516 #-#-# translate crowdin quest_maya_witch_meet_up_6e34fb70:
 msgid "[_maxine_s_flirty_] Then, we will hook up the electrodes and let the electricity flow."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1521 #-#-# translate crowdin quest_maya_witch_meet_up_84289cab:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1522 #-#-# translate crowdin quest_maya_witch_meet_up_84289cab:
 msgid "She comes closer to me, her eyes on mine, lips slightly parted."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1522 #-#-# translate crowdin quest_maya_witch_meet_up_29cd9369:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1523 #-#-# translate crowdin quest_maya_witch_meet_up_29cd9369:
 msgid "She looks so kissable, so cute and flushed with the excitement\n"
 "of what's happening."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1523 #-#-# translate crowdin quest_maya_witch_meet_up_38fbba8e:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1524 #-#-# translate crowdin quest_maya_witch_meet_up_38fbba8e:
 msgid "I lean in towards her, but instead of a kiss or tender touch, she places the electrodes on my chest and temples."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1524 #-#-# translate crowdin quest_maya_witch_meet_up_38b564f2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1525 #-#-# translate crowdin quest_maya_witch_meet_up_38b564f2:
 msgid "[_maxine_s_excited_electrodes_] Perfect."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1533 #-#-# translate crowdin quest_maya_witch_meet_up_c9832fc4:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1534 #-#-# translate crowdin quest_maya_witch_meet_up_c9832fc4:
 msgid "Then, she does the same to herself before taking a seat on her desk.{space=-20}"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1534 #-#-# translate crowdin quest_maya_witch_meet_up_ff7544a9:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1535 #-#-# translate crowdin quest_maya_witch_meet_up_ff7544a9:
 msgid "She spreads her legs and I see that her pussy is already moist."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1535 #-#-# translate crowdin quest_maya_witch_meet_up_781ad4e7:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1536 #-#-# translate crowdin quest_maya_witch_meet_up_781ad4e7:
 msgid "Whether it's from me or her little experiment, the sight makes me fully erect."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1541 #-#-# translate crowdin quest_maya_witch_meet_up_81078aed:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1542 #-#-# translate crowdin quest_maya_witch_meet_up_81078aed:
 msgid "I stand in front of her, and before I can quite comprehend what's happening, [maxine] reaches down and takes hold of my dick."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1542 #-#-# translate crowdin quest_maya_witch_meet_up_d8af07f5:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1543 #-#-# translate crowdin quest_maya_witch_meet_up_d8af07f5:
 msgid "Her hand is slightly rough — probably from all the science stuff she gets up to — but warm."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1543 #-#-# translate crowdin quest_maya_witch_meet_up_b19cb684:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1544 #-#-# translate crowdin quest_maya_witch_meet_up_b19cb684:
 msgid "The sensation makes my skin tingle and my abdomen clench."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1549 #-#-# translate crowdin quest_maya_witch_meet_up_c96987fd:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1550 #-#-# translate crowdin quest_maya_witch_meet_up_c96987fd:
 msgid "Slowly, she's lining me up with her pussy, the tip of my head sliding along her opening."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1550 #-#-# translate crowdin quest_maya_witch_meet_up_75ac43f6:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1551 #-#-# translate crowdin quest_maya_witch_meet_up_75ac43f6:
 msgid "She grips me harder as she guides me into herself."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1556 #-#-# translate crowdin quest_maya_witch_meet_up_805ed6b4:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1557 #-#-# translate crowdin quest_maya_witch_meet_up_805ed6b4:
 msgid "[_maxine_s_electrodes_sex_s_concerned_s_inserting_dick_] Mmmm..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1557 #-#-# translate crowdin quest_maya_witch_meet_up_55542022:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1558 #-#-# translate crowdin quest_maya_witch_meet_up_55542022:
 msgid "I'm met with some resistance at first — she's surprisingly tight."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1563 #-#-# translate crowdin quest_maya_witch_meet_up_4590f5e0:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1564 #-#-# translate crowdin quest_maya_witch_meet_up_4590f5e0:
 msgid "But I take hold of her thighs and use them as leverage as I thrust myself the rest of the way in."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1564 #-#-# translate crowdin quest_maya_witch_meet_up_4e94a146:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1565 #-#-# translate crowdin quest_maya_witch_meet_up_4e94a146:
 msgid "I sink deep into her warm, wet hole and then just hold myself there for a moment as she squeezes me."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1565 #-#-# translate crowdin quest_maya_witch_meet_up_af3d1ccd:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1566 #-#-# translate crowdin quest_maya_witch_meet_up_af3d1ccd:
 msgid "I feel her trembling against me, her quick little breaths tickling the side of my neck."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1566 #-#-# translate crowdin quest_maya_witch_meet_up_07c909d2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1567 #-#-# translate crowdin quest_maya_witch_meet_up_07c909d2:
 msgid "When I bury my face in her own neck, the faint smell of incense and sweat pervades my nostrils."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1575 #-#-# translate crowdin quest_maya_witch_meet_up_e8010581:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1576 #-#-# translate crowdin quest_maya_witch_meet_up_e8010581:
 msgid "Then, remembering why we're here, I pull my hips back slightly and slam my dick into her again, hard."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1576 #-#-# translate crowdin quest_maya_witch_meet_up_8bff13c0:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1577 #-#-# translate crowdin quest_maya_witch_meet_up_8bff13c0:
 msgid "[_maxine_s_electrodes_sex_s_eyes_closed_s_full_penetration_] Oooh!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1607 #-#-# translate crowdin quest_maya_witch_meet_up_3766e35f:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1608 #-#-# translate crowdin quest_maya_witch_meet_up_3766e35f:
 msgid "I piston in and out of her, the friction of her pussy reluctantly releasing me sends shivers of pleasure down my spine."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1608 #-#-# translate crowdin quest_maya_witch_meet_up_bdbd9874:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1609 #-#-# translate crowdin quest_maya_witch_meet_up_bdbd9874:
 msgid "The generator bucks into life then and its whir fills the room."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1609 #-#-# translate crowdin quest_maya_witch_meet_up_32b4a6c3:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1610 #-#-# translate crowdin quest_maya_witch_meet_up_32b4a6c3:
 msgid "[_maxine_s_electrodes_sex_s_excited_s_full_penetration_s_generator_lights_] T-that's it! Faster!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1630 #-#-# translate crowdin quest_maya_witch_meet_up_7899d442:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1631 #-#-# translate crowdin quest_maya_witch_meet_up_7899d442:
 msgid "I give into the sound of her cries and happily obey, thrusting myself into her faster and faster."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1631 #-#-# translate crowdin quest_maya_witch_meet_up_217e7c49:
-msgid "The table shakes beneath us even as [maxine] grips the edge of it for support as a hammer into her."
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1632 #-#-# translate crowdin quest_maya_witch_meet_up_75968db0:
+msgid "The table shakes beneath us even as [maxine] grips the edge of it for support as I hammer into her."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1632 #-#-# translate crowdin quest_maya_witch_meet_up_2db2afd9:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1633 #-#-# translate crowdin quest_maya_witch_meet_up_2db2afd9:
 msgid "The air is now thick with the salty tang of our sweat as it drips down{space=-10}\n"
 "our bare bodies."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1633 #-#-# translate crowdin quest_maya_witch_meet_up_22864eb3:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1634 #-#-# translate crowdin quest_maya_witch_meet_up_22864eb3:
 msgid "Her pussy juices soak my cock as I speed up into long, deep strokes.{space=-20}"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1669 #-#-# translate crowdin quest_maya_witch_meet_up_243946f3:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1670 #-#-# translate crowdin quest_maya_witch_meet_up_243946f3:
 msgid "[_mc_] Is that... {i}huff...{/} fast enough... {i}puff...{/} for you?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1670 #-#-# translate crowdin quest_maya_witch_meet_up_0322a2dc:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1671 #-#-# translate crowdin quest_maya_witch_meet_up_0322a2dc:
 msgid "[_maxine_s_electrodes_sex_s_eyes_closed_s_full_penetration_s_generator_lights_s_gripping_table_] Mmm, yes! Don't stop! P-please, don't stop!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1671 #-#-# translate crowdin quest_maya_witch_meet_up_6a608222:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1672 #-#-# translate crowdin quest_maya_witch_meet_up_6a608222:
 msgid "Her words come out in ragged, desperate pants. I like to think that it's me she's begging for now, even if it's not the case."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1718 #-#-# translate crowdin quest_maya_witch_meet_up_a8da3a3a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1719 #-#-# translate crowdin quest_maya_witch_meet_up_a8da3a3a:
 msgid "Willingly, I do as she asks. I go from slow to fast again, slamming into her tight little flower as it opens more and more for me."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1719 #-#-# translate crowdin quest_maya_witch_meet_up_1bb32be6:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1720 #-#-# translate crowdin quest_maya_witch_meet_up_1bb32be6:
 msgid "Out of the corner of my eye, I see the computer flash to life."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1720 #-#-# translate crowdin quest_maya_witch_meet_up_028c3a21:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1721 #-#-# translate crowdin quest_maya_witch_meet_up_028c3a21:
 msgid "It seems to spur [maxine] on and she begins to gyrate into me, with me.{space=-45}"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1751 #-#-# translate crowdin quest_maya_witch_meet_up_e9079284:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1752 #-#-# translate crowdin quest_maya_witch_meet_up_e9079284:
 msgid "We're in sync now, our hearts hammering together, our breaths mingling, one's sweat slicking the other."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1752 #-#-# translate crowdin quest_maya_witch_meet_up_a08b99fe:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1753 #-#-# translate crowdin quest_maya_witch_meet_up_a08b99fe:
 msgid "Her juices leak out of her and coat the table beneath her, and the musky odor clogs my senses."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1753 #-#-# translate crowdin quest_maya_witch_meet_up_e530981d:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1754 #-#-# translate crowdin quest_maya_witch_meet_up_e530981d:
 msgid "We've nearly reached full power and I can feel the climax approaching{space=-35}\n"
 "for us both."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1754 #-#-# translate crowdin quest_maya_witch_meet_up_f7e88628:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1755 #-#-# translate crowdin quest_maya_witch_meet_up_f7e88628:
 msgid "She gives a little moan and her pussy walls squeeze me tight."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1775 #-#-# translate crowdin quest_maya_witch_meet_up_c4f51cad:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1776 #-#-# translate crowdin quest_maya_witch_meet_up_c4f51cad:
 msgid "[_mc_] F-fuck, I'm getting close!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1776 #-#-# translate crowdin quest_maya_witch_meet_up_b34dfc84:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1777 #-#-# translate crowdin quest_maya_witch_meet_up_b34dfc84:
 msgid "[_maxine_s_electrodes_sex_s_pleading_s_full_penetration_s_gripping_table_s_lights_s_juices_] Just... mmmm... a little more..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1777 #-#-# translate crowdin quest_maya_witch_meet_up_2c507336:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1778 #-#-# translate crowdin quest_maya_witch_meet_up_2c507336:
 msgid "[_mc_] Yeah? Want me to give it to you?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1778 #-#-# translate crowdin quest_maya_witch_meet_up_bce21177:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1779 #-#-# translate crowdin quest_maya_witch_meet_up_bce21177:
 msgid "[_maxine_s_electrodes_sex_s_pleading_s_full_penetration_s_gripping_table_s_lights_s_juices_] Y-yes! Keep going! Don't stop!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1779 #-#-# translate crowdin quest_maya_witch_meet_up_4408b860:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1780 #-#-# translate crowdin quest_maya_witch_meet_up_4408b860:
 msgid "[_mc_] I'm not... gonna stop..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1818 #-#-# translate crowdin quest_maya_witch_meet_up_19c88506:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1819 #-#-# translate crowdin quest_maya_witch_meet_up_19c88506:
 msgid "[_maxine_s_electrodes_sex_s_orgasm_s_full_penetration_s_gripping_table_s_lights_s_juices_] Ohhhh!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1819 #-#-# translate crowdin quest_maya_witch_meet_up_9d767d3c:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1820 #-#-# translate crowdin quest_maya_witch_meet_up_9d767d3c:
 msgid "I bottom out against her cervix and my whole body stiffens."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1820 #-#-# translate crowdin quest_maya_witch_meet_up_5f7bf984:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1821 #-#-# translate crowdin quest_maya_witch_meet_up_5f7bf984:
 msgid "Her head falls back and her eyes flutter shut as her orgasm hits just before mine."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1821 #-#-# translate crowdin quest_maya_witch_meet_up_9541b7aa:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1822 #-#-# translate crowdin quest_maya_witch_meet_up_9541b7aa:
 msgid "I can feel it rolling through every inch of her as she shakes and shudders against me."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1845 #-#-# translate crowdin quest_maya_witch_meet_up_e2db9911:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1846 #-#-# translate crowdin quest_maya_witch_meet_up_e2db9911:
 msgid "[_mc_] Uhhhhhhh!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1846 #-#-# translate crowdin quest_maya_witch_meet_up_878f6590:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1847 #-#-# translate crowdin quest_maya_witch_meet_up_878f6590:
 msgid "Unable to withdraw — and with no desire to —, I explode deep within [maxine]."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1847 #-#-# translate crowdin quest_maya_witch_meet_up_bbfbc0b8:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1848 #-#-# translate crowdin quest_maya_witch_meet_up_bbfbc0b8:
 msgid "I fill her up as I come hard, releasing a steady stream of my hot cum deep into her womb."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1848 #-#-# translate crowdin quest_maya_witch_meet_up_aabb53bb:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1849 #-#-# translate crowdin quest_maya_witch_meet_up_aabb53bb:
 msgid "There's something so hot, so primal, about coming inside of her..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1849 #-#-# translate crowdin quest_maya_witch_meet_up_b9078cec:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1850 #-#-# translate crowdin quest_maya_witch_meet_up_b9078cec:
 msgid "Everything for science, and this is the most basic, instinctual science there is."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1850 #-#-# translate crowdin quest_maya_witch_meet_up_993806a0:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1851 #-#-# translate crowdin quest_maya_witch_meet_up_993806a0:
 msgid "A man filling a woman with his seed. Survival of the human race."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1851 #-#-# translate crowdin quest_maya_witch_meet_up_5d6c94d5:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1852 #-#-# translate crowdin quest_maya_witch_meet_up_5d6c94d5:
 msgid "Not that I want to get her pregnant, but... damn if that need to stay buried deep within her doesn't drown out all other thoughts."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1857 #-#-# translate crowdin quest_maya_witch_meet_up_f29687db:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1858 #-#-# translate crowdin quest_maya_witch_meet_up_f29687db:
 msgid "I groan as my stream turns to spurts and the convulsions stop racking through me."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1858 #-#-# translate crowdin quest_maya_witch_meet_up_f3c73f58:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1859 #-#-# translate crowdin quest_maya_witch_meet_up_f3c73f58:
 msgid "Our hearts are still galloping as I finally pull out of her, and the computer pulses with life now."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1859 #-#-# translate crowdin quest_maya_witch_meet_up_83a6f942:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1860 #-#-# translate crowdin quest_maya_witch_meet_up_83a6f942:
 msgid "[_mc_] H-how's that... for kinetic energy...?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1860 #-#-# translate crowdin quest_maya_witch_meet_up_21e8f477:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1861 #-#-# translate crowdin quest_maya_witch_meet_up_21e8f477:
 msgid "Her breathing is still uneven and her glasses are slightly fogged over, but she offers me a smile."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1861 #-#-# translate crowdin quest_maya_witch_meet_up_327bc656:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1862 #-#-# translate crowdin quest_maya_witch_meet_up_327bc656:
 msgid "[_maxine_s_electrodes_sex_s_aftermath_s_no_penetration_s_lights_s_juices_s_cum_] Exactly what I needed..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1862 #-#-# translate crowdin quest_maya_witch_meet_up_fe81a59d:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1863 #-#-# translate crowdin quest_maya_witch_meet_up_fe81a59d:
 msgid "Me too, it turns out."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1872 #-#-# translate crowdin quest_maya_witch_meet_up_8faccedd:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1873 #-#-# translate crowdin quest_maya_witch_meet_up_8faccedd:
 msgid "[maxine] finishes catching her breath and removes our electrodes before getting dressed, back to business as usual."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1873 #-#-# translate crowdin quest_maya_witch_meet_up_8ba79656:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1874 #-#-# translate crowdin quest_maya_witch_meet_up_8ba79656:
 msgid "I follow suit and pull my own clothes back on."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1874 #-#-# translate crowdin quest_maya_witch_meet_up_b846c097:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1875 #-#-# translate crowdin quest_maya_witch_meet_up_b846c097:
 msgid "[_mc_] So, about that tool you said could help me?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1875 #-#-# translate crowdin quest_maya_witch_meet_up_cf0bc74f:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1876 #-#-# translate crowdin quest_maya_witch_meet_up_cf0bc74f:
 msgid "[_maxine_s_laughing_] Ah, yes! There's nothing like a good book to help one in need."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1876 #-#-# translate crowdin quest_maya_witch_meet_up_961c39f6:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1877 #-#-# translate crowdin quest_maya_witch_meet_up_961c39f6:
 msgid "[_mc_] What kind of book?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1877 #-#-# translate crowdin quest_maya_witch_meet_up_9111fee2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1878 #-#-# translate crowdin quest_maya_witch_meet_up_9111fee2:
 msgid "[_maxine_s_smile_] It's a spell book. Perfect for all your casting, lifting, containing, selling, distilling, and/or pickling needs."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1878 #-#-# translate crowdin quest_maya_witch_meet_up_16426986:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1879 #-#-# translate crowdin quest_maya_witch_meet_up_16426986:
 msgid "[_maxine_s_smile_] Here you go."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1883 #-#-# translate crowdin quest_maya_witch_meet_up_b4e621cf:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1884 #-#-# translate crowdin quest_maya_witch_meet_up_b4e621cf:
 msgid "[_mc_] A spell book? Really?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1884 #-#-# translate crowdin quest_maya_witch_meet_up_0fba9720:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1885 #-#-# translate crowdin quest_maya_witch_meet_up_0fba9720:
 msgid "[_maxine_s_smile_] I've read it three times. It's very good."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1885 #-#-# translate crowdin quest_maya_witch_meet_up_7aa91420:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1886 #-#-# translate crowdin quest_maya_witch_meet_up_7aa91420:
 msgid "I suppose I did come here asking about curses..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1886 #-#-# translate crowdin quest_maya_witch_meet_up_80d29ca4:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1887 #-#-# translate crowdin quest_maya_witch_meet_up_80d29ca4:
 msgid "What other option do I have, anyway?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1887 #-#-# translate crowdin quest_maya_witch_meet_up_6a049dd2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1888 #-#-# translate crowdin quest_maya_witch_meet_up_6a049dd2:
 msgid "[_mc_] Very well. I'll give it a try."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1888 #-#-# translate crowdin quest_maya_witch_meet_up_cfcc68d8:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1889 #-#-# translate crowdin quest_maya_witch_meet_up_cfcc68d8:
 msgid "[_maxine_s_laughing_] Have fun!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1889 #-#-# translate crowdin quest_maya_witch_meet_up_6dc051d7:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1890 #-#-# translate crowdin quest_maya_witch_meet_up_6dc051d7:
 msgid "[_mc_] Thanks, I guess?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1893 #-#-# translate crowdin quest_maya_witch_meet_up_cca120e0:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1894 #-#-# translate crowdin quest_maya_witch_meet_up_cca120e0:
 msgid "I can't believe I'm actually going to try breaking a curse with this dusty old thing."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1894 #-#-# translate crowdin quest_maya_witch_meet_up_289e0215:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1895 #-#-# translate crowdin quest_maya_witch_meet_up_289e0215:
 msgid "It's all fun and games until you're in a face-off with an ancient witchy spell or something."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1895 #-#-# translate crowdin quest_maya_witch_meet_up_dfc0adf0:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1896 #-#-# translate crowdin quest_maya_witch_meet_up_dfc0adf0:
 msgid "This is how you fall deeper into the rabbit hole."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1896 #-#-# translate crowdin quest_maya_witch_meet_up_a20cefa7:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1897 #-#-# translate crowdin quest_maya_witch_meet_up_a20cefa7:
 msgid "..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1897 #-#-# translate crowdin quest_maya_witch_meet_up_79d9bfdc:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1898 #-#-# translate crowdin quest_maya_witch_meet_up_79d9bfdc:
 msgid "But if it helps [maya]..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1898 #-#-# translate crowdin quest_maya_witch_meet_up_7699136a:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1899 #-#-# translate crowdin quest_maya_witch_meet_up_7699136a:
 msgid "I just need to read through this thing, and probably give her some space."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1899 #-#-# translate crowdin quest_maya_witch_meet_up_5a280940:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1900 #-#-# translate crowdin quest_maya_witch_meet_up_5a280940:
 msgid "After all, she's not the most social type, and I basically stalked her the entire day."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1900 #-#-# translate crowdin quest_maya_witch_meet_up_787232b1:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1901 #-#-# translate crowdin quest_maya_witch_meet_up_787232b1:
 msgid "Those who wait for something good, and all that jazz."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1906 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_b233c58c:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1907 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_b233c58c:
 msgid "Who needs [maxine] when the internet is more reliable and coherent?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1907 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_e53fdafa:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1908 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_e53fdafa:
 msgid "I'm sure there's all kinds of books on how to deal with this crap."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1908 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_d2b31bb6:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1909 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_d2b31bb6:
 msgid "Let's see here... I just need to get that shady site pulled up..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1909 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_a20cefa7:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1910 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_a20cefa7:
 msgid "..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1910 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_a20cefa7_1:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1911 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_a20cefa7_1:
 msgid "..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1911 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_f3f93db2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1912 #-#-# translate crowdin quest_maya_witch_black_market_home_bedroom_computer_f3f93db2:
 msgid "Ah, perfect! Here we go."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1916 #-#-# translate crowdin quest_maya_witch_black_market_d2ad8026:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1917 #-#-# translate crowdin quest_maya_witch_black_market_d2ad8026:
 msgid "One anti-hex, magical spell recipe book coming right up!"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1917 #-#-# translate crowdin quest_maya_witch_black_market_a20cefa7:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1918 #-#-# translate crowdin quest_maya_witch_black_market_a20cefa7:
 msgid "..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1918 #-#-# translate crowdin quest_maya_witch_black_market_57c44cf9:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1919 #-#-# translate crowdin quest_maya_witch_black_market_57c44cf9:
 msgid "I may have just gipped myself big time."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1919 #-#-# translate crowdin quest_maya_witch_black_market_f0d833f2:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1920 #-#-# translate crowdin quest_maya_witch_black_market_f0d833f2:
 msgid "Or I'm about to swoop in and be the hero [maya] didn't want but maybe needs."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1920 #-#-# translate crowdin quest_maya_witch_black_market_08c1f7c6:
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1921 #-#-# translate crowdin quest_maya_witch_black_market_08c1f7c6:
 msgid "Either way, time to wait for the delivery..."
 msgstr ""
 
@@ -3741,23 +3741,23 @@ msgstr ""
 msgid "Pee on the fire"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1263
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264
 msgid "\"You know what? Nevermind.\""
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1263
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264
 msgid "\"Is that a threat?\""
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1263
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264
 msgid "\"I'll let you lead the procession, then.\""
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1391
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1392
 msgid "\"So, I just run in place or what?\""
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1391
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1392
 msgid "?maxine.lust>=8@[maxine.lust]/8|{image=maxine contact_icon}|{image=stats lust_3}|\"Actually, how about you and I generate the power together?\""
 msgstr ""
 
