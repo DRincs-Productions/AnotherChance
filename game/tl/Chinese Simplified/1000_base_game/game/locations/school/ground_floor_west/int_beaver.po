@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 19:34\n"
+"PO-Revision-Date: 2024-02-09 16:53\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor_west/int_beaver.rpy:15 #-#-# translate crowdin school_ground_floor_west_beaver_interact_c26f25f8:
 msgid "[_mc_] Yeah, this is a dead end."
@@ -34,7 +34,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/ground_floor_west/int_beaver.rpy:22 #-#-# translate crowdin school_ground_floor_west_beaver_interact_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/ground_floor_west/int_beaver.rpy:31 #-#-# translate crowdin school_ground_floor_west_beaver_interact_9f42c42c:
 msgid "Hmm... it just collapsed. Didn't mean for that to happen."
