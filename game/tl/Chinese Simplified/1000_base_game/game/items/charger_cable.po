@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-10 09:12\n"
+"PO-Revision-Date: 2024-02-10 10:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/charger_cable.rpy:20 #-#-# translate crowdin charger_cable_interact_6c5590bb:
 msgid "This thing has a plug that will fit a normal jack, but a normal jack would never have enough energy to power the locator device."
@@ -42,5 +42,5 @@ msgstr "比任何刀具都要锋利。"
 
 # game/1000_base_game/game/items/charger_cable.rpy:38 #-#-# translate crowdin charger_cable_combine_beaver_897aebc5:
 msgid "These deadly teeth strike fear in even the sturdiest of cables."
-msgstr ""
+msgstr "这些致命的牙齿能让那些坚硬的电缆感到瑟瑟发抖。"
 
