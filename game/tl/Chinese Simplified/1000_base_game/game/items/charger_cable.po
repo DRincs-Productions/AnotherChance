@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 18:45\n"
+"PO-Revision-Date: 2024-02-10 03:51\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/charger_cable.rpy:20 #-#-# translate crowdin charger_cable_interact_6c5590bb:
 msgid "This thing has a plug that will fit a normal jack, but a normal jack would never have enough energy to power the locator device."
-msgstr ""
+msgstr "这东西有一个插头，可以插进普通的插座里。但普通插座没有足够的电量来给定位器供电。"
 
 # game/1000_base_game/game/items/charger_cable.rpy:25 #-#-# translate crowdin charger_cable_combine_glass_shard_8bde5774:
 msgid "Just a quick incision..."
