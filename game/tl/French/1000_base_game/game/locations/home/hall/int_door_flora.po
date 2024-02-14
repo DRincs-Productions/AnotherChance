@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:46\n"
+"PO-Revision-Date: 2024-02-14 10:38\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:46 #-#-# translate crowdin home_hall_door_flora_interact_c9a01241:
 msgid "[flora]'s room is always clean and has a nice lavender scent. No wonder [jo] likes her more."
@@ -26,7 +26,7 @@ msgstr "Ensuite, il y a Cthulhu. Pas sûr de ce que cette affiche fait là."
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:57 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_a5c96d44:
 msgid "[_mc_] [flora], are you in there?"
-msgstr "[_mc_] [flora], vous êtes là?"
+msgstr "[_mc_] [flora], vous êtes là ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:58 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_e32ec235:
 msgid "[_flora_] Go away!"
@@ -34,7 +34,7 @@ msgstr "[_flora_] Partez !"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:59 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_b2268f64:
 msgid "[_mc_] Can we talk, please?"
-msgstr "[_mc_] Pouvons-nous parler, s'il vous plaît?"
+msgstr "[_mc_] Pouvons-nous parler, s'il vous plaît ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:60 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_0cad9fe8:
 msgid "[_flora_] I said go away!"
@@ -62,11 +62,11 @@ msgstr "..."
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:66 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_1e819cdf:
 msgid "[_mc_] [flora]?"
-msgstr "[_mc_] [flora]?"
+msgstr "[_mc_] [flora] ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:68 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_f7397bb2:
 msgid "[_flora_s_crying_] Do you really mean that?"
-msgstr "[_flora_s_crying_] Est-ce que vous voulez vraiment dire ça?"
+msgstr "[_flora_s_crying_] Est-ce que vous voulez vraiment dire ça ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:69 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_a6394873:
 msgid "[_mc_] Cross my heart."
@@ -78,7 +78,7 @@ msgstr "[_mc_] Ce moment signifiait beaucoup pour moi aussi. Je viens juste ..."
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:71 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_3734c683:
 msgid "[_flora_s_crying_] You just what?"
-msgstr "[_flora_s_crying_] Vous venez de quoi?"
+msgstr "[_flora_s_crying_] Vous venez de quoi ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:72 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_b482c88d:
 msgid "[_mc_] I wasn't sure you thought of me the same way."
@@ -90,7 +90,7 @@ msgstr "[_mc_] Je me suis dit que ce serait l'un de ces moments qui sont venus e
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:74 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_603c07fb:
 msgid "[_flora_s_sad_] What do you want to happen?"
-msgstr "[_flora_s_sad_] Que voulez-vous faire?"
+msgstr "[_flora_s_sad_] Que voulez-vous faire ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:75 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_82d5a0ba:
 msgid "[_mc_] I don't know. I just don't know."
@@ -98,7 +98,7 @@ msgstr "[_mc_] Je ne sais pas. Je ne sais juste pas."
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:76 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_7b142f9e:
 msgid "[_mc_] What can we really do?"
-msgstr "[_mc_] Que pouvons-nous vraiment faire?"
+msgstr "[_mc_] Que pouvons-nous vraiment faire ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:77 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_ec3d7ab8:
 msgid "[_flora_s_sad_] ..."
@@ -106,11 +106,11 @@ msgstr "[_flora_s_sad_]..."
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:78 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_5aaa6442:
 msgid "[_mc_] How can we do anything with [jo] in the house?"
-msgstr "[_mc_] Comment pouvons-nous faire quelque chose avec [jo] dans la maison?"
+msgstr "[_mc_] Comment pouvons-nous faire quelque chose avec [jo] dans la maison ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:79 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_c0808f56:
 msgid "[_mc_] Do we even want to? You know it's wrong. We both do."
-msgstr "[_mc_] Est-ce que nous voulons même? Tu sais que c'est mal. Nous faisons tous les deux."
+msgstr "[_mc_] Est-ce que nous voulons même ? Tu sais que c'est mal. Nous faisons tous les deux."
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:80 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_8009078c:
 msgid "[_flora_s_crying_] You're right. I don't know why I acted this way."
@@ -130,7 +130,7 @@ msgstr "[_mc_] Hey ..."
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:84 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_9e5cf8bb:
 msgid "[_mc_] Why do you think I'm here now and not out vandalizing something with her?"
-msgstr "[_mc_] Pourquoi tu penses que je suis là maintenant et que je n'ai pas vandalisé quelque chose avec elle?"
+msgstr "[_mc_] Pourquoi tu penses que je suis là maintenant et que je n'ai pas vandalisé quelque chose avec elle ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:85 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_ab8c07d7:
 msgid "[_mc_] It's 'cause I care about you."
@@ -138,7 +138,7 @@ msgstr "[_mc_] C'est parce que je m'occupe de vous."
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:86 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_67826aac:
 msgid "[_flora_s_sad_] Really?"
-msgstr "[_flora_s_sad_] Vraiement?"
+msgstr "[_flora_s_sad_] Vraiement ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:87 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_0efe2ccb:
 msgid "[_mc_] Yes, really."
@@ -178,11 +178,11 @@ msgstr "[_mc_] Et je pense que vous, en particulier, avez vraiment besoin de ré
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:96 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_c4fa1e42:
 msgid "[_mc_] You're going to have a great career, a wonderful husband, children. Would you really throw that away?"
-msgstr "[_mc_] Vous allez avoir une grande carrière, un mari merveilleux, des enfants. Voudriez-vous vraiment jeter ça?"
+msgstr "[_mc_] Vous allez avoir une grande carrière, un mari merveilleux, des enfants. Voudriez-vous vraiment jeter ça ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:97 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_3fabd1d1:
 msgid "[_flora_s_skeptical_] How do you know that?"
-msgstr "[_flora_s_skeptical_] Comment le saviez-vous?"
+msgstr "[_flora_s_skeptical_] Comment le saviez-vous ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:98 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_27425141:
 msgid "Because it happened in my old life!"
@@ -194,7 +194,7 @@ msgstr "[_mc_] Parce que je sais que vous êtes intelligent et motivé et magnif
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:100 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_395ede28:
 msgid "[_flora_s_blush_] Beautiful?"
-msgstr "[_flora_s_blush_] Beau?"
+msgstr "[_flora_s_blush_] Beau ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:101 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_cf8faabf:
 msgid "[_mc_] Oh, stop acting all coy. You know you are."
@@ -226,7 +226,7 @@ msgstr "[_flora_s_thinking_] Ne dites pas le [jo] à ce sujet."
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:108 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_8192101d:
 msgid "[_mc_] You understand that we can't tell {i}anyone{/}, right?"
-msgstr "[_mc_] Vous comprenez que nous ne pouvons pas dire {i}personne { / }, n'est-ce pas?"
+msgstr "[_mc_] Vous comprenez que nous ne pouvons pas dire {i}personne {/}, n'est-ce pas ?"
 
 # game/1000_base_game/game/locations/home/hall/int_door_flora.rpy:109 #-#-# translate crowdin home_hall_door_flora_jacklyn_statement_florasad_3f71c728:
 msgid "[_flora_s_worried_] Yeah, I do."
