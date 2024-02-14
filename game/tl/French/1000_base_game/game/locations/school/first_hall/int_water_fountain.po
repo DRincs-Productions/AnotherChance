@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:55\n"
+"PO-Revision-Date: 2024-02-14 10:53\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:36 #-#-# translate crowdin school_first_hall_water_fountain_interact_askmaxine_845a5804:
 msgid "{i}*Cough, cough*{/}"
-msgstr "{i}*Toux, toux * { / }"
+msgstr "{i}*Toux, toux * {/}"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:37 #-#-# translate crowdin school_first_hall_water_fountain_interact_askmaxine_5d1a8c04:
 msgid "What the hell?"
-msgstr "Qu'est-ce que l'enfer?"
+msgstr "Qu'est-ce que l'enfer ?"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:38 #-#-# translate crowdin school_first_hall_water_fountain_interact_askmaxine_d2df262d:
 msgid "How did this piece of paper end up in my throat?"
-msgstr "Comment ce morceau de papier s'est-il fini dans ma gorge?"
+msgstr "Comment ce morceau de papier s'est-il fini dans ma gorge ?"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:44 #-#-# translate crowdin school_first_hall_water_fountain_interact_04961b96:
 msgid "Life giving sustenance."
@@ -30,11 +30,11 @@ msgstr "La vie donne de la nourriture."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:45 #-#-# translate crowdin school_first_hall_water_fountain_interact_219eeff2:
 msgid "Who needs it?"
-msgstr "Qui en a besoin?"
+msgstr "Qui en a besoin ?"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:59 #-#-# translate crowdin school_first_hall_water_fountain_use_item_fe062c18:
 msgid "I wonder what [kate] will think when I return her socks perfectly clean...{space=-45}"
-msgstr "Je me demande ce que [kate] va penser quand je retourne ses chaussettes parfaitement propres ... { space=-45 }"
+msgstr "Je me demande ce que [kate] va penser quand je retourne ses chaussettes parfaitement propres ... {space=-45}"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:60 #-#-# translate crowdin school_first_hall_water_fountain_use_item_a71bb4d1:
 msgid "It's weird, but I can't wait to feel that shame she'll undoubtedly pour on."
@@ -90,7 +90,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:105 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_195d080d:
 msgid "[_kate_s_neutral_] Are you my wet puppy?"
-msgstr "[_kate_s_neutral_] Êtes-vous mon chiot mouillé?"
+msgstr "[_kate_s_neutral_] Êtes-vous mon chiot mouillé ?"
 
 # game/1000_base_game/game/locations/school/first_hall/int_water_fountain.rpy:106 #-#-# translate crowdin school_first_hall_lindsey_wrong_verywet_6434dfd2:
 msgid "[_mc_] Ugh..."
