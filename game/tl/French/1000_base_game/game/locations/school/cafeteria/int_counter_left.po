@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:51\n"
+"PO-Revision-Date: 2024-02-14 10:46\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:55 #-#-# translate crowdin school_cafeteria_counter_left_interact_two_0aaef48c:
 msgid "Entering the kitchen is against school regulations."
@@ -26,7 +26,7 @@ msgstr "Pour être honnête, cela ferait probablement mieux."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:61 #-#-# translate crowdin school_cafeteria_counter_left_interact_dae9e4ee:
 msgid "Haggis? No thanks."
-msgstr "Haggis? Non merci."
+msgstr "Haggis ? Non merci."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:65 #-#-# translate crowdin school_cafeteria_counter_left_isabelle_haggis_start_57002431:
 msgid "Think I'll skip lunch today. There's haggis on the menu."
@@ -42,7 +42,7 @@ msgstr "Ça serait marrant de regarder son écureuil."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:73 #-#-# translate crowdin school_cafeteria_counter_left_isabelle_haggis_seconds_72ca6210:
 msgid "[_mc_] Hey, do you guys have any haggis left?"
-msgstr "[_mc_] Hé, vous avez des haggis?"
+msgstr "[_mc_] Hé, vous avez des haggis ?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:74 #-#-# translate crowdin school_cafeteria_counter_left_isabelle_haggis_seconds_2b35b6fe:
 msgid "[_mc_] ..."
@@ -62,7 +62,7 @@ msgstr "Un heist ne fonctionne qu'une seule fois. Tout le monde le sait."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:87 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_f0ac7e5b:
 msgid "[_mc_] Hello? Can I have some garlic, please?"
-msgstr "[_mc_] Bonjour? Puis-je avoir de l'ail, s'il vous plaît?"
+msgstr "[_mc_] Bonjour ? Puis-je avoir de l'ail, s'il vous plaît ?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:88 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_634843d1:
 msgid "They're all busy stirring their pots."
@@ -82,7 +82,7 @@ msgstr "[_jo_s_angry_] Pris en rouge !"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:97 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_3fde5b75:
 msgid "Damn. Was she hiding inside behind the leek?"
-msgstr "Merde. Est-ce qu'elle se cachait derrière le poil?"
+msgstr "Merde. Est-ce qu'elle se cachait derrière le poil ?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:98 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_1e25d965:
 msgid "[_jo_s_skeptical_] Well, well, well... if it isn't the garlic thief himself!"
@@ -98,7 +98,7 @@ msgstr "[_jo_s_laughing_] Ok ... puisque c'est juste un ail cette fois, je vais 
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:101 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_a31340dd:
 msgid "[_mc_] Really?"
-msgstr "[_mc_] Vraiement?"
+msgstr "[_mc_] Vraiement ?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:102 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_d14b77ef:
 msgid "[_jo_s_angry_] No! I'm cutting your TV cable."
@@ -110,11 +110,11 @@ msgstr "Oh bien. J'ai vu les Gimpsons un million de fois auparavant."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:107 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_4a149327:
 msgid "What do you say after you ate the stolen garlic?"
-msgstr "Que dis-tu après avoir mangé l'ail volé?"
+msgstr "Que dis-tu après avoir mangé l'ail volé ?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:108 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_60eab4ca:
 msgid "You hold up your bowl and say, \"Please, ma'am, can I have some more garlic?\""
-msgstr "Vous détenez votre bol et dites: \"S'il vous plaît, madame, puis-je avoir plus d'ail?\""
+msgstr "Vous détenez votre bol et dites: \"S'il vous plaît, madame, puis-je avoir plus d'ail ?\""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:109 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_491ce037:
 msgid "And then it just miraculously appears in your hand."
@@ -130,7 +130,7 @@ msgstr "Merde."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:114 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_b879f31e:
 msgid "[_jo_s_neutral_] What do you have to say for yourself?"
-msgstr "[_jo_s_neutral_] Qu'avez-vous à dire vous-même?"
+msgstr "[_jo_s_neutral_] Qu'avez-vous à dire vous-même ?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:115 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_9a4253c8:
 msgid "[_mc_] I, err... got hungry."
@@ -174,7 +174,7 @@ msgstr "Ce n'est rien comparé aux escaliers en forme de créaky à la maison."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:132 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_d206b49c:
 msgid "[_jo_s_neutral_] What do you think you're doing?"
-msgstr "[_jo_s_neutral_] Que pensez-vous que vous faites?"
+msgstr "[_jo_s_neutral_] Que pensez-vous que vous faites ?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:133 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_6c046426:
 msgid "[_mc_] Err... I dropped my garlic."
