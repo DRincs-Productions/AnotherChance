@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-09 15:59\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2316 #-#-# translate crowdin isabelle_talk_romance_disabled_fa619cce:
 msgid "I don't think [isabelle] wants to talk to me after what I did to her..."
@@ -26,7 +26,7 @@ msgstr "Elle doit être malade de mes mauvaises tentatives de flirter maintenant
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2329 #-#-# translate crowdin isabelle_talk_one_ec55b3bd:
 msgid "[_isabelle_s_smile_] When I was little, Dad used to take me on vacation to Scotland."
-msgstr "[_isabelle_s_smile_] Quand j'étais petit, papa m'emportait en vacances en Ecosse."
+msgstr "[_isabelle_s_smile_] Quand j'étais petite, papa m'emmenait en vacances en Écosse."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2330 #-#-# translate crowdin isabelle_talk_one_d60166d4:
 msgid "[_isabelle_s_confident_] I always liked the bagpipes and kilts, but most of all I enjoyed the strolls along the gray waters of Loch Ness, hoping to catch a glimpse of Nessie."
@@ -54,7 +54,7 @@ msgstr "[_isabelle_s_laughing_] Quelque chose que les gens se souviendront de mo
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2348 #-#-# translate crowdin isabelle_talk_three_8cc9b1c8:
 msgid "[_isabelle_s_smile_] Maybe a great novel or poem. It doesn't have to be anything big, just something with a positive impact on the world."
-msgstr "[_isabelle_s_smile_] Peut-être un grand roman ou poème. Il ne doit pas être grand chose, juste quelque chose qui a un impact positif sur le monde."
+msgstr "[_isabelle_s_smile_] Peut-être un grand roman ou un poème. Il n'est pas nécessaire que ce soit quelque chose de grand, juste quelque chose qui a un impact positif sur le monde."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2355 #-#-# translate crowdin isabelle_talk_four_006cbc7b:
 msgid "[_isabelle_s_smile_] Thanks to my dad's job, I've had the chance to experience the rich cultures of the world."
@@ -86,7 +86,7 @@ msgstr "[_isabelle_s_thinking_] Je n'aime pas vraiment les lapins de gym, mais n
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2374 #-#-# translate crowdin isabelle_flirt_one_3bb95b54:
 msgid "[_isabelle_s_smile_] What part of my childhood vacations to Scotland did I enjoy the most?"
-msgstr "[_isabelle_s_smile_] Quelle partie de mes vacances d'enfance en Écosse ai-je eu le plus de plaisir?"
+msgstr "[_isabelle_s_smile_] Quelle partie de mes vacances d'enfance en Écosse ai-je eu le plus de plaisir ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2377 #-#-# translate crowdin isabelle_flirt_one_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -98,7 +98,7 @@ msgstr "[_mc_] Les cornemuse ! Vous avez toujours eu une chose pour les instrume
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2381 #-#-# translate crowdin isabelle_flirt_one_9083e6fb:
 msgid "[_isabelle_s_thinking_] Why do you have to make everything sexual?"
-msgstr "[_isabelle_s_thinking_] Pourquoi faire tout ce qui est sexuel?"
+msgstr "[_isabelle_s_thinking_] Pourquoi faire tout ce qui est sexuel ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2384 #-#-# translate crowdin isabelle_flirt_one_3883f17e:
 msgid "[_mc_] The kilts! You like men who are a bit feminine."
@@ -126,7 +126,7 @@ msgstr "[_isabelle_s_blush_] Réponse erronée ... si mauvaise ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2404 #-#-# translate crowdin isabelle_flirt_two_f88e6ca1:
 msgid "[_isabelle_s_excited_] My hobbies are really important to me. Can you name one?"
-msgstr "[_isabelle_s_excited_] Mes passe-temps sont vraiment importants pour moi. Pouvez-vous nommer un?"
+msgstr "[_isabelle_s_excited_] Mes passe-temps sont vraiment importants pour moi. Pouvez-vous nommer un ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2407 #-#-# translate crowdin isabelle_flirt_two_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -154,7 +154,7 @@ msgstr "[_mc_] You're really into dystopian video games. Surtout \"The Fall of L
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2423 #-#-# translate crowdin isabelle_flirt_two_7a1c7b6c:
 msgid "[_isabelle_s_blush_] What?! Who told you about that?"
-msgstr "[_isabelle_s_blush_] Quoi? ! Qui t'a parlé de ça?"
+msgstr "[_isabelle_s_blush_] Quoi ? ! Qui t'a parlé de ça ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2426 #-#-# translate crowdin isabelle_flirt_two_512cfbea:
 msgid "[_mc_] Trick question! You don't have any hobbies."
@@ -166,11 +166,11 @@ msgstr "[_isabelle_s_annoyed_] J'ai plein de passe-temps, merci beaucoup."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2434 #-#-# translate crowdin isabelle_flirt_three_c0199c05:
 msgid "[_isabelle_s_concerned_] Do you believe in destiny?"
-msgstr "[_isabelle_s_concerned_] Croyez-vous au destin?"
+msgstr "[_isabelle_s_concerned_] Croyez-vous au destin ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2435 #-#-# translate crowdin isabelle_flirt_three_47c27dcf:
 msgid "[_isabelle_s_concerned_left_] I've always wanted to leave something behind when I go... do you know what?"
-msgstr "[_isabelle_s_concerned_left_] J'ai toujours voulu laisser quelque chose derrière quand je vais ... tu sais quoi?"
+msgstr "[_isabelle_s_concerned_left_] J'ai toujours voulu laisser quelque chose derrière quand je vais ... tu sais quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2438 #-#-# translate crowdin isabelle_flirt_three_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -194,7 +194,7 @@ msgstr "[_mc_] A poème about George Orwell, where you confess your undying love
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2449 #-#-# translate crowdin isabelle_flirt_three_cec9e5ef:
 msgid "[_isabelle_s_angry_] What?! Where are you even getting these ideas?"
-msgstr "[_isabelle_s_angry_] Quoi? ! Où est-ce que vous obtenez ces idées?"
+msgstr "[_isabelle_s_angry_] Quoi ? ! Où est-ce que vous obtenez ces idées ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2452 #-#-# translate crowdin isabelle_flirt_three_dfa8bbe5:
 msgid "[_mc_] You want to leave behind a legacy of freedom. Destiny is what we make for ourselves. Every man dies, not every man truly lives!"
@@ -202,15 +202,15 @@ msgstr "[_mc_] Vous voulez laisser un héritage de liberté. Destiny est ce que 
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2455 #-#-# translate crowdin isabelle_flirt_three_f838e5e7:
 msgid "[_isabelle_s_blush_] Is that a Braveheart quote?!"
-msgstr "[_isabelle_s_blush_] Est-ce une citation de Braveheart? !"
+msgstr "[_isabelle_s_blush_] Est-ce une citation de Braveheart ? !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2458 #-#-# translate crowdin isabelle_flirt_three_ca9cc197:
 msgid "[_mc_] You want to solve the Riemann Hypothesis. Because, let's be honest, who doesn't?"
-msgstr "[_mc_] Vous voulez résoudre l'hypothèse de Riemann. Parce que, soyons honnêtes, qui ne le fait pas?"
+msgstr "[_mc_] Vous voulez résoudre l'hypothèse de Riemann. Parce que, soyons honnêtes, qui ne le fait pas ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2459 #-#-# translate crowdin isabelle_flirt_three_59e9f254:
 msgid "[_isabelle_s_skeptical_] Sounds like you're just trying to show off. Do you even know what that is?"
-msgstr "[_isabelle_s_skeptical_] On dirait que vous essayez de vous montrer. Savez-vous même ce que c'est?"
+msgstr "[_isabelle_s_skeptical_] On dirait que vous essayez de vous montrer. Savez-vous même ce que c'est ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2466 #-#-# translate crowdin isabelle_flirt_four_1adafdaa:
 msgid "[_isabelle_s_smile_left_] When I was younger, I didn't like to move every few months."
@@ -222,7 +222,7 @@ msgstr "[_isabelle_s_laughing_] Mais comme j'ai grandi, vivre de nouvelles cultu
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2468 #-#-# translate crowdin isabelle_flirt_four_90df2038:
 msgid "[_isabelle_s_confident_] Do you know how many countries I've been to?"
-msgstr "[_isabelle_s_confident_] Savez-vous combien de pays j'ai été?"
+msgstr "[_isabelle_s_confident_] Savez-vous combien de pays j'ai été ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2471 #-#-# translate crowdin isabelle_flirt_four_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -238,7 +238,7 @@ msgstr "[_isabelle_s_afraid_] C'est si serré ! J'ai en fait visité seize."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2476 #-#-# translate crowdin isabelle_flirt_four_60b71332:
 msgid "[_mc_] Was Finland one of them?"
-msgstr "[_mc_] La Finlande était-elle une d'entre elles?"
+msgstr "[_mc_] La Finlande était-elle une d'entre elles ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2477 #-#-# translate crowdin isabelle_flirt_four_a5970413:
 msgid "[_isabelle_s_laughing_] Yep!"
@@ -250,7 +250,7 @@ msgstr "[_mc_] Mon point exactement. Quinze. La Finlande n'est pas un lieu réel
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2481 #-#-# translate crowdin isabelle_flirt_four_3e34ac3a:
 msgid "[_isabelle_s_confident_] Actually, it's seventeen if you count Finland. You think I don't know memes?"
-msgstr "[_isabelle_s_confident_] En fait, c'est dix-sept si vous comptez la Finlande. Tu crois que je ne connais pas de mèmes?"
+msgstr "[_isabelle_s_confident_] En fait, c'est dix-sept si vous comptez la Finlande. Tu crois que je ne connais pas de mèmes ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2484 #-#-# translate crowdin isabelle_flirt_four_9816313c:
 msgid "[_mc_] You've been to Scotland twelve times. Everything else is irrelevant."
@@ -262,7 +262,7 @@ msgstr "[_isabelle_s_thinking_] I do love Scotland ... and the people there ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2486 #-#-# translate crowdin isabelle_flirt_four_54e30519:
 msgid "[_mc_] You mean the kilts, the tartan hats, and the men who wear them?"
-msgstr "[_mc_] Vous voulez dire les kilts, les chapeaux de tartan et les hommes qui les portent?"
+msgstr "[_mc_] Vous voulez dire les kilts, les chapeaux de tartan et les hommes qui les portent ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2489 #-#-# translate crowdin isabelle_flirt_four_094c70d5:
 msgid "[_isabelle_s_flirty_] I did not say that!"
@@ -282,7 +282,7 @@ msgstr "[_isabelle_s_thinking_] Bien sûr, il y a des gens mauvais dans tous les
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2497 #-#-# translate crowdin isabelle_flirt_four_d2591252:
 msgid "[_mc_] You've been to like thirty countries or something. Honestly, who's keeping track?"
-msgstr "[_mc_] Vous avez été dans une trentaine de pays ou quelque chose. Honnêtement, qui est en bonne voie?"
+msgstr "[_mc_] Vous avez été dans une trentaine de pays ou quelque chose. Honnêtement, qui est en bonne voie ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2498 #-#-# translate crowdin isabelle_flirt_four_2709d5a0:
 msgid "[_isabelle_s_eyeroll_] Well, clearly not you."
@@ -290,7 +290,7 @@ msgstr "[_isabelle_s_eyeroll_] Bien, clairement pas toi."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2505 #-#-# translate crowdin isabelle_flirt_five_7c1b5ed3:
 msgid "[_isabelle_s_angry_] Not a lot of things get on my nerves, but there are a few things that really make my blood boil! Do you know what?"
-msgstr "[_isabelle_s_angry_] Il n'y a pas beaucoup de choses sur mes nerfs, mais il y a quelques choses qui font vraiment bouillir mon sang ! Savez-vous quoi?"
+msgstr "[_isabelle_s_angry_] Il n'y a pas beaucoup de choses sur mes nerfs, mais il y a quelques choses qui font vraiment bouillir mon sang ! Savez-vous quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2508 #-#-# translate crowdin isabelle_flirt_five_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -326,7 +326,7 @@ msgstr "[_mc_] Ne vous focez pas sur ce que vous détestez. Se concentrer sur ce
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2527 #-#-# translate crowdin isabelle_flirt_five_16296da0:
 msgid "[_isabelle_s_blush_] How come you always know the right thing to say?"
-msgstr "[_isabelle_s_blush_] Comment vous êtes toujours au courant de la bonne chose à dire?"
+msgstr "[_isabelle_s_blush_] Comment vous êtes toujours au courant de la bonne chose à dire ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2530 #-#-# translate crowdin isabelle_flirt_five_dcaa9df2:
 msgid "[_isabelle_s_blush_] Mmm, warrior poets..."
@@ -334,7 +334,7 @@ msgstr "[_isabelle_s_blush_] Mmm, guerriers poètes ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2537 #-#-# translate crowdin isabelle_flirt_six_ade06b9d:
 msgid "[_isabelle_s_flirty_] If you were a warrior, what kind would it be?"
-msgstr "[_isabelle_s_flirty_] Si vous étiez un guerrier, quel genre de guerrier?"
+msgstr "[_isabelle_s_flirty_] Si vous étiez un guerrier, quel genre de guerrier ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2540 #-#-# translate crowdin isabelle_flirt_six_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -354,7 +354,7 @@ msgstr "[_mc_] Un banquier ! L'acier peut gagner des batailles, mais l'or rempor
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2550 #-#-# translate crowdin isabelle_flirt_six_9a2631d8:
 msgid "[_isabelle_s_cringe_] So, you'd hire others to fight for you?"
-msgstr "[_isabelle_s_cringe_] Alors, vous engageriez d'autres pour vous battre pour vous?"
+msgstr "[_isabelle_s_cringe_] Alors, vous engageriez d'autres pour vous battre pour vous ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2554 #-#-# translate crowdin isabelle_flirt_six_80f990b7:
 msgid "[_mc_] The strongest motherfucker on the battlefield, that's for sure."
@@ -374,7 +374,7 @@ msgstr "[_isabelle_s_smile_] C'est vrai ! Sauver des vies est plus noble que de 
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2568 #-#-# translate crowdin isabelle_flirt_seven_b00a1a1b:
 msgid "[_isabelle_s_smile_] I think life goals are important. Do you have any?"
-msgstr "[_isabelle_s_smile_] Je pense que les objectifs de vie sont importants. As-tu quelque?"
+msgstr "[_isabelle_s_smile_] Je pense que les objectifs de vie sont importants. As-tu quelque ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2571 #-#-# translate crowdin isabelle_flirt_seven_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -410,7 +410,7 @@ msgstr "[_mc_] Bien, mais ça ne me fera pas pondu. Croez-moi, j'ai essayé."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2587 #-#-# translate crowdin isabelle_flirt_seven_343df39a:
 msgid "[_isabelle_s_cringe_] It's the opposite of selfless then, isn't it? Besides, nobody likes a fake."
-msgstr "[_isabelle_s_cringe_] C'est le contraire du désintéressement, n'est-ce pas? En plus, personne n'aime un faux."
+msgstr "[_isabelle_s_cringe_] C'est le contraire du désintéressement, n'est-ce pas ? En plus, personne n'aime un faux."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2590 #-#-# translate crowdin isabelle_flirt_seven_53974793:
 msgid "[_mc_] I'm too lazy to have goals. Unless doing whatever I feel like counts..."
@@ -438,7 +438,7 @@ msgstr "[_isabelle_s_blush_] Oh ! Vous devez en lire un à un moment donné !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2606 #-#-# translate crowdin isabelle_flirt_eight_0b341c09:
 msgid "[_isabelle_s_excited_] You know I love books, but I also appreciate movies. What kind of movies are you into?"
-msgstr "[_isabelle_s_excited_] Vous savez que j'aime les livres, mais j'apprécie aussi les films. De quel genre de films vous êtes?"
+msgstr "[_isabelle_s_excited_] Vous savez que j'aime les livres, mais j'apprécie aussi les films. De quel genre de films vous êtes ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2609 #-#-# translate crowdin isabelle_flirt_eight_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -482,7 +482,7 @@ msgstr "[_mc_] N'importe quoi !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2631 #-#-# translate crowdin isabelle_flirt_eight_17858f0c:
 msgid "[_isabelle_s_concerned_] So, you don't care as long as it's a cartoon?"
-msgstr "[_isabelle_s_concerned_] Alors, vous ne vous souciez pas tant qu'il s'agit d'une caricature?"
+msgstr "[_isabelle_s_concerned_] Alors, vous ne vous souciez pas tant qu'il s'agit d'une caricature ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2632 #-#-# translate crowdin isabelle_flirt_eight_a3d7fe26:
 msgid "[_mc_] I do have a preference... but I can't tell you what it is..."
@@ -490,7 +490,7 @@ msgstr "[_mc_] J'ai une préférence ... mais je ne peux pas vous dire ce que c'
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2633 #-#-# translate crowdin isabelle_flirt_eight_0d39c1b6:
 msgid "[_isabelle_s_skeptical_] Okay...?"
-msgstr "[_isabelle_s_skeptical_] Ok ...?"
+msgstr "[_isabelle_s_skeptical_] Ok ... ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2634 #-#-# translate crowdin isabelle_flirt_eight_e1bdb145:
 msgid "[_mc_] Starts with an \"H\" and rhymes with \"tie.\""
@@ -502,7 +502,7 @@ msgstr "[_isabelle_s_cringe_] Vous êtes bien trop cryptique ... et vous savez, 
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2644 #-#-# translate crowdin isabelle_flirt_nine_7316e07d:
 msgid "[_isabelle_s_flirty_] Who do you think is the prettiest girl in school? You can't say me, by the way, because that would be a conflict of interest!"
-msgstr "[_isabelle_s_flirty_] Qui, selon vous, est la fille la plus importante à l'école? Vous ne pouvez pas me dire, au fait, parce que ce serait un conflit d'intérêts !"
+msgstr "[_isabelle_s_flirty_] Qui, selon vous, est la fille la plus importante à l'école ? Vous ne pouvez pas me dire, au fait, parce que ce serait un conflit d'intérêts !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2647 #-#-# translate crowdin isabelle_flirt_nine_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -510,7 +510,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2650 #-#-# translate crowdin isabelle_flirt_nine_8106e2ea:
 msgid "[_mc_] Apart from you? I don't really pay much attention to them."
-msgstr "[_mc_] En dehors de vous? Je ne leur accorde pas beaucoup d'attention."
+msgstr "[_mc_] En dehors de vous ? Je ne leur accorde pas beaucoup d'attention."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2653 #-#-# translate crowdin isabelle_flirt_nine_b8bf7447:
 msgid "[_isabelle_s_blush_] That's... oh, man."
@@ -546,7 +546,7 @@ msgstr "[_mc_] Je pense qu'il y a quelque chose de spécial pour les filles athl
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2675 #-#-# translate crowdin isabelle_flirt_nine_0bf1ce18:
 msgid "[_isabelle_s_annoyed_] What's so special about them?"
-msgstr "[_isabelle_s_annoyed_] Qu'est-ce qui est si spécial à leur sujet?"
+msgstr "[_isabelle_s_annoyed_] Qu'est-ce qui est si spécial à leur sujet ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2676 #-#-# translate crowdin isabelle_flirt_nine_305fc42b:
 msgid "[_mc_] Toned stomachs and legs, grace, and they know sports. I love sports."
@@ -554,15 +554,15 @@ msgstr "[_mc_] Les estomacs et les jambes, la grâce, et ils connaissent le spor
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2679 #-#-# translate crowdin isabelle_flirt_nine_af87daa1:
 msgid "[_isabelle_s_angry_] Since when?!"
-msgstr "[_isabelle_s_angry_] Depuis quand? !"
+msgstr "[_isabelle_s_angry_] Depuis quand ? !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2687 #-#-# translate crowdin isabelle_flirt_tips_4b21b96f:
 msgid "[_isabelle_s_confident_] Hey, you!"
-msgstr "[_isabelle_s_confident_] Hey, vous !"
+msgstr "[_isabelle_s_confident_] Hé, vous !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2688 #-#-# translate crowdin isabelle_flirt_tips_d8d50c3a:
 msgid "[_mc_] Who? Me?"
-msgstr "[_mc_] Qui? Moi?"
+msgstr "[_mc_] Qui ? Moi ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2689 #-#-# translate crowdin isabelle_flirt_tips_993b9ee3:
 msgid "[_isabelle_s_laughing_] Yeah, you silly goose!"
@@ -588,19 +588,19 @@ msgstr "C'est fou de penser."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2694 #-#-# translate crowdin isabelle_flirt_tips_b6914ebd:
 msgid "[_mc_] I was wondering if you had any tips for making out?"
-msgstr "[_mc_] Je me demandais si vous aviez des trucs pour sortir?"
+msgstr "[_mc_] Je me demandais si vous aviez des trucs pour sortir ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2695 #-#-# translate crowdin isabelle_flirt_tips_ffb2a11b:
 msgid "[_isabelle_s_neutral_] Making out?"
-msgstr "[_isabelle_s_neutral_] Making out?"
+msgstr "[_isabelle_s_neutral_] Making out ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2696 #-#-# translate crowdin isabelle_flirt_tips_d01e18e9:
 msgid "[_mc_] Yeah! Maybe you've read a manual or something?"
-msgstr "[_mc_] Oui ! Peut-être avez-vous lu un manuel ou quelque chose?"
+msgstr "[_mc_] Oui ! Peut-être avez-vous lu un manuel ou quelque chose ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2697 #-#-# translate crowdin isabelle_flirt_tips_aa85d681:
 msgid "[_isabelle_s_neutral_] I may know a thing or two, why?"
-msgstr "[_isabelle_s_neutral_] Je sais une chose ou deux, pourquoi?"
+msgstr "[_isabelle_s_neutral_] Je sais une chose ou deux, pourquoi ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2698 #-#-# translate crowdin isabelle_flirt_tips_786a0bc8:
 msgid "[_mc_] There's this girl I'm trying to impress..."
@@ -608,11 +608,11 @@ msgstr "[_mc_] Il y a cette fille que j'essaie d'impressio ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2699 #-#-# translate crowdin isabelle_flirt_tips_0c0400c6:
 msgid "[_isabelle_s_skeptical_] Truly?"
-msgstr "[_isabelle_s_skeptical_] Truly?"
+msgstr "[_isabelle_s_skeptical_] Truly ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2700 #-#-# translate crowdin isabelle_flirt_tips_f2ba459a:
 msgid "[_mc_] Yeah, she sometimes gets a bit feisty, but in reality she's really kind.{space=-5}"
-msgstr "[_mc_] Oui, elle a parfois un peu fait, mais en réalité elle est vraiment gentie. { space=-5 }"
+msgstr "[_mc_] Oui, elle a parfois un peu fait, mais en réalité elle est vraiment gentie. {space=-5}"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2701 #-#-# translate crowdin isabelle_flirt_tips_c6a5750b:
 msgid "[_mc_] And she has an adorable accent."
@@ -628,7 +628,7 @@ msgstr "[_isabelle_s_blush_] Elle a l'image d'une bonne prise."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2704 #-#-# translate crowdin isabelle_flirt_tips_7b03dd73:
 msgid "[_mc_] So, you'll help me?"
-msgstr "[_mc_] Alors, vous m'aiderez?"
+msgstr "[_mc_] Alors, vous m'aiderez ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2705 #-#-# translate crowdin isabelle_flirt_tips_5f1d89df:
 msgid "[_isabelle_s_flirty_] I think I might!"
@@ -640,7 +640,7 @@ msgstr "[_isabelle_s_flirty_] Mais de bons baisers sont tous sur le décor !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2707 #-#-# translate crowdin isabelle_flirt_tips_38e960f2:
 msgid "[_isabelle_s_flirty_] I'm free last period. Meet me on the roof?"
-msgstr "[_isabelle_s_flirty_] Je suis libre la dernière période. Rencontrez-moi sur le toit?"
+msgstr "[_isabelle_s_flirty_] Je suis libre la dernière période. Rencontrez-moi sur le toit ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2708 #-#-# translate crowdin isabelle_flirt_tips_1be205bc:
 msgid "[_mc_] You got it!"
@@ -648,15 +648,15 @@ msgstr "[_mc_] Vous l'avez !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2716 #-#-# translate crowdin isabelle_flirt_sunset_4b21b96f:
 msgid "[_isabelle_s_confident_] Hey, you!"
-msgstr "[_isabelle_s_confident_] Hey, vous !"
+msgstr "[_isabelle_s_confident_] Hé, vous !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2717 #-#-# translate crowdin isabelle_flirt_sunset_597c22c7:
 msgid "[_mc_] Have I ever told you that you're absolutely beautiful?"
-msgstr "[_mc_] Je vous ai déjà dit que vous êtes absolument magnifique?"
+msgstr "[_mc_] Je vous ai déjà dit que vous êtes absolument magnifique ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2718 #-#-# translate crowdin isabelle_flirt_sunset_185b78b2:
 msgid "[_isabelle_s_laughing_] I don't know, have you?"
-msgstr "[_isabelle_s_laughing_] Je ne sais pas, n'est-ce pas?"
+msgstr "[_isabelle_s_laughing_] Je ne sais pas, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2719 #-#-# translate crowdin isabelle_flirt_sunset_e7eda892:
 msgid "[_mc_] Maybe once or twice!"
@@ -668,7 +668,7 @@ msgstr "[_isabelle_s_confident_] Je suppose que ma mémoire n'est pas la meilleu
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2721 #-#-# translate crowdin isabelle_flirt_sunset_14669436:
 msgid "[_isabelle_s_confident_] What did you say again?"
-msgstr "[_isabelle_s_confident_] Qu'avez-vous dit à nouveau?"
+msgstr "[_isabelle_s_confident_] Qu'avez-vous dit à nouveau ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2722 #-#-# translate crowdin isabelle_flirt_sunset_aee18e3b:
 msgid "[_mc_] That you're beautiful."
@@ -680,7 +680,7 @@ msgstr "[isabelle] se penche plus près, touchant mon cou de façon séduite."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2731 #-#-# translate crowdin isabelle_flirt_sunset_54d6cca5:
 msgid "[_isabelle_s_roof_sunset_hug_blush_] Truly?"
-msgstr "[_isabelle_s_roof_sunset_hug_blush_] Truly?"
+msgstr "[_isabelle_s_roof_sunset_hug_blush_] Truly ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2732 #-#-# translate crowdin isabelle_flirt_sunset_0d3f1eeb:
 msgid "[_mc_] Yes, and that you're one of a kind."
@@ -708,7 +708,7 @@ msgstr "[_mc_] Je suis désolé. Tu as un goût si doux, je suis littéralement 
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2743 #-#-# translate crowdin isabelle_flirt_sunset_3220f3c2:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] You like my lip gloss?"
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Vous aimez mon lèvre de lèvre?"
+msgstr "[_isabelle_s_roof_sunset_hug_smile_] Tu aimes mon gloss ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2744 #-#-# translate crowdin isabelle_flirt_sunset_6480b222:
 msgid "[_mc_] You know, that stuff should be illegal..."
@@ -772,7 +772,7 @@ msgstr "[_isabelle_s_roof_sunset_hug_blush_] Whoa ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2762 #-#-# translate crowdin isabelle_flirt_sunset_8922b1da:
 msgid "[_mc_] Yeah? Blown away?"
-msgstr "[_mc_] Oui? Blown?"
+msgstr "[_mc_] Oui ? Blown ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2763 #-#-# translate crowdin isabelle_flirt_sunset_2da16ab9:
 msgid "[_isabelle_s_roof_sunset_hug_skeptical_] Don't get cocky, mate."
@@ -780,7 +780,7 @@ msgstr "[_isabelle_s_roof_sunset_hug_skeptical_] Ne vous préltez pas, mec."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2764 #-#-# translate crowdin isabelle_flirt_sunset_5b2071a8:
 msgid "[_mc_] Why not? I just kissed the cutest girl in school."
-msgstr "[_mc_] Pourquoi pas? J'ai juste embrassé la petite fille à l'école."
+msgstr "[_mc_] Pourquoi pas ? J'ai juste embrassé la petite fille à l'école."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2765 #-#-# translate crowdin isabelle_flirt_sunset_2ff8254b:
 msgid "[_isabelle_s_roof_sunset_hug_blush_] Aw! Okay, you can be a little cocky."
@@ -796,7 +796,7 @@ msgstr "[_isabelle_s_roof_sunset_hug_smile_] La prochaine fois ! Ok, je vois ce 
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2768 #-#-# translate crowdin isabelle_flirt_sunset_0f5f78fa:
 msgid "[_mc_] You make me confident. What can I say?"
-msgstr "[_mc_] Vous me faites confiance. Que puis-je dire?"
+msgstr "[_mc_] Vous me faites confiance. Que puis-je dire ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2769 #-#-# translate crowdin isabelle_flirt_sunset_02cd428d:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] I think you said it all tonight."
@@ -808,11 +808,11 @@ msgstr "[_isabelle_s_roof_sunset_hug_smile_] Et oui, il y aura une prochaine foi
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2771 #-#-# translate crowdin isabelle_flirt_sunset_562820a6:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Goodnight, [mc]."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Goodnight, [mc]."
+msgstr "[_isabelle_s_roof_sunset_hug_smile_] Bonne nuit, [mc]."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2772 #-#-# translate crowdin isabelle_flirt_sunset_ac92c5b6:
 msgid "[_mc_] Goodnight, [isabelle]."
-msgstr "[_mc_] Goodnight, [isabelle]."
+msgstr "[_mc_] Bonne nuit, [isabelle]."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2775 #-#-# translate crowdin isabelle_flirt_sunset_55ec1baf:
 msgid "[_isabelle_s_blush_] Heya! Look at the sunset!"
@@ -820,7 +820,7 @@ msgstr "[_isabelle_s_blush_] Heya ! Regarde le coucher de soleil !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2776 #-#-# translate crowdin isabelle_flirt_sunset_b2c6adf7:
 msgid "[_isabelle_s_blush_] Beautiful, isn't it?"
-msgstr "[_isabelle_s_blush_] Belle, n'est-ce pas?"
+msgstr "[_isabelle_s_blush_] Belle, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2777 #-#-# translate crowdin isabelle_flirt_sunset_a3b1a71e:
 msgid "[_mc_] I guess."
@@ -868,7 +868,7 @@ msgstr "[_mc_] Vous savez, j'ai déjà juré des femmes pour de bon ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2795 #-#-# translate crowdin isabelle_flirt_sunset_31e8c1d5:
 msgid "[_mc_] But that was a long time ago, and I think I'm warming up to your kind.{space=-35}"
-msgstr "[_mc_] Mais c'était il y a longtemps, et je pense que je me réchauffe jusqu'à votre genre. { space=-35 }"
+msgstr "[_mc_] Mais c'était il y a longtemps, et je pense que je me réchauffe jusqu'à votre genre. {space=-35}"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2796 #-#-# translate crowdin isabelle_flirt_sunset_ab28ea4d:
 msgid "[_mc_] Or, at least, to you."
@@ -876,7 +876,7 @@ msgstr "[_mc_] Ou, du moins, à vous."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2797 #-#-# translate crowdin isabelle_flirt_sunset_dd9b9b8b:
 msgid "[_isabelle_s_roof_sunset_hug_concerned_] Oh, yeah? Did [kate] steal your crayons in kindergarten?"
-msgstr "[_isabelle_s_roof_sunset_hug_concerned_] Oh, oui? Est-ce que le [kate] a volé vos crayons à la maternelle?"
+msgstr "[_isabelle_s_roof_sunset_hug_concerned_] Oh, oui ? Est-ce que le [kate] a volé vos crayons à la maternelle ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2798 #-#-# translate crowdin isabelle_flirt_sunset_7874560d:
 msgid "[_mc_] No, it was... a different life."
@@ -900,11 +900,11 @@ msgstr "[_isabelle_s_roof_sunset_hug_smile_] Eh bien, je suis content que vous a
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2803 #-#-# translate crowdin isabelle_flirt_sunset_cee97efa:
 msgid "[_mc_] You know you could get someone much better than me, right?"
-msgstr "[_mc_] Vous savez que vous pourriez avoir quelqu'un de bien mieux que moi, n'est-ce pas?"
+msgstr "[_mc_] Vous savez que vous pourriez avoir quelqu'un de bien mieux que moi, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2804 #-#-# translate crowdin isabelle_flirt_sunset_bfddb5a2:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Better? What's better?"
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Mieux? Quoi de mieux?"
+msgstr "[_isabelle_s_roof_sunset_hug_smile_] Mieux ? Quoi de mieux ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2805 #-#-# translate crowdin isabelle_flirt_sunset_178724f0:
 msgid "[_mc_] You know... more attractive, successful, popular..."
@@ -920,7 +920,7 @@ msgstr "[_isabelle_s_roof_sunset_hug_smile_] Vous ne faites pas de correspondanc
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2808 #-#-# translate crowdin isabelle_flirt_sunset_febddcbc:
 msgid "[_mc_] Love?"
-msgstr "[_mc_] Love?"
+msgstr "[_mc_] Love ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2809 #-#-# translate crowdin isabelle_flirt_sunset_9a515579:
 msgid "[_isabelle_s_roof_sunset_hug_skeptical_] I was making a point!"
@@ -928,7 +928,7 @@ msgstr "[_isabelle_s_roof_sunset_hug_skeptical_] J'ai fait un point !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2810 #-#-# translate crowdin isabelle_flirt_sunset_99620ca5:
 msgid "[_mc_] Can I make a point, too?"
-msgstr "[_mc_] Puis-je aussi faire un point?"
+msgstr "[_mc_] Puis-je aussi faire un point ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2811 #-#-# translate crowdin isabelle_flirt_sunset_927b0f44:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Certainly, I'm all—"
@@ -994,7 +994,7 @@ msgstr "Dans mon esprit, à travers les sombres nuages de négligence et de dép
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2831 #-#-# translate crowdin isabelle_flirt_sunset_380ccd68:
 msgid "Perhaps, this can work?"
-msgstr "Peut-être que cela peut fonctionner?"
+msgstr "Peut-être que cela peut fonctionner ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2832 #-#-# translate crowdin isabelle_flirt_sunset_3922314c:
 msgid "Maybe, maybe, maybe we can get together..."
@@ -1010,7 +1010,7 @@ msgstr "Soyez l'un de ces couples heureux, pique-niques dans le parc ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2835 #-#-# translate crowdin isabelle_flirt_sunset_989b5b2f:
 msgid "Maybe even more?"
-msgstr "Peut-être plus?"
+msgstr "Peut-être plus ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2836 #-#-# translate crowdin isabelle_flirt_sunset_3fac8559:
 msgid "She would look so good in a white dress..."
@@ -1022,7 +1022,7 @@ msgstr "Mon Dieu, je suis en avance sur moi."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2838 #-#-# translate crowdin isabelle_flirt_sunset_04245862:
 msgid "What if she doesn't like the kiss?"
-msgstr "Et si elle n'aime pas le baiser?"
+msgstr "Et si elle n'aime pas le baiser ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2839 #-#-# translate crowdin isabelle_flirt_sunset_09babf2f:
 msgid "And then it's over. A present moment turned memory."
@@ -1034,7 +1034,7 @@ msgstr "[_isabelle_s_roof_sunset_hug_blush_] Mmm ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2841 #-#-# translate crowdin isabelle_flirt_sunset_b4e67470:
 msgid "[_mc_] Was it okay?"
-msgstr "[_mc_] Était-ce d'accord?"
+msgstr "[_mc_] Était-ce d'accord ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2842 #-#-# translate crowdin isabelle_flirt_sunset_710697c4:
 msgid "[_isabelle_s_roof_sunset_hug_blush_] It was good!"
@@ -1042,7 +1042,7 @@ msgstr "[_isabelle_s_roof_sunset_hug_blush_] C'était bon !"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2843 #-#-# translate crowdin isabelle_flirt_sunset_557117f4:
 msgid "[_mc_] Good enough to do again?"
-msgstr "[_mc_] Bon assez pour recommencer?"
+msgstr "[_mc_] Bon assez pour recommencer ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2844 #-#-# translate crowdin isabelle_flirt_sunset_2232e6a7:
 msgid "[_isabelle_s_roof_sunset_hug_blush_] I'll think about it."
@@ -1070,11 +1070,11 @@ msgstr "[_mc_] Vous avez raison ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2850 #-#-# translate crowdin isabelle_flirt_sunset_ac92c5b6_1:
 msgid "[_mc_] Goodnight, [isabelle]."
-msgstr "[_mc_] Goodnight, [isabelle]."
+msgstr "[_mc_] Bonne nuit, [isabelle]."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2851 #-#-# translate crowdin isabelle_flirt_sunset_562820a6_1:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Goodnight, [mc]."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Goodnight, [mc]."
+msgstr "[_isabelle_s_roof_sunset_hug_smile_] Bonne nuit, [mc]."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2870 #-#-# translate crowdin isabelle_talk_broken_3f0e410d:
 msgid "[_isabelle_s_sad_] Sorry, I have to go."
@@ -1130,7 +1130,7 @@ msgstr "\" Vous voulez laisser derrière nous un héritage de liberté. Destiny 
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2437
 msgid "\"You want to solve the Riemann Hypothesis. Because, let's be honest, who doesn't?\""
-msgstr "\" Vous voulez résoudre l'hypothèse de Riemann. Parce que, soyons honnêtes, qui ne le fait pas? \""
+msgstr "\" Vous voulez résoudre l'hypothèse de Riemann. Parce que, soyons honnêtes, qui ne le fait pas ? \""
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2470
 msgid "\"You've lived in twelve countries and visited another fifteen.\""
@@ -1146,7 +1146,7 @@ msgstr "\" Depuis longtemps, vous avez cessé de compter. Les gens sont la même
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2470
 msgid "\"You've been to like thirty countries or something. Honestly, who's keeping track?\""
-msgstr "\" Vous avez été dans une trentaine de pays ou quelque chose. Honnêtement, qui est en bonne voie? \""
+msgstr "\" Vous avez été dans une trentaine de pays ou quelque chose. Honnêtement, qui est en bonne voie ? \""
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2507
 msgid "\"Bunnies — you hate those. It's their long creepy ears and the way they jump around. Monte Python got it right...\""
@@ -1214,7 +1214,7 @@ msgstr "\"N'importe qui anime !\""
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2646
 msgid "\"Apart from you? I don't really pay much attention to them.\""
-msgstr "\" En dehors de vous? Je ne leur accorde pas beaucoup d'attention. \""
+msgstr "\" En dehors de vous ? Je ne leur accorde pas beaucoup d'attention. \""
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2646
 msgid "\"As much as I hate to say it, nobody can really compete with [kate] in that regard.\""
