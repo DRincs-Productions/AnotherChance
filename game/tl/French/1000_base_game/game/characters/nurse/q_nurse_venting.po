@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:31\n"
+"PO-Revision-Date: 2024-02-14 10:16\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
 msgid "[_mc_] I don't believe what I'm seeing."
@@ -170,7 +170,7 @@ msgstr "[_maxine_s_afraid_] C'était le plus gros gobelin de savon que je n'ai j
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:110 #-#-# translate crowdin quest_nurse_venting_start_b2cf3884:
 msgid "The biggest she's {i}never{/} seen? What does that even mean?"
-msgstr "Le plus gros qu'elle soit {i}jamais { / } vu? Qu'est-ce que cela signifie même?"
+msgstr "Le plus gros qu'elle soit {i}jamais {/} vu? Qu'est-ce que cela signifie même?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:111 #-#-# translate crowdin quest_nurse_venting_start_5cb484f4:
 msgid "[_maxine_s_thinking_] A stronger line, that's what I need."
@@ -1336,7 +1336,7 @@ msgstr "[_nurse_] Oh, déary me ...\n"
 msgid "[_nurse_] There's a {i}tap tap tap tap,\n"
 "clink{/} up ahead!"
 msgstr "[_nurse_] Il y a un robinet du robinet du robinet {i},\n"
-"clink { / } à l'avance !"
+"clink {/} à l'avance !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:564 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_9304e36f:
 msgid "[_nurse_] Sounds like an\n"
@@ -2694,7 +2694,7 @@ msgstr "[_nurse_s_vent_crawling_s_video_] Oh, me déary ... J'ai tellement soif.
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:986 #-#-# translate crowdin quest_nurse_venting_maxine_camera_862edafe:
 msgid "[_nurse_s_vent_crawling_s_video_] There's a {i}tap tap tap tap, clink{/} up ahead!"
-msgstr "[_nurse_s_vent_crawling_s_video_] Il y a un robinet du robinet du robinet {i}, clink { / } avant !"
+msgstr "[_nurse_s_vent_crawling_s_video_] Il y a un robinet du robinet du robinet {i}, clink {/} avant !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:987 #-#-# translate crowdin quest_nurse_venting_maxine_camera_f4112c04:
 msgid "[_nurse_s_vent_crawling_s_video_] Sounds like an old typewriter!"
@@ -2894,7 +2894,7 @@ msgstr "[_nurse_]..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1099 #-#-# translate crowdin quest_nurse_venting_clubroom_vent_use_item_1d23fe70:
 msgid "[_nurse_] {i}*Gurgle*{/}"
-msgstr "[_nurse_] {i}*Gurgle * { / }"
+msgstr "[_nurse_] {i}*Gurgle * {/}"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1100 #-#-# translate crowdin quest_nurse_venting_clubroom_vent_use_item_fcacbb77:
 msgid "[_nurse_] Ah, I chugged it... and I\n"
@@ -3493,7 +3493,7 @@ msgstr "\"J'ai perdu mon inhalateur ...\""
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:340
 msgid "?mc.owned_item('walkie_talkie') and mc.owned_item('maxine_camera') and mc.owned_item('body_oil')@|{image=items walkie_talkie}|{color=#fefefe}+{/}|{image=items maxine_camera}|{color=#fefefe}+{/}|{image=items body_oil}|\"First we have to{space=-40}\n"
 "get you ready. Strip.\"{space=-95}"
-msgstr "? mc.owned_item ('walkie_talkie') et mc.owned_item ('maxine_camera') et mc.owned_item ('body_oil') @ | { image = items walkie_talkie } | { color=#fefefe} + { / } | { image=items maxine_camera } | { color=#fefefe} + { / } | { image=items body_oil } | \" First we have to { space=-40 }\n"
+msgstr "? mc.owned_item ('walkie_talkie') et mc.owned_item ('maxine_camera') et mc.owned_item ('body_oil') @ | { image = items walkie_talkie } | { color=#fefefe} + {/} | { image=items maxine_camera } | { color=#fefefe} + {/} | { image=items body_oil } | \" First we have to { space=-40 }\n"
 "get you ready. Bande. \" { space = -95 }"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:340
