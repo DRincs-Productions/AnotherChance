@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:53\n"
+"PO-Revision-Date: 2024-02-14 10:49\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/english_class/int_desk_one.rpy:49 #-#-# translate crowdin school_english_class_desk_one_use_item_9b548fd4:
 msgid "I open the desk and pour out the contents of my bottle inside."
@@ -18,7 +18,7 @@ msgstr "J'ouvre le bureau et déverse le contenu de ma bouteille à l'intérieur
 
 # game/1000_base_game/game/locations/school/english_class/int_desk_one.rpy:50 #-#-# translate crowdin school_english_class_desk_one_use_item_c4332427:
 msgid "What? Empty bottles are valuable! They should be grateful enough for the [item.title_lower]."
-msgstr "Quoi? Les bouteilles vides sont précieuses ! Ils devraient être assez reconnaissants pour le [item.title_lower]."
+msgstr "Quoi ? Les bouteilles vides sont précieuses ! Ils devraient être assez reconnaissants pour le [item.title_lower]."
 
 # game/1000_base_game/game/locations/school/english_class/int_desk_one.rpy:53 #-#-# translate crowdin school_english_class_desk_one_use_item_ace93574:
 msgid "Maybe someone will trade it for something else..."
