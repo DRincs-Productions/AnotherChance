@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:16\n"
+"PO-Revision-Date: 2024-02-14 16:10\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:3 #-#-# translate crowdin mrsl_quest_poolside_story_start_9deed393:
 msgid "[_mrsl_s_smile_] Hi, [mc]! How can I help you today?"
-msgstr "[_mrsl_s_smile_] Bonjour, [mc]! Comment puis-je vous aider aujourd'hui?"
+msgstr "[_mrsl_s_smile_] Bonjour, [mc]! Comment puis-je vous aider aujourd'hui ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:4 #-#-# translate crowdin mrsl_quest_poolside_story_start_de8ba2a7:
 msgid "[_mc_] I'd like to try out for the swim team."
@@ -26,7 +26,7 @@ msgstr "[_mrsl_s_laughing_] Arrêt par la piscine plus tard, et nous verrons ce 
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:9 #-#-# translate crowdin mrsl_quest_poolside_story_start_04ff78f9:
 msgid "Did she just? No..."
-msgstr "L'a-t-elle juste? Non."
+msgstr "L'a-t-elle juste ? Non."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:10 #-#-# translate crowdin mrsl_quest_poolside_story_start_7b246246:
 msgid "Must be my imagination."
@@ -34,7 +34,7 @@ msgstr "Ça doit être mon imagination."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:18 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_f5e4f43e:
 msgid "[_mrsl_s_neutral_] How can I help you, [mc]?"
-msgstr "[_mrsl_s_neutral_] Comment puis-je vous aider, [mc]?"
+msgstr "[_mrsl_s_neutral_] Comment puis-je vous aider, [mc] ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:19 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_19531080:
 msgid "[_mc_] The pool is closed until after the Newfall Independence Day festivities..."
@@ -46,7 +46,7 @@ msgstr "[_mrsl_s_surprised_] Oh, c'est vrai ! J'ai oublié de vous en parler."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:21 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_7d753c4f:
 msgid "[_mc_] What about my swim team tryout?"
-msgstr "[_mc_] Qu'en est-il de mon équipe de natation?"
+msgstr "[_mc_] Qu'en est-il de mon équipe de natation ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:22 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_8d33d3b8:
 msgid "[_mrsl_s_concerned_] Unfortunately, you'll have to wait until after Christmas."
@@ -58,7 +58,7 @@ msgstr "[_mrsl_s_concerned_] La saison commence et la liste de l'école doit êt
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:24 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_36655885:
 msgid "Great. So, me trying to ruin the festivities last year really only ruined it for myself? Fuck."
-msgstr "Super. Alors, j'essaie de ruiner les festivités l'année dernière en avoir vraiment ruiné pour moi-même? Putain."
+msgstr "Super. Alors, j'essaie de ruiner les festivités l'année dernière en avoir vraiment ruiné pour moi-même ? Putain."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:25 #-#-# translate crowdin mrsl_quest_poolside_story_newplan_a52a31cb:
 msgid "Well, I guess it ruined it for any freshmen swimmers too..."
@@ -106,7 +106,7 @@ msgstr "[isabelle] d'autre part, ce serait probablement une grande injustice ...
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:42 #-#-# translate crowdin poolside_story_isabelle_petition_9d0a82c7:
 msgid "[_mc_] Hey, [isabelle]!"
-msgstr "[_mc_] Hey, [isabelle]!"
+msgstr "[_mc_] Hé, [isabelle]!"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:43 #-#-# translate crowdin poolside_story_isabelle_petition_c6debf4f:
 msgid "[_isabelle_s_smile_] Hello!"
@@ -114,11 +114,11 @@ msgstr "[_isabelle_s_smile_] Bonjour !"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:44 #-#-# translate crowdin poolside_story_isabelle_petition_2446b58b:
 msgid "[_isabelle_s_laughing_] Did you see that [mrsl] looked extra excited earlier?"
-msgstr "[_isabelle_s_laughing_] Avez-vous vu que [mrsl] semblait plus excité plus tôt?"
+msgstr "[_isabelle_s_laughing_] Avez-vous vu que [mrsl] semblait plus excité plus tôt ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:45 #-#-# translate crowdin poolside_story_isabelle_petition_841bddf8:
 msgid "[_mc_] Hmm... not really?"
-msgstr "[_mc_] Hmm ... pas vraiment?"
+msgstr "[_mc_] Hmm ... pas vraiment ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:46 #-#-# translate crowdin poolside_story_isabelle_petition_d65e9188:
 msgid "[_isabelle_s_concerned_left_] All right, maybe it was just me then."
@@ -126,7 +126,7 @@ msgstr "[_isabelle_s_concerned_left_] Très bien, peut-être que c'était juste 
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:47 #-#-# translate crowdin poolside_story_isabelle_petition_d7c65540:
 msgid "[_mc_] What do you think she was excited about?"
-msgstr "[_mc_] Que penses-tu qu'elle était excité?"
+msgstr "[_mc_] Que penses-tu qu'elle était excité ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:48 #-#-# translate crowdin poolside_story_isabelle_petition_9116d274:
 msgid "[_isabelle_s_excited_] Oh, I was hoping you could tell me... since you spoke to her the moment prior."
@@ -138,7 +138,7 @@ msgstr "[_mc_] Hmm ... non, je ne l'ai pas remarqué. Elle semblait assez triste
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:50 #-#-# translate crowdin poolside_story_isabelle_petition_4790cd7a:
 msgid "[_isabelle_s_concerned_] Sad? Why sad?"
-msgstr "[_isabelle_s_concerned_] Sad? Pourquoi triste?"
+msgstr "[_isabelle_s_concerned_] Sad ? Pourquoi triste ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:53 #-#-# translate crowdin poolside_story_isabelle_petition_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -150,7 +150,7 @@ msgstr "[_mc_] Elle a probablement vu mes notes."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:57 #-#-# translate crowdin poolside_story_isabelle_petition_d16adc79:
 msgid "[_isabelle_s_thinking_] Are your grades that bad?"
-msgstr "[_isabelle_s_thinking_] Vos notes sont-elles mauvaises?"
+msgstr "[_isabelle_s_thinking_] Vos notes sont-elles mauvaises ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:58 #-#-# translate crowdin poolside_story_isabelle_petition_0ad1d689:
 msgid "[_mc_] They're not good, no."
@@ -174,7 +174,7 @@ msgstr "Ugh, elle sonne comme [jo]."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:63 #-#-# translate crowdin poolside_story_isabelle_petition_33e02ae7:
 msgid "[_mc_] I was wondering if you could help me out?"
-msgstr "[_mc_] Je me demandais si tu pouvais m'aider?"
+msgstr "[_mc_] Je me demandais si tu pouvais m'aider ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:64 #-#-# translate crowdin poolside_story_isabelle_petition_09b1d6a6:
 msgid "[_isabelle_s_laughing_] I'm not super good at sports myself, but English is my favorite subject!"
@@ -202,7 +202,7 @@ msgstr "[_mc_] Sa bouche n'était pas assez grande."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:74 #-#-# translate crowdin poolside_story_isabelle_petition_1b576f01:
 msgid "[_isabelle_s_skeptical_] Big enough for what?"
-msgstr "[_isabelle_s_skeptical_] Big enough for what?"
+msgstr "[_isabelle_s_skeptical_] Big enough for what ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:75 #-#-# translate crowdin poolside_story_isabelle_petition_9c16c07a:
 msgid "[_mc_] For my dic...tionary. She couldn't fit in the big words."
@@ -218,7 +218,7 @@ msgstr "[_mc_] Non. Certainement la première fois."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:79 #-#-# translate crowdin poolside_story_isabelle_petition_b878b2bb:
 msgid "[_isabelle_s_cringe_] Bit inappropriate, innit?"
-msgstr "[_isabelle_s_cringe_] Bit inapproprié, inné?"
+msgstr "[_isabelle_s_cringe_] Bit inapproprié, inné ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:80 #-#-# translate crowdin poolside_story_isabelle_petition_214385c6:
 msgid "[_mc_] I thought it was funny."
@@ -234,7 +234,7 @@ msgstr "Yikes. J'ai vraiment besoin de mettre à jour mon offre de blague, parce
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:83 #-#-# translate crowdin poolside_story_isabelle_petition_57a5f66d:
 msgid "[_isabelle_s_smile_] So, was she actually sad?"
-msgstr "[_isabelle_s_smile_] Alors, est-elle vraiment triste?"
+msgstr "[_isabelle_s_smile_] Alors, est-elle vraiment triste ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:84 #-#-# translate crowdin poolside_story_isabelle_petition_f29ae2b8:
 msgid "[_mc_] I don't know. I have a hard time reading her."
@@ -250,7 +250,7 @@ msgstr "[_mc_] Elle semble être en difficulté."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:89 #-#-# translate crowdin poolside_story_isabelle_petition_8810c10a:
 msgid "[_isabelle_s_afraid_] In trouble?"
-msgstr "[_isabelle_s_afraid_] En difficulté?"
+msgstr "[_isabelle_s_afraid_] En difficulté ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:90 #-#-# translate crowdin poolside_story_isabelle_petition_92d4407d:
 msgid "[_mc_] Yeah. I overheard a conversation in the women's locker room earlier."
@@ -262,7 +262,7 @@ msgstr "[_mc_] Quelqu'un lui a vraiment dit. Et il y avait quelque chose à prop
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:92 #-#-# translate crowdin poolside_story_isabelle_petition_08d03ee6:
 msgid "[_isabelle_s_thinking_] Who?"
-msgstr "[_isabelle_s_thinking_] Qui?"
+msgstr "[_isabelle_s_thinking_] Qui ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:93 #-#-# translate crowdin poolside_story_isabelle_petition_91357782:
 msgid "[_mc_] I don't know. The voices were pretty muted."
@@ -270,7 +270,7 @@ msgstr "[_mc_] Je ne sais pas. Les voix étaient plutôt sourdes."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:94 #-#-# translate crowdin poolside_story_isabelle_petition_a73bb16d:
 msgid "[_isabelle_s_thinking_] What kind of deal?"
-msgstr "[_isabelle_s_thinking_] Quel genre d'accord?"
+msgstr "[_isabelle_s_thinking_] Quel genre d'accord ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:95 #-#-# translate crowdin poolside_story_isabelle_petition_05753ec8:
 msgid "[_mc_] I think it was something about me..."
@@ -278,7 +278,7 @@ msgstr "[_mc_] Je pense que c'était quelque chose pour moi ..."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:96 #-#-# translate crowdin poolside_story_isabelle_petition_724acf4d:
 msgid "[_isabelle_s_thinking_] About you? Are you sure?"
-msgstr "[_isabelle_s_thinking_] À propos de vous? Es-tu sûre?"
+msgstr "[_isabelle_s_thinking_] À propos de vous ? Es-tu sûre ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:97 #-#-# translate crowdin poolside_story_isabelle_petition_a27042d7:
 msgid "[_mc_] I think the other person accused [mrsl] of being flirtatious with me."
@@ -290,7 +290,7 @@ msgstr "[_isabelle_s_cringe_] C'est vraiment inapproprié."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:99 #-#-# translate crowdin poolside_story_isabelle_petition_73de6ae6:
 msgid "[_isabelle_s_cringe_] Have you felt that's the case?"
-msgstr "[_isabelle_s_cringe_] Avez-vous senti que c'est le cas?"
+msgstr "[_isabelle_s_cringe_] Avez-vous senti que c'est le cas ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:100 #-#-# translate crowdin poolside_story_isabelle_petition_fb16a838:
 msgid "[_mc_] Hmm... maybe. Probably more than last time around."
@@ -298,7 +298,7 @@ msgstr "[_mc_] Hmm ... peut-être. Probablement plus que la dernière fois."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:101 #-#-# translate crowdin poolside_story_isabelle_petition_9abd48d1:
 msgid "[_isabelle_s_concerned_] Last time around?"
-msgstr "[_isabelle_s_concerned_] La dernière fois?"
+msgstr "[_isabelle_s_concerned_] La dernière fois ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:102 #-#-# translate crowdin poolside_story_isabelle_petition_b221fb1c:
 msgid "[_mc_] Last year I mean."
@@ -310,7 +310,7 @@ msgstr "[_isabelle_s_skeptical_] Mhm ..."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:104 #-#-# translate crowdin poolside_story_isabelle_petition_12d3623f:
 msgid "[_isabelle_s_neutral_] Do you reckon it was the principal?"
-msgstr "[_isabelle_s_neutral_] Croyez-vous que c'était le principal?"
+msgstr "[_isabelle_s_neutral_] Croyez-vous que c'était le principal ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:105 #-#-# translate crowdin poolside_story_isabelle_petition_4ca270cf:
 msgid "[_mc_] No, it wasn't. I'd definitely recognize [jo]'s voice even if muted."
@@ -330,7 +330,7 @@ msgstr "[_mc_] Je ne suis pas sûr ..."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:109 #-#-# translate crowdin poolside_story_isabelle_petition_aa11544a:
 msgid "[_isabelle_s_excited_] Maybe you should report it to the principal?"
-msgstr "[_isabelle_s_excited_] Peut-être devriez-vous le signaler au directeur?"
+msgstr "[_isabelle_s_excited_] Peut-être devriez-vous le signaler au directeur ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:110 #-#-# translate crowdin poolside_story_isabelle_petition_61eb93d1:
 msgid "Knowing [jo], I'd just get in trouble somehow."
@@ -342,7 +342,7 @@ msgstr "[_mc_] Hmm ... peut-être plus tard."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:112 #-#-# translate crowdin poolside_story_isabelle_petition_3cff3964:
 msgid "[_isabelle_s_smile_] So, what have you been up to today?"
-msgstr "[_isabelle_s_smile_] Alors, qu'est-ce que tu as été jusqu'à aujourd'hui?"
+msgstr "[_isabelle_s_smile_] Alors, qu'est-ce que tu as été jusqu'à aujourd'hui ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:113 #-#-# translate crowdin poolside_story_isabelle_petition_db96a691:
 msgid "[_mc_] I'm actually trying to write a petition to open the pool early."
@@ -370,7 +370,7 @@ msgstr "[_isabelle_s_cringe_] Droit. C'est une erreur de l'administration."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:119 #-#-# translate crowdin poolside_story_isabelle_petition_194a934b:
 msgid "[_mc_] Think you can help me out?"
-msgstr "[_mc_] Vous pouvez m'aider?"
+msgstr "[_mc_] Vous pouvez m'aider ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:120 #-#-# translate crowdin poolside_story_isabelle_petition_c500130c:
 msgid "[_isabelle_s_confident_] Absolutely can."
@@ -382,7 +382,7 @@ msgstr "[_isabelle_s_confident_] Mais les festivités sont au coin de la rue, et
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:122 #-#-# translate crowdin poolside_story_isabelle_petition_e67786c7:
 msgid "[_isabelle_s_laughing_] Maybe we can help each other?"
-msgstr "[_isabelle_s_laughing_] Peut-être que nous pouvons nous aider les uns les autres?"
+msgstr "[_isabelle_s_laughing_] Peut-être que nous pouvons nous aider les uns les autres ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:123 #-#-# translate crowdin poolside_story_isabelle_petition_2015b308:
 msgid "[isabelle] has been here for a few weeks and she's already doing more for the school than I did in four full years."
@@ -442,7 +442,7 @@ msgstr "Ma clé de casier est assez forte sur le plan technique pour le travail,
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:148 #-#-# translate crowdin poolside_story_making_confetti_glass_shard_c738f762:
 msgid "Need to find something chompier... something chuckier. Maybe a wood chipper?"
-msgstr "Besoin de trouver quelque chose de chompier ... quelque chose de rire. Peut-être une chipeuse de bois?"
+msgstr "Besoin de trouver quelque chose de chompier ... quelque chose de rire. Peut-être une chipeuse de bois ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:153 #-#-# translate crowdin poolside_story_making_confetti_19b00723:
 msgid "There's nothing sharper and more shredding than a pair of beaver teeth."
@@ -474,7 +474,7 @@ msgstr "Maintenant pour les décorations ..."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:161 #-#-# translate crowdin poolside_story_making_confetti_5954131b:
 msgid "Who knows better how to decorate than the art teacher?"
-msgstr "Qui sait mieux décorer que le professeur d'art?"
+msgstr "Qui sait mieux décorer que le professeur d'art ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:167 #-#-# translate crowdin poolside_story_jacklyn_decoarations_3a1dea53:
 msgid "[_jacklyn_s_smile_] Lookin' good there, shooter."
@@ -482,7 +482,7 @@ msgstr "[_jacklyn_s_smile_] Lookin'good there, shooter."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:168 #-#-# translate crowdin poolside_story_jacklyn_decoarations_be6c0118:
 msgid "[_jacklyn_s_smile_] What do you call that shirt? Some kind of spatter job?"
-msgstr "[_jacklyn_s_smile_] Qu'appelle-t-on cette chemise? Une sorte de boulot?"
+msgstr "[_jacklyn_s_smile_] Qu'appelle-t-on cette chemise ? Une sorte de boulot ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:169 #-#-# translate crowdin poolside_story_jacklyn_decoarations_6ab2d456:
 msgid "Crap. I forgot I spilled mustard on myself last night."
@@ -534,15 +534,15 @@ msgstr "[_mc_] I always like to impress."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:190 #-#-# translate crowdin poolside_story_jacklyn_decoarations_c41e8007:
 msgid "[_mc_] It's a work in progress. Do you have any ideas?"
-msgstr "[_mc_] C'est un travail en cours. As-tu des idées?"
+msgstr "[_mc_] C'est un travail en cours. As-tu des idées ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:191 #-#-# translate crowdin poolside_story_jacklyn_decoarations_26f52a0f:
 msgid "[_jacklyn_s_excited_] How about \"Questionable Substance?\""
-msgstr "[_jacklyn_s_excited_] Qu'en est-il de la \"substance exploitable\"?"
+msgstr "[_jacklyn_s_excited_] Qu'en est-il de la \"substance exploitable\" ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:192 #-#-# translate crowdin poolside_story_jacklyn_decoarations_1736e3d5:
 msgid "[_mc_] A Pollock reference?"
-msgstr "[_mc_] Une référence de Pollock?"
+msgstr "[_mc_] Une référence de Pollock ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:193 #-#-# translate crowdin poolside_story_jacklyn_decoarations_7b747776:
 msgid "[_jacklyn_s_laughing_] Freaky! That's a straight up combustion!"
@@ -562,7 +562,7 @@ msgstr "[_mc_] Écoute, j'ai promis [isabelle] pour l'aider à sortir avec les d
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:198 #-#-# translate crowdin poolside_story_jacklyn_decoarations_33e02ae7:
 msgid "[_mc_] I was wondering if you could help me out?"
-msgstr "[_mc_] Je me demandais si tu pouvais m'aider?"
+msgstr "[_mc_] Je me demandais si tu pouvais m'aider ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:199 #-#-# translate crowdin poolside_story_jacklyn_decoarations_3b83db7f:
 msgid "[_jacklyn_s_thinking_] I can give you the latitudes and maybe the longitudes, but you're steering the ship."
@@ -598,7 +598,7 @@ msgstr "Et c'est là."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:217 #-#-# translate crowdin poolside_story_making_decor_d147050f:
 msgid "Haters, where you at?"
-msgstr "Les Haters, où vous?"
+msgstr "Les Haters, où vous ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:219 #-#-# translate crowdin poolside_story_making_decor_ccc1b980:
 msgid "I left collectibles behind. Banjo would be disappointed."
@@ -682,7 +682,7 @@ msgstr "[_mc_] Vous êtes les bienvenus !"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:265 #-#-# translate crowdin poolside_story_isabelle_isadec_de734af4:
 msgid "[_mc_] Did you manage to write up the pool petition?"
-msgstr "[_mc_] Avez-vous réussi à écrire la pétition?"
+msgstr "[_mc_] Avez-vous réussi à écrire la pétition ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:266 #-#-# translate crowdin poolside_story_isabelle_isadec_de508137:
 msgid "[_isabelle_s_neutral_] Yeah, I just put it up on the bulletin board at the entrance."
@@ -706,7 +706,7 @@ msgstr "[_mrsl_s_smile_] Bonjour, [mc]."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:279 #-#-# translate crowdin mrsl_quest_poolside_story_convince_8a5023a2:
 msgid "[_mrsl_s_smile_] Are you sleeping well?"
-msgstr "[_mrsl_s_smile_] Vous dormais bien?"
+msgstr "[_mrsl_s_smile_] Vous dormais bien ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:280 #-#-# translate crowdin mrsl_quest_poolside_story_convince_7394782b:
 msgid "[_mc_] Hmm... apart from one strange dream, I'd say so."
@@ -714,7 +714,7 @@ msgstr "[_mc_] Hmm ... à part un rêve étrange, je dirais."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:281 #-#-# translate crowdin mrsl_quest_poolside_story_convince_fa06b913:
 msgid "[_mc_] Do I look tired?"
-msgstr "[_mc_] Je suis fatigué?"
+msgstr "[_mc_] Je suis fatigué ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:282 #-#-# translate crowdin mrsl_quest_poolside_story_convince_0dae277b:
 msgid "[_mrsl_s_sad_] I'm sorry to hear about the dream."
@@ -722,7 +722,7 @@ msgstr "[_mrsl_s_sad_] Je suis désolé d'entendre parler du rêve."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:283 #-#-# translate crowdin mrsl_quest_poolside_story_convince_bab3b8a5:
 msgid "[_mrsl_s_sarcastic_] You do look a little tired, but maybe you're used to worse?"
-msgstr "[_mrsl_s_sarcastic_] Vous avez l'air un peu fatigué, mais vous êtes peut-être habituée à pire?"
+msgstr "[_mrsl_s_sarcastic_] Vous avez l'air un peu fatigué, mais vous êtes peut-être habituée à pire ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:284 #-#-# translate crowdin mrsl_quest_poolside_story_convince_beffb686:
 msgid "[_mc_] I guess I am."
@@ -762,11 +762,11 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:297 #-#-# translate crowdin mrsl_quest_poolside_story_convince_70d98ee6:
 msgid "[_mc_] Have you noticed anything odd recently?"
-msgstr "[_mc_] Avez-vous remarqué quelque chose de bizarre récemment?"
+msgstr "[_mc_] Avez-vous remarqué quelque chose de bizarre récemment ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:298 #-#-# translate crowdin mrsl_quest_poolside_story_convince_25ab9aa3:
 msgid "[_mrsl_s_concerned_] Odd? What would that be?"
-msgstr "[_mrsl_s_concerned_] Odd? Qu'est-ce que c'est?"
+msgstr "[_mrsl_s_concerned_] Odd ? Qu'est-ce que c'est ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:299 #-#-# translate crowdin mrsl_quest_poolside_story_convince_b38d55bd:
 msgid "[_mc_] Oh, I don't know. Things that seem out of place somehow."
@@ -782,7 +782,7 @@ msgstr "[_mrsl_s_excited_] Il semble que nous avons tous les deux réussi à tra
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:302 #-#-# translate crowdin mrsl_quest_poolside_story_convince_5f3be9b2:
 msgid "[_mc_] What about strange texts? Have you had any of those?"
-msgstr "[_mc_] Qu'en est-il des textes étranges? As-tu eu une de ces personnes?"
+msgstr "[_mc_] Qu'en est-il des textes étranges ? As-tu eu une de ces personnes ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:303 #-#-# translate crowdin mrsl_quest_poolside_story_convince_9505bf5c:
 msgid "[_mrsl_s_thinking_] Can't say I have..."
@@ -794,7 +794,7 @@ msgstr "[_mrsl_s_skeptical_] Je bloque habituellement les numéros que je ne rec
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:305 #-#-# translate crowdin mrsl_quest_poolside_story_convince_78ee9315:
 msgid "[_mrsl_s_skeptical_] Maybe you should do the same?"
-msgstr "[_mrsl_s_skeptical_] Peut-être devriez-vous faire de même?"
+msgstr "[_mrsl_s_skeptical_] Peut-être devriez-vous faire de même ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:306 #-#-# translate crowdin mrsl_quest_poolside_story_convince_88799c3d:
 msgid "[_mc_] Hmm, that might be a good idea..."
@@ -818,7 +818,7 @@ msgstr "[_mc_] Je vais le faire, merci !"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:313 #-#-# translate crowdin mrsl_quest_poolside_story_convince_424271f7:
 msgid "[_mc_] Do you know what happened to Mrs. Bloomer?"
-msgstr "[_mc_] Savez-vous ce qui est arrivé à Mme Bloomer?"
+msgstr "[_mc_] Savez-vous ce qui est arrivé à Mme Bloomer ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:314 #-#-# translate crowdin mrsl_quest_poolside_story_convince_ba9512be:
 msgid "[_mrsl_s_thinking_] Mrs. Bloomer, hmm..."
@@ -854,7 +854,7 @@ msgstr "[jacklyn] est certainement un éclaboussé de couleurs bien nécessaires
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:322 #-#-# translate crowdin mrsl_quest_poolside_story_convince_905f7641:
 msgid "[_mrsl_s_concerned_] Why do you ask?"
-msgstr "[_mrsl_s_concerned_] Pourquoi demandez-vous?"
+msgstr "[_mrsl_s_concerned_] Pourquoi demandez-vous ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:323 #-#-# translate crowdin mrsl_quest_poolside_story_convince_f6c650c5:
 msgid "Just trying to figure out why there are anomalies from the old timeline."
@@ -866,7 +866,7 @@ msgstr "[_mc_] Juste curieux."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:327 #-#-# translate crowdin mrsl_quest_poolside_story_convince_672182e2:
 msgid "[_mc_] Is the program for exchange students new?"
-msgstr "[_mc_] Le programme d'échange d'étudiants est-il nouveau?"
+msgstr "[_mc_] Le programme d'échange d'étudiants est-il nouveau ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:328 #-#-# translate crowdin mrsl_quest_poolside_story_convince_5d973a3f:
 msgid "[_mrsl_s_thinking_] Yeah, I believe it's new."
@@ -886,7 +886,7 @@ msgstr "[_mrsl_s_surprised_] Espérons que cela ne deviendra pas un problème."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:332 #-#-# translate crowdin mrsl_quest_poolside_story_convince_4e8c340e:
 msgid "The school board that won't serve proper food to save money, suddenly decides to open up an exchange program?"
-msgstr "Le conseil scolaire qui ne servira pas les bons aliments pour économiser de l'argent décide soudainement d'ouvrir un programme d'échange?"
+msgstr "Le conseil scolaire qui ne servira pas les bons aliments pour économiser de l'argent décide soudainement d'ouvrir un programme d'échange ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:333 #-#-# translate crowdin mrsl_quest_poolside_story_convince_d29c1cd6:
 msgid "It seems odd to say the least."
@@ -894,7 +894,7 @@ msgstr "Il semble étrange de dire le moins."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:334 #-#-# translate crowdin mrsl_quest_poolside_story_convince_60a6631e:
 msgid "[_mc_] Do you know who initiated it?"
-msgstr "[_mc_] Savez-vous qui l'a initié?"
+msgstr "[_mc_] Savez-vous qui l'a initié ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:335 #-#-# translate crowdin mrsl_quest_poolside_story_convince_261944a7:
 msgid "[_mrsl_s_eyeroll_] Unfortunately, I don't. I'm not part of the school board."
@@ -934,11 +934,11 @@ msgstr "[_mrsl_s_neutral_] Cependant, la liste des signes est vide cette année.
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:344 #-#-# translate crowdin mrsl_quest_poolside_story_convince_9eb842b7:
 msgid "[_mc_] Err... but what about me? I signed up and would like to try out."
-msgstr "[_mc_] Err ... mais qu'en est-il de moi? J'ai signé et j'aimerais essayer."
+msgstr "[_mc_] Err ... mais qu'en est-il de moi ? J'ai signé et j'aimerais essayer."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:345 #-#-# translate crowdin mrsl_quest_poolside_story_convince_017915c0:
 msgid "[_mrsl_s_smile_] You did, didn't you?"
-msgstr "[_mrsl_s_smile_] Vous l'avez fait, n'est-ce pas?"
+msgstr "[_mrsl_s_smile_] Vous l'avez fait, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:346 #-#-# translate crowdin mrsl_quest_poolside_story_convince_bfc4ecac:
 msgid "[_mrsl_s_smile_] I can bring the list of signatures to the board, but I don't think they'll open it for one student."
@@ -974,7 +974,7 @@ msgstr "[_mrsl_s_laughing_] J'ai eu une alternative."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:360 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_b27ef8f3:
 msgid "[_mc_] An alternative?"
-msgstr "[_mc_] Une alternative?"
+msgstr "[_mc_] Une alternative ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:361 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_3935126c:
 msgid "[_mrsl_s_laughing_] Yeah, since we can't use the pool."
@@ -998,7 +998,7 @@ msgstr "[_mrsl_s_confident_] Mais depuis que vous avez recueilli toutes ces sign
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:366 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_da3e9f8f:
 msgid "[_mc_] Err... okay. But if we can't use the pool?"
-msgstr "[_mc_] Err ... ok. Mais si on ne peut pas utiliser la piscine?"
+msgstr "[_mc_] Err ... ok. Mais si on ne peut pas utiliser la piscine ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:367 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_meetmrsl_a30c37bc:
 msgid "[_mrsl_s_smile_] Well, like I said, I came up with an alternative."
@@ -1030,7 +1030,7 @@ msgstr "Prends tout en mon pouvoir pour ne pas sortir, coupe et serrer et caress
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:405 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_45330482:
 msgid "[_mc_] What... err... what's going on?"
-msgstr "[_mc_] Qu'est-ce qui se passe?"
+msgstr "[_mc_] Qu'est-ce qui se passe ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:406 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_86dad4cb:
 msgid "[_mrsl_s_flirty_] Since the pool is closed, but you really wanted a tryout..."
@@ -1042,7 +1042,7 @@ msgstr "[_mrsl_s_laughing_] Bien, j'ai pensé que ce serait une bonne alternativ
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:408 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_23d187f1:
 msgid "[_mc_] A kiddie pool?"
-msgstr "[_mc_] Un bassin d'enfants?"
+msgstr "[_mc_] Un bassin d'enfants ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:409 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_ea125c44:
 msgid "[_mrsl_s_confident_] It'll be fine!"
@@ -1070,7 +1070,7 @@ msgstr "La partie sur le fait de ne pas dire à qui que ce soit se sentait aussi
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:415 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_41e22446:
 msgid "[_mrsl_s_flirty_] Ready to get started?"
-msgstr "[_mrsl_s_flirty_] Prêt à être lancé?"
+msgstr "[_mrsl_s_flirty_] Prêt à être lancé ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:418 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1086,7 +1086,7 @@ msgstr "[_mrsl_s_laughing_] J'aime l'enthousiasme !"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:424 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_1a6cc950:
 msgid "[_mrsl_s_confident_] Have you done any competitive swimming in the past?"
-msgstr "[_mrsl_s_confident_] Avez-vous fait de la natation compétitive par le passé?"
+msgstr "[_mrsl_s_confident_] Avez-vous fait de la natation compétitive par le passé ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:425 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_10bcae07:
 msgid "[_mc_] No, just surfing..."
@@ -1106,7 +1106,7 @@ msgstr "[_mc_] Je ne sais pas ... Je n'en suis plus vraiment sûr."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:432 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_8fc60db8:
 msgid "[_mrsl_s_embarrassed_] You seemed excited just a moment ago! What changed?"
-msgstr "[_mrsl_s_embarrassed_] Vous avez semblé excitée il y a juste un instant ! Qu'est-ce qui a changé?"
+msgstr "[_mrsl_s_embarrassed_] Vous avez semblé excitée il y a juste un instant ! Qu'est-ce qui a changé ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:433 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_7d429e09:
 msgid "[_mc_] The kiddie pool. The secrecy. I'm not sure it's a good idea..."
@@ -1130,7 +1130,7 @@ msgstr "[_mrsl_s_laughing_] Parfait !"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:443 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_6e772625:
 msgid "[_mrsl_s_confident_] Now, let's get into the water, shall we?"
-msgstr "[_mrsl_s_confident_] Maintenant, allons-nous dans l'eau, allons-nous?"
+msgstr "[_mrsl_s_confident_] Maintenant, allons-nous dans l'eau, allons-nous ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:447 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_4e3b7e38:
 msgid "[_mc_] I'm sorry, but I've changed my mind."
@@ -1138,7 +1138,7 @@ msgstr "[_mc_] Je suis désolé, mais j'ai changé d'avis."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:448 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_d8233efa:
 msgid "[_mrsl_s_cringe_] Are you telling me I took time out of my busy schedule and filled up this pool for nothing?"
-msgstr "[_mrsl_s_cringe_] Vous me dites que j'ai pris du temps hors de mon horaire chargé et que j'ai rempli cette piscine pour rien?"
+msgstr "[_mrsl_s_cringe_] Vous me dites que j'ai pris du temps hors de mon horaire chargé et que j'ai rempli cette piscine pour rien ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:449 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_21b45926:
 msgid "[mrsl] seems genuinely upset. I don't think I've seen her like this before."
@@ -1198,11 +1198,11 @@ msgstr "[_mrsl_] Je vais vous tenir, et vous allez me montrer votre coup de papi
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:488 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_4c051aae:
 msgid "Butterfly stroke? Uh, damn. I had no idea that was a requirement..."
-msgstr "Papillon papillon? Euh, putain. Je n'avais aucune idée que c'était une exigence ..."
+msgstr "Papillon papillon ? Euh, putain. Je n'avais aucune idée que c'était une exigence ..."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:489 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_8fd7486e:
 msgid "Fuck. How am I supposed to breathe like this?"
-msgstr "Putain. Comment suis-je censé respirer comme ça?"
+msgstr "Putain. Comment suis-je censé respirer comme ça ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:490 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_af4e9342:
 msgid "[_mrsl_] Go ahead, I'll hold you."
@@ -1242,7 +1242,7 @@ msgstr "[_mrsl_] Vous devez être nerveux."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:507 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_60fffe12:
 msgid "[_mrsl_] Maybe this will help?"
-msgstr "[_mrsl_] Peut-être que ça va aider?"
+msgstr "[_mrsl_] Peut-être que ça va aider ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:509 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_96575349:
 msgid "[_mrsl_] Okay, let's try something easier. Give me a good breaststroke."
@@ -1258,7 +1258,7 @@ msgstr "[_mrsl_] Ne vous inquiétez pas, je vous ai."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:514 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_d8f30716:
 msgid "What the hell? Where did my boxers go?"
-msgstr "Qu'est-ce que l'enfer? Où vont mes boxeurs?"
+msgstr "Qu'est-ce que l'enfer ? Où vont mes boxeurs ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:516 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_2980339f:
 msgid "Fuck me!"
@@ -1330,19 +1330,19 @@ msgstr "Je peux foutu voir la lumière !"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:609 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_bfab7242:
 msgid "[_mrsl_] [mc]! Can you hear me?"
-msgstr "[_mrsl_] [mc]! Peux-tu m'entendre?"
+msgstr "[_mrsl_] [mc]! Peux-tu m'entendre ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:610 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_f2457a3c:
 msgid "Uhhh... what the hell?"
-msgstr "Uhhh ... que diable?"
+msgstr "Uhhh ... que diable ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:619 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_64330cb9:
 msgid "[_mrsl_s_afraid_] Are you okay?"
-msgstr "[_mrsl_s_afraid_] Etes-vous d'accord?"
+msgstr "[_mrsl_s_afraid_] Etes-vous d'accord ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:620 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_321f6fa7:
 msgid "Fuck. Why is my mouth tasting like ashes and salted cola?"
-msgstr "Putain. Pourquoi ma bouche est-elle goûtée comme des cendres et du cola salé?"
+msgstr "Putain. Pourquoi ma bouche est-elle goûtée comme des cendres et du cola salé ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:621 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_63bed3e9:
 msgid "[_mrsl_s_concerned_] Goodness! Talk to me, [mc]!"
@@ -1366,11 +1366,11 @@ msgstr "[_mrsl_s_embarrassed_] Je devais vous donner le CFCP pour vous ramener."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:626 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_09f75a0e:
 msgid "Huh? I do remember having trouble breathing..."
-msgstr "Huh? Je me souviens avoir de la difficulté à respirer ..."
+msgstr "Huh ? Je me souviens avoir de la difficulté à respirer ..."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:627 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_74ac7751:
 msgid "[_mc_] How long was I out for?"
-msgstr "[_mc_] Combien de temps je suis sorti?"
+msgstr "[_mc_] Combien de temps je suis sorti ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:628 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_428b6603:
 msgid "[_mrsl_s_concerned_] Oh, I don't think too long. We were going to do breaststrokes when you went limp."
@@ -1378,7 +1378,7 @@ msgstr "[_mrsl_s_concerned_] Oh, je ne pense pas trop longtemps. Nous allions fa
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:629 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_cfc0aa90:
 msgid "[_mc_] Limp? I only remember going hard as a fucking lightning rod."
-msgstr "[_mc_] Limp? Je me souviens seulement d'avoir travaillé dur comme un putain de paratonnerre."
+msgstr "[_mc_] Limp ? Je me souviens seulement d'avoir travaillé dur comme un putain de paratonnerre."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:630 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_e194c085:
 msgid "[_mrsl_s_cringe_] [mc]! That is highly inappropriate."
@@ -1386,15 +1386,15 @@ msgstr "[_mrsl_s_cringe_] [mc]! C'est très inapproprié."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:631 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_609bea74:
 msgid "Huh? Didn't she just give me the best fucking handjob in the west?"
-msgstr "Huh? Ne m'a-t-elle pas juste donné le meilleur travail de putain à l'ouest?"
+msgstr "Huh ? Ne m'a-t-elle pas juste donné le meilleur travail de putain à l'ouest ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:632 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_dd31a134:
 msgid "[_mc_] Didn't you just... grab me?"
-msgstr "[_mc_] N'as-tu pas juste ... attrapes-moi?"
+msgstr "[_mc_] N'as-tu pas juste ... attrapes-moi ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:633 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_129ce48a:
 msgid "[_mrsl_s_thinking_] Grab you?"
-msgstr "[_mrsl_s_thinking_] Grab you?"
+msgstr "[_mrsl_s_thinking_] Grab you ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:634 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_6d55c51b:
 msgid "[_mc_] As in, grab my junk."
@@ -1402,11 +1402,11 @@ msgstr "[_mc_] Comme dans, attrape ma jonque."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:635 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_fd4e9abe:
 msgid "[_mrsl_s_surprised_] I most certainly did not! Why would you even say that?"
-msgstr "[_mrsl_s_surprised_] Je ne l'ai certainement pas fait ! Pourquoi tu dirais même ça?"
+msgstr "[_mrsl_s_surprised_] Je ne l'ai certainement pas fait ! Pourquoi tu dirais même ça ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:636 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_cb1506c7:
 msgid "Seriously? Did my oxygen-deprived brain just make that whole thing up?"
-msgstr "Sérieusement? Mon cerveau privé d'oxygène a-t-il fait tout ça?"
+msgstr "Sérieusement ? Mon cerveau privé d'oxygène a-t-il fait tout ça ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:637 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_da5c1d20:
 msgid "I'm still semi-erect... I feel like I just came..."
@@ -1466,7 +1466,7 @@ msgstr "Une autre chose à ajouter à la liste."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:659 #-#-# translate crowdin poolside_story_enter_sports_text_dc6393a8:
 msgid "Perhaps it's time to send a text to the one person who seems to know what's going on?"
-msgstr "Peut-être est-il temps d'envoyer un texte à la personne qui semble savoir ce qui se passe?"
+msgstr "Peut-être est-il temps d'envoyer un texte à la personne qui semble savoir ce qui se passe ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:663 #-#-# translate crowdin poolside_story_enter_sports_text_33549476:
 msgid "[_mc_] Weird things keep happening. I need help!"
@@ -1474,7 +1474,7 @@ msgstr "[_mc_] Des choses étranges se produisent. J'ai besoin d'aide !"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:667 #-#-# translate crowdin poolside_story_enter_sports_text_c324fcdb:
 msgid "[_mc_] What do you know about [mrsl]?"
-msgstr "[_mc_] Que savez-vous au sujet de [mrsl]?"
+msgstr "[_mc_] Que savez-vous au sujet de [mrsl] ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:671 #-#-# translate crowdin poolside_story_enter_sports_text_90e19757:
 msgid "Now to wait for a reply..."
@@ -1486,7 +1486,7 @@ msgstr "[_hidden_number_] Je suis désolé, mais je ne peux pas."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:678 #-#-# translate crowdin poolside_story_enter_sports_text2_9784cae1:
 msgid "[_mc_] What do you mean? I need answers."
-msgstr "[_mc_] Que voulez-vous dire? J'ai besoin de réponses."
+msgstr "[_mc_] Que voulez-vous dire ? J'ai besoin de réponses."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:679 #-#-# translate crowdin poolside_story_enter_sports_text2_bd076bd2:
 msgid "[_hidden_number_] I have said too much already. I am not allowed to sway you one way or another."
@@ -1494,7 +1494,7 @@ msgstr "[_hidden_number_] J'ai déjà trop dit. Je ne suis pas autorisé à vous
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:681 #-#-# translate crowdin poolside_story_enter_sports_text2_c8e37eb0:
 msgid "Sway me? What the hell is this person on about?"
-msgstr "Sway-moi? Quel est l'enfer de cette personne?"
+msgstr "Sway-moi ? Quel est l'enfer de cette personne ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:682 #-#-# translate crowdin poolside_story_enter_sports_text2_3acad56e:
 msgid "Well, still useless. Not sure what I expected."
@@ -1502,7 +1502,7 @@ msgstr "Eh bien, encore inutile. Pas sûr de ce que je m'attendais."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:685 #-#-# translate crowdin poolside_story_enter_sports_text2_dc08db25:
 msgid "[_hidden_number_] Why do you ask that?"
-msgstr "[_hidden_number_] Pourquoi vous le demandez?"
+msgstr "[_hidden_number_] Pourquoi vous le demandez ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:686 #-#-# translate crowdin poolside_story_enter_sports_text2_dd4e096b:
 msgid "[_mc_] Something weird happened."
@@ -1510,11 +1510,11 @@ msgstr "[_mc_] Quelque chose de bizarre s'est produit."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:687 #-#-# translate crowdin poolside_story_enter_sports_text2_884dc5e1:
 msgid "[_hidden_number_] Weird in what way?"
-msgstr "[_hidden_number_] Weird in what way?"
+msgstr "[_hidden_number_] Weird in what way ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:689 #-#-# translate crowdin poolside_story_enter_sports_text2_ed397dc0:
 msgid "Fuck. How do I even explain this?"
-msgstr "Putain. Comment expliquer cela?"
+msgstr "Putain. Comment expliquer cela ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:691 #-#-# translate crowdin poolside_story_enter_sports_text2_c941b850:
 msgid "[_mc_] I was meant to try out for the swim team, and I got this weird feeling."
@@ -1526,7 +1526,7 @@ msgstr "[_hidden_number_] Rappelez-vous ce que je vous ai dit."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:694 #-#-# translate crowdin poolside_story_enter_sports_text2_081ff126:
 msgid "Hmm... what did they tell me? Trust my heart?"
-msgstr "Hmm ... qu'est-ce qu'ils m'ont dit? Faites confiance à mon cœur?"
+msgstr "Hmm ... qu'est-ce qu'ils m'ont dit ? Faites confiance à mon cœur ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:695 #-#-# translate crowdin poolside_story_enter_sports_text2_2d15acdb:
 msgid "Of course it's some cryptic bullshit."
@@ -1554,19 +1554,19 @@ msgstr "\"Je l'appelle le Mustard Skies Over Gray Chapels.\""
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:171
 msgid "?mc.intellect>=2@[mc.intellect]/2|{image=stats int}|\"It's a work in progress. Do you have any ideas?\""
-msgstr "? mc.intellect> =2@[mc.intellect]/2 | { image=stats int } | \" C'est un travail en cours. Avez-vous des idées? \""
+msgstr "?mc.intellect>=2@[mc.intellect]/2|{image=stats int}|\"C'est un travail en cours. Avez-vous des idées ?\""
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:293
 msgid "\"Have you noticed anything odd recently?\""
-msgstr "\"Avez-vous remarqué quelque chose de bizarre récemment?\""
+msgstr "\"Avez-vous remarqué quelque chose de bizarre récemment ?\""
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:293
 msgid "\"Do you know what happened to Mrs. Bloomer?\""
-msgstr "\"Savez-vous ce qui est arrivé à Mme Bloomer?\""
+msgstr "\"Savez-vous ce qui est arrivé à Mme Bloomer ?\""
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:293
 msgid "\"Is the program for exchange students new?\""
-msgstr "\"Le programme d'échange d'étudiants est-il nouveau?\""
+msgstr "\"Le programme d'échange d'étudiants est-il nouveau ?\""
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:417
 msgid "\"I was born ready.\""
@@ -1590,5 +1590,5 @@ msgstr "\" Des choses étranges se produisent. J'ai besoin d'aide ! \""
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:661
 msgid "\"What do you know about [mrsl]?\""
-msgstr "\"Que savez-vous de [mrsl]?\""
+msgstr "\"Que savez-vous de [mrsl] ?\""
 
