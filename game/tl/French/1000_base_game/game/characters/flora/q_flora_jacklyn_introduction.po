@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:10\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:3 #-#-# translate crowdin flora_quest_flora_jacklyn_introduction_start_5a36f080:
 msgid "[_flora_s_annoyed_] What?"
@@ -162,7 +162,7 @@ msgstr "[_flora_s_concerned_] Il a totalement fait !"
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:55 #-#-# translate crowdin quest_flora_jacklyn_introduction_bathroom_b64716af:
 msgid "[_jo_s_thinking_] Apologize to her, [mc]. You're already on thin ice."
-msgstr "[_jo_s_thinking_] Apologiser à elle, [mc]. Tu es déjà sur de la glace mince."
+msgstr "[_jo_s_thinking_] Excusez-vous auprès d'elle, [mc]. Vous êtes déjà sur la corde raide."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:58 #-#-# translate crowdin quest_flora_jacklyn_introduction_bathroom_c4c0e489:
 msgid "[_mc_] God, you're such a liar."
@@ -330,7 +330,7 @@ msgstr "[_flora_s_annoyed_] Impossible d'en convenir davantage."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:110 #-#-# translate crowdin quest_flora_jacklyn_introduction_bathroom_6ba902a8:
 msgid "[_flora_s_annoyed_] The way she carries herself, and the way she talks, and her effing clothes!"
-msgstr "[_flora_s_annoyed_] La façon dont elle se porte, et la façon dont elle parle, et ses vêtements effrants !"
+msgstr "[_flora_s_annoyed_] La façon dont elle se porte, et la façon dont elle parle, et ses vêtements effrayants !"
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:111 #-#-# translate crowdin quest_flora_jacklyn_introduction_bathroom_39302a36:
 msgid "Never seen [flora] so angry at a teacher before."
@@ -510,7 +510,7 @@ msgstr "[_mc_] Deal !"
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:160 #-#-# translate crowdin quest_flora_jacklyn_introduction_bathroom_200d7a2a:
 msgid "Ugh, that was way too eager, but ever since [flora] moved out, I've been like a cake-junkie in withdrawal. It's haunted my dreams for years."
-msgstr "Ugh, c'était bien trop avide, mais depuis que [flora] a déménagé, j'ai été comme un gâteau-junkie en retrait. Cela hante mes rêves depuis des années."
+msgstr "Mais depuis que [flora] a déménagé, je suis comme une droguée du gâteau en manque. Il a hanté mes rêves pendant des années."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:161 #-#-# translate crowdin quest_flora_jacklyn_introduction_bathroom_842111c8:
 msgid "[_flora_s_blush_] Okay, got to prepare the ingredients."
@@ -674,7 +674,7 @@ msgstr "[_jacklyn_s_excited_] Ne jamais dire non à une collation gratuite. Je l
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:231 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_2c78bd23:
 msgid "[_mc_] I think [flora] has a crush on you. Just trying to wingman here."
-msgstr "[_mc_] I think [flora] has a éguin on you. J'essaie juste d'ingourendre ici."
+msgstr "[_mc_] Je crois que [Flora] a le béguin pour toi. J'essaye juste d'être l'ambassadeur ici."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:233 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_63eeb2b4:
 msgid "[_jacklyn_s_smile_] Sorry, but I don't dabble."
@@ -898,7 +898,7 @@ msgstr "\"[flora] a des doigts très épais. Elle a besoin d'aide professionnell
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:174
 msgid "\"I think [flora] has a crush on you. Just trying to wingman here.\""
-msgstr "\" Je pense que [flora] a une trituration sur vous. J'essaie juste d'ingourendre ici. \""
+msgstr "\"Je pense que [Flora] a le béguin pour toi. J'essaye juste de faire l'entremetteuse.\""
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:174
 msgid "\"[flora] really loves your fashion sense, but she's too shy to tell you.\""
