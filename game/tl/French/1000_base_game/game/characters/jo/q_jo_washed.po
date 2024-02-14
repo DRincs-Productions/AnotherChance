@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:28\n"
+"PO-Revision-Date: 2024-02-14 16:10\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:43 #-#-# translate crowdin quest_jo_washed_start_0d7bce5a:
 msgid "Sometimes when life gets rough, it's easier to just escape."
@@ -116,7 +116,7 @@ msgstr "Ah, bien. Presque."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:109 #-#-# translate crowdin quest_jo_washed_start_02d70fd0:
 msgid "[_mc_] Perfect timing for what? Did the school board cut the funding for the school dance?"
-msgstr "[_mc_] Le timing parfait pour quoi? Le conseil scolaire a-t-il réduit le financement de la danse à l'école?"
+msgstr "[_mc_] Le timing parfait pour quoi ? Le conseil scolaire a-t-il réduit le financement de la danse à l'école ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:110 #-#-# translate crowdin quest_jo_washed_start_00911fa4:
 msgid "[_jo_s_eyeroll_] No, the school board cut—"
@@ -124,7 +124,7 @@ msgstr "[_jo_s_eyeroll_] Non, la commission scolaire coupe-"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:111 #-#-# translate crowdin quest_jo_washed_start_0c677f31:
 msgid "[_jo_s_afraid_] Yes! How did you know that?"
-msgstr "[_jo_s_afraid_] Oui ! Comment saviez-vous cela?"
+msgstr "[_jo_s_afraid_] Oui ! Comment saviez-vous cela ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:112 #-#-# translate crowdin quest_jo_washed_start_d3658385:
 msgid "[_mc_] Just a good guess."
@@ -133,13 +133,13 @@ msgstr "[_mc_] Juste une bonne idée."
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:113 #-#-# translate crowdin quest_jo_washed_start_283d1a8a:
 msgid "Of course, the dance will involve [flora] in a skimpy dress, [jo] showing{space=-20}\n"
 "too much cleavage..."
-msgstr "Bien sûr, la danse impliquera [flora] dans une robe skimpy, [jo] montrant { space=-20 }\n"
+msgstr "Bien sûr, la danse impliquera [flora] dans une robe skimpy, [jo] montrant {space=-20}\n"
 "trop clivage ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:114 #-#-# translate crowdin quest_jo_washed_start_76c000ce:
 msgid "...two cheerleaders kissing, [lindsey] getting wasted and inappropriate,{space=-40}\n"
 "and an all-you-can-eat doughnut buffet."
-msgstr "... deux cheerleaders qui s'embrassent, [lindsey] se gâte et ne conviennent pas, { space=-40 }\n"
+msgstr "... deux cheerleaders qui s'embrassent, [lindsey] se gâte et ne conviennent pas, {space=-40}\n"
 "et un buffet de beignet tout-you-can-manger."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:115 #-#-# translate crowdin quest_jo_washed_start_b33818c5:
@@ -152,7 +152,7 @@ msgstr "[_jo_s_afraid_] Malheureusement, peut-être pas. C'est assez cher d'en a
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:117 #-#-# translate crowdin quest_jo_washed_start_d73214da:
 msgid "[_mc_] How about a car wash fundraiser?"
-msgstr "[_mc_] Comment une collecte de fonds de lavage de voiture?"
+msgstr "[_mc_] Comment une collecte de fonds de lavage de voiture ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:118 #-#-# translate crowdin quest_jo_washed_start_66856038:
 msgid "[_jo_s_sarcastic_] That's... a great idea!"
@@ -204,7 +204,7 @@ msgstr "[_jo_s_embarrassed_] Le lavage de voiture est censé commencer déjà, m
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:136 #-#-# translate crowdin quest_jo_washed_start_0c5aa0ed:
 msgid "[_mc_] Where's [flora] off to?"
-msgstr "[_mc_] Où est le [flora]?"
+msgstr "[_mc_] Où est le [flora] ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:137 #-#-# translate crowdin quest_jo_washed_start_7c339877:
 msgid "[_jo_s_embarrassed_] She's pulling out the buckets and towels. Oh, we really are in a hurry now!"
@@ -224,11 +224,11 @@ msgstr "J'ai été un tel cul."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:141 #-#-# translate crowdin quest_jo_washed_start_3c3dc498:
 msgid "[_jo_s_thinking_] Really?"
-msgstr "[_jo_s_thinking_] Vraiement?"
+msgstr "[_jo_s_thinking_] Vraiement ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:142 #-#-# translate crowdin quest_jo_washed_start_b4d126ab:
 msgid "The look of surprise on her face that day haunted me for a long time.{space=-25}"
-msgstr "L'air de surprise sur son visage ce jour-là m'a hanté pendant longtemps. { space=-25 }"
+msgstr "L'air de surprise sur son visage ce jour-là m'a hanté pendant longtemps. {space=-25}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:143 #-#-# translate crowdin quest_jo_washed_start_1dc7b6f7:
 msgid "As if it were the strangest thing in the world that I offered to help."
@@ -252,7 +252,7 @@ msgstr "[_mc_] Ok, ça devrait être-"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:148 #-#-# translate crowdin quest_jo_washed_start_0e1022ed:
 msgid "[_jo_s_excited_] [kate] has been working on the signs already. Just get them from her.{space=-5}"
-msgstr "[_jo_s_excited_] [kate] a déjà travaillé sur les panneaux. Il suffit de les obtenir d'elle. { space=-5 }"
+msgstr "[_jo_s_excited_] [kate] a déjà travaillé sur les panneaux. Il suffit de les obtenir d'elle. {space=-5}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:149 #-#-# translate crowdin quest_jo_washed_start_ec8825be:
 msgid "[_mc_] Uh, I don't—"
@@ -284,7 +284,7 @@ msgstr "[_jo_s_laughing_] Si vous avez besoin d'un rappel, [flora] sera juste à
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:156 #-#-# translate crowdin quest_jo_washed_start_9b6287b5:
 msgid "[_jo_s_laughing_] This is important, okay?"
-msgstr "[_jo_s_laughing_] C'est important, d'accord?"
+msgstr "[_jo_s_laughing_] C'est important, d'accord ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:157 #-#-# translate crowdin quest_jo_washed_start_f103e714:
 msgid "[_mc_] Hell yeah, it is."
@@ -320,7 +320,7 @@ msgstr "Certaines choses ne changent jamais à moins d'avoir une autre chance."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:178 #-#-# translate crowdin quest_jo_washed_interact_line_two_17e44748:
 msgid "Is the past even real, or is it just a collection of memories?"
-msgstr "Le passé est-il réel, ou est-il juste une collection de souvenirs?"
+msgstr "Le passé est-il réel, ou est-il juste une collection de souvenirs ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:182 #-#-# translate crowdin quest_jo_washed_interact_line_three_0ad6afe6:
 msgid "My life felt so worthless back then. I really am one of the luckiest sons of bitches."
@@ -340,19 +340,19 @@ msgstr "Ah, les bons moments."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:190 #-#-# translate crowdin quest_jo_washed_supplies_reminder_f1f8582d:
 msgid "[_flora_s_afraid_] [mc]? What the hell?!"
-msgstr "[_flora_s_afraid_] [mc]? Qu'est-ce que l'enfer?"
+msgstr "[_flora_s_afraid_] [mc] ? Qu'est-ce que l'enfer ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:191 #-#-# translate crowdin quest_jo_washed_supplies_reminder_11455b53:
 msgid "[_mc_] What?"
-msgstr "[_mc_] Quoi?"
+msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:192 #-#-# translate crowdin quest_jo_washed_supplies_reminder_08309069:
 msgid "[_flora_s_embarrassed_] Can't you see the cars?! Why aren't you helping?!"
-msgstr "[_flora_s_embarrassed_] Vous ne pouvez pas voir les voitures? ! Pourquoi tu n'aimais pas?"
+msgstr "[_flora_s_embarrassed_] Vous ne pouvez pas voir les voitures ? ! Pourquoi tu n'aimais pas ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:193 #-#-# translate crowdin quest_jo_washed_supplies_reminder_f357be7f:
 msgid "[_flora_s_embarrassed_] [jo] texted me that you would help! Where are all the things?!"
-msgstr "[_flora_s_embarrassed_] [jo] m'a texté que vous aideriez ! Où sont toutes les choses?"
+msgstr "[_flora_s_embarrassed_] [jo] m'a texté que vous aideriez ! Où sont toutes les choses ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:194 #-#-# translate crowdin quest_jo_washed_supplies_reminder_0aee5438:
 msgid "[_mc_] I haven't found them yet..."
@@ -372,7 +372,7 @@ msgstr "[_flora_s_skeptical_]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:198 #-#-# translate crowdin quest_jo_washed_supplies_reminder_0391480d:
 msgid "[_flora_s_skeptical_] You forgot what she asked for, didn't you?"
-msgstr "[_flora_s_skeptical_] Vous avez oublié ce qu'elle a demandé, n'est-ce pas?"
+msgstr "[_flora_s_skeptical_] Vous avez oublié ce qu'elle a demandé, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:199 #-#-# translate crowdin quest_jo_washed_supplies_reminder_6ddddd1f:
 msgid "[_mc_] Maybe..."
@@ -400,7 +400,7 @@ msgstr "[_mc_] Merci, [flora]. Je t'aime aussi."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:205 #-#-# translate crowdin quest_jo_washed_supplies_reminder_4ff30538:
 msgid "[_flora_s_annoyed_] Listen closely this time, okay?"
-msgstr "[_flora_s_annoyed_] Ecoute attentivement cette fois, d'accord?"
+msgstr "[_flora_s_annoyed_] Ecoute attentivement cette fois, d'accord ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:206 #-#-# translate crowdin quest_jo_washed_supplies_reminder_271e80b1:
 msgid "[_flora_s_annoyed_] We need the garden hose from the greenhouse, the signs [kate] has been working on, the soap from the janitor's closet, and sponges."
@@ -430,7 +430,7 @@ msgstr "Mmm ... mouillée et savonneuse, frottant toutes les voitures ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:212 #-#-# translate crowdin quest_jo_washed_supplies_reminder_ee9687e9:
 msgid "[_mc_] Wait, could you repeat that?"
-msgstr "[_mc_] Attends, tu peux répéter ça?"
+msgstr "[_mc_] Attends, tu peux répéter ça ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:213 #-#-# translate crowdin quest_jo_washed_supplies_reminder_fc84953c:
 msgid "[_flora_s_eyeroll_] [mc]..."
@@ -479,7 +479,7 @@ msgstr "Et je me rappelle avoir pensé: \"Si seulement [mrsl] sordirait de son c
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:235 #-#-# translate crowdin quest_jo_washed_supplies_first_hall_8926ceb6:
 msgid "And then I went and looked out the window for a moment, imagining{space=-10}\n"
 "what freedom would feel like."
-msgstr "Et puis j'ai regardé par la fenêtre un instant, imaginant { space=-10 }\n"
+msgstr "Et puis j'ai regardé par la fenêtre un instant, imaginant {space=-10}\n"
 "ce que la liberté ressentirait."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:239 #-#-# translate crowdin quest_jo_washed_supplies_roof_002e8a0c:
@@ -496,7 +496,7 @@ msgstr "Oh, et sur le toit était le [maxine], bien sûr. J'ai presque oublié c
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:257 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_73d555db:
 msgid "[_maxine_s_thinking_] Have you also come to water the plants?"
-msgstr "[_maxine_s_thinking_] Vous venez aussi d'arrosez les plantes?"
+msgstr "[_maxine_s_thinking_] Vous venez aussi d'arrosez les plantes ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:258 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_e6a295aa:
 msgid "She was a bit less weird back then, but still weird."
@@ -548,11 +548,11 @@ msgstr "[_maxine_s_flirty_] Peut-être que vous serez le seul à vaincre cette m
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:270 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_94b8740d:
 msgid "[_mc_] All I'm interested in vanquishing is a future without a bikini car wash.{space=-15}"
-msgstr "[_mc_] Tout ce que je suis intéressé par le vanquishing est un avenir sans lavage de voiture bikini. { space=-15 }"
+msgstr "[_mc_] Tout ce que je suis intéressé par le vanquishing est un avenir sans lavage de voiture bikini. {space=-15}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:271 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_37d69972:
 msgid "[_maxine_s_concerned_] So, you journeyed here for nothing?"
-msgstr "[_maxine_s_concerned_] Alors, vous avez voyagé ici pour rien?"
+msgstr "[_maxine_s_concerned_] Alors, vous avez voyagé ici pour rien ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:272 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_376c455e:
 msgid "[_mc_] Like I said, I need the hose."
@@ -564,7 +564,7 @@ msgstr "[_maxine_s_annoyed_] Mais il y a une incursion de plantes zombies !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:274 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_0bc77a96:
 msgid "[_mc_] Are you talking about the plants in the greenhouse?"
-msgstr "[_mc_] Vous parlez des plantes en serre?"
+msgstr "[_mc_] Vous parlez des plantes en serre ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:275 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_b49d753d:
 msgid "[_maxine_s_skeptical_] Indeed."
@@ -584,11 +584,11 @@ msgstr "[_maxine_s_eyeroll_] Le danger est souvent masqué sous un voile d'innoc
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:279 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_6e6cc7a7:
 msgid "[_mc_] And the zombies have masked themselves under a veil of... broccoli and cabbage?"
-msgstr "[_mc_] Et les zombies se sont masqués sous un voile de ... brocoli et chou?"
+msgstr "[_mc_] Et les zombies se sont masqués sous un voile de ... brocoli et chou ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:280 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_43d1580d:
 msgid "[_maxine_s_skeptical_] Affirmative. The veil is lifting, and what will you do then?"
-msgstr "[_maxine_s_skeptical_] Affirmative. Le voile est levé, et que ferez-vous alors?"
+msgstr "[_maxine_s_skeptical_] Affirmative. Le voile est levé, et que ferez-vous alors ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:281 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_2782d5d8:
 msgid "[_mc_] If they still look like vegetables, I'll probably just eat them."
@@ -604,7 +604,7 @@ msgstr "[_mc_] Eh bien, je pouvais toujours les poigner dans un ranch."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:284 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_657d3c65:
 msgid "[_maxine_s_angry_] They lure you here, only for you to make jokes?"
-msgstr "[_maxine_s_angry_] Ils vous attirent ici, seulement pour vous faire des blagues?"
+msgstr "[_maxine_s_angry_] Ils vous attirent ici, seulement pour vous faire des blagues ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:285 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_f3683e17:
 msgid "[_maxine_s_angry_] It would be simple to subdue them, but we must use the hose now."
@@ -616,15 +616,15 @@ msgstr "[_mc_] En fait, j'ai besoin de le faire descendre à la collecte de fond
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:287 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_f6bbccbc:
 msgid "[_mc_] Can't you just use water bottles or something to drown the zombies?{space=-30}"
-msgstr "[_mc_] Vous ne pouvez pas utiliser des bouteilles d'eau ou quelque chose pour noyer les zombies? { space=-30 }"
+msgstr "[_mc_] Vous ne pouvez pas utiliser des bouteilles d'eau ou quelque chose pour noyer les zombies ? {space=-30}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:288 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_830a3106:
 msgid "[_mc_] Maybe wait for it to rain?"
-msgstr "[_mc_] Peut-être attendre qu'il pleuve?"
+msgstr "[_mc_] Peut-être attendre qu'il pleuve ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:289 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_c2779a5f:
 msgid "[_maxine_s_neutral_] Do you happen to have thousands of water bottles on you?"
-msgstr "[_maxine_s_neutral_] Est-ce que vous avez des milliers de bouteilles d'eau sur vous?"
+msgstr "[_maxine_s_neutral_] Est-ce que vous avez des milliers de bouteilles d'eau sur vous ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:290 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_cc761816:
 msgid "[_mc_] No..."
@@ -648,7 +648,7 @@ msgstr "[_maxine_s_thinking_] Cette erreur sera coûteuse."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:300 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_4213ce9a:
 msgid "[_mc_] Yeah, well, the fundraiser falling through would be even more costly.{space=-10}"
-msgstr "[_mc_] Yeah, eh bien, la collecte de fonds qui tombe en chute serait encore plus coûteuse. { space=-10 }"
+msgstr "[_mc_] Yeah, eh bien, la collecte de fonds qui tombe en chute serait encore plus coûteuse. {space=-10}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:301 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_1e0f2801:
 msgid "[_mc_] I'm sure you'll figure something out."
@@ -668,7 +668,7 @@ msgstr "[_maxine_s_confident_] Let's do it !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:308 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_69c39dce:
 msgid "[_maxine_s_confident_hose_] Just hold the door open while I rain down upon them, okay?"
-msgstr "[_maxine_s_confident_hose_] Just hold the door open while I rain down upon them, okay?"
+msgstr "[_maxine_s_confident_hose_] Just hold the door open while I rain down upon them, okay ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:309 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_626b1dfb:
 msgid "Things I didn't expect to hear from [maxine] back then..."
@@ -676,7 +676,7 @@ msgstr "Les choses que je ne m'attendais pas à entendre de [maxine] à l'époqu
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:310 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_16dff4df:
 msgid "[_maxine_s_confident_hose_] Ready?"
-msgstr "[_maxine_s_confident_hose_] Prêt?"
+msgstr "[_maxine_s_confident_hose_] Prêt ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:311 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_12b224db:
 msgid "[_mc_] As I'll ever be."
@@ -692,7 +692,7 @@ msgstr "[_mc_] Go ! Va ! Va !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:322 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_954d559a:
 msgid "She totally made that noise herself, didn't she?"
-msgstr "Elle a totalement fait ce bruit, n'est-ce pas?"
+msgstr "Elle a totalement fait ce bruit, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:323 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_49e6c521:
 msgid "I always thought she did, at least... but maybe not."
@@ -716,7 +716,7 @@ msgstr "... eh bien, je ne pouvais pas vraiment voir qu'elle blotait l'entrée."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:328 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_957e086b:
 msgid "Perhaps the greenhouse needs to be investigated in this timeline, too.{space=-40}"
-msgstr "Peut-être que la serre doit être étudiée dans ce délai aussi. { space=-40 }"
+msgstr "Peut-être que la serre doit être étudiée dans ce délai aussi. {space=-40}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:335 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_bff1d163:
 msgid "[_maxine_] Target eliminated."
@@ -728,12 +728,12 @@ msgstr "[_mc_] Le travail de Nice, soldat !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:338 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_5741fdce:
 msgid "[_mc_] Are you sure they won't come back?"
-msgstr "[_mc_] Etes-vous sûr de ne pas revenir?"
+msgstr "[_mc_] Etes-vous sûr de ne pas revenir ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:339 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_618dea36:
 msgid "[_maxine_s_confident_hose_] I'll continue to monitor their growth, but they do seem to be subdued{space=-25}\n"
 "for now."
-msgstr "[_maxine_s_confident_hose_] Je vais continuer à surveiller leur croissance, mais ils semblent avoir été subdued { space=-25 }\n"
+msgstr "[_maxine_s_confident_hose_] Je vais continuer à surveiller leur croissance, mais ils semblent avoir été subdued {space=-25}\n"
 "pour l'instant."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:340 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_edced897:
@@ -747,7 +747,7 @@ msgstr "À l'époque, la plupart des interactions avec les filles étaient une d
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:342 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_f8aad488:
 msgid "Perhaps pretending to play a squirt 'em up game with [maxine] helped{space=-10}\n"
 "get me out of my shell."
-msgstr "Peut-être que faire semblant de jouer à un jeu de squirt avec [maxine] a aidé { space=-10 }\n"
+msgstr "Peut-être que faire semblant de jouer à un jeu de squirt avec [maxine] a aidé {space=-10}\n"
 "à me sortir de ma coquille."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:343 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_224b11fc:
@@ -768,7 +768,7 @@ msgstr "[_maxine_s_annoyed_hose_] Personne ne va écrire à ce sujet."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:347 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_2a337665:
 msgid "[_mc_] No one?"
-msgstr "[_mc_] Personne?"
+msgstr "[_mc_] Personne ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:348 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_e90415a0:
 msgid "[_maxine_s_confident_hose_] Well, I just might add your name to the report."
@@ -780,7 +780,7 @@ msgstr "[_mc_] Merci ! Que l'on puisse savoir que j'ai aidé à arrêter une inv
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:350 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_93b1037a:
 msgid "[_mc_] That should count for some good karma, right?"
-msgstr "[_mc_] Cela devrait compter pour un bon karma, non?"
+msgstr "[_mc_] Cela devrait compter pour un bon karma, non ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:351 #-#-# translate crowdin quest_jo_washed_supplies_garden_hose_8f67d831:
 msgid "[_maxine_s_confident_hose_] Every good deed counts."
@@ -820,7 +820,7 @@ msgstr "[_kate_s_excited_] Je suppose que mon attention est sur d'autres choses.
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:391 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_d6fcfeae:
 msgid "[_mc_] Like the fundraiser?"
-msgstr "[_mc_] Comme la collecte de fonds?"
+msgstr "[_mc_] Comme la collecte de fonds ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:392 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_cae01c00:
 msgid "[_kate_s_cringe_] Gross. Don't tell me you're going to be there."
@@ -836,19 +836,19 @@ msgstr "[_mc_] [jo] m'a demandé de rassembler tout ce dont nous avons besoin po
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:395 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_299e8272:
 msgid "[_kate_s_excited_] Well, aren't you a good little delivery boy?"
-msgstr "[_kate_s_excited_] Bien, n'est-ce pas un bon petit garçon de livraison?"
+msgstr "[_kate_s_excited_] Bien, n'est-ce pas un bon petit garçon de livraison ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:396 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_bc24aa6f:
 msgid "[_kate_s_excited_] I bet [jo] asked you to get these signs too, right?"
-msgstr "[_kate_s_excited_] Je parie que [jo] vous a demandé d'avoir ces signes aussi, non?"
+msgstr "[_kate_s_excited_] Je parie que [jo] vous a demandé d'avoir ces signes aussi, non ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:397 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_f855004c:
 msgid "[_mc_] Man, how have I never realized how smart you are, [kate]?"
-msgstr "[_mc_] Homme, comment je n'ai jamais réalisé combien vous êtes intelligent, [kate]?"
+msgstr "[_mc_] Homme, comment je n'ai jamais réalisé combien vous êtes intelligent, [kate] ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:398 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_dc501846:
 msgid "[_kate_s_skeptical_] Are you giving me attitude? Interesting strategy."
-msgstr "[_kate_s_skeptical_] Tu me donnes une attitude? Stratégie d'interesting."
+msgstr "[_kate_s_skeptical_] Tu me donnes une attitude ? Stratégie d'interesting."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:399 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_398ec87a:
 msgid "She wasn't wrong about that. Things might've ended differently if I hadn't provoked her."
@@ -868,7 +868,7 @@ msgstr "[_mc_] [jo] compte sur moi."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:403 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_3ab02e90:
 msgid "[_kate_s_excited_] Oh, is she now?"
-msgstr "[_kate_s_excited_] Oh, est-elle maintenant?"
+msgstr "[_kate_s_excited_] Oh, est-elle maintenant ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:404 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_22b00d09:
 msgid "[_kate_s_excited_] See, that's what I thought."
@@ -924,15 +924,15 @@ msgstr "[_mc_] [kate]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:417 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_e8f2cb63:
 msgid "[_kate_s_confident_] Yes, [mc]?"
-msgstr "[_kate_s_confident_] Oui, [mc]?"
+msgstr "[_kate_s_confident_] Oui, [mc] ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:418 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_952d3ce7:
 msgid "[_mc_] I {i}really{/} need those signs."
-msgstr "[_mc_] I {i}vraiment { / } ont besoin de ces signes."
+msgstr "[_mc_] I {i}vraiment {/} ont besoin de ces signes."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:419 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_318a0c9b:
 msgid "[_mc_] Would you {i}please{/} hand them over, so I can get them to the fundraiser?{space=-60}"
-msgstr "[_mc_] Pourriez-vous {i}s'il vous plaît { / } les remettre, alors je peux les obtenir à la collecte de fonds? { space=-60 }"
+msgstr "[_mc_] Pourriez-vous {i}s'il vous plaît {/} les remettre, alors je peux les obtenir à la collecte de fonds ? {space=-60}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:420 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_8eb89873:
 msgid "[_kate_s_neutral_] ..."
@@ -940,7 +940,7 @@ msgstr "[_kate_s_neutral_]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:421 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_03685322:
 msgid "[_mc_] ...with a cherry on top?"
-msgstr "[_mc_] ... avec une cerise sur le dessus?"
+msgstr "[_mc_] ... avec une cerise sur le dessus ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:422 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_f69bcf0c:
 msgid "[_kate_s_neutral_] Still not good enough."
@@ -972,7 +972,7 @@ msgstr "Un vrai moment de honte."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:429 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_76e1f08c:
 msgid "[_kate_s_confident_] So, what's it going to be?"
-msgstr "[_kate_s_confident_] Alors, qu'est-ce que ça va être?"
+msgstr "[_kate_s_confident_] Alors, qu'est-ce que ça va être ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:432 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -992,7 +992,7 @@ msgstr "[_kate_s_blush_] C'est plus comme ça."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:455 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_1cfae3fc:
 msgid "[_kate_s_blush_] Now, did you have something you wanted to ask?"
-msgstr "[_kate_s_blush_] Maintenant, avez-vous quelque chose que vous vouiez demander?"
+msgstr "[_kate_s_blush_] Maintenant, avez-vous quelque chose que vous vouiez demander ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:456 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_611b22c9:
 msgid "[_mc_] Please, I'm begging you, [kate]..."
@@ -1056,7 +1056,7 @@ msgstr "[_kate_s_gushing_] Restez où vous êtes."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:472 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_b1ccf67a:
 msgid "[_kate_s_thinking_] Hmm... where did I leave the markers?"
-msgstr "[_kate_s_thinking_] Hmm ... où ai-je laissé les marqueurs?"
+msgstr "[_kate_s_thinking_] Hmm ... où ai-je laissé les marqueurs ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:482 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_d423af86:
 msgid "[_mc_] [kate], I really have to—"
@@ -1068,7 +1068,7 @@ msgstr "[_kate_s_blush_marker_] Ah, ils sont là !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:491 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_52662712:
 msgid "[_mc_] What do you need a marker for?"
-msgstr "[_mc_] Qu'est-ce que vous avez besoin d'un marqueur?"
+msgstr "[_mc_] Qu'est-ce que vous avez besoin d'un marqueur ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:492 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_e8a39f93:
 msgid "I had no idea what she had in store for me, but I was super worried at that point."
@@ -1114,15 +1114,15 @@ msgstr "Et puis j'ai senti la pointe mouillée du marqueur contre mon front."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:510 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_16bd563b:
 msgid "[_kate_s_blush_marker_] {i}\"Property...\"{/}"
-msgstr "[_kate_s_blush_marker_] {i}\"Propriété ...\" { / }"
+msgstr "[_kate_s_blush_marker_] {i}\"Propriété ...\" {/}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:512 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_21b36b9a:
 msgid "[_kate_s_blush_marker_] {i}\"...of...\"{/}"
-msgstr "[_kate_s_blush_marker_] {i}\"... de ...\" { / }"
+msgstr "[_kate_s_blush_marker_] {i}\"... de ...\" {/}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:514 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_9752890c:
 msgid "[_kate_s_blush_marker_] {i}\"...[kate].\"{/}"
-msgstr "[_kate_s_blush_marker_] {i}\"...[kate].\" { / }"
+msgstr "[_kate_s_blush_marker_] {i}\"...[kate].\" {/}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:515 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_ef0c6957:
 msgid "[_kate_s_blush_marker_] There! All done."
@@ -1142,7 +1142,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:527 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_135bb218:
 msgid "[_mc_] Can I take the signs now?"
-msgstr "[_mc_] Puis-je prendre les panneaux maintenant?"
+msgstr "[_mc_] Puis-je prendre les panneaux maintenant ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:528 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_19153776:
 msgid "[_kate_s_smile_] I'll allow you to have one."
@@ -1154,7 +1154,7 @@ msgstr "[_kate_s_smile_] Prenez la tête et sortez de ma vue avant de changer d'
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:534 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_2d6fbc05:
 msgid "[_mc_] Just one? What's the point of making so many, then?"
-msgstr "[_mc_] Juste un? Quel est le point d'en faire autant, alors?"
+msgstr "[_mc_] Juste un ? Quel est le point d'en faire autant, alors ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:535 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_2b26ca9f:
 msgid "[_kate_s_confident_] So I can deny worthless little dogs like you."
@@ -1178,7 +1178,7 @@ msgstr "Ces jambes de pompeur ont vraiment mal. Je me souviens d'être douloureu
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:556 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_7541688d:
 msgid "What's the point of daydreams if you can't change a few things here and there?"
-msgstr "Quel est le point de rêve si vous ne pouvez pas changer quelques choses ici et là?"
+msgstr "Quel est le point de rêve si vous ne pouvez pas changer quelques choses ici et là ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:557 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_aaac4cec:
 msgid "And this is probably what I should have done, anyway."
@@ -1194,7 +1194,7 @@ msgstr "[_mc_] Mais pas tant que tu n'as pas dit à ce gars derrière toi de par
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:560 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_88e2af03:
 msgid "[_kate_s_surprised_] Huh? What guy?"
-msgstr "[_kate_s_surprised_] Huh? Quel type?"
+msgstr "[_kate_s_surprised_] Huh ? Quel type ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:561 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_13449da1:
 msgid "[_kate_s_surprised_] There's no guy—"
@@ -1218,11 +1218,11 @@ msgstr "[_mc_] Désolé, [kate]! Pas de temps pour rester et bavarder !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:577 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_4c9a3187:
 msgid "[_kate_] {i}You'll pay for that, [mc]!{/}"
-msgstr "[_kate_] {i}Vous paierez pour ça, [mc] ! { / }"
+msgstr "[_kate_] {i}Vous paierez pour ça, [mc] ! {/}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:578 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_ce9e40f4:
 msgid "If only I had more guts back then, this is how it would've turned out.{space=-5}"
-msgstr "Si seulement j'avais encore plus de cran, c'est comme ça qu'il se serait avéré. { space=-5 }"
+msgstr "Si seulement j'avais encore plus de cran, c'est comme ça qu'il se serait avéré. {space=-5}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:579 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_b9ecfc1c:
 msgid "But I guess outsmarting [kate] is easier in theory than practice..."
@@ -1258,7 +1258,7 @@ msgstr "C'est quand elle s'est montré."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:595 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_617235b4:
 msgid "[_lindsey_s_smile_] [mc], are you okay?"
-msgstr "[_lindsey_s_smile_] [mc], vous allez bien?"
+msgstr "[_lindsey_s_smile_] [mc], vous allez bien ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:616 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_cff873b4:
 msgid "That was such a happy moment. She knew my damn name!"
@@ -1266,7 +1266,7 @@ msgstr "C'était un moment si heureux. Elle connaissait mon nom de merde !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:617 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_7a2bee36:
 msgid "I'd never thought a girl like [lindsey] would ever pay me any attention...{space=-40}"
-msgstr "Je n'aurais jamais pensé qu'une fille comme [lindsey] me paierait une attention ... { space=-40 }"
+msgstr "Je n'aurais jamais pensé qu'une fille comme [lindsey] me paierait une attention ... {space=-40}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:618 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_7b7dd491:
 msgid "And she even smiled at me!"
@@ -1274,15 +1274,15 @@ msgstr "Et elle me sourit même !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:619 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_0ac6e8b1:
 msgid "[_lindsey_s_smile_] What are you doing with that door?"
-msgstr "[_lindsey_s_smile_] Qu'est-ce que vous faites avec cette porte?"
+msgstr "[_lindsey_s_smile_] Qu'est-ce que vous faites avec cette porte ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:620 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_9648912c:
 msgid "[_mc_] You didn't hear? I'm the new janitor."
-msgstr "[_mc_] Vous n'avez pas entendu? Je suis le nouveau concierge."
+msgstr "[_mc_] Vous n'avez pas entendu ? Je suis le nouveau concierge."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:621 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_e0a94040:
 msgid "[_lindsey_s_laughing_] Really, now?"
-msgstr "[_lindsey_s_laughing_] Vraiement, maintenant?"
+msgstr "[_lindsey_s_laughing_] Vraiement, maintenant ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:622 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_f8727e47:
 msgid "I actually made her laugh. One of my biggest achievements in life."
@@ -1306,11 +1306,11 @@ msgstr "[_mc_] Heh, peut-être un peu. Mais j'ai besoin d'entrer dans ce placard
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:627 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_fb5c0e1c:
 msgid "[_mc_] Have you heard about the fundraiser?"
-msgstr "[_mc_] Avez-vous entendu parler de la collecte de fonds?"
+msgstr "[_mc_] Avez-vous entendu parler de la collecte de fonds ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:628 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_870ef52f:
 msgid "[_lindsey_s_smile_] Yep, [flora] came flying past me muttering something about a car wash.{space=-50}"
-msgstr "[_lindsey_s_smile_] Yep, [flora] s'est passé devant moi en train de muter quelque chose à propos d'un lavage de voiture. { space=-50 }"
+msgstr "[_lindsey_s_smile_] Yep, [flora] s'est passé devant moi en train de muter quelque chose à propos d'un lavage de voiture. {space=-50}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:629 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_34713029:
 msgid "[_mc_] I need to find some soap, and I'm guessing it's in there."
@@ -1318,7 +1318,7 @@ msgstr "[_mc_] I need to find some soap, and I'm devessing it's in there."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:630 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_adbf3a90:
 msgid "[_mc_] Speaking of, are you coming?"
-msgstr "[_mc_] En parlant, tu viens?"
+msgstr "[_mc_] En parlant, tu viens ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:631 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_826bc7e2:
 msgid "[_lindsey_s_thinking_] I wish I could, but I have a race to prepare for this afternoon."
@@ -1338,7 +1338,7 @@ msgstr "[lindsey] avait un bel avenir devant elle ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:635 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_3562f19f:
 msgid "[_lindsey_s_blush_] But maybe I can help if it's locked?"
-msgstr "[_lindsey_s_blush_] Mais peut-être que je peux m'aider si c'est verrouillé?"
+msgstr "[_lindsey_s_blush_] Mais peut-être que je peux m'aider si c'est verrouillé ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:638 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1367,7 +1367,7 @@ msgstr "[_lindsey_s_flirty_] Whoa !"
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:646 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_369f59a5:
 msgid "She would've swooned as I took a few steps back, and then charged{space=-10}\n"
 "the door!"
-msgstr "Elle aurait gonflé comme j'ai pris quelques pas en arrière, puis chargé { space=-10 }\n"
+msgstr "Elle aurait gonflé comme j'ai pris quelques pas en arrière, puis chargé {space=-10}\n"
 "la porte !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:657 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_90ca7bfd:
@@ -1406,7 +1406,7 @@ msgstr "[_mc_] Merci ! Je l'apprécierais vraiment."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:677 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_5d0e6d87:
 msgid "[_lindsey_s_laughing_] Okay, how about you try this?"
-msgstr "[_lindsey_s_laughing_] Ok, comment vous essayez ça?"
+msgstr "[_lindsey_s_laughing_] Ok, comment vous essayez ça ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:678 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_9fbd10d9:
 msgid "She then pulled a hairpin out of her strawberry locks."
@@ -1422,11 +1422,11 @@ msgstr "Et moi, comme l'idiot que j'étais à l'époque, je l'ai amené jusqu'à
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:681 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_b9f3eb70:
 msgid "[_lindsey_s_skeptical_] Did you just smell my hairpin?"
-msgstr "[_lindsey_s_skeptical_] Avez-vous senti mon épingle à cheveux?"
+msgstr "[_lindsey_s_skeptical_] Avez-vous senti mon épingle à cheveux ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:682 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_97f7bd95:
 msgid "[_mc_] What? No! Of course not!"
-msgstr "[_mc_] Quoi? Non ! Bien sûr que non !"
+msgstr "[_mc_] Quoi ? Non ! Bien sûr que non !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:683 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_b84eb615:
 msgid "[_mc_] I was, err... merely inspecting it."
@@ -1434,7 +1434,7 @@ msgstr "[_mc_] I was, err ... inspecter simplement."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:684 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_3b33104a:
 msgid "[_lindsey_s_flirty_] Oh! Do you think it'll work?"
-msgstr "[_lindsey_s_flirty_] Oh ! Penses-tu que ça va fonctionner?"
+msgstr "[_lindsey_s_flirty_] Oh ! Penses-tu que ça va fonctionner ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:685 #-#-# translate crowdin quest_jo_washed_supplies_janitor_closet_32e49b13:
 msgid "[_mc_] We're about to find out."
@@ -1498,11 +1498,11 @@ msgstr "Alors, mon processus de pensée était quelque chose comme ça ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:721 #-#-# translate crowdin quest_jo_washed_supplies_art_class_79c56976:
 msgid "If sponges were going to be anywhere, it had to be the art classroom.{space=-30}"
-msgstr "Si les éponges allaient être n'importe où, il devait s'agir de la salle de classe de l'art. { space=-30 }"
+msgstr "Si les éponges allaient être n'importe où, il devait s'agir de la salle de classe de l'art. {space=-30}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:722 #-#-# translate crowdin quest_jo_washed_supplies_art_class_b7783f55:
 msgid "People paint with sponges, right?"
-msgstr "Les gens peignent avec des éponges, non?"
+msgstr "Les gens peignent avec des éponges, non ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:723 #-#-# translate crowdin quest_jo_washed_supplies_art_class_af80a485:
 msgid "The art classroom felt so different back then..."
@@ -1518,7 +1518,7 @@ msgstr "Si elle faisait partie de cette chronologie, la conversation aurait prob
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:741 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_8ad0807e:
 msgid "[_mc_] Hey, [jacklyn]."
-msgstr "[_mc_] Hey, [jacklyn]."
+msgstr "[_mc_] Hé, [jacklyn]."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:742 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_b8e705a9:
 msgid "[_jacklyn_s_smile_] Moneybags."
@@ -1526,7 +1526,7 @@ msgstr "[_jacklyn_s_smile_] Moneybags."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:743 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_2f61ef8f:
 msgid "[_mc_] Do you know where I can find any sponges?"
-msgstr "[_mc_] Vous savez où je peux trouver des éponges?"
+msgstr "[_mc_] Vous savez où je peux trouver des éponges ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:744 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_f59a8d81:
 msgid "[_mc_] We need them for the car wash fundraiser that's going down today."
@@ -1538,7 +1538,7 @@ msgstr "Ou plutôt, cette seconde ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:746 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_3c4fba7e:
 msgid "[_jacklyn_s_thinking_] Sponges, huh?"
-msgstr "[_jacklyn_s_thinking_] Éponges, hein?"
+msgstr "[_jacklyn_s_thinking_] Éponges, hein ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:747 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_223baebf:
 msgid "[_jacklyn_s_thinking_] Sure, if the available selection hits your noggin."
@@ -1546,7 +1546,7 @@ msgstr "[_jacklyn_s_thinking_] Sure, si la sélection disponible frappe votre no
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:748 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_f7086306:
 msgid "[_mc_] And where might this nogging-hitting selection be?"
-msgstr "[_mc_] Et où pourrait être cette sélection de coups de nogging?"
+msgstr "[_mc_] Et où pourrait être cette sélection de coups de nogging ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:749 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_01cce4af:
 msgid "[_jacklyn_s_smile_hands_down_] Over in the noggin-hitting cabinet, of course."
@@ -1562,7 +1562,7 @@ msgstr "L'homme, c'est si dur d'avoir sa voix dans ma tête ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:754 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_d596597c:
 msgid "[_jacklyn_s_excited_sponges_] These tit your tat?"
-msgstr "[_jacklyn_s_excited_sponges_] Ces tit votre tat?"
+msgstr "[_jacklyn_s_excited_sponges_] Ces tit votre tat ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:755 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_aa00dc86:
 msgid "Uh, there's way more than I thought there would be."
@@ -1590,19 +1590,19 @@ msgstr "[_jacklyn_s_annoyed_sponges_] Vous ne voulez pas frotter les uns avec le
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:761 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_c9a86e2a:
 msgid "[_mc_] Then why even bring those out?"
-msgstr "[_mc_] Alors pourquoi les sortir?"
+msgstr "[_mc_] Alors pourquoi les sortir ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:762 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_209b1ee5:
 msgid "[_jacklyn_s_laughing_sponges_] An artist needs to see all the options before him. Even the bad ones.{space=-15}"
-msgstr "[_jacklyn_s_laughing_sponges_] Un artiste a besoin de voir toutes les options qui lui sont offertes. Même les mauvaises. { space=-15 }"
+msgstr "[_jacklyn_s_laughing_sponges_] Un artiste a besoin de voir toutes les options qui lui sont offertes. Même les mauvaises. {space=-15}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:763 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_6eaa6102:
 msgid "[_jacklyn_s_laughing_sponges_] Be a baby and give them a spin on me, will you?"
-msgstr "[_jacklyn_s_laughing_sponges_] Soyez un bébé et donnez-leur un spin sur moi, vous?"
+msgstr "[_jacklyn_s_laughing_sponges_] Soyez un bébé et donnez-leur un spin sur moi, vous ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:764 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_5f147f34:
 msgid "[_mc_] Give them a spin... on you?"
-msgstr "[_mc_] Donnez-leur un spin ... sur vous?"
+msgstr "[_mc_] Donnez-leur un spin ... sur vous ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:765 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_fbe50b6f:
 msgid "[_jacklyn_s_excited_sponges_] Yeah, rub one out."
@@ -1615,7 +1615,7 @@ msgstr "[_jacklyn_s_excited_sponges_] Tous, en fait."
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:767 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_1d34acc4:
 msgid "The thing about [jacklyn] is that she probably would've said something{space=-35}\n"
 "like that."
-msgstr "La chose à propos de [jacklyn] c'est qu'elle aurait probablement dit quelque chose de { space=-35 }\n"
+msgstr "La chose à propos de [jacklyn] c'est qu'elle aurait probablement dit quelque chose de {space=-35}\n"
 "comme ça."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:768 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_6e9c3b2b:
@@ -1624,15 +1624,15 @@ msgstr "Elle est tellement sexy."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:769 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_2558dce8:
 msgid "[_mc_] You want me to scrub you with the sponges?"
-msgstr "[_mc_] Vous voulez que je vous raide avec les éponges?"
+msgstr "[_mc_] Vous voulez que je vous raide avec les éponges ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:770 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_673abdde:
 msgid "[_mc_] Can't I just take the two softest ones?"
-msgstr "[_mc_] Je ne peux pas prendre les deux plus molles?"
+msgstr "[_mc_] Je ne peux pas prendre les deux plus molles ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:771 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_4a0fb8e6:
 msgid "[_jacklyn_s_annoyed_sponges_] Do you want to know the truth, or do you want to feel it?"
-msgstr "[_jacklyn_s_annoyed_sponges_] Tu veux savoir la vérité, ou tu veux le sentir?"
+msgstr "[_jacklyn_s_annoyed_sponges_] Tu veux savoir la vérité, ou tu veux le sentir ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:774 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1660,7 +1660,7 @@ msgstr "[_jacklyn_s_angry_] Vous m'avez laissé séchez."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:785 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_ee2881cb:
 msgid "Why did I make [jacklyn] annoyed with me in a daydream?"
-msgstr "Pourquoi est-ce que j'ai fait du [jacklyn] ennuyé avec moi dans un rêve?"
+msgstr "Pourquoi est-ce que j'ai fait du [jacklyn] ennuyé avec moi dans un rêve ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:786 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_35bb805d:
 msgid "I got some issues to figure out..."
@@ -1668,7 +1668,7 @@ msgstr "J'ai quelques problèmes à comprendre ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:787 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_7c19f59b:
 msgid "In fact, why don't I have her naked in my mind? Jesus."
-msgstr "En fait, pourquoi je ne l'ai pas nue dans mon esprit? Jésus."
+msgstr "En fait, pourquoi je ne l'ai pas nue dans mon esprit ? Jésus."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:799 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_2883f898:
 msgid "Much better."
@@ -1712,7 +1712,7 @@ msgstr "Hmm ... elle n'aurait probablement pas dit ça."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:817 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_60c505e6:
 msgid "It would've been something more clever, like... deep-tissue scrub-rub.{space=-30}"
-msgstr "Ça aurait été quelque chose de plus intelligent, comme ... des broussailles de tissus profonds. { space=-30 }"
+msgstr "Ça aurait été quelque chose de plus intelligent, comme ... des broussailles de tissus profonds. {space=-30}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:818 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_ec0dd12e:
 msgid "[_mc_] All right... here goes..."
@@ -1724,7 +1724,7 @@ msgstr "[_jacklyn_s_cringe_sponges_] C'est un buste. Trop molle."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:825 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_0b9e003f:
 msgid "[_mc_] That's good, right?"
-msgstr "[_mc_] C'est bon, non?"
+msgstr "[_mc_] C'est bon, non ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:826 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_3e0b66a6:
 msgid "[_mc_] We can use it for the car wash."
@@ -1744,7 +1744,7 @@ msgstr "C'est un fantasme bizarre. Rubbing [jacklyn] avec éponges."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:830 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_f78d5f6f:
 msgid "Although... I wonder how she would react to a rougher one?"
-msgstr "Bien que ... Je me demande comment elle réagirait à un peu plus rude?"
+msgstr "Bien que ... Je me demande comment elle réagirait à un peu plus rude ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:831 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_863e2b5f:
 msgid "Probably something like this..."
@@ -1756,7 +1756,7 @@ msgstr "[_jacklyn_s_annoyed_sponges_] Whoa ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:838 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_5661e94c:
 msgid "[_mc_] Good whoa? Bad whoa?"
-msgstr "[_mc_] Bon whoa? Bad whoa?"
+msgstr "[_mc_] Bon whoa ? Bad whoa ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:839 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_20cfc997:
 msgid "[_jacklyn_s_annoyed_sponges_] Next one whoa."
@@ -1792,7 +1792,7 @@ msgstr "[_jacklyn_s_excited_sponges_] Rub plus dur, bébé."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:852 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_2447c87a:
 msgid "[_mc_] Excuse me?"
-msgstr "[_mc_] Excusez-moi?"
+msgstr "[_mc_] Excusez-moi ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:853 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_442861cd:
 msgid "Pretending to be surprised in my own fantasy. Classic."
@@ -1828,7 +1828,7 @@ msgstr "Sa main me grime de plus en plus."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:874 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_d8e3deda:
 msgid "What kind of freak enjoys this kind of pain?"
-msgstr "Quel genre de freak aime ce genre de douleur?"
+msgstr "Quel genre de freak aime ce genre de douleur ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:875 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_8348f607:
 msgid "My kind of freak, I guess."
@@ -1840,7 +1840,7 @@ msgstr "[_mc_] [jacklyn]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:881 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_031b64d9:
 msgid "[_jacklyn_s_excited_sponges_] Oh?"
-msgstr "[_jacklyn_s_excited_sponges_] Oh?"
+msgstr "[_jacklyn_s_excited_sponges_] Oh ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:882 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_91fea075:
 msgid "[_jacklyn_s_excited_sponges_] Nice fat roll of quarters."
@@ -1884,11 +1884,11 @@ msgstr "[_jacklyn_s_excited_sponges_] Mon sifflet a été mouillé, donc merci."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:892 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_ba8861fa:
 msgid "[_mc_] Can't we keep going?"
-msgstr "[_mc_] Ne pouvons-nous pas continuer?"
+msgstr "[_mc_] Ne pouvons-nous pas continuer ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:893 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_b8886706:
 msgid "[_jacklyn_s_laughing_sponges_] Would you like to see how many sponges I can fit in my ass?"
-msgstr "[_jacklyn_s_laughing_sponges_] Aimeriez-vous voir combien de éponges je peux intégrer dans mon cul?"
+msgstr "[_jacklyn_s_laughing_sponges_] Aimeriez-vous voir combien de éponges je peux intégrer dans mon cul ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:894 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_4ba707fa:
 msgid "Okay, now it's turning into a wet dream rather than a daydream."
@@ -1936,11 +1936,11 @@ msgstr "[_flora_s_annoyed_] Bien que je sois surprise que vous soyez même sorti
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:925 #-#-# translate crowdin quest_jo_washed_car_wash_5d803dd7:
 msgid "[_mc_] What do you mean? I'm very reliable."
-msgstr "[_mc_] Que voulez-vous dire? Je suis très fiable."
+msgstr "[_mc_] Que voulez-vous dire ? Je suis très fiable."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:926 #-#-# translate crowdin quest_jo_washed_car_wash_a2676422:
 msgid "[_flora_s_eyeroll_] Yeah, yeah, just help me set everything up, okay?"
-msgstr "[_flora_s_eyeroll_] Ouais, ouais, viens juste m'aider à tout mettre en place, d'accord?"
+msgstr "[_flora_s_eyeroll_] Ouais, ouais, viens juste m'aider à tout mettre en place, d'accord ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:927 #-#-# translate crowdin quest_jo_washed_car_wash_772fced0:
 msgid "[_flora_s_eyeroll_] The donors are getting impatient."
@@ -1960,15 +1960,15 @@ msgstr "[_flora_s_cringe_] Arrêt."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:937 #-#-# translate crowdin quest_jo_washed_car_wash_ad48d89c:
 msgid "[_mc_] Why don't you take off your shirt or something to keep them satisfied?{space=-60}"
-msgstr "[_mc_] Pourquoi ne pas enlever votre chemise ou quelque chose pour les garder satisfait? { space=-60 }"
+msgstr "[_mc_] Pourquoi ne pas enlever votre chemise ou quelque chose pour les garder satisfait ? {space=-60}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:938 #-#-# translate crowdin quest_jo_washed_car_wash_033f5969:
 msgid "[_flora_s_annoyed_] Why don't you?"
-msgstr "[_flora_s_annoyed_] Pourquoi n'est-ce pas?"
+msgstr "[_flora_s_annoyed_] Pourquoi n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:939 #-#-# translate crowdin quest_jo_washed_car_wash_b7b50124:
 msgid "[_mc_] Well, we want to keep the donors here, don't we? Not drive them away.{space=-55}"
-msgstr "[_mc_] Eh bien, nous voulons garder les donateurs ici, n'est-ce pas? Ne les éloignez pas. { space=-55 }"
+msgstr "[_mc_] Eh bien, nous voulons garder les donateurs ici, n'est-ce pas ? Ne les éloignez pas. {space=-55}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:940 #-#-# translate crowdin quest_jo_washed_car_wash_0db07b58:
 msgid "[_flora_s_annoyed_] Whatever."
@@ -1980,7 +1980,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:942 #-#-# translate crowdin quest_jo_washed_car_wash_11e9e4d6:
 msgid "[_mc_] So, no bikinis?"
-msgstr "[_mc_] Alors, pas de bikinis?"
+msgstr "[_mc_] Alors, pas de bikinis ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:943 #-#-# translate crowdin quest_jo_washed_car_wash_e657c983:
 msgid "[_flora_s_cringe_] Ugh! Fine!"
@@ -2020,7 +2020,7 @@ msgstr "[_maxine_] C'est beaucoup de voitures. Je ne savais pas que les lave-voi
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:963 #-#-# translate crowdin quest_jo_washed_car_wash_02e44be0:
 msgid "[_mc_] [maxine]?"
-msgstr "[_mc_] [maxine]?"
+msgstr "[_mc_] [maxine] ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:964 #-#-# translate crowdin quest_jo_washed_car_wash_b7536461:
 msgid "I truly didn't expect her to show up."
@@ -2028,11 +2028,11 @@ msgstr "Je ne m'attendais vraiment pas à ce qu'elle se présente."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:965 #-#-# translate crowdin quest_jo_washed_car_wash_8ea607da:
 msgid "Especially not in... {i}that.{/}"
-msgstr "Surtout pas dans ... {i}qui. { / }"
+msgstr "Surtout pas dans ... {i}qui. {/}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:967 #-#-# translate crowdin quest_jo_washed_car_wash_d8f5ed96:
 msgid "[_maxine_] Has no one taught you to expect the unexpected?"
-msgstr "[_maxine_] Est-ce que personne ne vous a appris à vous attendre à l'imprévu?"
+msgstr "[_maxine_] Est-ce que personne ne vous a appris à vous attendre à l'imprévu ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:968 #-#-# translate crowdin quest_jo_washed_car_wash_4ae032c3:
 msgid "Not when a zombie hunting weirdo comes dressed in a hot bikini."
@@ -2100,11 +2100,11 @@ msgstr "[_flora_s_car_wash_s_flora_s_surprised_s_maxine_s_smile_s_kate_s_smile_s
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:992 #-#-# translate crowdin quest_jo_washed_car_wash_af08b612:
 msgid "[_mc_] It's not like I wanted this, okay?"
-msgstr "[_mc_] Ce n'est pas comme si je voulais ça, d'accord?"
+msgstr "[_mc_] Ce n'est pas comme si je voulais ça, d'accord ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:993 #-#-# translate crowdin quest_jo_washed_car_wash_6bb6296a:
 msgid "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_smile_s_hands_on_hips_] So, since you're [kate]'s property, does that mean you won't be coming home?"
-msgstr "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_smile_s_hands_on_hips_] Donc, puisque vous êtes la propriété de [kate], cela signifie-t-il que vous ne rentrerez pas à la maison?"
+msgstr "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_smile_s_hands_on_hips_] Donc, puisque vous êtes la propriété de [kate], cela signifie-t-il que vous ne rentrerez pas à la maison ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:994 #-#-# translate crowdin quest_jo_washed_car_wash_36b4a142:
 msgid "[_kate_] I do have an empty dog house."
@@ -2124,7 +2124,7 @@ msgstr "[_kate_] Ne vous flatter pas."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:999 #-#-# translate crowdin quest_jo_washed_car_wash_3b2bde7a:
 msgid "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_neutral_] You'd probably have to pay the kidnappers for that to happen, [mc].{space=-5}"
-msgstr "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_neutral_] Vous devez probablement payer les kidnappeurs pour que cela se produise, [mc]. { space=-5 }"
+msgstr "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_neutral_] Vous devez probablement payer les kidnappeurs pour que cela se produise, [mc]. {space=-5}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1000 #-#-# translate crowdin quest_jo_washed_car_wash_6434dfd2:
 msgid "[_mc_] Ugh..."
@@ -2153,7 +2153,7 @@ msgstr "[_isabelle_] J'ai entendu dire que vous avez besoin d'aide."
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1013 #-#-# translate crowdin quest_jo_washed_car_wash_7107fa08:
 msgid "She'd be showing off that perfect milky white skin, in an appropriately{space=-40}\n"
 "revealing bikini."
-msgstr "Elle se départirait de la peau blanche laiteuse parfaite, dans un { space=-40 }\n"
+msgstr "Elle se départirait de la peau blanche laiteuse parfaite, dans un {space=-40}\n"
 "révélant des bikini."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1014 #-#-# translate crowdin quest_jo_washed_car_wash_81d02468:
@@ -2162,7 +2162,7 @@ msgstr "[_flora_s_car_wash_s_flora_s_excited_right_s_maxine_s_smile_s_kate_s_neu
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1016 #-#-# translate crowdin quest_jo_washed_car_wash_670b5571:
 msgid "[_isabelle_] Of course, love! Where should I start?"
-msgstr "[_isabelle_] Bien sûr, l'amour ! Où devrais-je commencer?"
+msgstr "[_isabelle_] Bien sûr, l'amour ! Où devrais-je commencer ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1017 #-#-# translate crowdin quest_jo_washed_car_wash_e7498b8b:
 msgid "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_smile_] You can start by sucking [mc]'s dick."
@@ -2178,7 +2178,7 @@ msgstr "Ok, peut-être que c'est un peu au-dessus du sommet."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1020 #-#-# translate crowdin quest_jo_washed_car_wash_bf03cf94:
 msgid "Although, what if [jacklyn] showed up as well?"
-msgstr "Bien que, qu'est-ce que le [jacklyn] s'est montré aussi?"
+msgstr "Bien que, qu'est-ce que le [jacklyn] s'est montré aussi ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1021 #-#-# translate crowdin quest_jo_washed_car_wash_deaa5d91:
 msgid "That would've been something."
@@ -2202,7 +2202,7 @@ msgstr "Bien que, cela n'aurait clairement pas fonctionné le [flora]."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1029 #-#-# translate crowdin quest_jo_washed_car_wash_9ad0d901:
 msgid "[_flora_s_car_wash_s_flora_s_surprised_left_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_annoyed_] J-[jacklyn]?!"
-msgstr "[_flora_s_car_wash_s_flora_s_surprised_left_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_annoyed_] J-[jacklyn]? !"
+msgstr "[_flora_s_car_wash_s_flora_s_surprised_left_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_annoyed_] J-[jacklyn] ? !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1030 #-#-# translate crowdin quest_jo_washed_car_wash_c1a63917:
 msgid "She would have blushed so hard seeing [jacklyn] like this."
@@ -2210,11 +2210,11 @@ msgstr "Elle aurait roué si dur de voir [jacklyn] comme ça."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1032 #-#-# translate crowdin quest_jo_washed_car_wash_def464fd:
 msgid "[_jacklyn_] What's swinging, sister?"
-msgstr "[_jacklyn_] Quoi de sonnant, ma sœur?"
+msgstr "[_jacklyn_] Quoi de sonnant, ma sœur ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1033 #-#-# translate crowdin quest_jo_washed_car_wash_67770030:
 msgid "[_jacklyn_] Let's take this car to school, yeah?"
-msgstr "[_jacklyn_] Laissons cette voiture à l'école, oui?"
+msgstr "[_jacklyn_] Laissons cette voiture à l'école, oui ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1034 #-#-# translate crowdin quest_jo_washed_car_wash_432ffa54:
 msgid "[_flora_s_car_wash_s_flora_s_smile_left_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_left_] Y-yeah, let's do it!"
@@ -2242,7 +2242,7 @@ msgstr "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_neutral_s_i
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1040 #-#-# translate crowdin quest_jo_washed_car_wash_a2ecf71c:
 msgid "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_] Can you man the hose?"
-msgstr "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_] Pouvez-vous l'homme?"
+msgstr "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_] Pouvez-vous l'homme ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1041 #-#-# translate crowdin quest_jo_washed_car_wash_a95e6717:
 msgid "The air was so hot that day, she probably couldn't wait to get wet."
@@ -2290,7 +2290,7 @@ msgstr "[_flora_s_car_wash_s_flora_s_annoyed_s_maxine_s_surprised_s_kate_s_neutr
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1057 #-#-# translate crowdin quest_jo_washed_car_wash_93981897:
 msgid "[_mc_] How about I try to hit your open mouth instead?"
-msgstr "[_mc_] Comment j'essaie de frapper votre bouche ouverte à la place?"
+msgstr "[_mc_] Comment j'essaie de frapper votre bouche ouverte à la place ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1058 #-#-# translate crowdin quest_jo_washed_car_wash_bb5d8c1f:
 msgid "[_flora_s_car_wash_s_flora_s_cringe_s_maxine_s_surprised_s_kate_s_neutral_s_isabelle_s_surprised_s_jacklyn_s_smile_s_hose_dripping_s_wet_] Don't you even—"
@@ -2330,7 +2330,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1068 #-#-# translate crowdin quest_jo_washed_car_wash_2e25dfd3:
 msgid "[_mc_] Where's [jo]?"
-msgstr "[_mc_] Où est le [jo]?"
+msgstr "[_mc_] Où est le [jo] ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1069 #-#-# translate crowdin quest_jo_washed_car_wash_433c6361:
 msgid "[_flora_s_car_wash_s_flora_s_surprised_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_] I'm not sure..."
@@ -2370,7 +2370,7 @@ msgstr "... mais le jour ne se sentaient pas complet sans [jo]."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1079 #-#-# translate crowdin quest_jo_washed_car_wash_168aac22:
 msgid "[_mc_] Any idea where she might've gone?"
-msgstr "[_mc_] Toute idée où elle aurait pu aller?"
+msgstr "[_mc_] Toute idée où elle aurait pu aller ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1080 #-#-# translate crowdin quest_jo_washed_car_wash_2de97b20:
 msgid "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_] Sorry, no clue."
@@ -2390,7 +2390,7 @@ msgstr "[_mc_] Fine, mais la traiter comme vous traiterait mon-"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1084 #-#-# translate crowdin quest_jo_washed_car_wash_ff73ecbc:
 msgid "[_flora_s_car_wash_s_flora_s_annoyed_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_] Why do you have to make everything weird?"
-msgstr "[_flora_s_car_wash_s_flora_s_annoyed_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_] Pourquoi faire tout ce qui est bizarre?"
+msgstr "[_flora_s_car_wash_s_flora_s_annoyed_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_] Pourquoi faire tout ce qui est bizarre ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1095 #-#-# translate crowdin quest_jo_washed_insecure_entrance_hall_176f3c10:
 msgid "So, I left the land of wet boobs and honey, and I went back inside to look for [jo]."
@@ -2450,7 +2450,7 @@ msgstr "Alors, je me suis sidéré, en espérant contre les chances que ce n'ét
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1119 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_1d0ce654:
 msgid "[_mc_] [jo], is that you?"
-msgstr "[_mc_] [jo], c'est vous?"
+msgstr "[_mc_] [jo], c'est vous ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1120 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_c83e7235:
 msgid "[_jo_] ..."
@@ -2466,7 +2466,7 @@ msgstr "Étrange à quel point la tristesse est associée à la honte."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1126 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_378e0bde:
 msgid "[_jo_s_embarrassed_] [mc]?! What are you doing in here?!"
-msgstr "[_jo_s_embarrassed_] [mc]? ! Qu'est-ce que tu fais ici? !"
+msgstr "[_jo_s_embarrassed_] [mc] ? ! Qu'est-ce que tu fais ici ? !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1127 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_0b13e67b:
 msgid "[_jo_s_embarrassed_] You're not allowed in this bathroom!"
@@ -2480,15 +2480,15 @@ msgstr "Comme elle est sortie de l'étal, je me suis souvenu de penser ..."
 msgid "What on god's beautiful, voluptuous green earth am I seeing\n"
 "right now?"
 msgstr "Qu'est-ce que la belle terre verte voluptueuse du dieu je vois\n"
-"en ce moment?"
+"en ce moment ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1130 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_7aae0e6f:
 msgid "What did I just walk in on?"
-msgstr "Qu'est-ce que je viens de marcher?"
+msgstr "Qu'est-ce que je viens de marcher ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1131 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_7b02fe78:
 msgid "And why did I wait so long?!"
-msgstr "Et pourquoi j'ai attendu si longtemps?"
+msgstr "Et pourquoi j'ai attendu si longtemps ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1132 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_f7ee7098:
 msgid "[_mc_] I came!"
@@ -2496,7 +2496,7 @@ msgstr "[_mc_] Je suis venu !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1133 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_16631b7e:
 msgid "[_jo_s_embarrassed_] What?!"
-msgstr "[_jo_s_embarrassed_] Quoi? !"
+msgstr "[_jo_s_embarrassed_] Quoi ? !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1134 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_e9f9ed3a:
 msgid "[_mc_] Looking for you!"
@@ -2513,7 +2513,7 @@ msgstr "[_jo_s_embarrassed_]..."
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1137 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_3e56e29d:
 msgid "[_mc_] Err, we've been working on the fundraiser for a while and got worried{space=-25}\n"
 "when you never showed up."
-msgstr "[_mc_] Err, nous avons travaillé sur la collecte de fonds pendant un certain temps et s'est inquiété de { space=-25 }\n"
+msgstr "[_mc_] Err, nous avons travaillé sur la collecte de fonds pendant un certain temps et s'est inquiété de {space=-25}\n"
 "quand vous ne vous êtes jamais montré."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1138 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_86a40d18:
@@ -2530,7 +2530,7 @@ msgstr "[_jo_s_annoyed_] Je crois que je t'ai mieux élevé que ça."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1141 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_b2b9ed88:
 msgid "[_mc_] Sorry, [jo]. [flora] and I were just afraid something might've happened.{space=-5}"
-msgstr "[_mc_] Désolé, [jo]. [flora] et j'avais juste peur que quelque chose soit arrivé. { space=-5 }"
+msgstr "[_mc_] Désolé, [jo]. [flora] et j'avais juste peur que quelque chose soit arrivé. {space=-5}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1142 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_933ae2d7:
 msgid "I remember her glasses were fogged up and her mascara slightly smudged."
@@ -2542,19 +2542,19 @@ msgstr "Je l'avais entendue pleurer la nuit parfois tout au long de mon enfance,
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1144 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_efd9a84f:
 msgid "[_jo_s_sad_] I appreciate your concern, honey, but nothing happened, okay?"
-msgstr "[_jo_s_sad_] J'apprécie votre inquiétude, chérie, mais rien ne s'est passé, d'accord?"
+msgstr "[_jo_s_sad_] J'apprécie votre inquiétude, chérie, mais rien ne s'est passé, d'accord ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1145 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_5bcfe643:
 msgid "[_mc_] If nothing happened, then why were you hiding in here?"
-msgstr "[_mc_] Si rien ne s'est passé, alors pourquoi se caches-tu ici?"
+msgstr "[_mc_] Si rien ne s'est passé, alors pourquoi se caches-tu ici ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1146 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_478ec7d4:
 msgid "[_jo_s_annoyed_] Who says I'm hiding?"
-msgstr "[_jo_s_annoyed_] Qui dit que je me cache?"
+msgstr "[_jo_s_annoyed_] Qui dit que je me cache ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1147 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_6e1f843b:
 msgid "[_jo_s_annoyed_] Can't a woman simply change without someone barging in?"
-msgstr "[_jo_s_annoyed_] Une femme ne peut pas simplement changer sans que quelqu'un se négocie?"
+msgstr "[_jo_s_annoyed_] Une femme ne peut pas simplement changer sans que quelqu'un se négocie ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1148 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_218b706a:
 msgid "[_mc_] I heard you crying..."
@@ -2598,11 +2598,11 @@ msgstr "[_jo_s_embarrassed_] Certainement pas devant les autres étudiants ... c
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1158 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_3d996037:
 msgid "[_mc_] What are you talking about?"
-msgstr "[_mc_] De quoi parlez-vous?"
+msgstr "[_mc_] De quoi parlez-vous ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1159 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_a62c26bb:
 msgid "[_mc_] Weight? Are you crazy?"
-msgstr "[_mc_] Poids? Es-tu fou?"
+msgstr "[_mc_] Poids ? Es-tu fou ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1160 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_1d3bcee1:
 msgid "[_jo_s_thinking_] [mc], you don't have to do that..."
@@ -2666,7 +2666,7 @@ msgstr "[_jo_s_blush_] Le truc couvre à peine ce dont il a besoin !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1178 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_a623cc5b:
 msgid "But that was the point, wasn't it?"
-msgstr "Mais c'était le point, n'est-ce pas?"
+msgstr "Mais c'était le point, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1179 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_6abe14f6:
 msgid "If I sneezed too hard, it'd probably blow off her top."
@@ -2694,7 +2694,7 @@ msgstr "[_mc_] En plus, [jo], c'est un lavage de voiture !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1185 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_3e83d55f:
 msgid "[_mc_] Isn't the whole point to get wet in a swimsuit and soak in the sun?"
-msgstr "[_mc_] N'est-ce pas le point d'être mouillé dans un maillot de bain et de tremper au soleil?"
+msgstr "[_mc_] N'est-ce pas le point d'être mouillé dans un maillot de bain et de tremper au soleil ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1186 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_5d09693c:
 msgid "[_jo_s_eyeroll_] No, the whole point is to make money."
@@ -2704,7 +2704,7 @@ msgstr "[_jo_s_eyeroll_] Non, le but est de gagner de l'argent."
 msgid "[_mc_] And don't you think we'll make more money if you go out\n"
 "wearing that?"
 msgstr "[_mc_] Et vous ne pensez pas que nous allons faire plus d'argent si vous sortons de\n"
-"en portant ça?"
+"en portant ça ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1188 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_241c00d9:
 msgid "[_jo_s_sarcastic_] ..."
@@ -2749,7 +2749,7 @@ msgstr "Je suppose que c'est une partie de la raison pour laquelle il s'agit d'u
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1206 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_dcaa03d1:
 msgid "It's an embarrassing thing to admit, but I wasn't actually this mature{space=-10}\n"
 "back then."
-msgstr "C'est une chose embarrassante à admettre, mais je n'étais pas vraiment cette maturité { space=-10 }\n"
+msgstr "C'est une chose embarrassante à admettre, mais je n'étais pas vraiment cette maturité {space=-10}\n"
 "à l'époque."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1207 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_d8b1a6a2:
@@ -2792,7 +2792,7 @@ msgstr "[_jo_s_embarrassed_] Je sais que, [mc]!"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1218 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_338522d7:
 msgid "[_jo_s_embarrassed_] I would've been outside already otherwise, okay?"
-msgstr "[_jo_s_embarrassed_] J'aurais déjà été dehors, d'accord?"
+msgstr "[_jo_s_embarrassed_] J'aurais déjà été dehors, d'accord ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1219 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_b2f4a935:
 msgid "[_mc_] I'm sorry, [jo]."
@@ -2812,7 +2812,7 @@ msgstr "[_jo_s_blush_] J'apprécie vraiment votre aide avec la collecte de fonds
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1223 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_45115cf7:
 msgid "[_jo_s_blush_] Go ahead and get back to the fundraiser now, all right?"
-msgstr "[_jo_s_blush_] Allez-y et reventez à la collecte de fonds maintenant, d'accord?"
+msgstr "[_jo_s_blush_] Allez-y et reventez à la collecte de fonds maintenant, d'accord ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1224 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_516544d6:
 msgid "[_mc_] The thing is, we really need your help..."
@@ -2824,7 +2824,7 @@ msgstr "[_mc_] Il y a beaucoup trop de voitures. Nous serons dehors toute la nui
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1226 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_47e9c1cd:
 msgid "[_jo_s_eyeroll_] Well, what am I supposed to do?"
-msgstr "[_jo_s_eyeroll_] Eh bien, que suis-je censé faire?"
+msgstr "[_jo_s_eyeroll_] Eh bien, que suis-je censé faire ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1227 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_43d7a458:
 msgid "[_mc_] I think you should just come anyway. It will be a bit embarrassing, but you'll survive."
@@ -2862,7 +2862,7 @@ msgstr "[_jo_s_worried_] La danse a été une chose aussi longtemps que l'école
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1235 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_731a441e:
 msgid "[_jo_s_worried_] What kind of principal would I be if I let my own issues get in the way of that?"
-msgstr "[_jo_s_worried_] Quel genre de mandant je serais si je laissais mes propres problèmes prendre la forme de ça?"
+msgstr "[_jo_s_worried_] Quel genre de mandant je serais si je laissais mes propres problèmes prendre la forme de ça ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1236 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_77cbcaea:
 msgid "[_mc_] That's the spirit! Let's go!"
@@ -2894,7 +2894,7 @@ msgstr "[_mc_] Donne-moi le tuyau !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1258 #-#-# translate crowdin quest_jo_washed_fundraiser_e64a4d92:
 msgid "[_flora_s_car_wash_s_flora_s_hose_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_wet_s_new_cars_] Saying please wouldn't hurt, you know?"
-msgstr "[_flora_s_car_wash_s_flora_s_hose_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_wet_s_new_cars_] S'il vous plaît, ne vous faites pas de mal, vous savez?"
+msgstr "[_flora_s_car_wash_s_flora_s_hose_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_wet_s_new_cars_] S'il vous plaît, ne vous faites pas de mal, vous savez ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1259 #-#-# translate crowdin quest_jo_washed_fundraiser_73b9a2ef:
 msgid "[_mc_] Pretty please with melons on top."
@@ -2906,7 +2906,7 @@ msgstr "[_flora_s_car_wash_s_flora_s_hose_s_maxine_s_smile_s_kate_s_neutral_s_is
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1264 #-#-# translate crowdin quest_jo_washed_fundraiser_2022e4a8:
 msgid "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_s_new_cars_] What took you so long, anyway?"
-msgstr "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_s_new_cars_] Qu'est-ce qui t'a pris si longtemps, de toute façon?"
+msgstr "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_s_new_cars_] Qu'est-ce qui t'a pris si longtemps, de toute façon ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1265 #-#-# translate crowdin quest_jo_washed_fundraiser_f82f86f0:
 msgid "[_mc_] I had to search the school for [jo]."
@@ -2914,7 +2914,7 @@ msgstr "[_mc_] I had to search the school for [jo]."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1266 #-#-# translate crowdin quest_jo_washed_fundraiser_db0a335e:
 msgid "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_s_new_cars_] Was something wrong?"
-msgstr "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_s_new_cars_] Quelque chose ne va pas?"
+msgstr "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_s_new_cars_] Quelque chose ne va pas ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1267 #-#-# translate crowdin quest_jo_washed_fundraiser_c14c584c:
 msgid "[_mc_] Well..."
@@ -2930,11 +2930,11 @@ msgstr "[_jo_] Just, err ... some administrative stuff I had to take care of !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1273 #-#-# translate crowdin quest_jo_washed_fundraiser_1d8133ee:
 msgid "[_flora_s_car_wash_s_flora_s_surprised_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_jo_s_smile_s_hose_dripping_s_wet_s_new_cars_] What the hell are—"
-msgstr "[_flora_s_car_wash_s_flora_s_surprised_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_jo_s_smile_s_hose_dripping_s_wet_s_new_cars_] Qu'est-ce que l'enfer?"
+msgstr "[_flora_s_car_wash_s_flora_s_surprised_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_jo_s_smile_s_hose_dripping_s_wet_s_new_cars_] Qu'est-ce que l'enfer ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1274 #-#-# translate crowdin quest_jo_washed_fundraiser_4a699106:
 msgid "[_mc_] ...we doing just standing around?!"
-msgstr "[_mc_] ... on se tient debout? !"
+msgstr "[_mc_] ... on se tient debout ? !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1275 #-#-# translate crowdin quest_jo_washed_fundraiser_7e9dd3aa:
 msgid "[_mc_] Let's get this show on the road!"
@@ -2974,7 +2974,7 @@ msgstr "[_mc_] Je vois de la saleté à droite, [jo]!"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1294 #-#-# translate crowdin quest_jo_washed_fundraiser_7105eb19:
 msgid "[_jo_s_car_wash_s_jo_s_surprised_s_hose_dripping_] Huh? Where?"
-msgstr "[_jo_s_car_wash_s_jo_s_surprised_s_hose_dripping_] Huh? Où?"
+msgstr "[_jo_s_car_wash_s_jo_s_surprised_s_hose_dripping_] Huh ? Où ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1295 #-#-# translate crowdin quest_jo_washed_fundraiser_3845549c:
 msgid "[_jo_s_car_wash_s_jo_s_smile_s_bending_over_s_hose_dripping_] Oh, I see it! Thank you, honey!"
@@ -2988,7 +2988,7 @@ msgstr "Pendant un moment, je pensais que son cul enferrait ce bikini\n"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1297 #-#-# translate crowdin quest_jo_washed_fundraiser_c3dd70a5:
 msgid "I mean, who designed that thing anyway?"
-msgstr "Je veux dire, qui a conçu cette chose de toute façon?"
+msgstr "Je veux dire, qui a conçu cette chose de toute façon ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1298 #-#-# translate crowdin quest_jo_washed_fundraiser_c13bd5b4:
 msgid "Must've been a true genius in string theory."
@@ -3024,7 +3024,7 @@ msgstr "Parfois, vous n'avez qu'à vouloir dire !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1306 #-#-# translate crowdin quest_jo_washed_fundraiser_bb9a621a:
 msgid "I had all of this power in my hands, what kind of person would I have been if I squandered it?"
-msgstr "J'avais tout ce pouvoir dans mes mains, quel genre de personne ai-je été si je le dilapirais?"
+msgstr "J'avais tout ce pouvoir dans mes mains, quel genre de personne ai-je été si je le dilapirais ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1307 #-#-# translate crowdin quest_jo_washed_fundraiser_bca5a32e:
 msgid "[_mc_] You're doing great, [jo]!"
@@ -3150,7 +3150,7 @@ msgstr "C'était une chose glorieuse à témoigner."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1341 #-#-# translate crowdin quest_jo_washed_fundraiser_96bb6e68:
 msgid "Getting a woman off from ten feet away... surely, I was breaking some sort of obscure record?"
-msgstr "Faire sortir une femme de dix pieds de distance ... sûrement, j'étais en train de briser une sorte d'obscur record?"
+msgstr "Faire sortir une femme de dix pieds de distance ... sûrement, j'étais en train de briser une sorte d'obscur record ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1342 #-#-# translate crowdin quest_jo_washed_fundraiser_7b1fbd9f:
 msgid "Either way, if it went on for much longer, my dick was going to rip through my pants."
@@ -3194,7 +3194,7 @@ msgstr "Ses genoux tremblaient. Elle était à peine capable de se tenir au bout
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1353 #-#-# translate crowdin quest_jo_washed_fundraiser_b0dd2828:
 msgid "[_mc_] Are you okay, [jo]?"
-msgstr "[_mc_] Etes-vous d'accord, [jo]?"
+msgstr "[_mc_] Etes-vous d'accord, [jo] ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1354 #-#-# translate crowdin quest_jo_washed_fundraiser_017b70ac:
 msgid "[_jo_s_car_wash_s_jo_s_aftermath_s_covering_up_s_hose_dripping_s_wet_] I... I think so..."
@@ -3206,7 +3206,7 @@ msgstr "[_jo_s_car_wash_s_jo_s_aftermath_s_covering_up_s_hose_dripping_s_wet_] C
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1356 #-#-# translate crowdin quest_jo_washed_fundraiser_ee27e019:
 msgid "[_mc_] Here, let's get you inside and wrapped up in a towel, all right?"
-msgstr "[_mc_] Ici, allons vous chercher à l'intérieur et enroulé dans une serviette, d'accord?"
+msgstr "[_mc_] Ici, allons vous chercher à l'intérieur et enroulé dans une serviette, d'accord ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1357 #-#-# translate crowdin quest_jo_washed_fundraiser_e59ce6be:
 msgid "[_jo_s_car_wash_s_jo_s_aftermath_s_covering_up_s_hose_dripping_s_wet_] T-thank you... sweetie..."
@@ -3254,7 +3254,7 @@ msgstr "Elle était si heureuse, et encore complètement trempé."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1384 #-#-# translate crowdin quest_jo_washed_fundraiser_b3d0f92d:
 msgid "[_mc_] Pretty successful fundraiser, eh?"
-msgstr "[_mc_] Pretty fructueuse collecte de fonds, hein?"
+msgstr "[_mc_] Pretty fructueuse collecte de fonds, hein ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1385 #-#-# translate crowdin quest_jo_washed_fundraiser_f21b3296:
 msgid "[_flora_s_neutral_] Pretty successful, even if it did get a little weird."
@@ -3270,7 +3270,7 @@ msgstr "Hot et inoubliable en serait une autre."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1388 #-#-# translate crowdin quest_jo_washed_fundraiser_32b2d555:
 msgid "[_mc_] How much did we end up making?"
-msgstr "[_mc_] Combien avons-nous fini par faire?"
+msgstr "[_mc_] Combien avons-nous fini par faire ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1389 #-#-# translate crowdin quest_jo_washed_fundraiser_e6c5254b:
 msgid "[_flora_s_neutral_] You'll have to ask [jo]. I just handed her the bucket of money."
@@ -3282,7 +3282,7 @@ msgstr "[_flora_s_neutral_] Mais c'était un seau très complet."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1391 #-#-# translate crowdin quest_jo_washed_fundraiser_1f0c89f7:
 msgid "[_mc_] So, you're saying if there's ever another car wash, I'm the first person you're going to call?"
-msgstr "[_mc_] Alors, vous dites que s'il y a un autre lavage de voiture, je suis la première personne que vous allez appeler?"
+msgstr "[_mc_] Alors, vous dites que s'il y a un autre lavage de voiture, je suis la première personne que vous allez appeler ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1392 #-#-# translate crowdin quest_jo_washed_fundraiser_0df27dfd:
 msgid "[_flora_s_confident_] You did handle the hose with skill..."
@@ -3290,7 +3290,7 @@ msgstr "[_flora_s_confident_] Vous avez manipulé le tuyau avec compétence ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1393 #-#-# translate crowdin quest_jo_washed_fundraiser_895f6ae4:
 msgid "[_mc_] Is that a yes?"
-msgstr "[_mc_] Est-ce un oui?"
+msgstr "[_mc_] Est-ce un oui ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1394 #-#-# translate crowdin quest_jo_washed_fundraiser_05918039:
 msgid "[_flora_s_concerned_] Some would say a suspicious amount of skill..."
@@ -3298,7 +3298,7 @@ msgstr "[_flora_s_concerned_] Certains diraient une quantité suspecte de compé
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1395 #-#-# translate crowdin quest_jo_washed_fundraiser_d14a3201:
 msgid "[_mc_] Is that a crime?"
-msgstr "[_mc_] Est-ce un crime?"
+msgstr "[_mc_] Est-ce un crime ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1396 #-#-# translate crowdin quest_jo_washed_fundraiser_0c225719:
 msgid "[_flora_s_concerned_] It should be."
@@ -3310,7 +3310,7 @@ msgstr "[_mc_] La pratique est la seule façon de s'améliorer à quelque chose,
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1398 #-#-# translate crowdin quest_jo_washed_fundraiser_37bf3ea6:
 msgid "[_mc_] Maybe I could teach you some day?"
-msgstr "[_mc_] Peut-être que je pourrais t'apprendre un jour?"
+msgstr "[_mc_] Peut-être que je pourrais t'apprendre un jour ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1399 #-#-# translate crowdin quest_jo_washed_fundraiser_99b4394a:
 msgid "[_flora_s_angry_] Maybe stick to washing cars."
