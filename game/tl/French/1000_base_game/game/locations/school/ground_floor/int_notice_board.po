@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:59\n"
+"PO-Revision-Date: 2024-02-14 16:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_notice_board.rpy:46 #-#-# translate crowdin school_ground_floor_notice_board_interact_two_21aee5c7:
 msgid "{i}\"Make a real queen rule the prom this year. Vote for [kate]!\"{/}"
-msgstr "{i}\" Make a real queen rule the prom this year. Votez pour [kate]! \" {/}"
+msgstr "{i}\"Faites en sorte qu'une vraie reine gouverne le bal de fin d'année cette année. Votez pour [kate] !\"{/}"
 
 # game/1000_base_game/game/locations/school/ground_floor/int_notice_board.rpy:47 #-#-# translate crowdin school_ground_floor_notice_board_interact_two_ed15b9c6:
 msgid "Oh, boy. They're starting early this year."
