@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:52\n"
+"PO-Revision-Date: 2024-02-14 10:47\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:75 #-#-# translate crowdin school_hook_up_table_power_supply_interact_0ffe1f1b:
 msgid "[_mc_] Okay, I think we can plug this in now..."
@@ -26,7 +26,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:89 #-#-# translate crowdin school_hook_up_table_power_supply_interact_35ab8f09:
 msgid "[_mc_] How's that?"
-msgstr "[_mc_] Comment ça?"
+msgstr "[_mc_] Comment ça ?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:92 #-#-# translate crowdin school_hook_up_table_power_supply_interact_80f81d2a:
 msgid "[_maxine_] Mmmph..."
@@ -38,7 +38,7 @@ msgstr "[_maxine_] C'est. .. q-assez profond ..."
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:95 #-#-# translate crowdin school_hook_up_table_power_supply_interact_ad1f645e:
 msgid "[_mc_] You didn't like that? I mean, the transmitter is in your colon somewhere.{space=-80}"
-msgstr "[_mc_] Vous n'aimais pas ça? Je veux dire, l'émetteur est dans votre colon quelque part. { space=-80 }"
+msgstr "[_mc_] Vous n'aimais pas ça ? Je veux dire, l'émetteur est dans votre colon quelque part. {space=-80}"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:98 #-#-# translate crowdin school_hook_up_table_power_supply_interact_80f81d2a_1:
 msgid "[_maxine_] Mmmph..."
@@ -50,11 +50,11 @@ msgstr "[_maxine_] Oui, mais ..."
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:101 #-#-# translate crowdin school_hook_up_table_power_supply_interact_c21bb729:
 msgid "[_mc_] It's still not connected, is it? Maybe it needs more conductivity?"
-msgstr "[_mc_] Il n'est toujours pas connecté, n'est-ce pas? Peut-être qu'il a besoin de plus de conductivité?"
+msgstr "[_mc_] Il n'est toujours pas connecté, n'est-ce pas ? Peut-être qu'il a besoin de plus de conductivité ?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:127 #-#-# translate crowdin school_hook_up_table_watermelon_cut_slice_table_f339403e:
 msgid "[_mc_] How about a snack?"
-msgstr "[_mc_] Comment prendre une collation?"
+msgstr "[_mc_] Comment prendre une collation ?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:129 #-#-# translate crowdin school_hook_up_table_watermelon_cut_slice_table_2b35b6fe:
 msgid "[_mc_] ..."
@@ -66,7 +66,7 @@ msgstr "[_maxine_] Mmmph !"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:133 #-#-# translate crowdin school_hook_up_table_watermelon_cut_slice_table_437a7ef2:
 msgid "[_mc_] What's that? You want the watermelon in your butt?"
-msgstr "[_mc_] Qu'est-ce que c'est? Tu veux la pastèque dans ton cul?"
+msgstr "[_mc_] Qu'est-ce que c'est ? Tu veux la pastèque dans ton cul ?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:137 #-#-# translate crowdin school_hook_up_table_watermelon_cut_slice_ass_23e9e0ea:
 msgid "[_mc_] I think you've talked enough."
@@ -90,7 +90,7 @@ msgstr "[_maxine_] Mmmph !"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:155 #-#-# translate crowdin school_hook_up_table_watermelon_interact_4f1d18b5:
 msgid "[_maxine_] What?! No! That doesn't go there!"
-msgstr "[_maxine_] Quoi? ! Non ! Ça ne va pas là !"
+msgstr "[_maxine_] Quoi ? ! Non ! Ça ne va pas là !"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:156 #-#-# translate crowdin school_hook_up_table_watermelon_interact_06933e99:
 msgid "[_mc_] Where there's a will... and enough vaseline... there's a way!"
@@ -106,7 +106,7 @@ msgstr "[_maxine_] Non, c'est tout faux ! Vous le gâchez !"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:186 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_mouth_3bec4a88:
 msgid "[_mc_] Maybe some more conductivity wouldn't hurt?"
-msgstr "[_mc_] Peut-être qu'une plus grande conductivité ne ferait pas de mal?"
+msgstr "[_mc_] Peut-être qu'une plus grande conductivité ne ferait pas de mal ?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:191 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_mouth_5574ab40:
 msgid "[_maxine_] Hnngh!"
@@ -114,7 +114,7 @@ msgstr "[_maxine_] Hnngh !"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:192 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_mouth_265a42cf:
 msgid "[_mc_] What? We need the electricity to reach the transmitter."
-msgstr "[_mc_] Quoi? Nous avons besoin de l'électricité pour atteindre l'émetteur."
+msgstr "[_mc_] Quoi ? Nous avons besoin de l'électricité pour atteindre l'émetteur."
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:193 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_mouth_48e9b081:
 msgid "[_mc_] Electricity travels well through liquids like watermelon juice."
@@ -126,7 +126,7 @@ msgstr "[_maxine_] You're ... ugh ... right ..."
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:197 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_mouth_cdfecab6:
 msgid "[_mc_] Maybe some more juices?"
-msgstr "[_mc_] Peut-être plus de jus?"
+msgstr "[_mc_] Peut-être plus de jus ?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:202 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_mouth_f7d2c021:
 msgid "[_maxine_] Ooooh!"
@@ -150,7 +150,7 @@ msgstr "[_maxine_] Owww !"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:213 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_mouth_11e89ad6:
 msgid "[_mc_] I have a question for you — do you like tasting your own ass?"
-msgstr "[_mc_] I have a question for you-do you like tasting your own ass?"
+msgstr "[_mc_] I have a question for you-do you like tasting your own ass ?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:215 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_mouth_958f5c64:
 msgid "[_maxine_] That is not—"
@@ -174,7 +174,7 @@ msgstr "[_mc_] Sounds like a yes to me."
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:232 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_ass_366322ed:
 msgid "[_maxine_] How's... it looking?"
-msgstr "[_maxine_] Comment ça va?"
+msgstr "[_maxine_] Comment ça va ?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:233 #-#-# translate crowdin school_hook_up_table_watermelon_slice_interact_ass_52259eb6:
 msgid "[_mc_] I think we've got plenty of conductivity now."
@@ -194,7 +194,7 @@ msgstr "[_mc_] Je suis d'accord. Trop parler à nouveau."
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:262 #-#-# translate crowdin school_hook_up_table_vr_goggles_interact_be2b6b95:
 msgid "[_mc_] Is this thing even on?"
-msgstr "[_mc_] Est-ce que c'est encore le cas?"
+msgstr "[_mc_] Est-ce que c'est encore le cas ?"
 
 # game/1000_base_game/game/locations/school/clubroom/int_hook_up_table.rpy:265 #-#-# translate crowdin school_hook_up_table_vr_goggles_interact_59daef68:
 msgid "[_maxine_] Mmmph!"
