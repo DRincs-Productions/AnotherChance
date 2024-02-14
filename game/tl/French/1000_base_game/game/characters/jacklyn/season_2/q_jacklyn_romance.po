@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:11\n"
+"PO-Revision-Date: 2024-02-14 17:21\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:3 #-#-# translate crowdin quest_jacklyn_romance_start_05c9661d:
 msgid "[_jacklyn_s_excited_] There he is! Mister art deco himself."
@@ -673,11 +673,11 @@ msgstr "[_flora_s_afraid_]..."
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:232 #-#-# translate crowdin quest_jacklyn_romance_flora_645625b9:
 msgid "[_flora_s_afraid_] What has gotten into you?"
-msgstr "[Qu'est-ce qui te prend ?"
+msgstr "[_flora_s_afraid_] Qu'est-ce qui te prend ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:233 #-#-# translate crowdin quest_jacklyn_romance_flora_4005ad11:
 msgid "[_flora_s_afraid_] I don't think I like it."
-msgstr "[Je ne pense pas que j'aime ça."
+msgstr "[_flora_s_afraid_] Je ne pense pas que j'aime ça."
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:234 #-#-# translate crowdin quest_jacklyn_romance_flora_03c57450:
 msgid "[_mc_] That's okay. I just want you to know that despite everything, I really appreciate you."
@@ -685,7 +685,7 @@ msgstr "[Ce n'est pas grave. Je veux juste que tu saches que malgré tout, je t'
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:236 #-#-# translate crowdin quest_jacklyn_romance_flora_55a3a1b5:
 msgid "[_flora_s_embarrassed_] Point taken! You can stop now!"
-msgstr "[_flora_s_embarrassé_] J'ai compris ! Vous pouvez arrêter maintenant !"
+msgstr "[_flora_s_embarrassed_] J'ai compris ! Vous pouvez arrêter maintenant !"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:237 #-#-# translate crowdin quest_jacklyn_romance_flora_f3196b40:
 msgid "[_mc_] Anyway, I had a question for you."
@@ -693,7 +693,7 @@ msgstr "[Quoi qu'il en soit, j'avais une question à vous poser."
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:238 #-#-# translate crowdin quest_jacklyn_romance_flora_c6cde2be:
 msgid "[_flora_s_thinking_] You're really pushing your luck today, aren't you?"
-msgstr "[Vous poussez vraiment votre chance aujourd'hui, n'est-ce pas ?"
+msgstr "[_flora_s_thinking_] Vous poussez vraiment votre chance aujourd'hui, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:239 #-#-# translate crowdin quest_jacklyn_romance_flora_4d3bb0dd:
 msgid "[_mc_] Well, I'm feeling lucky."
@@ -737,7 +737,7 @@ msgstr "[Et un non-monstre saurait où je peux me procurer un costume maintenant
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:249 #-#-# translate crowdin quest_jacklyn_romance_flora_808604de:
 msgid "[_flora_s_afraid_] ...tactical manipulation?!"
-msgstr "[... manipulation tactique ? !"
+msgstr "[_flora_s_afraid_] ... manipulation tactique ?!"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:250 #-#-# translate crowdin quest_jacklyn_romance_flora_0c48a41d:
 msgid "[_mc_] What can I say? I learned from the best."
@@ -1577,7 +1577,7 @@ msgstr "[Je cherchais quelque chose."
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:590 #-#-# translate crowdin quest_jacklyn_romance_hide_and_seek_school_ground_floor_west_upon_leaving_5153c9b4:
 msgid "[_jo_s_thinking_] And what is that?"
-msgstr "[Et qu'est-ce que c'est ?"
+msgstr "[_jo_s_thinking_] Et qu'est-ce que c'est ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:593 #-#-# translate crowdin quest_jacklyn_romance_hide_and_seek_school_ground_floor_west_upon_leaving_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1969,7 +1969,7 @@ msgstr "Il ne me reste plus qu'à attendre qu'elle me donne plus d'informations.
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:753 #-#-# translate crowdin quest_jacklyn_romance_suit_done_ff1a8ff3:
 msgid "[_flora_s_embarrassed_] How could you, [mc]?!"
-msgstr "[Comment as-tu pu, [mc] ? !]"
+msgstr "[_flora_s_embarrassed_] Comment as-tu pu, [mc] ?!"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:754 #-#-# translate crowdin quest_jacklyn_romance_suit_done_c85b795b:
 msgid "Great, what have I done now?"
@@ -1993,7 +1993,7 @@ msgstr "[Qu'est-ce qui ne va pas, [flora] ?]"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:759 #-#-# translate crowdin quest_jacklyn_romance_suit_done_4ebfa9ae:
 msgid "[_flora_s_embarrassed_] You know what you did!"
-msgstr "[Tu sais ce que tu as fait !"
+msgstr "[_flora_s_embarrassed_] Tu sais ce que tu as fait !"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:760 #-#-# translate crowdin quest_jacklyn_romance_suit_done_a5eee82e:
 msgid "[_mc_] If you're trying to frame me, it's not going to work this time."
@@ -2013,11 +2013,11 @@ msgstr "[Err, alors ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:764 #-#-# translate crowdin quest_jacklyn_romance_suit_done_ccd7f361:
 msgid "[_flora_s_sad_] So, she told me what you're doing!"
-msgstr "[Alors, elle m'a dit ce que vous faisiez !"
+msgstr "[_flora_s_sad_] Alors, elle m'a dit ce que vous faisiez !"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:765 #-#-# translate crowdin quest_jacklyn_romance_suit_done_d7a30ea7:
 msgid "[_flora_s_sad_] An art gallery exhibit with [jacklyn]? You can't go, [mc]."
-msgstr "[Une exposition dans une galerie d'art avec [Jacklyn] ?] Tu ne peux pas y aller, [mc]."
+msgstr "[_flora_s_sad_] Une exposition dans une galerie d'art avec [Jacklyn] ? Tu ne peux pas y aller, [mc]."
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:767 #-#-# translate crowdin quest_jacklyn_romance_suit_done_294d5fd3:
 msgid "[_flora_s_worried_] I mean, what about all that talk about us?"
@@ -2157,7 +2157,7 @@ msgstr "[Hé, [jacklyn] et moi sommes strictement platoniques, d'accord ? J'y va
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:820 #-#-# translate crowdin quest_jacklyn_romance_suit_done_6dd8a99f:
 msgid "[_flora_s_thinking_] Do you promise?"
-msgstr "[Vous promettez ?"
+msgstr "[_flora_s_thinking_] Vous promettez ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:821 #-#-# translate crowdin quest_jacklyn_romance_suit_done_c6284a80:
 msgid "[_mc_] I'll swear on a stack of porn magazines right now."
@@ -2321,7 +2321,7 @@ msgstr "[Mais je ne m'attends pas à ce que vous compreniez."
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:867 #-#-# translate crowdin quest_jacklyn_romance_suit_done_ef42516f:
 msgid "[_flora_s_annoyed_] Whatever. Good luck fitting in at the gallery."
-msgstr "[Peu importe. Bonne chance pour s'intégrer à la galerie."
+msgstr "[_flora_s_annoyed_] Peu importe. Bonne chance pour s'intégrer à la galerie."
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:868 #-#-# translate crowdin quest_jacklyn_romance_suit_done_e9721ff3:
 msgid "[_mc_] Thank you!"
