@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:45\n"
+"PO-Revision-Date: 2024-02-14 10:37\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_misc.rpy:85 #-#-# translate crowdin home_bedroom_book_interact_f77ceffb:
 msgid "Hmm... interesting book..."
@@ -18,5 +18,5 @@ msgstr "Hmm ... un livre intéressant ..."
 
 # game/1000_base_game/game/locations/home/bedroom/int_misc.rpy:86 #-#-# translate crowdin home_bedroom_book_interact_94835964:
 msgid "{i}\"Big Words — the lazy intellectual's guide to sounding smart.\"{/}"
-msgstr "{i}\"Big Words-the lazy intellectuelle's guide to sounding smart.\" { / }"
+msgstr "{i}\"Big Words-the lazy intellectuelle's guide to sounding smart.\" {/}"
 
