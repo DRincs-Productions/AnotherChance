@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:22\n"
+"PO-Revision-Date: 2024-02-14 16:11\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2 #-#-# translate crowdin quest_kate_moment_start_d812283f:
 msgid "Huh? This is an odd sight..."
@@ -568,7 +568,7 @@ msgstr "[Err, chaud ?"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:232 #-#-# translate crowdin quest_kate_moment_jacklyn_9eaa3747:
 msgid "[_jacklyn_s_laughing_] Wepa!"
-msgstr "[Wepa !"
+msgstr "[_jacklyn_s_laughing_] Wepa !"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:233 #-#-# translate crowdin quest_kate_moment_jacklyn_75d0d357:
 msgid "[_mc_] Totally."
@@ -640,7 +640,7 @@ msgstr "[Mais merci quand même !"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:250 #-#-# translate crowdin quest_kate_moment_jacklyn_4bd816c0:
 msgid "[_jacklyn_s_laughing_] No grass off my lawn."
-msgstr "[Pas d'herbe sur ma pelouse."
+msgstr "[_jacklyn_s_laughing_] Pas d'herbe sur ma pelouse."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:254 #-#-# translate crowdin quest_kate_moment_jacklyn_64fbe2f4:
 msgid "Well, while [jacklyn] might have a sense for the dabblers and\n"
