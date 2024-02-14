@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 17:03\n"
+"PO-Revision-Date: 2024-02-14 11:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:29 #-#-# translate crowdin school_music_class_stereo_system_interact_e0820c32:
 msgid "[_guard_] Welcome to music class, dear Newfall student."
@@ -18,7 +18,7 @@ msgstr "[_guard_] Bienvenue à la classe de musique, chère étudiante Newfall."
 
 # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:30 #-#-# translate crowdin school_music_class_stereo_system_interact_31801b67:
 msgid "[_guard_] As you may know, the changes to the curriculum are now in full effect.{space=-55}"
-msgstr "[_guard_] Comme vous le savez peut-être, les modifications apportées au programme d'études sont maintenant pleinement en vigueur. { space=-55 }"
+msgstr "[_guard_] Comme vous le savez peut-être, les modifications apportées au programme d'études sont maintenant pleinement en vigueur. {space=-55}"
 
 # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:31 #-#-# translate crowdin school_music_class_stereo_system_interact_4f5ec82c:
 msgid "[_guard_] This means that I, your humble music teacher, am no longer obligated to teach in person."
@@ -30,7 +30,7 @@ msgstr "[_guard_] Les conférences seront peut-être fournies au cours de l'ann�
 
 # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:33 #-#-# translate crowdin school_music_class_stereo_system_interact_450cd848:
 msgid "[_guard_] Don't worry, though! The final examination will be as thorough as ever.{space=-50}"
-msgstr "[_guard_] Ne vous inquiétez pas, cependant ! L'examen final sera aussi complet que jamais. { space=-50 }"
+msgstr "[_guard_] Ne vous inquiétez pas, cependant ! L'examen final sera aussi complet que jamais. {space=-50}"
 
 # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:34 #-#-# translate crowdin school_music_class_stereo_system_interact_93cfcefa:
 msgid "[_guard_] So, while you sweat and work your asses off, I'll be enjoying a tinnitus-free pina colada on the beach."
@@ -46,7 +46,7 @@ msgstr "[_guard_]..."
 
 # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:37 #-#-# translate crowdin school_music_class_stereo_system_interact_6dcffb31:
 msgid "[_guard_] ...no, I don't want to buy a seashell necklace! Do I look like a hippie to you?"
-msgstr "[_guard_] ... non, je ne veux pas acheter un collier de seashell ! Est-ce que je ressemble à un hippie?"
+msgstr "[_guard_] ... non, je ne veux pas acheter un collier de seashell ! Est-ce que je ressemble à un hippie ?"
 
 # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:38 #-#-# translate crowdin school_music_class_stereo_system_interact_5233a746_1:
 msgid "[_guard_] ..."
@@ -54,7 +54,7 @@ msgstr "[_guard_]..."
 
 # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:39 #-#-# translate crowdin school_music_class_stereo_system_interact_e1562860:
 msgid "[_guard_] Right, sorry about that. Now, if you'll excuse me, I have to go surfing... uh, the web? Surf the web, yes! For school-related stuff!"
-msgstr "[_guard_] Très bien, désolé pour ça. Maintenant, si vous m'excusez, je dois faire du surf ... uh, le web? Surf le web, oui ! Pour les affaires liées à l'école !"
+msgstr "[_guard_] Très bien, désolé pour ça. Maintenant, si vous m'excusez, je dois faire du surf ... uh, le web ? Surf le web, oui ! Pour les affaires liées à l'école !"
 
 # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:40 #-#-# translate crowdin school_music_class_stereo_system_interact_2c264550:
 msgid "[_guard_] Don't destroy the classroom while I'm away!"
