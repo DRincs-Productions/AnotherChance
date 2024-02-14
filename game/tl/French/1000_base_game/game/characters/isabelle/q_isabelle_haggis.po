@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:10\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:5 #-#-# translate crowdin isabelle_quest_haggis_deliver_c4773099:
 msgid "[_isabelle_s_excited_] What is this?"
@@ -262,7 +262,7 @@ msgstr "[_mc_] [flora], pas maintenant."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:116 #-#-# translate crowdin isabelle_quest_haggis_deliver_f7e34c35:
 msgid "[_flora_s_annoyed_] What are you going to do about it? Steal my panties again?"
-msgstr "[_flora_s_annoyed_] Qu'est-ce que vous allez faire à ce sujet ? Steal mes panties à nouveau ?"
+msgstr "[_flora_s_annoyed_] Qu'est-ce que tu vas faire ? Me voler à nouveau ma culotte ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:117 #-#-# translate crowdin isabelle_quest_haggis_deliver_6b0d1def:
 msgid "[_mc_] [flora]!"
@@ -754,7 +754,7 @@ msgstr "[_mc_] Qu'en est-il du [isabelle] ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:383 #-#-# translate crowdin isabelle_quest_haggis_flora_detention_bdaaedc4:
 msgid "[_flora_s_thinking_] What about her?"
-msgstr "[_flora_s_thinking_] Qu'en est-il de elle ?"
+msgstr "[_flora_s_thinking_] Et elle ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:384 #-#-# translate crowdin isabelle_quest_haggis_flora_detention_f7baf8b4:
 msgid "[_mc_] Ugh."
@@ -1466,7 +1466,7 @@ msgstr "[_isabelle_s_afraid_] Qu'est-ce que l'enfer ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:895 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_cd951486:
 msgid "[_flora_s_embarrassed_] Oh, I'm so sorry! I tripped!"
-msgstr "[_flora_s_embarrassed_] Oh, je suis désolé ! J'ai trébuté !"
+msgstr "[_flora_s_embarrassed_] Oh, je suis vraiment désolée ! J'ai trébuché !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:896 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_3b57c0db:
 msgid "[_flora_s_embarrassed_] I didn't mean for that to happen! God, I'm so embarrassed!"
@@ -1502,7 +1502,7 @@ msgstr "[_mc_] Je veux aussi que vous m'endrmiez pour obtenir la récompense."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:920 #-#-# translate crowdin isabelle_quest_haggis_flora_endorse_1bd725e2:
 msgid "[_flora_s_annoyed_] Yeah, that's fine. Just get me out of here."
-msgstr "[_flora_s_annoyed_] Oui, c'est bien. Das-moi juste d'ici."
+msgstr "[_flora_s_annoyed_] Oui, c'est bon. Faites-moi juste sortir d'ici."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:929 #-#-# translate crowdin isabelle_quest_haggis_flora_endorse_8861df75:
 msgid "[_mc_] I also want you to endorse [isabelle] in getting the reward."
