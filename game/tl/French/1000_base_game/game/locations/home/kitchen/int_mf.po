@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:48\n"
+"PO-Revision-Date: 2024-02-14 10:41\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:50 #-#-# translate crowdin home_kitchen_mf_interact_flora_bonsai_d6cedc54:
 msgid "I already got enough items. I should give them to [flora]."
@@ -18,7 +18,7 @@ msgstr "J'ai déjà assez d'articles. Je devrais leur donner le [flora]."
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:56 #-#-# translate crowdin home_kitchen_mf_interact_flora_bonsai_c1c15586:
 msgid "You picked up a cooking item. Is it the right one? No one knows."
-msgstr "Tu as ramassé un article de cuisine. C'est la bonne? Personne ne le sait."
+msgstr "Tu as ramassé un article de cuisine. C'est la bonne ? Personne ne le sait."
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:61 #-#-# translate crowdin home_kitchen_mf_interact_flora_bonsai_check_591bd378:
 msgid "The mini fridge contains milk, eggs, and a bottle of pepelepsi."
@@ -34,7 +34,7 @@ msgstr "Le mini-réfrigérateur contient du lait, des œufs et une bouteille de 
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:67 #-#-# translate crowdin home_kitchen_mf_interact_flora_cooking_chilli_distracted_06b85a7e:
 msgid "What should I grab?"
-msgstr "Que devrais-je prendre?"
+msgstr "Que devrais-je prendre ?"
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:69 #-#-# translate crowdin home_kitchen_mf_interact_flora_cooking_chilli_distracted_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -78,7 +78,7 @@ msgstr "Je ne pense pas que ce soit le bon moment pour frapper."
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:94 #-#-# translate crowdin home_kitchen_mf_interact_8c34b12f:
 msgid "Four cupboards, six cabinets, nine drawers, and not a single full-sized fridge?"
-msgstr "Quatre armoires, six armoires, neuf tiroirs et pas un seul frigo?"
+msgstr "Quatre armoires, six armoires, neuf tiroirs et pas un seul frigo ?"
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:98 #-#-# translate crowdin home_kitchen_mf_jacklyn_statement_fridge_3b16a1b5:
 msgid "Okay, so we have eggs, anchovies, olive oil, lettuce, and peppers..."
