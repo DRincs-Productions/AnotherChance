@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:49\n"
+"PO-Revision-Date: 2024-02-14 10:44\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:62 #-#-# translate crowdin school_art_in_progress_libation_interact_pepelepsi_9e7bb6cf:
 msgid "I painted the first thing that came into my head."
@@ -46,7 +46,7 @@ msgstr "Toxique et très corrosive."
 
 # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:80 #-#-# translate crowdin school_art_in_progress_libation_use_5b8b155b:
 msgid "The devil in a can? This is the devil on a canvas!"
-msgstr "Le diable dans un can? C'est le diable sur une toile !"
+msgstr "Le diable dans un can ? C'est le diable sur une toile !"
 
 # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:82 #-#-# translate crowdin school_art_in_progress_libation_use_736f98ad:
 msgid "My [item.title_lower]. My way."
@@ -58,11 +58,11 @@ msgstr "La mauvaise voie."
 
 # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:109 #-#-# translate crowdin school_art_in_progress_suction_interact_lollipops_255330cf:
 msgid "Candy, anyone?"
-msgstr "Candy, n'importe qui?"
+msgstr "Candy, n'importe qui ?"
 
 # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:110 #-#-# translate crowdin school_art_in_progress_suction_interact_lollipops_e81accd4:
 msgid "Yes?"
-msgstr "Oui?"
+msgstr "Oui ?"
 
 # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:111 #-#-# translate crowdin school_art_in_progress_suction_interact_lollipops_e0e32c4b:
 msgid "Okay, please step into my art van."
@@ -98,7 +98,7 @@ msgstr "Ça doit être deux fois plus doux ! Ou peut-être trois fois plus doux 
 
 # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:128 #-#-# translate crowdin school_art_in_progress_suction_use_bf9afc75:
 msgid "If the entire school was on fire and it rained sweets, maybe that would be sweet enough?"
-msgstr "Si l'école entière était en feu et qu'elle a plu des bonbons, peut-être que ce serait assez sucré?"
+msgstr "Si l'école entière était en feu et qu'elle a plu des bonbons, peut-être que ce serait assez sucré ?"
 
 # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:129 #-#-# translate crowdin school_art_in_progress_suction_use_6cf164f3:
 msgid "But err... probably not."
@@ -126,7 +126,7 @@ msgstr "Whisper dans ton oreille."
 
 # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:165 #-#-# translate crowdin school_art_in_progress_caramelization_interact_doughnuts_c76aa0e6:
 msgid "{i}\"Diabetes.\"{/}"
-msgstr "{i}\"Diabète.\" { / }"
+msgstr "{i}\"Diabète.\" {/}"
 
 # game/1000_base_game/game/locations/school/art_class/int_art_in_progress.rpy:169 #-#-# translate crowdin school_art_in_progress_caramelization_interact_4ae45bce:
 msgid "Fluffy and sweet. Something to make the critics puke sugar."
