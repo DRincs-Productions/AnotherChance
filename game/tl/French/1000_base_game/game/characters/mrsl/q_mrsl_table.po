@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:10\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
@@ -790,7 +790,7 @@ msgstr "[_flora_s_eyeroll_] Oui, vous l'avez fait !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:469 #-#-# translate crowdin quest_mrsl_table_flora_e5ade9f3:
 msgid "[_flora_s_annoyed_] Apologize."
-msgstr "[_flora_s_annoyed_] Apologiser."
+msgstr "[_flora_s_annoyed_] Excusez-vous."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:472 #-#-# translate crowdin quest_mrsl_table_flora_11fdb519:
 msgid "[_extend_]  [nointeract]"
