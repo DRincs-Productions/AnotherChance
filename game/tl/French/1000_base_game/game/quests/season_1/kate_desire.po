@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:12\n"
+"PO-Revision-Date: 2024-02-14 16:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_1/kate_desire.rpy:207 #-#-# translate crowdin quest_kate_desire_holdup_leave_ba4c3ae0:
 msgid "[_kate_s_excited_] Hey, where do you think you're going?"
@@ -50,7 +50,7 @@ msgstr "[_kate_s_excited_] Oui ? Vous obtenez un D plus tard, c'est sûr."
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:229 #-#-# translate crowdin quest_kate_desire_nude_model_79e2a869:
 msgid "[kate] threatening me while naked is slightly less frightening than usual...{space=-75}"
-msgstr "[kate] me menaçant alors que nu est un peu moins effrayant que l'usual... {space=-75}"
+msgstr "[kate] me menacer alors que je suis nue est un peu moins effrayant que d'habitude...{space=-75}"
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:233 #-#-# translate crowdin quest_kate_desire_nude_model_1427069c:
 msgid "[_mc_] Can you pose for me, please?"
@@ -130,11 +130,11 @@ msgstr "[_mc_] Oh, c'est la pose exacte que je cherche ! S'il te plaît, reste !
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:261 #-#-# translate crowdin quest_kate_desire_nude_model_52bf102e:
 msgid "[_jacklyn_s_laughing_] I'll align my stars with yours on that."
-msgstr "[_jacklyn_s_laughing_] Je vais aligner mes étoiles avec la vôtre sur ça."
+msgstr "[_jacklyn_s_laughing_] Je vais aligner mes étoiles sur les vôtres."
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:262 #-#-# translate crowdin quest_kate_desire_nude_model_c5cfea09:
 msgid "[_jacklyn_s_laughing_] That's raw, [kate]! Highly non-clich!"
-msgstr "[_jacklyn_s_laughing_] C'est crus, [kate]! Très bien non-clich !"
+msgstr "[_jacklyn_s_laughing_] C'est cru, [Kate] !] Hautement non cliché !"
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:263 #-#-# translate crowdin quest_kate_desire_nude_model_a58c8600:
 msgid "[_kate_s_annoyed_] And why should I care? It's his grade, not mine."
@@ -158,7 +158,7 @@ msgstr "[_kate_s_eyeroll_] Amende ... faisons ça avec, puis ..."
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:268 #-#-# translate crowdin quest_kate_desire_nude_model_dca100fd:
 msgid "[_jacklyn_s_laughing_] Sparkling!"
-msgstr "[_jacklyn_s_laughing_] Sparkling !"
+msgstr "[_jacklyn_s_laughing_] Pétillant !"
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:271 #-#-# translate crowdin quest_kate_desire_nude_model_c5ebefb5:
 msgid "[_mc_] Come on then, [kate]! Pose for me!"
@@ -326,7 +326,7 @@ msgstr "C'est un boneur bizarre ..."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/quests/season_1/kate_desire.rpy:239
 msgid "?jacklyn.love>=10@[jacklyn.love]/10|{image= jacklyn contact_icon}|{image= stats love_3}|\"Actually, this is better.\""
-msgstr "?jacklyn.love>=10 @[jacklyn.love]/10|{image= jacklyn contact_icon}|{image= stats love_ 3}|\"En fait, c'est mieux.\""
+msgstr "?jacklyn.love>=10@[jacklyn.love]/10|{image= jacklyn contact_icon}|{image= stats love_3}|\"En fait, c'est mieux.\""
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:239
 msgid "\"I'm trying to learn the, err... curves of the... female anatomy.\""
