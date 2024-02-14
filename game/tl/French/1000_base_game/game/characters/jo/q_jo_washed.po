@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:10\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:43 #-#-# translate crowdin quest_jo_washed_start_0d7bce5a:
 msgid "Sometimes when life gets rough, it's easier to just escape."
@@ -348,7 +348,7 @@ msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:192 #-#-# translate crowdin quest_jo_washed_supplies_reminder_08309069:
 msgid "[_flora_s_embarrassed_] Can't you see the cars?! Why aren't you helping?!"
-msgstr "[_flora_s_embarrassed_] Vous ne pouvez pas voir les voitures ? ! Pourquoi tu n'aimais pas ?"
+msgstr "[_flora_s_embarrassed_] Vous ne pouvez pas voir les voitures ?! Pourquoi tu n'aimais pas ?!"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:193 #-#-# translate crowdin quest_jo_washed_supplies_reminder_f357be7f:
 msgid "[_flora_s_embarrassed_] [jo] texted me that you would help! Where are all the things?!"
@@ -400,7 +400,7 @@ msgstr "[_mc_] Merci, [flora]. Je t'aime aussi."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:205 #-#-# translate crowdin quest_jo_washed_supplies_reminder_4ff30538:
 msgid "[_flora_s_annoyed_] Listen closely this time, okay?"
-msgstr "[_flora_s_annoyed_] Ecoute attentivement cette fois, d'accord ?"
+msgstr "[_flora_s_annoyed_] Écoutez bien cette fois, d'accord ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:206 #-#-# translate crowdin quest_jo_washed_supplies_reminder_271e80b1:
 msgid "[_flora_s_annoyed_] We need the garden hose from the greenhouse, the signs [kate] has been working on, the soap from the janitor's closet, and sponges."
