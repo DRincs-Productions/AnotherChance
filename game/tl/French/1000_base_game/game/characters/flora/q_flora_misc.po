@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-09 15:59\n"
+"PO-Revision-Date: 2024-02-14 10:11\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/flora/q_flora_misc.rpy:5 #-#-# translate crowdin flora_showering_interact_02c6deae:
 msgid "[_flora_s_afraid_] Who is that?"
@@ -22,7 +22,7 @@ msgstr "[_mc_] Désolé, je dois juste prendre un pisse."
 
 # game/1000_base_game/game/characters/flora/q_flora_misc.rpy:7 #-#-# translate crowdin flora_showering_interact_9466b0f0:
 msgid "[_flora_s_skeptical_] I'm taking a shower!"
-msgstr ""
+msgstr "[Je prends une douche !"
 
 # game/1000_base_game/game/characters/flora/q_flora_misc.rpy:8 #-#-# translate crowdin flora_showering_interact_60ac1a82:
 msgid "[_mc_] I'll be quick..."
@@ -30,11 +30,11 @@ msgstr "[_mc_] Je serai rapide ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_misc.rpy:9 #-#-# translate crowdin flora_showering_interact_3d81c19a:
 msgid "[_flora_s_embarrassed_] Get out! Get out!"
-msgstr ""
+msgstr "[Sortez ! Sortez !"
 
 # game/1000_base_game/game/characters/flora/q_flora_misc.rpy:10 #-#-# translate crowdin flora_showering_interact_7f5354e8:
 msgid "[_flora_s_embarrassed_] Aaaaaaaah!"
-msgstr ""
+msgstr "[Aaaaaaaah !"
 
 # game/1000_base_game/game/characters/flora/q_flora_misc.rpy:21 #-#-# translate crowdin flora_talk_back_to_school_special_bc3fcd18:
 msgid "[_flora_] 'Sup?"
