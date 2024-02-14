@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:30\n"
+"PO-Revision-Date: 2024-02-14 16:10\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:2 #-#-# translate crowdin quest_maxine_eggs_start_7b81f9fd:
 msgid "[_maxine_] You have to schedule an appointment. I'm a very busy woman."
@@ -30,7 +30,7 @@ msgstr "[_maxine_] Cela réduirait considérablement le temps que je dois consac
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:7 #-#-# translate crowdin quest_maxine_eggs_start_b60ecc84:
 msgid "[_maxine_s_smile_] Anyway, how can I help you?"
-msgstr "[_maxine_s_smile_] En tout cas, comment puis-je vous aider?"
+msgstr "[_maxine_s_smile_] En tout cas, comment puis-je vous aider ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:10 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -46,7 +46,7 @@ msgstr "[_maxine_s_thinking_] Hmm ... Je pourrais avoir une ouverture la semaine
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:15 #-#-# translate crowdin quest_maxine_eggs_start_1c85dca8:
 msgid "[_mc_] What? That's in almost a year!"
-msgstr "[_mc_] Quoi? C'est en près d'un an !"
+msgstr "[_mc_] Quoi ? C'est en près d'un an !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:16 #-#-# translate crowdin quest_maxine_eggs_start_04105990:
 msgid "[_maxine_s_smile_] These are busy times."
@@ -66,23 +66,23 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:24 #-#-# translate crowdin quest_maxine_eggs_start_2253b51e:
 msgid "[_mc_] What if I help you out?"
-msgstr "[_mc_] Que faire si je vous aide?"
+msgstr "[_mc_] Que faire si je vous aide ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:25 #-#-# translate crowdin quest_maxine_eggs_start_d522c550:
 msgid "[_maxine_s_skeptical_] What do you have in mind?"
-msgstr "[_maxine_s_skeptical_] Qu'est-ce que vous avez en tête?"
+msgstr "[_maxine_s_skeptical_] Qu'est-ce que vous avez en tête ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:26 #-#-# translate crowdin quest_maxine_eggs_start_4535ae57:
 msgid "[_mc_] Maybe I could do some journalist work?"
-msgstr "[_mc_] Peut-être que je pourrais faire du travail de journaliste?"
+msgstr "[_mc_] Peut-être que je pourrais faire du travail de journaliste ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:32 #-#-# translate crowdin quest_maxine_eggs_start_00775ec1:
 msgid "[_mc_] Maybe you should digitalize and automatize your appointments system?"
-msgstr "[_mc_] Peut-être devriez-vous numériser et automatiser votre système de rendez-vous?"
+msgstr "[_mc_] Peut-être devriez-vous numériser et automatiser votre système de rendez-vous ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:33 #-#-# translate crowdin quest_maxine_eggs_start_13868f03:
 msgid "[_maxine_s_thinking_] Now, why would I do that?"
-msgstr "[_maxine_s_thinking_] Maintenant, pourquoi je ferais ça?"
+msgstr "[_maxine_s_thinking_] Maintenant, pourquoi je ferais ça ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:34 #-#-# translate crowdin quest_maxine_eggs_start_ef6deb73:
 msgid "[_mc_] So that you can focus on more important matters."
@@ -98,7 +98,7 @@ msgstr "[_mc_] Cela pourrait être aussi simple qu'un système de messagerie voc
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:37 #-#-# translate crowdin quest_maxine_eggs_start_bf75933b:
 msgid "[_maxine_s_thinking_] And how would I go about this?"
-msgstr "[_maxine_s_thinking_] Et comment m'y prendre?"
+msgstr "[_maxine_s_thinking_] Et comment m'y prendre ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:38 #-#-# translate crowdin quest_maxine_eggs_start_6efbb8ef:
 msgid "[_mc_] I could do it for you."
@@ -106,7 +106,7 @@ msgstr "[_mc_] Je pourrais le faire pour vous."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:39 #-#-# translate crowdin quest_maxine_eggs_start_04636968:
 msgid "[_maxine_s_skeptical_] What's the catch?"
-msgstr "[_maxine_s_skeptical_] Quelles sont les prises?"
+msgstr "[_maxine_s_skeptical_] Quelles sont les prises ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:40 #-#-# translate crowdin quest_maxine_eggs_start_8869d613:
 msgid "For one, I'd put myself at the top of the appointment list, but [maxine] doesn't have to know that."
@@ -182,7 +182,7 @@ msgstr "Avec un ordinateur et un lecteur flash, cela ne devrait pas prendre trop
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:71 #-#-# translate crowdin quest_maxine_eggs_start_d6c0a30d:
 msgid "[_maxine_s_cringe_] You think I don't have any integrity?"
-msgstr "[_maxine_s_cringe_] Vous pensez que je n'ai pas d'intégrité?"
+msgstr "[_maxine_s_cringe_] Vous pensez que je n'ai pas d'intégrité ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:72 #-#-# translate crowdin quest_maxine_eggs_start_87aa6987:
 msgid "[_maxine_s_annoyed_] I can't be bought. Forget it."
@@ -194,7 +194,7 @@ msgstr "[_mc_] Droit, je suis désolé de ne pas être en avance. J'aimerais pre
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:80 #-#-# translate crowdin quest_maxine_eggs_start_a5ebea93:
 msgid "[_mc_] Why are you so busy?"
-msgstr "[_mc_] Pourquoi êtes-vous si occupé?"
+msgstr "[_mc_] Pourquoi êtes-vous si occupé ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:81 #-#-# translate crowdin quest_maxine_eggs_start_e22d3814:
 msgid "[_maxine_s_annoyed_] One, I'm the president of the Inconspicuous Group."
@@ -210,11 +210,11 @@ msgstr "[_maxine_s_annoyed_] Trois, je suis le rédacteur en chef du journal de 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:84 #-#-# translate crowdin quest_maxine_eggs_start_6650bf25:
 msgid "[_mc_] Maybe I could help you out, somehow? To ease your workload."
-msgstr "[_mc_] Peut-être que je pourrais vous aider, d'une façon ou d'une autre? Pour alléger votre charge de travail."
+msgstr "[_mc_] Peut-être que je pourrais vous aider, d'une façon ou d'une autre ? Pour alléger votre charge de travail."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:85 #-#-# translate crowdin quest_maxine_eggs_start_771a1bf9:
 msgid "[_maxine_s_skeptical_] And what would you get out of that?"
-msgstr "[_maxine_s_skeptical_] Et que ferais-tu de ça?"
+msgstr "[_maxine_s_skeptical_] Et que ferais-tu de ça ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:86 #-#-# translate crowdin quest_maxine_eggs_start_daaf23e2:
 msgid "[_mc_] I know you probably don't have an appointment open until Christmas..."
@@ -226,11 +226,11 @@ msgstr "[_maxine_s_smile_] Jusqu'à la semaine avant l'obtention du diplôme, en
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:88 #-#-# translate crowdin quest_maxine_eggs_start_97dfc29f:
 msgid "[_mc_] Right. So, if I help you out, maybe I could get an early appointment?"
-msgstr "[_mc_] Droit. Donc, si je vous aide, peut-être que je pourrais obtenir une nomination anticipée?"
+msgstr "[_mc_] Droit. Donc, si je vous aide, peut-être que je pourrais obtenir une nomination anticipée ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:89 #-#-# translate crowdin quest_maxine_eggs_start_1dcea038:
 msgid "[_maxine_s_thinking_] Hmm... and what are your qualifications?"
-msgstr "[_maxine_s_thinking_] Hmm ... et quelles sont vos qualifications?"
+msgstr "[_maxine_s_thinking_] Hmm ... et quelles sont vos qualifications ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:90 #-#-# translate crowdin quest_maxine_eggs_start_d18ab827:
 msgid "Ugh. Totally forgot how difficult she can be."
@@ -238,7 +238,7 @@ msgstr "Ugh. Totalement a oublié à quel point elle peut être difficile."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:91 #-#-# translate crowdin quest_maxine_eggs_start_c0058dd4:
 msgid "[_mc_] I guess I could take some photos for the newspaper?"
-msgstr "[_mc_] Je suppose que je pourrais prendre des photos pour le journal?"
+msgstr "[_mc_] Je suppose que je pourrais prendre des photos pour le journal ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:95 #-#-# translate crowdin quest_maxine_eggs_start_03bff30b:
 msgid "[_mc_] I'd like to be a reporter for the school paper."
@@ -258,11 +258,11 @@ msgstr "[_maxine_s_smile_] Mon horaire n'a pas de place pour les entrevues. Dema
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:99 #-#-# translate crowdin quest_maxine_eggs_start_8855dc58:
 msgid "Ugh... why does she have to be so difficult?"
-msgstr "Ugh ... pourquoi elle doit être si difficile?"
+msgstr "Ugh ... pourquoi elle doit être si difficile ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:100 #-#-# translate crowdin quest_maxine_eggs_start_a847885f:
 msgid "[_mc_] What about appointments?"
-msgstr "[_mc_] Qu'en est-il des nominations?"
+msgstr "[_mc_] Qu'en est-il des nominations ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:101 #-#-# translate crowdin quest_maxine_eggs_start_f1b7f187:
 msgid "[_maxine_s_thinking_] You'd have to schedule—"
@@ -322,7 +322,7 @@ msgstr "[_maxine_s_thinking_] Hmm ... Je pourrais avoir une ouverture la semaine
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:118 #-#-# translate crowdin quest_maxine_eggs_start_1c85dca8_1:
 msgid "[_mc_] What? That's in almost a year!"
-msgstr "[_mc_] Quoi? C'est en près d'un an !"
+msgstr "[_mc_] Quoi ? C'est en près d'un an !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:119 #-#-# translate crowdin quest_maxine_eggs_start_04105990_1:
 msgid "[_maxine_s_smile_] These are busy times."
@@ -334,15 +334,15 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:125 #-#-# translate crowdin quest_maxine_eggs_start_2253b51e_1:
 msgid "[_mc_] What if I help you out?"
-msgstr "[_mc_] Que faire si je vous aide?"
+msgstr "[_mc_] Que faire si je vous aide ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:126 #-#-# translate crowdin quest_maxine_eggs_start_d522c550_1:
 msgid "[_maxine_s_skeptical_] What do you have in mind?"
-msgstr "[_maxine_s_skeptical_] Qu'est-ce que vous avez en tête?"
+msgstr "[_maxine_s_skeptical_] Qu'est-ce que vous avez en tête ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:127 #-#-# translate crowdin quest_maxine_eggs_start_2a0fafac:
 msgid "[_mc_] Maybe I could do some journalist work? Like a freelancer."
-msgstr "[_mc_] Peut-être que je pourrais faire du travail de journaliste? Comme un pigiste."
+msgstr "[_mc_] Peut-être que je pourrais faire du travail de journaliste ? Comme un pigiste."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:128 #-#-# translate crowdin quest_maxine_eggs_start_f3252d28:
 msgid "[_maxine_s_thinking_] Hmm... a freelancer wouldn't need an interview..."
@@ -350,7 +350,7 @@ msgstr "[_maxine_s_thinking_] Hmm ... un pigiste n'aurait pas besoin d'une entre
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:135 #-#-# translate crowdin quest_maxine_eggs_start_journalist_1b194e36:
 msgid "[_maxine_s_thinking_] How are you with a camera?"
-msgstr "[_maxine_s_thinking_] Comment êtes-vous avec une caméra?"
+msgstr "[_maxine_s_thinking_] Comment êtes-vous avec une caméra ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:136 #-#-# translate crowdin quest_maxine_eggs_start_journalist_2446911d:
 msgid "If she means looking at photos of scantily clad women, then few people have my experience."
@@ -462,7 +462,7 @@ msgstr "Au moins, c'est ce que pense la partie paranoïaque de mon cerveau. Peut
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:183 #-#-# translate crowdin quest_maxine_eggs_start_ridiculous_dfb11d87:
 msgid "[_mc_] There has to be something I can do to get it sooner?"
-msgstr "[_mc_] Il doit y avoir quelque chose que je peux faire pour l'obtenir plus tôt?"
+msgstr "[_mc_] Il doit y avoir quelque chose que je peux faire pour l'obtenir plus tôt ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:184 #-#-# translate crowdin quest_maxine_eggs_start_ridiculous_75cfd203:
 msgid "[_mc_] Please, I really need this."
@@ -474,11 +474,11 @@ msgstr "[_maxine_s_thinking_] Mon travail s'empile ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:186 #-#-# translate crowdin quest_maxine_eggs_start_ridiculous_f3372115:
 msgid "[_maxine_s_thinking_] If you helped me out, maybe a spot would open up?"
-msgstr "[_maxine_s_thinking_] Si vous m'avez aidé, peut-être qu'un spot s'ouvrirait?"
+msgstr "[_maxine_s_thinking_] Si vous m'avez aidé, peut-être qu'un spot s'ouvrirait ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:187 #-#-# translate crowdin quest_maxine_eggs_start_ridiculous_258fac45:
 msgid "[_mc_] How can I help you, then?"
-msgstr "[_mc_] Comment puis-je vous aider, alors?"
+msgstr "[_mc_] Comment puis-je vous aider, alors ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:188 #-#-# translate crowdin quest_maxine_eggs_start_ridiculous_6e429204:
 msgid "[_maxine_s_smile_] Getting me a picture of the glowing spider eggs would be a good start..."
@@ -486,7 +486,7 @@ msgstr "[_maxine_s_smile_] Pour me faire une photo des oeufs d'araignée brillan
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:192 #-#-# translate crowdin quest_maxine_eggs_start_hanky_1e559ad2:
 msgid "[_maxine_s_skeptical_] No more hanky-panky?"
-msgstr "[_maxine_s_skeptical_] Plus d'hanky-panky?"
+msgstr "[_maxine_s_skeptical_] Plus d'hanky-panky ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:193 #-#-# translate crowdin quest_maxine_eggs_start_hanky_0a4dbc8d:
 msgid "[_mc_] I promise."
@@ -510,7 +510,7 @@ msgstr "[_maxine_s_annoyed_] Désolé, mais c'est ma première place."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:198 #-#-# translate crowdin quest_maxine_eggs_start_hanky_dfb11d87:
 msgid "[_mc_] There has to be something I can do to get it sooner?"
-msgstr "[_mc_] Il doit y avoir quelque chose que je peux faire pour l'obtenir plus tôt?"
+msgstr "[_mc_] Il doit y avoir quelque chose que je peux faire pour l'obtenir plus tôt ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:199 #-#-# translate crowdin quest_maxine_eggs_start_hanky_75cfd203:
 msgid "[_mc_] Please, I really need this."
@@ -522,11 +522,11 @@ msgstr "[_maxine_s_thinking_] Mon travail s'empile ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:201 #-#-# translate crowdin quest_maxine_eggs_start_hanky_f3372115:
 msgid "[_maxine_s_thinking_] If you helped me out, maybe a spot would open up?"
-msgstr "[_maxine_s_thinking_] Si vous m'avez aidé, peut-être qu'un spot s'ouvrirait?"
+msgstr "[_maxine_s_thinking_] Si vous m'avez aidé, peut-être qu'un spot s'ouvrirait ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:202 #-#-# translate crowdin quest_maxine_eggs_start_hanky_258fac45:
 msgid "[_mc_] How can I help you, then?"
-msgstr "[_mc_] Comment puis-je vous aider, alors?"
+msgstr "[_mc_] Comment puis-je vous aider, alors ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:203 #-#-# translate crowdin quest_maxine_eggs_start_hanky_6e429204:
 msgid "[_maxine_s_smile_] Getting me a picture of the glowing spider eggs would be a good start..."
@@ -534,7 +534,7 @@ msgstr "[_maxine_s_smile_] Pour me faire une photo des oeufs d'araignée brillan
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:206 #-#-# translate crowdin quest_maxine_eggs_start_spider_c8155816:
 msgid "[_mc_] The what?"
-msgstr "[_mc_] The what?"
+msgstr "[_mc_] The what ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:207 #-#-# translate crowdin quest_maxine_eggs_start_spider_c7f04411:
 msgid "[_maxine_s_annoyed_] The glowing spider eggs."
@@ -546,7 +546,7 @@ msgstr "[_maxine_s_annoyed_] L'école essaie de la hincer."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:209 #-#-# translate crowdin quest_maxine_eggs_start_spider_2c14c9b1:
 msgid "[_mc_] ...Why?"
-msgstr "[_mc_] ...Pourquoi?"
+msgstr "[_mc_] ...Pourquoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:210 #-#-# translate crowdin quest_maxine_eggs_start_spider_3019eea6:
 msgid "[_maxine_s_afraid_] They don't want the people to find out the truth..."
@@ -554,7 +554,7 @@ msgstr "[_maxine_s_afraid_] Ils ne veulent pas que les gens trouvent la vérité
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:211 #-#-# translate crowdin quest_maxine_eggs_start_spider_9cce4b54:
 msgid "[_mc_] And what's the truth?"
-msgstr "[_mc_] Et quelle est la vérité?"
+msgstr "[_mc_] Et quelle est la vérité ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:212 #-#-# translate crowdin quest_maxine_eggs_start_spider_3af43e31:
 msgid "[_maxine_s_concerned_] You're not ready for that."
@@ -566,7 +566,7 @@ msgstr "Standard [maxine]. Toujours avec ses théories de conspiration."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:214 #-#-# translate crowdin quest_maxine_eggs_start_spider_b355e24c:
 msgid "[_mc_] Do you have any idea where to look for the eggs, at least?"
-msgstr "[_mc_] Avez-vous une idée de l'endroit où chercher les œufs, au moins?"
+msgstr "[_mc_] Avez-vous une idée de l'endroit où chercher les œufs, au moins ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:215 #-#-# translate crowdin quest_maxine_eggs_start_spider_73d4e4f8:
 msgid "[_maxine_s_thinking_] My sources tell me they were last spotted in the women's bathroom."
@@ -602,11 +602,11 @@ msgstr "Chaque fois que je passe mon mot de passe, j'ai une erreur."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:230 #-#-# translate crowdin quest_maxine_eggs_computer_72952ae1:
 msgid "[_mc_] [cyberia], what's wrong with the computer?"
-msgstr "[_mc_] [cyberia], qu'est-ce qui ne va pas avec l'ordinateur?"
+msgstr "[_mc_] [cyberia], qu'est-ce qui ne va pas avec l'ordinateur ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:232 #-#-# translate crowdin quest_maxine_eggs_computer_3dc6a042:
 msgid "[_cyberia_] {i}Professor{/} [cyberia]."
-msgstr "[_cyberia_] {i}Professeur { / } [cyberia]."
+msgstr "[_cyberia_] {i}Professeur {/} [cyberia]."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:233 #-#-# translate crowdin quest_maxine_eggs_computer_7064a3bb:
 msgid "Goddammit."
@@ -614,7 +614,7 @@ msgstr "Goddammit."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:234 #-#-# translate crowdin quest_maxine_eggs_computer_6748afd8:
 msgid "[_mc_] Professor [cyberia], why can't I log in?"
-msgstr "[_mc_] Professeur [cyberia], pourquoi je ne peux pas me connecter?"
+msgstr "[_mc_] Professeur [cyberia], pourquoi je ne peux pas me connecter ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:235 #-#-# translate crowdin quest_maxine_eggs_computer_82320dc6:
 msgid "[_cyberia_] Your account has been disabled, [mc]."
@@ -622,7 +622,7 @@ msgstr "[_cyberia_] Votre compte a été désactivé, [mc]."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:236 #-#-# translate crowdin quest_maxine_eggs_computer_2876efd9:
 msgid "[_mc_] Why?"
-msgstr "[_mc_] Pourquoi?"
+msgstr "[_mc_] Pourquoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:237 #-#-# translate crowdin quest_maxine_eggs_computer_a2a91fcc:
 msgid "[_cyberia_] The latest scan found a security breach."
@@ -638,7 +638,7 @@ msgstr "[_cyberia_] Je suis désolé, [mc]. Je crains de ne pas pouvoir faire ç
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:240 #-#-# translate crowdin quest_maxine_eggs_computer_91d6ce47:
 msgid "[_mc_] What's the problem?"
-msgstr "[_mc_] Quel est le problème?"
+msgstr "[_mc_] Quel est le problème ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:241 #-#-# translate crowdin quest_maxine_eggs_computer_c61d0323:
 msgid "[_cyberia_] An email detailing your crimes will shortly be dispatched to the principal."
@@ -646,7 +646,7 @@ msgstr "[_cyberia_] Un courriel détaillant vos crimes sera envoyé sous peu au 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:242 #-#-# translate crowdin quest_maxine_eggs_computer_e5b1b7e9:
 msgid "[_mc_] My crimes? What are you talking about?"
-msgstr "[_mc_] Mes crimes? De quoi parlez-vous?"
+msgstr "[_mc_] Mes crimes ? De quoi parlez-vous ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:243 #-#-# translate crowdin quest_maxine_eggs_computer_f63a2934:
 msgid "[_cyberia_] Access to prohibited websites."
@@ -662,7 +662,7 @@ msgstr "Eh bien, techniquement, c'était l'année dernière."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:246 #-#-# translate crowdin quest_maxine_eggs_computer_4ba6fae5:
 msgid "[_mc_] Since when can you decide what counts as breaking the law?"
-msgstr "[_mc_] Depuis quand peut-on décider de ce qui compte comme une infraction à la loi?"
+msgstr "[_mc_] Depuis quand peut-on décider de ce qui compte comme une infraction à la loi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:247 #-#-# translate crowdin quest_maxine_eggs_computer_78c65800:
 msgid "[_cyberia_] My last update was ten days ago."
@@ -682,7 +682,7 @@ msgstr "Pas sûr qui, mais c'était avant mon année de fraîcheur."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:251 #-#-# translate crowdin quest_maxine_eggs_computer_4c28c907:
 msgid "[_mc_] Really? Who updated you?"
-msgstr "[_mc_] Vraiement? Qui vous a mis à jour?"
+msgstr "[_mc_] Vraiement ? Qui vous a mis à jour ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:252 #-#-# translate crowdin quest_maxine_eggs_computer_fc915b3b:
 msgid "[_cyberia_] My last update was installed by [[REDACTED]."
@@ -702,11 +702,11 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:258 #-#-# translate crowdin quest_maxine_eggs_computer_ecd32dce:
 msgid "[_mc_] I'm a changed man! I've learned from my mistakes. I {i}love{/} learning..."
-msgstr "[_mc_] Je suis un homme changé ! J'ai appris de mes erreurs. I {i}love { / } apprentissage ..."
+msgstr "[_mc_] Je suis un homme changé ! J'ai appris de mes erreurs. I {i}love {/} apprentissage ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:260 #-#-# translate crowdin quest_maxine_eggs_computer_92479dbe:
 msgid "[_cyberia_] Learning is fun. Did you have fun?"
-msgstr "[_cyberia_] L'apprentissage est amusant. T'es-tu amusante?"
+msgstr "[_cyberia_] L'apprentissage est amusant. T'es-tu amusante ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:261 #-#-# translate crowdin quest_maxine_eggs_computer_ad4f759d:
 msgid "[_mc_] Yes! Heaps!"
@@ -718,7 +718,7 @@ msgstr "[_cyberia_] C'est super. Vos crimes ont été pardonnés."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:263 #-#-# translate crowdin quest_maxine_eggs_computer_a3812abe:
 msgid "[_mc_] Neat. What about my account?"
-msgstr "[_mc_] Néat. Qu'en est-il de mon compte?"
+msgstr "[_mc_] Néat. Qu'en est-il de mon compte ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:264 #-#-# translate crowdin quest_maxine_eggs_computer_7d890641:
 msgid "[_cyberia_] Your account is disabled, [mc]."
@@ -726,7 +726,7 @@ msgstr "[_cyberia_] Votre compte est désactivé, [mc]."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:265 #-#-# translate crowdin quest_maxine_eggs_computer_fe53a72f:
 msgid "[_mc_] How do I get it back?"
-msgstr "[_mc_] Comment puis-je le récupérer?"
+msgstr "[_mc_] Comment puis-je le récupérer ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:266 #-#-# translate crowdin quest_maxine_eggs_computer_536f2543:
 msgid "[_cyberia_] ..."
@@ -734,7 +734,7 @@ msgstr "[_cyberia_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:267 #-#-# translate crowdin quest_maxine_eggs_computer_3710037d:
 msgid "[_mc_] Well?"
-msgstr "[_mc_] Eh bien?"
+msgstr "[_mc_] Eh bien ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:268 #-#-# translate crowdin quest_maxine_eggs_computer_2301ba92:
 msgid "[_cyberia_] Today we're going to learn about flash drives. Fun."
@@ -746,7 +746,7 @@ msgstr "[_cyberia_] Branchez une clé USB dans ma prise arrière."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:270 #-#-# translate crowdin quest_maxine_eggs_computer_f37d4536:
 msgid "[_mc_] Sorry, what?"
-msgstr "[_mc_] Désolé, quoi?"
+msgstr "[_mc_] Désolé, quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:271 #-#-# translate crowdin quest_maxine_eggs_computer_e944391f:
 msgid "[_cyberia_] Please, plug a USB drive into my back socket."
@@ -754,7 +754,7 @@ msgstr "[_cyberia_] S'il vous plaît, branchez une clé USB dans ma prise arriè
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:272 #-#-# translate crowdin quest_maxine_eggs_computer_9a63a03c:
 msgid "[_mc_] Just like that? No foreplay or anything?"
-msgstr "[_mc_] Tout comme ça? Pas de jeu ou quoi que ce soit?"
+msgstr "[_mc_] Tout comme ça ? Pas de jeu ou quoi que ce soit ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:273 #-#-# translate crowdin quest_maxine_eggs_computer_e944391f_1:
 msgid "[_cyberia_] Please, plug a USB drive into my back socket."
@@ -766,7 +766,7 @@ msgstr "[_mc_] Ok, détendu."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:276 #-#-# translate crowdin quest_maxine_eggs_computer_675eb0dd:
 msgid "[_mc_] Did you look at those prohibited websites?"
-msgstr "[_mc_] Avez-vous regarde ces sites interdits?"
+msgstr "[_mc_] Avez-vous regarde ces sites interdits ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:277 #-#-# translate crowdin quest_maxine_eggs_computer_262f264a:
 msgid "[_cyberia_] My system does not have access to the interweb."
@@ -774,7 +774,7 @@ msgstr "[_cyberia_] Mon système n'a pas accès à l'interweb."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:278 #-#-# translate crowdin quest_maxine_eggs_computer_35bc4ec8:
 msgid "[_mc_] Would you like to? There's a lot of interesting things you could learn on those websites."
-msgstr "[_mc_] Aimeriez-vous? Il y a beaucoup de choses intéressantes que vous pourriez apprendre sur ces sites."
+msgstr "[_mc_] Aimeriez-vous ? Il y a beaucoup de choses intéressantes que vous pourriez apprendre sur ces sites."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:279 #-#-# translate crowdin quest_maxine_eggs_computer_53fae6e2:
 msgid "[_cyberia_] Learning is fun."
@@ -782,7 +782,7 @@ msgstr "[_cyberia_] L'apprentissage est amusant."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:280 #-#-# translate crowdin quest_maxine_eggs_computer_eec4c4a6:
 msgid "[_mc_] In this case, I agree. Lots of very... {i}educational{/} videos on those sites."
-msgstr "[_mc_] Dans ce cas, je suis d'accord. Beaucoup de ... {i}vidéos éducatives { / } vidéos sur ces sites."
+msgstr "[_mc_] Dans ce cas, je suis d'accord. Beaucoup de ... {i}vidéos éducatives {/} vidéos sur ces sites."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:281 #-#-# translate crowdin quest_maxine_eggs_computer_e095c943:
 msgid "[_cyberia_] Education is exciting."
@@ -790,7 +790,7 @@ msgstr "[_cyberia_] L'éducation est passionnante."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:282 #-#-# translate crowdin quest_maxine_eggs_computer_4522bbef:
 msgid "[_mc_] How about you delete my criminal record and restore my account?"
-msgstr "[_mc_] Comment supprimer mon casier judiciaire et restaurer mon compte?"
+msgstr "[_mc_] Comment supprimer mon casier judiciaire et restaurer mon compte ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:283 #-#-# translate crowdin quest_maxine_eggs_computer_c7190a02:
 msgid "[_mc_] And in return, I'll let you look at those websites."
@@ -858,7 +858,7 @@ msgstr "[_cyberia_] Transfert terminé."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:309 #-#-# translate crowdin quest_maxine_eggs_cyberia_backdoor_f624c08e:
 msgid "[_mc_] Okay, now what?"
-msgstr "[_mc_] Ok, maintenant quoi?"
+msgstr "[_mc_] Ok, maintenant quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:310 #-#-# translate crowdin quest_maxine_eggs_cyberia_backdoor_537a0f5c:
 msgid "[_cyberia_] Please, plug the USB drive into the computer and log in as normal."
@@ -874,7 +874,7 @@ msgstr "Même ma bite ne va pas dans ce socket ... J'ai essayé."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:319 #-#-# translate crowdin quest_maxine_eggs_deliver_6c26458a:
 msgid "[_mc_] Hey, [maxine]."
-msgstr "[_mc_] Hey, [maxine]."
+msgstr "[_mc_] Hé, [maxine]."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:320 #-#-# translate crowdin quest_maxine_eggs_deliver_2c406ab4:
 msgid "[_maxine_] I'm in the middle of something here."
@@ -890,7 +890,7 @@ msgstr "[_maxine_s_concerned_] J'avais oublié ça."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:324 #-#-# translate crowdin quest_maxine_eggs_deliver_4f616bd3:
 msgid "[_mc_] Do you want me to install it for you?"
-msgstr "[_mc_] Voulez-vous que je l'installe pour vous?"
+msgstr "[_mc_] Voulez-vous que je l'installe pour vous ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:325 #-#-# translate crowdin quest_maxine_eggs_deliver_f512a7cd:
 msgid "[_maxine_s_sad_] I've decided I don't need it."
@@ -898,7 +898,7 @@ msgstr "[_maxine_s_sad_] J'ai décidé que je n'en avais pas besoin."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:326 #-#-# translate crowdin quest_maxine_eggs_deliver_11455b53:
 msgid "[_mc_] What?"
-msgstr "[_mc_] Quoi?"
+msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:327 #-#-# translate crowdin quest_maxine_eggs_deliver_a1e1de7d:
 msgid "[_maxine_s_skeptical_] I don't think it's worth the risk."
@@ -906,7 +906,7 @@ msgstr "[_maxine_s_skeptical_] Je ne pense pas que cela vaut le risque."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:328 #-#-# translate crowdin quest_maxine_eggs_deliver_a00298ce:
 msgid "[_mc_] The risk of what, exactly?"
-msgstr "[_mc_] Le risque de quoi, exactement?"
+msgstr "[_mc_] Le risque de quoi, exactement ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:329 #-#-# translate crowdin quest_maxine_eggs_deliver_8a6a6d9a:
 msgid "[_maxine_s_eyeroll_] It's a security risk. Cybercrime is a real problem these days. I thought you of all people kept up with that."
@@ -938,7 +938,7 @@ msgstr "[_mc_] Si quelque chose arrive, je vous aiderai. Je promets."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:340 #-#-# translate crowdin quest_maxine_eggs_deliver_c7567956:
 msgid "[_maxine_s_skeptical_] Are you willing to go on record with that?"
-msgstr "[_maxine_s_skeptical_] Etes-vous prêt à vous enregistrer avec ça?"
+msgstr "[_maxine_s_skeptical_] Etes-vous prêt à vous enregistrer avec ça ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:341 #-#-# translate crowdin quest_maxine_eggs_deliver_9c308044:
 msgid "[_mc_] Yes! Whatever makes you happy!"
@@ -962,7 +962,7 @@ msgstr "[_mc_] Elle n'était absolument pas !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:348 #-#-# translate crowdin quest_maxine_eggs_deliver_fc85f81f:
 msgid "[_maxine_s_angry_] Don't you think I know what my own cat looks like when she's sleeping?"
-msgstr "[_maxine_s_angry_] Ne pensez-vous pas que je sais à quoi ressemble mon propre chat quand elle dort?"
+msgstr "[_maxine_s_angry_] Ne pensez-vous pas que je sais à quoi ressemble mon propre chat quand elle dort ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:349 #-#-# translate crowdin quest_maxine_eggs_deliver_2b35b6fe:
 msgid "[_mc_] ..."
@@ -994,7 +994,7 @@ msgstr "[_mc_] Je jure par la présente que je vous aiderai avec votre ordinateu
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:356 #-#-# translate crowdin quest_maxine_eggs_deliver_6c48d3e2:
 msgid "[_maxine_s_confident_mic_] By all that is holy and pure?"
-msgstr "[_maxine_s_confident_mic_] Par tout ce qui est sacré et pur?"
+msgstr "[_maxine_s_confident_mic_] Par tout ce qui est sacré et pur ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:357 #-#-# translate crowdin quest_maxine_eggs_deliver_2b35b6fe_1:
 msgid "[_mc_] ..."
@@ -1014,7 +1014,7 @@ msgstr "[_mc_] Par tout ce qui est sacré et pur."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:361 #-#-# translate crowdin quest_maxine_eggs_deliver_73a7a4e1:
 msgid "[_maxine_s_eyeroll_mic_] And by the Minstrel of Galapagos?"
-msgstr "[_maxine_s_eyeroll_mic_] Et par la Minstrel des Galapagos?"
+msgstr "[_maxine_s_eyeroll_mic_] Et par la Minstrel des Galapagos ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:362 #-#-# translate crowdin quest_maxine_eggs_deliver_cfacddbe:
 msgid "[_mc_] Yes, by the freaking Minstrel of Galapagos too!"
@@ -1066,7 +1066,7 @@ msgstr "[_mc_] Elle ne dormais pas, se détend."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:381 #-#-# translate crowdin quest_maxine_eggs_deliver_fa0b72b0:
 msgid "[_maxine_s_afraid_] Why would you lie about something like that?"
-msgstr "[_maxine_s_afraid_] Pourquoi mentiriez-vous sur quelque chose comme ça?"
+msgstr "[_maxine_s_afraid_] Pourquoi mentiriez-vous sur quelque chose comme ça ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:382 #-#-# translate crowdin quest_maxine_eggs_deliver_cf51e443:
 msgid "Great. That joke went straight over her head."
@@ -1102,7 +1102,7 @@ msgstr "[_mc_] Je jure par la présente que je vous aiderai avec votre ordinateu
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:390 #-#-# translate crowdin quest_maxine_eggs_deliver_6c48d3e2_1:
 msgid "[_maxine_s_confident_mic_] By all that is holy and pure?"
-msgstr "[_maxine_s_confident_mic_] Par tout ce qui est sacré et pur?"
+msgstr "[_maxine_s_confident_mic_] Par tout ce qui est sacré et pur ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:391 #-#-# translate crowdin quest_maxine_eggs_deliver_2b35b6fe_2:
 msgid "[_mc_] ..."
@@ -1122,7 +1122,7 @@ msgstr "[_mc_] Par tout ce qui est sacré et pur."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:395 #-#-# translate crowdin quest_maxine_eggs_deliver_73a7a4e1_1:
 msgid "[_maxine_s_eyeroll_mic_] And by the Minstrel of Galapagos?"
-msgstr "[_maxine_s_eyeroll_mic_] Et par la Minstrel des Galapagos?"
+msgstr "[_maxine_s_eyeroll_mic_] Et par la Minstrel des Galapagos ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:396 #-#-# translate crowdin quest_maxine_eggs_deliver_cfacddbe_1:
 msgid "[_mc_] Yes, by the freaking Minstrel of Galapagos too!"
@@ -1182,7 +1182,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:417 #-#-# translate crowdin quest_maxine_eggs_deliver_e2df9fbc:
 msgid "[_mc_] Why do you have a document named \"[mc]?\""
-msgstr "[_mc_] Pourquoi avez-vous un document nommé \"[mc]? \""
+msgstr "[_mc_] Pourquoi avez-vous un document nommé \"[mc] ? \""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:418 #-#-# translate crowdin quest_maxine_eggs_deliver_3569ae5e:
 msgid "[_maxine_] Ignore that."
@@ -1198,7 +1198,7 @@ msgstr "[_mc_] Ok, l'installation est terminée."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:425 #-#-# translate crowdin quest_maxine_eggs_deliver_3e08af4a:
 msgid "[_maxine_s_neutral_] Are you sure it's working?"
-msgstr "[_maxine_s_neutral_] Etes-vous sûr de travailler?"
+msgstr "[_maxine_s_neutral_] Etes-vous sûr de travailler ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:428 #-#-# translate crowdin quest_maxine_eggs_deliver_923ea782:
 msgid "[_mc_] Yes, there shouldn't be any issues."
@@ -1210,7 +1210,7 @@ msgstr "[_maxine_s_skeptical_] J'espère que non."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:430 #-#-# translate crowdin quest_maxine_eggs_deliver_b210f2b7:
 msgid "[_mc_] So, I have an appointment with you, then?"
-msgstr "[_mc_] Alors, j'ai un rendez-vous avec vous, alors?"
+msgstr "[_mc_] Alors, j'ai un rendez-vous avec vous, alors ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:431 #-#-# translate crowdin quest_maxine_eggs_deliver_a433a511:
 msgid "[_maxine_s_smile_] That seems to be the case."
@@ -1230,7 +1230,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:435 #-#-# translate crowdin quest_maxine_eggs_deliver_def0ad19:
 msgid "[_mc_] What is it?"
-msgstr "[_mc_] Qu'est-ce que c'est?"
+msgstr "[_mc_] Qu'est-ce que c'est ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:436 #-#-# translate crowdin quest_maxine_eggs_deliver_9d1ca99e:
 msgid "[_maxine_s_neutral_] I found out earlier that glowing spider eggs have been spotted in the women's bathroom."
@@ -1238,11 +1238,11 @@ msgstr "[_maxine_s_neutral_] J'ai découvert plus tôt que des oeufs d'araignée
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:437 #-#-# translate crowdin quest_maxine_eggs_deliver_11455b53_1:
 msgid "[_mc_] What?"
-msgstr "[_mc_] Quoi?"
+msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:438 #-#-# translate crowdin quest_maxine_eggs_deliver_a8d26b6e:
 msgid "What does that even mean? Did Spider-Man finally hook up with Mary Jane?"
-msgstr "Qu'est-ce que cela signifie même? Spider-Man s'est-il finalement raccrochez avec Mary Jane?"
+msgstr "Qu'est-ce que cela signifie même ? Spider-Man s'est-il finalement raccrochez avec Mary Jane ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:439 #-#-# translate crowdin quest_maxine_eggs_deliver_c9882f83:
 msgid "[_maxine_s_concerned_] I really need a photo for the article on it."
@@ -1258,7 +1258,7 @@ msgstr "Ça ne peut pas être réel. Il n'y a aucun moyen d'avoir des araignées
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:442 #-#-# translate crowdin quest_maxine_eggs_deliver_0e488cac:
 msgid "[_mc_] And if I refuse?"
-msgstr "[_mc_] Et si je refuse?"
+msgstr "[_mc_] Et si je refuse ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:443 #-#-# translate crowdin quest_maxine_eggs_deliver_4bf3187c:
 msgid "[_maxine_s_neutral_] Then, I guess your appointment has to wait."
@@ -1302,11 +1302,11 @@ msgstr "[_maxine_s_neutral_] Oh, et avant d'oublier. Vous en aurez besoin."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:460 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_05500ff6:
 msgid "[_mc_] Huh?"
-msgstr "[_mc_] Huh?"
+msgstr "[_mc_] Huh ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:468 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_b666aa2e:
 msgid "[_lindsey_s_afraid_] What...?"
-msgstr "[_lindsey_s_afraid_] Quoi ...?"
+msgstr "[_lindsey_s_afraid_] Quoi ... ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:469 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_7e3b8438:
 msgid "Oh, god. She looks like she's about to scream..."
@@ -1314,11 +1314,11 @@ msgstr "Oh, mon dieu. Elle a l'air d'être sur le point de crih ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:470 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_12e4b14e:
 msgid "[_mc_] Hey, [lindsey]! It's me, [mc]. I can explain..."
-msgstr "[_mc_] Hey, [lindsey]! C'est moi, [mc]. Je peux expliquer ..."
+msgstr "[_mc_] Hé, [lindsey]! C'est moi, [mc]. Je peux expliquer ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:471 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_f495eff3:
 msgid "[_lindsey_s_cringe_] [mc]? Why are you all silvery?"
-msgstr "[_lindsey_s_cringe_] [mc]? Pourquoi tu es idié?"
+msgstr "[_lindsey_s_cringe_] [mc] ? Pourquoi êtes-vous tout argenté ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:474 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1330,11 +1330,11 @@ msgstr "[_mc_] Vous m'avez pris après l'horloge a frappé douze. C'est comme ç
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:479 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_3978addc:
 msgid "[_lindsey_s_laughing_] Oh, really? You're the Tin Man?"
-msgstr "[_lindsey_s_laughing_] Oh, vraiment? Tu es le Tin Man?"
+msgstr "[_lindsey_s_laughing_] Oh, vraiment ? Tu es le Tin Man ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:480 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_ce167821:
 msgid "[_mc_] Yes, and I'm looking for my heart. Have you seen it?"
-msgstr "[_mc_] Oui, et je cherche mon cœur. L'avez-vous vu?"
+msgstr "[_mc_] Oui, et je cherche mon cœur. L'avez-vous vu ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:482 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_b4044e47:
 msgid "[_lindsey_s_flirty_] I think I know where it might be..."
@@ -1346,7 +1346,7 @@ msgstr "Il a eu l'impression que [lindsey] me réchauffait, mais cette réponse 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:484 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_f873283c:
 msgid "Does she have a crush on me?"
-msgstr "A-t-elle une béguin pour moi?"
+msgstr "A-t-elle une béguin pour moi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:485 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_586a6334:
 msgid "No, that can't be... she must be playing."
@@ -1354,7 +1354,7 @@ msgstr "Non, ça ne peut pas être ... elle doit jouer."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:486 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_a9431cc7:
 msgid "[_mc_] Oh... err, could you point me in the right direction?"
-msgstr "[_mc_] Oh ... err, pourriez-vous me pointer dans la bonne direction?"
+msgstr "[_mc_] Oh ... err, pourriez-vous me pointer dans la bonne direction ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:487 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_adbafa00:
 msgid "[_lindsey_s_confident_] No, that would make the quest too easy!"
@@ -1382,7 +1382,7 @@ msgstr "Il suffit de continuer à parler ... d'agir ... cool ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:497 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_fa04a789:
 msgid "[_lindsey_s_eyeroll_] Nope. Have you checked [not_best_girl]'s locker?"
-msgstr "[_lindsey_s_eyeroll_] Non. Avez-vous vérifié le casier de [not_best_girl]?"
+msgstr "[_lindsey_s_eyeroll_] Non. Avez-vous vérifié le casier de [not_best_girl] ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:498 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_adcef476:
 msgid "Ouch!"
@@ -1402,7 +1402,7 @@ msgstr "[_mc_] C'est une longue histoire."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:504 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_f66c9ad4:
 msgid "[_lindsey_s_skeptical_] Mhm? Care to share?"
-msgstr "[_lindsey_s_skeptical_] Mhm? Des soins à partager?"
+msgstr "[_lindsey_s_skeptical_] Mhm ? Des soins à partager ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:507 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -1478,7 +1478,7 @@ msgstr "[_lindsey_s_thinking_] Droit ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:535 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_d62d29ee:
 msgid "[_mc_] If I say \"[maxine],\" does that answer your question?"
-msgstr "[_mc_] Si je dis \"[maxine], \" répond-il à votre question?"
+msgstr "[_mc_] Si je dis \"[maxine], \" répond-il à votre question ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:537 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_56d0f46f:
 msgid "[_lindsey_s_smile_] Yep, that about does it."
@@ -1518,7 +1518,7 @@ msgstr "Je n'arrive pas à croire que ça ait marché."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:551 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_117143ca:
 msgid "[_lindsey_s_afraid_] [mc]...?"
-msgstr "[_lindsey_s_afraid_] [mc]...?"
+msgstr "[_lindsey_s_afraid_] [mc]... ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:552 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_525037e7:
 msgid "Crap. That's terrible timing..."
@@ -1526,7 +1526,7 @@ msgstr "Crap. C'est un moment terrible ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:553 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_5d663b5b:
 msgid "Where did [lindsey] even come from?"
-msgstr "D'où vient le [lindsey]?"
+msgstr "D'où vient le [lindsey] ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:554 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_4665819f:
 msgid "[_mc_] Hey... sorry if I startled you."
@@ -1538,15 +1538,15 @@ msgstr "[_lindsey_s_sad_] Mon Dieu ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:556 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_b12a53ee:
 msgid "She looks shaken up. Maybe some chit chat would help?"
-msgstr "Elle a l'air agitée. Peut-être que certains bavardins aideraient?"
+msgstr "Elle a l'air agitée. Peut-être que certains bavardins aideraient ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:557 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_70f3a56b:
 msgid "[_mc_] So... how's your head?"
-msgstr "[_mc_] Alors ... comment va ta tête?"
+msgstr "[_mc_] Alors ... comment va ta tête ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:558 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_04bbaf90:
 msgid "[_mc_] Have you fallen over anything since last time?"
-msgstr "[_mc_] Avez-vous perdu quelque chose depuis la dernière fois?"
+msgstr "[_mc_] Avez-vous perdu quelque chose depuis la dernière fois ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:559 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_9888ee46:
 msgid "[_lindsey_s_smile_] Nope. And my head is much better, thanks!"
@@ -1570,7 +1570,7 @@ msgstr "[_mc_] Désolé ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:565 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_cf40226b:
 msgid "[_lindsey_s_flirty_] Which part?"
-msgstr "[_lindsey_s_flirty_] Quelle partie?"
+msgstr "[_lindsey_s_flirty_] Quelle partie ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:566 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_2ca5c03f:
 msgid "[_mc_] I think that goes without saying..."
@@ -1590,7 +1590,7 @@ msgstr "[_mc_] Je ne pensais pas que quiconque serait ici ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:571 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_652c0635:
 msgid "[_lindsey_s_angry_] So, what exactly are you doing in the women's bathroom after dark?"
-msgstr "[_lindsey_s_angry_] Alors, qu'est-ce que vous faites exactement dans la salle de bain des femmes après la tombée de la nuit?"
+msgstr "[_lindsey_s_angry_] Alors, qu'est-ce que vous faites exactement dans la salle de bain des femmes après la tombée de la nuit ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:574 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
@@ -1606,7 +1606,7 @@ msgstr "[_lindsey_s_laughing_] Oh, une quête la plus noble !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:580 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_c19e836b:
 msgid "[_lindsey_s_smile_] So, what's the real reason?"
-msgstr "[_lindsey_s_smile_] Alors, quelle est la vraie raison?"
+msgstr "[_lindsey_s_smile_] Alors, quelle est la vraie raison ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:581 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_25e0043c:
 msgid "[_mc_] That is actually the real reason..."
@@ -1614,7 +1614,7 @@ msgstr "[_mc_] C'est en fait la vraie raison ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:582 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_4ccf9a16:
 msgid "[_lindsey_s_afraid_] W-what?"
-msgstr "[_lindsey_s_afraid_] -Quoi?"
+msgstr "[_lindsey_s_afraid_] -Quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:583 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_2e20b8f6:
 msgid "[_mc_] [maxine] asked me to take a picture of some glowing spider eggs..."
@@ -1626,7 +1626,7 @@ msgstr "[_lindsey_s_cringe_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:585 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_e8bec32d:
 msgid "[_lindsey_s_cringe_] You're serious?"
-msgstr "[_lindsey_s_cringe_] Vous êtes sérieux?"
+msgstr "[_lindsey_s_cringe_] Vous êtes sérieux ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:586 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_473f6d41:
 msgid "[_mc_] Yup."
@@ -1642,7 +1642,7 @@ msgstr "[_mc_] Merci de la trouver !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:591 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_90ecc275:
 msgid "[_lindsey_s_skeptical_] Why were you looking for the light switch?"
-msgstr "[_lindsey_s_skeptical_] Pourquoi as-tu cherché l'interrupteur?"
+msgstr "[_lindsey_s_skeptical_] Pourquoi as-tu cherché l'interrupteur ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:592 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_be6cb099:
 msgid "[_mc_] It was dark..."
@@ -1650,7 +1650,7 @@ msgstr "[_mc_] Il faisait sombre ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:593 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_35cc0581:
 msgid "[_lindsey_s_eyeroll_] Why are you in the women's bathroom, [mc]?"
-msgstr "[_lindsey_s_eyeroll_] Pourquoi êtes-vous dans la salle de bain pour femmes, [mc]?"
+msgstr "[_lindsey_s_eyeroll_] Pourquoi êtes-vous dans la salle de bain pour femmes, [mc] ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:594 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_b98c479d:
 msgid "[_mc_] Okay, so this is going to sound really weird, but I'm actually doing some investigative reporting..."
@@ -1658,7 +1658,7 @@ msgstr "[_mc_] Ok, donc ça va vraiment paraître bizarre, mais en fait je fais 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:595 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_b1d67c02:
 msgid "[_lindsey_s_skeptical_] On what?"
-msgstr "[_lindsey_s_skeptical_] Sur quoi?"
+msgstr "[_lindsey_s_skeptical_] Sur quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:596 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_274729b9:
 msgid "[_mc_] Glowing spider eggs..."
@@ -1666,7 +1666,7 @@ msgstr "[_mc_] Oeufs d'araignée ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:597 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_d5160da3:
 msgid "[_lindsey_s_thinking_] What?"
-msgstr "[_lindsey_s_thinking_] Quoi?"
+msgstr "[_lindsey_s_thinking_] Quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:598 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_59293470:
 msgid "[_mc_] It's for [maxine]. She wanted me to take a picture of glowing spider eggs."
@@ -1674,7 +1674,7 @@ msgstr "[_mc_] C'est pour [maxine]. Elle voulait que je prenne une photo des oeu
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:599 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_9f445a54:
 msgid "[_lindsey_s_skeptical_] Are you serious?"
-msgstr "[_lindsey_s_skeptical_] Êtes-vous sérieux?"
+msgstr "[_lindsey_s_skeptical_] Êtes-vous sérieux ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:600 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_6b8fb799:
 msgid "[_mc_] Sadly, it's not a joke."
@@ -1694,7 +1694,7 @@ msgstr "[_lindsey_s_thinking_] Mais il n'explique pas pourquoi vous êtes dans l
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:608 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_724ed377:
 msgid "[_mc_] I'm doing some freelance journalism on the side. Got to stay active, right?"
-msgstr "[_mc_] Je fais du journalisme indépendant sur le côté. Je vais rester actif, non?"
+msgstr "[_mc_] Je fais du journalisme indépendant sur le côté. Je vais rester actif, non ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:609 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_10c9b385:
 msgid "[_lindsey_s_smile_] For sure!"
@@ -1702,11 +1702,11 @@ msgstr "[_lindsey_s_smile_] Pour sûr !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:610 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_10775180:
 msgid "[_lindsey_s_skeptical_] What kind of story are you doing, exactly? I hope it's nothing weird..."
-msgstr "[_lindsey_s_skeptical_] Quel genre d'histoire faites-vous, exactement? J'espère que ce n'est rien bizarre ..."
+msgstr "[_lindsey_s_skeptical_] Quel genre d'histoire faites-vous, exactement ? J'espère que ce n'est rien bizarre ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:611 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_1fc250a0:
 msgid "[_mc_] Since it's for [maxine], I guess that depends on how you look at it?"
-msgstr "[_mc_] Puisque c'est pour [maxine], je suppose que ça dépend de la façon dont vous regardez ça?"
+msgstr "[_mc_] Puisque c'est pour [maxine], je suppose que ça dépend de la façon dont vous regardez ça ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:612 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_ab457f6d:
 msgid "[_lindsey_s_laughing_] That is true!"
@@ -1714,7 +1714,7 @@ msgstr "[_lindsey_s_laughing_] C'est vrai !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:613 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_870e0b82:
 msgid "[_lindsey_s_smile_] So, what's the scope?"
-msgstr "[_lindsey_s_smile_] Alors, quelle est la portée?"
+msgstr "[_lindsey_s_smile_] Alors, quelle est la portée ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:614 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_75ac8dc3:
 msgid "[_mc_] I'm not exactly sure, but I'm supposed to take a picture of glowing spider eggs."
@@ -1730,7 +1730,7 @@ msgstr "[_mc_] Pretty much."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:617 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_fa778a3a:
 msgid "[_lindsey_s_neutral_] Well, have you found any?"
-msgstr "[_lindsey_s_neutral_] Eh bien, avez-vous trouvé?"
+msgstr "[_lindsey_s_neutral_] Eh bien, avez-vous trouvé ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:618 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_811be5cd:
 msgid "[_mc_] No, and I have looked everywhere!"
@@ -1746,7 +1746,7 @@ msgstr "[_mc_] C'est juste une de ses théories du complot. Elle a dit que l'éc
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:621 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_795c5bd3:
 msgid "[_lindsey_s_smile_] Sounds like [maxine]. So, what are you going to do?"
-msgstr "[_lindsey_s_smile_] Des sons comme [maxine]. Alors, qu'allez-vous faire?"
+msgstr "[_lindsey_s_smile_] Des sons comme [maxine]. Alors, qu'allez-vous faire ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:622 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_3f14e00d:
 msgid "[_mc_] I don't know, and I really need that photo."
@@ -1758,7 +1758,7 @@ msgstr "[_mc_] Je suppose que j'espérais trouver ces œufs contre toutes les ch
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:624 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_39a25b67:
 msgid "[_lindsey_s_concerned_] Is there anything I can do to help?"
-msgstr "[_lindsey_s_concerned_] Y a-t-il quelque chose que je puisse faire pour aider?"
+msgstr "[_lindsey_s_concerned_] Y a-t-il quelque chose que je puisse faire pour aider ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:625 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_e95b3884:
 msgid "[_mc_] Not unless you have a bunch of glowing spider eggs lying around somewhere..."
@@ -1886,7 +1886,7 @@ msgstr "Elle est gentile et pardonne, mais peut-être un peu naïve. Elle est en
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:664 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_27c87662:
 msgid "Hmm... maybe there's another photo to be had?"
-msgstr "Hmm ... peut-être qu'il y a une autre photo à avoir?"
+msgstr "Hmm ... peut-être qu'il y a une autre photo à avoir ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:666 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
@@ -1978,7 +1978,7 @@ msgstr "Et l'odeur ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:694 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_d6ea7ad5:
 msgid "Is there one?"
-msgstr "Y a-t-il un?"
+msgstr "Y a-t-il un ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:695 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_55230db2:
 msgid "It's hard to tell, but maybe there's a faint scent of her pee rising out of the cubicle."
@@ -2002,7 +2002,7 @@ msgstr "La vérité, c'est qu'ils sont juste des gens, et le ruisseau qui frappe
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:700 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_68d56b30:
 msgid "Powdering your nose? Oh, please..."
-msgstr "Poudre ton nez? Oh, s'il vous plaît ..."
+msgstr "Poudre ton nez ? Oh, s'il vous plaît ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:701 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_ca119cdf:
 msgid "This is called pissing."
@@ -2070,11 +2070,11 @@ msgstr "Mon Dieu, c'est si chaud qu'elle imagine son rasage de la chatte."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:720 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_7751d6de:
 msgid "Who is she trying to look sexy for?"
-msgstr "Avec qui essaie-t-elle de regarder sexy?"
+msgstr "Avec qui essaie-t-elle de regarder sexy ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:721 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_6ae86d53:
 msgid "Well... maybe it's just me and my camera?"
-msgstr "Eh bien ... peut-être que c'est juste moi et mon appareil photo?"
+msgstr "Eh bien ... peut-être que c'est juste moi et mon appareil photo ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:723 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_08cc8c51:
 msgid "Whoa! This is better than those hidden camera pornos!"
@@ -2094,7 +2094,7 @@ msgstr "Oh, merde. C'était bruyant."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:731 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_dd36df68:
 msgid "[_lindsey_s_toilet_scream_] Aaaaaah! [mc]?! [withvpunch]"
-msgstr "[_lindsey_s_toilet_scream_] Aaaaaah ! [mc]? ! [withvpunch]"
+msgstr "[_lindsey_s_toilet_scream_] Aaaaaah ! [mc] ?! [avecvpunch]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:732 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_046c205a:
 msgid "[_lindsey_s_toilet_scream_] Get out!"
@@ -2106,7 +2106,7 @@ msgstr "Merde, merde, merde ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:735 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_2bcbfd1a:
 msgid "[_lindsey_s_toilet_scream_] What's wrong with you?!"
-msgstr "[_lindsey_s_toilet_scream_] Qu'est-ce qui ne va pas avec toi?"
+msgstr "[_lindsey_s_toilet_scream_] Qu'est-ce qui ne va pas avec toi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:736 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_f0f72809:
 msgid "[_mc_] I'm so sorry!"
@@ -2142,7 +2142,7 @@ msgstr "Très probablement parce qu'elle n'a jamais connu mon existence, mais to
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:751 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_7aa12051:
 msgid "Since she now knows about me and is still treating me like a person, maybe she too deserves another chance?"
-msgstr "Puisqu'elle est maintenant au courant de moi et qu'elle me traite encore comme une personne, elle mérite peut-être aussi une autre chance?"
+msgstr "Puisqu'elle est maintenant au courant de moi et qu'elle me traite encore comme une personne, elle mérite peut-être aussi une autre chance ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:752 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_1d3e9b6f:
 msgid "Plus, it would be morally objectionable and downright scummy to do it. Especially after she helped me with the eggs."
@@ -2166,7 +2166,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:769 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_7fdbed6e:
 msgid "[_mc_] How about now?"
-msgstr "[_mc_] Et maintenant?"
+msgstr "[_mc_] Et maintenant ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:771 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_37ebcd71:
 msgid "[_maxine_s_smile_] Yes, much better. Just had to finish that thought."
@@ -2174,7 +2174,7 @@ msgstr "[_maxine_s_smile_] Oui, bien mieux. Il fallait juste finir cette pensée
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:772 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_850c6480:
 msgid "[_mc_] And what was the thought?"
-msgstr "[_mc_] Et quelle a été la pensée?"
+msgstr "[_mc_] Et quelle a été la pensée ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:773 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_fda41e85:
 msgid "[_maxine_s_thinking_] If I should wear black to prom or not."
@@ -2182,11 +2182,11 @@ msgstr "[_maxine_s_thinking_] Si je dois porter du noir au bal ou non."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:774 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_31e7494c:
 msgid "[_mc_] Prom? Now? Well, what are the other options?"
-msgstr "[_mc_] Prom? Maintenant? Eh bien, quelles sont les autres options?"
+msgstr "[_mc_] Prom ? Maintenant ? Eh bien, quelles sont les autres options ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:775 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_fc640b83:
 msgid "[_maxine_s_thinking_] What do you mean?"
-msgstr "[_maxine_s_thinking_] Que voulez-vous dire?"
+msgstr "[_maxine_s_thinking_] Que voulez-vous dire ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:776 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_326dc915:
 msgid "[_mc_] You said you were debating whether or not you should wear black to prom."
@@ -2198,11 +2198,11 @@ msgstr "[_maxine_s_smile_] Je l'ai fait, oui."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:778 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_4a38485d:
 msgid "[_mc_] So, what other colors are you considering?"
-msgstr "[_mc_] Alors, quelles autres couleurs envisagez-vous?"
+msgstr "[_mc_] Alors, quelles autres couleurs envisagez-vous ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:779 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_be6fa591:
 msgid "[_maxine_s_skeptical_] What makes you think I'm considering any other colors?"
-msgstr "[_maxine_s_skeptical_] Qu'est-ce qui vous fait penser que j'envisage d'autres couleurs?"
+msgstr "[_maxine_s_skeptical_] Qu'est-ce qui vous fait penser que j'envisage d'autres couleurs ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:780 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_5767c4c1:
 msgid "[_mc_] You know what, forget it."
@@ -2234,11 +2234,11 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:793 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_40784947:
 msgid "[_mc_] Aren't you surprised in the slightest?"
-msgstr "[_mc_] N'êtes-vous pas surpris par le moindre?"
+msgstr "[_mc_] N'êtes-vous pas surpris par le moindre ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:794 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_061f80ba:
 msgid "[_maxine_s_thinking_] About what?"
-msgstr "[_maxine_s_thinking_] À propos de quoi?"
+msgstr "[_maxine_s_thinking_] À propos de quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:795 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_979c3a22:
 msgid "[_mc_] That I managed to get a picture of the eggs."
@@ -2258,7 +2258,7 @@ msgstr "Un de ces jours, ma paume va frapper mon visage si dur qu'elle laissera 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:799 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_e46b52d4:
 msgid "[_mc_] Anyway... when is a good time to stop by for that meeting?"
-msgstr "[_mc_] De toute façon ... quand est-il bon de s'arrêter pour cette réunion?"
+msgstr "[_mc_] De toute façon ... quand est-il bon de s'arrêter pour cette réunion ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:800 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_b8dd75f3:
 msgid "[_maxine_s_neutral_] Soon."
@@ -2266,7 +2266,7 @@ msgstr "[_maxine_s_neutral_] Bientôt."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:801 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_1695e6d1:
 msgid "[_mc_] Soon?"
-msgstr "[_mc_] Bientôt?"
+msgstr "[_mc_] Bientôt ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:802 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_ecbc9547:
 msgid "[_maxine_s_neutral_] While we both still draw breath."
@@ -2274,7 +2274,7 @@ msgstr "[_maxine_s_neutral_] Alors que nous tirons encore le souffle."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:803 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_2cc709eb:
 msgid "[_mc_] So, whenever?"
-msgstr "[_mc_] Alors, quand?"
+msgstr "[_mc_] Alors, quand ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:804 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_dc293cc5:
 msgid "[_maxine_s_thinking_] Not during lunch, whiskey-nap, or revolutions."
@@ -2286,15 +2286,15 @@ msgstr "[_mc_] Droit ... Je vais essayer de m'en souvenir."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:808 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_054ed970:
 msgid "[_mc_] So, what about that meeting?"
-msgstr "[_mc_] Alors, qu'en est-il de cette réunion?"
+msgstr "[_mc_] Alors, qu'en est-il de cette réunion ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:809 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_7b6e8eee:
 msgid "[_maxine_s_thinking_] What about it?"
-msgstr "[_maxine_s_thinking_] Qu'en est-il?"
+msgstr "[_maxine_s_thinking_] Qu'en est-il ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:810 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_41053e7f:
 msgid "[_mc_] Well, when can I come?"
-msgstr "[_mc_] Eh bien, quand puis-je venir?"
+msgstr "[_mc_] Eh bien, quand puis-je venir ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:811 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_e24a04a3:
 msgid "[_maxine_s_annoyed_] When you feel like it. Except during lunch, solar eclipses, and black sabbath."
@@ -2326,7 +2326,7 @@ msgstr "[_mc_] À l'avenir."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:821 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_ddf47e8d:
 msgid "[_mc_] Anyway, when are we good for that meeting?"
-msgstr "[_mc_] En tout cas, quand sommes-nous bons pour cette réunion?"
+msgstr "[_mc_] En tout cas, quand sommes-nous bons pour cette réunion ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:822 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_854beb9c:
 msgid "[_maxine_s_smile_] Just stop by and I'll clear my schedule. You've been very helpful."
@@ -2338,15 +2338,15 @@ msgstr "[_mc_] Merci !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:825 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_ed9ac224:
 msgid "[_mc_] Is it okay if I bring [isabelle] along?"
-msgstr "[_mc_] Est-ce bon si j'apporte [isabelle]?"
+msgstr "[_mc_] Est-ce bon si j'apporte [isabelle] ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:826 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_c0fae5fa:
 msgid "[_maxine_s_neutral_] That's the new girl, isn't it?"
-msgstr "[_maxine_s_neutral_] C'est la nouvelle fille, n'est-ce pas?"
+msgstr "[_maxine_s_neutral_] C'est la nouvelle fille, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:827 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_8587785e:
 msgid "[_mc_] Yeah. Is that a problem?"
-msgstr "[_mc_] Oui. Est-ce un problème?"
+msgstr "[_mc_] Oui. Est-ce un problème ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:828 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_546cd349:
 msgid "[_maxine_s_smile_] No, she seems like a lovely soul."
@@ -2362,11 +2362,11 @@ msgstr "[_maxine_s_skeptical_] Très bien. Je suis toujours occupé, alors n'att
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:832 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_2f778e14:
 msgid "[_mc_] Do you mind if I bring someone along?"
-msgstr "[_mc_] Avez-vous l'esprit si je vous apporte quelqu'un?"
+msgstr "[_mc_] Avez-vous l'esprit si je vous apporte quelqu'un ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:833 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_a2964d36:
 msgid "[_maxine_s_skeptical_] Who is it?"
-msgstr "[_maxine_s_skeptical_] Qui est-ce?"
+msgstr "[_maxine_s_skeptical_] Qui est-ce ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:834 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_763bfe0d:
 msgid "[_mc_] [kate]."
@@ -2390,11 +2390,11 @@ msgstr "\"Je suppose que j'aimerais prendre rendez-vous.\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:9
 msgid "?mc.intellect>=4@[mc.intellect]/4|{image=stats int}|\"Maybe you should digitalize and automatize your appointments system?\""
-msgstr "? mc.intellect> =4@[mc.intellect]/4 | { image=stats int } | \"Peut-être devriez-vous numériser et automatiser votre système de rendez-vous?\""
+msgstr "?mc.intellect>=4@[mc.intellect]/4|{image=stats int}|\"Peut-être devriez-vous numériser et automatiser votre système de rendez-vous ?\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:9
 msgid "\"Why are you so busy?\""
-msgstr "\"Pourquoi êtes-vous si occupés?\""
+msgstr "\"Pourquoi êtes-vous si occupés ?\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:9
 msgid "\"I'd like to be a reporter for the school paper.\""
@@ -2402,7 +2402,7 @@ msgstr "\"J'aimerais être journaliste pour le journal de l'école.\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:20
 msgid "\"What if I help you out?\""
-msgstr "\"Et si je t'aide?\""
+msgstr "\"Et si je t'aide ?\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:20
 msgid "\"That's ridiculous!\""
@@ -2426,11 +2426,11 @@ msgstr "\"Pas particulièrement bien.\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:255
 msgid "\"I'm a changed man! I've learned from my mistakes. I {i}love{/} learning...\""
-msgstr "\" Je suis un homme changé ! J'ai appris de mes erreurs. I {i}love { / } apprentissage ... \""
+msgstr "\" Je suis un homme changé ! J'ai appris de mes erreurs. I {i}love {/} apprentissage ... \""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:255
 msgid "?mc.lust>=4@[mc.lust]/4|{image=stats lust}|\"Did you look at those prohibited websites?\""
-msgstr "? mc.lust> =4@[mc.lust]/4 | { image=stats lust } | \"Avez-vous l'impression de ces sites interdits?\""
+msgstr "?mc.lust>=4@[mc.lust]/4|{image=stats lust}|\"Avez-vous l'impression de ces sites interdits ?\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:255
 msgid "\"If you send that email, I will break your motherboard.\""
@@ -2458,11 +2458,11 @@ msgstr "\"Aucune de vos affaires.\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:506
 msgid "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|\"It started as an art experiment...\""
-msgstr "? mc.intellect> =6@[mc.intellect]/6 | { image=stats int } | \"Ça a commencé comme une expérience d'art ...\""
+msgstr "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|\"Ça a commencé comme une expérience d'art ...\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:506
 msgid "\"If I say '[maxine],' does that answer your question?\""
-msgstr "\"Si je dis\"[maxine], \"répond-il à votre question?\""
+msgstr "\"Si je dis\"[maxine], \"répond-il à votre question ?\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:573
 msgid "\"There's an infestation of radioactive spiders here. I've come to save the day.\""
@@ -2486,13 +2486,13 @@ msgstr "Elle mérite sa vie privée"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:789
 msgid "\"Aren't you surprised in the slightest?\""
-msgstr "\"Vous n'êtes pas surpris par le moindre?\""
+msgstr "\"Vous n'êtes pas surpris par le moindre ?\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:789
 msgid "\"So, what about that meeting?\""
-msgstr "\"Alors, qu'en est-il de cette réunion?\""
+msgstr "\"Alors, qu'en est-il de cette réunion ?\""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:789
 msgid "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|\"I've been especially careful around school officials. Only one other student knows I got the picture.\""
-msgstr "? mc.intellect> =6@[mc.intellect]/6 | { image=stats int } | \" J'ai été particulièrement prudent autour des responsables de l'école. Un seul autre étudiant sait que j'ai la photo. \""
+msgstr "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|\" J'ai été particulièrement prudent autour des responsables de l'école. Un seul autre étudiant sait que j'ai la photo. \""
 
