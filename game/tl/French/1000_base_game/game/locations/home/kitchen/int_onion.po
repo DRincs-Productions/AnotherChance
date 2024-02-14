@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:41\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_onion.rpy:18 #-#-# translate crowdin kitchen_onion_interact_41d5c836:
 msgid "Crying because you're chopping an onion."
@@ -26,7 +26,7 @@ msgstr "Vos gaines de déchirure ne connaissent pas la différence."
 
 # game/1000_base_game/game/locations/home/kitchen/int_onion.rpy:28 #-#-# translate crowdin kitchen_onion_interact_flora_cooking_chilli_e382a1fe:
 msgid "[_flora_s_annoyed_] Seems like you managed to cut the onion and keep all your fingers intact..."
-msgstr "[_flora_s_annoyed_] Seems like you managed to cut the onion and keep all your doigts intact ..."
+msgstr "[_flora_s_annoyed_] On dirait que vous avez réussi à couper l'oignon tout en gardant vos doigts intacts..."
 
 # game/1000_base_game/game/locations/home/kitchen/int_onion.rpy:29 #-#-# translate crowdin kitchen_onion_interact_flora_cooking_chilli_b0942c9c:
 msgid "[_mc_] You don't have to look so upset about that."
