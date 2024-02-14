@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:40\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:8 #-#-# translate crowdin isabelle_quest_buried_start_ef126006:
 msgid "[_isabelle_s_neutral_] Thanks for the ice tea idea. It always helps me cool down."
@@ -930,7 +930,7 @@ msgstr "[_maxine_s_annoyed_] Voir, maintenant je ne sais pas si je suis enclin �
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:352 #-#-# translate crowdin quest_isabelle_buried_maxine_d3d80b6a:
 msgid "Oh, shit. She's about to walk off. Think fast... [maxine] loves mysteries."
-msgstr "Oh, merde. Elle est sur le point de partir. Think fast ... [maxine] aime les mystères."
+msgstr "Oh, merde. Elle est sur le point de partir. Réfléchissez vite... [maxine] aime les mystères."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:355 #-#-# translate crowdin quest_isabelle_buried_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1378,7 +1378,7 @@ msgstr "[_mc_] Hey .."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:506 #-#-# translate crowdin quest_isabelle_buried_callforhelp_nurse_c3228fa5:
 msgid "[_nurse_] Goodness, [mc]. I'm really busy, I... I don't think I have time for any... you know."
-msgstr "[_nurse_] Goodness, [mc]. Je suis vraiment occupé, je ... Je ne pense pas avoir le temps pour ... tu sais."
+msgstr "[_nurse_] Bonté divine, [mc]. Je suis très occupée, je... Je ne pense pas avoir le temps pour quoi que ce soit... vous savez."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:507 #-#-# translate crowdin quest_isabelle_buried_callforhelp_nurse_2eb60700:
 msgid "[_mc_] Well, this is not about that. However, don't expect any leniency from me — that's not how we do things. Understood?"
@@ -1778,7 +1778,7 @@ msgstr "[_isabelle_s_smile_] Je l'ai fait ! Après que tu m'as montré, j'ai fai
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:645 #-#-# translate crowdin isabelle_quest_buried_isabelle_46515a58:
 msgid "[_isabelle_s_smile_] There's a nice little glade, which I think would be perfect."
-msgstr "[_isabelle_s_smile_] Il y a une jolie petite glade qui, je pense, serait parfaite."
+msgstr "[_isabelle_s_smile_] Il y a une jolie petite clairière, qui serait parfaite."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:646 #-#-# translate crowdin isabelle_quest_buried_isabelle_fcd43104:
 msgid "[_isabelle_s_excited_] I'll show you after school."
@@ -2066,7 +2066,7 @@ msgstr "[_mc_] I've told [flora] not to touch my things a million times. Je ne p
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:787 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_9a3f6cfb:
 msgid "[_isabelle_s_smile_] It's hard not to overanalyze everything you could've done differently."
-msgstr "[_isabelle_s_smile_] Il est difficile de ne pas suranalyser tout ce que vous auriez pu faire différemment."
+msgstr "[_isabelle_s_smile_] Il est difficile de ne pas trop analyser tout ce que vous auriez pu faire différemment."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:788 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_757c52b4:
 msgid "[_mc_] Oh, trust me, I know exactly what that's like. Lying awake at night, thinking of all those things you'd do differently if you could."
@@ -2226,11 +2226,11 @@ msgstr "[_isabelle_s_neutral_] Ma première mémoire d'elle est un jour de Noël
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:838 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_feb9b5d6:
 msgid "[_isabelle_s_smile_] She was sitting on my lap and she caught my cheek between her chubby little fingers, pinching it hard."
-msgstr "[_isabelle_s_smile_] Elle était assise sur mes genoux et elle a attrapé ma joue entre le petit doigt de son chubby, le pinçant dur."
+msgstr "[_isabelle_s_smile_] Elle était assise sur mes genoux et elle a pris ma joue entre ses petits doigts potelés, la pinçant fortement."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:839 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_5bb3bce7:
 msgid "[_isabelle_s_smile_] She could definitely be a brat when she wanted to, but she was a really good person."
-msgstr "[_isabelle_s_smile_] Elle pouvait certainement être une brat quand elle le voulait, mais elle était une très bonne personne."
+msgstr "[_isabelle_s_smile_] Elle pouvait être une sale gosse quand elle le voulait, mais c'était quelqu'un de très bien."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:840 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_08b36eac:
 msgid "[_mc_] Sounds like she had quite the personality."
@@ -2246,7 +2246,7 @@ msgstr "[_isabelle_s_smile_] Une fois, elle a trouvé un oiseau avec une aile ca
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:843 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_9a57aa67:
 msgid "[_isabelle_s_smile_] Dad said there was no point, but she was stubborn."
-msgstr "[_isabelle_s_smile_] Dad a dit qu'il n'y avait aucun point, mais qu'elle était têne."
+msgstr "[_isabelle_s_smile_] Papa disait que ce n'était pas la peine, mais elle était têtue."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:844 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_24912faf:
 msgid "[_isabelle_s_confident_] It took her a couple of months, but she nursed the bird back to health."
