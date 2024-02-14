@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:11\n"
+"PO-Revision-Date: 2024-02-14 17:21\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2 #-#-# translate crowdin quest_kate_moment_start_d812283f:
 msgid "Huh? This is an odd sight..."
@@ -1168,7 +1168,7 @@ msgstr "[On peut dire que je me suis sentie concernée."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:430 #-#-# translate crowdin quest_kate_moment_jo_ed251d56:
 msgid "[_jo_s_thinking_] Why are you concerned?"
-msgstr "[Pourquoi êtes-vous inquiet ?"
+msgstr "[_jo_s_thinking_] Pourquoi êtes-vous inquiet ?"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:433 #-#-# translate crowdin quest_kate_moment_jo_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1906,11 +1906,11 @@ msgstr "[isabelle] est déjà là. Il serait impoli de la laisser sans surveilla
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:767 #-#-# translate crowdin quest_kate_moment_fun_isabelle_f2a31fea:
 msgid "[_isabelle_s_smile_] There you are!"
-msgstr "[Vous voilà !"
+msgstr "[_isabelle_s_smile_] Vous voilà !"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:768 #-#-# translate crowdin quest_kate_moment_fun_isabelle_d1e7e19c:
 msgid "[_isabelle_s_smile_] I decided to stop by early. [flora] let me in."
-msgstr "[J'ai décidé de passer plus tôt. [Laissez-moi entrer."
+msgstr "[_isabelle_s_smile_] J'ai décidé de passer plus tôt. [flora] Laissez-moi entrer."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:769 #-#-# translate crowdin quest_kate_moment_fun_isabelle_4140fe1c:
 msgid "[_mc_] Sorry! Did you have to wait long?"
