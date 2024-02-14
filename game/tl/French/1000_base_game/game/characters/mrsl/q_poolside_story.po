@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:31\n"
+"PO-Revision-Date: 2024-02-14 10:16\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:3 #-#-# translate crowdin mrsl_quest_poolside_story_start_9deed393:
 msgid "[_mrsl_s_smile_] Hi, [mc]! How can I help you today?"
@@ -1282,7 +1282,7 @@ msgstr "[_mrsl_] Les longs coups durs !"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:527 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_0534c82c:
 msgid "[_mc_] {i}*Gurgle*{/}"
-msgstr "[_mc_] {i}*Gurgle * { / }"
+msgstr "[_mc_] {i}*Gurgle * {/}"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:534 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_end_9cab0eaf:
 msgid "Her sharp nails threaten to dig into my flesh, urging me to swim."
