@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:51\n"
+"PO-Revision-Date: 2024-02-14 10:47\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:39 #-#-# translate crowdin school_cafeteria_drink_machine_interact_5ff67c8d:
 msgid "This thing would be more interesting if it worked more like an actual fountain, spraying soda into the ceiling..."
@@ -68,41 +68,41 @@ msgstr "Alors que verser soda sur mon [item.title_lower] semble une bonne idée 
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_strawberry_juice_small}|{vspace=5}Strawberry Juice"
-msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=spray_strawberry_juice_small } | { vspace= 5 } Strawberry Juice"
+msgstr "[mc.money]/1|{image=ui hud icon_money }|{space=20 } {image=spray_strawberry_juice_small }|{vspace= 5 } Strawberry Juice"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=strawberry_juice_small}|{vspace=5}Strawberry Juice"
-msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=strawberry_juice_small } | { vspace= 5 } Strawberry Juice"
+msgstr "[mc.money]/1|{image=ui hud icon_money }|{space=20 } {image=strawberry_juice_small }|{vspace= 5 } Strawberry Juice"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_banana_milk_small}|{vspace=5}Banana Milk"
-msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=spray_banana_milk_small } | { vspace= 5 } Lait Banana"
+msgstr "[mc.money]/1|{image=ui hud icon_money }|{space=20 } {image=spray_banana_milk_small }|{vspace= 5 } Lait Banana"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=banana_milk_small}|{vspace=5}Banana Milk"
-msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=banana_milk_small } | { vspace= 5 } Lait Banana"
+msgstr "[mc.money]/1|{image=ui hud icon_money }|{space=20 } {image=banana_milk_small }|{vspace= 5 } Lait Banana"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_seven_hp_small}|{vspace=5}Seven HP"
-msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=spray_seven_hp_small } | { vspace= 5 } Seven HP"
+msgstr "[mc.money]/1|{image=ui hud icon_money }|{space=20 } {image=spray_seven_hp_small }|{vspace= 5 } Seven HP"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=seven_hp_small}|{vspace=5}Seven HP"
-msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=seven_hp_small } | { vspace= 5 } Seven HP"
+msgstr "[mc.money]/1|{image=ui hud icon_money }|{space=20 } {image=seven_hp_small }|{vspace= 5 } Seven HP"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_salted_cola_small}|{vspace=5}Salted Cola"
-msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=spray_salted_cola_small } | { vspace= 5 } Salted Cola"
+msgstr "[mc.money]/1|{image=ui hud icon_money }|{space=20 } {image=spray_salted_cola_small }|{vspace= 5 } Salted Cola"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=salted_cola_small}|{vspace=5}Salted Cola"
-msgstr "[mc.money]/1 | { image=ui hud icon_money } | { space=20 } { image=salted_cola_small } | { vspace= 5 } Salted Cola"
+msgstr "[mc.money]/1|{image=ui hud icon_money }|{space=20 } {image=salted_cola_small }|{vspace= 5 } Salted Cola"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=spray_pepelepsi_small}|{vspace=5}Pepelepsi"
-msgstr "[mc.money]/1 | { image=ui icon_money } | { space=20 } { image=spray_pepelepsi_small } | { vspace= 5 } Pepelepsi"
+msgstr "[mc.money]/1|{image=ui icon_money }|{space=20 } {image=spray_pepelepsi_small }|{vspace= 5 } Pepelepsi"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
 msgid "[mc.money]/1|{image=ui hud icon_money}|{space=20}{image=pepelepsi_small}|{vspace=5}Pepelepsi"
-msgstr "[mc.money]/1 | { image=ui icon_money } | { space=20 } { image=pepelepsi_small } | { vspace= 5 } Pepelepsi"
+msgstr "[mc.money]/1|{image=ui icon_money }|{space=20 } {image=pepelepsi_small }|{vspace= 5 } Pepelepsi"
 
