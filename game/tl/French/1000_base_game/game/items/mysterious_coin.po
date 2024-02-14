@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:38\n"
+"PO-Revision-Date: 2024-02-14 10:28\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/mysterious_coin.rpy:15 #-#-# translate crowdin int_mysterious_coin_706c4b8c:
 msgid "A coin of mystical powers. Flipping it could have astronomical consequences."
@@ -46,11 +46,11 @@ msgstr "C'est la sage décision."
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:26 #-#-# translate crowdin int_mysterious_coin_f9c02838:
 msgid "Who knows what could've happened?"
-msgstr "Qui sait ce qui aurait pu arriver?"
+msgstr "Qui sait ce qui aurait pu arriver ?"
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:27 #-#-# translate crowdin int_mysterious_coin_b402c57a:
 msgid "Poverty? Disease? Death? Or worse still... losing?"
-msgstr "La pauvreté? Maladie? Mort? Ou pire encore ... perdre?"
+msgstr "La pauvreté ? Maladie ? Mort ? Ou pire encore ... perdre ?"
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:28 #-#-# translate crowdin int_mysterious_coin_0b328fec:
 msgid "Definitely matrixed a bullet there."
