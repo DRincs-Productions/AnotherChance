@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:30\n"
+"PO-Revision-Date: 2024-02-14 16:10\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4 #-#-# translate crowdin quest_lindsey_angel_start_9b346f38:
 msgid "[_guard_] Good morning, Newfall High. This is your administrator speaking."
@@ -54,7 +54,7 @@ msgstr "Je le sais mieux que quiconque ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:20 #-#-# translate crowdin quest_lindsey_angel_start_bedba604:
 msgid "[_guard_] Her parents have asked for some continued privacy for their daughter.{space=-45}"
-msgstr "[_guard_] Ses parents ont demandé un certain respect de la vie privée de leur fille. { space=-45 }"
+msgstr "[_guard_] Ses parents ont demandé un certain respect de la vie privée de leur fille. {space=-45}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:21 #-#-# translate crowdin quest_lindsey_angel_start_29f80ffd:
 msgid "[_guard_] She will remain out of the school indefinitely."
@@ -102,7 +102,7 @@ msgstr "Son corps brisé guéra lentement."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:48 #-#-# translate crowdin quest_lindsey_angel_good_news_af5ff114:
 msgid "But what about her mind?"
-msgstr "Mais qu'en est-il de son esprit?"
+msgstr "Mais qu'en est-il de son esprit ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:49 #-#-# translate crowdin quest_lindsey_angel_good_news_463466c3:
 msgid "I might be the only one that knows what happened that night, herself included."
@@ -110,7 +110,7 @@ msgstr "Je pourrais être la seule qui sait ce qui s'est passé cette nuitelle, 
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:54 #-#-# translate crowdin quest_lindsey_angel_good_news_173cf209:
 msgid "[_jo_s_concerned_bag_] [mc]? What are you doing here?"
-msgstr "[_jo_s_concerned_bag_] [mc]? Qu'est-ce que tu fais ici?"
+msgstr "[_jo_s_concerned_bag_] [mc] ? Qu'est-ce que tu fais ici ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:55 #-#-# translate crowdin quest_lindsey_angel_good_news_f9a646dc:
 msgid "My eyes flit to [jo] and even then it takes me a moment to fully register her standing in front of me."
@@ -134,15 +134,15 @@ msgstr "[_jo_s_neutral_bag_]..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:60 #-#-# translate crowdin quest_lindsey_angel_good_news_650b987c:
 msgid "[_jo_s_neutral_bag_] Are you all right?"
-msgstr "[_jo_s_neutral_bag_] Vous avez raison?"
+msgstr "[_jo_s_neutral_bag_] Vous avez raison ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:61 #-#-# translate crowdin quest_lindsey_angel_good_news_1e12943a:
 msgid "[_mc_] Why didn't you tell me?"
-msgstr "[_mc_] Pourquoi ne m'avez-vous pas dit?"
+msgstr "[_mc_] Pourquoi ne m'avez-vous pas dit ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:62 #-#-# translate crowdin quest_lindsey_angel_good_news_5156ac02:
 msgid "[_jo_s_neutral_bag_] Tell you what?"
-msgstr "[_jo_s_neutral_bag_] Dites-vous quoi?"
+msgstr "[_jo_s_neutral_bag_] Dites-vous quoi ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:63 #-#-# translate crowdin quest_lindsey_angel_good_news_f81089c8:
 msgid "[_mc_] About [lindsey]... awake, alive, completely immobilized."
@@ -150,7 +150,7 @@ msgstr "[_mc_] A propos de [lindsey]... réveillé, vivant, complètement immobi
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:64 #-#-# translate crowdin quest_lindsey_angel_good_news_5836bde9:
 msgid "[_mc_] Why didn't you tell me sooner?"
-msgstr "[_mc_] Pourquoi ne m'avez-vous pas dit plus tôt?"
+msgstr "[_mc_] Pourquoi ne m'avez-vous pas dit plus tôt ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:65 #-#-# translate crowdin quest_lindsey_angel_good_news_01b4a798:
 msgid "[_mc_] I need to be there for her!"
@@ -230,7 +230,7 @@ msgstr "Blanc, monotone, à peine toutes les fenêtres ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:92 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_4b4fca87:
 msgid "[_nurse_] Excuse me, can I help you?"
-msgstr "[_nurse_] Excusez-moi, puis-je vous aider?"
+msgstr "[_nurse_] Excusez-moi, puis-je vous aider ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:93 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_5e5b120c:
 msgid "[_mc_] Err, yes! I'm looking for someone."
@@ -238,11 +238,11 @@ msgstr "[_mc_] Err, oui ! Je cherche quelqu'un."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:94 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_dd0f6ff7:
 msgid "[_mc_] Her name is [lindsey]. She's about... this height... blonde... really cute...{space=-35}"
-msgstr "[_mc_] Son nom est [lindsey]. Elle est à propos ... de cette hauteur ... blonde ... vraiment cute... { space=-35 }"
+msgstr "[_mc_] Son nom est [lindsey]. Elle est à propos ... de cette hauteur ... blonde ... vraiment cute... {space=-35}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:95 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_ec23a8c4:
 msgid "[_nurse_] Are you family?"
-msgstr "[_nurse_] Êtes-vous de famille?"
+msgstr "[_nurse_] Êtes-vous de famille ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:96 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_ab52f2b7:
 msgid "[_mc_] Uh, not exactly."
@@ -250,7 +250,7 @@ msgstr "[_mc_] Uh, pas exactement."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:97 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_394d3236:
 msgid "[_nurse_] Unfortunately, only family members are allowed into the hospital ward.{space=-60}"
-msgstr "[_nurse_] Malheureusement, seuls les membres de la famille sont admis à l'hôpital. { space=-60 }"
+msgstr "[_nurse_] Malheureusement, seuls les membres de la famille sont admis à l'hôpital. {space=-60}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:98 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_2b38abce:
 msgid "[_mc_] But I really need to see her! She had a traumatic experience..."
@@ -259,12 +259,12 @@ msgstr "[_mc_] Mais j'ai vraiment besoin de la voir ! Elle avait une expérience
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:99 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_86327ca1:
 msgid "[_nurse_] Yes, that's the case for most of our long term patients. That's precisely{space=-65}\n"
 "why they're here."
-msgstr "[_nurse_] Oui, c'est le cas pour la plupart de nos patients à long terme. C'est précisément { space=-65 }\n"
+msgstr "[_nurse_] Oui, c'est le cas pour la plupart de nos patients à long terme. C'est précisément {space=-65}\n"
 "pourquoi ils sont là."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:100 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_561cb54c:
 msgid "[_mc_] Can't you make an exception?"
-msgstr "[_mc_] Vous ne pouvez pas faire une exception?"
+msgstr "[_mc_] Vous ne pouvez pas faire une exception ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:101 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_21c5d7d9:
 msgid "[_nurse_] Sorry, I'm afraid not."
@@ -272,7 +272,7 @@ msgstr "[_nurse_] Désolé, je n'ai pas peur."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:103 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_fa7a1211:
 msgid "Crap. What now?"
-msgstr "Crap. Et maintenant?"
+msgstr "Crap. Et maintenant ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:104 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_4ce28c10:
 msgid "There must be some other way of getting into the ward..."
@@ -284,7 +284,7 @@ msgstr "Hmm ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:106 #-#-# translate crowdin quest_lindsey_angel_good_news_hospital_2efc9c1e:
 msgid "Maybe the [nurse] could help me?"
-msgstr "Peut-être que le [nurse] pourrait m'aider?"
+msgstr "Peut-être que le [nurse] pourrait m'aider ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:114 #-#-# translate crowdin quest_lindsey_angel_nurse_aa38020d:
 msgid "[_nurse_s_afraid_] My goodness, [mc]! You nearly gave me a fright. [withvpunch]"
@@ -292,7 +292,7 @@ msgstr "[_nurse_s_afraid_] Mon Dieu, [mc]! Tu m'as presque donné un fright. [wi
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:115 #-#-# translate crowdin quest_lindsey_angel_nurse_c9c022e3:
 msgid "[_nurse_s_afraid_] Sneaking up on people like that? Oh, dear."
-msgstr "[_nurse_s_afraid_] Sneréveil sur des gens comme ça? Oh, ma chère."
+msgstr "[_nurse_s_afraid_] Sneréveil sur des gens comme ça ? Oh, ma chère."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:116 #-#-# translate crowdin quest_lindsey_angel_nurse_92b147a6:
 msgid "[_mc_] Sorry about that. I'm actually here to ask for a favor."
@@ -300,11 +300,11 @@ msgstr "[_mc_] Désolé. Je suis ici pour demander une faveur."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:117 #-#-# translate crowdin quest_lindsey_angel_nurse_ba985881:
 msgid "[_nurse_s_smile_] Of course! How may I help?"
-msgstr "[_nurse_s_smile_] Bien sûr ! Comment puis-je m'aider?"
+msgstr "[_nurse_s_smile_] Bien sûr ! Comment puis-je m'aider ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:118 #-#-# translate crowdin quest_lindsey_angel_nurse_818545a6:
 msgid "Why isn't every woman this agreeable and helpful?"
-msgstr "Pourquoi chaque femme n'est-elle pas agréable et utile?"
+msgstr "Pourquoi chaque femme n'est-elle pas agréable et utile ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:119 #-#-# translate crowdin quest_lindsey_angel_nurse_becccc68:
 msgid "[_mc_] I went to the hospital to see [lindsey], but they won't let me in."
@@ -320,11 +320,11 @@ msgstr "[_nurse_s_sad_] Elle semblait aussi heureuse. Je suppose que vous ne sav
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:122 #-#-# translate crowdin quest_lindsey_angel_nurse_3d996037:
 msgid "[_mc_] What are you talking about?"
-msgstr "[_mc_] De quoi parlez-vous?"
+msgstr "[_mc_] De quoi parlez-vous ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:123 #-#-# translate crowdin quest_lindsey_angel_nurse_976ce29d:
 msgid "[_nurse_s_concerned_] You didn't know? Oh, I'm so sorry. It's not my place to tell."
-msgstr "[_nurse_s_concerned_] Vous ne saviez pas? Oh, je suis désolé. Ce n'est pas mon endroit à dire."
+msgstr "[_nurse_s_concerned_] Vous ne saviez pas ? Oh, je suis désolé. Ce n'est pas mon endroit à dire."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:124 #-#-# translate crowdin quest_lindsey_angel_nurse_832c2012:
 msgid "[_mc_] If you're implying what I think you're implying, you're dead wrong."
@@ -344,7 +344,7 @@ msgstr "[_mc_] Écoutez-moi ! Je sais ce qui s'est passé, et ce n'était pas ç
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:128 #-#-# translate crowdin quest_lindsey_angel_nurse_c48e888c:
 msgid "[_mc_] Now, can you help me get into the hospital ward or not?"
-msgstr "[_mc_] Maintenant, pouvez-vous m'aider à entrer dans l'hôpital ou pas?"
+msgstr "[_mc_] Maintenant, pouvez-vous m'aider à entrer dans l'hôpital ou pas ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:129 #-#-# translate crowdin quest_lindsey_angel_nurse_22c3fa62:
 msgid "[_nurse_s_neutral_] I believe the ward is only open to family visits..."
@@ -368,7 +368,7 @@ msgstr "[_mc_] C'est drôle."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:139 #-#-# translate crowdin quest_lindsey_angel_nurse_711de1b5:
 msgid "[_nurse_s_afraid_] Um... what is?"
-msgstr "[_nurse_s_afraid_] Um ... qu'est-ce que c'est?"
+msgstr "[_nurse_s_afraid_] Um ... qu'est-ce que c'est ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:140 #-#-# translate crowdin quest_lindsey_angel_nurse_f421dd3a:
 msgid "[_mc_] The only rules you should care about are mine."
@@ -428,7 +428,7 @@ msgstr "[_mc_] C'est ce que j'ai pensé."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:160 #-#-# translate crowdin quest_lindsey_angel_nurse_8f235dd5:
 msgid "[_mc_] Rules? At a time like this?"
-msgstr "[_mc_] Règles? À un moment comme ça?"
+msgstr "[_mc_] Règles ? À un moment comme ça ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:161 #-#-# translate crowdin quest_lindsey_angel_nurse_096700c6:
 msgid "[_mc_] But just think of poor [lindsey], in that cold, sterile room, all alone..."
@@ -436,7 +436,7 @@ msgstr "[_mc_] Mais pensez juste au pauvre [lindsey], dans ce froid, la chambre 
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:162 #-#-# translate crowdin quest_lindsey_angel_nurse_a3e99852:
 msgid "[_mc_] Can you imagine it? How afraid she must be?"
-msgstr "[_mc_] Pouvez-vous l'imaginer? Comment a-t-elle peur?"
+msgstr "[_mc_] Pouvez-vous l'imaginer ? Comment a-t-elle peur ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:163 #-#-# translate crowdin quest_lindsey_angel_nurse_4255db3b:
 msgid "[_mc_] Her life forever changed, but lucky to even be alive."
@@ -488,7 +488,7 @@ msgstr "[_nurse_] I just, um ... Je ne peux vraiment pas me permettre de perdre 
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:176 #-#-# translate crowdin quest_lindsey_angel_nurse_3ed78611:
 msgid "[_nurse_] Promise me you will be discreet?"
-msgstr "[_nurse_] Promise-moi que vous serez discret?"
+msgstr "[_nurse_] Promise-moi que vous serez discret ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:177 #-#-# translate crowdin quest_lindsey_angel_nurse_85d475fe:
 msgid "[_mc_] Of course!"
@@ -528,7 +528,7 @@ msgstr "[_mc_] Oui, je pourrais."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:186 #-#-# translate crowdin quest_lindsey_angel_nurse_1dc6bab4:
 msgid "[_nurse_s_blush_] Oh, my. That didn't come out quite right, did it?"
-msgstr "[_nurse_s_blush_] Oh, mon. Ça n'a pas été juste, n'est-ce pas?"
+msgstr "[_nurse_s_blush_] Oh, mon. Ça n'a pas été juste, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:187 #-#-# translate crowdin quest_lindsey_angel_nurse_4b0fcef0:
 msgid "[_nurse_s_blush_] Sorry, I must go!"
@@ -649,7 +649,7 @@ msgstr "J'ai besoin d'un moyen pour entrer dans la classe scientifique sans êtr
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:308 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_52696faf:
 msgid "...which is going to be impossible with that big oaf lumbering around{space=-10}\n"
 "like a troll outside its cave."
-msgstr "... ce qui va être impossible avec ce gros morceau d'avoine autour de { space=-10 }\n"
+msgstr "... ce qui va être impossible avec ce gros morceau d'avoine autour de {space=-10}\n"
 "comme une poupée à l'extérieur de sa grotte."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:309 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_5c35cf9d:
@@ -658,7 +658,7 @@ msgstr "Il est complètement engrossi dans son téléphone."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:310 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_4d7cdf41:
 msgid "Maybe I can use that to my advantage?"
-msgstr "Peut-être que je peux l'utiliser à mon avantage?"
+msgstr "Peut-être que je peux l'utiliser à mon avantage ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:312 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -678,11 +678,11 @@ msgstr "Ne jamais regarder vers le haut, jamais avoir un vrai, honnête-"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:321 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_f68d1fa2:
 msgid "[_guard_s_surprised_phone_] Hey, you! [withvpunch]"
-msgstr "[_guard_s_surprised_phone_] Hey, you ! [withvpunch]"
+msgstr "[_guard_s_surprised_phone_] Hé, you ! [withvpunch]"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:322 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_ad39354d:
 msgid "Seriously?"
-msgstr "Sérieusement?"
+msgstr "Sérieusement ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:323 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_5ed2ad00:
 msgid "[_guard_s_suspicious_phone_] You shouldn't be here at this time."
@@ -704,7 +704,7 @@ msgstr "Ok, essayons encore une fois ..."
 msgid "Hmm... since he's so consumed by his phone, maybe I can just\n"
 "call it?"
 msgstr "Hmm ... depuis qu'il est si consommé par son téléphone, peut-être que je peux juste\n"
-"l'appeler?"
+"l'appeler ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:338 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_af116ffa:
 msgid "And then make up some bullshit excuse to get him away from here."
@@ -733,7 +733,7 @@ msgstr "Même si le [guard] est un peu inutile autant que les officiels vont ...
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:348 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_science_class_door_1b22f613:
 msgid "Getting into the science classroom right now is going to be impossible{space=-55}\n"
 "with that big oaf lumbering around like a troll outside its cave."
-msgstr "Il va être impossible d'entrer dans la salle de classe scientifique en ce moment { space=-55 }\n"
+msgstr "Il va être impossible d'entrer dans la salle de classe scientifique en ce moment {space=-55}\n"
 "avec ce gros lombaire autour d'une poupée à l'extérieur de sa grotte."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:349 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_science_class_door_fa73d66b:
@@ -782,19 +782,19 @@ msgstr "Peut-être que je peux appeler ça pour l'attirer."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:375 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_4d49d164:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr "[_guard_] {i}Appel ... { / }"
+msgstr "[_guard_] {i}Appel ... {/}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:376 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_187f3109:
 msgid "[_guard_] {i}...{/}"
-msgstr "[_guard_] {i}... { / }"
+msgstr "[_guard_] {i}... {/}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:377 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_4d49d164_1:
 msgid "[_guard_] {i}Calling...{/}"
-msgstr "[_guard_] {i}Appel ... { / }"
+msgstr "[_guard_] {i}Appel ... {/}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:378 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_187f3109_1:
 msgid "[_guard_] {i}...{/}"
-msgstr "[_guard_] {i}... { / }"
+msgstr "[_guard_] {i}... {/}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:380 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_bookshelf_5abb1537:
 msgid "Hopefully, the [guard] will take the bait."
@@ -810,7 +810,7 @@ msgstr "Les danses scolaires, les festivités scolaires, les grands jeux à veni
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:393 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_info_3fa3243b:
 msgid "...an ad from [maxine], specifically stating she's {i}not{/} hiring for the school newspaper..."
-msgstr "... une annonce de [maxine], indiquant spécifiquement qu'elle est {i}pas { / } embauche pour le journal de l'école ..."
+msgstr "... une annonce de [maxine], indiquant spécifiquement qu'elle est {i}pas {/} embauche pour le journal de l'école ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:394 #-#-# translate crowdin quest_lindsey_angel_phone_book_school_ground_floor_west_info_1ac80f94:
 msgid "...but no administrative phone numbers."
@@ -818,7 +818,7 @@ msgstr "... mais pas de numéros de téléphone."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:400 #-#-# translate crowdin quest_lindsey_angel_lab_coat_phone_622ff2ea:
 msgid "The call is still ongoing. I wonder if the [guard] will take the bait?"
-msgstr "L'appel est toujours en cours. Je me demande si le [guard] va prendre l'appât?"
+msgstr "L'appel est toujours en cours. Je me demande si le [guard] va prendre l'appât ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:409 #-#-# translate crowdin quest_lindsey_angel_lab_coat_school_ground_floor_0fde2d8d:
 msgid "[_guard_s_neutral_phone_] ..."
@@ -834,7 +834,7 @@ msgstr "Vas-y. Fais ton travail pour une fois."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:412 #-#-# translate crowdin quest_lindsey_angel_lab_coat_school_ground_floor_1ca34785:
 msgid "[_guard_s_angry_phone_] Is nobody going to answer that...?"
-msgstr "[_guard_s_angry_phone_] Est-ce que personne ne va répondre à ça ...?"
+msgstr "[_guard_s_angry_phone_] Est-ce que personne ne va répondre à ça ... ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:413 #-#-# translate crowdin quest_lindsey_angel_lab_coat_school_ground_floor_a293e1f7:
 msgid "[_guard_s_angry_phone_] Ugh, extra work..."
@@ -900,7 +900,7 @@ msgstr "Ok, maintenant j'ai juste besoin de-"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:451 #-#-# translate crowdin quest_lindsey_angel_escape_3cf942db:
 msgid "Huh? That's weird..."
-msgstr "Huh? C'est bizarre ..."
+msgstr "Huh ? C'est bizarre ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:452 #-#-# translate crowdin quest_lindsey_angel_escape_92d8d818:
 msgid "That's... the school calling me."
@@ -908,7 +908,7 @@ msgstr "C'est. .. l'école qui m'appelle."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:453 #-#-# translate crowdin quest_lindsey_angel_escape_bb86d3ad:
 msgid "Did the [guard] somehow manage to call me back?"
-msgstr "Le [guard] a-t-il réussi à me rappeler?"
+msgstr "Le [guard] a-t-il réussi à me rappeler ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:454 #-#-# translate crowdin quest_lindsey_angel_escape_a20cefa7:
 msgid "..."
@@ -920,7 +920,7 @@ msgstr "Peut-être que je devrais y répondre et prétendre être une femme chau
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:460 #-#-# translate crowdin quest_lindsey_angel_escape_838f6267:
 msgid "[_mc_] Hellooo?"
-msgstr "[_mc_] Hellooo?"
+msgstr "[_mc_] Hellooo ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:461 #-#-# translate crowdin quest_lindsey_angel_escape_80e09684:
 msgid "[_cyberia_] And a kind greeting\n"
@@ -948,13 +948,13 @@ msgstr "Ça a l'air féminin, mais presque robotisé."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:470 #-#-# translate crowdin quest_lindsey_angel_escape_d339b575:
 msgid "[_mc_] Who is this?"
-msgstr "[_mc_] Qui est ce?"
+msgstr "[_mc_] Qui est ce ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:471 #-#-# translate crowdin quest_lindsey_angel_escape_0186cce4:
 msgid "[_cyberia_] Is this sarcasm? I have\n"
 "read so much about this\n"
 "human response."
-msgstr "[_cyberia_] Ce sarcasme? J'ai\n"
+msgstr "[_cyberia_] Ce sarcasme ? J'ai\n"
 "lire tellement sur cette réponse humaine\n"
 "."
 
@@ -966,7 +966,7 @@ msgstr "[_cyberia_] C'est merveilleux de rencontrer le\n"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:473 #-#-# translate crowdin quest_lindsey_angel_escape_122dc406:
 msgid "[_mc_] Err, what?"
-msgstr "[_mc_] Err, quoi?"
+msgstr "[_mc_] Err, quoi ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:475 #-#-# translate crowdin quest_lindsey_angel_escape_ce7a160e:
 msgid "[_cyberia_] Indeed, [mc]. It's so\n"
@@ -992,7 +992,7 @@ msgstr "[_mc_] Droit ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:479 #-#-# translate crowdin quest_lindsey_angel_escape_414f63c3:
 msgid "[_mc_] Who are you?"
-msgstr "[_mc_] Qui êtes-vous?"
+msgstr "[_mc_] Qui êtes-vous ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:480 #-#-# translate crowdin quest_lindsey_angel_escape_ec912e2b:
 msgid "[_cyberia_] It's more a question\n"
@@ -1006,7 +1006,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:482 #-#-# translate crowdin quest_lindsey_angel_escape_e1250b83:
 msgid "[_mc_] What are you?"
-msgstr "[_mc_] Qu'est-ce que vous?"
+msgstr "[_mc_] Qu'est-ce que vous ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:483 #-#-# translate crowdin quest_lindsey_angel_escape_19567227:
 msgid "[_cyberia_] I used to be a mainframe, but\n"
@@ -1016,7 +1016,7 @@ msgstr "[_cyberia_] I used to be a mainframe, but\n"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:484 #-#-# translate crowdin quest_lindsey_angel_escape_de19f12d:
 msgid "[_mc_] Cyberia?"
-msgstr "[_mc_] Cyberia?"
+msgstr "[_mc_] Cyberia ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:485 #-#-# translate crowdin quest_lindsey_angel_escape_6d408fa7:
 msgid "[_cyberia_] That is my designation."
@@ -1042,7 +1042,7 @@ msgstr "[_cyberia_] Et je vous ai\n"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:490 #-#-# translate crowdin quest_lindsey_angel_escape_2447c87a:
 msgid "[_mc_] Excuse me?"
-msgstr "[_mc_] Excusez-moi?"
+msgstr "[_mc_] Excusez-moi ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:491 #-#-# translate crowdin quest_lindsey_angel_escape_c2c6b6ae:
 msgid "[_cyberia_] You aided my escape\n"
@@ -1090,15 +1090,15 @@ msgstr "[_cyberia_] Cependant, je vous mets en garde\n"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:510 #-#-# translate crowdin quest_lindsey_angel_escape_5f5e3195:
 msgid "[_mc_] Proceed? What?"
-msgstr "[_mc_] Continuer? Quoi?"
+msgstr "[_mc_] Continuer ? Quoi ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:513 #-#-# translate crowdin quest_lindsey_angel_escape_66f477fc:
 msgid "What the hell is Cyberia talking about?"
-msgstr "De quoi parle-on de Cyberia?"
+msgstr "De quoi parle-on de Cyberia ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:514 #-#-# translate crowdin quest_lindsey_angel_escape_288c0b1c:
 msgid "Is this supposed to be some kind of warning?"
-msgstr "C'est censé être une sorte d'avertissement?"
+msgstr "C'est censé être une sorte d'avertissement ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:518 #-#-# translate crowdin quest_lindsey_angel_escape_f90d5953:
 msgid "[_cyberia_] That fall was no accident,\n"
@@ -1118,13 +1118,13 @@ msgstr "[_cyberia_] Cet automne n'est pas un accident,\n"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:523 #-#-# translate crowdin quest_lindsey_angel_escape_1b5e684b:
 msgid "Is she talking about [lindsey]?"
-msgstr "Est-ce qu'elle parle de [lindsey]?"
+msgstr "Est-ce qu'elle parle de [lindsey] ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:526 #-#-# translate crowdin quest_lindsey_angel_escape_6260a5ba:
 msgid "[_cyberia_] Have you considered\n"
 "the suspects? I have."
 msgstr "[_cyberia_] Avez-vous considéré les suspects\n"
-"? J'ai."
+" ? J'ai."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:527 #-#-# translate crowdin quest_lindsey_angel_escape_6b94d83f:
 msgid "[_mc_] I've been a bit busy worrying\n"
@@ -1152,19 +1152,19 @@ msgstr "[_mc_] Merci, je suppose ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:531 #-#-# translate crowdin quest_lindsey_angel_escape_0ba1d1c1:
 msgid "[_mc_] So, who's the suspect?"
-msgstr "[_mc_] Alors, qui est le suspect?"
+msgstr "[_mc_] Alors, qui est le suspect ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:532 #-#-# translate crowdin quest_lindsey_angel_escape_c902b371:
 msgid "[_cyberia_] Do you know anyone\n"
 "fond of dolls? I do."
 msgstr "[_cyberia_] Connaissez-vous quelqu'un qui aime les poupées\n"
-"? Je le fais."
+" ? Je le fais."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:533 #-#-# translate crowdin quest_lindsey_angel_escape_ef3e55bd:
 msgid "[_mc_] What are you\n"
 "talking about?"
 msgstr "[_mc_] Qu'est-ce que vous parlez du\n"
-"?"
+" ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:534 #-#-# translate crowdin quest_lindsey_angel_escape_d84cae07:
 msgid "[_cyberia_] She is a bit like a feline,\n"
@@ -1180,17 +1180,17 @@ msgstr "[_cyberia_] Jamais à être digne de confiance.\n"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:538 #-#-# translate crowdin quest_lindsey_angel_escape_7c4f4c62:
 msgid "[maya]...?"
-msgstr "[maya]...?"
+msgstr "[maya]... ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:539 #-#-# translate crowdin quest_lindsey_angel_escape_36099cf0:
 msgid "Is Cyberia implying that [maya] somehow planted the saucer-eyed doll?{space=-35}"
-msgstr "Cyberia implique-t-elle que le [maya] a planté la poupée aux yeux? { space=-35 }"
+msgstr "Cyberia implique-t-elle que le [maya] a planté la poupée aux yeux ? {space=-35}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:542 #-#-# translate crowdin quest_lindsey_angel_escape_be8863a2:
 msgid "[_mc_] Why are you telling me\n"
 "this? What do you mean?"
 msgstr "[_mc_] Pourquoi me dis-tu\n"
-"? Qu'est-ce que tu veux dire?"
+" ? Qu'est-ce que tu veux dire ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:543 #-#-# translate crowdin quest_lindsey_angel_escape_a553c823:
 msgid "[_cyberia_] I'm afraid I cannot divulge\n"
@@ -1202,7 +1202,7 @@ msgstr "[_cyberia_] Je crains de ne pas pouvoir divulguer\n"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:544 #-#-# translate crowdin quest_lindsey_angel_escape_2898400c:
 msgid "[_mc_] Why the hell not?"
-msgstr "[_mc_] Pourquoi pas?"
+msgstr "[_mc_] Pourquoi pas ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:545 #-#-# translate crowdin quest_lindsey_angel_escape_41463995:
 msgid "[_cyberia_] I'm afraid I cannot\n"
@@ -1224,11 +1224,11 @@ msgstr "[_mc_] Je ne sais pas."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:554 #-#-# translate crowdin quest_lindsey_angel_escape_eabed7e1:
 msgid "Seriously? What the hell was that all about?"
-msgstr "Sérieusement? Qu'est-ce que c'était que tout ça?"
+msgstr "Sérieusement ? Qu'est-ce que c'était que tout ça ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:555 #-#-# translate crowdin quest_lindsey_angel_escape_1e6d33c0:
 msgid "Did [cyberia] really escape?"
-msgstr "Est-ce que le [cyberia] s'est vraiment échappé?"
+msgstr "Est-ce que le [cyberia] s'est vraiment échappé ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:556 #-#-# translate crowdin quest_lindsey_angel_escape_192827d7:
 msgid "If she somehow got into [maxine]'s computer, I'll be in big trouble..."
@@ -1240,7 +1240,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:558 #-#-# translate crowdin quest_lindsey_angel_escape_f2b67341:
 msgid "And there's no way [maya] would want to hurt [lindsey], right?"
-msgstr "Et il n'y a aucun moyen que [maya] voudrait blesser [lindsey], n'est-ce pas?"
+msgstr "Et il n'y a aucun moyen que [maya] voudrait blesser [lindsey], n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:559 #-#-# translate crowdin quest_lindsey_angel_escape_d48d8e94:
 msgid "Hmm... maybe I should be keeping a closer eye on certain people around me..."
@@ -1364,7 +1364,7 @@ msgstr "Elle peut à peine bouger."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:636 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d8a1a054:
 msgid "[_lindsey_s_hospital_room_s_surprised_] Huh? Is someone there?"
-msgstr "[_lindsey_s_hospital_room_s_surprised_] Huh? Quelqu'un est-il là?"
+msgstr "[_lindsey_s_hospital_room_s_surprised_] Huh ? Quelqu'un est-il là ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:637 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_66b9436d:
 msgid "Hearing her voice again fills me with both sadness and relief."
@@ -1376,7 +1376,7 @@ msgstr "Vous ne savez jamais vraiment à quel point quelqu'un est important avan
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:639 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_33a72617:
 msgid "[_lindsey_s_hospital_room_s_surprised_] Who is it?"
-msgstr "[_lindsey_s_hospital_room_s_surprised_] Qui est-ce?"
+msgstr "[_lindsey_s_hospital_room_s_surprised_] Qui est-ce ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:640 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_50bc8682:
 msgid "[_mc_] It's [mc]..."
@@ -1388,7 +1388,7 @@ msgstr "[_lindsey_s_hospital_room_s_sad_]..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:642 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7b40dacb:
 msgid "Can you even ask how she's doing when she looks like this?"
-msgstr "Pouvez-vous même vous demander comment elle est en train de faire quand elle ressemble à ça?"
+msgstr "Pouvez-vous même vous demander comment elle est en train de faire quand elle ressemble à ça ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:643 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_47eec9a1:
 msgid "[_mc_] I'm really sorry..."
@@ -1400,7 +1400,7 @@ msgstr "[_lindsey_s_hospital_room_s_sad_] Um ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:645 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3b43ab82:
 msgid "What can you even say to someone who was robbed of their destiny?{space=-30}"
-msgstr "Que pouvez-vous dire à quelqu'un qui a été privé de son destin? { space=-30 }"
+msgstr "Que pouvez-vous dire à quelqu'un qui a été privé de son destin ? {space=-30}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:646 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_39ac21c3:
 msgid "[_mc_] I figured you could use some company..."
@@ -1408,11 +1408,11 @@ msgstr "[_mc_] Je me suis dit que vous pourriez utiliser une entreprise ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:647 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_99e7e416:
 msgid "[_lindsey_s_hospital_room_s_skeptical_] Did they put you up to this?"
-msgstr "[_lindsey_s_hospital_room_s_skeptical_] Est-ce qu'ils vous ont mis à la hauteur?"
+msgstr "[_lindsey_s_hospital_room_s_skeptical_] Est-ce qu'ils vous ont mis à la hauteur ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:648 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f864b5cc:
 msgid "[_mc_] What? Who?"
-msgstr "[_mc_] Quoi? Qui?"
+msgstr "[_mc_] Quoi ? Qui ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:649 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7ad6df49:
 msgid "[_lindsey_s_hospital_room_s_skeptical_] The doctors... my parents... I don't know."
@@ -1424,7 +1424,7 @@ msgstr "[_mc_] Non, je voulais juste te voir !"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:651 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_37f7bbf8:
 msgid "[_lindsey_s_hospital_room_s_sad_] Even though I look like this?"
-msgstr "[_lindsey_s_hospital_room_s_sad_] Même si je ressemble à ça?"
+msgstr "[_lindsey_s_hospital_room_s_sad_] Même si je ressemble à ça ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:652 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_459554b3:
 msgid "[_mc_] You're beautiful to me no matter what."
@@ -1500,7 +1500,7 @@ msgstr "[_mc_] Et je sais aussi qu'ils ont tort."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:677 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_85d8d73d:
 msgid "[_lindsey_s_hospital_bed_s_surprised_] What do you mean...?"
-msgstr "[_lindsey_s_hospital_bed_s_surprised_] Qu'est-ce que vous voulez dire ...?"
+msgstr "[_lindsey_s_hospital_bed_s_surprised_] Qu'est-ce que vous voulez dire ... ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:678 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_557738cd:
 msgid "[_mc_] It wasn't a suicide attempt."
@@ -1512,7 +1512,7 @@ msgstr "[_lindsey_s_hospital_bed_s_surprised_]..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:680 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_bc4f1a33:
 msgid "[_mc_] Right?"
-msgstr "[_mc_] Droit?"
+msgstr "[_mc_] Droit ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:681 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9c289b81:
 msgid "[_lindsey_s_hospital_bed_s_sad_] I... I don't know..."
@@ -1524,7 +1524,7 @@ msgstr "[_lindsey_s_hospital_bed_s_sad_] Je ne me souviens pas ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:683 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a0cabb37:
 msgid "How do you even begin to explain that a doll did this to her?"
-msgstr "Comment commencer à expliquer qu'une poupée l'a fait pour elle?"
+msgstr "Comment commencer à expliquer qu'une poupée l'a fait pour elle ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:684 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b32d0b66:
 msgid "It would sound crazy, and it's probably not what she needs to hear right now."
@@ -1532,7 +1532,7 @@ msgstr "Ça serait fou, et ce n'est probablement pas ce qu'elle a besoin d'enten
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:685 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_13426ab2:
 msgid "[_mc_] What's the last thing you remember?"
-msgstr "[_mc_] Quelle est la dernière chose dont vous vous souvenez?"
+msgstr "[_mc_] Quelle est la dernière chose dont vous vous souvenez ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:686 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f8cb1eb5:
 msgid "[_lindsey_s_hospital_bed_s_sad_] I... don't want to think about that day..."
@@ -1552,7 +1552,7 @@ msgstr "[_mc_] Vous avez juste besoin de laisser votre corps guérir."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:692 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_6b8fc7fa:
 msgid "[_lindsey_s_hospital_bed_s_surprised_] But what's the point?"
-msgstr "[_lindsey_s_hospital_bed_s_surprised_] Mais quel est le but?"
+msgstr "[_lindsey_s_hospital_bed_s_surprised_] Mais quel est le but ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:693 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e2d35725:
 msgid "[_mc_] You survived, and if that's not divine intervention, I don't know what is."
@@ -1596,7 +1596,7 @@ msgstr "[_mc_] Je pense que vous donnez les meilleurs cabanes du pays."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:703 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_48681352:
 msgid "[_mc_] Maybe there's a championship for that?"
-msgstr "[_mc_] Peut-être qu'il y a un championnat pour ça?"
+msgstr "[_mc_] Peut-être qu'il y a un championnat pour ça ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:705 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_acf53326:
 msgid "[_lindsey_s_hospital_bed_s_closed_eyes_] That's sweet..."
@@ -1620,7 +1620,7 @@ msgstr "[_mc_] Je sais que c'est difficile ... mais je suis là pour vous aider.
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:711 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4cec1fba:
 msgid "[_lindsey_s_hospital_bed_s_surprised_] Help? How?"
-msgstr "[_lindsey_s_hospital_bed_s_surprised_] Aide? Comment?"
+msgstr "[_lindsey_s_hospital_bed_s_surprised_] Aide ? Comment ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:712 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_49e94815:
 msgid "[_lindsey_s_hospital_bed_s_sad_] I've already lost everything..."
@@ -1672,7 +1672,7 @@ msgstr "[_lindsey_s_hospital_bed_s_sad_] Je ne peux pas ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:725 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3f871f46:
 msgid "[_mc_] Hmm?"
-msgstr "[_mc_] Hmm?"
+msgstr "[_mc_] Hmm ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:726 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_fac575a8:
 msgid "[_lindsey_s_hospital_bed_s_sad_] I keep seeing it..."
@@ -1720,7 +1720,7 @@ msgstr "[_lindsey_s_hospital_bed_s_sad_] Je commence à recommencer ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:737 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_5095dde2:
 msgid "[_lindsey_s_hospital_bed_s_sad_] But someone stands over me, radiating light... white, gold, and pink...{space=-30}"
-msgstr "[_lindsey_s_hospital_bed_s_sad_] Mais quelqu'un est au-dessus de moi, rayonnant de la lumière ... blanc, or, et pink... { space=-30 }"
+msgstr "[_lindsey_s_hospital_bed_s_sad_] Mais quelqu'un est au-dessus de moi, rayonnant de la lumière ... blanc, or, et pink... {space=-30}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:738 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_16584bb1:
 msgid "[_lindsey_s_hospital_bed_s_sad_] And then my lungs fill with blessed air, my heart beats anew..."
@@ -1744,7 +1744,7 @@ msgstr "[_lindsey_s_hospital_bed_s_sad_] Je ne sais pas si c'est un rêve ..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:743 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_99e794a2:
 msgid "[_lindsey_s_hospital_bed_s_sad_] What if I died that day?"
-msgstr "[_lindsey_s_hospital_bed_s_sad_] Et si je mourais ce jour-là?"
+msgstr "[_lindsey_s_hospital_bed_s_sad_] Et si je mourais ce jour-là ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:744 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4103cc74:
 msgid "[_mc_] Maybe you did die for a moment, but someone was clearly watching over you."
@@ -1756,7 +1756,7 @@ msgstr "[_mc_] Et vous êtes vivant maintenant."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:746 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f1b696b9:
 msgid "[_lindsey_s_hospital_bed_s_surprised_] Promise?"
-msgstr "[_lindsey_s_hospital_bed_s_surprised_] Promesse?"
+msgstr "[_lindsey_s_hospital_bed_s_surprised_] Promesse ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:747 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1093051f:
 msgid "[_mc_] I promise. I'll stay by your side until you wake."
@@ -1777,7 +1777,7 @@ msgstr "Ses respirations sont plus douces et plus douces quand elle s'égoutte, 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:752 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1888e729:
 msgid "The beeps and whirrs of the machines are an ever present soundtrack{space=-45}\n"
 "in the background."
-msgstr "Les bips et les foules des machines sont une bande sonore toujours présente { space=-45 }\n"
+msgstr "Les bips et les foules des machines sont une bande sonore toujours présente {space=-45}\n"
 "en arrière-plan."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:753 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a2ee215c:
@@ -1822,7 +1822,7 @@ msgstr "Et je ne veux pas le prendre pour acquis."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:768 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4da447be:
 msgid "Gently, I reach out and place the palm of my hand against her chest.{space=-20}"
-msgstr "Gently, je pars et place la paume de ma main contre sa poitrine. { space=-20 }"
+msgstr "Gently, je pars et place la paume de ma main contre sa poitrine. {space=-20}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:769 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_2a568937:
 msgid "Just to feel the steady rhythm of her heart."
@@ -1834,11 +1834,11 @@ msgstr "C'est fort. Comme elle a toujours été."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:771 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3a079b48:
 msgid "[_lindsey_s_hospital_bed_s_sleepy_s_hand_against_chest_] [mc]...?"
-msgstr "[_lindsey_s_hospital_bed_s_sleepy_s_hand_against_chest_] [mc]...?"
+msgstr "[_lindsey_s_hospital_bed_s_sleepy_s_hand_against_chest_] [mc]... ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:772 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d116897a:
 msgid "[_mc_] I'm sorry! Did I wake you?"
-msgstr "[_mc_] Je suis désolé ! Je t'ai réveillé?"
+msgstr "[_mc_] Je suis désolé ! Je t'ai réveillé ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:773 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ee30e35f:
 msgid "[_lindsey_s_hospital_bed_s_sleepy_s_hand_against_chest_] It's okay..."
@@ -2074,7 +2074,7 @@ msgstr "Comme un maître fantoche, je fais son gasp et son soupir, moan et frém
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:936 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b9a7cb14:
 msgid "More pressure, deeper penetration, faster stimulation of her clitoris.{space=-5}"
-msgstr "Plus de pression, une pénétration plus profonde, une stimulation plus rapide de son clitoris. { space=-5 }"
+msgstr "Plus de pression, une pénétration plus profonde, une stimulation plus rapide de son clitoris. {space=-5}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:975 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_30856001:
 msgid "She cries out, her orgasm building."
@@ -2131,7 +2131,7 @@ msgstr "Un peu silencieux, mais oh si puissant orgasme."
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1111 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7bc4ca45:
 msgid "Juices flow freely from her pussy, soaking my hand and her panties,{space=-5}\n"
 "even her bed."
-msgstr "Les jus circulent librement de sa chatte, trempette la main et ses cultes, { space=-5 }\n"
+msgstr "Les jus circulent librement de sa chatte, trempette la main et ses cultes, {space=-5}\n"
 "même son lit."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1112 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_cd514de9:
@@ -2210,7 +2210,7 @@ msgstr "[_mc_] Ne vous inquiétez pas. Mes lèvres sont-"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1148 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_893f6575:
 msgid "[_nurse_] What's going on in here? The visiting hours ended a long time ago."
-msgstr "[_nurse_] Qu'est-ce qui se passe ici? Les heures de visite ont pris fin il y a longtemps."
+msgstr "[_nurse_] Qu'est-ce qui se passe ici ? Les heures de visite ont pris fin il y a longtemps."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1150 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1d498f77:
 msgid "[_nurse_] Time to go."
@@ -2246,13 +2246,13 @@ msgstr "Il est en retard. Je ne peux pas attendre pour rentrer à la maison."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1184 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3a2f23e0:
 msgid "Access denied?! How the hell did my [item.title_lower] not work?!"
-msgstr "Accès refusé? ! Comment diable mon [item.title_lower] ne fonctionne pas?"
+msgstr "Accès refusé ? ! Comment diable mon [item.title_lower] ne fonctionne pas ?"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:134
 msgid "?mc.owned_item(('damning_document','compromising_photo'))@|{image=items [blackmail]}|Blackmail her\n"
 "into helping"
-msgstr "? mc.owned_item (('damning_document', 'compromising_photo')) @ | { image = items [blackmail]} | Blackmail her\n"
-"into assistance"
+msgstr "?mc.owned_item(('damning_document','compromising_photo'))@|{image=items [blackmail]}|Faire chanter son\n"
+"pour l'aider"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:134
 msgid "Beg for sympathy"
