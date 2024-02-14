@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:36\n"
+"PO-Revision-Date: 2024-02-14 16:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:49 #-#-# translate crowdin home_bathroom_sink_use_socks_fe062c18:
 msgid "I wonder what [kate] will think when I return her socks perfectly clean...{space=-45}"
-msgstr "Je me demande ce que [kate] va penser quand je retourne ses chaussettes parfaitement propres ... { space=-45 }"
+msgstr "Je me demande ce que [kate] va penser quand je retourne ses chaussettes parfaitement propres ... {space=-45}"
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:50 #-#-# translate crowdin home_bathroom_sink_use_socks_a71bb4d1:
 msgid "It's weird, but I can't wait to feel that shame she'll undoubtedly pour on."
@@ -126,7 +126,7 @@ msgstr "Mais quelque chose ne semble pas tout à fait correct."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:121 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_170968f9:
 msgid "Did [jo] cut my hair in my sleep? That bowl-cut used to be my mark of shame in high school, but I've let it grow since."
-msgstr "Est-ce que le [jo] a coupé mes cheveux dans mon sommeil ? Cette coupe-coupe était ma marque de honte au lycée, mais je l'ai laissé grandir depuis."
+msgstr "Est-ce que [jo] a coupé mes cheveux dans mon sommeil ? Cette coupe au bol était ma marque de honte au lycée, mais je l'ai laissée pousser depuis."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:122 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_da54e271:
 msgid "Those few hours of sleep sucked, but somehow, my face looks younger... more rested. Fewer lines of despair and grief."
@@ -222,7 +222,7 @@ msgstr "[_mc_] C'est une blague ?"
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:149 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_3dcbcd6b:
 msgid "[_jo_] Do I sound like I'm joking, [mc]? Get dressed and come down now!"
-msgstr "[_jo_] Est-ce que je me sens comme je plaisant, [mc] ? Va habillé et descendu maintenant !"
+msgstr "[_jo_] Est-ce que j'ai l'air de plaisanter, [mc] ?] Habille-toi et descends maintenant !"
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:151 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_eea19202:
 msgid "[_mc_] I'm going back to bed! See you tonight!"
