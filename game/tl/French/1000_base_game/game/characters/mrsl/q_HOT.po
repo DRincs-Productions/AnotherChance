@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:30\n"
+"PO-Revision-Date: 2024-02-14 10:16\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3 #-#-# translate crowdin mrsl_quest_HOT_start_9598f0ee:
 msgid "[mrsl] seems lost in thought. Her eyes wander slowly over the gym."
@@ -1162,7 +1162,7 @@ msgstr "[_mc_] De toute façon, savez-vous-"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:466 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_001700d0:
 msgid "[_jo_s_neutral_] {i}Anyway.{/}"
-msgstr "[_jo_s_neutral_] {i}Anyway. { / }"
+msgstr "[_jo_s_neutral_] {i}Anyway. {/}"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:467 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_58324085:
 msgid "[_mc_] Sorry, [jo]..."
@@ -1170,7 +1170,7 @@ msgstr "[_mc_] Désolé, [jo]..."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:468 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_4912dea2:
 msgid "[_mc_] {i}Anyway{/}, do you know if we have any capture cards down in the basement?"
-msgstr "[_mc_] {i}En tout cas { / }, savez-vous si nous avons des cartes de capture au sous-sol?"
+msgstr "[_mc_] {i}En tout cas {/}, savez-vous si nous avons des cartes de capture au sous-sol?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:469 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_19b1578d:
 msgid "[_jo_s_thinking_] I know there's a stack of your old pocketmon cards down there."
@@ -1182,7 +1182,7 @@ msgstr "Qu'est-ce que cela a à voir avec quoi que ce soit?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:471 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_dee70d1c:
 msgid "[_mc_] {i}Pokémon.{/}"
-msgstr "[_mc_] {i}Pokémon. { / }"
+msgstr "[_mc_] {i}Pokémon. {/}"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:472 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_1bfd2e13:
 msgid "[_jo_s_annoyed_] Don't correct me, [mc]. It's very rude!"
@@ -1766,7 +1766,7 @@ msgstr "C'est un étrange commerce ..."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:678 #-#-# translate crowdin home_bedroom_computer_interact_mrsl_HOT_watch_2a101392:
 msgid "But the first lesson is {i}always{/} free?"
-msgstr "Mais la première leçon est {i}toujours { / } libre?"
+msgstr "Mais la première leçon est {i}toujours {/} libre?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:679 #-#-# translate crowdin home_bedroom_computer_interact_mrsl_HOT_watch_c907a4bc:
 msgid "Hmm... maybe, maybe, maybe..."
