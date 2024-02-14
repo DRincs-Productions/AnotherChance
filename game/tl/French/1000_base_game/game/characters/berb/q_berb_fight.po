@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:40\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:4 #-#-# translate crowdin berb_quest_fight_start_325436f1:
 msgid "Huh? I thought I killed that beaver."
@@ -210,7 +210,7 @@ msgstr "[_flora_s_skeptical_s_flip_] Pourquoi criez-vous ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:127 #-#-# translate crowdin berb_quest_fight_roof_5e22f4a9:
 msgid "[_mc_] Err... hi there, [flora]."
-msgstr "[_mc_] Err ... hi there, [flora]."
+msgstr "[_mc_] Err ... Bonjour à tous, [flora]."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:128 #-#-# translate crowdin berb_quest_fight_roof_c9062852:
 msgid "[_mc_] There's a foul-mouthed beaver on the roof!"
@@ -534,7 +534,7 @@ msgstr "Bien que je n'aimerais rien de plus que de mettre mon [item.title_lower]
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:266 #-#-# translate crowdin berb_quest_items_8c22b932:
 msgid "Hitting that river slug with my [item.title_lower] would be satisfying, but it could also cost me my left nut."
-msgstr "Hitting that river slug with my [item.title_lower] serait satisfaisant, mais ça pourrait aussi me coûter mon écrou gauche."
+msgstr "Frapper la limace de la rivière avec mon [item.title_lower] serait satisfaisant, mais cela pourrait aussi me coûter mon écrou gauche."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:267 #-#-# translate crowdin berb_quest_items_7dcb38a6:
 msgid "First, I need to learn more about his evil ways."
