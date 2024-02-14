@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:30\n"
+"PO-Revision-Date: 2024-02-14 10:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:3 #-#-# translate crowdin quest_maxine_lines_start_81141839:
 msgid "[maxine] always seems to be investigating something, and it's usually best not to ask any questions..."
@@ -1874,7 +1874,7 @@ msgstr "[_jacklyn_] Quel est votre message?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:722 #-#-# translate crowdin quest_maxine_lines_helpinghand_18050d0e:
 msgid "[_mc_] {i}\"Women aren't tools!\"{/}"
-msgstr "[_mc_] {i}\"Les femmes ne sont pas des outils !\" { / }"
+msgstr "[_mc_] {i}\"Les femmes ne sont pas des outils !\" {/}"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:723 #-#-# translate crowdin quest_maxine_lines_helpinghand_e5aa02ae:
 msgid "[_jacklyn_] That rubs me in the right spot..."
