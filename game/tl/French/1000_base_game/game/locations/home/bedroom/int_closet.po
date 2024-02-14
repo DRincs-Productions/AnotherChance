@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:36\n"
+"PO-Revision-Date: 2024-02-14 16:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:76 #-#-# translate crowdin home_bedroom_closet_kate_fate_dress_ebc2c219:
 msgid "Okay, time to pick my outfit for this endeavor..."
@@ -672,7 +672,7 @@ msgstr "Porter la tenue d'hier"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:225
 msgid "?quest.flora_bonsai['love_route']@|{image=flora_bonsai_hand_holding}|\"[flora], what's really going on?\""
-msgstr " ? quest.flora_bonsai ['love_route'] @ | { image = flora_bonsai_hand_holding } | \"[flora], qu'est-ce qui se passe vraiment ?\""
+msgstr "?quest.flora_bonsai['love_route']@|{image=flora_bonsai_hand_holding}|\"[flora], qu'est-ce qui se passe vraiment ?\""
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:225
 msgid "\"You, me, and [jo] — you know all three of us are terrible liars.\""
