@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 17:03\n"
+"PO-Revision-Date: 2024-02-14 11:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_bonsai.rpy:38 #-#-# translate crowdin school_nurse_room_bonsai_interact_227ecfe5:
 msgid "This looks suspicious. I should consult with [flora] first."
@@ -22,7 +22,7 @@ msgstr "Le [nurse] semble toujours surtravaillé. [jo] m'a dit qu'elle se rempli
 
 # game/1000_base_game/game/locations/school/nurse_room/int_bonsai.rpy:41 #-#-# translate crowdin school_nurse_room_bonsai_interact_5b8bd6a4:
 msgid "Maybe her life would become a tiny bit easier if I watered her beloved bonsai?"
-msgstr "Peut-être que sa vie deviendrait un tout petit peu plus facile si j'arrosais ses bonsaïs bien-aimés?"
+msgstr "Peut-être que sa vie deviendrait un tout petit peu plus facile si j'arrosais ses bonsaïs bien-aimés ?"
 
 # game/1000_base_game/game/locations/school/nurse_room/int_bonsai.rpy:42 #-#-# translate crowdin school_nurse_room_bonsai_interact_499820d8:
 msgid "Just need to find a spray bottle... and something liquid."
