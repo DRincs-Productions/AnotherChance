@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:13\n"
+"PO-Revision-Date: 2024-02-14 16:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:89 #-#-# translate crowdin quest_fall_in_newfall_not_started_home_bedroom_bed_7b854a1e:
 msgid "My work here is done."
@@ -1522,7 +1522,7 @@ msgstr "[_mrsl_s_excited_] Bonjour, tout le monde, et bienvenue au nouveau semes
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:885 #-#-# translate crowdin quest_fall_in_newfall_late_dbf3f3c8:
 msgid "How can she be so chipper after what happened to [lindsey]?"
-msgstr "Comment peut-elle être si chipper après ce qui est arrivé au [lindsey] ?"
+msgstr "Comment peut-elle être si joyeuse après ce qui est arrivé à [Lindsey] ?"
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:886 #-#-# translate crowdin quest_fall_in_newfall_late_43118ad8:
 msgid "[_mrsl_s_concerned_] I'm sure you all know by now that one of the students here got hurt right before the break."
@@ -1634,7 +1634,7 @@ msgstr "Espérons que le [lindsey] se réveillera bientôt et fera une reprise c
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:427
 msgid "?flora.love>=10@[flora.love]/10|{image=flora contact_icon}|{image=stats love_3}|\"Can we go together?\""
-msgstr "?flora.love>=10 @[flora.love]/10|{image=flora contact_icon}|{image=stats love_ 3}|\"Pouvons-nous ensemble ?\""
+msgstr "?flora.love>=10@[flora.love]/10|{image=flora contact_icon}|{image=stats love_3}|\"On peut y aller ensemble ?\""
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:427
 msgid "\"I'm sorry. You look great.\""
@@ -1675,8 +1675,8 @@ msgstr "\"Nous sommes dans la même classe\n"
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:716
 msgid "?quest.lindsey_motive.actually_finished@|{image=lindsey contact_icon}|{image=stats love}|\"Have you tried\n"
 "calling [lindsey]?\""
-msgstr " ? quest.lindsey_motive.actually_finished @|{image = lindsey contact_icon}|{image=stats love}|\"Avez-vous essayé\n"
-"appelant le [lindsey] ?\""
+msgstr "?quest.lindsey_motive.actually_finished@|{image=lindsey contact_icon}|{image=stats love}|\"Avez-vous essayé d'appeler [lindsey] sur\n"
+"?\""
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:716
 msgid "\"Sorry, I needed some time.\""
