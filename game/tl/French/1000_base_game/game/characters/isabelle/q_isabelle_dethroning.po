@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:40\n"
+"PO-Revision-Date: 2024-02-14 12:49\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:8 #-#-# translate crowdin quest_isabelle_dethroning_start_f602badf:
 msgid "[_mc_] Hi, [isabelle]! I managed to score a meeting with [maxine]."
@@ -8380,7 +8380,7 @@ msgstr "\"Je pourrais te demander la même ...\""
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4805
 msgid "\"I'm looking for [lindsey]!\n"
 "Have you seen her?\""
-msgstr "\" Je cherche le [lindsey]!\n"
+msgstr "\"Je cherche [lindsey]!\n"
 "Vous l'avez vue ? \""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4966
