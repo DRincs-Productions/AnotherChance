@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:56\n"
+"PO-Revision-Date: 2024-02-14 10:53\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/first_hall_east/int_door_pool.rpy:56 #-#-# translate crowdin school_first_hall_east_door_pool_interact_8bf8bd0c:
 msgid "It looks bad if students start drowning during the first week, so it's school policy to keep it closed."
@@ -18,15 +18,15 @@ msgstr "Ça semble mauvais si les étudiants commencent à se noyer au cours de 
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_pool.rpy:60 #-#-# translate crowdin school_first_hall_east_door_pool_lindsey_fetch_nurse_d813d96c:
 msgid "You're trying to go to the pool?"
-msgstr "Vous essayez d'aller à la piscine?"
+msgstr "Vous essayez d'aller à la piscine ?"
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_pool.rpy:61 #-#-# translate crowdin school_first_hall_east_door_pool_lindsey_fetch_nurse_63053ae4:
 msgid "[lindsey] has a Defcon 5 concussion and you're trying to enter the pool?!"
-msgstr "[lindsey] a une commotion de Defcon 5 et vous essayez d'entrer dans la piscine? !"
+msgstr "[lindsey] a une commotion de Defcon 5 et vous essayez d'entrer dans la piscine ? !"
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_pool.rpy:62 #-#-# translate crowdin school_first_hall_east_door_pool_lindsey_fetch_nurse_92cbcddd:
 msgid "And you're laughing?!"
-msgstr "Et vous riez?"
+msgstr "Et vous riez ?"
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_pool.rpy:66 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_poolclosed_97ad3d17:
 msgid "There's a notice taped to the door."
@@ -34,7 +34,7 @@ msgstr "Il y a un avis enregistré à la porte."
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_pool.rpy:67 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_poolclosed_69332d36:
 msgid "{i}\"Due to the amounts of soggy confetti in the filters last year, the pool will remain closed until after the Newfall Independence Day festivities.\"{/}"
-msgstr "{i}\"En raison des quantités de confettis soggy dans les filtres l'an dernier, la piscine restera fermée jusqu'à la fête de l'Indépendance de Newfall.\" { / }"
+msgstr "{i}\"En raison des quantités de confettis soggy dans les filtres l'an dernier, la piscine restera fermée jusqu'à la fête de l'Indépendance de Newfall.\" {/}"
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_pool.rpy:68 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_poolclosed_ee9782ac:
 msgid "Oh, right. That happened."
@@ -50,5 +50,5 @@ msgstr "Pas sûr de ce que les pensées de [mrsl]sont en ce qui concerne les ess
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_pool.rpy:71 #-#-# translate crowdin school_first_hall_east_door_pool_poolside_story_poolclosed_ff5a0007:
 msgid "How am I supposed to feast my eyes upon the flesh of the innocent now?"
-msgstr "Comment suis-je censé manger mes yeux sur la chair de l'innocent maintenant?"
+msgstr "Comment suis-je censé manger mes yeux sur la chair de l'innocent maintenant ?"
 
