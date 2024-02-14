@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:45\n"
+"PO-Revision-Date: 2024-02-14 10:37\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_vhs_player.rpy:31 #-#-# translate crowdin home_bedroom_vcr_tape_3e5ae245:
 msgid "All right. In goes the tape..."
@@ -26,7 +26,7 @@ msgstr "\"Ne mettez pas votre [item.title_lower] dans l'emplacement\", ont-ils d
 
 # game/1000_base_game/game/locations/home/bedroom/int_vhs_player.rpy:36 #-#-# translate crowdin home_bedroom_vcr_tape_950a54c4:
 msgid "Who is laughing now, VHS purists?"
-msgstr "Qui rit maintenant, les VHS puristes?"
+msgstr "Qui rit maintenant, les VHS puristes ?"
 
 # game/1000_base_game/game/locations/home/bedroom/int_vhs_player.rpy:41 #-#-# translate crowdin home_bedroom_vhs_player_interact_insert_49d69049:
 msgid "The only way to know if this thing works is to press the power button."
