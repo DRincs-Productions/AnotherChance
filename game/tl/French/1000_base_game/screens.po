@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:45\n"
+"PO-Revision-Date: 2024-02-14 11:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
@@ -79,7 +79,7 @@ msgstr "Version [ config.version! t ]\n"
 # game/1000_base_game/screens.rpy:566
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr "Fait avec { a=https: //www.renpy.org/ } Ren'Py { /a } [renpy.version_only].\n\n"
+msgstr "Fait avec {a=https: //www.renpy.org/} Ren'Py {/a} [renpy.version_only].\n\n"
 "[ renpy.license! t ]"
 
 # game/1000_base_game/screens.rpy:648
@@ -248,7 +248,7 @@ msgstr "Prend une capture d'écran."
 
 # game/1000_base_game/screens.rpy:1049
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr "Active ou désactive l'assistance { a=https: //www.renpy.org/l/voicing}self-voicing { /a }."
+msgstr "Active ou désactive l'assistance {a=https: //www.renpy.org/l/voicing}self-voicing {/a}."
 
 # game/1000_base_game/screens.rpy:1055
 msgid "Left Click"
