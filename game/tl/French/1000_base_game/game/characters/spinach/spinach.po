@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-09 16:05\n"
+"PO-Revision-Date: 2024-02-14 10:16\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/spinach/spinach.rpy:224 #-#-# translate crowdin spinach_talk_hide_ff1922d5:
 msgid "[_spinach_] ..."
@@ -66,7 +66,7 @@ msgstr "Il est difficile de ne pas envier sa vie."
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:258 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_4b263413:
 msgid "[_spinach_s_neutral_] {i}*Sniff, sniff*{/}"
-msgstr "[_spinach_s_neutral_] {i}*Sniff, sniff * { / }"
+msgstr "[_spinach_s_neutral_] {i}*Sniff, sniff * {/}"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:259 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_a0ca9454:
 msgid "[_spinach_] Meow!"
@@ -86,7 +86,7 @@ msgstr "Elle a couru dans le hall d'entrée, puis tout droit à l'extérieur."
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:273 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_4b263413_1:
 msgid "[_spinach_s_neutral_] {i}*Sniff, sniff*{/}"
-msgstr "[_spinach_s_neutral_] {i}*Sniff, sniff * { / }"
+msgstr "[_spinach_s_neutral_] {i}*Sniff, sniff * {/}"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:274 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_147445fd:
 msgid "[_spinach_s_closedeyes_] Meow?"
@@ -94,11 +94,11 @@ msgstr "[_spinach_s_closedeyes_] Meow?"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:275 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_5c31795e:
 msgid "[_spinach_s_hearteyed_] {i}*Sniff, sniff*{/}"
-msgstr "[_spinach_s_hearteyed_] {i}*Sniff, sniff * { / }"
+msgstr "[_spinach_s_hearteyed_] {i}*Sniff, sniff * {/}"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:276 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_dfb605de:
 msgid "[_spinach_s_tongueout_] {i}*Lick, lick*{/}"
-msgstr "[_spinach_s_tongueout_] {i}*Lick, lick * { / }"
+msgstr "[_spinach_s_tongueout_] {i}*Lick, lick * {/}"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:277 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_706736d3:
 msgid "[_mc_] Oh, no!"
