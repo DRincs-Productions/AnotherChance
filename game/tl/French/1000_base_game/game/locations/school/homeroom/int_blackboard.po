@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:03\n"
+"PO-Revision-Date: 2024-02-14 16:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:37 #-#-# translate crowdin school_homeroom_blackboard_interact_3970b336:
 msgid "{i}\"Seniors, sign up for your focus classes. Three in total. Sign-up lists available in each classroom.\"{/}"
@@ -58,7 +58,7 @@ msgstr "{i}\"[isabelle], si j'ai perdu mes devoirs sur le chemin de l'école, vo
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:79 #-#-# translate crowdin school_homeroom_blackboard_interact_write_isabelle_haggis_4efebf57:
 msgid "{i}\"[flora], you're the flickering fluorescent light in the basement of my life.\"{/}"
-msgstr "{i}\"[flora], vous êtes la lumière fluorescente flickant dans le sous-sol de ma vie. \" {/}"
+msgstr "{i}\"[flora], tu es la lumière fluorescente vacillante dans le sous-sol de ma vie.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:83 #-#-# translate crowdin school_homeroom_blackboard_interact_write_isabelle_haggis_b280cdf3:
 msgid "{i}\"[mrsl], I'll commit every sin cos of your curves.\"{/}"
