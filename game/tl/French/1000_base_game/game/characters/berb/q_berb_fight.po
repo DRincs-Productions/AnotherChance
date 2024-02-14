@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:26\n"
+"PO-Revision-Date: 2024-02-14 11:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:4 #-#-# translate crowdin berb_quest_fight_start_325436f1:
 msgid "Huh? I thought I killed that beaver."
-msgstr "Huh? Je pensais avoir tué ce castor."
+msgstr "Huh ? Je pensais avoir tué ce castor."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:5 #-#-# translate crowdin berb_quest_fight_start_c23e747d:
 msgid "I guess there's more than one beaver in the forest, but it does look awfully similar."
@@ -26,7 +26,7 @@ msgstr "Pas sûr de ce que veut la bête. Probablement juste attention. Ces minu
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:22 #-#-# translate crowdin berb_quest_fight_roof_b5785acb:
 msgid "{i}*Beaver noises*{/}"
-msgstr "{i}*Les bruits de castor * { / }"
+msgstr "{i}*Les bruits de castor * {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:25 #-#-# translate crowdin berb_quest_fight_roof_906a0afd:
 msgid "Okay, according to the beaver encyclopedia..."
@@ -42,7 +42,7 @@ msgstr "C'est probablement parce que j'ai tué son ami."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:38 #-#-# translate crowdin berb_quest_fight_roof_b5785acb_1:
 msgid "{i}*Beaver noises*{/}"
-msgstr "{i}*Les bruits de castor * { / }"
+msgstr "{i}*Les bruits de castor * {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:43 #-#-# translate crowdin berb_quest_fight_roof_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -54,7 +54,7 @@ msgstr "[_mc_] Essayez de le dire à mon visage !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:56 #-#-# translate crowdin berb_quest_fight_roof_b5785acb_2:
 msgid "{i}*Beaver noises*{/}"
-msgstr "{i}*Les bruits de castor * { / }"
+msgstr "{i}*Les bruits de castor * {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:59 #-#-# translate crowdin berb_quest_fight_roof_1261243a:
 msgid "Okay, let's see what he's saying now..."
@@ -66,7 +66,7 @@ msgstr "[_berb_] You Yellow-bellied hockerspock ! Vous avez de la chance, je sui
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:61 #-#-# translate crowdin berb_quest_fight_roof_2ca475d5:
 msgid "[_mc_] What are you going to do? Splash water on me?"
-msgstr "[_mc_] Qu'est-ce que vous allez faire? Envoie de l'eau sur moi?"
+msgstr "[_mc_] Qu'est-ce que vous allez faire ? Envoie de l'eau sur moi ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:62 #-#-# translate crowdin berb_quest_fight_roof_f9eb2f18:
 msgid "[_berb_] I'll gnaw off your fingers and clog your toilet with the bones!"
@@ -82,7 +82,7 @@ msgstr "[_berb_] Vos genoux vont décorer les murs de mon nid !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:68 #-#-# translate crowdin berb_quest_fight_roof_2c1ab83e:
 msgid "[_lindsey_s_skeptical_] What's that noise?"
-msgstr "[_lindsey_s_skeptical_] Quel est ce bruit?"
+msgstr "[_lindsey_s_skeptical_] Quel est ce bruit ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:71 #-#-# translate crowdin berb_quest_fight_roof_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -110,7 +110,7 @@ msgstr "[_mc_] Il vient de vous appeler une princesse gâtée et dit qu'il a un 
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:80 #-#-# translate crowdin berb_quest_fight_roof_6c5b7c97:
 msgid "[_lindsey_s_cringe_] Is that supposed to be funny?"
-msgstr "[_lindsey_s_cringe_] Est-ce que c'est censé être drôle?"
+msgstr "[_lindsey_s_cringe_] Est-ce que c'est censé être drôle ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:81 #-#-# translate crowdin berb_quest_fight_roof_f9c9e764:
 msgid "[_mc_] No! It was rude as hell!"
@@ -122,7 +122,7 @@ msgstr "[_lindsey_s_angry_] Si je suis la princesse, j'ai besoin de me trouver u
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:87 #-#-# translate crowdin berb_quest_fight_roof_8198040f:
 msgid "[_mc_] What noise? I didn't hear anything."
-msgstr "[_mc_] Quel bruit? Je n'ai rien entendu."
+msgstr "[_mc_] Quel bruit ? Je n'ai rien entendu."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:88 #-#-# translate crowdin berb_quest_fight_roof_843f5cf4:
 msgid "[_lindsey_s_afraid_] Look! There's a beaver on the roof!"
@@ -134,7 +134,7 @@ msgstr "[_mc_] Oui, je suppose que vous avez raison."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:90 #-#-# translate crowdin berb_quest_fight_roof_d7ba4e99:
 msgid "[_lindsey_s_blush_] Aren't you going to save him?"
-msgstr "[_lindsey_s_blush_] N'allez-vous pas le sauver?"
+msgstr "[_lindsey_s_blush_] N'allez-vous pas le sauver ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:91 #-#-# translate crowdin berb_quest_fight_roof_44c6b31c:
 msgid "[_mc_] Hell no! That furry devil just cursed at me."
@@ -142,7 +142,7 @@ msgstr "[_mc_] Hell no ! Ce diable s'est juste maudit contre moi."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:92 #-#-# translate crowdin berb_quest_fight_roof_a9c895f9:
 msgid "[_lindsey_s_thinking_] Really? What if he falls?"
-msgstr "[_lindsey_s_thinking_] Vraiement? Et s'il tombe?"
+msgstr "[_lindsey_s_thinking_] Vraiement ? Et s'il tombe ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:93 #-#-# translate crowdin berb_quest_fight_roof_bd3c079a:
 msgid "[_mc_] I'd celebrate his demise."
@@ -150,7 +150,7 @@ msgstr "[_mc_] Je célébrerais sa disparition."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:95 #-#-# translate crowdin berb_quest_fight_roof_6565dec3:
 msgid "[_lindsey_s_cringe_] That's not cool. Where is your sense of heroics?"
-msgstr "[_lindsey_s_cringe_] Ce n'est pas cool. Où est votre sens de l'héroïque?"
+msgstr "[_lindsey_s_cringe_] Ce n'est pas cool. Où est votre sens de l'héroïque ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:97 #-#-# translate crowdin berb_quest_fight_roof_a7fd50e3:
 msgid "Ugh, she looked really disappointed."
@@ -170,11 +170,11 @@ msgstr "Ma vengeance sera rapide ... dès que je serai en mesure de le faire des
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:104 #-#-# translate crowdin berb_quest_fight_roof_42b2d35b:
 msgid "[_mc_] Let's be friends, little buddy."
-msgstr "[_mc_] Let's be friends, little buddy."
+msgstr "[_mc_] Soyons amis, mon petit gars."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:114 #-#-# translate crowdin berb_quest_fight_roof_b5785acb_3:
 msgid "{i}*Beaver noises*{/}"
-msgstr "{i}*Les bruits de castor * { / }"
+msgstr "{i}*Les bruits de castor * {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:117 #-#-# translate crowdin berb_quest_fight_roof_1261243a_1:
 msgid "Okay, let's see what he's saying now..."
@@ -186,7 +186,7 @@ msgstr "[_berb_] Vos os feront de grands ajouts à mon barrage !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:119 #-#-# translate crowdin berb_quest_fight_roof_d3ec48b3:
 msgid "[_mc_] What the hell?"
-msgstr "[_mc_] Qu'est-ce que l'enfer?"
+msgstr "[_mc_] Qu'est-ce que l'enfer ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:120 #-#-# translate crowdin berb_quest_fight_roof_cf82ce69:
 msgid "[_berb_] I'll fill your skull with seaweed and smoke it like pot!"
@@ -202,11 +202,11 @@ msgstr "[_berb_] Je vais faire tourner votre sœur avec ma queue de pagaie et la
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:123 #-#-# translate crowdin berb_quest_fight_roof_f6b04fed:
 msgid "[_mc_] Seriously? Don't talk about my sister!"
-msgstr "[_mc_] Sérieusement? Ne parle pas de ma sœur !"
+msgstr "[_mc_] Sérieusement ? Ne parle pas de ma sœur !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:126 #-#-# translate crowdin berb_quest_fight_roof_4301053e:
 msgid "[_flora_s_skeptical_s_flip_] Why are you yelling?"
-msgstr "[_flora_s_skeptical_s_flip_] Pourquoi criez-vous?"
+msgstr "[_flora_s_skeptical_s_flip_] Pourquoi criez-vous ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:127 #-#-# translate crowdin berb_quest_fight_roof_5e22f4a9:
 msgid "[_mc_] Err... hi there, [flora]."
@@ -218,7 +218,7 @@ msgstr "[_mc_] Il y a un castor mouille sur le toit !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:129 #-#-# translate crowdin berb_quest_fight_roof_045a3b85:
 msgid "[_flora_s_afraid_s_flip_] What?"
-msgstr "[_flora_s_afraid_s_flip_] Quoi?"
+msgstr "[_flora_s_afraid_s_flip_] Quoi ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:130 #-#-# translate crowdin berb_quest_fight_roof_434b3887:
 msgid "[_mc_] I said... there's a fucking beaver on the roof..."
@@ -226,7 +226,7 @@ msgstr "[_mc_] J'ai dit ... il y a un castor putain sur le toit ..."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:131 #-#-# translate crowdin berb_quest_fight_roof_5938461c:
 msgid "[_flora_s_thinking_s_flip_] Oh?"
-msgstr "[_flora_s_thinking_s_flip_] Oh?"
+msgstr "[_flora_s_thinking_s_flip_] Oh ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:132 #-#-# translate crowdin berb_quest_fight_roof_be90b378:
 msgid "[_flora_s_laughing_s_flip_] Oh! It's cute!"
@@ -246,7 +246,7 @@ msgstr "[_mc_] Il a dit toutes sortes de choses méchants."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:140 #-#-# translate crowdin berb_quest_fight_roof_26d0a3e4:
 msgid "[_flora_s_annoyed_] Like what?"
-msgstr "[_flora_s_annoyed_] Comme quoi?"
+msgstr "[_flora_s_annoyed_] Comme quoi ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:141 #-#-# translate crowdin berb_quest_fight_roof_2f450820:
 msgid "[_mc_] He said my sister would gnaw on his log."
@@ -254,11 +254,11 @@ msgstr "[_mc_] Il a dit que ma sœur gnait sur son journal."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:142 #-#-# translate crowdin berb_quest_fight_roof_8860199a:
 msgid "[_flora_s_confused_] Seriously, dude?"
-msgstr "[_flora_s_confused_] Sérieusement, mec?"
+msgstr "[_flora_s_confused_] Sérieusement, mec ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:143 #-#-# translate crowdin berb_quest_fight_roof_11455b53:
 msgid "[_mc_] What?"
-msgstr "[_mc_] Quoi?"
+msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:144 #-#-# translate crowdin berb_quest_fight_roof_f601096c:
 msgid "[_flora_s_confused_] That's messed up."
@@ -266,7 +266,7 @@ msgstr "[_flora_s_confused_] C'est désorbé."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:145 #-#-# translate crowdin berb_quest_fight_roof_55ac1124:
 msgid "[_flora_s_confused_] Can you stop saying weird shit and blaming an innocent animal?"
-msgstr "[_flora_s_confused_] Peux-tu arrêter de dire bizarre et blâmeron un animal innocent?"
+msgstr "[_flora_s_confused_] Peux-tu arrêter de dire bizarre et blâmeron un animal innocent ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:146 #-#-# translate crowdin berb_quest_fight_roof_4de924ea:
 msgid "[_mc_] I looked it up in the beaver encyclo—"
@@ -274,7 +274,7 @@ msgstr "[_mc_] Je l'ai regardé dans l'encyclique du castor-"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:147 #-#-# translate crowdin berb_quest_fight_roof_a179e3af:
 msgid "[_flora_s_eyeroll_] Just stop, okay?"
-msgstr "[_flora_s_eyeroll_] Just stop, okay?"
+msgstr "[_flora_s_eyeroll_] Just stop, okay ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:148 #-#-# translate crowdin berb_quest_fight_roof_080e4dc8:
 msgid "[_flora_s_eyeroll_] I'm tired of this."
@@ -406,7 +406,7 @@ msgstr "La première étape consiste à frapper cette créature au large du toit
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:205 #-#-# translate crowdin berb_quest_fight_ground_b5785acb:
 msgid "{i}*Beaver noises*{/}"
-msgstr "{i}*Les bruits de castor * { / }"
+msgstr "{i}*Les bruits de castor * {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:208 #-#-# translate crowdin berb_quest_fight_ground_62435910:
 msgid "Oh, hell no! That little cocksucker just called me a clown! We all heard it!"
@@ -430,23 +430,23 @@ msgstr "Je suis sûr que le bâtard sera de retour ici à la morosité en aucun 
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:224 #-#-# translate crowdin berb_quest_items_52ecb5a5:
 msgid "{i}\"The common beaver (Latin: Beavus Pestus) belongs to a family of large rodents that infests the world's forests.\"{/}"
-msgstr "{i}\"Le castor commun (latin: Beavus Pestus) appartient à une famille de grands rongeurs qui infeste les forêts du monde.\" { / }"
+msgstr "{i}\"Le castor commun (latin: Beavus Pestus) appartient à une famille de grands rongeurs qui infeste les forêts du monde.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:225 #-#-# translate crowdin berb_quest_items_4bc654e9:
 msgid "{i}\"Throughout history, their distinct sounds and ways of communication have attracted the interests of many scientists and nature experts.\"{/}"
-msgstr "{i}\"Tout au long de l'histoire, leurs sons et leurs modes de communication distincts ont suscité les intérêts de nombreux scientifiques et experts de la nature.\" { / }"
+msgstr "{i}\"Tout au long de l'histoire, leurs sons et leurs modes de communication distincts ont suscité les intérêts de nombreux scientifiques et experts de la nature.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:226 #-#-# translate crowdin berb_quest_items_221844cd:
 msgid "{i}\"In 1997, the naturologist and famous hunter J. J. Timberlake decoded the language of the beavers.\"{/}"
-msgstr "{i}\"En 1997, le naturologue et chasseur célèbre J. J. Timberlake a décodé la langue des castors.\" { / }"
+msgstr "{i}\"En 1997, le naturologue et chasseur célèbre J. J. Timberlake a décodé la langue des castors.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:227 #-#-# translate crowdin berb_quest_items_cb4ba479:
 msgid "{i}\"This instantly worsened human-beaver relationships across the globe, and started what can only be described as a cold war.\"{/}"
-msgstr "{i}\"Cela a instantanément aggravé les relations entre les humains et les castors à travers le monde, et a commencé ce qui ne peut être décrit que comme une guerre froide.\" { / }"
+msgstr "{i}\"Cela a instantanément aggravé les relations entre les humains et les castors à travers le monde, et a commencé ce qui ne peut être décrit que comme une guerre froide.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:228 #-#-# translate crowdin berb_quest_items_2967bd8a:
 msgid "{i}\"This encyclopedia contains the full translations of beaver tongue — a language so foul that the consensus among linguists is that it should join Latin, Coptic, Summerian, and Sanskrit on the list of dead languages.\"{/}"
-msgstr "{i}\"Cette encyclopédie contient les traductions complètes de la langue de castor-une langue si grossière que le consensus des linguistes est qu'il devrait rejoindre le latin, le copte, le Summerian et le sanskrit sur la liste des langues mortes.\" { / }"
+msgstr "{i}\"Cette encyclopédie contient les traductions complètes de la langue de castor-une langue si grossière que le consensus des linguistes est qu'il devrait rejoindre le latin, le copte, le Summerian et le sanskrit sur la liste des langues mortes.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:229 #-#-# translate crowdin berb_quest_items_883fcfbe:
 msgid "Okay, let's see what that critter is actually saying. This book seems to have the translations."
@@ -458,23 +458,23 @@ msgstr "L'exécution de mon [item.title_lower] à elle attirait le mépris de to
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:236 #-#-# translate crowdin berb_quest_items_71e96454:
 msgid "{i}\"A beaver's natural habitat consists of wooded areas with streams of water.\"{/}"
-msgstr "{i}\"L'habitat naturel d'un castor est constitué de zones boisées avec des cours d'eau.\" { / }"
+msgstr "{i}\"L'habitat naturel d'un castor est constitué de zones boisées avec des cours d'eau.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:237 #-#-# translate crowdin berb_quest_items_2f5e1805:
 msgid "{i}\"They use their sharp teeth to gnaw down trees to build their dams.\"{/}"
-msgstr "{i}\"Ils utilisent leurs dents pointues pour décongeler les arbres pour construire leurs barrages.\" { / }"
+msgstr "{i}\"Ils utilisent leurs dents pointues pour décongeler les arbres pour construire leurs barrages.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:238 #-#-# translate crowdin berb_quest_items_f93756b3:
 msgid "{i}\"They use their sharp tongues to spit insults at predators (or really, anyone else who happens to cross their path).\"{/}"
-msgstr "{i}\"Ils utilisent leurs langues fortes pour cracerles insultes contre les prédateurs (ou vraiment, ceux qui arrivent à traverser leur chemin).\" { / }"
+msgstr "{i}\"Ils utilisent leurs langues fortes pour cracerles insultes contre les prédateurs (ou vraiment, ceux qui arrivent à traverser leur chemin).\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:239 #-#-# translate crowdin berb_quest_items_dd4c2dc7:
 msgid "{i}\"They slap their tails against the surface of the water for attention. These rodents are known for their egocentric worldview.\"{/}"
-msgstr "{i}\" Ils giflent leur queue contre la surface de l'eau pour y prêter attention. Ces rongeurs sont connus pour leur vision du monde égocentrique. \" { / }"
+msgstr "{i}\" Ils giflent leur queue contre la surface de l'eau pour y prêter attention. Ces rongeurs sont connus pour leur vision du monde égocentrique. \" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:240 #-#-# translate crowdin berb_quest_items_df182414:
 msgid "{i}\"In the 1980s, there used to be over 60 million beavers in North America. Thankfully, most have been hunted down today.\"{/}"
-msgstr "{i}\" Dans les années 1980, il y avait plus de 60 millions de castors en Amérique du Nord. Heureusement, la plupart ont été chassés aujourd'hui. \" { / }"
+msgstr "{i}\" Dans les années 1980, il y avait plus de 60 millions de castors en Amérique du Nord. Heureusement, la plupart ont été chassés aujourd'hui. \" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:243 #-#-# translate crowdin berb_quest_items_4aae112c:
 msgid "He escaped again, but perhaps I can track him into the forest this time."
@@ -482,19 +482,19 @@ msgstr "Il s'est échappé de nouveau, mais je peux peut-être le suivre dans la
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:246 #-#-# translate crowdin berb_quest_items_69c02627:
 msgid "{i}\"Also known as 'floaters,' these pieces of nocturnal shit clog up most streams if left unchecked.\"{/}"
-msgstr "{i}\"Aussi appelé\" flotteurs \", ces morceaux de merde nocturnes s'accrocher à la plupart des cours d'eau s'ils sont laissés sans contrôle.\" { / }"
+msgstr "{i}\"Aussi appelé\" flotteurs \", ces morceaux de merde nocturnes s'accrocher à la plupart des cours d'eau s'ils sont laissés sans contrôle.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:247 #-#-# translate crowdin berb_quest_items_9d8f063f:
 msgid "{i}\"The beavers' merciless deforestation of nature reserves and ecological systems is a danger to all wildlife.\"{/}"
-msgstr "{i}\"Le déboisement impitoyable des castors de réserves naturelles et de systèmes écologiques représente un danger pour tous les animaux sauvages.\" { / }"
+msgstr "{i}\"Le déboisement impitoyable des castors de réserves naturelles et de systèmes écologiques représente un danger pour tous les animaux sauvages.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:248 #-#-# translate crowdin berb_quest_items_5c07fb73:
 msgid "{i}\"No forests means no oxygen, which makes their intent quite clear — suffocating the planet.\"{/}"
-msgstr "{i}\"Aucune forêt ne signifie pas d'oxygène, ce qui rend leur intention assez claire-étouffer la planète.\" { / }"
+msgstr "{i}\"Aucune forêt ne signifie pas d'oxygène, ce qui rend leur intention assez claire-étouffer la planète.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:249 #-#-# translate crowdin berb_quest_items_f9d05617:
 msgid "{i}\"Polluting a body of water is the simplest way of getting a beaver out of its fortified bunker (sometimes referred to as a 'dam').\"{/}"
-msgstr "{i}\"Le fait de polluer un corps d'eau est le moyen le plus simple de sortir un castor de son bunker fortifié (parfois appelé\" barrage \").\" { / }"
+msgstr "{i}\"Le fait de polluer un corps d'eau est le moyen le plus simple de sortir un castor de son bunker fortifié (parfois appelé\" barrage \").\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:250 #-#-# translate crowdin berb_quest_items_6c0cd87e:
 msgid "That pretty much sums up my thoughts on beavers, as well."
@@ -510,23 +510,23 @@ msgstr "Les plastiques à usage unique et les liquides toxiques sont le feu vert
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:256 #-#-# translate crowdin berb_quest_items_d41be82e:
 msgid "{i}\"The beaver's deceitfully cuddly appearance is used to hide its malicious intentions from its victims.\"{/}"
-msgstr "{i}\"L'apparence trompeuse du castor est utilisée pour cacher ses intentions malveillantes de ses victimes.\" { / }"
+msgstr "{i}\"L'apparence trompeuse du castor est utilisée pour cacher ses intentions malveillantes de ses victimes.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:257 #-#-# translate crowdin berb_quest_items_91e31826:
 msgid "{i}\"With the ability to fell trees with its powerful bite, the beaver is literally armed to the teeth.\"{/}"
-msgstr "{i}\"Avec la capacité de tomber des arbres avec sa puissante morsure, le castor est littéralement armé jusqu'aux dents.\" { / }"
+msgstr "{i}\"Avec la capacité de tomber des arbres avec sa puissante morsure, le castor est littéralement armé jusqu'aux dents.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:258 #-#-# translate crowdin berb_quest_items_d4144de4:
 msgid "{i}\"Often unprovoked, these creatures maul and slaughter without mercy or respite.\"{/}"
-msgstr "{i}\"Souvent non provoqués, ces créatures maule et massacre sans pitié ou répit.\" { / }"
+msgstr "{i}\"Souvent non provoqués, ces créatures maule et massacre sans pitié ou répit.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:259 #-#-# translate crowdin berb_quest_items_70ba4a98:
 msgid "{i}\"Survivors of beaver attacks are often left with a mental trauma to go along with the physical one.\"{/}"
-msgstr "{i}\"Les survivants d'attaques de castors sont souvent laissés avec un traumatisme mental pour aller avec la physique.\" { / }"
+msgstr "{i}\"Les survivants d'attaques de castors sont souvent laissés avec un traumatisme mental pour aller avec la physique.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:260 #-#-# translate crowdin berb_quest_items_ffc599a8:
 msgid "{i}\"Even a solitary beaver should be treated with extreme caution.\"{/}"
-msgstr "{i}\"Même un castor solitaire doit être traité avec une extrême prudence.\" { / }"
+msgstr "{i}\"Même un castor solitaire doit être traité avec une extrême prudence.\" {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:264 #-#-# translate crowdin berb_quest_items_d6fa9417:
 msgid "While I'd like nothing more than to shove my [item.title_lower] down his furry throat, more research is required."
@@ -586,7 +586,7 @@ msgstr "[_berb_] Foolish humain ! Vous ne correspondant pas à-"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:308 #-#-# translate crowdin berb_quest_items_83322472:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas?"
+msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:309 #-#-# translate crowdin berb_quest_items_2e7696b9:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
@@ -614,15 +614,15 @@ msgstr "Hmm ... ça m'a semblé plus cool dans ma tête."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:343 #-#-# translate crowdin berb_quest_items_e74d2f39:
 msgid "[_mc_] Are you ready for survival of the fittest?"
-msgstr "[_mc_] Êtes-vous prêt pour la survie du plus fort?"
+msgstr "[_mc_] Êtes-vous prêt pour la survie du plus fort ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:346 #-#-# translate crowdin berb_quest_items_2871c4cc:
 msgid "[_berb_] Look at your double-chin, pussy. Do you call that fit?"
-msgstr "[_berb_] Regarde ton double menton, la chatte. Est-ce que vous appelez cela?"
+msgstr "[_berb_] Regarde ton double menton, la chatte. Est-ce que vous appelez cela ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:348 #-#-# translate crowdin berb_quest_items_83322472_1:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas?"
+msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:349 #-#-# translate crowdin berb_quest_items_2e7696b9_1:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
@@ -654,7 +654,7 @@ msgstr "Pour l'instant, appelons ce jour ... baise, je ne peux pas venir avec qu
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:381 #-#-# translate crowdin berb_quest_items_3d49637a:
 msgid "Maybe Fur-Fuck-Friday?"
-msgstr "Peut-être Fur-Fuck-vendredi?"
+msgstr "Peut-être Fur-Fuck-vendredi ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:382 #-#-# translate crowdin berb_quest_items_112b3aa0:
 msgid "Ugh, I'm sure I'll think of something."
@@ -662,7 +662,7 @@ msgstr "Ugh, je suis sûr que je vais penser à quelque chose."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:387 #-#-# translate crowdin berb_quest_items_83322472_2:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas?"
+msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:388 #-#-# translate crowdin berb_quest_items_2e7696b9_2:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
@@ -678,7 +678,7 @@ msgstr "[_mc_] Eat this !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:393 #-#-# translate crowdin berb_quest_items_7e5548a2:
 msgid "[_berb_] You think your poisoned apple has any effect on me?"
-msgstr "[_berb_] Vous pensez que votre pomme empoisonnée a quelque effet sur moi?"
+msgstr "[_berb_] Vous pensez que votre pomme empoisonnée a quelque effet sur moi ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:394 #-#-# translate crowdin berb_quest_items_4f1e4408:
 msgid "[_berb_] Poison only makes me stronger!"
@@ -690,7 +690,7 @@ msgstr "[_berb_] Om nom nom ..."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:406 #-#-# translate crowdin berb_quest_items_1177c9c5:
 msgid "[_berb_] Urk...? [withvpunch]"
-msgstr "[_berb_] Urk ...? [withvpunch]"
+msgstr "[_berb_] Urk ... ? [withvpunch]"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:407 #-#-# translate crowdin berb_quest_items_a8bd428c:
 msgid "[_mc_] Sorry, but that's not really poison."
@@ -706,7 +706,7 @@ msgstr "[_mc_] Il nettoiera votre mal et vous laissera sans rien !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:432 #-#-# translate crowdin berb_quest_items_c92782a3:
 msgid "[_berb_] {i}*Gurgle*{/}"
-msgstr "[_berb_] {i}*Gurgle * { / }"
+msgstr "[_berb_] {i}*Gurgle * {/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:434 #-#-# translate crowdin berb_quest_items_8cf18797:
 msgid "Not the most heroic of victories, but a victory nonetheless."
@@ -830,7 +830,7 @@ msgstr "[_mc_] Le temps de rencontrer votre fabricant, la merde !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:521 #-#-# translate crowdin quest_berb_fight_glade_fight_83322472:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas?"
+msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:522 #-#-# translate crowdin quest_berb_fight_glade_fight_2e7696b9:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
@@ -862,7 +862,7 @@ msgstr "Putain ! Il m'a mordu !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:559 #-#-# translate crowdin quest_berb_fight_glade_fight_93dfa1df:
 msgid "How is he so powerful?"
-msgstr "Comment est-il si puissant?"
+msgstr "Comment est-il si puissant ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:574 #-#-# translate crowdin quest_berb_fight_glade_fight_0812eb46:
 msgid "He chokeslammed me like nothing!"
@@ -886,7 +886,7 @@ msgstr "C'est la fin ! Je regrette tout !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:591 #-#-# translate crowdin quest_berb_fight_glade_fight_80f5a03b:
 msgid "Ugh, what's wrong with me?"
-msgstr "Ugh, qu'est-ce qui ne va pas avec moi?"
+msgstr "Ugh, qu'est-ce qui ne va pas avec moi ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:592 #-#-# translate crowdin quest_berb_fight_glade_fight_4e3c5bed:
 msgid "I feel all woozy and dull."
@@ -914,7 +914,7 @@ msgstr "\"Soyons amis, petit boueux.\""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:42
 msgid "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|Don't fall for the beaver's tricks"
-msgstr "? mc.intellect> =6@[mc.intellect]/6 | { image=stats int } | Ne pas tomber pour les tours du castor"
+msgstr "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|Ne pas tomber pour les tours du castor"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:70
 msgid "\"It's that fucking beaver.\""
@@ -922,7 +922,7 @@ msgstr "\"C'est ce putain de castor.\""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:70
 msgid "\"What noise? I didn't hear anything.\""
-msgstr "\" Quel bruit? Je n'ai rien entendu. \""
+msgstr "\" Quel bruit ? Je n'ai rien entendu. \""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:135
 msgid "\"He said all sorts of nasty things.\""
