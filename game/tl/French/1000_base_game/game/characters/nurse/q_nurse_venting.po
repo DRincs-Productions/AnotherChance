@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:11\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
 msgid "[_mc_] I don't believe what I'm seeing."
@@ -1036,7 +1036,7 @@ msgstr "[_mc_] Vous avez besoin de moi au\n"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:469 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_d4c6052e:
 msgid "[_nurse_] P-please..."
-msgstr "[_nurse_] P-SVP ..."
+msgstr "[_nurse_] S-Svp ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:470 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_54f1af82:
 msgid "[_mc_] Hold tight. Let me\n"
@@ -1093,8 +1093,8 @@ msgstr "[_nurse_] A gauche, à gauche !"
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:491 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_b37cc237:
 msgid "[_nurse_] I used to sing that\n"
 "in nursing school..."
-msgstr "[_nurse_] I used to sing that\n"
-"in nursing school ..."
+msgstr "[_nurse_] J'avais l'habitude de chanter ça\n"
+"à l'école d'infirmières..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:492 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_0ce168e8:
 msgid "[_nurse_] Hey, it smells like paint!"
@@ -1119,10 +1119,10 @@ msgid "[_nurse_] Sounds like someone is\n"
 "writing on a blackboard...\n"
 "and I think I heard [mrsl]'s\n"
 "voice."
-msgstr "[_nurse_] Sounds like someone is\n"
-"writing on a blackboard ...\n"
-"and I think I heard [mrsl]'s\n"
-"voice."
+msgstr "[_nurse_] On dirait que quelqu'un\n"
+"écrit sur un tableau noir...\n"
+"et je crois que j'ai entendu la voix\n"
+"de [mrsl]."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:501 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_716019b8:
 msgid "[_mc_] Right."
@@ -1145,8 +1145,8 @@ msgstr "[_nurse_] Haha ! Je crois que j'ai entendu un petit distributeur automat
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:507 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_540674d8:
 msgid "[_nurse_] I could drink a whole vending\n"
 "machine right now..."
-msgstr "[_nurse_] I could drink a whole vending\n"
-"machine right now ..."
+msgstr "[_nurse_] Je pourrais boire tout un distributeur\n"
+"maintenant..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:508 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_5276f391:
 msgid "[_mc_] That's all sugar stuff.\n"
@@ -1159,8 +1159,8 @@ msgstr "[_mc_] C'est tout le sucre.\n"
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:509 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_8d618721:
 msgid "[_nurse_] I have a hopeless\n"
 "sweet tooth!"
-msgstr "[_nurse_] I have a hopeless\n"
-"sweet tooth !"
+msgstr "[_nurse_] J'ai une dent sucrée irrémédiable\n"
+"!"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:510 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_a7e590b0:
 msgid "[_mc_] Maybe that's something\n"
@@ -1186,9 +1186,8 @@ msgstr "[_mc_] Gauche."
 msgid "[_nurse_] Getting left behind...\n"
 "that's what I was always\n"
 "worried about in school."
-msgstr "[_nurse_] Getting left behind ...\n"
-"that's what I was always\n"
-"inquiet about in school."
+msgstr "[_nurse_] Se laisser distancer...\n"
+"C'est ce qui m'a toujours inquiété à l'école."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:517 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_dd847a7b_1:
 msgid "[_nurse_] ..."
@@ -1198,9 +1197,9 @@ msgstr "[_nurse_]..."
 msgid "[_nurse_] I can hear balls up ahead!\n"
 "Bouncing, bouncing! And\n"
 "running feet!"
-msgstr "[_nurse_] I can hear ball up ahead !\n"
-"Brebondit, rebondit ! Et\n"
-"pieds de course !"
+msgstr "[_nurse_] J'entends des balles devant moi !\n"
+"Qui rebondissent, qui rebondissent ! Et\n"
+"des pieds qui courent !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:521 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_8c4d38a3_1:
 msgid "[_mc_] Straight."
@@ -1307,8 +1306,8 @@ msgstr "[_nurse_]..."
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:551 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_f8cab383:
 msgid "[_nurse_] Squeaky shoes and\n"
 "cheers in this direction!"
-msgstr "[_nurse_] Les chaussures Squeaky et\n"
-"les acclameurs dans cette direction !"
+msgstr "[_nurse_] Des chaussures qui grincent et\n"
+"des acclamations dans cette direction !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:554 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_8c4d38a3_2:
 msgid "[_mc_] Straight."
@@ -1329,8 +1328,8 @@ msgstr "[_mc_] Just keep going, [nurse]."
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:562 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_af2833d4:
 msgid "[_nurse_] Oh, deary me...\n"
 "I'm so thirsty."
-msgstr "[_nurse_] Oh, déary me ...\n"
-"I'm so soif."
+msgstr "[_nurse_] Oh, mon Dieu...\n"
+"J'ai tellement soif."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:563 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_2e3ecc03:
 msgid "[_nurse_] There's a {i}tap tap tap tap,\n"
@@ -1576,7 +1575,7 @@ msgstr "[_mc_] Vous avez besoin de moi au\n"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:632 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_d4c6052e_1:
 msgid "[_nurse_] P-please..."
-msgstr "[_nurse_] P-SVP ..."
+msgstr "[_nurse_] S-Svp ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:633 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_54f1af82_1:
 msgid "[_mc_] Hold tight. Let me\n"
@@ -1602,7 +1601,7 @@ msgstr "[_mc_] Vous avez besoin de moi au\n"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:641 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_d4c6052e_2:
 msgid "[_nurse_] P-please..."
-msgstr "[_nurse_] P-SVP ..."
+msgstr "[_nurse_] S-Svp ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:642 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_54f1af82_2:
 msgid "[_mc_] Hold tight. Let me\n"
