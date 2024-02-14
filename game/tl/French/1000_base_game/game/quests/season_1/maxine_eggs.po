@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 17:07\n"
+"PO-Revision-Date: 2024-02-14 11:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:100 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_8e2441bc:
 msgid "Well, depending on how you look at it, there might be treasures here. One man's trash, and all that."
@@ -46,7 +46,7 @@ msgstr "Crap."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:112 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_fb070db5:
 msgid "[_maxine_s_annoyed_] Did you just grapple-hook your way in through the window?"
-msgstr "[_maxine_s_annoyed_] Avez-vous simplement accroc votre chemin à travers la fenêtre?"
+msgstr "[_maxine_s_annoyed_] Avez-vous simplement accroc votre chemin à travers la fenêtre ?"
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:113 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_5ccacf96:
 msgid "[_mc_] Sort of."
@@ -54,7 +54,7 @@ msgstr "[_mc_] Triés."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:114 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_020beef4:
 msgid "[_maxine_s_thinking_] Without triggering the intruder-alarm?"
-msgstr "[_maxine_s_thinking_] Sans déclencher l'alarme de l'intrus?"
+msgstr "[_maxine_s_thinking_] Sans déclencher l'alarme de l'intrus ?"
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:115 #-#-# translate crowdin quest_maxine_eggs_clubroom_arrival_a3b1a71e:
 msgid "[_mc_] I guess."
@@ -74,7 +74,7 @@ msgstr "[_cyberia_] Vous êtes attendu."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:128 #-#-# translate crowdin quest_maxine_eggs_computer_room_arrival_e56ba908:
 msgid "God. Not this again. How could I forget about the annoying AI professor?"
-msgstr "Dieu. Pas encore une fois. Comment pourrais-je oublier le professeur d'IA ennuyeux?"
+msgstr "Dieu. Pas encore une fois. Comment pourrais-je oublier le professeur d'IA ennuyeux ?"
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:129 #-#-# translate crowdin quest_maxine_eggs_computer_room_arrival_6cb6058d_1:
 msgid "[_cyberia_] Welcome back, [mc]."
@@ -90,7 +90,7 @@ msgstr "[_mc_] Salut, [cyberia]..."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:132 #-#-# translate crowdin quest_maxine_eggs_computer_room_arrival_3dc6a042:
 msgid "[_cyberia_] {i}Professor{/} [cyberia]."
-msgstr "[_cyberia_] {i}Professeur { / } [cyberia]."
+msgstr "[_cyberia_] {i}Professeur {/} [cyberia]."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:133 #-#-# translate crowdin quest_maxine_eggs_computer_room_arrival_41d41782:
 msgid "Whoever programmed this abomination had a really poor sense of humor."
@@ -106,7 +106,7 @@ msgstr "[_mc_] Hi, Professor [cyberia]."
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:136 #-#-# translate crowdin quest_maxine_eggs_computer_room_arrival_910b796e:
 msgid "[_cyberia_] And a kind greeting to you, pupil. Are you ready to learn?"
-msgstr "[_cyberia_] Et une salutation pour vous, élève. Es-tu prêt à apprendre?"
+msgstr "[_cyberia_] Et une salutation pour vous, élève. Es-tu prêt à apprendre ?"
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:137 #-#-# translate crowdin quest_maxine_eggs_computer_room_arrival_3a7efdf5:
 msgid "[_cyberia_] Learning is fun and productive. Let's have fun."
@@ -134,7 +134,7 @@ msgstr "Il s'avère qu'il n'y a rien de spécial. Pratiquement juste une copie d
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:147 #-#-# translate crowdin quest_maxine_eggs_bathroom_arrival_aee51c50:
 msgid "Where are the forgotten panties? The sinks laden with makeup products? The lipstick kisses on the mirrors?"
-msgstr "Où sont les culées oubliées? Les lavabos chargés de produits de maquillage? Le rouge à lèvres s'embrasse sur les miroirs?"
+msgstr "Où sont les culées oubliées ? Les lavabos chargés de produits de maquillage ? Le rouge à lèvres s'embrasse sur les miroirs ?"
 
 # game/1000_base_game/game/quests/season_1/maxine_eggs.rpy:148 #-#-# translate crowdin quest_maxine_eggs_bathroom_arrival_9fa39aa3:
 msgid "What a complete and utter disappointment."
