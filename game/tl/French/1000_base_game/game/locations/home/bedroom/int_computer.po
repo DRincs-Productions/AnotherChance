@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:36\n"
+"PO-Revision-Date: 2024-02-14 16:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:106 #-#-# translate crowdin home_bedroom_computer_interact_smash_or_pass_eb6d8658:
 msgid "This machine is one of the few things that brings me happiness. Fourteen hours a day has to be enough, though."
@@ -942,7 +942,7 @@ msgstr "..."
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:562 #-#-# translate crowdin jo_quest_potted_internet_9c9b2287:
 msgid "Crystal meth lollipops? Hmm... no. [jo] hates lollipops."
-msgstr "Les lollipops de cristaux de méthamphétamine ? Hmm ... non. [jo] détesteles lollipops."
+msgstr "Des sucettes de méthamphétamine en cristal ? Hmm... non. [jo] déteste les sucettes."
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:563 #-#-# translate crowdin jo_quest_potted_internet_6f8076ab:
 msgid "Mexican cocaine doughnuts? The [guard] would probably be into that, but [jo] is very careful about her figure."
@@ -1010,7 +1010,7 @@ msgstr "Bon ... commande passée. Il devrait arriver demain."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:220
 msgid "?mc.money>=50@[mc.money]/50|{image=ui icon_money}|Pay the scammer"
-msgstr " ? mc.money> =50 @[mc.money]/50 | { image=ui icon_money } | Payer le scammer"
+msgstr "?mc.money>=50@[mc.money]/50|{image=ui icon_money}|Payer l'escroc"
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:220
 msgid "Nope"
@@ -1026,11 +1026,11 @@ msgstr "Déplacer sur"
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:570
 msgid "?mc.money>=69@[mc.money]/69|{image=ui icon_money}|Buy gigglypuff seeds"
-msgstr " ? mc.money> =69 @[mc.money]/69 | { image=ui icon_money } | Achetez des semences gigglypuff"
+msgstr "?mc.money>=69@[mc.money]/69|{image=ui icon_money}|Acheter des graines de carotte géante"
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:598
 msgid "?mc.money>=10@[mc.money]/10|{image=ui hud icon_money}|Order the magnet"
-msgstr " ? mc.money> =10 @[mc.money]/10 | { image=ui hud icon_money } | Commander l'aimant"
+msgstr "?mc.money>=10 @[mc.money]/10|{image=ui hud icon_money}|Commander l'aimant"
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:598
 msgid "Don't waste money on junk"
