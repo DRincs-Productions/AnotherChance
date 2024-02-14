@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:31\n"
+"PO-Revision-Date: 2024-02-14 10:17\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/banana_milk.rpy:25 #-#-# translate crowdin int_banana_milk_e8e6c00e:
 msgid "Good for your throat, and for your skin, and for your face, and for your boobs..."
@@ -26,7 +26,7 @@ msgstr "Yuck ! Pourquoi est-ce que je fais ça pour moi? Ça va probablement vom
 
 # game/1000_base_game/game/items/banana_milk.rpy:38 #-#-# translate crowdin consume_banana_milk_maxine_845a5804:
 msgid "{i}*Cough, cough*{/}"
-msgstr "{i}*Toux, toux * { / }"
+msgstr "{i}*Toux, toux * {/}"
 
 # game/1000_base_game/game/items/banana_milk.rpy:39 #-#-# translate crowdin consume_banana_milk_maxine_5d1a8c04:
 msgid "What the hell?"
