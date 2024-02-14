@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 14:52\n"
+"PO-Revision-Date: 2024-02-14 16:11\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:4 #-#-# translate crowdin quest_kate_desire_start_e8823701:
 msgid "Whenever I see [kate] in the gym, my heart starts beating a little faster..."
@@ -5711,7 +5711,7 @@ msgstr "\"Non, madame ...\""
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1001
 msgid "?mc.intellect>=8 and mc.check_phone_contact('isabelle')@[mc.intellect]/8|{image=stats int}|{color=#fefefe}+{/}|{image= isabelle contact_icon}|{space=-10}{image= contact_info_call}|\"Ladies and gentlemen of\n"
 "the jury.\""
-msgstr "?mc.intellect>=8 et mc.check_phone_contact ('isabelle') @[mc.intellect]/8|{image=stats int}|{color=#fefefe}+{/}|{image= isabelle contact_icon}|{space=-10} {image= contact_info_call}|\"Mesdames et messieurs de\n"
+msgstr "?mc.intellect>=8 and mc.check_phone_contact('isabelle')@[mc.intellect]/8|{image=stats int}|{color=#fefefe}+{/}|{image= isabelle contact_icon}|{space=-10} {image= contact_info_call}|\"Mesdames et messieurs de\n"
 "le jury.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1110
