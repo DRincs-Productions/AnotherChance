@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:40\n"
+"PO-Revision-Date: 2024-02-14 17:20\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:3 #-#-# translate crowdin flora_quest_back_to_school_special_190f85fb:
 msgid "[_flora_s_angry_] Breakfast!"
@@ -330,7 +330,7 @@ msgstr "[_mc_] Je l'ai redescendu et je l'ai cravate à l'autel. Les sacrifices 
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:130 #-#-# translate crowdin flora_quest_back_to_school_special_962bf53e:
 msgid "[_flora_s_afraid_] Tell me you're joking!"
-msgstr "[_flora_s_afraid_] Dis-moi que tu plaisanteries !"
+msgstr "[_flora_s_afraid_] Dites-moi que vous plaisantez !"
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:131 #-#-# translate crowdin flora_quest_back_to_school_special_fea5d9e2:
 msgid "[_mc_] Anything for the company, [flora]. {i}Anything{/} for the company..."
@@ -398,7 +398,7 @@ msgstr "[_mc_] Ok ! Détendez-vous. Pouvez-vous répéter la question, s'il vous
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:156 #-#-# translate crowdin flora_quest_back_to_school_special_e7444079:
 msgid "[_flora_s_annoyed_] No. What do you do?"
-msgstr "[_flora_s_annoyed_] No. Qu'est-ce que vous faites ?"
+msgstr "[_flora_s_annoyed_] Non. Qu'est-ce que vous faites ?"
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:159 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_5:
 msgid "[_extend_]  [nointeract]"
@@ -506,7 +506,7 @@ msgstr "[_flora_s_annoyed_] Ugh. Question suivante ..."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:195 #-#-# translate crowdin flora_quest_back_to_school_special_74d2f98d:
 msgid "[_flora_s_annoyed_] You're in Antarctica, trying to assemble a team of highly trained butlers. One of them just turned to you and said, \"Noot-noot!\""
-msgstr "[_flora_s_annoyed_] Vous êtes en Antarctique, en essayant de monter une équipe de buteurs hautement qualifiés. L'un d'eux s'est tourné vers vous et a dit: \"Noot-noot !\""
+msgstr "[_flora_s_annoyed_] Vous êtes en Antarctique et vous essayez de constituer une équipe de majordomes hautement qualifiés. L'un d'entre eux s'est tourné vers vous et a dit : \"Noot-noot !\""
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:196 #-#-# translate crowdin flora_quest_back_to_school_special_430fb7d2:
 msgid "[_flora_s_annoyed_] What do you do?"
@@ -578,7 +578,7 @@ msgstr "[_mc_] Devriez-vous vraiment me demander ça ?"
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:234 #-#-# translate crowdin flora_quest_back_to_school_special_923b565e:
 msgid "[_flora_s_annoyed_] Stop making it weird! You always make it weird."
-msgstr "[_flora_s_annoyed_] Arres de le faire bizarre ! Tu le fais toujours bizarre."
+msgstr "[_flora_s_annoyed_] Arrêtez de rendre les choses bizarres ! Tu rends toujours les choses bizarres."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:235 #-#-# translate crowdin flora_quest_back_to_school_special_dea4620b:
 msgid "[_flora_s_annoyed_] It's the last question. Can we just get this over with?"
