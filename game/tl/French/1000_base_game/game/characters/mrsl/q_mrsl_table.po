@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:31\n"
+"PO-Revision-Date: 2024-02-14 10:16\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
@@ -338,7 +338,7 @@ msgstr "Hmm ... où est le [jo]? La seule fois que je la recherche, elle est int
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:112 #-#-# translate crowdin quest_mrsl_table_principal_door_check_50814063:
 msgid "{i}*Knock, knock*{/}"
-msgstr "{i}*Knock, knock * { / }"
+msgstr "{i}*Knock, knock * {/}"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:113 #-#-# translate crowdin quest_mrsl_table_principal_door_check_3c9025a3:
 msgid "[_mc_] [jo], are you in there?"
@@ -570,23 +570,23 @@ msgstr "Voyons ce que dit le Bon Livre ..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:345 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_1b0d5f04:
 msgid "{i}\"When faced with a clogged body of water, one cannot be too careful.\"{/}"
-msgstr "{i}\"Quand on fait face à un corps bouché d'eau, on ne peut pas être trop prudent.\" { / }"
+msgstr "{i}\"Quand on fait face à un corps bouché d'eau, on ne peut pas être trop prudent.\" {/}"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:346 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_a6bdcdac:
 msgid "{i}\"Beavers have been known to enter the sewer systems of big cities, killing off alligators to occupy their territory.\"{/}"
-msgstr "{i}\"Les castors sont connus pour pénétrer dans les réseaux d'égouts des grandes villes, tuant les alligators pour occuper leur territoire.\" { / }"
+msgstr "{i}\"Les castors sont connus pour pénétrer dans les réseaux d'égouts des grandes villes, tuant les alligators pour occuper leur territoire.\" {/}"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:347 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_2ac4da3b:
 msgid "{i}\"If beavers have taken over the sewer system of your city, your best course of action is escape.\"{/}"
-msgstr "{i}\"Si les castors ont pris le contrôle du réseau d'égouts de votre ville, votre meilleure ligne de conduite est la fuite.\" { / }"
+msgstr "{i}\"Si les castors ont pris le contrôle du réseau d'égouts de votre ville, votre meilleure ligne de conduite est la fuite.\" {/}"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:348 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_f4b5723f:
 msgid "{i}\"If you're too old and weak to run, say a prayer and fill up your toilet with cement.\"{/}"
-msgstr "{i}\"Si vous êtes trop vieux et trop faible pour courir, dites une prière et remplissez vos toilettes avec du ciment.\" { / }"
+msgstr "{i}\"Si vous êtes trop vieux et trop faible pour courir, dites une prière et remplissez vos toilettes avec du ciment.\" {/}"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:349 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_1a294386:
 msgid "{i}\"A clogged sink is safe unless the beavers have reproduced and the little fuckers are trying to infiltrate your home — in which case, you're fucked anyway.\"{/}"
-msgstr "{i}\"Un lavabo obstrué est en sécurité à moins que les castors n'aient reproduit et que les petits fuckers essayent de s'infilmer dans votre maison-dans ce cas, vous êtes tout de même foutu.\" { / }"
+msgstr "{i}\"Un lavabo obstrué est en sécurité à moins que les castors n'aient reproduit et que les petits fuckers essayent de s'infilmer dans votre maison-dans ce cas, vous êtes tout de même foutu.\" {/}"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:350 #-#-# translate crowdin quest_mrsl_table_home_bathroom_water_overflow_use_item_6e8ecffe:
 msgid "Words to live by! All right... I guess it's fine to put my hand into the water."
@@ -1914,7 +1914,7 @@ msgstr "Une seule façon de le savoir."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:921 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_ec699a98:
 msgid "[_jo_s_under_desk_ripped_stockings_] {i}Gasp!{/} [withhpunch]"
-msgstr "[_jo_s_under_desk_ripped_stockings_] {i}Gasp ! { / } [withhpunch]"
+msgstr "[_jo_s_under_desk_ripped_stockings_] {i}Gasp ! {/} [withhpunch]"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:922 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_89ecb388:
 msgid "[_jo_s_under_desk_grab_panties_] ..."
@@ -2102,7 +2102,7 @@ msgstr "[_jo_s_under_desk_look_ripped_panties_] [mc]? ! Qu'avez-vous fait? !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:1091 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_f4e5d86d:
 msgid "[_jo_s_under_desk_look_ripped_panties_] What have {i}I{/} done?!"
-msgstr "[_jo_s_under_desk_look_ripped_panties_] Qu'est-ce que le {i}I { / } a fait? !"
+msgstr "[_jo_s_under_desk_look_ripped_panties_] Qu'est-ce que le {i}I {/} a fait? !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:1092 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_3e6ef0b2:
 msgid "[jo] looks like she's going to have a stroke..."
