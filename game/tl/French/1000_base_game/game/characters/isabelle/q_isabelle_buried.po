@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 11:19\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:8 #-#-# translate crowdin isabelle_quest_buried_start_ef126006:
 msgid "[_isabelle_s_neutral_] Thanks for the ice tea idea. It always helps me cool down."
@@ -666,11 +666,11 @@ msgstr "[_mc_] Elle a une valeur sentimentale."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:253 #-#-# translate crowdin isabelle_quest_buried_jacklyn_07695eeb:
 msgid "[_jacklyn_s_smile_right_] Purple shadow with purple! Understand? The paper has to talk to you!"
-msgstr "[_jacklyn_s_smile_right_] Pombre pourpre pourpre ! Comprenez ? Le journal doit vous parler !"
+msgstr "[_jacklyn_s_Souriez_right_] Pombre pourpre pourpre ! Comprenez ? Le journal doit vous parler !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:254 #-#-# translate crowdin isabelle_quest_buried_jacklyn_25cac6ec:
 msgid "[_jacklyn_s_smile_] Oh, [mc]. How does the ball swing?"
-msgstr "[_jacklyn_s_smile_] Oh, [mc]. Comment le ballon balança ?"
+msgstr "[_jacklyn_s_Souriez_] Oh, [mc]. Comment le ballon balança ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:255 #-#-# translate crowdin isabelle_quest_buried_jacklyn_8f86eabf:
 msgid "[_mc_] Left and right, I suppose?"
@@ -718,11 +718,11 @@ msgstr "[_mc_] J'ai pris des photos dernièrement."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:274 #-#-# translate crowdin isabelle_quest_buried_jacklyn_fb7be688:
 msgid "[_jacklyn_s_smile_] Wicked. That's the right side of the flip."
-msgstr "[_jacklyn_s_smile_] Wicked. C'est le côté droit de la flip."
+msgstr "[_jacklyn_s_Souriez_] Wicked. C'est le côté droit de la flip."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:275 #-#-# translate crowdin isabelle_quest_buried_jacklyn_c255470d:
 msgid "[_jacklyn_s_smile_] What kind of photography?"
-msgstr "[_jacklyn_s_smile_] Quel genre de photographie ?"
+msgstr "[_jacklyn_s_Souriez_] Quel genre de photographie ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:276 #-#-# translate crowdin isabelle_quest_buried_jacklyn_d4270bb8:
 msgid "[_mc_] Err... nude?"
@@ -862,7 +862,7 @@ msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:329 #-#-# translate crowdin isabelle_quest_buried_jacklyn_3f11b369:
 msgid "[_jacklyn_s_smile_] It means I don't dabble."
-msgstr "[_jacklyn_s_smile_] Cela veut dire que je ne sais pas."
+msgstr "[_jacklyn_s_Souriez_] Cela veut dire que je ne sais pas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:330 #-#-# translate crowdin isabelle_quest_buried_jacklyn_76da5cfc:
 msgid "[_mc_] Oh. I knew that."
@@ -970,7 +970,7 @@ msgstr "[_mc_] Cela signifie-t-il que vous savez ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:366 #-#-# translate crowdin quest_isabelle_buried_maxine_3122c179:
 msgid "[_maxine_s_smile_] It means I might know at some point, but probably won't tell you."
-msgstr "[_maxine_s_smile_] Cela veut dire que je pourrais le savoir à un moment ou à un autre, mais je ne vous le dirai probablement pas."
+msgstr "[_maxine_s_Souriez_] Cela veut dire que je pourrais le savoir à un moment ou à un autre, mais je ne vous le dirai probablement pas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:367 #-#-# translate crowdin quest_isabelle_buried_maxine_2b35b6fe:
 msgid "[_mc_] ..."
@@ -1094,7 +1094,7 @@ msgstr "[_mc_] Parce que ... Je t'ai ignoré ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:403 #-#-# translate crowdin quest_isabelle_buried_maxine_ea4ae5de:
 msgid "[_maxine_s_smile_] You let curiosity get the better of you. It's commendable."
-msgstr "[_maxine_s_smile_] Vous laissez la curiosité vous faire mieux. C'est louable."
+msgstr "[_maxine_s_Souriez_] Vous laissez la curiosité vous faire mieux. C'est louable."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:404 #-#-# translate crowdin quest_isabelle_buried_maxine_3feaed0f:
 msgid "[_mc_] So, you were just trolling?"
@@ -1110,11 +1110,11 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:408 #-#-# translate crowdin quest_isabelle_buried_maxine_26237beb:
 msgid "[_maxine_s_smile_] It's safe and sound."
-msgstr "[_maxine_s_smile_] C'est sain et sauf."
+msgstr "[_maxine_s_Souriez_] C'est sain et sauf."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:409 #-#-# translate crowdin quest_isabelle_buried_maxine_96087d89:
 msgid "[_maxine_s_smile_] When things go from bad to words, we can rely on it."
-msgstr "[_maxine_s_smile_] Quand les choses vont de mal en paroles, on peut compter sur elle."
+msgstr "[_maxine_s_Souriez_] Quand les choses vont de mal en paroles, on peut compter sur elle."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:410 #-#-# translate crowdin quest_isabelle_buried_maxine_29901d99:
 msgid "[_mc_] You mean \"worse,\" right? When things go from bad to worse."
@@ -1178,7 +1178,7 @@ msgstr "[_mc_] Sérieusement ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:428 #-#-# translate crowdin quest_isabelle_buried_maxine_94fe44ad:
 msgid "[_maxine_s_smile_] Of course!"
-msgstr "[_maxine_s_smile_] Bien sûr !"
+msgstr "[_maxine_s_Souriez_] Bien sûr !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:429 #-#-# translate crowdin quest_isabelle_buried_maxine_ec4950d4:
 msgid "[_mc_] Great..."
@@ -1194,7 +1194,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:432 #-#-# translate crowdin quest_isabelle_buried_maxine_b57476d5:
 msgid "[_maxine_s_smile_] You've held me up long enough. Adieu."
-msgstr "[_maxine_s_smile_] Vous m'avez assez longtemps retenu. Adieu."
+msgstr "[_maxine_s_Souriez_] Vous m'avez assez longtemps retenu. Adieu."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:434 #-#-# translate crowdin quest_isabelle_buried_maxine_231fee58:
 msgid "Hmm... I better write it down before I forget."
@@ -1586,11 +1586,11 @@ msgstr "[_mc_] J'imagine que c'est formidable de laisser sortir une partie de ce
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:583 #-#-# translate crowdin isabelle_quest_buried_isabelle_2ea01b01:
 msgid "[_isabelle_s_smile_] I suppose it did."
-msgstr "[_isabelle_s_smile_] Je suppose que c'est le cas."
+msgstr "[_isabelle_s_Souriez_] Je suppose que c'est le cas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:584 #-#-# translate crowdin isabelle_quest_buried_isabelle_4e2bb045:
 msgid "[_isabelle_s_smile_] I still don't get why she stole from me. I didn't peg her as the type."
-msgstr "[_isabelle_s_smile_] Je ne comprends toujours pas pourquoi elle m'a volé. Je ne l'ai pas fixé comme le type."
+msgstr "[_isabelle_s_Souriez_] Je ne comprends toujours pas pourquoi elle m'a volé. Je ne l'ai pas fixé comme le type."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:585 #-#-# translate crowdin isabelle_quest_buried_isabelle_5e74fd13:
 msgid "[_mc_] I didn't either, but sometimes you don't know the people around you as well as you think."
@@ -1622,7 +1622,7 @@ msgstr "[_mc_] En tout temps. Et honnêtement, perdre [flora] est l'un de mes pi
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:595 #-#-# translate crowdin isabelle_quest_buried_isabelle_b0cf68e2:
 msgid "[_isabelle_s_smile_] You never know what you have until you lose it."
-msgstr "[_isabelle_s_smile_] Vous ne savez jamais ce que vous avez avant de le perdre."
+msgstr "[_isabelle_s_Souriez_] Vous ne savez jamais ce que vous avez avant de le perdre."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:596 #-#-# translate crowdin isabelle_quest_buried_isabelle_e00bab93:
 msgid "[_mc_] That's true."
@@ -1642,7 +1642,7 @@ msgstr "[_mc_] Le monde est horrible, et je suis heureux que vous essayez d'en f
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:602 #-#-# translate crowdin isabelle_quest_buried_isabelle_1dde2e15:
 msgid "[_isabelle_s_smile_] Thanks. Sometimes it feels like I'm the only one trying to make a difference."
-msgstr "[_isabelle_s_smile_] Merci. Parfois, j'ai l'impression que je suis le seul à essayer de faire une différence."
+msgstr "[_isabelle_s_Souriez_] Merci. Parfois, j'ai l'impression que je suis le seul à essayer de faire une différence."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:603 #-#-# translate crowdin isabelle_quest_buried_isabelle_cf924e9a:
 msgid "[_mc_] People are so caught up in their everyday problems..."
@@ -1774,11 +1774,11 @@ msgstr "[_mc_] Très bien. As-tu choisi un endroit ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:644 #-#-# translate crowdin isabelle_quest_buried_isabelle_151122f4:
 msgid "[_isabelle_s_smile_] I did! After you showed me around, I took a walk through the woods."
-msgstr "[_isabelle_s_smile_] Je l'ai fait ! Après que tu m'as montré, j'ai fait une promenade dans les bois."
+msgstr "[_isabelle_s_Souriez_] Je l'ai fait ! Après que tu m'as montré, j'ai fait une promenade dans les bois."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:645 #-#-# translate crowdin isabelle_quest_buried_isabelle_46515a58:
 msgid "[_isabelle_s_smile_] There's a nice little glade, which I think would be perfect."
-msgstr "[_isabelle_s_smile_] Il y a une jolie petite clairière, qui serait parfaite."
+msgstr "[_isabelle_s_Souriez_] Il y a une jolie petite clairière, qui serait parfaite."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:646 #-#-# translate crowdin isabelle_quest_buried_isabelle_fcd43104:
 msgid "[_isabelle_s_excited_] I'll show you after school."
@@ -1794,7 +1794,7 @@ msgstr "[_isabelle_s_laughing_] Fantastique ! J'ai complètement oublié ça."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:650 #-#-# translate crowdin isabelle_quest_buried_isabelle_50503751:
 msgid "[_isabelle_s_smile_] Okay, meet me there later!"
-msgstr "[_isabelle_s_smile_] Ok, rencontre-moi plus tard !"
+msgstr "[_isabelle_s_Souriez_] Ok, rencontre-moi plus tard !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:653 #-#-# translate crowdin isabelle_quest_buried_isabelle_bb1f1adf:
 msgid "[_mc_] What about a shovel?"
@@ -1822,7 +1822,7 @@ msgstr "[_mc_] Attends ici, je vais voir si je peux mettre quelque chose ensembl
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:659 #-#-# translate crowdin isabelle_quest_buried_isabelle_dbb4fdc2:
 msgid "[_isabelle_s_smile_] All right."
-msgstr "[_isabelle_s_smile_] Très bien."
+msgstr "[_isabelle_s_Souriez_] Très bien."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:660 #-#-# translate crowdin isabelle_quest_buried_isabelle_bfc91901:
 msgid "All right. Need to find something made of metal. The forest should be full of sticks."
@@ -2066,7 +2066,7 @@ msgstr "[_mc_] J'ai dit à [flora] de ne pas toucher à mes affaires un million 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:787 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_9a3f6cfb:
 msgid "[_isabelle_s_smile_] It's hard not to overanalyze everything you could've done differently."
-msgstr "[_isabelle_s_smile_] Il est difficile de ne pas trop analyser tout ce que vous auriez pu faire différemment."
+msgstr "[_isabelle_s_Souriez_] Il est difficile de ne pas trop analyser tout ce que vous auriez pu faire différemment."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:788 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_757c52b4:
 msgid "[_mc_] Oh, trust me, I know exactly what that's like. Lying awake at night, thinking of all those things you'd do differently if you could."
@@ -2118,7 +2118,7 @@ msgstr "Je ne suis pas revenu à temps pour rien ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:804 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_4da980e9:
 msgid "[_isabelle_s_smile_] I appreciate it."
-msgstr "[_isabelle_s_smile_] Je l'apprécie."
+msgstr "[_isabelle_s_Souriez_] Je l'apprécie."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:807 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_8326254c:
 msgid "[_mc_] We'll make sure everyone gets what they deserve."
@@ -2226,11 +2226,11 @@ msgstr "[_isabelle_s_neutral_] Ma première mémoire d'elle est un jour de Noël
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:838 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_feb9b5d6:
 msgid "[_isabelle_s_smile_] She was sitting on my lap and she caught my cheek between her chubby little fingers, pinching it hard."
-msgstr "[_isabelle_s_smile_] Elle était assise sur mes genoux et elle a pris ma joue entre ses petits doigts potelés, la pinçant fortement."
+msgstr "[_isabelle_s_Souriez_] Elle était assise sur mes genoux et elle a pris ma joue entre ses petits doigts potelés, la pinçant fortement."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:839 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_5bb3bce7:
 msgid "[_isabelle_s_smile_] She could definitely be a brat when she wanted to, but she was a really good person."
-msgstr "[_isabelle_s_smile_] Elle pouvait être une sale gosse quand elle le voulait, mais c'était quelqu'un de très bien."
+msgstr "[_isabelle_s_Souriez_] Elle pouvait être une sale gosse quand elle le voulait, mais c'était quelqu'un de très bien."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:840 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_08b36eac:
 msgid "[_mc_] Sounds like she had quite the personality."
@@ -2242,11 +2242,11 @@ msgstr "[_isabelle_s_laughing_] Vous pouvez dire ça !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:842 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_cfd6fac1:
 msgid "[_isabelle_s_smile_] One time she found a bird with a broken wing."
-msgstr "[_isabelle_s_smile_] Une fois, elle a trouvé un oiseau avec une aile cassée."
+msgstr "[_isabelle_s_Souriez_] Une fois, elle a trouvé un oiseau avec une aile cassée."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:843 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_9a57aa67:
 msgid "[_isabelle_s_smile_] Dad said there was no point, but she was stubborn."
-msgstr "[_isabelle_s_smile_] Papa disait que ce n'était pas la peine, mais elle était têtue."
+msgstr "[_isabelle_s_Souriez_] Papa disait que ce n'était pas la peine, mais elle était têtue."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:844 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_24912faf:
 msgid "[_isabelle_s_confident_] It took her a couple of months, but she nursed the bird back to health."
@@ -2750,7 +2750,7 @@ msgstr "\"Lonely ?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:19
 msgid "\"Funny, handsome, and extremely humble?\""
-msgstr "\"Funny, beau, et extrêmement humble ?\""
+msgstr "\"C'est drôle, beau, et extrêmement humble ?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:185
 msgid "\"That's very hard to believe.\""
