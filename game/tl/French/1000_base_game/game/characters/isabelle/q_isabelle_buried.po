@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:8 #-#-# translate crowdin isabelle_quest_buried_start_ef126006:
 msgid "[_isabelle_s_neutral_] Thanks for the ice tea idea. It always helps me cool down."
@@ -1946,7 +1946,7 @@ msgstr "[_isabelle_s_excited_] C'est trop petit pour être un cercueil, et il es
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:745 #-#-# translate crowdin isabelle_buried_car_tire_use_efe3c53d:
 msgid "[_mc_] Might be [maya]'s pants."
-msgstr "[_mc_] C'est peut-être le pantalon de [Maya]."
+msgstr "[_mc_] C'est peut-être le pantalon de [_mc_] Maya]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:746 #-#-# translate crowdin isabelle_buried_car_tire_use_9852a0cc:
 msgid "[_isabelle_s_concerned_] What do you mean?"
