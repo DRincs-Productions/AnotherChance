@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:00\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:2 #-#-# translate crowdin quest_maxine_wine_start_4c8369be:
 msgid "[_maxine_] I already know what you're going to say..."
@@ -26,7 +26,7 @@ msgstr "[_maxine_s_thinking_] Vous êtes ici pour me poser des questions sur les
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:6 #-#-# translate crowdin quest_maxine_wine_start_157ff79a:
 msgid "[_mc_] What glowing spider eggs?"
-msgstr "[Qu'est-ce qui fait briller les œufs d'araignée ?"
+msgstr "[_mc_] Qu'est-ce qui fait briller les œufs d'araignée ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:7 #-#-# translate crowdin quest_maxine_wine_start_ac4e7408:
 msgid "[_maxine_s_eyeroll_] See? Our timelines have caught up."
@@ -238,7 +238,7 @@ msgstr "[_flora_s_cringe_] Où avez-vous eu cette chemise ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:79 #-#-# translate crowdin quest_maxine_wine_flora_deal_43ac380b:
 msgid "[_mc_] Stole it."
-msgstr "[Je l'ai volé."
+msgstr "[_mc_] Je l'ai volé."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:80 #-#-# translate crowdin quest_maxine_wine_flora_deal_38a329d1:
 msgid "[_flora_s_annoyed_] I'm serious."
@@ -250,11 +250,11 @@ msgstr "[_mc_] Ah, dans ce cas ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:82 #-#-# translate crowdin quest_maxine_wine_flora_deal_43ac380b_1:
 msgid "[_mc_] Stole it."
-msgstr "[Je l'ai volé."
+msgstr "[_mc_] Je l'ai volé."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:83 #-#-# translate crowdin quest_maxine_wine_flora_deal_374b67c7:
 msgid "[_flora_s_confused_] It's gamer merch, isn't it? It doesn't count as stealing if no one wants it."
-msgstr "[_flora_s_confused_] It's gamer merch, isn't it ? Ça ne compte pas comme voler si personne ne le veut."
+msgstr "[_flora_s_confused_] C'est de la marchandise pour joueurs, n'est-ce pas ? Ça ne compte pas comme voler si personne ne le veut."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:84 #-#-# translate crowdin quest_maxine_wine_flora_deal_064fa0c0:
 msgid "[_mc_] So, I'm off the hook for eating your cereal?"
@@ -270,7 +270,7 @@ msgstr "[_mc_] Vous n'avez pas dit que vous vouiez ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:87 #-#-# translate crowdin quest_maxine_wine_flora_deal_1287a8e4:
 msgid "[_flora_s_angry_] When I ask [jo] to buy my favorite cereal, it's implied that I want it."
-msgstr "[_flora_s_angry_] Quand je demande à [jo] d'acheter mes céréales préfé­elles, c'est sous-entendu que je le veux."
+msgstr "[ _flora_s_angry_ ] Quand je demande à [ jo ] d'acheter mes céréales favorites, c'est sous-entendu que je le veux."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:88 #-#-# translate crowdin quest_maxine_wine_flora_deal_713214bd:
 msgid "[_mc_] Well, I didn't know that."
@@ -302,7 +302,7 @@ msgstr "[_mc_] L'adhésion au cirque nécessite la pratique."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:100 #-#-# translate crowdin quest_maxine_wine_flora_deal_8e6866c5:
 msgid "[_flora_s_confused_] How about you just apply for the clown position? You've got the experience."
-msgstr "[_flora_s_confused_] Comment s'applique-on juste pour la position de clown ? Vous avez l'expérience."
+msgstr "[ _flora_s_confused_ ] Comment s'applique-on juste pour la position de clown? Vous avez l'expérience."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:101 #-#-# translate crowdin quest_maxine_wine_flora_deal_3f80a490:
 msgid "[_mc_] How about I get [jo] to buy you new cereal?"
@@ -478,7 +478,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:150 #-#-# translate crowdin quest_maxine_wine_flora_deal_26dffa1e:
 msgid "[_flora_s_flirty_] Riiight?"
-msgstr "[_flora_s_flirty_] Riiight ?"
+msgstr "[_flora_s_flirty_] juuussttee ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:151 #-#-# translate crowdin quest_maxine_wine_flora_deal_bfc70c83:
 msgid "[_mc_] Whatever. Fine."
@@ -558,7 +558,7 @@ msgstr "[_mc_] Ce n'est pas aussi bizarre que d'être jumelant sans raison."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:181 #-#-# translate crowdin quest_maxine_wine_flora_pin_00ce46a8:
 msgid "[_mc_] How about I pinch my nose and have a lick instead?"
-msgstr "[Et si je me pinçais le nez et que je léchais à la place ?"
+msgstr "[_mc_] Et si je me pinçais le nez et que je léchais à la place ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:182 #-#-# translate crowdin quest_maxine_wine_flora_pin_475e6734:
 msgid "[_flora_s_angry_] You're not sniffing or licking my hand! Forget about it!"
@@ -622,7 +622,7 @@ msgstr "[_mc_] Qu'ont-ils analysé ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:199 #-#-# translate crowdin quest_maxine_wine_flora_pin_b951420c:
 msgid "[_flora_s_laughing_] I don't know! How much of a dork you are?"
-msgstr "[_flora_s_laughing_] Je ne sais pas ! Combien d'un dork vous êtes ?"
+msgstr "[_flora_s_laughing_] Je ne sais pas ! A quel point es-tu un abruti ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:200 #-#-# translate crowdin quest_maxine_wine_flora_pin_bb64421f:
 msgid "[_mc_] Who else did you give it to?"
@@ -702,7 +702,7 @@ msgstr "[_flora_s_worried_] Je suppose qu'elle est sympa. Je ne parle pas vraime
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:221 #-#-# translate crowdin quest_maxine_wine_flora_pin_05aa3f4a:
 msgid "[_flora_s_laughing_] I like her newspaper, though!"
-msgstr "[_flora_s_laughing_] I like her newspaper, though !"
+msgstr "[_flora_s_laughing_] J'aime bien son journal !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:222 #-#-# translate crowdin quest_maxine_wine_flora_pin_8afe9359:
 msgid "[_mc_] You're probably the only one that reads it."
@@ -1122,7 +1122,7 @@ msgstr "[_maxine_s_concerned_] Vous me dites que toutes ces années, vous n'avez
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:363 #-#-# translate crowdin quest_maxine_wine_make_a_move_54cc13b7:
 msgid "[_mc_] Is there a... dick-sized horse in my backyard?"
-msgstr "[Y a-t-il un cheval de la taille d'une bite dans mon jardin ?"
+msgstr "[_mc_] Y a-t-il un cheval de la taille d'une bite dans mon jardin ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:364 #-#-# translate crowdin quest_maxine_wine_make_a_move_0a16e317:
 msgid "[_maxine_s_afraid_] It's time we change the subject to a more delicate matter."
