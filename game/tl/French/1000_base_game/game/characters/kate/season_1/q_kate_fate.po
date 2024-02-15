@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:06\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:17 #-#-# translate crowdin quest_kate_fate_start_ec93e813:
 msgid "[_kate_s_neutral_] Excuse me. What do you think you're doing?"
@@ -630,7 +630,7 @@ msgstr "[_stacy_] Kinky."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:376 #-#-# translate crowdin quest_kate_fate_fight_a21d6253:
 msgid "[_mc_] I, um... I thought you'd leave me alone if I helped you with [isabelle]."
-msgstr "[_mc_] I, um ... Je pensais que tu me quitterais seule si je t'aimais avec le [isabelle]."
+msgstr "[_mc_] I, um ... Je pensais que tu me quitterais seule si je t'aimais avec le [_mc_] isabelle]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:377 #-#-# translate crowdin quest_kate_fate_fight_08508db8:
 msgid "[_kate_s_cheerleader_feet_kate_laughing_ballgag_] Did I say that? Well, how about this..."
@@ -1710,7 +1710,7 @@ msgstr "??? [special_delimiter] Je sais bien."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:921 #-#-# translate crowdin quest_kate_fate_conversation_147208ca:
 msgid "[_mrsl_] Why haven't you fixed it, then?"
-msgstr "[_mrsl_] Pourquoi ne l'avez-vous pas réparété, alors ?"
+msgstr "[_mrsl_] Pourquoi ne l'avez-vous pas réparé, alors ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:922 #-#-# translate crowdin quest_kate_fate_conversation_6607c7f1:
 msgid "??? [special_delimiter] Because most of my energy is spent watching you."
@@ -1726,7 +1726,7 @@ msgstr "??? [special_delimiter] Le nouveau professeur d'art ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:925 #-#-# translate crowdin quest_kate_fate_conversation_65171ddf:
 msgid "[_mrsl_] What about her?"
-msgstr "[_mrsl_] Qu'en est-il de elle ?"
+msgstr "[_mrsl_] Et elle ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:926 #-#-# translate crowdin quest_kate_fate_conversation_3fe1c5c8:
 msgid "??? [special_delimiter] What kind of fool do you take me for?"
@@ -1734,7 +1734,7 @@ msgstr "??? [special_delimiter] Quel genre de idiot prez-vous pour moi ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:927 #-#-# translate crowdin quest_kate_fate_conversation_c7ade841:
 msgid "[_mrsl_] Miss Hyde seems like a perfectly fine young woman to me."
-msgstr "[_mrsl_] Mlle Hyde me semble une très belle jeune femme."
+msgstr "[_mrsl_] Mlle Hyde me semble être une jeune femme tout à fait convenable."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:928 #-#-# translate crowdin quest_kate_fate_conversation_776f0e85:
 msgid "??? [special_delimiter] What did you do to Mrs. Bloomer?"
@@ -1766,7 +1766,7 @@ msgstr "??? [special_delimiter] Mes sens sont aussi marqués que jamais."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:935 #-#-# translate crowdin quest_kate_fate_conversation_cd659ebe:
 msgid "[_mrsl_] If that's the case, how come there's a spider problem again?"
-msgstr "[_mrsl_] Si c'est le cas, comment se présente-on à nouveau un problème d'araignée ?"
+msgstr "[_mrsl_] Si c'est le cas, comment se fait-il qu'il y ait à nouveau un problème d'araignées ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:936 #-#-# translate crowdin quest_kate_fate_conversation_ec67b419:
 msgid "??? [special_delimiter] ..."
@@ -2054,7 +2054,7 @@ msgstr "[_isabelle_s_neutral_] Laissez-moi parler au directeur. En attendant, al
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1092 #-#-# translate crowdin quest_kate_fate_conversation_ce94c8da:
 msgid "[_mc_] Blegh! [withvpunch]"
-msgstr "[_mc_] Blegh ! [withvpunch]"
+msgstr "[_mc_] Blegh ! [_mc_] withvpunch]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1096 #-#-# translate crowdin quest_kate_fate_conversation_c24253d9:
 msgid "Not sure why, but I feel like [isabelle] would've exploded if she learned about the socks..."
@@ -2066,7 +2066,7 @@ msgstr "Certaines choses sont mieux conservées d'elle."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1107 #-#-# translate crowdin quest_kate_fate_conversation_ce94c8da_1:
 msgid "[_mc_] Blegh! [withvpunch]"
-msgstr "[_mc_] Blegh ! [withvpunch]"
+msgstr "[_mc_] Blegh ! [_mc_] withvpunch]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1108 #-#-# translate crowdin quest_kate_fate_conversation_87c1da68:
 msgid "[_isabelle_s_concerned_left_] What the hell is that?"
@@ -2526,7 +2526,7 @@ msgstr "Qui sait ce qui aurait pu arriver autrement ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1294 #-#-# translate crowdin quest_kate_fate_rescue_2a2d9ffd:
 msgid "[_mc_] I just wanted to get [isabelle]'s thoughts on the school's gym equipment."
-msgstr "[_mc_] I just wanted to get [isabelle]'s thoughts on the school's gym equipment."
+msgstr "[_mc_] I just wanted to get [_mc_] isabelle]'s thoughts on the school's gym equipment."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1295 #-#-# translate crowdin quest_kate_fate_rescue_8ecf1453:
 msgid "[_kate_s_skeptical_] ..."
