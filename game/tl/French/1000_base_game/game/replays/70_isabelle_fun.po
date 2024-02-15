@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-15 23:42\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/replays/70_isabelle_fun.rpy:13 #-#-# translate crowdin replay_isabelle_fun_751e00dd:
 msgid "With a single step forward, I lean in, taking [isabelle] in my arms."
@@ -406,7 +406,7 @@ msgstr "[J'ai aimé cet ordre des choses..."
 
 # game/1000_base_game/game/replays/70_isabelle_fun.rpy:430 #-#-# translate crowdin replay_isabelle_fun_91931f1a:
 msgid "[_mc_] It's about [kate]."
-msgstr "[_mc_] Il s'agit de [kate]."
+msgstr "[_mc_] Il s'agit de [_mc_] kate]."
 
 # game/1000_base_game/game/replays/70_isabelle_fun.rpy:431 #-#-# translate crowdin replay_isabelle_fun_2fb1d5b4:
 msgid "[_isabelle_s_bed_after_s_worried_] Really? You want to talk about [kate]?"
@@ -418,7 +418,7 @@ msgstr "[_mc_] Apparemment, elle consulte un médecin une fois par semaine et ma
 
 # game/1000_base_game/game/replays/70_isabelle_fun.rpy:433 #-#-# translate crowdin replay_isabelle_fun_a76c491f:
 msgid "[_mc_] Less [kate] for everyone!"
-msgstr "[Moins de [kate] pour tout le monde !"
+msgstr "[_mc_] Moins de [_mc_] kate] pour tout le monde !"
 
 # game/1000_base_game/game/replays/70_isabelle_fun.rpy:434 #-#-# translate crowdin replay_isabelle_fun_316a51f0:
 msgid "[_isabelle_s_bed_after_s_smile_] That is indeed quite good."
@@ -498,7 +498,7 @@ msgstr "[_mc_] Cela pourrait être une bonne chose, alors."
 
 # game/1000_base_game/game/replays/70_isabelle_fun.rpy:455 #-#-# translate crowdin replay_isabelle_fun_c150921b:
 msgid "[_mc_] Imagine a nice [kate]..."
-msgstr "[Imaginez une belle [kate]..."
+msgstr "[_mc_] Imaginez une belle [_mc_] kate]..."
 
 # game/1000_base_game/game/replays/70_isabelle_fun.rpy:456 #-#-# translate crowdin replay_isabelle_fun_51e9c942:
 msgid "This might be the actual power vacuum."
