@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-11-09 18:50\n"
+"PO-Revision-Date: 2024-02-15 20:13\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/full_letter.rpy:18 #-#-# translate crowdin int_full_letter_85220737:
 msgid "{i}\"Use me if you get hungry.\"{/}"
-msgstr ""
+msgstr "{i}\"如果你饿了，就把我用了吧。\"{/}"
 
 # game/1000_base_game/game/items/full_letter.rpy:19 #-#-# translate crowdin int_full_letter_9fd184b0:
 msgid "That's an odd request, but I guess it's different strokes for different folks. "
-msgstr ""
+msgstr "这真是个奇怪的要求，但我想这可能就是各有各的喜好吧。 "
 
