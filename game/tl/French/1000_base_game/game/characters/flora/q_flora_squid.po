@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:13 #-#-# translate crowdin quest_flora_squid_start_3779c151:
 msgid "[_mc_] Hey, [flora]? Have you seen my electric toothbrush?"
@@ -550,7 +550,7 @@ msgstr "[_mc_] Je n'en avais pas l'esprit. Tu sais ... que tu as pisé sur moi."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:203 #-#-# translate crowdin quest_flora_squid_trail_flora_bba0aead:
 msgid "[_flora_s_skeptical_wet_] Gross."
-msgstr "[_flora_s_skeptical_wet_] Gross."
+msgstr "[_flora_s_skeptical_wet_] Grossier."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:204 #-#-# translate crowdin quest_flora_squid_trail_flora_4400fdea:
 msgid "[_mc_] It's just bodily fluids, and yours happen to be quite lovely."
@@ -642,7 +642,7 @@ msgstr "[_mc_] Oh, je pense qu'elle sait une chose ou deux. Son calmar est aussi
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:229 #-#-# translate crowdin quest_flora_squid_trail_flora_7b57b1b2:
 msgid "[_flora_s_smile_wet_] Oh, my god! She also has a squid?"
-msgstr "[_flora_s_smile_wet_] Oh, mon dieu ! Elle a aussi un calmar ?"
+msgstr "[_flora_s_Souriez_wet_] Oh, mon dieu ! Elle a aussi un calmar ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:230 #-#-# translate crowdin quest_flora_squid_trail_flora_3287809a:
 msgid "[_mc_] [flora], I think you need to pay more attention during biology class..."
@@ -758,7 +758,7 @@ msgstr "[_mc_] Qui aurait pensé, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:277 #-#-# translate crowdin quest_flora_squid_trail_flora_c99ad04d:
 msgid "[_flora_s_smile_wet_] I'm always nice, so I think we would've discovered that sooner!"
-msgstr "[_flora_s_smile_wet_] Je suis toujours gentille, donc je pense que nous aurions découvert ça plus tôt !"
+msgstr "[_flora_s_Souriez_wet_] Je suis toujours gentille, donc je pense que nous aurions découvert ça plus tôt !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:278 #-#-# translate crowdin quest_flora_squid_trail_flora_6d1e0443:
 msgid "[_mc_] I don't know, [flora]. It's not like we know everything about each other.{space=-25}"
@@ -990,7 +990,7 @@ msgstr "[_mc_] Amende ... Allons-y."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:366 #-#-# translate crowdin quest_flora_squid_choice_583f1b3c:
 msgid "[_flora_s_smile_] Thank you!"
-msgstr "[_flora_s_smile_] Merci !"
+msgstr "[_flora_s_Souriez_] Merci !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:374 #-#-# translate crowdin quest_flora_squid_wait_door_bathroom_d5472a28:
 msgid "[_mc_] [flora]? How's it going?"
@@ -2326,7 +2326,7 @@ msgstr "Snip-snip-vasectomie à son meilleur !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:969 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a1c9eeab:
 msgid "[_flora_s_smile_] Oh, my god! [cuthbert], you saved me!"
-msgstr "[_flora_s_smile_] Oh, mon dieu ! [cuthbert], tu m'as sauvé !"
+msgstr "[_flora_s_Souriez_] Oh, mon dieu ! [cuthbert], tu m'as sauvé !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:973 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -2338,11 +2338,11 @@ msgstr "[_mc_] Où puis-je trouver un calmar qui est loyal ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:978 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_bfaa2b1f:
 msgid "[_flora_s_smile_] You can't! [cuthbert] is one of a kind!"
-msgstr "[_flora_s_smile_] Vous ne pouvez pas ! [cuthbert] est unique en son genre !"
+msgstr "[_flora_s_Souriez_] Vous ne pouvez pas ! [cuthbert] est unique en son genre !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:979 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_6e3d4f71:
 msgid "[_flora_s_smile_] He's a rescue squid from my internship."
-msgstr "[_flora_s_smile_] C'est un calmar de sauvetage de mon stage."
+msgstr "[_flora_s_Souriez_] C'est un calmar de sauvetage de mon stage."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:980 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_7a9a78b6:
 msgid "[_mc_] Well, now I'm jealous..."
@@ -2366,7 +2366,7 @@ msgstr "[_mc_] Oui, ignorer mes efforts comme d'habitude ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:988 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_2c5ddd10:
 msgid "[_flora_s_smile_] Oh, you did fine too. Just not as fine as [cuthbert]!"
-msgstr "[_flora_s_smile_] Oh, vous avez bien fait. Pas aussi bien que [cuthbert]!"
+msgstr "[_flora_s_Souriez_] Oh, vous avez bien fait. Pas aussi bien que [cuthbert]!"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:989 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_faab0e64:
 msgid "[_mc_] Jeez. That's what I get for saving your life, huh?"
@@ -2374,7 +2374,7 @@ msgstr "[_mc_] Jeez. C'est ce que j'ai pour sauver ta vie, hein ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:990 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_2358d72d:
 msgid "[_flora_s_smile_] I'll throw parade in your honor later."
-msgstr "[_flora_s_smile_] Je vais lancer un défilé en votre honneur plus tard."
+msgstr "[_flora_s_Souriez_] Je vais lancer un défilé en votre honneur plus tard."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:991 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_9930ed4b:
 msgid "[_mc_] Great."
@@ -2394,7 +2394,7 @@ msgstr "[_mc_] Etes-vous d'accord ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:998 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_9f1efa80:
 msgid "[_flora_s_smile_] Yeah, I think so."
-msgstr "[_flora_s_smile_] Oui, je crois."
+msgstr "[_flora_s_Souriez_] Oui, je crois."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:999 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_09cd6c6d:
 msgid "[_mc_] I thought you were about to get dragged off again..."
@@ -2402,7 +2402,7 @@ msgstr "[_mc_] Je croyais que vous étiez sur le point d'être traîné à nouve
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1001 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_b3352698:
 msgid "[_flora_s_smile_] Thanks for the help!"
-msgstr "[_flora_s_smile_] Merci pour l'aide !"
+msgstr "[_flora_s_Souriez_] Merci pour l'aide !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1002 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_c63f121a:
 msgid "[_mc_] Your squid doesn't look all too happy."
