@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 11:19\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:8 #-#-# translate crowdin quest_isabelle_dethroning_start_f602badf:
 msgid "[_mc_] Hi, [isabelle]! I managed to score a meeting with [maxine]."
@@ -1930,7 +1930,7 @@ msgstr "[_isabelle_] Je pense que c'est indispensable si tu veux encore me baise
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1722 #-#-# translate crowdin quest_isabelle_dethroning_homeroom_sex_0c6a72c2:
 msgid "[_mc_] Hehe, deal!"
-msgstr "[_mc_] Hehe, deal !"
+msgstr "[_mc_] Hehe, marché conclu !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1724 #-#-# translate crowdin quest_isabelle_dethroning_homeroom_sex_f9a66d15:
 msgid "[_mc_] I think it's hot that you didn't."
@@ -2024,7 +2024,7 @@ msgstr "[_maxine_s_thinking_] Jeux ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1779 #-#-# translate crowdin quest_isabelle_dethroning_riddle_986079d3:
 msgid "[_mc_] Look, can we have the meeting or not?"
-msgstr "[_mc_] Ecoute, pouvons-nous avoir la réunion ou pas ?"
+msgstr "[_mc_] Ecoutez, pouvons-nous avoir la réunion ou non ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1780 #-#-# translate crowdin quest_isabelle_dethroning_riddle_aeb0be23:
 msgid "[_maxine_s_sad_] I suppose we could..."
@@ -2140,7 +2140,7 @@ msgstr "[_maxine_s_confident_] Parfait. Maintenant, si vous m'excusez, j'ai des 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1823 #-#-# translate crowdin quest_isabelle_dethroning_riddle_d38b94bb:
 msgid "[_mc_] Have fun, I guess."
-msgstr "[_mc_] Amusea, je suppose."
+msgstr "[_mc_] Amusez-vous bien, je suppose."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1824 #-#-# translate crowdin quest_isabelle_dethroning_riddle_b9e61eea:
 msgid "[_maxine_s_thinking_] That's like saying \"have fun\" to a soldier going to war."
@@ -2194,7 +2194,7 @@ msgstr "[_mc_] Très bien, alors. Es-tu sûre de ça ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1843 #-#-# translate crowdin quest_isabelle_dethroning_riddle_10c5c4c4:
 msgid "[_mc_] Being a cheerleader is basically her entire identity. She'll be furious."
-msgstr "[_mc_] Être un cheerchef est essentiellement son identité. Elle sera furieuse."
+msgstr "[_mc_] Être une pom-pom girl, c'est toute son identité. Elle sera furieuse."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1844 #-#-# translate crowdin quest_isabelle_dethroning_riddle_af68d78e:
 msgid "[_isabelle_s_cringe_] I don't think anything else will teach her a lesson."
@@ -2256,7 +2256,7 @@ msgstr "Malheureusement, il est verrouillé, et seul le [jo] a la clé."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1874 #-#-# translate crowdin quest_isabelle_dethroning_key_e796738d:
 msgid "[_jo_s_smile_] What's going on, kiddo?"
-msgstr "[_jo_s_smile_] Que se passe-t-il, kiddo ?"
+msgstr "[_jo_s_Souriez_] Que se passe-t-il, kiddo ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1875 #-#-# translate crowdin quest_isabelle_dethroning_key_dc455df1:
 msgid "[_mc_] I'm in a bit of a pickle."
@@ -2272,7 +2272,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1882 #-#-# translate crowdin quest_isabelle_dethroning_key_9fe8221e:
 msgid "[_mc_] I lost a bet with the cheerleading squad."
-msgstr "[_mc_] J'ai perdu un pari avec l'équipe de cheerleading."
+msgstr "[_mc_] J'ai perdu un pari avec les pom-pom girls."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1883 #-#-# translate crowdin quest_isabelle_dethroning_key_26723b43:
 msgid "[_jo_s_cringe_] Gambling, [mc]? Really?"
@@ -2328,7 +2328,7 @@ msgstr "[_mc_] Fine ! Je les ai laissé gagner, d'accord ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1896 #-#-# translate crowdin quest_isabelle_dethroning_key_c075a59e:
 msgid "[_mc_] I had fun, though."
-msgstr "[_mc_] I had fun, though."
+msgstr "[_mc_] Je me suis quand même bien amusé."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1897 #-#-# translate crowdin quest_isabelle_dethroning_key_e27f1275:
 msgid "[_jo_s_blush_] And that's what matters!"
@@ -2520,7 +2520,7 @@ msgstr "[_isabelle_s_annoyed_] Dis-moi quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1986 #-#-# translate crowdin quest_isabelle_dethroning_announcement_f1874926:
 msgid "[_kate_s_smile_] That students aren't allowed to host parties at the school."
-msgstr "[_kate_s_smile_] Que les élèves ne soient pas autorisés à accueillir les partis à l'école."
+msgstr "[_kate_s_Souriez_] Que les élèves ne soient pas autorisés à accueillir les partis à l'école."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1987 #-#-# translate crowdin quest_isabelle_dethroning_announcement_5923aa98:
 msgid "Right, [jo] specifically prohibited it after a series of out-of-control birthday parties during our sophomore year..."
@@ -2606,11 +2606,11 @@ msgstr "[_isabelle_s_annoyed_] Mais vous êtes sûr de la frotter dans mon visag
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2016 #-#-# translate crowdin quest_isabelle_dethroning_announcement_91cc13b3:
 msgid "[_kate_s_smile_] It's my duty as the class president to inform you of them."
-msgstr "[_kate_s_smile_] C'est mon devoir en tant que président de la classe de vous en informer."
+msgstr "[_kate_s_Souriez_] C'est mon devoir en tant que président de la classe de vous en informer."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2017 #-#-# translate crowdin quest_isabelle_dethroning_announcement_b8087dbd:
 msgid "[_kate_s_smile_] And you've just been informed. You're welcome!"
-msgstr "[_kate_s_smile_] Et vous venez d'être informé. Vous êtes les bienvenus !"
+msgstr "[_kate_s_Souriez_] Et vous venez d'être informé. Vous êtes les bienvenus !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2021 #-#-# translate crowdin quest_isabelle_dethroning_announcement_2c600a77:
 msgid "[_mc_] That's the rule, but I could try talking to the principal."
@@ -2630,11 +2630,11 @@ msgstr "[_isabelle_s_annoyed_] Restez à l'écart, [kate]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2026 #-#-# translate crowdin quest_isabelle_dethroning_announcement_6ce6a66e:
 msgid "[_kate_s_smile_] It's my duty as the class president to inform you of the rules."
-msgstr "[_kate_s_smile_] C'est mon devoir en tant que président de la classe de vous informer des règles."
+msgstr "[_kate_s_Souriez_] C'est mon devoir en tant que président de la classe de vous informer des règles."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2027 #-#-# translate crowdin quest_isabelle_dethroning_announcement_b8087dbd_1:
 msgid "[_kate_s_smile_] And you've just been informed. You're welcome!"
-msgstr "[_kate_s_smile_] Et vous venez d'être informé. Vous êtes les bienvenus !"
+msgstr "[_kate_s_Souriez_] Et vous venez d'être informé. Vous êtes les bienvenus !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2031 #-#-# translate crowdin quest_isabelle_dethroning_announcement_1834008b:
 msgid "[_mc_] Get lost, [kate]! You're not invited!"
@@ -2801,8 +2801,8 @@ msgstr "[_mc_] Ce n'est pas pour moi."
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2117 #-#-# translate crowdin quest_isabelle_dethroning_principal_73d32ded:
 msgid "[_mc_] There's a new girl in my class and she'd like to host an Independence{space=-30}\n"
 "Day dinner to get to know everyone better."
-msgstr "[_mc_] Il y a une nouvelle fille dans ma classe et elle aimerait accueillir un \" Independence {space = -30}\n"
-"Dîner de jour pour apprendre à mieux connaître tout le monde."
+msgstr "[_mc_] Il y a une nouvelle fille dans ma classe et elle aimerait organiser un dîner du Jour de l'Indépendance{space=-30}\n"
+"pour faire plus ample connaissance avec tout le monde."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2118 #-#-# translate crowdin quest_isabelle_dethroning_principal_ccc22f80:
 msgid "[_jo_s_blush_] Aw, that's a good cause!"
@@ -2836,11 +2836,11 @@ msgstr "[_mc_] Je ne peux pas tout faire à la fois."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2133 #-#-# translate crowdin quest_isabelle_dethroning_principal_ac0da5f2:
 msgid "[_jo_s_smile_] That's great news, and I suppose you're right."
-msgstr "[_jo_s_smile_] C'est une bonne nouvelle, et je suppose que vous avez raison."
+msgstr "[_jo_s_Souriez_] C'est une bonne nouvelle, et je suppose que vous avez raison."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2134 #-#-# translate crowdin quest_isabelle_dethroning_principal_b2893d77:
 msgid "[_jo_s_smile_] I'll tell you what — once you complete an assignment with a good grade, I'll sign off on the dinner."
-msgstr "[_jo_s_smile_] Je vais vous dire quoi-une fois que vous aurez terminé une affectation avec une bonne note, je vous signerai au dîner."
+msgstr "[_jo_s_Souriez_] Je vais vous dire quoi-une fois que vous aurez terminé une affectation avec une bonne note, je vous signerai au dîner."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2135 #-#-# translate crowdin quest_isabelle_dethroning_principal_f853e548:
 msgid "[_jo_s_neutral_] You're still going to need adult supervision, and it's going to be\n"
@@ -2876,7 +2876,7 @@ msgstr "[_jo_s_concerned_] Les lumières de son vieux ont cassé ! C'est un cade
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2147 #-#-# translate crowdin quest_isabelle_dethroning_principal_4f876ca9:
 msgid "[_mc_] Can't this be an early Christmas present for me, then?"
-msgstr "[_mc_] Ca ne peut pas être un cadeau de Noël pour moi, alors ?"
+msgstr "[_mc_] Ça ne peut pas être un cadeau de Noël en avance pour moi, alors ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2148 #-#-# translate crowdin quest_isabelle_dethroning_principal_36fedc9b:
 msgid "[_jo_s_neutral_] That's... actually very selfless of you."
@@ -2884,11 +2884,11 @@ msgstr "[_jo_s_neutral_] C'est. .. en fait très désintéressé de vous."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2150 #-#-# translate crowdin quest_isabelle_dethroning_principal_3c0fcf0f:
 msgid "[_jo_s_smile_] I see that you really want to help the new girl."
-msgstr "[_jo_s_smile_] Je vois que vous voulez vraiment aider la nouvelle fille."
+msgstr "[_jo_s_Souriez_] Je vois que vous voulez vraiment aider la nouvelle fille."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2151 #-#-# translate crowdin quest_isabelle_dethroning_principal_b0ffd560:
 msgid "[_jo_s_smile_] I'll tell you what — if you get adult supervision, I'll allow it."
-msgstr "[_jo_s_smile_] Je vais vous dire quoi-si vous avez la supervision d'un adulte, je le permettrai."
+msgstr "[_jo_s_Souriez_] Je vais vous dire quoi-si vous avez la supervision d'un adulte, je le permettrai."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2152 #-#-# translate crowdin quest_isabelle_dethroning_principal_9263cdb9:
 msgid "[_mc_] We're all adults..."
@@ -2998,7 +2998,7 @@ msgstr "[_isabelle_s_confident_] Depuis que vous avez sauvé mon petit dîner, e
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2275 #-#-# translate crowdin quest_isabelle_dethroning_good_news_ef2e4e7e:
 msgid "[_mc_] Sure, I don't mind that."
-msgstr "[_mc_] Bien sûr, ça ne me dérène pas."
+msgstr "[_mc_] Bien sûr, ça ne me dérange pas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2276 #-#-# translate crowdin quest_isabelle_dethroning_good_news_f9bae0d9:
 msgid "[_isabelle_s_excited_] Lovely! Would you like to be in charge of invitations?"
@@ -3124,7 +3124,7 @@ msgstr "[_flora_s_cringe_] Il n'y avait pas de plaques propres ce matin. J'ai d�
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2320 #-#-# translate crowdin quest_isabelle_dethroning_invitations_flora_dd68797d:
 msgid "[_flora_s_cringe_] Gross as hell."
-msgstr "[_flora_s_cringe_] Gross en enfer."
+msgstr "[_flora_s_cringe_] Grossier en enfer."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2321 #-#-# translate crowdin quest_isabelle_dethroning_invitations_flora_eb54f84a:
 msgid "[_mc_] Err, sorry about that..."
@@ -3222,7 +3222,7 @@ msgstr "[_flora_s_cringe_]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2363 #-#-# translate crowdin quest_isabelle_dethroning_invitations_flora_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr "[_flora_s_cringe_] Gross."
+msgstr "[_flora_s_cringe_] Grossier."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2364 #-#-# translate crowdin quest_isabelle_dethroning_invitations_flora_abcaf8c1:
 msgid "[_flora_s_annoyed_texting_] And anyway, you can't stop me from coming. I'm texting [isabelle]."
@@ -3298,7 +3298,7 @@ msgstr "[_kate_s_laughing_] La seule façon de s'entendre c'est quand elle est �
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2394 #-#-# translate crowdin quest_isabelle_dethroning_invitations_kate_b19088be:
 msgid "[_kate_s_smile_] Honestly, it's quite funny that you even decided to ask me."
-msgstr "[_kate_s_smile_] Honnêtement, c'est assez drôle que vous avez même décidé de me demander."
+msgstr "[_kate_s_Souriez_] Honnêtement, c'est assez drôle que vous avez même décidé de me demander."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2395 #-#-# translate crowdin quest_isabelle_dethroning_invitations_kate_6077a91c:
 msgid "[_mc_] Ugh, whatever."
@@ -3334,7 +3334,7 @@ msgstr "[_kate_s_laughing_] Je suis la reine de l'école, et je vais me montrer 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2405 #-#-# translate crowdin quest_isabelle_dethroning_invitations_kate_78f7461a:
 msgid "[_kate_s_smile_] I might also throw my own party just to show everyone how it's done.{space=-35}"
-msgstr "[_kate_s_smile_] Je pourrais aussi lancer mon propre parti juste pour montrer à tout le monde comment c'est fait. {space=-35}"
+msgstr "[_kate_s_Souriez_] Je pourrais aussi lancer mon propre parti juste pour montrer à tout le monde comment c'est fait. {space=-35}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2406 #-#-# translate crowdin quest_isabelle_dethroning_invitations_kate_2b35b6fe_2:
 msgid "[_mc_] ..."
@@ -3450,7 +3450,7 @@ msgstr "[_maxine_s_thinking_] Pondérez la force gravitationnelle de la lune."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2460 #-#-# translate crowdin quest_isabelle_dethroning_invitations_maxine_c8155816:
 msgid "[_mc_] The what?"
-msgstr "[_mc_] The what ?"
+msgstr "[_mc_] Le quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2461 #-#-# translate crowdin quest_isabelle_dethroning_invitations_maxine_4816f56a:
 msgid "[_maxine_s_thinking_] The ebb and flow."
@@ -3566,11 +3566,11 @@ msgstr "[_mc_] Je vous fais confiance pour faire ce qu'il faut."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2500 #-#-# translate crowdin quest_isabelle_dethroning_invitations_maxine_cc54037c:
 msgid "[_maxine_s_smile_] I see. This is very beneficial."
-msgstr "[_maxine_s_smile_] Je vois. C'est très bénéfique."
+msgstr "[_maxine_s_Souriez_] Je vois. C'est très bénéfique."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2501 #-#-# translate crowdin quest_isabelle_dethroning_invitations_maxine_7a80ff5f:
 msgid "[_maxine_s_smile_] I did not realize you had this quality in you."
-msgstr "[_maxine_s_smile_] Je n'ai pas réalisé que vous aviez cette qualité en vous."
+msgstr "[_maxine_s_Souriez_] Je n'ai pas réalisé que vous aviez cette qualité en vous."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2502 #-#-# translate crowdin quest_isabelle_dethroning_invitations_maxine_baf6346c:
 msgid "[_mc_] I guess I'm full of surprises."
@@ -3614,7 +3614,7 @@ msgstr "[_mc_] Vous avez probablement raison ... parce que vous n'êtes pas invi
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2514 #-#-# translate crowdin quest_isabelle_dethroning_invitations_maxine_d584e4ea:
 msgid "[_maxine_s_smile_] A wise choice."
-msgstr "[_maxine_s_smile_] Un choix judicieux."
+msgstr "[_maxine_s_Souriez_] Un choix judicieux."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2515 #-#-# translate crowdin quest_isabelle_dethroning_invitations_maxine_822aa5c3:
 msgid "[_mc_] How so?"
@@ -3622,7 +3622,7 @@ msgstr "[_mc_] Comment ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2516 #-#-# translate crowdin quest_isabelle_dethroning_invitations_maxine_614edf8e:
 msgid "[_maxine_s_smile_] I prefer to go unnoticed."
-msgstr "[_maxine_s_smile_] Je préfère passer inaperçu."
+msgstr "[_maxine_s_Souriez_] Je préfère passer inaperçu."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2517 #-#-# translate crowdin quest_isabelle_dethroning_invitations_maxine_74ea0b9a:
 msgid "[_mc_] So, you're coming, anyway?"
@@ -3692,7 +3692,7 @@ msgstr "[_isabelle_s_confident_] Le [kate] est-il à venir ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2545 #-#-# translate crowdin quest_isabelle_dethroning_invitations_done_2d230582:
 msgid "[_mc_] Possibly. She'll be in the school, at any rate."
-msgstr "[_mc_] Eventuellement. Elle sera à l'école, en tout cas."
+msgstr "[_mc_] C'est possible. Elle sera à l'école, en tout cas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2546 #-#-# translate crowdin quest_isabelle_dethroning_invitations_done_bb7657ea:
 msgid "[_mc_] The cheer team tryouts are at the same time as the dinner."
@@ -3774,7 +3774,7 @@ msgstr "[_isabelle_s_eyeroll_] Pour votre bien, j'espère que c'est une expressi
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2590 #-#-# translate crowdin quest_isabelle_dethroning_dinner_1f7ba4dd:
 msgid "[_mc_] Err... yeah, look it up! It's listed under \"Failed Humor.\""
-msgstr "[_mc_] Err ... ouais, regarde ça ! Il est répertorié sous \"Echec de l'humour\"."
+msgstr "[_mc_] Euh... oui, regardez ! C'est listé sous \"Humour raté\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2591 #-#-# translate crowdin quest_isabelle_dethroning_dinner_78c5497b:
 msgid "[_isabelle_s_eyeroll_] I wonder if it's also listed under \"Inappropriate Comments?\""
@@ -3960,7 +3960,7 @@ msgstr "Que demandes-tu même à une fille ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2657 #-#-# translate crowdin quest_isabelle_dethroning_dinner_isabelle_691c8409:
 msgid "[_mc_] What's your favorite... shoes?"
-msgstr "[_mc_] Quelles sont vos chaussures préfé­elles ?"
+msgstr "[_mc_] Quelles sont vos chaussures préférées ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2658 #-#-# translate crowdin quest_isabelle_dethroning_dinner_isabelle_d4f46e48:
 msgid "[_isabelle_s_laughing_] I like boots a lot. They're both comfy and stylish."
@@ -4206,7 +4206,7 @@ msgstr "[_isabelle_s_laughing_] Vous êtes mauvais !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2733 #-#-# translate crowdin quest_isabelle_dethroning_dinner_isabelle_093561c3:
 msgid "[_mc_] Funny, that's exactly what my granny said to my grandpa."
-msgstr "[_mc_] Funny, c'est exactement ce que ma maman a dit à mon grand-père."
+msgstr "[_mc_] C'est drôle, c'est exactement ce que ma grand-mère a dit à mon grand-père."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2734 #-#-# translate crowdin quest_isabelle_dethroning_dinner_isabelle_ad5dc4d6:
 msgid "[_isabelle_s_laughing_] Hah!"
@@ -4214,7 +4214,7 @@ msgstr "[_isabelle_s_laughing_] Hah !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2741 #-#-# translate crowdin quest_isabelle_dethroning_dinner_kate_78ceb2ff:
 msgid "[_mc_] So, you showed up after all."
-msgstr "[_mc_] Donc, vous vous avez montré après tout."
+msgstr "[_mc_] Donc, tu es venu après tout."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2742 #-#-# translate crowdin quest_isabelle_dethroning_dinner_kate_0c7f0c08:
 msgid "[_kate_s_eyeroll_] What a complete snooze."
@@ -4246,13 +4246,13 @@ msgstr "[_lindsey_s_laughing_] C'est très bien, n'êtes-vous pas d'accord ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2755 #-#-# translate crowdin quest_isabelle_dethroning_dinner_lindsey_60bfffc9:
 msgid "[_lindsey_s_smile_] [isabelle] is a lovely host."
-msgstr "[_lindsey_s_smile_] [isabelle] est un charmant hôte."
+msgstr "[_lindsey_s_Souriez_] [isabelle] est un charmant hôte."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2762 #-#-# translate crowdin quest_isabelle_dethroning_dinner_maxine_16194fc7:
 msgid "[_mc_] I noticed that you're not really talking to anyone, so I thought\n"
 "I'd check on you."
-msgstr "[_mc_] J'ai remarqué que vous n'êtes pas vraiment en train de parler à qui que ce soit, alors j'ai pensé que\n"
-"je vous vériverrais."
+msgstr "[_mc_] J'ai remarqué que tu ne parlais à personne, alors j'ai pensé\n"
+"à aller te voir."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2763 #-#-# translate crowdin quest_isabelle_dethroning_dinner_maxine_14f1bd3b:
 msgid "[_maxine_s_skeptical_] I'm observing."
@@ -4502,7 +4502,7 @@ msgstr "[_flora_s_skeptical_] Quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2865 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_flora_d4f97ce2:
 msgid "[_mc_] Smile!"
-msgstr "[_mc_] Smile !"
+msgstr "[_mc_] Souriez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2874 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_flora_c267278c:
 msgid "[_flora_s_afraid_] What the hell?!"
@@ -4664,7 +4664,7 @@ msgstr "[_nurse_s_kitchen_crawling_] Oh mon Dieu !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2969 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_kitchen_3aae6de2:
 msgid "[_kate_] Look, we have company! It's my least favorite nerd!"
-msgstr "[_kate_] Look, we have company ! C'est mon nerd le moins préféré !"
+msgstr "[_kate_] Regarde, on a de la compagnie ! C'est mon nerd préféré !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2971 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_kitchen_b5c65360:
 msgid "[_mc_] Err... I was just looking for ice cream..."
@@ -4694,7 +4694,7 @@ msgstr "[_kate_] Notre accord n'a été que de cesser de la faire chanter."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2978 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_kitchen_2492d680:
 msgid "[_mc_] I won't allow this, [kate]."
-msgstr "[_mc_] Je ne le permetterai pas, [kate]."
+msgstr "[_mc_] Je ne le permettrai pas, [kate]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2979 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_kitchen_afb22d02:
 msgid "[_kate_] Don't get your panties in a twist. This is the last time, okay?"
@@ -4846,7 +4846,7 @@ msgstr "[_lindsey_s_blush_] Ok, faisons ça !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3055 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_lindsey_d4f97ce2:
 msgid "[_mc_] Smile!"
-msgstr "[_mc_] Smile !"
+msgstr "[_mc_] Souriez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3073 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_maxine_d3b62374:
 msgid "[_maxine_s_skeptical_] What exactly do you think you're doing?"
@@ -4878,7 +4878,7 @@ msgstr "[_mc_] Intéressant ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3087 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_maxine_92d78a7d:
 msgid "[_mc_] I think I've caught a cryptid."
-msgstr "[_mc_] Je pense avoir attrapé un cryptid."
+msgstr "[_mc_] Je crois que j'ai attrapé une cryptide."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3088 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_maxine_d069b6f6:
 msgid "[_maxine_s_sad_] Where?"
@@ -5136,7 +5136,7 @@ msgstr "[_mc_] Droit."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3232 #-#-# translate crowdin quest_isabelle_dethroning_trap_first_hall_cec0e800:
 msgid "[_mc_] Okay, I'll build the trap."
-msgstr "[_mc_] Ok, je construirak le piège."
+msgstr "[_mc_] D'accord, je vais construire le piège."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3233 #-#-# translate crowdin quest_isabelle_dethroning_trap_first_hall_6f26cdcd:
 msgid "[_isabelle_s_confident_] Hurry!"
@@ -5310,7 +5310,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3342 #-#-# translate crowdin quest_isabelle_dethroning_trap_red_paint_7290caa6:
 msgid "[_mc_] We already messed up her cheer tryout and scared her shitless..."
-msgstr "[_mc_] Nous avons déjà foiré sa trompeur et lui avons fait peur ..."
+msgstr "[_mc_] On a déjà foutu en l'air son essai de pom-pom girl et on lui a fait une peur bleue..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3343 #-#-# translate crowdin quest_isabelle_dethroning_trap_red_paint_89e3b0f7:
 msgid "[_mc_] We got our revenge."
@@ -5542,7 +5542,7 @@ msgstr "Trois ! [withvpunch]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3505 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_42ef3933:
 msgid "[_kate_] Aaaaaaaaaah! Nooooo!"
-msgstr "[_kate_] Aaaaaaaaaah ! Nooonoo !"
+msgstr "[_kate_] Aaaaaaaaaah ! Nooon !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3507 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_0a1ffbb2:
 msgid "Mmm... nothing like cornering your prey."
@@ -5756,7 +5756,7 @@ msgstr "[_mc_] Mhm."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3610 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_a0c7e12a:
 msgid "[_kate_s_hate_sex_smile_spanking1_] Ow! Hehe! What am I getting punished for?"
-msgstr "[_kate_s_hate_sex_smile_spanking1_] Ow ! Hehe ! Qu'est-ce que je suis puni ?"
+msgstr "[_kate_s_hate_sex_Souriez_spanking1_] Ow ! Hehe ! Qu'est-ce que je suis puni ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3611 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_7e3b1b88:
 msgid "For being a total and eternal bitch."
@@ -6908,7 +6908,7 @@ msgstr "[_mc_] Je n'ai pas de sentiments pour elle ou quoi que ce soit, d'accord
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4648 #-#-# translate crowdin quest_isabelle_dethroning_revenge_done_4985974a:
 msgid "[_mc_] I just—"
-msgstr "[_mc_] I just-"
+msgstr "[_mc_] J'ai juste -"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4649 #-#-# translate crowdin quest_isabelle_dethroning_revenge_done_9aeb90f3:
 msgid "[_isabelle_s_angry_] You just saw a good shag? Is that it?"
@@ -7196,7 +7196,7 @@ msgstr "[_mrsl_s_neutral_blowtorch_] Je suis juste en train de m'assurer que les
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4811 #-#-# translate crowdin quest_isabelle_dethroning_revenge_done_arts_wing_exit_40af2c49:
 msgid "[_mc_] With a... {i}blow torch?{/}"
-msgstr "[_mc_] Avec un torche ... {i} ? {/}"
+msgstr "[_mc_] Avec un... {i}chalumeau ?{/} "
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4812 #-#-# translate crowdin quest_isabelle_dethroning_revenge_done_arts_wing_exit_6809ec5b:
 msgid "[_mrsl_s_thinking_blowtorch_] Oh, this? Someone had left it in the bathroom."
@@ -7352,9 +7352,9 @@ msgstr "[_jo_] Qu'est-ce qui ne va pas, [mc] ?"
 msgid "[_mc_] This is going to sound really\n"
 "weird, but I think something\n"
 "is wrong with [lindsey]..."
-msgstr "[_mc_] This is going to sound really\n"
-"weird, but I think something\n"
-"is tort with [lindsey]..."
+msgstr "[_mc_] Cela va vous paraître vraiment\n"
+"bizarre, mais je pense que quelque chose\n"
+"ne va pas avec [lindsey]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4893 #-#-# translate crowdin quest_isabelle_dethroning_panik_jo_428c756a:
 msgid "[_mc_] She has gotten onto the roof,\n"
@@ -7404,7 +7404,7 @@ msgstr "[_mc_] [lindsey] ! !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4934 #-#-# translate crowdin quest_isabelle_dethroning_panik_outside_da1dc0c2:
 msgid "[_mc_] Get away from the edge!!"
-msgstr "[_mc_] Élotez du bord ! !"
+msgstr "[_mc_] Eloignez-vous du bord !!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4935 #-#-# translate crowdin quest_isabelle_dethroning_panik_outside_ab19b068:
 msgid "There are too many people shouting..."
