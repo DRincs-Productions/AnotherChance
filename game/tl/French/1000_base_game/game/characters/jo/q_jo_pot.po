@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:00\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:3 #-#-# translate crowdin quest_jo_pot_start_a253a57b:
 msgid "[_jo_] How's it going, honey?"
@@ -18,7 +18,7 @@ msgstr "[_jo_] Comment ça va, chérie ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:4 #-#-# translate crowdin quest_jo_pot_start_054bcbb8:
 msgid "[_mc_] Not too shabby. I've been on a—"
-msgstr "[Pas trop mal. J'ai été sur un -"
+msgstr "[_mc_] Pas trop mal. J'ai été sur un -"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:6 #-#-# translate crowdin quest_jo_pot_start_c2118b24:
 msgid "[_jo_s_thinking_phone_] Sorry, I have to take this."
@@ -126,7 +126,7 @@ msgstr "[_mc_] Un chercheur de l'Antarctique."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:41 #-#-# translate crowdin quest_jo_pot_start_f02bcccb:
 msgid "[_mc_] They've found an ancient civilization buried in the ice."
-msgstr "[Ils ont trouvé une ancienne civilisation enfouie dans la glace."
+msgstr "[_mc_] Ils ont trouvé une ancienne civilisation enfouie dans la glace."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:42 #-#-# translate crowdin quest_jo_pot_start_17acbc5b:
 msgid "[_flora_s_flirty_] What kind of civilization?"
@@ -298,7 +298,7 @@ msgstr "[_nurse_s_concerned_] Je ne sais vraiment rien de ça ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:103 #-#-# translate crowdin quest_jo_pot_getnurse_84a02339:
 msgid "[_mc_] Neither do the oxen. They just follow the farmer's directions."
-msgstr "[Les bœufs non plus. Ils se contentent de suivre les instructions du fermier."
+msgstr "[_mc_] Les bœufs non plus. Ils se contentent de suivre les instructions du fermier."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:104 #-#-# translate crowdin quest_jo_pot_getnurse_d5d6b7c2:
 msgid "[_nurse_s_thinking_] I suppose that's true, but I'm very short on time and have to get back to work..."
@@ -326,7 +326,7 @@ msgstr "[_mc_] Ah, vous êtes inquiet que ça ne soit pas assez intéressant ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:114 #-#-# translate crowdin quest_jo_pot_getnurse_3a7cd53c:
 msgid "[_mc_] Trust me, it'll be very interesting."
-msgstr "[Croyez-moi, ce sera très intéressant."
+msgstr "[_mc_] Croyez-moi, ce sera très intéressant."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:115 #-#-# translate crowdin quest_jo_pot_getnurse_c44fb817:
 msgid "[_nurse_s_afraid_] No, that's not what I meant!"
@@ -346,7 +346,7 @@ msgstr "[_mc_] Pas de soucis, je trouverai un autre moyen."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:127 #-#-# translate crowdin quest_jo_pot_getnurse_f437ec76:
 msgid "[_mc_] You would've looked hot plowing that field for me, but I understand."
-msgstr "[Vous auriez eu l'air sexy en labourant ce champ pour moi, mais je comprends."
+msgstr "[_mc_] Vous auriez eu l'air sexy en labourant ce champ pour moi, mais je comprends."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:129 #-#-# translate crowdin quest_jo_pot_getnurse_413a8dc9:
 msgid "[_nurse_s_blush_] I admire you thinking about organic produce."
@@ -442,7 +442,7 @@ msgstr "[_nurse_s_Souriez_] Comment allez-vous faire ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:179 #-#-# translate crowdin quest_jo_pot_nurse_plow_081ca31e:
 msgid "[_mc_] I got this plow and now I got the cattle to pull it."
-msgstr "[J'ai cette charrue et maintenant j'ai le bétail pour la tirer."
+msgstr "[_mc_] J'ai cette charrue et maintenant j'ai le bétail pour la tirer."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:180 #-#-# translate crowdin quest_jo_pot_nurse_plow_82e8e5bc:
 msgid "[_nurse_s_annoyed_] I don't see any cattle..."
@@ -570,7 +570,7 @@ msgstr "[_mc_] Pull !"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:222 #-#-# translate crowdin quest_jo_pot_nurse_plow_f0824331:
 msgid "[_mc_] Pull, my little moo-cow!"
-msgstr "[Tire, ma petite vache !"
+msgstr "[_mc_] Tire, ma petite vache !"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:223 #-#-# translate crowdin quest_jo_pot_nurse_plow_dd847a7b:
 msgid "[_nurse_] ..."
@@ -1102,7 +1102,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:417 #-#-# translate crowdin quest_jo_pot_tea_home_40fcf4f5:
 msgid "[_mc_] All right, [jo]. Let's get you to bed."
-msgstr "[Très bien, [jo]. Allons nous coucher."
+msgstr "[_mc_] Très bien, [jo]. Allons nous coucher."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:424 #-#-# translate crowdin quest_jo_pot_tea_home_3ad4cef0:
 msgid "All right, she's fast asleep in her bed now."
