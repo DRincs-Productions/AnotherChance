@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-09 16:05\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/nurse/nurse.rpy:991 #-#-# translate crowdin nurse_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
@@ -34,11 +34,11 @@ msgstr "[_nurse_s_thinking_] La saison de la grippe semble particulièrement mau
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1013 #-#-# translate crowdin nurse_talk_three_866a0efb:
 msgid "[_nurse_s_smile_] Working so closely with students is one of my great joys."
-msgstr "[_nurse_s_smile_] Travailler si étroitement avec les étudiants est l'une de mes grandes joies."
+msgstr "[_nurse_s_Souriez_] Travailler si étroitement avec les étudiants est l'une de mes grandes joies."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1014 #-#-# translate crowdin nurse_talk_three_cd0c237e:
 msgid "[_nurse_s_smile_] It's a much less stressful atmosphere here than at the hospital."
-msgstr "[_nurse_s_smile_] C'est une atmosphère beaucoup moins stressante qu'à l'hôpital."
+msgstr "[_nurse_s_Souriez_] C'est une atmosphère beaucoup moins stressante qu'à l'hôpital."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1021 #-#-# translate crowdin nurse_talk_four_283c6116:
 msgid "[_nurse_s_neutral_] If you ever need someone to talk to, don't hesitate to stop by."
@@ -46,7 +46,7 @@ msgstr "[_nurse_s_neutral_] Si vous avez besoin de quelqu'un pour parler, n'hés
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1022 #-#-# translate crowdin nurse_talk_four_ba18d38b:
 msgid "[_nurse_s_smile_] Nurses also operate under the patient confidentiality laws."
-msgstr "[_nurse_s_smile_] Les infirmières agissent également en vertu des lois sur la confidentialité des patients."
+msgstr "[_nurse_s_Souriez_] Les infirmières agissent également en vertu des lois sur la confidentialité des patients."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1029 #-#-# translate crowdin nurse_talk_five_eafb29c3:
 msgid "[_nurse_s_neutral_] I always do my best to fill each student's needs."
@@ -62,11 +62,11 @@ msgstr "Elle doit être malade de mes mauvaises tentatives de flirter maintenant
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1041 #-#-# translate crowdin nurse_flirt_one_707cd6f6:
 msgid "[_nurse_s_smile_] I am a bit of a stress-eater, not going to lie."
-msgstr "[_nurse_s_smile_] Je suis un peu stressé, ne va pas mentio."
+msgstr "[_nurse_s_Souriez_] Je suis un peu stressé, ne va pas mentio."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1042 #-#-# translate crowdin nurse_flirt_one_7178ee5d:
 msgid "[_nurse_s_smile_] Sucking on something always calms my nerves."
-msgstr "[_nurse_s_smile_] Le fait de réussir quelque chose me calme toujours les nerfs."
+msgstr "[_nurse_s_Souriez_] Le fait de réussir quelque chose me calme toujours les nerfs."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1043 #-#-# translate crowdin nurse_flirt_one_fab971b8:
 msgid "[_nurse_s_annoyed_] Sorry, that was poor phrasing."
@@ -114,7 +114,7 @@ msgstr "[_nurse_s_concerned_] Tout cela est trop embarrassant."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1090 #-#-# translate crowdin nurse_office_nude_flirt_two_65d133f1:
 msgid "[_nurse_s_annoyed_] Wrapping myself in a bed sheet doesn't count as being naked, does it?"
-msgstr "[_nurse_s_annoyed_] Wrapping moi-même dans une feuille de lit ne compte pas comme étant nu, n'est-ce pas?"
+msgstr "[_nurse_s_annoyed_] Wrapping moi-même dans une feuille de lit ne compte pas comme étant nu, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1091 #-#-# translate crowdin nurse_office_nude_flirt_two_76a168ec:
 msgid "[_nurse_s_annoyed_] At least this humiliation is only for a day..."
@@ -122,7 +122,7 @@ msgstr "[_nurse_s_annoyed_] Au moins cette humiliation n'est que pour une journ�
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1098 #-#-# translate crowdin nurse_office_nude_flirt_three_d544489d:
 msgid "[_nurse_s_blush_] Goodness me. Where did I put the stethoscope?"
-msgstr "[_nurse_s_blush_] Goodness me. Où ai-je mis le stéthoscope?"
+msgstr "[_nurse_s_blush_] Goodness me. Où ai-je mis le stéthoscope ?"
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1099 #-#-# translate crowdin nurse_office_nude_flirt_three_041525ac:
 msgid "[_mc_] Maybe it's in your—"
@@ -138,7 +138,7 @@ msgstr "[_nurse_s_annoyed_] Non pas que j'ai essayé ..."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1108 #-#-# translate crowdin nurse_office_nude_flirt_four_2e9574d2:
 msgid "[_nurse_s_thinking_] Don't you have classes to attend?"
-msgstr "[_nurse_s_thinking_] N'avez-vous pas de cours à suivre?"
+msgstr "[_nurse_s_thinking_] N'avez-vous pas de cours à suivre ?"
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1109 #-#-# translate crowdin nurse_office_nude_flirt_four_906fd6ed:
 msgid "[_mc_] Maybe, but this is more entertaining."
@@ -150,7 +150,7 @@ msgstr "[_nurse_s_afraid_] Je ... ne vois pas comment m'exposer aux étudiants e
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1111 #-#-# translate crowdin nurse_office_nude_flirt_four_cfce055e:
 msgid "[_mc_] Are you sure?"
-msgstr "[_mc_] Etes-vous sûr?"
+msgstr "[_mc_] Etes-vous sûr ?"
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1112 #-#-# translate crowdin nurse_office_nude_flirt_four_cff7deb3:
 msgid "[_nurse_s_annoyed_] ..."
@@ -158,7 +158,7 @@ msgstr "[_nurse_s_annoyed_]..."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1119 #-#-# translate crowdin nurse_office_nude_flirt_five_ebad79a8:
 msgid "[_nurse_s_sad_] How am I supposed to do my job now?"
-msgstr "[_nurse_s_sad_] Comment suis-je censé faire mon travail maintenant?"
+msgstr "[_nurse_s_sad_] Comment suis-je censé faire mon travail maintenant ?"
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1120 #-#-# translate crowdin nurse_office_nude_flirt_five_7e3e8ba6:
 msgid "[_mc_] Think of it as a brief vacation."
@@ -170,7 +170,7 @@ msgstr "[_nurse_s_thinking_] Je ... ne trouve pas ça très relaxant."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1122 #-#-# translate crowdin nurse_office_nude_flirt_five_7382a58a:
 msgid "[_mc_] Who said anything about relaxing?"
-msgstr "[_mc_] Qui a dit quoi que ce soit sur la détente?"
+msgstr "[_mc_] Qui a dit quoi que ce soit sur la détente ?"
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1123 #-#-# translate crowdin nurse_office_nude_flirt_five_7a79784e:
 msgid "[_nurse_s_concerned_] I thought the two were related somehow..."
