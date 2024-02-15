@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:15\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/27_lindsey_catch.rpy:10 #-#-# translate crowdin replay_lindsey_catch_3a5b2e50:
 msgid "[_lindsey_s_lindseyfall_] Eeep!"
@@ -54,7 +54,7 @@ msgstr "[_mc_] Vous allez vous blesser si vous êtes négligent."
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:30 #-#-# translate crowdin replay_lindsey_catch_cfb3abbd:
 msgid "[_lindsey_s_lindseycatch_smile_] I slipped on the stairs, that's all! I'll watch my step in the future."
-msgstr "[_lindsey_s_lindseycatch_smile_] J'ai glissé dans les escaliers, c'est tout ! Je vais regarder mon pas dans le futur."
+msgstr "[_lindsey_s_lindseycatch_Souriez_] J'ai glissé dans les escaliers, c'est tout ! Je vais regarder mon pas dans le futur."
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:31 #-#-# translate crowdin replay_lindsey_catch_02a51b23:
 msgid "[_mc_] This is the third time you've been in an accident this year."
@@ -66,7 +66,7 @@ msgstr "[_mc_] Etes-vous sûr que vous allez bien ?"
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:33 #-#-# translate crowdin replay_lindsey_catch_f05fb9cc:
 msgid "[_lindsey_s_lindseycatch_smile_] Never been better!"
-msgstr "[_lindsey_s_lindseycatch_smile_] Jamais mieux !"
+msgstr "[_lindsey_s_lindseycatch_Souriez_] Jamais mieux !"
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:35 #-#-# translate crowdin replay_lindsey_catch_39b966f9:
 msgid "[_mc_] Where did {i}you{/} come from?"
@@ -82,7 +82,7 @@ msgstr "[_mc_] Êtes-vous un oiseau ? Un avion ? Peut-être un ange ?"
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:38 #-#-# translate crowdin replay_lindsey_catch_48cd79fc:
 msgid "[_lindsey_s_lindseycatch_smile_] Hey, smooth!"
-msgstr "[_lindsey_s_lindseycatch_smile_] Hé, lisse !"
+msgstr "[_lindsey_s_lindseycatch_Souriez_] Hé, lisse !"
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:39 #-#-# translate crowdin replay_lindsey_catch_c55efa98:
 msgid "[_mc_] I thought you were a runner. What's with the flight maneuvers?"
@@ -90,7 +90,7 @@ msgstr "[_mc_] Je croyais que vous étiez un coureur. Qu'en est-il des manœuvre
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:40 #-#-# translate crowdin replay_lindsey_catch_9c8e4b8d:
 msgid "[_lindsey_s_lindseycatch_smile_] My lifelong dream is actually to become a pilot."
-msgstr "[_lindsey_s_lindseycatch_smile_] Mon rêve tout au long de la vie est en fait de devenir pilote."
+msgstr "[_lindsey_s_lindseycatch_Souriez_] Mon rêve tout au long de la vie est en fait de devenir pilote."
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:41 #-#-# translate crowdin replay_lindsey_catch_a31340dd:
 msgid "[_mc_] Really?"
@@ -98,11 +98,11 @@ msgstr "[_mc_] Vraiement ?"
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:42 #-#-# translate crowdin replay_lindsey_catch_20914ad3:
 msgid "[_lindsey_s_lindseycatch_smile_] No, silly! I just slipped."
-msgstr "[_lindsey_s_lindseycatch_smile_] Non, idiot ! Je viens de glisser."
+msgstr "[_lindsey_s_lindseycatch_Souriez_] Non, idiot ! Je viens de glisser."
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:43 #-#-# translate crowdin replay_lindsey_catch_2e53b177:
 msgid "[_lindsey_s_lindseycatch_smile_] Thanks for catching me."
-msgstr "[_lindsey_s_lindseycatch_smile_] Merci de m'avoir pris."
+msgstr "[_lindsey_s_lindseycatch_Souriez_] Merci de m'avoir pris."
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:44 #-#-# translate crowdin replay_lindsey_catch_b2a4c840:
 msgid "[_mc_] That's it? I just saved your life."
@@ -118,7 +118,7 @@ msgstr "[_mc_] Je plaisante. Glad, tu vas bien."
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:47 #-#-# translate crowdin replay_lindsey_catch_8e31f088:
 msgid "[_lindsey_s_lindseycatch_smile_] I thought I'd eat it for sure."
-msgstr "[_lindsey_s_lindseycatch_smile_] Je pensais que je le mangerais pour sûr."
+msgstr "[_lindsey_s_lindseycatch_Souriez_] Je pensais que je le mangerais pour sûr."
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:48 #-#-# translate crowdin replay_lindsey_catch_f1655ff3:
 msgid "[_mc_] Me too. I thought for sure that—"
@@ -174,11 +174,11 @@ msgstr "[_mc_] Nous devons arrêter de nous rencontrer comme ça."
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:63 #-#-# translate crowdin replay_lindsey_catch_f148395b:
 msgid "[_lindsey_s_lindseycatch_smile_] Oh, hello there!"
-msgstr "[_lindsey_s_lindseycatch_smile_] Oh, bonjour là !"
+msgstr "[_lindsey_s_lindseycatch_Souriez_] Oh, bonjour là !"
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:64 #-#-# translate crowdin replay_lindsey_catch_a6b59f10:
 msgid "[_lindsey_s_lindseycatch_smile_] I don't mind it all too much."
-msgstr "[_lindsey_s_lindseycatch_smile_] Je ne le pense pas trop."
+msgstr "[_lindsey_s_lindseycatch_Souriez_] Je ne le pense pas trop."
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:65 #-#-# translate crowdin replay_lindsey_catch_526efde5:
 msgid "[_mc_] You could seriously have hurt yourself!"
@@ -202,7 +202,7 @@ msgstr "[_mc_] Je ne peux pas supporter l'idée de quelque chose de mal qui vous
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:70 #-#-# translate crowdin replay_lindsey_catch_c101e007:
 msgid "[_lindsey_s_lindseycatch_smile_] But I'm okay!"
-msgstr "[_lindsey_s_lindseycatch_smile_] Mais je vais bien !"
+msgstr "[_lindsey_s_lindseycatch_Souriez_] Mais je vais bien !"
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:71 #-#-# translate crowdin replay_lindsey_catch_64196e23:
 msgid "[_mc_] Yes, but—"
