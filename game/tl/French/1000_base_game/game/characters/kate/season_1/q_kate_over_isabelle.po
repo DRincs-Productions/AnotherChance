@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:5 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_aeb844b7:
 msgid "[_isabelle_s_laughing_] Hi, [kate]. Do you have a minute?"
@@ -310,7 +310,7 @@ msgstr "[_mc_] Plus d'accord !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:157 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_204a7058:
 msgid "[_mc_] I don't get why you're stirring up shit, [isabelle]. You're new here... apologize to [kate], and let's go."
-msgstr "[_mc_] I don't get why you're brassring up shit, [isabelle]. Vous êtes nouveau ici ... des excuses au [kate], et allons-y."
+msgstr "[_mc_] I don't get why you're brassring up shit, [_mc_] isabelle]. Vous êtes nouveau ici ... des excuses au [_mc_] kate], et allons-y."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:160 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_f84baa72:
 msgid "[_isabelle_s_angry_] I can't believe you, [mc]!"
@@ -1102,7 +1102,7 @@ msgstr "[_kate_s_neutral_] Ok, assez groveling. En dehors de ça."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:488 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_48abfe85:
 msgid "[_mc_] [isabelle]'s focus classes are English, Art, and Gym."
-msgstr "[_mc_] Les classes de focus [isabelle]sont l'anglais, l'art et le Gym."
+msgstr "[_mc_] Les classes de focus [_mc_] isabelle]sont l'anglais, l'art et le Gym."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:489 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_93afedef:
 msgid "[_mc_] Her favorite drink is ice tea."
