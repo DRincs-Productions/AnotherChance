@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:84 #-#-# translate crowdin kitchen_door_interact_flora_bonsai_sugar_b7dd851b:
 msgid "As much as I wish we had a garden of sugar canes outside, the sugar is probably hiding inside."
@@ -38,7 +38,7 @@ msgstr "[flora] dira à [jo] que j'ai mis quelque chose dans le lait. Il faut la
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:109 #-#-# translate crowdin home_kitchen_door_interact_flora_cooking_chilli_b967680e:
 msgid "[_flora_s_cringe_] You won't leave your room for weeks if you can get away with it, but the moment I need your help, you need to run outside?"
-msgstr "[_flora_s_cringe_] You won't leave your room for weeks if you can get away with it, but the moment I need your help, you need to run outside ?"
+msgstr "[_flora_s_cringe_] Tu ne quitteras pas ta chambre pendant des semaines si tu peux le faire, mais dès que j'ai besoin de ton aide, tu dois sortir en courant ?"
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:110 #-#-# translate crowdin home_kitchen_door_interact_flora_cooking_chilli_6a94a61d:
 msgid "[_mc_] The vitamin D deficiency is starting to get to me..."
@@ -74,7 +74,7 @@ msgstr "[_jacklyn_s_neutral_] Ai-je manqué la note de service ? J'aurais pu sec
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:133 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_a18b75dd:
 msgid "[_mc_] Arr! You did, but don't worry, you can dress up as the emperor from the Emperor's New Groove."
-msgstr "[Arr ! C'est vrai, mais ne vous inquiétez pas, vous pouvez vous déguiser en empereur de l'Emperor's New Groove."
+msgstr "[_mc_] Arr ! C'est vrai, mais ne vous inquiétez pas, vous pouvez vous déguiser en empereur de l'Emperor's New Groove."
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:135 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_4dcc46f8:
 msgid "[_jacklyn_s_laughing_] Nice try, cherry pie."
