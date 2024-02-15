@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:3 #-#-# translate crowdin flora_quest_back_to_school_special_190f85fb:
 msgid "[_flora_s_angry_] Breakfast!"
@@ -358,11 +358,11 @@ msgstr "[_flora_s_annoyed_] Tout droit, question suivante."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:140 #-#-# translate crowdin flora_quest_back_to_school_special_f11e38d0:
 msgid "[_flora_s_smile_] You're walking through the woods with a basket of goodies when you come to a fork."
-msgstr "[_flora_s_smile_] Vous marchez dans les bois avec un panier de goodies quand vous venez à la fourchette."
+msgstr "[_flora_s_Souriez_] Vous marchez dans les bois avec un panier de goodies quand vous venez à la fourchette."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:141 #-#-# translate crowdin flora_quest_back_to_school_special_78daaed3:
 msgid "[_flora_s_smile_] You know that if you go left, the road will be long and tough, but it's said that beautiful nymphs await the travelers that can reach them."
-msgstr "[_flora_s_smile_] Vous savez que si vous allez à gauche, la route sera longue et dure, mais il est dit que de belles nymphes attendent les voyageurs qui peuvent les atteindre."
+msgstr "[_flora_s_Souriez_] Vous savez que si vous allez à gauche, la route sera longue et dure, mais il est dit que de belles nymphes attendent les voyageurs qui peuvent les atteindre."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:142 #-#-# translate crowdin flora_quest_back_to_school_special_261168e2:
 msgid "[_flora_s_confident_] You also know that if you go right, the road will be short and easy, and you'll make it home safely."
