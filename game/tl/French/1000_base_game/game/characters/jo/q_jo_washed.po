@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 18:48\n"
+"PO-Revision-Date: 2024-02-15 22:00\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:43 #-#-# translate crowdin quest_jo_washed_start_0d7bce5a:
 msgid "Sometimes when life gets rough, it's easier to just escape."
@@ -78,7 +78,7 @@ msgstr "[_jo_s_confident_] Et ne m'avez pas commencé sur sa bite."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:94 #-#-# translate crowdin quest_jo_washed_start_3e79b839:
 msgid "[_flora_s_flirty_] Yummy!"
-msgstr "[_flora_s_flirty_] Yummy !"
+msgstr "[_flora_s_flirty_] Miam !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:95 #-#-# translate crowdin quest_jo_washed_start_cb41a0b6:
 msgid "Okay, they probably didn't say those things."
@@ -446,7 +446,7 @@ msgstr "[Je serai de retour avant que vous ne puissiez dire \"arrosez-moi !\""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:216 #-#-# translate crowdin quest_jo_washed_supplies_reminder_f3714ae3:
 msgid "[_flora_s_concerned_] Hose me down."
-msgstr "[_flora_s_concerned_] Hose-moi."
+msgstr "[_flora_s_s_concerned_] Laissez-moi tranquille."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:217 #-#-# translate crowdin quest_jo_washed_supplies_reminder_2722d4bc:
 msgid "She actually did say that. One of my all time favorite lines of hers. Very hot."
@@ -1944,7 +1944,7 @@ msgstr "[_flora_s_eyeroll_] Ouais, ouais, viens juste m'aider à tout mettre en 
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:927 #-#-# translate crowdin quest_jo_washed_car_wash_772fced0:
 msgid "[_flora_s_eyeroll_] The donors are getting impatient."
-msgstr "[_flora_s_eyeroll_] Les donateurs s'impatiente."
+msgstr "[_flora_s_eyeroll_] Les donateurs s'impatientent."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:928 #-#-# translate crowdin quest_jo_washed_car_wash_79da4562:
 msgid "[_flora_s_annoyed_] If they drive off, I swear I'll strangle you with the hose."
@@ -1996,11 +1996,11 @@ msgstr "[_flora_s_car_wash_s_flora_s_excited_right_] Merci d'avoir attendu, tout
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:953 #-#-# translate crowdin quest_jo_washed_car_wash_b4484a33:
 msgid "[_flora_s_car_wash_s_flora_s_excited_right_] Welcome to the Newfall High car wash fundraiser!"
-msgstr "[_flora_s_car_wash_s_flora_s_excited_right_] Bienvenue à la levée de fonds Newfall High car !"
+msgstr "[_flora_s_car_wash_s_flora_s_excited_right_] Bienvenue à la collecte de fonds du lave-auto de Newfall High !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:954 #-#-# translate crowdin quest_jo_washed_car_wash_06bd0ff3:
 msgid "[_flora_s_car_wash_s_flora_s_excited_right_] You'll get a scrub and a rinse!"
-msgstr "[_flora_s_car_wash_s_flora_s_excited_right_] You'll get a épurb and a rinse !"
+msgstr "[_flora_s_car_wash_s_flora_s_excited_right_] Vous aurez droit à un gommage et à un rinçage !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:955 #-#-# translate crowdin quest_jo_washed_car_wash_705af3ba:
 msgid "[_flora_s_car_wash_s_flora_s_excited_right_] All donations will go to our school dance at the end of the year!"
@@ -2218,7 +2218,7 @@ msgstr "[_jacklyn_] Laissons cette voiture à l'école, oui ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1034 #-#-# translate crowdin quest_jo_washed_car_wash_432ffa54:
 msgid "[_flora_s_car_wash_s_flora_s_smile_left_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_left_] Y-yeah, let's do it!"
-msgstr "[_flora_s_car_wash_s_flora_s_Souriez_left_s_maxine_s_Souriez_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_Souriez_left_] Y-yeah, faisons ça !"
+msgstr "[_flora_s_car_wash_s_flora_s_smile_left_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_left_] Oui, oui, faisons-le !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1035 #-#-# translate crowdin quest_jo_washed_car_wash_faabe458:
 msgid "[_flora_s_car_wash_s_flora_s_smile_left_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_left_] T-thanks for helping us out, [jacklyn]."
@@ -2342,7 +2342,7 @@ msgstr "[_flora_s_car_wash_s_flora_s_Souriez_s_maxine_s_Souriez_s_kate_s_neutral
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1071 #-#-# translate crowdin quest_jo_washed_car_wash_9c8c6212:
 msgid "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_] [jo] taking a breather is fine. She deserves it."
-msgstr "[_flora_s_car_wash_s_flora_s_Souriez_s_maxine_s_Souriez_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_Souriez_s_hose_dripping_s_wet_] [jo] La prise d'une brassage est bien. Elle le mérite."
+msgstr "[_flora_s_car_wash_s_flora_s_smile_s_maxine_s_s_mile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_] [jo] prendre une pause, c'est bien. Elle le mérite."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1072 #-#-# translate crowdin quest_jo_washed_car_wash_35a1328b:
 msgid "Well, I deserve to see her in a bikini."
@@ -2378,7 +2378,7 @@ msgstr "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_Souriez_s_kate_s_neutral
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1081 #-#-# translate crowdin quest_jo_washed_car_wash_af310507:
 msgid "[_flora_s_car_wash_s_flora_s_excited_right_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_] But! I'll be happy to take over the hose until you get back!"
-msgstr "[_flora_s_car_wash_s_flora_s_excited_right_s_maxine_s_Souriez_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_Souriez_s_hose_dripping_s_wet_] Mais ! Je serai heureux de prendre le tuyau jusqu'à ce que tu reviendras !"
+msgstr "[_flora_s_car_wash_s_flora_s_excited_right_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_] Mais je serai ravie de prendre le relais jusqu'à ton retour !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1082 #-#-# translate crowdin quest_jo_washed_car_wash_8d5e2019:
 msgid "She said, mischievously."
@@ -3258,7 +3258,7 @@ msgstr "[Une collecte de fonds plutôt réussie, hein ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1385 #-#-# translate crowdin quest_jo_washed_fundraiser_f21b3296:
 msgid "[_flora_s_neutral_] Pretty successful, even if it did get a little weird."
-msgstr "[_flora_s_neutral_] Pretty réussi, même si ça a été un peu bizarre."
+msgstr "[_flora_s_neutral_] Plutôt réussi, même si c'est devenu un peu bizarre."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1386 #-#-# translate crowdin quest_jo_washed_fundraiser_187d03f2:
 msgid "Weird was one way to describe it."
