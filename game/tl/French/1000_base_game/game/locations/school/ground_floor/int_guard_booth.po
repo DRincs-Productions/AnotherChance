@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:06\n"
+"PO-Revision-Date: 2024-02-15 22:01\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:88 #-#-# translate crowdin school_ground_floor_guard_booth_interact_default_c0f68e65:
 msgid "The [guard] seems to be asleep. "
@@ -146,7 +146,7 @@ msgstr "Le [guard] est un froid. Probablement une sorte de coma induit par la do
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:161 #-#-# translate crowdin school_ground_floor_guard_booth_lindsey_wrong_mop_598c484a:
 msgid "[_mc_] Hey, I need a mop."
-msgstr "[_mc_] Hé, j'ai besoin d'une mop."
+msgstr "[Hé, j'ai besoin d'une serpillière."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:162 #-#-# translate crowdin school_ground_floor_guard_booth_lindsey_wrong_mop_6b9abe6b:
 msgid "[_guard_] What do I look like, the janitor?"
@@ -170,7 +170,7 @@ msgstr "[_guard_] Qu'est-ce que vous proposez, exactement ?"
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:167 #-#-# translate crowdin school_ground_floor_guard_booth_lindsey_wrong_mop_52645787:
 msgid "[_mc_] A deal. I'll get you a doughnut and you'll get me the mop from the janitor's closet."
-msgstr "[_mc_] Un marché. Je t'aurai un beignet et tu me feras la mop du placard du concierge."
+msgstr "[Un marché. Je te donne un beignet et tu me donnes la serpillière de l'armoire du concierge."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:168 #-#-# translate crowdin school_ground_floor_guard_booth_lindsey_wrong_mop_4470eb20:
 msgid "[_guard_] Two doughnuts."
@@ -206,7 +206,7 @@ msgstr "[_guard_] Mmmm, oui ... qui a touché l'endroit."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:194 #-#-# translate crowdin school_ground_floor_guard_booth_lindsey_wrong_doughnuts_9cdf55fb:
 msgid "[_mc_] What about the mop?"
-msgstr "[_mc_] Qu'en est-il de la mop ?"
+msgstr "[Et la serpillière ?"
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:195 #-#-# translate crowdin school_ground_floor_guard_booth_lindsey_wrong_doughnuts_bec1b918:
 msgid "[_guard_] Ugh. Never any peace in this place..."
