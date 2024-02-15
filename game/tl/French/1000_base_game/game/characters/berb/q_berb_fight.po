@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:20\n"
+"PO-Revision-Date: 2024-02-15 07:33\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:4 #-#-# translate crowdin berb_quest_fight_start_325436f1:
 msgid "Huh? I thought I killed that beaver."
@@ -138,7 +138,7 @@ msgstr "[_lindsey_s_blush_] N'allez-vous pas le sauver ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:91 #-#-# translate crowdin berb_quest_fight_roof_44c6b31c:
 msgid "[_mc_] Hell no! That furry devil just cursed at me."
-msgstr "[_mc_] Hell no ! Ce diable s'est juste maudit contre moi."
+msgstr "[_mc_] Bon sang, non ! Ce diable à fourrure vient de me maudire."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:92 #-#-# translate crowdin berb_quest_fight_roof_a9c895f9:
 msgid "[_lindsey_s_thinking_] Really? What if he falls?"
@@ -242,7 +242,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:139 #-#-# translate crowdin berb_quest_fight_roof_11ea60a6:
 msgid "[_mc_] He said all sorts of nasty things."
-msgstr "[_mc_] Il a dit toutes sortes de choses méchants."
+msgstr "[_mc_] Il a dit toutes sortes de choses désagréables."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:140 #-#-# translate crowdin berb_quest_fight_roof_26d0a3e4:
 msgid "[_flora_s_annoyed_] Like what?"
@@ -250,7 +250,7 @@ msgstr "[_flora_s_annoyed_] Comme quoi ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:141 #-#-# translate crowdin berb_quest_fight_roof_2f450820:
 msgid "[_mc_] He said my sister would gnaw on his log."
-msgstr "[_mc_] Il a dit que ma sœur gnait sur son journal."
+msgstr "[_mc_] Il disait que ma sœur rongeait sa bûche."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:142 #-#-# translate crowdin berb_quest_fight_roof_8860199a:
 msgid "[_flora_s_confused_] Seriously, dude?"
@@ -374,7 +374,7 @@ msgstr "Cette créature est un démon de furry."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:181 #-#-# translate crowdin berb_quest_fight_roof_b594649d:
 msgid "[_berb_] I'll clog the water supply to your house and flood your basement!"
-msgstr "[_berb_] I'll clog the water supply to your house and inonder your cave !"
+msgstr "[_berb_] Je vais boucher l'arrivée d'eau de votre maison et inonder votre sous-sol !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:182 #-#-# translate crowdin berb_quest_fight_roof_16e8dcb4:
 msgid "No one has more experience dealing with insults than me."
@@ -582,15 +582,15 @@ msgstr "[_mc_] Le temps de rencontrer votre fabricant, la merde !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:306 #-#-# translate crowdin berb_quest_items_94e29d56:
 msgid "[_berb_] Foolish human! You are no match for—"
-msgstr "[_berb_] Foolish humain ! Vous ne correspondant pas à-"
+msgstr "[_berb_] Imbécile d'humain ! Tu n'es pas à la hauteur de -"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:308 #-#-# translate crowdin berb_quest_items_83322472:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas ?"
+msgstr "[_berb_] Humain stupide ! Tu pensais m'avoir tué, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:309 #-#-# translate crowdin berb_quest_items_2e7696b9:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
-msgstr "[_berb_] Le castor qui a volé votre chevalet et fucked ta copine n'était que mon moindre clone !"
+msgstr "[_berb_] Le castor qui a volé ton chevalet et baisé ta copine n'était que mon clone inférieur !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:310 #-#-# translate crowdin berb_quest_items_24802099:
 msgid "[_berb_] You are no match for—"
@@ -598,11 +598,11 @@ msgstr "[_berb_] Vous n'êtes pas de correspondance pour-"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:336 #-#-# translate crowdin berb_quest_items_fe936348:
 msgid "[_mc_] On the fields of crimson glory, the hero stood in triumph."
-msgstr "[_mc_] Sur les champs de gloire des crimses, le héros se tenait en triomphe."
+msgstr "[_mc_] Sur les champs de gloire cramoisis, le héros se tenait en triomphe."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:337 #-#-# translate crowdin berb_quest_items_f6406a16:
 msgid "[_mc_] On this blessed day, he'd managed to defeat his lifelong rival... nay, Evil itself!"
-msgstr "[_mc_] En ce jour béni, il a réussi à vaincre son rival tout au long de la vie ... nay, le mal lui-même !"
+msgstr "[_mc_] En ce jour béni, il avait réussi à vaincre son rival de toujours... voire le Mal lui-même !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:338 #-#-# translate crowdin berb_quest_items_acd56d78:
 msgid "[_mc_] And for that the realm would forever be in debt."
@@ -622,11 +622,11 @@ msgstr "[_berb_] Regarde ton double menton, la chatte. Est-ce que vous appelez c
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:348 #-#-# translate crowdin berb_quest_items_83322472_1:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas ?"
+msgstr "[_berb_] Humain stupide ! Tu pensais m'avoir tué, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:349 #-#-# translate crowdin berb_quest_items_2e7696b9_1:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
-msgstr "[_berb_] Le castor qui a volé votre chevalet et fucked ta copine n'était que mon moindre clone !"
+msgstr "[_berb_] Le castor qui a volé ton chevalet et baisé ta copine n'était que mon clone inférieur !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:350 #-#-# translate crowdin berb_quest_items_24802099_1:
 msgid "[_berb_] You are no match for—"
@@ -662,11 +662,11 @@ msgstr "Ugh, je suis sûr que je vais penser à quelque chose."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:387 #-#-# translate crowdin berb_quest_items_83322472_2:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas ?"
+msgstr "[_berb_] Humain stupide ! Tu pensais m'avoir tué, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:388 #-#-# translate crowdin berb_quest_items_2e7696b9_2:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
-msgstr "[_berb_] Le castor qui a volé votre chevalet et fucked ta copine n'était que mon moindre clone !"
+msgstr "[_berb_] Le castor qui a volé ton chevalet et baisé ta copine n'était que mon clone inférieur !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:389 #-#-# translate crowdin berb_quest_items_24802099_2:
 msgid "[_berb_] You are no match for—"
@@ -674,7 +674,7 @@ msgstr "[_berb_] Vous n'êtes pas de correspondance pour-"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:390 #-#-# translate crowdin berb_quest_items_351b3cf1:
 msgid "[_mc_] Eat this!"
-msgstr "[_mc_] Eat this !"
+msgstr "[_mc_] Mangez ça !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:393 #-#-# translate crowdin berb_quest_items_7e5548a2:
 msgid "[_berb_] You think your poisoned apple has any effect on me?"
@@ -686,7 +686,7 @@ msgstr "[_berb_] Poison me rend plus fort !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:403 #-#-# translate crowdin berb_quest_items_8ececb8c:
 msgid "[_berb_] Om nom nom..."
-msgstr "[_berb_] Om nom nom ..."
+msgstr "[_berb_] Om nom nom..."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:406 #-#-# translate crowdin berb_quest_items_1177c9c5:
 msgid "[_berb_] Urk...? [withvpunch]"
@@ -706,7 +706,7 @@ msgstr "[_mc_] Il nettoiera votre mal et vous laissera sans rien !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:432 #-#-# translate crowdin berb_quest_items_c92782a3:
 msgid "[_berb_] {i}*Gurgle*{/}"
-msgstr "[_berb_] {i}*Gurgle * {/}"
+msgstr "[_berb_] {i}*Gurgle*{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:434 #-#-# translate crowdin berb_quest_items_8cf18797:
 msgid "Not the most heroic of victories, but a victory nonetheless."
@@ -830,11 +830,11 @@ msgstr "[_mc_] Le temps de rencontrer votre fabricant, la merde !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:521 #-#-# translate crowdin quest_berb_fight_glade_fight_83322472:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr "[_berb_] Foolish humain ! Tu pensais que tu m'avais tué, n'est-ce pas ?"
+msgstr "[_berb_] Humain stupide ! Tu pensais m'avoir tué, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:522 #-#-# translate crowdin quest_berb_fight_glade_fight_2e7696b9:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
-msgstr "[_berb_] Le castor qui a volé votre chevalet et fucked ta copine n'était que mon moindre clone !"
+msgstr "[_berb_] Le castor qui a volé ton chevalet et baisé ta copine n'était que mon clone inférieur !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:523 #-#-# translate crowdin quest_berb_fight_glade_fight_24802099:
 msgid "[_berb_] You are no match for—"
@@ -854,7 +854,7 @@ msgstr "Ses mots viles ne doivent plus atteindre les oreilles des innocents."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:554 #-#-# translate crowdin quest_berb_fight_glade_fight_47ccee04:
 msgid "[_mc_] Come here, you little fuck!"
-msgstr "[_mc_] Come here, you little fuck !"
+msgstr "[_mc_] Viens ici, petit con !"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:557 #-#-# translate crowdin quest_berb_fight_glade_fight_93a2ab03:
 msgid "Fuck! He bit me!"
