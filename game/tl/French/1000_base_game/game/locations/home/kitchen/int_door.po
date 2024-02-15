@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:41\n"
+"PO-Revision-Date: 2024-02-15 22:01\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:84 #-#-# translate crowdin kitchen_door_interact_flora_bonsai_sugar_b7dd851b:
 msgid "As much as I wish we had a garden of sugar canes outside, the sugar is probably hiding inside."
@@ -50,7 +50,7 @@ msgstr "[_flora_s_annoyed_] Vous aurez une déficience si vous osez atteindre ce
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:112 #-#-# translate crowdin home_kitchen_door_interact_flora_cooking_chilli_6767ef39:
 msgid "[_mc_] Sunlight..."
-msgstr "[_mc_] Sunlight ..."
+msgstr "[_mc_] La lumière du soleil..."
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:117 #-#-# translate crowdin home_kitchen_door_interact_flora_cooking_chilli_return_phone_8570b7a3:
 msgid "Going outside feels like a waste of a good house, you know?"
@@ -74,7 +74,7 @@ msgstr "[_jacklyn_s_neutral_] Ai-je manqué la note de service ? J'aurais pu sec
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:133 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_a18b75dd:
 msgid "[_mc_] Arr! You did, but don't worry, you can dress up as the emperor from the Emperor's New Groove."
-msgstr "[_mc_] Arr ! Vous l'avez fait, mais ne vous inquiétez pas, vous pouvez vous habiller comme l'empereur à partir du New Groove de l'Empereur."
+msgstr "[Arr ! C'est vrai, mais ne vous inquiétez pas, vous pouvez vous déguiser en empereur de l'Emperor's New Groove."
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:135 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_4dcc46f8:
 msgid "[_jacklyn_s_laughing_] Nice try, cherry pie."
@@ -86,11 +86,11 @@ msgstr "Est-ce qu'elle flirte avec moi ? Mon Dieu, j'espère."
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:140 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_1bfe24aa:
 msgid "[_jacklyn_s_smile_] Don't you look absolutely baby legs?"
-msgstr "[_jacklyn_s_smile_] Vous n'avez pas l'air de jambes absolument bébé ?"
+msgstr "[_jacklyn_s_Souriez_] Vous n'avez pas l'air de jambes absolument bébé ?"
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:142 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_9c3d0b10:
 msgid "[_jacklyn_s_smile_] Did you dress up for me?"
-msgstr "[_jacklyn_s_smile_] Êtes-vous habillées pour moi ?"
+msgstr "[_jacklyn_s_Souriez_] Êtes-vous habillées pour moi ?"
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:143 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_da221a0d:
 msgid "[_mc_] I guess, yeah. Do you like it?"
@@ -138,7 +138,7 @@ msgstr "[_jacklyn_s_cringe_] Sweet limp-on, quelle odeur ?"
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:157 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_ba02f65b:
 msgid "[_mc_] It's probably Whooshster™ Sauce."
-msgstr "[_mc_] C'est probablement Whooshster™ Sauce."
+msgstr "[_mc_] C'est probablement de la Whooshster™ Sauce."
 
 # game/1000_base_game/game/locations/home/kitchen/int_door.rpy:159 #-#-# translate crowdin kitchen_door_jacklyn_statement_datedoor_e72e97f8:
 msgid "[_jacklyn_s_cringe_] Smells like sweat."
