@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 16:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3 #-#-# translate crowdin isabelle_quest_isabelle_tour_86544d5e:
 msgid "[_isabelle_s_laughing_] I just wanted to say that I appreciate you showing me around."
@@ -30,7 +30,7 @@ msgstr "[_mc_] Donc, je suppose que nous devrions commencer par nous inscrire à
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:7 #-#-# translate crowdin isabelle_quest_isabelle_tour_fd72fd2b:
 msgid "[_isabelle_s_smile_] I think so!"
-msgstr "[_isabelle_s_smile_] Je pense que oui !"
+msgstr "[_isabelle_s_Souriez_] Je pense que oui !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:8 #-#-# translate crowdin isabelle_quest_isabelle_tour_16c86f22:
 msgid "[_mc_] What classes are you interested in?"
@@ -38,11 +38,11 @@ msgstr "[_mc_] Quelles classes vous intéressent ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:9 #-#-# translate crowdin isabelle_quest_isabelle_tour_97c3a343:
 msgid "[_isabelle_s_smile_left_] Hmm... I haven't really had the time to think about it yet, but English is a given for me... we could start there."
-msgstr "[_isabelle_s_smile_left_] Hmm ... Je n'ai pas vraiment eu le temps d'y réfléchir, mais l'anglais est une donnée pour moi ... nous pourrions commencer là."
+msgstr "[_isabelle_s_Souriez_left_] Hmm ... Je n'ai pas vraiment eu le temps d'y réfléchir, mais l'anglais est une donnée pour moi ... nous pourrions commencer là."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:11 #-#-# translate crowdin isabelle_quest_isabelle_tour_95db6e0f:
 msgid "[_mc_] Sure, just got to pick up my locker key. Meet you upstairs, okay?"
-msgstr "[_mc_] Sure, viens juste de ramasser ma clé de casier. Rencontrez vous à l'étage, d'accord ?"
+msgstr "[_mc_] Bien sûr, je dois juste prendre la clé de mon casier. On se retrouve en haut, d'accord ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:12 #-#-# translate crowdin isabelle_quest_isabelle_tour_147c949b:
 msgid "[_isabelle_s_laughing_] All right! See you there."
@@ -70,7 +70,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:32 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_74a7aaef:
 msgid "[_mc_] Best you can do is keep your head down."
-msgstr "[_mc_] Best you can do is keep your head down."
+msgstr "[_mc_] Le mieux que vous puissiez faire est de garder la tête baissée."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:34 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_cd1d6285:
 msgid "[_isabelle_s_annoyed_] I don't think I will. She needs to learn some manners..."
@@ -78,7 +78,7 @@ msgstr "[_isabelle_s_annoyed_] Je ne pense pas que je le ferai. Elle a besoin d'
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:35 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_65cf9562:
 msgid "[_mc_] Trust me, you don't want to push her."
-msgstr "[_mc_] Trust-moi, vous ne voulez pas la pousser."
+msgstr "[_mc_] Croyez-moi, vous ne voulez pas la pousser."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:36 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_c7064fd8:
 msgid "[_isabelle_s_angry_] Bullies make me sick! I'm going to have a word with her... are you coming or not?"
@@ -142,7 +142,7 @@ msgstr "[_isabelle_s_annoyed_] Vraiement ? Votre colonne vertébrale a-t-elle é
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:65 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_3ad1373c:
 msgid "[_mc_] I mean... it's not like that. It's just..."
-msgstr "[_mc_] Je veux dire ... c'est pas comme ça. C'est juste ..."
+msgstr "[_mc_] Je veux dire... ce n'est pas comme ça. C'est juste que..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:66 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_c7064fd8_1:
 msgid "[_isabelle_s_angry_] Bullies make me sick! I'm going to have a word with her... are you coming or not?"
@@ -194,7 +194,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:93 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_b2dc1cc0:
 msgid "[_mc_] You're new here... some things just aren't worth it."
-msgstr "[_mc_] You're new here ... some things just aren't worth it."
+msgstr "[_mc_] Vous êtes nouveau ici... certaines choses n'en valent pas la peine."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:94 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_9046fbb7:
 msgid "[_isabelle_s_angry_] And some things are absolutely worth it!"
@@ -218,7 +218,7 @@ msgstr "[_isabelle_s_angry_] Je vais avoir un mot avec elle. Tu viens ou pas ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:102 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_daa83dbe:
 msgid "[_mc_] I'm used to it."
-msgstr "[_mc_] Je suis habituai."
+msgstr "[_mc_] J'ai l'habitude."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:104 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_f0c72103:
 msgid "[_isabelle_s_sad_] That's one of the saddest things I've heard. You need to stand up for yourself..."
@@ -526,7 +526,7 @@ msgstr "[_isabelle_s_laughing_] Allez, allons-y avec !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:234 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_353661f2:
 msgid "[_isabelle_s_smile_] Thanks for showing me around, [mc]!"
-msgstr "[_isabelle_s_smile_] Merci de m'avoir montré, [mc]!"
+msgstr "[_isabelle_s_Souriez_] Merci de m'avoir montré, [mc]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:235 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_08cb5adb:
 msgid "[_isabelle_s_laughing_] Apart from the run-in with [kate], this was quite the pleasant tour."
@@ -586,7 +586,7 @@ msgstr "[_isabelle_s_eyeroll_] Rencontrez-moi à la cafétéria et nous allons p
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:252 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_f661beb5:
 msgid "[_mc_] Sounds good."
-msgstr "[_mc_] Sounds good."
+msgstr "[_mc_] Ça a l'air bien."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:254 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_88fdcd04:
 msgid "[_isabelle_s_flirty_] By the way, have you—"
@@ -834,7 +834,7 @@ msgstr "[_mc_] Vous l'avez fait."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:397 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_a4ea3a45:
 msgid "[_mc_] Smacked right into my chest!"
-msgstr "[_mc_] Smfissuré dans ma poitrine !"
+msgstr "[_mc_] En plein dans ma poitrine !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:398 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_4e7ca490:
 msgid "[_lindsey_s_LindseyPose02b_] Oh... did I... did I hurt you?"
@@ -854,7 +854,7 @@ msgstr "[_lindsey_s_LindseyPose02a_] Je ne pense pas que je pourrais marcher mai
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:402 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_4abf45be:
 msgid "[_mc_] No worries! I'll carry you right back to the gym as soon as the [nurse] clears you!"
-msgstr "[_mc_] Pas de soucis ! Je vous ramène à la salle de gym dès que le [nurse] vous écoute !"
+msgstr "[_mc_] Ne vous inquiétez pas ! Je vous ramènerai à la salle de sport dès que la [nurse] vous aura autorisé à le faire !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:403 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_9018b2e2:
 msgid "[_lindsey_s_LindseyPose02c_] I bet you would..."
@@ -986,7 +986,7 @@ msgstr "[_mc_] Bien sûr que non ! Ce sera notre petit secret."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:472 #-#-# translate crowdin quest_nurse_photogenic_second_chance_f02375ec:
 msgid "[_nurse_s_smile_] Thank you... I can't lose this job..."
-msgstr "[_nurse_s_smile_] Merci ... Je ne peux pas perdre ce boulot ..."
+msgstr "[_nurse_s_Souriez_] Merci ... Je ne peux pas perdre ce boulot ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:473 #-#-# translate crowdin quest_nurse_photogenic_second_chance_8765b4cb:
 msgid "[_mc_] You're welcome!"
@@ -1046,7 +1046,7 @@ msgstr "[_nurse_s_annoyed_] Comme quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:497 #-#-# translate crowdin quest_nurse_photogenic_second_chance_81ec39ad:
 msgid "[_mc_] Like snitching. No snitching!"
-msgstr "[_mc_] Comme le nitrurage. Pas de tricotage !"
+msgstr "[_mc_] Comme la délation. Pas de délation !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:498 #-#-# translate crowdin quest_nurse_photogenic_second_chance_d0bd3401:
 msgid "[_nurse_s_afraid_] I won't say anything!"
@@ -1078,7 +1078,7 @@ msgstr "[_mc_] C'est bon, je sais combien vous travaillez dur."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:509 #-#-# translate crowdin quest_nurse_photogenic_second_chance_200d1f08:
 msgid "[_nurse_s_smile_] I appreciate that. It won't happen again!"
-msgstr "[_nurse_s_smile_] J'apprécie ça. Ça ne se reproduira pas !"
+msgstr "[_nurse_s_Souriez_] J'apprécie ça. Ça ne se reproduira pas !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:510 #-#-# translate crowdin quest_nurse_photogenic_second_chance_0656bb3b:
 msgid "[_mc_] And if it does, just make sure you lock the door first."
@@ -1086,7 +1086,7 @@ msgstr "[_mc_] Et si c'est le cas, assurez-vous de verrouiller la porte en premi
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:511 #-#-# translate crowdin quest_nurse_photogenic_second_chance_7d029f06:
 msgid "[_nurse_s_smile_] Okay, I promise."
-msgstr "[_nurse_s_smile_] Ok, je te promets."
+msgstr "[_nurse_s_Souriez_] Ok, je te promets."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:512 #-#-# translate crowdin quest_nurse_photogenic_second_chance_441d60f6:
 msgid "The [nurse] seems relieved, but there's something else in her eyes."
@@ -1110,7 +1110,7 @@ msgstr "[_mc_] Hé, ça aurait pu être pire ... au moins vous avez l'air super.
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:519 #-#-# translate crowdin quest_nurse_photogenic_second_chance_b7b24a68:
 msgid "[_nurse_s_smile_] Do you really think so?"
-msgstr "[_nurse_s_smile_] Pensez-vous vraiment ?"
+msgstr "[_nurse_s_Souriez_] Pensez-vous vraiment ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:520 #-#-# translate crowdin quest_nurse_photogenic_second_chance_38aff725:
 msgid "[_nurse_s_annoyed_] Err, I mean... this is widely inappropriate!"
@@ -1138,7 +1138,7 @@ msgstr "[_mc_] Mes lèvres sont scellées !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:528 #-#-# translate crowdin quest_nurse_photogenic_second_chance_0069cb9e:
 msgid "[_mc_] Smile for the camera!"
-msgstr "[_mc_] Smile pour la caméra !"
+msgstr "[_mc_] Souriez pour la caméra !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:534 #-#-# translate crowdin quest_nurse_photogenic_second_chance_10c58b1d:
 msgid "[_nurse_s_surprised_] D-did you just...?"
@@ -1246,7 +1246,7 @@ msgstr "[_mc_] Tout le monde a besoin de prendre le bord de la route ... il suff
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:564 #-#-# translate crowdin quest_nurse_photogenic_second_chance_52c56978:
 msgid "[_nurse_s_smile_] I'm such an idiot... I'm so sorry you had to see it. I've been so stressed out lately..."
-msgstr "[_nurse_s_smile_] Je suis un tel idiot ... Je suis désolé que vous avez dû le voir. J'ai été tellement stressé ces derniers temps ..."
+msgstr "[_nurse_s_Souriez_] Je suis un tel idiot ... Je suis désolé que vous avez dû le voir. J'ai été tellement stressé ces derniers temps ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:565 #-#-# translate crowdin quest_nurse_photogenic_second_chance_1956a28a:
 msgid "[_mc_] Don't worry about it!"
@@ -1262,7 +1262,7 @@ msgstr "Dérendez-vous ... ? Nah, ça ne peut pas être-doit être mon imaginati
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:574 #-#-# translate crowdin quest_nurse_photogenic_second_chance_0ac7f64d:
 msgid "[_mc_] ...Hello?"
-msgstr "[_mc_] ...Bonjour ?"
+msgstr "[ _mc_ ] ...Bonjour?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:575 #-#-# translate crowdin quest_nurse_photogenic_second_chance_dd847a7b:
 msgid "[_nurse_] ..."
@@ -1322,7 +1322,7 @@ msgstr "[_mc_] Tout le monde a besoin de prendre le bord de la route ... il suff
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:597 #-#-# translate crowdin quest_nurse_photogenic_second_chance_5c60daab:
 msgid "[_nurse_s_smile_] I... I didn't, but thanks... that's very mature of you..."
-msgstr "[_nurse_s_smile_] I ... Je ne l'ai pas fait, mais merci ... c'est très mature ..."
+msgstr "[_nurse_s_Souriez_] I ... Je ne l'ai pas fait, mais merci ... c'est très mature ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:598 #-#-# translate crowdin quest_nurse_photogenic_second_chance_1956a28a_1:
 msgid "[_mc_] Don't worry about it!"
@@ -1514,7 +1514,7 @@ msgstr "[_nurse_s_neutral_] Droit ... amende ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:701 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_4854d48c:
 msgid "[_nurse_s_smile_] Okay, [lindsey], come with me."
-msgstr "[_nurse_s_smile_] Ok, [lindsey], viens avec moi."
+msgstr "[_nurse_s_Souriez_] Ok, [lindsey], viens avec moi."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:712 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_a6b6d191:
 msgid "[_mc_] I've always wanted to help out those in need. Glad I got the chance!"
@@ -1526,7 +1526,7 @@ msgstr "[_isabelle_s_excited_] C'est un grand objectif à avoir !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:716 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_6f1fb535:
 msgid "[_lindsey_s_smile_] Thanks again! Sorry for running into you!"
-msgstr "[_lindsey_s_smile_] Merci encore ! Désolé de t'avoir lancé !"
+msgstr "[_lindsey_s_Souriez_] Merci encore ! Désolé de t'avoir lancé !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:717 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_230d3779:
 msgid "[_lindsey_s_flirty_] I hope it didn't hurt too much..."
@@ -1722,7 +1722,7 @@ msgstr "[_mc_] C'était ma faute ... et elle avait l'air d'avoir besoin de mon a
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:840 #-#-# translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_f9c0b8f8:
 msgid "[_lindsey_s_clinic_lindsey_smile_] It was both our faults!"
-msgstr "[_lindsey_s_clinic_lindsey_smile_] C'était à la fois nos défauts !"
+msgstr "[_lindsey_s_clinic_lindsey_Souriez_] C'était à la fois nos défauts !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:842 #-#-# translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_a6f6e243:
 msgid "[_lindsey_s_clinic_lindsey_blush_] But, yes, I could hardly walk... thank you."
@@ -1754,7 +1754,7 @@ msgstr "[_nurse_s_clinic_nurse_confused_] Ok, [lindsey]. Je vais te vérifier po
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:854 #-#-# translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_12d6869e:
 msgid "[_lindsey_s_clinic_lindsey_smile_] My head and my chest..."
-msgstr "[_lindsey_s_clinic_lindsey_smile_] Ma tête et ma poitrine ..."
+msgstr "[_lindsey_s_clinic_lindsey_Souriez_] Ma tête et ma poitrine ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:855 #-#-# translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_eb8545a8:
 msgid "[_nurse_s_clinic_nurse_confused_] All right, you guys can wait outside. Thanks for your help!"
@@ -1982,7 +1982,7 @@ msgstr "[_isabelle_s_concerned_left_] Oui ... Je peux voir ça. Salé cola ? Pep
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:964 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_2f9c50c6:
 msgid "[_mc_] Yes, they're a bit off-brand, but the strawberry juice is a godsend."
-msgstr "[_mc_] Oui, ils sont un peu hors de la marque, mais le jus de fraise est un godsend."
+msgstr "[_mc_] Oui, ils sont un peu hors marque, mais le jus de fraise est une aubaine."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:965 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_59fdc927:
 msgid "[_isabelle_s_excited_] What about ice tea? That's my favorite!"
@@ -2286,7 +2286,7 @@ msgstr "[_isabelle_s_afraid_] Ne me dites pas que vous avez été enterré, err 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1064 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_6f72e761:
 msgid "[_mc_] Nude as the day I was born!"
-msgstr "[_mc_] Nude comme le jour où je suis né !"
+msgstr "[_mc_] Nue comme le jour de ma naissance !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1065 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_61fd29a4:
 msgid "[_isabelle_s_cringe_] Oh god, how did we get here?"
@@ -2326,7 +2326,7 @@ msgstr "[_isabelle_s_blush_] Je souhaite ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1080 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_cec0a84f:
 msgid "[_mc_] Same! There's just something special about a hot-blooded Scottish lass..."
-msgstr "[_mc_] Même chose ! Il y a juste quelque chose de spécial à propos d'un lass écossais à sang chaud ..."
+msgstr "[_mc_] Idem ! Il y a quelque chose de spécial avec une écossaise au sang chaud..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1081 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_bbd31b02:
 msgid "[_isabelle_s_annoyed_left_] Pfft!"
@@ -2346,7 +2346,7 @@ msgstr "[_isabelle_s_blush_] Shh ! Ne lui dis pas !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1089 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_0c1a9df3:
 msgid "[_mc_] Only the posh ones."
-msgstr "[_mc_] Seulement les posh."
+msgstr "[_mc_] Seulement les plus chics."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1090 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_92a78e01:
 msgid "[_mc_] The commoners have to settle for American students."
@@ -2394,7 +2394,7 @@ msgstr "[_mc_] Oui, et quand ils lèvent la couverture, il y a un trou dans le p
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1104 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_db4be221:
 msgid "[_mc_] And they say, \"Would the lady care for some spotted dick?\""
-msgstr "[_mc_] Et ils disent: \"Est-ce que la dame s'occupe de la bite tacheté ?\""
+msgstr "[_mc_] Et ils disent, \"Est-ce que la dame aimerait un peu de bite tachetée ?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1107 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_9db2c1b8:
 msgid "[_isabelle_s_laughing_] Ew! Those weren't the movies I had in mind!"
@@ -2414,11 +2414,11 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1117 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_8fa8ae43:
 msgid "[_mc_] I thought you liked polite..."
-msgstr "[_mc_] Je pensais que vous aimais polie ..."
+msgstr "[_mc_] Je croyais que vous aimiez la politesse..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1118 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_276dcf81:
 msgid "[_isabelle_s_smile_] You're right! I do like that."
-msgstr "[_isabelle_s_smile_] Vous avez raison ! J'aime bien ça."
+msgstr "[_isabelle_s_Souriez_] Vous avez raison ! J'aime bien ça."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1119 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_6932cd48:
 msgid "[_isabelle_s_eyeroll_] I'm just used to Americans being loud and rude..."
@@ -2430,11 +2430,11 @@ msgstr "[_mc_] Les forts sont remarqués. Ils sont mauvais PR pour le reste d'en
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1121 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_ffd5ba50:
 msgid "[_isabelle_s_smile_] That's probably true for a lot of things."
-msgstr "[_isabelle_s_smile_] C'est probablement vrai pour beaucoup de choses."
+msgstr "[_isabelle_s_Souriez_] C'est probablement vrai pour beaucoup de choses."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1122 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_7af83d49:
 msgid "[_isabelle_s_smile_left_] The ones screaming the loudest don't necessarily represent the majority."
-msgstr "[_isabelle_s_smile_left_] Ceux qui hurlants le plus fort ne représentent pas nécessairement la majorité."
+msgstr "[_isabelle_s_Souriez_left_] Ceux qui hurlants le plus fort ne représentent pas nécessairement la majorité."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1123 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_df34f694:
 msgid "[_mc_] I don't mind screamers. I don't mind criers either."
@@ -2454,7 +2454,7 @@ msgstr "[_isabelle_s_laughing_] Je ne sais pas à ce sujet !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1130 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_69f294ed:
 msgid "[_mc_] 'Tis but how I prattle!"
-msgstr "[_mc_] 'Tis mais comment je m'en prie !"
+msgstr "[_mc_] C'est comme ça que je bavarde !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1131 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_1a9020a9:
 msgid "[_isabelle_s_laughing_] You're weird, you know that?"
@@ -2494,7 +2494,7 @@ msgstr "[_isabelle_s_laughing_] Boring, c'est sûr !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1143 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_8adfde75:
 msgid "[_mc_] Remind me to be ruder."
-msgstr "[_mc_] Rappelez-moi d'être ruder."
+msgstr "[_mc_] Rappelez-moi d'être plus grossier."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1144 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_e93faa7d:
 msgid "[_isabelle_s_laughing_] That's not what I meant!"
@@ -2502,7 +2502,7 @@ msgstr "[_isabelle_s_laughing_] Ce n'est pas ce que je voulais dire !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1145 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_ed875ab5:
 msgid "[_mc_] Are you sure? Some girls like it rude."
-msgstr "[_mc_] Etes-vous sûr ? Certaines filles comme elle grossière."
+msgstr "[_mc_] Vous êtes sûr ? Certaines filles aiment que ce soit grossier."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1146 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_d21c14be:
 msgid "[_isabelle_s_eyeroll_] Really, now?"
@@ -2570,7 +2570,7 @@ msgstr "[_mc_] Parfois, j'ai du mal à lire la situation, surtout avec les nouve
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1170 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_d84ee482:
 msgid "[_isabelle_s_smile_] Ah, okay! Don't worry about it. No harm done."
-msgstr "[_isabelle_s_smile_] Ah, ok ! Ne vous en faites pas. Aucun mal fait."
+msgstr "[_isabelle_s_Souriez_] Ah, ok ! Ne vous en faites pas. Aucun mal fait."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1171 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_f89457ad:
 msgid "[isabelle] is so nice. How is she so nice? Why do I always screw things up?"
@@ -2614,7 +2614,7 @@ msgstr "[_isabelle_s_flirty_] C'est plutôt cool, et c'est logique puisque les p
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1188 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_28db6e81:
 msgid "[_mc_] Don't sass me, woman. I could snap you like a twig."
-msgstr "[_mc_] Ne me harcelez pas, femme. Je pourrais vous enfichter comme une perruque."
+msgstr "[_mc_] Ne me harcèle pas, femme. Je pourrais te casser comme une brindille."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1191 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_d96c3c5e:
 msgid "[_isabelle_s_afraid_] Seriously?!"
@@ -2626,7 +2626,7 @@ msgstr "[_isabelle_s_cringe_] Désolé si j'ai blessé vos sentiments ... Je vie
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1193 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_30147fd0:
 msgid "[_mc_] You can't hurt me! My feelings are as firm as my abs."
-msgstr "[_mc_] Vous ne pouvez pas me blesser ! Mes sentiments sont aussi fermes que mes abs."
+msgstr "[_mc_] Vous ne pouvez pas me faire de mal ! Mes sentiments sont aussi fermes que mes abdominaux."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1194 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_69ce0488:
 msgid "[_isabelle_s_thinking_] I'm sure they are, Popeye..."
@@ -2662,7 +2662,7 @@ msgstr "[_mc_] Très bien, je suppose que je vous verrai."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1207 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_0c58f6bd:
 msgid "[_isabelle_s_smile_] Don't look so disappointed! I'm not leaving for good."
-msgstr "[_isabelle_s_smile_] N'ayez pas l'air si déçu ! Je ne pars pas pour de bon."
+msgstr "[_isabelle_s_Souriez_] N'ayez pas l'air si déçu ! Je ne pars pas pour de bon."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1208 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_598c55f6:
 msgid "Crap. So much for playing it cool..."
@@ -2706,7 +2706,7 @@ msgstr "[_isabelle_s_eyeroll_] Vraiement ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1218 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_da0dc2a3:
 msgid "[_mc_] No, I'm just taking the piss."
-msgstr "[_mc_] Non, je prends le pisse."
+msgstr "[_mc_] Non, c'est juste pour rire."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1219 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_d163fb4a:
 msgid "[_isabelle_s_laughing_] I probably deserved that..."
@@ -2946,7 +2946,7 @@ msgstr "\" Je suis désolé ! J'aurais dû frapper ! \""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:463
 msgid "\"Smile for the camera!\""
-msgstr "\"Smile pour la caméra !\""
+msgstr "\"Souriez pour la caméra !\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:463
 msgid "\"Relax... there's no shame in this,\n"
