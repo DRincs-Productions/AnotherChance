@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 07:33\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
 msgid "[_mc_] I don't believe what I'm seeing."
@@ -78,7 +78,7 @@ msgstr "[_mc_] Tout droit ... dites-moi, est-ce que vous utilisez un crochet de 
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:27 #-#-# translate crowdin quest_nurse_venting_start_b74fcfc9:
 msgid "[_maxine_s_smile_fishing_] Can't go fishing without a fishing hook, can I?"
-msgstr "[_maxine_s_smile_fishing_] Ne peut pas aller à la pêche sans crochet de pêche, puis-je ?"
+msgstr "[_maxine_s_Souriez_fishing_] Ne peut pas aller à la pêche sans crochet de pêche, puis-je ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:28 #-#-# translate crowdin quest_nurse_venting_start_be78f2d6:
 msgid "[_mc_] Can I borrow the hook when you're done?"
@@ -86,7 +86,7 @@ msgstr "[_mc_] Puis-je emprunter le crochet lorsque vous avez terminé ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:29 #-#-# translate crowdin quest_nurse_venting_start_bf5f40f1:
 msgid "[_maxine_s_smile_fishing_] Maybe. If I get a good haul."
-msgstr "[_maxine_s_smile_fishing_] Peut-être. Si j'ai une bonne distance."
+msgstr "[_maxine_s_Souriez_fishing_] Peut-être. Si j'ai une bonne distance."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:30 #-#-# translate crowdin quest_nurse_venting_start_85d437b8:
 msgid "[_mc_] But what about if you get no haul, because soap goblins aren't real?{space=-5}"
@@ -98,11 +98,11 @@ msgstr "[_maxine_s_angry_fishing_] Les gobelets Soap sont bien réels ! En fait,
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:44 #-#-# translate crowdin quest_nurse_venting_start_f1cffe4e:
 msgid "[_maxine_s_smile_fishing_] I've got one!"
-msgstr "[_maxine_s_smile_fishing_] J'en ai un !"
+msgstr "[_maxine_s_Souriez_fishing_] J'en ai un !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:51 #-#-# translate crowdin quest_nurse_venting_start_336e0bf1:
 msgid "[_maxine_s_smile_fishing_] Soap goblins always bite when there's doubt in the air."
-msgstr "[_maxine_s_smile_fishing_] Les gobelins de savon mordent toujours en cas de doute dans l'air."
+msgstr "[_maxine_s_Souriez_fishing_] Les gobelins de savon mordent toujours en cas de doute dans l'air."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:58 #-#-# translate crowdin quest_nurse_venting_start_8f4e669e:
 msgid "[_maxine_s_laughing_fishing_] Wow, it's a big one! It's really fighting me!"
@@ -162,7 +162,7 @@ msgstr "[_mc_] Et cela signifie que le crochet de pêche est maintenant coincé 
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:108 #-#-# translate crowdin quest_nurse_venting_start_425e3d82:
 msgid "[_maxine_s_afraid_] Who cares about the fishing hook?!"
-msgstr "[_maxine_s_afraid_] Qui se soucie du crochet de la pêche ? !"
+msgstr "[_maxine_s_afraid_] Qui se soucie du crochet de la pêche ?!"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:109 #-#-# translate crowdin quest_nurse_venting_start_57841289:
 msgid "[_maxine_s_afraid_] That was the biggest soap goblin I've never seen!"
@@ -302,7 +302,7 @@ msgstr "Quelqu'un qui aime être utile ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:190 #-#-# translate crowdin quest_nurse_venting_help_a792f492:
 msgid "[_nurse_s_smile_] How can I help you today, [mc]?"
-msgstr "[_nurse_s_smile_] Comment puis-je vous aider aujourd'hui, [mc] ?"
+msgstr "[_nurse_s_Souriez_] Comment puis-je vous aider aujourd'hui, [mc] ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:191 #-#-# translate crowdin quest_nurse_venting_help_2b35b6fe:
 msgid "[_mc_] ..."
@@ -378,11 +378,11 @@ msgstr "Pas sûr de ce que je pensais là ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:211 #-#-# translate crowdin quest_nurse_venting_help_7ae42870:
 msgid "[_nurse_s_smile_] That's all right."
-msgstr "[_nurse_s_smile_] Tout va bien."
+msgstr "[_nurse_s_Souriez_] Tout va bien."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:212 #-#-# translate crowdin quest_nurse_venting_help_02a7e839:
 msgid "[_nurse_s_smile_] I'm sorry to cut this short, but I have to get going..."
-msgstr "[_nurse_s_smile_] Je suis désolé de couper court, mais je dois aller ..."
+msgstr "[_nurse_s_Souriez_] Je suis désolé de couper court, mais je dois aller ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:213 #-#-# translate crowdin quest_nurse_venting_help_85165494:
 msgid "[_mc_] Wait, I actually need your help with something!"
@@ -406,7 +406,7 @@ msgstr "[_mc_] Vous allez ramper."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:223 #-#-# translate crowdin quest_nurse_venting_help_26a9927b:
 msgid "[_nurse_s_afraid_] Into the vents?! What if I get stuck?"
-msgstr "[_nurse_s_afraid_] Dans les évents ? ! Et si je suis coincé ?"
+msgstr "[_nurse_s_afraid_] Dans les évents ?! Et si je suis coincé ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:224 #-#-# translate crowdin quest_nurse_venting_help_64e277cd:
 msgid "[_mc_] This isn't when you ask questions. This is when you say yes."
@@ -438,7 +438,7 @@ msgstr "[_mc_] Je serai de retour quand j'aurai tout ce dont j'ai besoin pour vo
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:231 #-#-# translate crowdin quest_nurse_venting_help_0c9a5645:
 msgid "[_mc_] And I wouldn't be too worried about getting stuck... I'll make sure you're nice and slippery."
-msgstr "[_mc_] Et je ne serais pas trop inquiet pour être coincé ... Je vais vous assurer que vous êtes gentile et glissant."
+msgstr "[_mc_] Et je ne serais pas trop inquiet pour être coincé ... Je vais vous assurer que vous êtes gentille et glissant."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:234 #-#-# translate crowdin quest_nurse_venting_help_7e5a9435:
 msgid "[_mc_] I lost my inhaler..."
@@ -486,7 +486,7 @@ msgstr "[_mc_] Est-ce que tu m'aideras à trouver mon inhalateur ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:245 #-#-# translate crowdin quest_nurse_venting_help_3a79b3d2:
 msgid "[_nurse_s_smile_] I'm not sure how helpful I can be, but I'll certainly try!"
-msgstr "[_nurse_s_smile_] Je ne sais pas à quel point je peux être utile, mais j'essaierai certainement !"
+msgstr "[_nurse_s_Souriez_] Je ne sais pas à quel point je peux être utile, mais j'essaierai certainement !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:246 #-#-# translate crowdin quest_nurse_venting_help_034c26ca:
 msgid "[_mc_] So, I actually dropped it into a vent..."
@@ -502,11 +502,11 @@ msgstr "[_mc_] Oui. Vraie maladroie de moi."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:249 #-#-# translate crowdin quest_nurse_venting_help_f56ec873:
 msgid "[_nurse_s_smile_] That's okay, I'm oftentimes clumsy myself."
-msgstr "[_nurse_s_smile_] C'est bon, je suis souvent maladrogante."
+msgstr "[_nurse_s_Souriez_] C'est bon, je suis souvent maladrogante."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:250 #-#-# translate crowdin quest_nurse_venting_help_c4592127:
 msgid "[_nurse_s_smile_] Have you tried fishing it out?"
-msgstr "[_nurse_s_smile_] Avez-vous essayé de la pêcher ?"
+msgstr "[_nurse_s_Souriez_] Avez-vous essayé de la pêcher ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:251 #-#-# translate crowdin quest_nurse_venting_help_990895cb:
 msgid "[_mc_] Err... yes. I've actually tried everything except climbing into the vent.{space=-10}"
@@ -662,21 +662,21 @@ msgstr "[_mc_] Mais vous devez m'aider à parler à la personne. Avez-vous des r
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:295 #-#-# translate crowdin quest_nurse_venting_supplies_maxine_b7aabed9:
 msgid "Deal of the century, right here — give me radios and I'll pretend your crazy theories aren't crazy."
-msgstr "Deal of the century, right here-donnez-moi des radios et je prétends que vos théories folles ne sont pas folles."
+msgstr "marché conclu of the century, right here-donnez-moi des radios et je prétends que vos théories folles ne sont pas folles."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:296 #-#-# translate crowdin quest_nurse_venting_supplies_maxine_b9a55c91:
 msgid "[_maxine_s_smile_] I'd be willing to consider that deal."
-msgstr "[_maxine_s_smile_] Je serais prêt à considérer cet accord."
+msgstr "[_maxine_s_Souriez_] Je serais prêt à considérer cet accord."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:297 #-#-# translate crowdin quest_nurse_venting_supplies_maxine_a9c2419c:
 msgid "[_maxine_s_smile_] I tried using these walkie-talkies to talk to the gaseous aliens who live{space=-35}\n"
 "in the clouds, but they must be operating on a paranormal frequency.{space=-25}"
-msgstr "[_maxine_s_smile_] J'ai essayé d'utiliser ces walkie-talkies pour parler aux extraterrestres qui vivent {space=-35}\n"
+msgstr "[_maxine_s_Souriez_] J'ai essayé d'utiliser ces walkie-talkies pour parler aux extraterrestres qui vivent {space=-35}\n"
 "dans les nuages, mais ils doivent fonctionner sur une fréquence paranormale. {space=-25}"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:298 #-#-# translate crowdin quest_nurse_venting_supplies_maxine_ffe477c8:
 msgid "[_maxine_s_smile_] Here, you can keep them."
-msgstr "[_maxine_s_smile_] Ici, vous pouvez les garder."
+msgstr "[_maxine_s_Souriez_] Ici, vous pouvez les garder."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:300 #-#-# translate crowdin quest_nurse_venting_supplies_maxine_dd565e8f:
 msgid "[_mc_] Walkie-talkies? You thought the cloud aliens were chatting like kids in 80s movies?"
@@ -932,7 +932,7 @@ msgstr "[_mc_] ... fin. Il n'y a pas d'inhalateur. C'est le crochet du poisson q
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:414 #-#-# translate crowdin quest_nurse_venting_ready_37910738:
 msgid "[_nurse_s_smile_] Thank you for being honest. Honesty is very important to me."
-msgstr "[_nurse_s_smile_] Merci d'être honnête. L'honnêteté est très importante pour moi."
+msgstr "[_nurse_s_Souriez_] Merci d'être honnête. L'honnêteté est très importante pour moi."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:415 #-#-# translate crowdin quest_nurse_venting_ready_7dca57c3:
 msgid "Ugh, now I kind of feel bad. She's so sweet."
@@ -948,7 +948,7 @@ msgstr "[_mc_] Etes-vous sûr que vous allez bien avec ça ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:418 #-#-# translate crowdin quest_nurse_venting_ready_7a57c037:
 msgid "[_nurse_s_smile_] Will it make you happy?"
-msgstr "[_nurse_s_smile_] Est-ce que ça te rendra heureux ?"
+msgstr "[_nurse_s_Souriez_] Est-ce que ça te rendra heureux ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:419 #-#-# translate crowdin quest_nurse_venting_ready_8077eab6:
 msgid "[_mc_] It would."
@@ -956,7 +956,7 @@ msgstr "[_mc_] Il le ferait."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:420 #-#-# translate crowdin quest_nurse_venting_ready_4c09c622:
 msgid "[_nurse_s_smile_] Then I'm okay with it."
-msgstr "[_nurse_s_smile_] Alors je vais bien avec."
+msgstr "[_nurse_s_Souriez_] Alors je vais bien avec."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:423 #-#-# translate crowdin quest_nurse_venting_ready_09a0d666:
 msgid "[_mc_] Not yet. I need more things."
@@ -1004,19 +1004,19 @@ msgstr "[_mc_] Nous avons nos walkie-talkies. Ne t'inquiète pas. Je ne te laiss
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:442 #-#-# translate crowdin quest_nurse_venting_ready_da40baef:
 msgid "[_nurse_s_smile_oiled_up_] Thank you..."
-msgstr "[_nurse_s_smile_oiled_up_] Merci ..."
+msgstr "[_nurse_s_Souriez_oiled_up_] Merci ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:443 #-#-# translate crowdin quest_nurse_venting_ready_da04f39e:
 msgid "[_nurse_s_smile_oiled_up_] Here I go."
-msgstr "[_nurse_s_smile_oiled_up_] Je vais y aller."
+msgstr "[_nurse_s_Souriez_oiled_up_] Je vais y aller."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:445 #-#-# translate crowdin quest_nurse_venting_ready_6581e446:
 msgid "[_nurse_s_smile_] Thank you..."
-msgstr "[_nurse_s_smile_] Merci ..."
+msgstr "[_nurse_s_Souriez_] Merci ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:446 #-#-# translate crowdin quest_nurse_venting_ready_4d4d70bc:
 msgid "[_nurse_s_smile_] Here I go."
-msgstr "[_nurse_s_smile_] Je vais y aller."
+msgstr "[_nurse_s_Souriez_] Je vais y aller."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:466 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_93e9f412:
 msgid "[_nurse_] I have no idea where I am..."
@@ -1323,7 +1323,7 @@ msgstr "Cette déshydratation va vraiment à elle ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:561 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_5a8cf11b:
 msgid "[_mc_] Just keep going, [nurse]."
-msgstr "[_mc_] Just keep going, [nurse]."
+msgstr "[_mc_] Continuez, [nurse]."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:562 #-#-# translate crowdin quest_nurse_venting_walkie_talkie_af2833d4:
 msgid "[_nurse_] Oh, deary me...\n"
@@ -2135,9 +2135,9 @@ msgstr "[_nurse_] Oh ..."
 msgid "[_mc_] When I tell you to do something,\n"
 "always remember that I have all\n"
 "the dirt on you that [kate] did."
-msgstr "[_mc_] Quand je vous dis de faire quelque chose,\n"
-"n'oubliez pas que j'ai tous\n"
-"la saleté sur vous que [kate]."
+msgstr "[_mc_] Quand je te dis de faire quelque chose,\n"
+"n'oublie jamais que j'ai toutes\n"
+"les saletés sur toi que [kate] a eues."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:779 #-#-# translate crowdin quest_nurse_venting_lost_dd847a7b_3:
 msgid "[_nurse_] ..."
@@ -2178,8 +2178,8 @@ msgstr "[_nurse_] Elle peut vraiment ..."
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:788 #-#-# translate crowdin quest_nurse_venting_lost_fdc6938d:
 msgid "[_mc_] Let's get a move on and\n"
 "we'll figure out [kate] later."
-msgstr "[_mc_] Let's get a move on and\n"
-"we'll chiffre out [kate] later."
+msgstr "[_mc_] Allons de l'avant et\n"
+", nous verrons plus tard ce qu'il en est de [kate]."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:789 #-#-# translate crowdin quest_nurse_venting_lost_6f67be7f:
 msgid "[_nurse_] O-okay."
@@ -2235,7 +2235,7 @@ msgstr "[_mc_] Bonne fille. Nous parlerons\n"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:809 #-#-# translate crowdin quest_nurse_venting_lost_57e6a05e:
 msgid "[_jo_s_smile_] Hey, honey! What are you up to?"
-msgstr "[_jo_s_smile_] Hé, chérie ! Qu'est-ce que tu veux ?"
+msgstr "[_jo_s_Souriez_] Hé, chérie ! Qu'est-ce que tu veux ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:810 #-#-# translate crowdin quest_nurse_venting_lost_134399bb:
 msgid "Crap. How does [jo] manage to show up at all the worst times?"
@@ -2683,7 +2683,7 @@ msgstr "Cette déshydratation va vraiment à elle ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:984 #-#-# translate crowdin quest_nurse_venting_maxine_camera_5a8cf11b:
 msgid "[_mc_] Just keep going, [nurse]."
-msgstr "[_mc_] Just keep going, [nurse]."
+msgstr "[_mc_] Continuez, [nurse]."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:985 #-#-# translate crowdin quest_nurse_venting_maxine_camera_8e7633cd:
 msgid "[_nurse_s_vent_crawling_s_video_] Oh, deary me... I'm so thirsty."
@@ -3333,7 +3333,7 @@ msgstr "Je dois me retirer !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1304 #-#-# translate crowdin quest_nurse_venting_stuck_21801d2a:
 msgid "[_mc_] F-fuck!"
-msgstr "[_mc_] F-fuck !"
+msgstr "[_mc_] M-Merde !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1305 #-#-# translate crowdin quest_nurse_venting_stuck_72679f11:
 msgid "Ropes of cum stream out across her ass cheeks."
@@ -3441,7 +3441,7 @@ msgstr "[_mc_] Avez-vous le crochet ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1355 #-#-# translate crowdin quest_nurse_venting_not_stuck_58576c3d:
 msgid "[_nurse_s_smile_] Here you go."
-msgstr "[_nurse_s_smile_] Ici, vous allez."
+msgstr "[_nurse_s_Souriez_] Ici, vous allez."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1362 #-#-# translate crowdin quest_nurse_venting_not_stuck_4cfd5321:
 msgid "[_mc_] You should probably get some rest now."
@@ -3453,11 +3453,11 @@ msgstr "[_mc_] Merci pour l'aide !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1364 #-#-# translate crowdin quest_nurse_venting_not_stuck_cb99f494:
 msgid "[_nurse_s_smile_] Anytime!"
-msgstr "[_nurse_s_smile_] En tout temps !"
+msgstr "[_nurse_s_Souriez_] En tout temps !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1366 #-#-# translate crowdin quest_nurse_venting_not_stuck_3487d162:
 msgid "The [nurse] is so sweet. I wish we could hang out more."
-msgstr "Le [nurse] est si gentile. J'aimerais que nous raccrochez davantage."
+msgstr "Le [nurse] est si gentille. J'aimerais que nous raccrochez davantage."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1367 #-#-# translate crowdin quest_nurse_venting_not_stuck_dfce5cf7:
 msgid "I don't care that she's a bit older, she's so... soft and agreeable."
