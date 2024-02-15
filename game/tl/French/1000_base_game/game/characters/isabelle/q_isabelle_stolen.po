@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 16:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:3 #-#-# translate crowdin isabelle_quest_stolen_start_d518eb58:
 msgid "[_isabelle_s_angry_] Can you bloody believe it?!"
@@ -82,7 +82,7 @@ msgstr "[_isabelle_s_cringe_] Ne me surprendrait pas si [kate]'s derrière."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:24 #-#-# translate crowdin isabelle_quest_stolen_start_7967c5e6:
 msgid "[_mc_] Really? When was the thing stolen?"
-msgstr "[_mc_] Vraiement ? Quand la chose a-elle été volée ?"
+msgstr "[_mc_] Vraiment ? Quand l'objet a-t-il été volé ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:25 #-#-# translate crowdin isabelle_quest_stolen_start_08bfa59c:
 msgid "[_isabelle_s_thinking_] Hmm... I reckon it was this morning during my time in the gym."
@@ -90,7 +90,7 @@ msgstr "[_isabelle_s_thinking_] Hmm ... Je pense que c'était ce matin pendant m
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:26 #-#-# translate crowdin isabelle_quest_stolen_start_8587e4a7:
 msgid "[_mc_] I was with [kate] then, so it definitely wasn't her."
-msgstr "[_mc_] I was with [kate] then, so it définitivement wasn't her."
+msgstr "[_mc_] J'étais avec [kate] à l'époque, donc ce n'était certainement pas elle."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:27 #-#-# translate crowdin isabelle_quest_stolen_start_a51ff68b:
 msgid "It feels a bit wrong to lie, but her throwing baseless accusations around is just as bad."
@@ -182,7 +182,7 @@ msgstr "[_mc_] Peut-on demander [maxine] ? Elle a cette école au microscope."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:60 #-#-# translate crowdin isabelle_quest_stolen_start_ce724cfc:
 msgid "[_mc_] I'll do some snooping. You stay put."
-msgstr "[_mc_] I'll do some snooping. Vous restez mis."
+msgstr "[_mc_] Je vais fouiner un peu. Ne bougez pas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:61 #-#-# translate crowdin isabelle_quest_stolen_start_feff8eed:
 msgid "[_isabelle_s_thinking_] I mean, that's nice and all, but I'd like to get involved..."
@@ -206,7 +206,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:70 #-#-# translate crowdin isabelle_quest_stolen_start_2093ed92:
 msgid "[_mc_] Yes, sit pretty like a lady for once and let me do the work."
-msgstr "[_mc_] Oui, assezvous comme une dame pour une fois et laissez-moi faire le travail."
+msgstr "[_mc_] Oui, asseyez-vous comme une dame pour une fois et laissez-moi faire le travail."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:73 #-#-# translate crowdin isabelle_quest_stolen_start_3569d05f:
 msgid "[_isabelle_s_angry_] That's the most repulsive thing I've heard all week!"
@@ -290,7 +290,7 @@ msgstr "[_isabelle_s_skeptical_] Du [kate] ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:101 #-#-# translate crowdin isabelle_quest_stolen_start_3c25bc6f:
 msgid "[_mc_] Wouldn't surprise me..."
-msgstr "[_mc_] Ne me surprendrait pas ..."
+msgstr "[_mc_] Cela ne me surprendrait pas..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:102 #-#-# translate crowdin isabelle_quest_stolen_start_43c0a89a:
 msgid "[_isabelle_s_skeptical_] Would she really stoop that low?"
@@ -370,7 +370,7 @@ msgstr "[_isabelle_s_laughing_] Vous avez probablement raison. J'aurais juste ma
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:129 #-#-# translate crowdin isabelle_quest_stolen_start_d002a8ae:
 msgid "[_mc_] Right, but with some finesse, we can really stick it to her this time."
-msgstr "[_mc_] Bien, mais avec quelques finesse, on peut vraiment s'en tenir à elle cette fois."
+msgstr "[_mc_] Oui, mais avec un peu de finesse, on peut vraiment lui mettre des bâtons dans les roues cette fois-ci."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:130 #-#-# translate crowdin isabelle_quest_stolen_start_40594c82:
 msgid "[_isabelle_s_confident_] Okay, okay... what do we do then?"
@@ -470,7 +470,7 @@ msgstr "[_isabelle_s_angry_] Hate them ! Ce sont des serviteurs de la classe dir
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:160 #-#-# translate crowdin isabelle_quest_stolen_start_maxine_d017841c:
 msgid "[_mc_] Hm... okay. You sound a bit like a Reddit incarnation..."
-msgstr "[_mc_] Hm ... Ok. Tu sas un peu comme une incarnation de Reddit ..."
+msgstr "[_mc_] Hm... ok. Vous ressemblez un peu à une incarnation de Reddit..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:161 #-#-# translate crowdin isabelle_quest_stolen_start_maxine_63a007bc:
 msgid "[_isabelle_s_skeptical_] What's \"Reddit?\""
@@ -586,7 +586,7 @@ msgstr "[_mc_] J'ai mémorisé votre planning à partir du tableau dans l'aile a
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:206 #-#-# translate crowdin isabelle_quest_stolen_guard_3465053a:
 msgid "[_guard_] Well... I..."
-msgstr "[_guard_] Puits ... I. .."
+msgstr "[_guard_] Eh bien... Je..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:207 #-#-# translate crowdin isabelle_quest_stolen_guard_d899fbd8:
 msgid "[_guard_] Fine. What do you want, kid?"
@@ -602,7 +602,7 @@ msgstr "[_guard_] Ah, je vois ce que c'est."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:210 #-#-# translate crowdin isabelle_quest_stolen_guard_812a428c:
 msgid "[_guard_] Like I told the young lady earlier, I would've noticed a break-in... now scram!"
-msgstr "[_guard_] Comme je l'ai dit à la jeune femme plus tôt, j'aurais remarqué une pause ... maintenant scram !"
+msgstr "[_guard_] Comme je l'ai dit à la jeune femme tout à l'heure, j'aurais remarqué une effraction... maintenant dégagez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:211 #-#-# translate crowdin isabelle_quest_stolen_guard_ab85bbcd:
 msgid "Ugh, that guy is impossible to deal with. What an asshole!"
@@ -650,7 +650,7 @@ msgstr "[_guard_] Hmm ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:227 #-#-# translate crowdin isabelle_quest_stolen_noluck_d198fb72:
 msgid "[_mc_] Glazed. Sprinkled. Filled. Eaten as an appetizer. Eaten as a desert. Eaten as a meal. Break-doughnut, non-break-doughnut, half-break-doughnut."
-msgstr "[_mc_] Glazed. Sprinkled. Comblé. Eaten comme un apéritif. Eaten comme un désert. Eaten comme un repas. Le beignier, le beignet non-cécu, le beignet à demi-cécu."
+msgstr "[_mc_] Glacé. Saupoudré. Rempli. Consommé en entrée. Consommé comme dessert. Consommé en tant que repas. Beignet, non beignet, demi beignet."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:228 #-#-# translate crowdin isabelle_quest_stolen_noluck_6fb0c1c0:
 msgid "[_mc_] The only thing they have in common is the shape!"
@@ -674,7 +674,7 @@ msgstr "[_mc_] Mais-"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:233 #-#-# translate crowdin isabelle_quest_stolen_noluck_06aca100:
 msgid "[_guard_] That's all. Now scram!"
-msgstr "[_guard_] C'est tout. Maintenant scram !"
+msgstr "[_guard_] C'est tout. Maintenant, dégagez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:234 #-#-# translate crowdin isabelle_quest_stolen_noluck_84abd82d:
 msgid "This lazy old fuck..."
@@ -734,7 +734,7 @@ msgstr "[_isabelle_s_sad_] Merci ... J'ai du mal à trouver un plan."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:254 #-#-# translate crowdin isabelle_quest_stolen_sorry_fb8cc626:
 msgid "[_mc_] Hmm... same. I thought talking to the [guard] would work, but he's insufferable."
-msgstr "[_mc_] Hmm ... identique. Je pensais que parler au [guard] travaillerait, mais il est insupportable."
+msgstr "[_mc_] Hmm... pareil. Je pensais que parler au [guard] fonctionnerait, mais il est insupportable."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:255 #-#-# translate crowdin isabelle_quest_stolen_sorry_3fad4098:
 msgid "[_mc_] Maybe we should check if [maxine] could point us in the right direction?"
@@ -970,7 +970,7 @@ msgstr "[_jo_s_skeptical_] Vous êtes un gamin intelligent. Tu devrais être cap
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:357 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jo_9d9e2671:
 msgid "[_mc_] Look, I wasn't stealing... I just didn't have any money and the [guard] looked really hungry..."
-msgstr "[_mc_] Ecoute, je n'ai pas volé ... Je n'avais pas d'argent et le [guard] avait vraiment faim ..."
+msgstr "[_mc_] Je n'ai pas volé... Je n'avais juste pas d'argent et le [guard] avait l'air vraiment affamé..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:358 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jo_3bfd0c7a:
 msgid "[_jo_s_thinking_] The [guard]? Come on now, who needs ten doughnuts?"
@@ -1466,7 +1466,7 @@ msgstr "[_isabelle_s_angry_] Ne me dites pas de me calmer !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:565 #-#-# translate crowdin isabelle_quest_stolen_dilemma_49274735:
 msgid "[_mc_] One simply doesn't attack [kate] without a plan... there's always jocks around who will kick your ass if you get into a fight."
-msgstr "[_mc_] Un seul n'attaque pas [kate] sans plan ... il y a toujours des jhorloge autour de qui va taper votre cul si vous vous attachez à un combat."
+msgstr "[_mc_] On n'attaque pas [kate] sans plan... il y a toujours des sportifs qui vous botteront le cul si vous vous battez."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:566 #-#-# translate crowdin isabelle_quest_stolen_dilemma_f02b80e3:
 msgid "[_mc_] Be smart about this."
@@ -1478,7 +1478,7 @@ msgstr "[_isabelle_s_skeptical_] De qui êtes-vous ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:568 #-#-# translate crowdin isabelle_quest_stolen_dilemma_964cbc43:
 msgid "[_mc_] Listen to yourself for a moment — you're ready to fight the most popular girl in the school."
-msgstr "[_mc_] Écoutez vous-même un moment-vous êtes prêt à combattre la fille la plus populaire de l'école."
+msgstr "[_mc_] Vous êtes prêt à vous battre contre la fille la plus populaire de l'école."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:569 #-#-# translate crowdin isabelle_quest_stolen_dilemma_cc15edb1:
 msgid "[_mc_] What did she even steal from you?"
@@ -1558,7 +1558,7 @@ msgstr "[_mc_] Je pense que nous allons devoir faire beaucoup de planification."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:588 #-#-# translate crowdin isabelle_quest_stolen_dilemma_a7cae0c2:
 msgid "[_mc_] Let's get a nice cold bottle of ice tea in the cafeteria and think this through."
-msgstr "[_mc_] Let's get a nice cold bottle of ice tea in the cafeteria and think this through."
+msgstr "[_mc_] Prenons une bonne bouteille de thé glacé à la cafétéria et réfléchissons à tout cela."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:589 #-#-# translate crowdin isabelle_quest_stolen_dilemma_1f440cac:
 msgid "[_isabelle_s_concerned_] You're probably right..."
@@ -2198,7 +2198,7 @@ msgstr "[_kate_s_neutral_] Je sais que vous voulez quelque chose."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:828 #-#-# translate crowdin isabelle_quest_stolen_warnkate_caa628d9:
 msgid "[_mc_] I bring tributes."
-msgstr "[_mc_] I bring tributes."
+msgstr "[_mc_] J'apporte des hommages."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:829 #-#-# translate crowdin isabelle_quest_stolen_warnkate_ffeed330:
 msgid "[_kate_s_excited_] As you should."
@@ -2326,7 +2326,7 @@ msgstr "[_kate_s_Souriez_] Def !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:896 #-#-# translate crowdin isabelle_quest_stolen_warnkate_4d2b3eef:
 msgid "[_mc_] A family heirloom, passed down through generations. This [ritem.title_lower] is my entire legacy."
-msgstr "[_mc_] Un heirloom de famille, passé par les générations. Ce [ritem.title_lower] est tout mon héritage."
+msgstr "[_mc_] Un héritage familial, transmis de génération en génération. Ce [ritem.title_lower] est tout mon héritage."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:897 #-#-# translate crowdin isabelle_quest_stolen_warnkate_ff3f647c:
 msgid "My last possession with any sentimental value..."
@@ -2606,7 +2606,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1030 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_7a050915:
 msgid "[_mc_] No, [kate]'s littering."
-msgstr "[_mc_] Non, [kate]'s littering."
+msgstr "[_mc_] Non, [kate] jette des détritus."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1032 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_1959ee42:
 msgid "[_kate_s_angry_] What did you just say?!"
@@ -2946,7 +2946,7 @@ msgstr "[_flora_s_blush_] You running around the school, looking lost ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1178 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_flora_0b148a8d:
 msgid "[_mc_] Damn it, [flora]. Stop following me!"
-msgstr "[_mc_] Bon sang it, [flora]. Arras de me suivre !"
+msgstr "[_mc_] Bon sang, [flora]. Arrête de me suivre !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1179 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_flora_9d4952b5:
 msgid "[_flora_s_blush_] Make me!"
@@ -3158,7 +3158,7 @@ msgstr "[_jo_s_annoyed_] Ce n'est pas ce que j'ai demandé."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1265 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_jo_e01481ad:
 msgid "[_mc_] I, err... feel like handwriting is important in all stages of life!"
-msgstr "[_mc_] I, err ... feel like handwriting is important in all stages of life !"
+msgstr "[_mc_] J'ai l'impression que l'écriture est importante à tous les stades de la vie !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1266 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_jo_ee7d42a6:
 msgid "[_jo_s_confident_] You're not wrong about that."
@@ -3218,7 +3218,7 @@ msgstr "[_lacey_] [stacy]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1286 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_37f3b13c:
 msgid "[_stacy_] It's true, babe! You're busting his balls with your teasing!"
-msgstr "[_stacy_] C'est vrai, bébé ! Tu bus ses couilles avec ta taquinante !"
+msgstr "[_stacy_] C'est vrai, bébé ! Tu lui casses les couilles avec tes taquineries !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1287 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_0adf01e6:
 msgid "[_lacey_] Maybe if he stops playing, I'll be nicer to his balls..."
@@ -3226,11 +3226,11 @@ msgstr "[_lacey_] Peut-être que s'il arrête de jouer, je serai plus gentille a
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1288 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_dc634b0b:
 msgid "[_casey_] Speaking of busting balls, what's the sitch with the new chick, Katie?"
-msgstr "[_casey_] Parler de balles en buste, quel est le sitch avec le nouveau chick, Katie ?"
+msgstr "[_casey_] En parlant de se casser la gueule, comment ça se passe avec la nouvelle, Katie ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1289 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_de4b07c9:
 msgid "[_stacy_] Yeah, is she still being a total hoe-bag?"
-msgstr "[_stacy_] Oui, est-ce qu'elle est toujours un sac à hoe ?"
+msgstr "[_stacy_] Ouais, est-ce qu'elle est toujours une vraie salope ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1290 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_e8451383:
 msgid "[_kate_] Still working on it, but I'm planning on replacing the stick up her ass with... this thing!"
@@ -3242,15 +3242,15 @@ msgstr "[_lacey_] Queen !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1292 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_e69d0acf:
 msgid "[_casey_] What the frick is that?"
-msgstr "[_casey_] Quel est le frick ?"
+msgstr "[_casey_] Qu'est-ce que c'est que ce bordel ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1293 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_468429fa:
 msgid "[_stacy_] Check out little miss innocent!"
-msgstr "[_stacy_] Check out little miss innocent !"
+msgstr "[_stacy_] Regardez la petite miss innocente !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1294 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_4aa80c49:
 msgid "[_casey_] It's not my fault I have a boyfriend and don't spend all day looking up weird things..."
-msgstr "[_casey_] Ce n'est pas de ma faute j'ai un petit ami et je ne passe pas toute la journée à regarder des choses étranges ..."
+msgstr "[_casey_] Ce n'est pas de ma faute si j'ai un petit ami et que je ne passe pas mes journées à chercher des choses bizarres..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1295 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_e1dbbf65:
 msgid "[_stacy_] I don't settle for losers, babe."
@@ -3294,7 +3294,7 @@ msgstr "[_casey_] Peut-être que je devrais viser le Tchad aussi ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1305 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_651fb8fb:
 msgid "[_lacey_] Gonna need a bucket of lube to get that thing into her dry English cunt."
-msgstr "[_lacey_] Gonna besoin d'un seau de lube pour obtenir ce truc dans sa tante anglaise sèche."
+msgstr "[_lacey_] Il va falloir un seau de lubrifiant pour faire entrer ce truc dans sa chatte anglaise sèche."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1306 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_a64794d3:
 msgid "[_kate_] Like I said, it's going in her ass."
@@ -3422,7 +3422,7 @@ msgstr "[_isabelle_s_afraid_] Elle plaisant !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1349 #-#-# translate crowdin isabelle_quest_stolen_tellisabelle_cdcdc4c1:
 msgid "[_mc_] To be honest, probably... she was probably just showing off to her sycophants."
-msgstr "[_mc_] Pour être honnête, probablement ... elle était probablement juste en montrant à ses sycophants."
+msgstr "[_mc_] Pour être honnête, probablement... elle ne faisait que se montrer à ses sycophantes."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1350 #-#-# translate crowdin isabelle_quest_stolen_tellisabelle_912e3d9d:
 msgid "[_isabelle_s_cringe_] She's absolutely bonkers!"
