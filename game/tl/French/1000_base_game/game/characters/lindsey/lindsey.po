@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 18:48\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1540 #-#-# translate crowdin lindsey_talk_romance_disabled_82074987:
 msgid "I don't think [lindsey] wants to talk to me after what I did to her..."
@@ -86,7 +86,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1614 #-#-# translate crowdin lindsey_flirt_one_989af20b:
 msgid "[_mc_] Racing is in your blood."
-msgstr "[Vous avez la course dans le sang."
+msgstr "[_mc_] Vous avez la course dans le sang."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1615 #-#-# translate crowdin lindsey_flirt_one_fe5c988e:
 msgid "[_lindsey_s_thinking_] Well, my mom likes to say that, but I was actually pretty slow when I first started."
@@ -186,7 +186,7 @@ msgstr "[_lindsey_s_laughing_] C'est doux et drôle, mais pas vraiment pourquoi 
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1679 #-#-# translate crowdin lindsey_flirt_three_3632a12e:
 msgid "[_mc_] Well, if you weren't such a self-centered primadonna, guys might be more interested."
-msgstr "[Si tu n'étais pas une primadone aussi égocentrique, les hommes seraient peut-être plus intéressés."
+msgstr "[_mc_] Si tu n'étais pas une primadone aussi égocentrique, les hommes seraient peut-être plus intéressés."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1684 #-#-# translate crowdin lindsey_flirt_three_a2fc111d:
 msgid "[_lindsey_s_annoyed_] Forget I asked."
@@ -194,7 +194,7 @@ msgstr "[_lindsey_s_annoyed_] Oublie que j'ai demandé."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1687 #-#-# translate crowdin lindsey_flirt_three_d367d863:
 msgid "[_mc_] All the dudes here are dicks. I don't blame you."
-msgstr "[Tous les mecs ici sont des bites. Je ne vous en veux pas."
+msgstr "[_mc_] Tous les mecs ici sont des bites. Je ne vous en veux pas."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1688 #-#-# translate crowdin lindsey_flirt_three_a197cbbb:
 msgid "[_lindsey_s_skeptical_] That's not true!"
