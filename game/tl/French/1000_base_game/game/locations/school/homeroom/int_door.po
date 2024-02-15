@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-15 23:41\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:48 #-#-# translate crowdin school_homeroom_door_isabelle_pass_d9a725f6:
 msgid "[_isabelle_s_blush_] Hi! Sorry to bother you."
@@ -62,7 +62,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:75 #-#-# translate crowdin isabelle_show_more_than_school_6d8dd47c:
 msgid "[_mc_] My dic...tionary. I heard English girls like big words."
-msgstr "[Mon dic...tionnaire. J'ai entendu dire que les Anglaises aimaient les grands mots."
+msgstr "[_mc_] Mon dic...tionnaire. J'ai entendu dire que les Anglaises aimaient les grands mots."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:76 #-#-# translate crowdin isabelle_show_more_than_school_45af5784:
 msgid "[_isabelle_s_laughing_] I suppose you're right!"
