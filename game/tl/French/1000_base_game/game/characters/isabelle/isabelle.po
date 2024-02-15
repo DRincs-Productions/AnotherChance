@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2316 #-#-# translate crowdin isabelle_talk_romance_disabled_fa619cce:
 msgid "I don't think [isabelle] wants to talk to me after what I did to her..."
@@ -26,7 +26,7 @@ msgstr "Elle doit être malade de mes mauvaises tentatives de flirter maintenant
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2329 #-#-# translate crowdin isabelle_talk_one_ec55b3bd:
 msgid "[_isabelle_s_smile_] When I was little, Dad used to take me on vacation to Scotland."
-msgstr "[_isabelle_s_smile_] Quand j'étais petite, papa m'emmenait en vacances en Écosse."
+msgstr "[_isabelle_s_Souriez_] Quand j'étais petite, papa m'emmenait en vacances en Écosse."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2330 #-#-# translate crowdin isabelle_talk_one_d60166d4:
 msgid "[_isabelle_s_confident_] I always liked the bagpipes and kilts, but most of all I enjoyed the strolls along the gray waters of Loch Ness, hoping to catch a glimpse of Nessie."
@@ -46,7 +46,7 @@ msgstr "[_isabelle_s_confident_] Un peu comme Orwell, mais moins dystopique ! J'
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2346 #-#-# translate crowdin isabelle_talk_three_440fce2c:
 msgid "[_isabelle_s_smile_] I've always felt like I was destined to do something out of the ordinary."
-msgstr "[_isabelle_s_smile_] J'ai toujours eu l'impression d'être destiné à faire quelque chose de l'ordinaire."
+msgstr "[_isabelle_s_Souriez_] J'ai toujours eu l'impression d'être destiné à faire quelque chose de l'ordinaire."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2347 #-#-# translate crowdin isabelle_talk_three_ab9a9b82:
 msgid "[_isabelle_s_laughing_] Something that people will remember me for when I'm gone."
@@ -54,11 +54,11 @@ msgstr "[_isabelle_s_laughing_] Quelque chose que les gens se souviendront de mo
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2348 #-#-# translate crowdin isabelle_talk_three_8cc9b1c8:
 msgid "[_isabelle_s_smile_] Maybe a great novel or poem. It doesn't have to be anything big, just something with a positive impact on the world."
-msgstr "[_isabelle_s_smile_] Peut-être un grand roman ou un poème. Il n'est pas nécessaire que ce soit quelque chose de grand, juste quelque chose qui a un impact positif sur le monde."
+msgstr "[_isabelle_s_Souriez_] Peut-être un grand roman ou un poème. Il n'est pas nécessaire que ce soit quelque chose de grand, juste quelque chose qui a un impact positif sur le monde."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2355 #-#-# translate crowdin isabelle_talk_four_006cbc7b:
 msgid "[_isabelle_s_smile_] Thanks to my dad's job, I've had the chance to experience the rich cultures of the world."
-msgstr "[_isabelle_s_smile_] Grâce au travail de mon père, j'ai eu la chance de découvrir les riches cultures du monde."
+msgstr "[_isabelle_s_Souriez_] Grâce au travail de mon père, j'ai eu la chance de découvrir les riches cultures du monde."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2356 #-#-# translate crowdin isabelle_talk_four_04ed2080:
 msgid "[_isabelle_s_confident_] I've lived in twelve different countries and visited another sixteen!"
@@ -86,7 +86,7 @@ msgstr "[_isabelle_s_thinking_] Je n'aime pas vraiment les lapins de gym, mais n
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2374 #-#-# translate crowdin isabelle_flirt_one_3bb95b54:
 msgid "[_isabelle_s_smile_] What part of my childhood vacations to Scotland did I enjoy the most?"
-msgstr "[_isabelle_s_smile_] Quelle partie de mes vacances d'enfance en Écosse ai-je eu le plus de plaisir ?"
+msgstr "[_isabelle_s_Souriez_] Quelle partie de mes vacances d'enfance en Écosse ai-je eu le plus de plaisir ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2377 #-#-# translate crowdin isabelle_flirt_one_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -182,7 +182,7 @@ msgstr "[_mc_] Vous voulez juste laisser le monde meilleur que quand vous êtes 
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2442 #-#-# translate crowdin isabelle_flirt_three_6cc00e65:
 msgid "[_isabelle_s_smile_] Correct! I think that's worth striving for."
-msgstr "[_isabelle_s_smile_] Corriger ! Je pense que ça vaut la peine de nous efforcer."
+msgstr "[_isabelle_s_Souriez_] Corriger ! Je pense que ça vaut la peine de nous efforcer."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2445 #-#-# translate crowdin isabelle_flirt_three_97d26932:
 msgid "[_isabelle_s_laughing_] I'm not sure about the last part, though!"
@@ -214,7 +214,7 @@ msgstr "[_isabelle_s_skeptical_] On dirait que vous essayez de vous montrer. Sav
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2466 #-#-# translate crowdin isabelle_flirt_four_1adafdaa:
 msgid "[_isabelle_s_smile_left_] When I was younger, I didn't like to move every few months."
-msgstr "[_isabelle_s_smile_left_] Quand j'étais plus jeune, je n'aimais pas bouger tous les mois."
+msgstr "[_isabelle_s_Souriez_left_] Quand j'étais plus jeune, je n'aimais pas bouger tous les mois."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2467 #-#-# translate crowdin isabelle_flirt_four_6804b74f:
 msgid "[_isabelle_s_laughing_] But as I've grown older, experiencing new cultures and meeting new people is something I truly love!"
@@ -370,11 +370,11 @@ msgstr "[_mc_] Un diplomate ! Les plus grandes guerres ne se gagnent pas sur le 
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2561 #-#-# translate crowdin isabelle_flirt_six_46c3d7d9:
 msgid "[_isabelle_s_smile_] That's true! Saving lives is nobler than taking them, even for a just cause."
-msgstr "[_isabelle_s_smile_] C'est vrai ! Sauver des vies est plus noble que de les prendre, même pour une cause juste."
+msgstr "[_isabelle_s_Souriez_] C'est vrai ! Sauver des vies est plus noble que de les prendre, même pour une cause juste."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2568 #-#-# translate crowdin isabelle_flirt_seven_b00a1a1b:
 msgid "[_isabelle_s_smile_] I think life goals are important. Do you have any?"
-msgstr "[_isabelle_s_smile_] Je pense que les objectifs de vie sont importants. As-tu quelque ?"
+msgstr "[_isabelle_s_Souriez_] Je pense que les objectifs de vie sont importants. As-tu quelque ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2571 #-#-# translate crowdin isabelle_flirt_seven_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -708,7 +708,7 @@ msgstr "[_mc_] Je suis désolé. Tu as un goût si doux que j'en bave littérale
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2743 #-#-# translate crowdin isabelle_flirt_sunset_3220f3c2:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] You like my lip gloss?"
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Tu aimes mon gloss ?"
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Tu aimes mon gloss ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2744 #-#-# translate crowdin isabelle_flirt_sunset_6480b222:
 msgid "[_mc_] You know, that stuff should be illegal..."
@@ -720,7 +720,7 @@ msgstr "[_mc_] C'est comme si j'embrassais un gâteau d'anniversaire."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2746 #-#-# translate crowdin isabelle_flirt_sunset_ff9d9722:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] That doesn't sound awful."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Ça ne semble pas affreux."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Ça ne semble pas affreux."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2747 #-#-# translate crowdin isabelle_flirt_sunset_c02b95c8:
 msgid "[_mc_] It's not, I'm just—"
@@ -792,7 +792,7 @@ msgstr "[_mc_] Je trouverai une bonne réponse pour la prochaine fois."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2767 #-#-# translate crowdin isabelle_flirt_sunset_a7347dd6:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Next time! Okay, I see what you did there."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] La prochaine fois ! Ok, je vois ce que tu as fait là."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] La prochaine fois ! Ok, je vois ce que tu as fait là."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2768 #-#-# translate crowdin isabelle_flirt_sunset_0f5f78fa:
 msgid "[_mc_] You make me confident. What can I say?"
@@ -800,15 +800,15 @@ msgstr "[_mc_] Vous me faites confiance. Que puis-je dire ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2769 #-#-# translate crowdin isabelle_flirt_sunset_02cd428d:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] I think you said it all tonight."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Je pense que vous l'avez dit tout ce soir."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Je pense que vous l'avez dit tout ce soir."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2770 #-#-# translate crowdin isabelle_flirt_sunset_a5e81dba:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] And yes, there will be a next time."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Et oui, il y aura une prochaine fois."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Et oui, il y aura une prochaine fois."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2771 #-#-# translate crowdin isabelle_flirt_sunset_562820a6:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Goodnight, [mc]."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Bonne nuit, [mc]."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Bonne nuit, [mc]."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2772 #-#-# translate crowdin isabelle_flirt_sunset_ac92c5b6:
 msgid "[_mc_] Goodnight, [isabelle]."
@@ -896,7 +896,7 @@ msgstr "Elle mérite d'être heureuse, plus que quiconque je le sais."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2802 #-#-# translate crowdin isabelle_flirt_sunset_72a44266:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Well, I'm glad you've changed your mind."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Eh bien, je suis content que vous ayez changé d'avis."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Eh bien, je suis content que vous ayez changé d'avis."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2803 #-#-# translate crowdin isabelle_flirt_sunset_cee97efa:
 msgid "[_mc_] You know you could get someone much better than me, right?"
@@ -904,7 +904,7 @@ msgstr "[_mc_] Vous savez que vous pourriez avoir quelqu'un de bien mieux que mo
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2804 #-#-# translate crowdin isabelle_flirt_sunset_bfddb5a2:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Better? What's better?"
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Mieux ? Quoi de mieux ?"
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Mieux ? Quoi de mieux ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2805 #-#-# translate crowdin isabelle_flirt_sunset_178724f0:
 msgid "[_mc_] You know... more attractive, successful, popular..."
@@ -912,11 +912,11 @@ msgstr "[_mc_] Vous savez ... plus séduisantes, couronnées de succès, populai
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2806 #-#-# translate crowdin isabelle_flirt_sunset_9be8a049:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Love isn't a scale. It's a jigsaw puzzle."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] L'amour n'est pas une échelle. C'est un puzzle."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] L'amour n'est pas une échelle. C'est un puzzle."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2807 #-#-# translate crowdin isabelle_flirt_sunset_91c2bcae:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] You either match with someone or you don't."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Vous ne faites pas de correspondance avec quelqu'un ou vous ne le faites pas."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Vous ne faites pas de correspondance avec quelqu'un ou vous ne le faites pas."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2808 #-#-# translate crowdin isabelle_flirt_sunset_febddcbc:
 msgid "[_mc_] Love?"
@@ -932,7 +932,7 @@ msgstr "[_mc_] Puis-je aussi faire un point ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2811 #-#-# translate crowdin isabelle_flirt_sunset_927b0f44:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Certainly, I'm all—"
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Certainement, je suis tout-"
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Certainement, je suis tout-"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2815 #-#-# translate crowdin isabelle_flirt_sunset_23faf1a7:
 msgid "[_isabelle_s_roof_sunset_kiss_surprised_] !!!"
@@ -1062,7 +1062,7 @@ msgstr "[_mc_] Je sais. Je suis juste nerveuse."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2848 #-#-# translate crowdin isabelle_flirt_sunset_0a2b477d:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Don't be! Life's too short to worry."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Ne pas être ! La vie est trop courte pour s'inquiéter."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Ne pas être ! La vie est trop courte pour s'inquiéter."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2849 #-#-# translate crowdin isabelle_flirt_sunset_3a2868ad:
 msgid "[_mc_] You're right..."
@@ -1074,7 +1074,7 @@ msgstr "[_mc_] Bonne nuit, [isabelle]."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2851 #-#-# translate crowdin isabelle_flirt_sunset_562820a6_1:
 msgid "[_isabelle_s_roof_sunset_hug_smile_] Goodnight, [mc]."
-msgstr "[_isabelle_s_roof_sunset_hug_smile_] Bonne nuit, [mc]."
+msgstr "[_isabelle_s_roof_sunset_hug_Souriez_] Bonne nuit, [mc]."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2870 #-#-# translate crowdin isabelle_talk_broken_3f0e410d:
 msgid "[_isabelle_s_sad_] Sorry, I have to go."
