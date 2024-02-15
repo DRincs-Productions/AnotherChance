@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:00\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:11 #-#-# translate crowdin quest_flora_bonsai_spaghetti_505d8ca3:
 msgid "[_nurse_s_smile_] Hello there, [mc]. How are you feeling today?"
@@ -30,7 +30,7 @@ msgstr "S'ouvrir à un thérapeute les laisserait probablement traumatisés."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:15 #-#-# translate crowdin quest_flora_bonsai_spaghetti_a6072bde:
 msgid "[_nurse_s_smile_] Thanks for watering my bonsai, by the way! She can be a little thirsty sometimes!"
-msgstr "[_nurse_s_Souriez_] Merci d'arroser mes bonsaï, d'ailleurs ! Elle peut être une petite soif parfois !"
+msgstr "[ _nurse_s_smile_ ] Merci d'arroser mes bonsaï, d'ailleurs ! Elle peut être une petite soif parfois !"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:16 #-#-# translate crowdin quest_flora_bonsai_spaghetti_b4cf42b1:
 msgid "[_nurse_s_smile_] Anyway, I'm about to—"
@@ -1298,7 +1298,7 @@ msgstr "[_flora_s_annoyed_] Cela pourrait être un choc pour vous, mais la plupa
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:554 #-#-# translate crowdin quest_flora_bonsai_fetch_drink_gift_4ea4713c:
 msgid "[_mc_] My goodness, [flora]! Please, get your mind out of the gutter!"
-msgstr "[_mc_] Mon Dieu, [flora] !] S'il vous plaît, sortez votre esprit du caniveau !"
+msgstr "[_mc_] Mon Dieu, [flora] ! S'il vous plaît, sortez votre esprit du caniveau !"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:555 #-#-# translate crowdin quest_flora_bonsai_fetch_drink_gift_f229fa99:
 msgid "[_flora_s_eyeroll_] Shut up."
@@ -1310,7 +1310,7 @@ msgstr "[_flora_s_annoyed_] Dépêchez-vous ! Je suis sur le point de me pisser 
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:566 #-#-# translate crowdin quest_flora_bonsai_fetch_bathroom_interact_03b5e4ac:
 msgid "[_mc_] Maybe you shouldn't drink so much [drink]?"
-msgstr "[_mc_] Peut-être que vous ne devriez pas boire autant [drink] ?"
+msgstr "[_mc_] Peut-être que vous ne devriez pas boire autant [_mc_] drink] ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:567 #-#-# translate crowdin quest_flora_bonsai_fetch_bathroom_interact_396d173c:
 msgid "[_flora_s_annoyed_] Yes, I should! Now help me!"
