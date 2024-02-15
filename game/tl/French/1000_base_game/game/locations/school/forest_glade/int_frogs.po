@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:23\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/school/forest_glade/int_frogs.rpy:20 #-#-# translate crowdin school_forest_glade_frog1_take_104f9f9e:
 msgid "Aha! I can't believe it! I actually caught one!"
@@ -22,7 +22,7 @@ msgstr "Un petit bougre glissant, un peu comme une crotte de nez..."
 
 # game/1000_base_game/game/locations/school/forest_glade/int_frogs.rpy:39 #-#-# translate crowdin school_forest_glade_frog2_take_0bff2860:
 msgid "[_mc_] Excuse me, do you live in that creepy shed?"
-msgstr "[Excusez-moi, vous vivez dans ce hangar effrayant ?"
+msgstr "[_mc_] Excusez-moi, vous vivez dans ce hangar effrayant ?"
 
 # game/1000_base_game/game/locations/school/forest_glade/int_frogs.rpy:46 #-#-# translate crowdin school_forest_glade_frog2_take_8537689a:
 msgid "Yoink! Not anymore!"
@@ -34,7 +34,7 @@ msgstr "Je dois juste..."
 
 # game/1000_base_game/game/locations/school/forest_glade/int_frogs.rpy:65 #-#-# translate crowdin school_forest_glade_frog3_take_bddbe26b:
 msgid "[_extend_]  stay really still..."
-msgstr "[_extend_] stay really still..."
+msgstr "[_extend_]  restez vraiment immobile..."
 
 # game/1000_base_game/game/locations/school/forest_glade/int_frogs.rpy:66 #-#-# translate crowdin school_forest_glade_frog3_take_5bce16a7:
 msgid "[_extend_]  before I..."
@@ -42,7 +42,7 @@ msgstr "[_extend_] avant que je..."
 
 # game/1000_base_game/game/locations/school/forest_glade/int_frogs.rpy:69 #-#-# translate crowdin school_forest_glade_frog3_take_e534c506:
 msgid "[_extend_]  pounce! [withvpunch]"
-msgstr "[_extend_] pounce ! [withvpunch]"
+msgstr "[_extend_]  bondi ! [withvpunch]"
 
 # game/1000_base_game/game/locations/school/forest_glade/int_frogs.rpy:74 #-#-# translate crowdin school_forest_glade_frog3_take_7595ac6b:
 msgid "Goddamn, look at my reflexes! Wax on, wax off!"
