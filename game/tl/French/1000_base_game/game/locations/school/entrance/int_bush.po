@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:51\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:48 #-#-# translate crowdin school_entrance_bush_interact_a31a7204:
 msgid "Always be sure to check your local bush for a certain Italian assassin."
@@ -102,7 +102,7 @@ msgstr "[_mc_] La collection de Herb est un excellent moyen de se détendre."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:83 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_1846b4c7:
 msgid "[_nurse_s_smile_] I'm glad you agree."
-msgstr "[_nurse_s_smile_] Je suis heureux que vous êtes d'accord."
+msgstr "[_nurse_s_Souriez_] Je suis heureux que vous êtes d'accord."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:86 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_c15d2983:
 msgid "[_mc_] What are you doing in this bush?"
@@ -226,7 +226,7 @@ msgstr "[_nurse_s_concerned_] Ici, vous allez."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:120 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_ed3c0eb5:
 msgid "[_nurse_s_smile_] Anyway! I have to get going. Busy times, indeed."
-msgstr "[_nurse_s_smile_] En tout cas ! Je dois aller. Des temps de Busy, en effet."
+msgstr "[_nurse_s_Souriez_] En tout cas ! Je dois aller. Des temps de Busy, en effet."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:121 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_5af0d525:
 msgid "[_mc_] Not so fast."
@@ -302,7 +302,7 @@ msgstr "[_nurse_s_afraid_] Oh mon Dieu."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:147 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_8fad9594:
 msgid "[_mc_] Come on, let's get a move on, convict."
-msgstr "[_mc_] Allez, allons-y, condamn."
+msgstr "[_mc_] Allez, allons-y, conBon sang."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:148 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_1aadef53:
 msgid "[_nurse_s_surprised_] I, err, I didn't do anything bad. You have to tell her that."
@@ -358,7 +358,7 @@ msgstr "[_mc_] Merci ! Je ne bois habituellement pas de thé, mais je suis sûr 
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:183 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_8dff6b9c:
 msgid "[_nurse_s_smile_] They're both very potent, so be careful!"
-msgstr "[_nurse_s_smile_] Ils sont tous les deux très puissants, donc soyez prudents !"
+msgstr "[_nurse_s_Souriez_] Ils sont tous les deux très puissants, donc soyez prudents !"
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:185 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_e2d2c01e:
 msgid "Feels good to do the right thing for once. Who knows what [kate]'s got on the poor woman."
