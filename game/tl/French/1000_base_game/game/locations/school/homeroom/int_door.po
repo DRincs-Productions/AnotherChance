@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:03\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:48 #-#-# translate crowdin school_homeroom_door_isabelle_pass_d9a725f6:
 msgid "[_isabelle_s_blush_] Hi! Sorry to bother you."
@@ -46,7 +46,7 @@ msgstr "[_mc_] Sure chose ! Suivez-moi."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:61 #-#-# translate crowdin school_homeroom_door_isabelle_pass_fcf3e36f:
 msgid "[_isabelle_s_smile_] Thanks, this school is pretty big."
-msgstr "[_isabelle_s_smile_] Merci, cette école est assez grande."
+msgstr "[_isabelle_s_Souriez_] Merci, cette école est assez grande."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:67 #-#-# translate crowdin isabelle_show_more_than_school_2028d9a9:
 msgid "[_mc_] I could show you more than just the school..."
@@ -74,7 +74,7 @@ msgstr "[_isabelle_s_confident_] Heureusement pour vous, nous aimons aussi le fr
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:79 #-#-# translate crowdin isabelle_show_more_than_school_84300463:
 msgid "[_isabelle_s_smile_] Fine. Lead the way, then."
-msgstr "[_isabelle_s_smile_] Fine. Diriger la voie, alors."
+msgstr "[_isabelle_s_Souriez_] Fine. Diriger la voie, alors."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:80 #-#-# translate crowdin isabelle_show_more_than_school_58766fcc:
 msgid "She did seem to like that, but maybe she's just polite."
@@ -114,7 +114,7 @@ msgstr "[_mc_] Désolé, mauvaise blague. Vous voulez que je vous montre ?"
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:97 #-#-# translate crowdin isabelle_show_more_than_school_ccbf146a:
 msgid "[_isabelle_s_smile_] No worries. That would be great, thanks!"
-msgstr "[_isabelle_s_smile_] Pas d'inquiétude. Ce serait formidable, merci !"
+msgstr "[_isabelle_s_Souriez_] Pas d'inquiétude. Ce serait formidable, merci !"
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:103 #-#-# translate crowdin isabelle_show_more_than_school_bcb54824:
 msgid "[_mc_] Did you see me volunteering? No."
@@ -142,7 +142,7 @@ msgstr "[_isabelle_s_sad_] Mon guide m'a abandonné ..."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:112 #-#-# translate crowdin isabelle_show_more_than_school_189c0101:
 msgid "[_mrsl_s_surprised_] Huh! That's not very nice. Are you sure she's not outside?"
-msgstr "[_mrsl_s_surprised_] Huh ! Ce n'est pas très gentile. Es-tu sûre qu'elle n'est pas dehors ?"
+msgstr "[_mrsl_s_surprised_] Huh ! Ce n'est pas très gentille. Es-tu sûre qu'elle n'est pas dehors ?"
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:113 #-#-# translate crowdin isabelle_show_more_than_school_eabf2491:
 msgid "[_isabelle_s_concerned_] Yes, I checked."
@@ -178,7 +178,7 @@ msgstr "Ugh, déjà retombant dans mes vieilles habitudes. Ça n'a pas pris long
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:131 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_91383f85:
 msgid "[_isabelle_s_smile_] This school is pretty big. I almost got lost on the way here. Thanks for taking me!"
-msgstr "[_isabelle_s_smile_] Cette école est assez grande. Je me suis presque perdu sur le chemin. Merci de m'avoir pris !"
+msgstr "[_isabelle_s_Souriez_] Cette école est assez grande. Je me suis presque perdu sur le chemin. Merci de m'avoir pris !"
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:134 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -186,7 +186,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:137 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_04f6572a:
 msgid "[_mc_] Hey, no problem! Follow me!"
-msgstr "[_mc_] Hey, pas de problème ! Suivez-moi !"
+msgstr "[_mc_] Hé, pas de problème ! Suivez-moi !"
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:139 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_f5344912:
 msgid "[_isabelle_s_excited_] All right!"
@@ -226,7 +226,7 @@ msgstr "[_isabelle_s_annoyed_] Mon guide m'a abandonné ..."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:159 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_7b2700da:
 msgid "[_mrsl_s_surprised_] Huh! That's not very nice. How come?"
-msgstr "[_mrsl_s_surprised_] Huh ! Ce n'est pas très gentile. Comment venir ?"
+msgstr "[_mrsl_s_surprised_] Huh ! Ce n'est pas très gentille. Comment venir ?"
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:163 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -250,7 +250,7 @@ msgstr "[_mc_] Je suis désolé."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:171 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_dd85e4e4:
 msgid "[_mrsl_s_smile_] Glad we got that resolved."
-msgstr "[_mrsl_s_smile_] Glad we got that résolu."
+msgstr "[_mrsl_s_Souriez_] Glad we got that résolu."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:177 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_f793f4fd:
 msgid "[_mc_] Err, this is all a misunderstanding."
@@ -274,7 +274,7 @@ msgstr "[_mc_] Je suis désolé. Je vais vous montrer."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:182 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_dd85e4e4_1:
 msgid "[_mrsl_s_smile_] Glad we got that resolved."
-msgstr "[_mrsl_s_smile_] Glad we got that résolu."
+msgstr "[_mrsl_s_Souriez_] Glad we got that résolu."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:185 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_325e5d2c:
 msgid "[_isabelle_s_annoyed_] Fine. Let's just go."
