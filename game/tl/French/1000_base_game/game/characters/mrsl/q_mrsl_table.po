@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 11:19\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
@@ -1042,7 +1042,7 @@ msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:579 #-#-# translate crowdin quest_mrsl_table_morning_5959d64d:
 msgid "[_kate_s_smile_] You heard me."
-msgstr "[_kate_s_smile_] Vous m'avez entendu."
+msgstr "[_kate_s_Souriez_] Vous m'avez entendu."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:580 #-#-# translate crowdin quest_mrsl_table_morning_df295d3a:
 msgid "[_mc_] Why are you here, then?"
@@ -1114,7 +1114,7 @@ msgstr "Phew ! C'était serré !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:614 #-#-# translate crowdin quest_mrsl_table_morning_6702811e:
 msgid "[_kate_] Open up, you little weasel!"
-msgstr "[_kate_] Open up, you little weasel !"
+msgstr "[_kate_] Ouvre, petite fouine !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:615 #-#-# translate crowdin quest_mrsl_table_morning_7ae25e14:
 msgid "Some tricks never get old."
@@ -1126,7 +1126,7 @@ msgstr "L'écluse sur la porte du foyer m'a sauvé d'innombrables fois."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:617 #-#-# translate crowdin quest_mrsl_table_morning_2a5671dc:
 msgid "[_kate_] We'll be nice to you! Won't we, ladies?"
-msgstr "[_kate_] Nous serons gentinos avec vous ! Ne sommes-nous pas, mesdames ?"
+msgstr "[_kate_] Nous serons gentils avec vous ! N'est-ce pas, mesdames ?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:618 #-#-# translate crowdin quest_mrsl_table_morning_4e851289:
 msgid "[_casey_] We'll be sooo nice!"
@@ -1210,7 +1210,7 @@ msgstr "[_kate_] Ok, je suis en train de jouer."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:645 #-#-# translate crowdin quest_mrsl_table_morning_aa0eb3fa:
 msgid "[_kate_] [stacy], you and [casey] go outside — he might try to escape through a window."
-msgstr "[_kate_] [stacy], you and [casey] go outside-il pourrait essayer de s'échapper par une fenêtre."
+msgstr "[_kate_] [Stacy], toi et [Casey] allez dehors - il pourrait essayer de s'échapper par une fenêtre."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:646 #-#-# translate crowdin quest_mrsl_table_morning_b6dd9b26:
 msgid "[_kate_] [lacey], guard the door. I'm going to get someone with a key..."
@@ -1494,7 +1494,7 @@ msgstr "Je suis fermement logé et-"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:776 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_f76c6d47:
 msgid "[_kate_] Again, we're sorry to disturb you, ma'am! We just saw someone sneak into the classroom."
-msgstr "[_kate_] Encore une fois, nous sommes désolons de vous déranger, madame ! On a vu quelqu'un se faufiler dans la salle de classe."
+msgstr "[_kate_] Encore une fois, nous sommes désolés de vous déranger, madame ! Nous venons de voir quelqu'un se faufiler dans la salle de classe."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:777 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_baafd97d:
 msgid "It's weird to see [kate] so polite... it's so plastic and fake."
