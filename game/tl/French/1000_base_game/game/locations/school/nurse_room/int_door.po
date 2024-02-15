@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:06\n"
+"PO-Revision-Date: 2024-02-15 22:01\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:41 #-#-# translate crowdin quest_flora_bonsai_pads_interact_ac24309d:
 msgid "Better not keep [isabelle] waiting, else she might burst in."
@@ -30,7 +30,7 @@ msgstr "[_mc_] Aucun problème. Je sais à quel point ça peut être dur. [flora
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:51 #-#-# translate crowdin quest_flora_bonsai_pads_door_3f7550bb:
 msgid "[_isabelle_s_smile_] It hits people differently, but thanks!"
-msgstr "[_isabelle_s_smile_] Ça frappe les gens différemment, mais merci !"
+msgstr "[_isabelle_s_Souriez_] Ça frappe les gens différemment, mais merci !"
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:87 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_44a77d79:
 msgid "[_maxine_s_neutral_] Did the mites eat your clothes too? That is fascinating."
@@ -42,7 +42,7 @@ msgstr "[_nurse_s_afraid_] Mites ? Err, I. .."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:89 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_161ba503:
 msgid "[_mc_] She just likes going naked."
-msgstr "[_mc_] Elle aime juste se nu."
+msgstr "[Elle aime juste être nue."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:90 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_33f381e3:
 msgid "[_nurse_s_surprised_] That is not true!"
@@ -50,7 +50,7 @@ msgstr "[_nurse_s_surprised_] Ce n'est pas vrai !"
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:91 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_9dc90e5f:
 msgid "[_maxine_s_smile_] Very well. I need seven gallons of malic acid, thank you."
-msgstr "[_maxine_s_smile_] Très bien. J'ai besoin de sept gallons d'acide malique, merci."
+msgstr "[_maxine_s_Souriez_] Très bien. J'ai besoin de sept gallons d'acide malique, merci."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:92 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_f2620084:
 msgid "[_nurse_s_annoyed_] I don't think I can help you with that, [maxine]..."
