@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:5 #-#-# translate crowdin quest_lindsey_wrong_start_c5a1334f:
 msgid "[_lindsey_s_concerned_] ..."
@@ -1474,7 +1474,7 @@ msgstr "[_lindsey_s_thinking_drinking_]..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:590 #-#-# translate crowdin lindsey_wrong_puddle_use_mop_appear_8b8f862a:
 msgid "[_mc_] Had to bribe the [guard] with doughnuts to get this mop."
-msgstr "[_mc_] S'il devait soudoi le [guard] avec des beignes pour obtenir cette mop."
+msgstr "[_mc_] S'il devait soudoi le [_mc_] guard] avec des beignes pour obtenir cette mop."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:591 #-#-# translate crowdin lindsey_wrong_puddle_use_mop_appear_de2a826b:
 msgid "[_lindsey_s_smile_] What even happened here? Where's your hoodie?"
@@ -1738,7 +1738,7 @@ msgstr "[_mc_] Regarde, je ferme les yeux !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:715 #-#-# translate crowdin quest_lindsey_wrong_lindseyart_ed6b8e94:
 msgid "[_lindsey_] No peeking! Promise!"
-msgstr "[_lindsey_] Pas de peeking ! Promets !"
+msgstr "[_maya_] Pas de coup d'œil ! Promis !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:717 #-#-# translate crowdin quest_lindsey_wrong_lindseyart_0a4dbc8d:
 msgid "[_mc_] I promise."
@@ -1750,7 +1750,7 @@ msgstr "[_mc_] Mais qu'allez-vous faire ? Cacher ici jusqu'à ce que tes vêteme
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:719 #-#-# translate crowdin quest_lindsey_wrong_lindseyart_b6d06a7b:
 msgid "[_lindsey_] Um... I need you to get my clothes from the women's locker room..."
-msgstr "[_lindsey_] Um ... J'ai besoin que tu me moque de mes vêtements de la chambre de casiers des femmes ..."
+msgstr "[_maya_] J'ai besoin que tu ailles chercher mes vêtements dans le vestiaire des femmes..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:721 #-#-# translate crowdin quest_lindsey_wrong_lindseyart_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -2182,7 +2182,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:881 #-#-# translate crowdin flora_quest_lindsey_wrong_florahelp_ac107806:
 msgid "[_mc_] I need you to help me get [lindsey]'s clothes from the women's locker room."
-msgstr "[_mc_] J'ai besoin de vous pour m'aider à obtenir les vêtements de [lindsey]de la salle des casiers des femmes."
+msgstr "[_mc_] J'ai besoin que vous m'aidiez à récupérer les vêtements de [Lindsey] dans le vestiaire des femmes."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:883 #-#-# translate crowdin flora_quest_lindsey_wrong_florahelp_ab6ea77d:
 msgid "[_flora_s_angry_] I knew it was something gross!"
