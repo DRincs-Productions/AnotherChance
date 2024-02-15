@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:21\n"
+"PO-Revision-Date: 2024-02-15 11:19\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:5 #-#-# translate crowdin quest_kate_trick_start_6cb5dee0:
 msgid "Uh-oh. Did I just step into the Colosseum?"
@@ -30,7 +30,7 @@ msgstr "[_isabelle_s_angry_left_] Cela vous concerne ! Vous êtes le président 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:9 #-#-# translate crowdin quest_kate_trick_start_f4259dc0:
 msgid "[_kate_s_smile_right_] Last time I checked, getting a good grade is every student's own responsibility."
-msgstr "[_kate_s_smile_right_] La dernière fois que j'ai vérifié, obtenir une bonne note est la responsabilité de chaque étudiant."
+msgstr "[_kate_s_Souriez_right_] La dernière fois que j'ai vérifié, obtenir une bonne note est la responsabilité de chaque étudiant."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:10 #-#-# translate crowdin quest_kate_trick_start_e6c00fa6:
 msgid "[_isabelle_s_cringe_left_] You're literally stopping students who aren't on a sports team or the cheerleading squad from getting an education!"
@@ -214,7 +214,7 @@ msgstr "[_isabelle_s_afraid_] Il n'y a ni gagnant ni perdant ! Il s'agit d'être
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:105 #-#-# translate crowdin quest_kate_trick_start_8035a069:
 msgid "[_kate_s_smile_right_] Words of a true loser."
-msgstr "[_kate_s_smile_right_] Mots d'un vrai loser."
+msgstr "[_kate_s_Souriez_right_] Mots d'un vrai loser."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:109 #-#-# translate crowdin quest_kate_trick_start_11fdb519_4:
 msgid "[_extend_]  [nointeract]"
@@ -254,7 +254,7 @@ msgstr "[_isabelle_s_afraid_]!!!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:130 #-#-# translate crowdin quest_kate_trick_start_852262c1:
 msgid "[_kate_s_smile_right_] See?"
-msgstr "[_kate_s_smile_right_] Voir ?"
+msgstr "[_kate_s_Souriez_right_] Voir ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:133 #-#-# translate crowdin quest_kate_trick_start_78ea3390:
 msgid "[_isabelle_s_sad_] Good to know. I guess I don't need to bother with you anymore, then.{space=-30}"
@@ -262,7 +262,7 @@ msgstr "[_isabelle_s_sad_] Bon à savoir. Je suppose que je n'ai plus besoin de 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:134 #-#-# translate crowdin quest_kate_trick_start_4dfffb4b:
 msgid "[_kate_s_smile_right_] Bye, bitch."
-msgstr "[_kate_s_smile_right_] Bye, salope."
+msgstr "[_kate_s_Souriez_right_] Bye, salope."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:141 #-#-# translate crowdin quest_kate_trick_start_5bdb6952:
 msgid "Hmm... [isabelle] seemed really hurt by that. She's probably not used to being called a loser."
@@ -326,7 +326,7 @@ msgstr "[_isabelle_s_thinking_] Vous avez un fantastique fantasme."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:173 #-#-# translate crowdin quest_kate_trick_start_3a5dd954:
 msgid "[_kate_s_smile_right_] You have no idea. The things I'm going to do to you..."
-msgstr "[_kate_s_smile_right_] Vous n'avez aucune idée. Les choses que je vais vous faire ..."
+msgstr "[_kate_s_Souriez_right_] Vous n'avez aucune idée. Les choses que je vais vous faire ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:174 #-#-# translate crowdin quest_kate_trick_start_2f4520a0:
 msgid "[_isabelle_s_cringe_] You're sickening. I'm leaving."
@@ -526,7 +526,7 @@ msgstr "[_isabelle_s_afraid_] Je ne voulais pas vous insulter, [mc]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:292 #-#-# translate crowdin quest_kate_trick_start_629565fb:
 msgid "[_kate_s_smile_right_] Well, everything you've said so far has been really dumb, [isabelle]."
-msgstr "[_kate_s_smile_right_] Bien, tout ce que vous avez dit jusqu'ici a été vraiment stupide, [isabelle]."
+msgstr "[_kate_s_Souriez_right_] Bien, tout ce que vous avez dit jusqu'ici a été vraiment stupide, [isabelle]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:293 #-#-# translate crowdin quest_kate_trick_start_8c27f80b:
 msgid "[_isabelle_s_thinking_] No one asked for your opinion."
@@ -605,7 +605,7 @@ msgstr "[_isabelle_s_afraid_] Je ne peux pas croire que tu viens de dire ça, [m
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:335 #-#-# translate crowdin quest_kate_trick_start_6c21f24f:
 msgid "[_kate_s_smile_right_] Sweetheart, you don't know the first thing about it. It'll be like waking{space=-30}\n"
 "up to a cold shower."
-msgstr "[_kate_s_smile_right_] Sweetheart, vous ne connaissez pas la première chose. Ce sera comme un réveil de {space=-30}\n"
+msgstr "[_kate_s_Souriez_right_] Sweetheart, vous ne connaissez pas la première chose. Ce sera comme un réveil de {space=-30}\n"
 "jusqu'à une douche froide."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:336 #-#-# translate crowdin quest_kate_trick_start_f3832e77:
@@ -1062,7 +1062,7 @@ msgstr "Huh ? C'est bizarre. Le verrou n'est pas un ajustement pour mon [item.ti
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:541 #-#-# translate crowdin quest_kate_trick_jo_3881f66d:
 msgid "[_jo_s_smile_] Hi there, honey!"
-msgstr "[_jo_s_smile_] Salut, chérie !"
+msgstr "[_jo_s_Souriez_] Salut, chérie !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:542 #-#-# translate crowdin quest_kate_trick_jo_67d8b784:
 msgid "[_mc_] [jo], I need your help with something."
@@ -1413,12 +1413,12 @@ msgstr "[_mc_] Qu'est-ce que vous avez pour moi ?"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:660 #-#-# translate crowdin quest_kate_trick_maxine_6deedaf6:
 msgid "[_maxine_s_smile_] The Newfall Constitution on Animal Rights, Chapter 87,\n"
 "subsection D."
-msgstr "[_maxine_s_smile_] La nouvelle Constitution sur les droits des animaux, chapitre 87,\n"
+msgstr "[_maxine_s_Souriez_] La nouvelle Constitution sur les droits des animaux, chapitre 87,\n"
 ", sous-section D."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:661 #-#-# translate crowdin quest_kate_trick_maxine_b19f82e9:
 msgid "[_maxine_s_smile_] {i}\"A dog (and by extension its owner) has the right to access any public training facility.\"{/}"
-msgstr "[_maxine_s_smile_] {i}\"Un chien (et par extension son propriétaire) a le droit d'accéder à n'importe quel centre de formation public.\" {/}"
+msgstr "[_maxine_s_Souriez_] {i}\"Un chien (et par extension son propriétaire) a le droit d'accéder à n'importe quel centre de formation public.\" {/}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:662 #-#-# translate crowdin quest_kate_trick_maxine_55310c42:
 msgid "[_mc_] Seriously?"
@@ -1514,7 +1514,7 @@ msgstr "[_mc_] Je suis le beurre d'arachide à votre gelée."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:706 #-#-# translate crowdin quest_kate_trick_flora_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr "[_flora_s_cringe_] Gross."
+msgstr "[_flora_s_cringe_] Grossier."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:707 #-#-# translate crowdin quest_kate_trick_flora_970eb3e2:
 msgid "[_flora_s_cringe_] I think I'm developing a peanut allergy."
@@ -1792,7 +1792,7 @@ msgstr "[_flora_s_sarcastic_] Je lui fais confiance."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:822 #-#-# translate crowdin quest_kate_trick_park_f6c307df:
 msgid "[_mc_] Hey! So, where's the dog?"
-msgstr "[_mc_] Hey ! Alors, où est le chien ?"
+msgstr "[_mc_] Hé ! Alors, où est le chien ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:823 #-#-# translate crowdin quest_kate_trick_park_c3bf8aaa:
 msgid "[_flora_s_excited_leash_retracted_] [hati]! Here, boy!"
@@ -1860,7 +1860,7 @@ msgstr "[_hati_] Roar ! [withvpunch]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:845 #-#-# translate crowdin quest_kate_trick_park_8ea8abb3:
 msgid "[_mc_] Nooo!"
-msgstr "[_mc_] Nooo !"
+msgstr "[_mc_] Nooon !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:846 #-#-# translate crowdin quest_kate_trick_park_e1e55c50:
 msgid "[_flora_s_laughing_leash_] Just kidding! He's not trained, don't worry."
@@ -1872,7 +1872,7 @@ msgstr "[_mc_] I ... Je ne sais pas si c'est rassurant ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:848 #-#-# translate crowdin quest_kate_trick_park_72606802:
 msgid "[_flora_s_blush_leash_] It'll be fine. [hati] is big, but kind."
-msgstr "[_flora_s_blush_leash_] Ça ira bien. [hati] est grand, mais gentile."
+msgstr "[_flora_s_blush_leash_] Ça ira bien. [hati] est grand, mais gentille."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:849 #-#-# translate crowdin quest_kate_trick_park_5fb2ac61:
 msgid "[_mc_] Uh, maybe you should come along... just in case."
@@ -2004,11 +2004,11 @@ msgstr "[_mc_] Bonjour, [nurse]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:905 #-#-# translate crowdin quest_kate_trick_nurse_4bf31ea7:
 msgid "[_nurse_s_smile_] You know, you shouldn't be cooped up inside when it's such a nice day out."
-msgstr "[_nurse_s_smile_] Tu sais, tu ne devrais pas être enfermé à l'intérieur quand c'est une si belle journée."
+msgstr "[_nurse_s_Souriez_] Tu sais, tu ne devrais pas être enfermé à l'intérieur quand c'est une si belle journée."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:906 #-#-# translate crowdin quest_kate_trick_nurse_a5773eda:
 msgid "[_nurse_s_smile_] Fresh air does wonders for the body and mind!"
-msgstr "[_nurse_s_smile_] L'air frais fait des merveilles pour le corps et l'esprit !"
+msgstr "[_nurse_s_Souriez_] L'air frais fait des merveilles pour le corps et l'esprit !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:907 #-#-# translate crowdin quest_kate_trick_nurse_851aa4ff:
 msgid "[_mc_] Thanks for your concern, but I'm not here to discuss matters concerning my health."
@@ -2148,7 +2148,7 @@ msgstr "[_kate_] Elle est la plus facile que j'ai rencontré."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:981 #-#-# translate crowdin quest_kate_trick_gym_c0e00e5a:
 msgid "[_mc_] Hey, be nice to my dog!"
-msgstr "[_mc_] Hé, être gentile avec mon chien !"
+msgstr "[_mc_] Hé, être gentille avec mon chien !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:983 #-#-# translate crowdin quest_kate_trick_gym_66249813:
 msgid "[_kate_] Don't tell me what to do, else I'll make {i}you{/} my dog."
@@ -2654,7 +2654,7 @@ msgstr "Elle se moque et elle se transforme en un petit peu comme elle s'ajuste 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1246 #-#-# translate crowdin quest_kate_trick_workout_b315f07c:
 msgid "[_mc_] Goddamn, that feels good."
-msgstr "[_mc_] Goddamn, qui se sent bien."
+msgstr "[_mc_] GodBon sang, qui se sent bien."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1248 #-#-# translate crowdin quest_kate_trick_workout_47bf7bbb:
 msgid "This is the physical activity all these muscles were made for. Just pure, primal fucking."
@@ -2878,7 +2878,7 @@ msgstr "[_mc_] Merci, [jo]!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1346 #-#-# translate crowdin quest_kate_trick_report_66b22abc:
 msgid "[_jo_s_smile_] Keep it up, kiddo."
-msgstr "[_jo_s_smile_] Continuez, kidnappez."
+msgstr "[_jo_s_Souriez_] Continuez, kidnappez."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1349 #-#-# translate crowdin quest_kate_trick_report_9f16bd46:
 msgid "[_mc_] Never mind..."
