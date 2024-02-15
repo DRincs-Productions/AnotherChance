@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:40\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_cooking_pot.rpy:34 #-#-# translate crowdin home_kitchen_cooking_pot_interact_f3ddf965:
 msgid "Jesse! We have to cook..."
@@ -66,7 +66,7 @@ msgstr "[_flora_s_neutral_] Ok, ça sent bon, donc je vais laisser glisser cette
 
 # game/1000_base_game/game/locations/home/kitchen/int_cooking_pot.rpy:66 #-#-# translate crowdin home_kitchen_cooking_pot_interact_chilli_recipe_step_six_c16131a8:
 msgid "[_flora_s_concerned_] Anyway, the water wasn't enough to wash the spoon."
-msgstr "[_flora_s_concerned_] En tout cas, l'eau n'était pas suffisante pour laver la cuillon."
+msgstr "[_flora_s_concerned_] En tout cas, l'eau n'était pas suffisante pour laver la cuillère."
 
 # game/1000_base_game/game/locations/home/kitchen/int_cooking_pot.rpy:67 #-#-# translate crowdin home_kitchen_cooking_pot_interact_chilli_recipe_step_six_bb2e7412:
 msgid "[_flora_s_concerned_] Bring me a towel, then salt, and then a lighter."
