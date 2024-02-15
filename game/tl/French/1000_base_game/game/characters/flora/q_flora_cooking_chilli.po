@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
 msgid "You picked up a cooking item. Is it the right one? No one knows."
@@ -62,7 +62,7 @@ msgstr "[_mc_] Qu'est-ce que je n'ai pas fait ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:95 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr "[_flora_s_cringe_] Gross."
+msgstr "[_flora_s_cringe_] Grossier."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:96 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_23cf38a6:
 msgid "I'd love to know what images just popped up in her head."
@@ -158,7 +158,7 @@ msgstr "[_mc_] Bien, pas de drôle d'affaires cette fois. J'essaie de sortir de 
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:137 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_d11e48c1:
 msgid "[_flora_s_smile_] That's good to hear."
-msgstr "[_flora_s_smile_] C'est bien d'entendre."
+msgstr "[_flora_s_Souriez_] C'est bien d'entendre."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:140 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_8fc3f519:
 msgid "[_mc_] Yes, but you're going to have to pay me in food."
@@ -222,7 +222,7 @@ msgstr "[_mc_] Vous êtes les bienvenus !"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:162 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_069d8f84:
 msgid "[_flora_s_smile_] I'm just going to put this here."
-msgstr "[_flora_s_smile_] Je vais juste mettre ça ici."
+msgstr "[_flora_s_Souriez_] Je vais juste mettre ça ici."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:164 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_6e81a916:
 msgid "[_mc_] What are you cooking anyway?"
@@ -450,7 +450,7 @@ msgstr "[_mc_] Tout ce que tu dis, chef."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:276 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_373e5269:
 msgid "[_flora_s_smile_] Thank you."
-msgstr "[_flora_s_smile_] Merci."
+msgstr "[_flora_s_Souriez_] Merci."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:277 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_82e7eba7:
 msgid "[_mc_] I licked one of them."
@@ -466,7 +466,7 @@ msgstr "[_mc_] J'ai pensé que ça apporterait une saveur supplémentaire."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:280 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr "[_flora_s_cringe_] Gross."
+msgstr "[_flora_s_cringe_] Grossier."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:281 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_b5f0123a:
 msgid "[_flora_s_cringe_] I'll have to wash it now."
@@ -1142,7 +1142,7 @@ msgstr "[_flora_] Tais-toi !"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:601 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_98652491:
 msgid "[_flora_s_FloraShowerPoseA1_] Just do it!"
-msgstr "[_flora_s_FloraShowerPoseA1_] Just do it !"
+msgstr "[_flora_s_FloraShowerPoseA1_] Just Fais-le !"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:603 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_0c9cacc1:
 msgid "[_flora_] Eeeeeee! Cold, cold, cold! Too cold!"
@@ -1250,7 +1250,7 @@ msgstr "Compte tenu des circonstances, elle me tuerait probablement si je revena
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:667 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_241cb2d0:
 msgid "[_jo_s_smile_] Hey, kiddo! How's your day?"
-msgstr "[_jo_s_smile_] Hé, blague ! Comment est votre journée ?"
+msgstr "[_jo_s_Souriez_] Hé, blague ! Comment est votre journée ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:668 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_48004927:
 msgid "[_jo_s_neutral_] Your cheeks are a bit red. You're not coming down with something, are you?"
