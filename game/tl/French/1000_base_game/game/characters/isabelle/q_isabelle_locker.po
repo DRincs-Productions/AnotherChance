@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:05\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:8 #-#-# translate crowdin quest_isabelle_locker_start_95c7633a:
 msgid "[_mc_] Are you okay?"
@@ -1250,7 +1250,7 @@ msgstr "[_isabelle_s_cringe_] oeil pour œil parce que le monde est déjà aveug
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:441 #-#-# translate crowdin quest_isabelle_locker_talk_a2f41a83:
 msgid "[_mc_] Well, [maxine] is far from blind — she has eyes everywhere. Stealing [spinach] won't be easy."
-msgstr "[_mc_] Eh bien, [maxine] est loin d'être aveugle - elle a des yeux partout. Voler des [épinards] ne sera pas facile."
+msgstr "[_mc_] Eh bien, [maxine] est loin d'être aveugle - elle a des yeux partout. Voler des [spinach] ne sera pas facile."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:442 #-#-# translate crowdin quest_isabelle_locker_talk_99e88df3:
 msgid "[_isabelle_s_thinking_] But it's possible, right?"
@@ -2102,7 +2102,7 @@ msgstr "[_isabelle_s_concerned_] Qu'a-t-elle fait ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:843 #-#-# translate crowdin quest_isabelle_locker_email_a5df1d15:
 msgid "[_mc_] I was placed in the same group as [lindsey] and [maxine] for an art project once."
-msgstr "[_mc_] J'ai été placée dans le même groupe que [Lindsey] et [Maxine] pour un projet artistique."
+msgstr "[_mc_] J'ai été placée dans le même groupe que [lindsey] et [maxine] pour un projet artistique."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:844 #-#-# translate crowdin quest_isabelle_locker_email_0da969d3:
 msgid "[_mc_] They kicked me out and then proceeded to win the art contest that year."
