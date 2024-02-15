@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:2 #-#-# translate crowdin quest_maxine_eggs_start_7b81f9fd:
 msgid "[_maxine_] You have to schedule an appointment. I'm a very busy woman."
@@ -1038,7 +1038,7 @@ msgstr "[_maxine_s_angry_] Etre concerné par la sécurité de votre ordinateur 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:370 #-#-# translate crowdin quest_maxine_eggs_deliver_98ae6caa:
 msgid "[_mc_] Shh! [spinach] is sleeping."
-msgstr "[_mc_] Le shh ! [spinach] est en train de dormir."
+msgstr "[_mc_] Le shh ! [_mc_] spinach] est en train de dormir."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:372 #-#-# translate crowdin quest_maxine_eggs_deliver_0ef3943d:
 msgid "[_maxine_s_concerned_] I'm sorry, baby! Keep dreaming sweet kitten dreams."
@@ -1150,7 +1150,7 @@ msgstr "[_maxine_] Je l'avais fait sur mesure."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:409 #-#-# translate crowdin quest_maxine_eggs_deliver_c960d9d2:
 msgid "[_mc_] Very fancy, [maxine]."
-msgstr "[_mc_] Très fantaisie, [maxine]."
+msgstr "[_mc_] Très chic, [_mc_] maxine]."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:410 #-#-# translate crowdin quest_maxine_eggs_deliver_9374fe9e:
 msgid "[_maxine_] Thank you."
@@ -1266,7 +1266,7 @@ msgstr "[_maxine_s_neutral_] Alors, je suppose que votre rendez-vous doit attend
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:444 #-#-# translate crowdin quest_maxine_eggs_deliver_2a71f2fb:
 msgid "[_mc_] You said—"
-msgstr "[_mc_] Vous avez dit:"
+msgstr "[_mc_] Vous avez dit -"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:445 #-#-# translate crowdin quest_maxine_eggs_deliver_44e66d13:
 msgid "[_maxine_s_sad_] I have no memory of that."
@@ -1618,7 +1618,7 @@ msgstr "[_lindsey_s_afraid_] -Quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:583 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_2e20b8f6:
 msgid "[_mc_] [maxine] asked me to take a picture of some glowing spider eggs..."
-msgstr "[_mc_] [maxine] m'a demandé de prendre une photo de quelques oeufs d'araignée ..."
+msgstr "[_mc_] [_mc_] maxine] m'a demandé de prendre une photo de quelques œufs d'araignée ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:584 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_a4c23779:
 msgid "[_lindsey_s_cringe_] ..."
@@ -1662,7 +1662,7 @@ msgstr "[_lindsey_s_skeptical_] Sur quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:596 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_274729b9:
 msgid "[_mc_] Glowing spider eggs..."
-msgstr "[_mc_] Oeufs d'araignée ..."
+msgstr "[_mc_] Œufs d'araignée ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:597 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_d5160da3:
 msgid "[_lindsey_s_thinking_] What?"
@@ -1670,7 +1670,7 @@ msgstr "[_lindsey_s_thinking_] Quoi ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:598 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_59293470:
 msgid "[_mc_] It's for [maxine]. She wanted me to take a picture of glowing spider eggs."
-msgstr "[_mc_] C'est pour [maxine]. Elle voulait que je prenne une photo des oeufs d'araignée."
+msgstr "[_mc_] C'est pour [_mc_] maxine]. Elle voulait que je prenne une photo des œufs d'araignée."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:599 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_9f445a54:
 msgid "[_lindsey_s_skeptical_] Are you serious?"
@@ -1718,7 +1718,7 @@ msgstr "[_lindsey_s_Souriez_] Alors, quelle est la portée ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:614 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_75ac8dc3:
 msgid "[_mc_] I'm not exactly sure, but I'm supposed to take a picture of glowing spider eggs."
-msgstr "[_mc_] Je ne suis pas sûr, mais je suis censé prendre une photo des oeufs d'araignée."
+msgstr "[_mc_] Je ne suis pas sûr, mais je suis censé prendre une photo des œufs d'araignée."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:615 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_ab69c367:
 msgid "[_lindsey_s_skeptical_] Sounds like a joke to me..."
