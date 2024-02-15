@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:26\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/leyline_indicator.rpy:50 #-#-# translate crowdin int_leyline_locator_charge_bb60e552:
 msgid "This thing is dead. It does seem to run on electricity, though... perhaps there's a way to charge it?"
@@ -46,7 +46,7 @@ msgstr "[_lll_] {i}... {/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:198 #-#-# translate crowdin locator_button_2_interact_final_ec9b3800:
 msgid "[_lll_] {i}Ley Line Pattern: Complete.{/}"
-msgstr "[_lll_] {i}Modèle de trait Ley: terminé. {/}"
+msgstr "[_lll_] {i}Ley Line Pattern : Complet"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:199 #-#-# translate crowdin locator_button_2_interact_final_da47c3cf_1:
 msgid "[_lll_] {i}...{/}"
@@ -54,7 +54,7 @@ msgstr "[_lll_] {i}... {/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:201 #-#-# translate crowdin locator_button_2_interact_final_78f037d0:
 msgid "[_lll_] {i}4th node successfully located.{/}"
-msgstr "[_lll_] {i}4ème noeud trouvé. {/}"
+msgstr "[_lll_] {i}4ème nœud localisé avec succès.{/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:207 #-#-# translate crowdin locator_button_2_interact_final_9f4986ea_1:
 msgid "[_lll_] {i}Triangulating positions...{/}"
@@ -66,7 +66,7 @@ msgstr "[_lll_] {i}... {/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:209 #-#-# translate crowdin locator_button_2_interact_final_ec9b3800_1:
 msgid "[_lll_] {i}Ley Line Pattern: Complete.{/}"
-msgstr "[_lll_] {i}Modèle de trait Ley: terminé. {/}"
+msgstr "[_lll_] {i}Ley Line Pattern : Complet"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:210 #-#-# translate crowdin locator_button_2_interact_final_da47c3cf_3:
 msgid "[_lll_] {i}...{/}"
@@ -90,7 +90,7 @@ msgstr "[_lll_] {i}... {/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:219 #-#-# translate crowdin locator_button_2_interact_ec9b3800:
 msgid "[_lll_] {i}Ley Line Pattern: Complete.{/}"
-msgstr "[_lll_] {i}Modèle de trait Ley: terminé. {/}"
+msgstr "[_lll_] {i}Ley Line Pattern : Complet"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:220 #-#-# translate crowdin locator_button_2_interact_da47c3cf_1:
 msgid "[_lll_] {i}...{/}"
