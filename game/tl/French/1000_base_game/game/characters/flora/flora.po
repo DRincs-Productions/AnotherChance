@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:20\n"
+"PO-Revision-Date: 2024-02-15 07:33\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/flora/flora.rpy:2267 #-#-# translate crowdin flora_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
@@ -70,7 +70,7 @@ msgstr "[_flora_s_sarcastic_] J'ai vu ça."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2306 #-#-# translate crowdin flora_talk_four_548ac5ec:
 msgid "[_mc_] Saw what?"
-msgstr "[_mc_] Saw quoi ?"
+msgstr "[_mc_] Vu quoi ?"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2307 #-#-# translate crowdin flora_talk_four_786f7473:
 msgid "[_flora_s_sarcastic_] The way you looked at the TA."
@@ -178,7 +178,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2381 #-#-# translate crowdin flora_flirt_two_dcdb7025:
 msgid "[_mc_] Ants!"
-msgstr "[_mc_] Ants !"
+msgstr "[_mc_] Fourmis !"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2382 #-#-# translate crowdin flora_flirt_two_80e87e15:
 msgid "[_flora_s_neutral_] Close, but no!"
@@ -194,7 +194,7 @@ msgstr "[_flora_s_laughing_] Quoi ? Non ! Ce n'est pas vrai du tout ... heh !"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2391 #-#-# translate crowdin flora_flirt_two_fd63bd49:
 msgid "[_mc_] Cats."
-msgstr "[_mc_] Cats."
+msgstr "[_mc_] Chats."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2392 #-#-# translate crowdin flora_flirt_two_459eba06:
 msgid "[_flora_s_neutral_] They're cute, but no."
@@ -202,7 +202,7 @@ msgstr "[_flora_s_neutral_] Ils sont mignons, mais non."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2395 #-#-# translate crowdin flora_flirt_two_9ff19176:
 msgid "[_mc_] Badgers."
-msgstr "[_mc_] Badgers."
+msgstr "[_mc_] Blaireaux."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2396 #-#-# translate crowdin flora_flirt_two_f5d34e0c:
 msgid "[_flora_s_neutral_] I am a Hufflepuff, but no, not badgers."
