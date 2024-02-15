@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:00\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:3 #-#-# translate crowdin isabelle_quest_stolen_start_d518eb58:
 msgid "[_isabelle_s_angry_] Can you bloody believe it?!"
@@ -90,7 +90,7 @@ msgstr "[_isabelle_s_thinking_] Hmm ... Je pense que c'était ce matin pendant m
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:26 #-#-# translate crowdin isabelle_quest_stolen_start_8587e4a7:
 msgid "[_mc_] I was with [kate] then, so it definitely wasn't her."
-msgstr "[_mc_] J'étais avec [kate] à l'époque, donc ce n'était certainement pas elle."
+msgstr "[_mc_] J'étais avec [_mc_] kate] à l'époque, donc ce n'était certainement pas elle."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:27 #-#-# translate crowdin isabelle_quest_stolen_start_a51ff68b:
 msgid "It feels a bit wrong to lie, but her throwing baseless accusations around is just as bad."
@@ -1466,7 +1466,7 @@ msgstr "[_isabelle_s_angry_] Ne me dites pas de me calmer !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:565 #-#-# translate crowdin isabelle_quest_stolen_dilemma_49274735:
 msgid "[_mc_] One simply doesn't attack [kate] without a plan... there's always jocks around who will kick your ass if you get into a fight."
-msgstr "[_mc_] On n'attaque pas [kate] sans plan... il y a toujours des sportifs qui vous botteront le cul si vous vous battez."
+msgstr "[_mc_] On n'attaque pas [_mc_] kate] sans plan... il y a toujours des sportifs qui vous botteront le cul si vous vous battez."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:566 #-#-# translate crowdin isabelle_quest_stolen_dilemma_f02b80e3:
 msgid "[_mc_] Be smart about this."
@@ -2606,7 +2606,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1030 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_7a050915:
 msgid "[_mc_] No, [kate]'s littering."
-msgstr "[_mc_] Non, [kate] jette des détritus."
+msgstr "[_mc_] Non, [_mc_] kate] jette des détritus."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1032 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_1959ee42:
 msgid "[_kate_s_angry_] What did you just say?!"
