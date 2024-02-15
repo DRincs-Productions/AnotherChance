@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3 #-#-# translate crowdin mrsl_quest_HOT_start_9598f0ee:
 msgid "[mrsl] seems lost in thought. Her eyes wander slowly over the gym."
@@ -550,7 +550,7 @@ msgstr "[_flora_s_excited_] Par exemple, je pense que vous auriez pu passer plus
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:210 #-#-# translate crowdin mrsl_quest_lindsey_talk_8cb2445c:
 msgid "[_flora_s_confident_] Unless frizzle-mop is the look you went for. Ten out of ten, if so."
-msgstr "[_flora_s_confident_] À moins que la mop de fribuse soit le look que vous avez fait. Dix sur dix, si oui."
+msgstr "[_flora_s_confident_] A moins que vous n'ayez opté pour une coiffure en frisottis. Dix sur dix, si c'est le cas."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:211 #-#-# translate crowdin mrsl_quest_lindsey_talk_fa45f281:
 msgid "[_mc_] Thanks..."
@@ -602,7 +602,7 @@ msgstr "[_flora_s_sarcastic_] Juste cette fois."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:240 #-#-# translate crowdin mrsl_quest_lindsey_talk_c025ff09:
 msgid "[_mc_] Anyway... has either of you heard of something called \"High-intensity Omni-flex Training?\""
-msgstr "[Quoi qu'il en soit, l'un d'entre vous a-t-il entendu parler de ce qu'on appelle \"l'entraînement omni-flex à haute intensité?\""
+msgstr "[_mc_] Quoi qu'il en soit, l'un d'entre vous a-t-il entendu parler de ce qu'on appelle \"l'entraînement omni-flex à haute intensité?\""
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:241 #-#-# translate crowdin mrsl_quest_lindsey_talk_2bf498f4:
 msgid "[_lindsey_s_thinking_] Hmm... that sounds like one of those 90s training programs."
@@ -670,7 +670,7 @@ msgstr "[_jo_s_thinking_] J'ai parcouru un grand nombre de ces programmes au fil
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:265 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_2ad50bb0:
 msgid "[_mc_] Does High-intensity Omni-flex Training ring any bells?"
-msgstr "[L'entraînement omniflexe de haute intensité, ça vous dit quelque chose ?"
+msgstr "[_mc_] L'entraînement omniflexe de haute intensité, ça vous dit quelque chose ?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:266 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_66d30b15:
 msgid "[_jo_s_sad_] I don't remember the names. I'd have to go down there and check."
@@ -866,7 +866,7 @@ msgstr "Elle n'a rien dit sur le porno régulier, cependant !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:342 #-#-# translate crowdin mrsl_quest_HOT_flora_text_447cef3a:
 msgid "[_mc_] I like putting you to work, [flora]. No amount of money will change that!"
-msgstr "[J'aime vous faire travailler, [flora]. Aucune somme d'argent n'y changera rien !"
+msgstr "[_mc_] J'aime vous faire travailler, [flora]. Aucune somme d'argent n'y changera rien !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:345 #-#-# translate crowdin mrsl_quest_HOT_flora_text_83178c20:
 msgid "[_flora_] Fuck off."
@@ -1142,7 +1142,7 @@ msgstr "[_jo_s_Souriez_] Hé, chérie ! Comment va votre journée jusqu'à prés
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:461 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_4b73269c:
 msgid "[_mc_] It's... a bit weird. I dreamt that [kate] cut a hole in my head and tried to eat my soul with a spoon."
-msgstr "[C'est... un peu bizarre. J'ai rêvé que [Kate] faisait un trou dans ma tête et essayait de manger mon âme avec une cuillère."
+msgstr "[_mc_] C'est... un peu bizarre. J'ai rêvé que [_mc_] Kate] faisait un trou dans ma tête et essayait de manger mon âme avec une cuillère."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:462 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_d8669efa:
 msgid "[_jo_s_concerned_] That doesn't sound like [kate]."
@@ -1250,7 +1250,7 @@ msgstr "[_mc_] Pourquoi supposes-tu toujours que je suis en difficulté quand on
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:497 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_304adacd:
 msgid "[_flora_s_laughing_] I always assume you're in trouble, period."
-msgstr "[_flora_s_laughing_] Je suppose toujours que vous avez des ennues, une période."
+msgstr "[_flora_s_laughing_] Je suppose toujours que vous avez des problèmes, point final."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:498 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_fc3fe025:
 msgid "[_jo_s_laughing_] He's not in trouble right now, but the day isn't over yet!"
@@ -1398,7 +1398,7 @@ msgstr "[_jo_s_confident_] Il a été assez bien récemment ... Je dois dire que
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:548 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_3a6bfd8f:
 msgid "[_flora_s_laughing_] That just means you haven't found out about his latest misdeeds!"
-msgstr "[_flora_s_laughing_] Cela signifie que vous n'avez pas découvert ses toutes dernières méfaits !"
+msgstr "[_flora_s_laughing_] Cela signifie que vous n'avez pas découvert ses toutes derniers méfaits !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:549 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_f11eb718:
 msgid "[_jo_s_confident_] I'd like to keep a positive mindset about it."
@@ -1458,7 +1458,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:569 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_f0a72fbc:
 msgid "[_mc_] None of your goddamn business."
-msgstr "[Ça ne vous regarde pas."
+msgstr "[_mc_] Ça ne vous regarde pas."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:570 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_ae4476c0:
 msgid "[_flora_s_angry_] I made cake and now you won't get any!"
@@ -1594,7 +1594,7 @@ msgstr "[_mc_] Eh bien, cette fois je suis !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:609 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_b74557cd:
 msgid "[_mc_] I need it to watch vintage porn."
-msgstr "[J'en ai besoin pour regarder du porno vintage."
+msgstr "[_mc_] J'en ai besoin pour regarder du porno vintage."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:610 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
@@ -1634,11 +1634,11 @@ msgstr "[_flora_s_angry_] Je n'ai pas cette discussion avec vous."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:619 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_22d71be1:
 msgid "[_mc_] Y' ymg' kadishtu n'ghft gotha!"
-msgstr "[ _mc_ ] Y'ymg'kadishtu n'ghft gotha !"
+msgstr "[_mc_]  _mc_ ] Y'ymg'kadishtu n'ghft gotha !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:621 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_3bd8b2b5:
 msgid "[_flora_s_laughing_] Stop it!"
-msgstr "[_flora_s_laughing_] Arrhez-le !"
+msgstr "[_flora_s_laughing_] arrêtez-le !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:622 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_ed065e5a:
 msgid "[_mc_] Are you impressed?"
