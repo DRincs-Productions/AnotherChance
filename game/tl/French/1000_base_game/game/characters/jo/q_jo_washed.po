@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:05\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:43 #-#-# translate crowdin quest_jo_washed_start_0d7bce5a:
 msgid "Sometimes when life gets rough, it's easier to just escape."
@@ -996,7 +996,7 @@ msgstr "[_kate_s_blush_] Maintenant, avez-vous quelque chose que vous vouiez dem
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:456 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_611b22c9:
 msgid "[_mc_] Please, I'm begging you, [kate]..."
-msgstr "[_mc_] S'il vous plaît, je vous supplique, [kate]..."
+msgstr "[_mc_] S'il vous plaît, je vous en supplie, [_mc_] Kate]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:457 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_77472603:
 msgid "[_mc_] ...please, give me the signs for the fundraiser."
@@ -1756,7 +1756,7 @@ msgstr "[_jacklyn_s_annoyed_sponges_] Whoa ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:838 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_5661e94c:
 msgid "[_mc_] Good whoa? Bad whoa?"
-msgstr "[_mc_] Bon whoa ? Bad whoa ?"
+msgstr "[_mc_] Bon whoa ? Mauvais ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:839 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_20cfc997:
 msgid "[_jacklyn_s_annoyed_sponges_] Next one whoa."
@@ -2686,7 +2686,7 @@ msgstr "[_jo_s_afraid_] C'est très flatteur, [mc], mais je ne suis pas sûr que
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1183 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_2014fed1:
 msgid "[_mc_] It is. [flora] would tell you the same."
-msgstr "[_mc_] C'est le. [flora] vous dirait la même."
+msgstr "[_mc_] C'est le. [_mc_] flora] vous dirait la même."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1184 #-#-# translate crowdin quest_jo_washed_insecure_bathroom_e377110d:
 msgid "[_mc_] Besides, [jo], it's a car wash!"
@@ -2910,7 +2910,7 @@ msgstr "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_Souriez_s_kate_s_neutral
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1265 #-#-# translate crowdin quest_jo_washed_fundraiser_f82f86f0:
 msgid "[_mc_] I had to search the school for [jo]."
-msgstr "[_mc_] I had to search the school for [jo]."
+msgstr "[_mc_] J'ai dû chercher [_mc_] jo] dans l'école."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1266 #-#-# translate crowdin quest_jo_washed_fundraiser_db0a335e:
 msgid "[_flora_s_car_wash_s_flora_s_neutral_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_hose_dripping_s_wet_s_new_cars_] Was something wrong?"
