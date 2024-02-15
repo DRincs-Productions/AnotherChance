@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-15 23:42\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:3 #-#-# translate crowdin quest_kate_stepping_start_b9e60c75:
 msgid "[_kate_s_skeptical_] What have I told you about looking at me?"
@@ -70,7 +70,7 @@ msgstr "[_mc_] Vous ne devriez absolument pas, mais ce n'est pas mon opinion."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:25 #-#-# translate crowdin quest_kate_stepping_start_6d233da1:
 msgid "[_mc_] I was reading [flora]'s Cosmololitan last night and saw a model with your exact hairstyle, only less shiny."
-msgstr "[J'ai lu le Cosmolitan de [flora] hier soir et j'ai vu un mannequin qui avait exactement la même coiffure que vous, mais en moins brillant."
+msgstr "[_mc_] J'ai lu le Cosmolitan de [flora] hier soir et j'ai vu un mannequin qui avait exactement la même coiffure que vous, mais en moins brillant."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:26 #-#-# translate crowdin quest_kate_stepping_start_599e16fa:
 msgid "[_mc_] It's been voted hairstyle of the year by a panel of distinguished fashion judges."
@@ -82,7 +82,7 @@ msgstr "[_kate_s_thinking_] Vraiement ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:28 #-#-# translate crowdin quest_kate_stepping_start_731fa1af:
 msgid "[_mc_] Yes, you're ahead of Paris in both style and glamour."
-msgstr "[Oui, vous avez une longueur d'avance sur Paris en matière de style et de glamour."
+msgstr "[_mc_] Oui, vous avez une longueur d'avance sur Paris en matière de style et de glamour."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:30 #-#-# translate crowdin quest_kate_stepping_start_4db6ab4b:
 msgid "[_kate_s_blush_] I like that! I want others to know about it too!"
@@ -392,7 +392,7 @@ msgstr "[_kate_s_flirty_] Qui dit que je porte n'importe quoi ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:167 #-#-# translate crowdin quest_kate_stepping_start_e232d0b3:
 msgid "[_mc_] !!!"
-msgstr "[_mc_]!!!"
+msgstr "[_mc_] !!!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:168 #-#-# translate crowdin quest_kate_stepping_start_7d88eb38:
 msgid "[_kate_s_laughing_] Forget it, weirdo."
@@ -532,7 +532,7 @@ msgstr "[_kate_s_neutral_] Voulez-vous une médaille ? Est-ce de cela qu'il s'ag
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:225 #-#-# translate crowdin quest_kate_stepping_start_73bdbfeb:
 msgid "[_mc_] No, but I would appreciate it if you stopped being a bitch."
-msgstr "[Non, mais j'apprécierais que tu arrêtes d'être une garce."
+msgstr "[_mc_] Non, mais j'apprécierais que tu arrêtes d'être une garce."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:227 #-#-# translate crowdin quest_kate_stepping_start_19c6a8e1:
 msgid "[_kate_s_neutral_] As soon as you stop being an ugly loser, which I doubt will happen any time soon."
@@ -552,7 +552,7 @@ msgstr "[_kate_s_confident_] Je savais que vous étiez un comédien shitty."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:231 #-#-# translate crowdin quest_kate_stepping_start_cef5fbd3:
 msgid "[_mc_] Let's just go..."
-msgstr "[Allons-y..."
+msgstr "[_mc_] Allons-y..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:232 #-#-# translate crowdin quest_kate_stepping_start_8eb89873:
 msgid "[_kate_s_neutral_] ..."
@@ -664,7 +664,7 @@ msgstr "[_flora_s_afraid_cop_] -Quoi ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:282 #-#-# translate crowdin quest_kate_stepping_magazine_e2ed05de:
 msgid "[_mc_] That's what it sounded like. Like, {i}hee-haw, hee-haw!{/}"
-msgstr "[C'est à ça que ça ressemblait. Comme, {i}hee-haw, hee-haw!{/}"
+msgstr "[_mc_] C'est à ça que ça ressemblait. Comme, {i}hee-haw, hee-haw!{/}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:283 #-#-# translate crowdin quest_kate_stepping_magazine_d7503171:
 msgid "[_flora_s_embarrassed_cop_] You're lying!"
@@ -748,7 +748,7 @@ msgstr "[_mc_] Le laiton contre la paume de votre main ... le matériau lisse, p
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:311 #-#-# translate crowdin quest_kate_stepping_magazine_094560ab:
 msgid "[_mc_] Worn by time and use... oiled by generations of door oilers..."
-msgstr "[Usé par le temps et l'usage... huilé par des générations de graisseurs de portes..."
+msgstr "[_mc_] Usé par le temps et l'usage... huilé par des générations de graisseurs de portes..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:312 #-#-# translate crowdin quest_kate_stepping_magazine_7564aed7:
 msgid "[_mc_] No, [flora]. {i}Your{/} hand is on the doorknob."
@@ -780,7 +780,7 @@ msgstr "[_flora_s_angry_cop_] Je ne vous donne pas un coup de pouce au grenier p
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:325 #-#-# translate crowdin quest_kate_stepping_magazine_1c136aa0:
 msgid "[_mc_] What? Don't be ridiculous."
-msgstr "[Quoi ? Ne soyez pas ridicule."
+msgstr "[_mc_] Quoi ? Ne soyez pas ridicule."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:326 #-#-# translate crowdin quest_kate_stepping_magazine_bd014f83:
 msgid "[_mc_] You'll help me with that after the sun comes out."
@@ -792,7 +792,7 @@ msgstr "[_flora_s_concerned_cop_] Fat chance."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:328 #-#-# translate crowdin quest_kate_stepping_magazine_450fa915:
 msgid "[_mc_] It wasn't what I had in mind, though. I need to borrow a Cosmololitan issue."
-msgstr "[Ce n'est pas ce que j'avais en tête. Je dois emprunter un numéro de Cosmolitan."
+msgstr "[_mc_] Ce n'est pas ce que j'avais en tête. Je dois emprunter un numéro de Cosmolitan."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:329 #-#-# translate crowdin quest_kate_stepping_magazine_cca5a477:
 msgid "[_mc_] Specifically, the one with the French hairstyles."
@@ -1504,7 +1504,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:586 #-#-# translate crowdin quest_kate_stepping_meeting_533adc27:
 msgid "[_mc_] Uh, yeah... the flasher, of course! Who hasn't?"
-msgstr "[Euh, oui... le clignotant, bien sûr ! Qui ne l'a pas fait ?"
+msgstr "[_mc_] Euh, oui... le clignotant, bien sûr ! Qui ne l'a pas fait ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:587 #-#-# translate crowdin quest_kate_stepping_meeting_987cde9f:
 msgid "[_maxine_s_annoyed_] I'm highly skeptical of this. Very little escapes my watchful eye."
@@ -1524,7 +1524,7 @@ msgstr "[_maxine_s_skeptical_] Comment personne n'a encore rapporté cette perso
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:591 #-#-# translate crowdin quest_kate_stepping_meeting_b0fd1c2d:
 msgid "[_mc_] Because it's a woman. And the dudes like it."
-msgstr "[Parce que c'est une femme. Et les mecs l'aiment bien."
+msgstr "[_mc_] Parce que c'est une femme. Et les mecs l'aiment bien."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:592 #-#-# translate crowdin quest_kate_stepping_meeting_d7f1f021:
 msgid "[_kate_s_thinking_] She's also wearing a mask, so you can't identify her."
@@ -1694,7 +1694,7 @@ msgstr "[_mc_] Oh, oui. Définitivement plus grand que ça."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:648 #-#-# translate crowdin quest_kate_stepping_meeting_a8d1e777:
 msgid "[_mc_] It's probably even bigger than the glowing spider eggs story."
-msgstr "[C'est probablement encore plus important que l'histoire des œufs d'araignée incandescents."
+msgstr "[_mc_] C'est probablement encore plus important que l'histoire des œufs d'araignée incandescents."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:649 #-#-# translate crowdin quest_kate_stepping_meeting_b3ee6e24:
 msgid "[_maxine_s_excited_] Whoa! Okay, now I'm interested!"
@@ -1936,7 +1936,7 @@ msgstr "[_kate_s_thinking_] Maintenant, allez."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:763 #-#-# translate crowdin quest_kate_stepping_gym_e1a999c5:
 msgid "[_mc_] I want you as my mistress."
-msgstr "[Je vous veux comme maîtresse."
+msgstr "[_mc_] Je vous veux comme maîtresse."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:764 #-#-# translate crowdin quest_kate_stepping_gym_e3d57738:
 msgid "[_kate_s_laughing_] Of course you do, you little weirdo."
@@ -2052,7 +2052,7 @@ msgstr "Crap. Je n'ai vraiment pas pensé à ça."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:813 #-#-# translate crowdin quest_kate_stepping_isabelle_1fc6d733:
 msgid "[_mc_] Sort of? I took a sip to try it..."
-msgstr "[En quelque sorte ? J'ai pris une gorgée pour essayer..."
+msgstr "[_mc_] En quelque sorte ? J'ai pris une gorgée pour essayer..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:815 #-#-# translate crowdin quest_kate_stepping_isabelle_5cf6d80c:
 msgid "[_isabelle_s_cringe_] That's a bit weird, innit?"
@@ -2088,7 +2088,7 @@ msgstr "[_isabelle_s_eyeroll_] Oui ? Pourquoi est-il ouvert, alors ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:826 #-#-# translate crowdin quest_kate_stepping_isabelle_9a29ca03:
 msgid "[_mc_] I, um... I bought one for me as well... but ended up opening yours... by accident?"
-msgstr "[Je, euh... J'en ai acheté un pour moi aussi... mais j'ai fini par ouvrir le tien... par accident ?"
+msgstr "[_mc_] Je, euh... J'en ai acheté un pour moi aussi... mais j'ai fini par ouvrir le tien... par accident ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:827 #-#-# translate crowdin quest_kate_stepping_isabelle_efab9cd4:
 msgid "[_isabelle_s_laughing_] Oh, okay. Cheers!"
@@ -2321,7 +2321,7 @@ msgstr "[_kate_] Que voulez-vous ?"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:939 #-#-# translate crowdin quest_kate_stepping_phone_call_kate_9e2eccea:
 msgid "[_mc_] I've put [isabelle] to sleep\n"
 "in the English classroom..."
-msgstr "[J'ai endormi [isabelle] sur\n"
+msgstr "[_mc_] J'ai endormi [isabelle] sur\n"
 "dans la classe d'anglais..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:940 #-#-# translate crowdin quest_kate_stepping_phone_call_kate_bece9498:
@@ -2333,7 +2333,7 @@ msgstr "[_kate_] Oh, bien. Nous viendrons au\n"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:941 #-#-# translate crowdin quest_kate_stepping_phone_call_kate_bea2149f:
 msgid "[_mc_] Did you hang up\n"
 "on me before?"
-msgstr "[Tu m'as déjà raccroché au nez à l'adresse\n"
+msgstr "[_mc_] Tu m'as déjà raccroché au nez à l'adresse\n"
 "?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:942 #-#-# translate crowdin quest_kate_stepping_phone_call_kate_dc07b6bf:
@@ -2634,7 +2634,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1058 #-#-# translate crowdin quest_kate_stepping_party_5f7e11fb:
 msgid "[_mc_] That was definitely a \"fuck you,\" no doubt about it."
-msgstr "[C'était vraiment un \"va te faire foutre\", il n'y a aucun doute là-dessus."
+msgstr "[_mc_] C'était vraiment un \"va te faire foutre\", il n'y a aucun doute là-dessus."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1059 #-#-# translate crowdin quest_kate_stepping_party_a940e37c:
 msgid "[isabelle] is a lot tougher than they think."
