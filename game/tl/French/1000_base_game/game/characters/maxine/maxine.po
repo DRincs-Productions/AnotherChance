@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-09 16:03\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/maxine/maxine.rpy:1622 #-#-# translate crowdin maxine_talk_one_e47f2210:
 msgid "[_maxine_s_afraid_] Not now, the Vending Corporation is trying to pull the wool over my eyes!"
@@ -26,15 +26,15 @@ msgstr "[_maxine_s_concerned_] Les choses ne sont jamais telles qu'elles apparai
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1643 #-#-# translate crowdin maxine_talk_four_29aea6cc:
 msgid "[_mc_] Hey, [maxine]! What are you up to?"
-msgstr "[_mc_] Hey, [maxine]! Qu'est-ce que tu veux?"
+msgstr "[_mc_] Hé, [maxine]! Qu'est-ce que tu veux ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1644 #-#-# translate crowdin maxine_talk_four_4a567f3d:
 msgid "[_maxine_s_smile_popcorn_] Just enjoying the show."
-msgstr "[_maxine_s_smile_popcorn_] Juste profiter du spectacle."
+msgstr "[_maxine_s_Souriez_popcorn_] Juste profiter du spectacle."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1645 #-#-# translate crowdin maxine_talk_four_a14f6922:
 msgid "[_mc_] What show?"
-msgstr "[_mc_] Quelle exposition?"
+msgstr "[_mc_] Quelle exposition ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1646 #-#-# translate crowdin maxine_talk_four_c0d3964a:
 msgid "[_maxine_s_neutral_popcorn_] Don't mind me."
@@ -54,7 +54,7 @@ msgstr "[_maxine_s_skeptical_] Il s'agit d'un exercice de sécurité de routine,
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1664 #-#-# translate crowdin maxine_flirt_one_b68a2eef:
 msgid "[_maxine_s_skeptical_] What is the most dangerous thing in the school?"
-msgstr "[_maxine_s_skeptical_] Quelle est la chose la plus dangereuse dans l'école?"
+msgstr "[_maxine_s_skeptical_] Quelle est la chose la plus dangereuse dans l'école ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1667 #-#-# translate crowdin maxine_flirt_one_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -66,7 +66,7 @@ msgstr "[_mc_] Le spécimen dans la zone 12."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1673 #-#-# translate crowdin maxine_flirt_one_d6968e1c:
 msgid "[_maxine_s_smile_] I see you've been paying attention."
-msgstr "[_maxine_s_smile_] Je vois que vous avez fait attention."
+msgstr "[_maxine_s_Souriez_] Je vois que vous avez fait attention."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1676 #-#-# translate crowdin maxine_flirt_one_f314ceed:
 msgid "[_mc_] Ignorance."
@@ -94,15 +94,15 @@ msgstr "[_mc_] Les produits chimiques dans la salle de classe scientifique."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1688 #-#-# translate crowdin maxine_flirt_one_0a5b6702:
 msgid "[_maxine_s_smile_] Oh, you sweet summer child..."
-msgstr "[_maxine_s_smile_] Oh, vous avez un bon enfant d'été ..."
+msgstr "[_maxine_s_Souriez_] Oh, vous avez un bon enfant d'été ..."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1695 #-#-# translate crowdin maxine_flirt_two_82a7578f:
 msgid "[_maxine_s_annoyed_] Are you hitting on me again?"
-msgstr "[_maxine_s_annoyed_] Est-ce que vous me frapperez à nouveau?"
+msgstr "[_maxine_s_annoyed_] Est-ce que vous me frapperez à nouveau ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1696 #-#-# translate crowdin maxine_flirt_two_9e6f11df:
 msgid "[_mc_] Me?"
-msgstr "[_mc_] Me?"
+msgstr "[_mc_] Me ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1697 #-#-# translate crowdin maxine_flirt_two_7f97c43e:
 msgid "[_maxine_s_eyeroll_] Yes, you."
@@ -110,7 +110,7 @@ msgstr "[_maxine_s_eyeroll_] Oui, vous."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1698 #-#-# translate crowdin maxine_flirt_two_b826ec1f:
 msgid "[_mc_] I don't think so?"
-msgstr "[_mc_] Je ne crois pas?"
+msgstr "[_mc_] Je ne crois pas ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1699 #-#-# translate crowdin maxine_flirt_two_11992a49:
 msgid "[_maxine_s_skeptical_] That's not what it looked like to me."
@@ -126,7 +126,7 @@ msgstr "[_mc_] Je cherchais juste le distributeur de pop-corn."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1706 #-#-# translate crowdin maxine_flirt_two_cc1d4ab1:
 msgid "[_maxine_s_thinking_] What for?"
-msgstr "[_maxine_s_thinking_] Quoi?"
+msgstr "[_maxine_s_thinking_] Quoi ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1707 #-#-# translate crowdin maxine_flirt_two_cfb42170:
 msgid "[_mc_] Just so I can better enjoy the show."
@@ -146,7 +146,7 @@ msgstr "[_maxine_s_neutral_] Je n'ai pas besoin d'une position élevée en ce mo
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1715 #-#-# translate crowdin maxine_flirt_two_99ed62e1:
 msgid "[_maxine_s_smile_] But I'll let you know if I do in the future."
-msgstr "[_maxine_s_smile_] Mais je vous ferai savoir si je le ferai à l'avenir."
+msgstr "[_maxine_s_Souriez_] Mais je vous ferai savoir si je le ferai à l'avenir."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1716 #-#-# translate crowdin maxine_flirt_two_f12ef168:
 msgid "[_mc_] That's not..."
@@ -154,11 +154,11 @@ msgstr "[_mc_] Ce n'est pas ..."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1719 #-#-# translate crowdin maxine_flirt_two_0fac7776:
 msgid "[_mc_] What did it look like to you?"
-msgstr "[_mc_] À quoi ressemblait-on à vous?"
+msgstr "[_mc_] À quoi ressemblait-on à vous ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1720 #-#-# translate crowdin maxine_flirt_two_8345600f:
 msgid "[_maxine_s_smile_] I'm glad you asked."
-msgstr "[_maxine_s_smile_] Je suis heureux que vous l'avez demandé."
+msgstr "[_maxine_s_Souriez_] Je suis heureux que vous l'avez demandé."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1721 #-#-# translate crowdin maxine_flirt_two_9f0e5b39:
 msgid "[_maxine_s_neutral_] To me, it looked like you were trying to put your penis inside me."
@@ -170,19 +170,19 @@ msgstr "[_mc_] C'est. .. Je n'étais pas !"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1723 #-#-# translate crowdin maxine_flirt_two_1bcc67e8:
 msgid "[_maxine_s_concerned_] Oh? Okay... if you want it the other way around, then you should ask [jacklyn] or [kate]."
-msgstr "[_maxine_s_concerned_] Oh? Ok ... si tu veux que l'autre voie, tu devrais demander [jacklyn] ou [kate]."
+msgstr "[_maxine_s_concerned_] Oh ? Ok ... si tu veux que l'autre voie, tu devrais demander [jacklyn] ou [kate]."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1724 #-#-# translate crowdin maxine_flirt_two_c1dd52d0:
 msgid "[_mc_] What? No! That's not what I meant!"
-msgstr "[_mc_] Quoi? Non ! Ce n'est pas ce que je voulais dire !"
+msgstr "[_mc_] Quoi ? Non ! Ce n'est pas ce que je voulais dire !"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1731 #-#-# translate crowdin maxine_flirt_three_fdcac1e7:
 msgid "[_mc_] Hey, [maxine]!"
-msgstr "[_mc_] Hey, [maxine]!"
+msgstr "[_mc_] Hé, [maxine]!"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1732 #-#-# translate crowdin maxine_flirt_three_57494b38:
 msgid "[_maxine_s_smile_] Greetings, fellow Newfaller."
-msgstr "[_maxine_s_smile_] Greetings, fellow Newfaller."
+msgstr "[_maxine_s_Souriez_] Greetings, fellow Newfaller."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1733 #-#-# translate crowdin maxine_flirt_three_4308d1e6:
 msgid "[_mc_] I just wanted to tell you that..."
@@ -202,7 +202,7 @@ msgstr "[_maxine_s_thinking_] Alors, la grenouille empoisonnée, mais elle est t
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1741 #-#-# translate crowdin maxine_flirt_three_55deb2fb:
 msgid "[_mc_] Are you saying you're poisonous or that you're a frog?"
-msgstr "[_mc_] Êtes-vous en train de dire que vous êtes venimeux ou que vous êtes une grenouille?"
+msgstr "[_mc_] Êtes-vous en train de dire que vous êtes venimeux ou que vous êtes une grenouille ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1742 #-#-# translate crowdin maxine_flirt_three_2b3c9ce9:
 msgid "[_maxine_s_excited_] Indeed."
@@ -222,7 +222,7 @@ msgstr "[_maxine_s_eyeroll_] C'est impossible."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1750 #-#-# translate crowdin maxine_flirt_three_0c672d75:
 msgid "[_mc_] Never heard of time traveling?"
-msgstr "[_mc_] Jamais entendu parler de voyage?"
+msgstr "[_mc_] Jamais entendu parler de voyage ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1751 #-#-# translate crowdin maxine_flirt_three_8d8c36ec:
 msgid "[_maxine_s_skeptical_] Logic dictates that once you've traveled back in time, you're correcting the future."
@@ -242,7 +242,7 @@ msgstr "[_mc_] J'ai travaillé."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1759 #-#-# translate crowdin maxine_flirt_three_744a2744:
 msgid "[_maxine_s_concerned_] Why?"
-msgstr "[_maxine_s_concerned_] Pourquoi?"
+msgstr "[_maxine_s_concerned_] Pourquoi ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1760 #-#-# translate crowdin maxine_flirt_three_ce564b93:
 msgid "[_mc_] Because I thought you'd like it."
@@ -250,7 +250,7 @@ msgstr "[_mc_] Parce que je pensais que vous l'aimeriez."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1761 #-#-# translate crowdin maxine_flirt_three_a407bed6:
 msgid "[_maxine_s_thinking_] Why would I like you tightening and releasing your muscles repeatedly?"
-msgstr "[_maxine_s_thinking_] Pourquoi est-ce que je vous aime serrer et libérer vos muscles à plusieurs reprises?"
+msgstr "[_maxine_s_thinking_] Pourquoi est-ce que je vous aime serrer et libérer vos muscles à plusieurs reprises ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1762 #-#-# translate crowdin maxine_flirt_three_85cd303f:
 msgid "[_mc_] I meant that you might like me better now."
@@ -258,7 +258,7 @@ msgstr "[_mc_] Je voulais dire que tu m'aimes mieux maintenant."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1763 #-#-# translate crowdin maxine_flirt_three_049963d4:
 msgid "[_maxine_s_smile_] The size of your muscle fibers is of no consequence to me."
-msgstr "[_maxine_s_smile_] La taille de vos fibres musculaires n'a aucune conséquence pour moi."
+msgstr "[_maxine_s_Souriez_] La taille de vos fibres musculaires n'a aucune conséquence pour moi."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1764 #-#-# translate crowdin maxine_flirt_three_9476aba6:
 msgid "That does make sense... somehow."
@@ -270,11 +270,11 @@ msgstr "[_mc_] Je me suis retourné."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1768 #-#-# translate crowdin maxine_flirt_three_fcb67213:
 msgid "[_maxine_s_neutral_] And what did you see?"
-msgstr "[_maxine_s_neutral_] Et qu'avez-vous vu?"
+msgstr "[_maxine_s_neutral_] Et qu'avez-vous vu ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1769 #-#-# translate crowdin maxine_flirt_three_841724a7:
 msgid "[_mc_] Are you serious? What do you see other than the room?"
-msgstr "[_mc_] Êtes-vous sérieux? Qu'est-ce que vous voyez autre que la chambre?"
+msgstr "[_mc_] Êtes-vous sérieux ? Qu'est-ce que vous voyez autre que la chambre ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1770 #-#-# translate crowdin maxine_flirt_three_6814cb58:
 msgid "[_maxine_s_skeptical_] A screen..."
@@ -286,7 +286,7 @@ msgstr "[_maxine_s_skeptical_] Une personne."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1772 #-#-# translate crowdin maxine_flirt_three_1caaef9d:
 msgid "[_mc_] A person?"
-msgstr "[_mc_] Une personne?"
+msgstr "[_mc_] Une personne ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1773 #-#-# translate crowdin maxine_flirt_three_c9c97ab8:
 msgid "[_maxine_s_concerned_] Some kind of primate, at least."
@@ -294,7 +294,7 @@ msgstr "[_maxine_s_concerned_] Une sorte de primate, du moins."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1774 #-#-# translate crowdin maxine_flirt_three_a0fbd51e:
 msgid "[_mc_] There's a monkey behind me?!"
-msgstr "[_mc_] Il y a un singe derrière moi?"
+msgstr "[_mc_] Il y a un singe derrière moi ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1775 #-#-# translate crowdin maxine_flirt_three_b78528cb:
 msgid "[_maxine_s_flirty_] I'm glad you're finally starting to question your reality, but I've already said too much."
@@ -302,7 +302,7 @@ msgstr "[_maxine_s_flirty_] Je suis heureux que vous ayez enfin commencé à rem
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1776 #-#-# translate crowdin maxine_flirt_three_116ece15:
 msgid "What the fuck is she on about?"
-msgstr "De quoi a-t-elle été baise?"
+msgstr "De quoi a-t-elle été baise ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1783 #-#-# translate crowdin maxine_flirt_over_7d6bfd23:
 msgid "She must be sick of my poor attempts at flirting by now..."
@@ -334,7 +334,7 @@ msgstr "\" Ok, bien. J'essayais de te chercher. \""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1701
 msgid "\"What did it look like to you?\""
-msgstr "\"À quoi ça ressemblait?\""
+msgstr "\"À quoi ça ressemblait ?\""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1735
 msgid "\"You look absolutely delicious today!\""
