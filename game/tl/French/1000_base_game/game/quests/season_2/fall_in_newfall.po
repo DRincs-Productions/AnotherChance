@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:21\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:89 #-#-# translate crowdin quest_fall_in_newfall_not_started_home_bedroom_bed_7b854a1e:
 msgid "My work here is done."
@@ -316,7 +316,7 @@ msgstr "Je pourrais certainement dormir pendant un peu plus longtemps, mais une 
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:387 #-#-# translate crowdin quest_fall_in_newfall_break_over_home_bedroom_door_1515b0a9:
 msgid "[_flora_s_smile_] Hey!"
-msgstr "[_flora_s_smile_] Hé !"
+msgstr "[_flora_s_Souriez_] Hé !"
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:388 #-#-# translate crowdin quest_fall_in_newfall_break_over_home_bedroom_door_81e4d630:
 msgid "[_mc_] Shit, you scared me."
@@ -324,7 +324,7 @@ msgstr "[_mc_] Shit, tu m'as fait peur."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:389 #-#-# translate crowdin quest_fall_in_newfall_break_over_home_bedroom_door_90b590be:
 msgid "[_flora_s_smile_] Sorry! I thought you were still asleep."
-msgstr "[_flora_s_smile_] Désolé ! Je pensais que tu dormais encore."
+msgstr "[_flora_s_Souriez_] Désolé ! Je pensais que tu dormais encore."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:390 #-#-# translate crowdin quest_fall_in_newfall_break_over_home_bedroom_door_63712349:
 msgid "[_mc_] Were you spying on me?"
@@ -910,7 +910,7 @@ msgstr "[_mc_] I'll, err ... keep that in mind."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:640 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_179c6318:
 msgid "Goddamn, close encounters of the craziest kind."
-msgstr "Goddamn, des rencontres étroites du genre le plus fou."
+msgstr "GodBon sang, des rencontres étroites du genre le plus fou."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:643 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_46b7fe52:
 msgid "[_mc_] I don't have any on me..."
@@ -992,7 +992,7 @@ msgstr "[_kate_s_laughing_] Nous avons corrigé les choses pendant la pause."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:676 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_7efdc5a3:
 msgid "[_kate_s_smile_right_] Right, [isabelle]?"
-msgstr "[_kate_s_smile_right_] Droit, [isabelle] ?"
+msgstr "[_kate_s_Souriez_right_] Droit, [isabelle] ?"
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:677 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_3abcd7a3:
 msgid "[_isabelle_s_neutral_] Right."
@@ -1000,11 +1000,11 @@ msgstr "[_isabelle_s_neutral_] Droit."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:678 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_9f1f2c52:
 msgid "[_kate_s_smile_right_] We went over some things, and sorted out our differences."
-msgstr "[_kate_s_smile_right_] Nous avons surpassé certaines choses et nous avons réglé nos différences."
+msgstr "[_kate_s_Souriez_right_] Nous avons surpassé certaines choses et nous avons réglé nos différences."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:679 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_f1b57891:
 msgid "[_kate_s_smile_right_] It took some effort, but I made her see things from my perspective."
-msgstr "[_kate_s_smile_right_] Cela a pris un peu d'effort, mais je l'ai fait voir des choses de mon point de vue."
+msgstr "[_kate_s_Souriez_right_] Cela a pris un peu d'effort, mais je l'ai fait voir des choses de mon point de vue."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:680 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_8ed38a85:
 msgid "[_kate_s_gushing_] Oh! And, by the way, we're dating now."
@@ -1072,7 +1072,7 @@ msgstr "Merde. Je vais devoir réparer ça plus tard."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:712 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_fb612052:
 msgid "[_isabelle_s_laughing_] Heya!"
-msgstr "[_isabelle_s_laughing_] Heya !"
+msgstr "[_isabelle_s_laughing_] Héa !"
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:713 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_9c78e427:
 msgid "Her smile always makes my heart a little bit lighter..."
