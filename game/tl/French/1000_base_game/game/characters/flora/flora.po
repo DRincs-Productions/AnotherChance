@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 17:39\n"
+"PO-Revision-Date: 2024-02-15 22:00\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/flora/flora.rpy:2267 #-#-# translate crowdin flora_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
@@ -42,7 +42,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2281 #-#-# translate crowdin flora_talk_one_deb24e58:
 msgid "[_flora_s_confused_] You didn't even move!"
-msgstr "[_flora_s_confused_] Vous n'avez même pas boueu !"
+msgstr "[_flora_s_confused_] Tu n'as même pas bougé !"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2288 #-#-# translate crowdin flora_talk_two_c725d4b6:
 msgid "[_flora_s_excited_] [jo] said I'm getting a new terrarium for my ant farm this year!"
@@ -74,7 +74,7 @@ msgstr "[_mc_] Vu quoi ?"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2307 #-#-# translate crowdin flora_talk_four_786f7473:
 msgid "[_flora_s_sarcastic_] The way you looked at the TA."
-msgstr "[_flora_s_sarcastic_] La façon dont vous avez regardé la TA."
+msgstr "[_flora_s_sarcastic_] La façon dont vous avez regardé le TA."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2308 #-#-# translate crowdin flora_talk_four_1b9e82e9:
 msgid "[_mc_] I don't know what you're talking about."
@@ -106,7 +106,7 @@ msgstr "[_mc_] Je ne l'ai pas fait."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2327 #-#-# translate crowdin flora_talk_six_582de3d4:
 msgid "[_flora_s_angry_] I've told you not to touch my plushies."
-msgstr "[_flora_s_angry_] Je vous ai dit de ne pas toucher mes plushies."
+msgstr "[_flora_s_angry_] Je t'ai dit de ne pas toucher à mes peluches."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2328 #-#-# translate crowdin flora_talk_six_c5ade06b:
 msgid "[_mc_] Isn't it in the kitchen above the stove?"
@@ -206,7 +206,7 @@ msgstr "[_mc_] Blaireaux."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2396 #-#-# translate crowdin flora_flirt_two_f5d34e0c:
 msgid "[_flora_s_neutral_] I am a Hufflepuff, but no, not badgers."
-msgstr "[_flora_s_neutral_] Je suis un Hufflepuff, mais non, pas de blaireaux."
+msgstr "[_flora_s_neutral_] Je suis une Poufsouffle, mais non, pas des blaireaux."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2403 #-#-# translate crowdin flora_flirt_three_57c8a557:
 msgid "[_flora_s_neutral_] What kind of date do you think I'd like the most?"
@@ -306,7 +306,7 @@ msgstr "[_flora_s_concerned_] Depuis que vous aimez m'embarrasser tellement ..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2463 #-#-# translate crowdin flora_flirt_five_567edf05:
 msgid "[_flora_s_concerned_] Tell me something about me that is wholesome but embarrassing."
-msgstr "[_flora_s_concerned_] Dis-moi quelque chose sur moi qui est sain mais embarrassant."
+msgstr "[_flora_s_concerned_] Dites-moi quelque chose de sain mais de gênant à mon sujet."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2466 #-#-# translate crowdin flora_flirt_five_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -338,7 +338,7 @@ msgstr "[_mc_] Vous me donnez toujours un temps difficile parce que vous m'aimez
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2481 #-#-# translate crowdin flora_flirt_five_34425ff9:
 msgid "[_flora_s_eyeroll_] Don't flatter yourself."
-msgstr "[_flora_s_eyeroll_] Ne vous flatter pas."
+msgstr "[_flora_s_eyeroll_] Ne vous flattez pas."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2484 #-#-# translate crowdin flora_flirt_five_9f07f6f7:
 msgid "[_mc_] You act all prim and proper around [jo] to get her on my ass."
