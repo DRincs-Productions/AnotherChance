@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:11\n"
+"PO-Revision-Date: 2024-02-15 14:32\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:3 #-#-# translate crowdin jacklyn_quest_art_focus_start_c48426d3:
 msgid "[_mc_] I'd like to sign up for your class, please."
@@ -18,7 +18,7 @@ msgstr "[_mc_] J'aimerais vous inscrire pour votre classe, s'il vous plaît."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:4 #-#-# translate crowdin jacklyn_quest_art_focus_start_d600bc04:
 msgid "[_jacklyn_s_smile_] What's your name, shooter?"
-msgstr "[_jacklyn_s_smile_] Quel est votre nom, tireur ?"
+msgstr "[_jacklyn_s_Souriez_] Quel est votre nom, tireur ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:5 #-#-# translate crowdin jacklyn_quest_art_focus_start_bd7d9df9:
 msgid "[_mc_] [mc]."
@@ -106,11 +106,11 @@ msgstr "[_jacklyn_s_neutral_] Branchez les fontaines d'eau salée, weepy. Tu aur
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:32 #-#-# translate crowdin jacklyn_quest_art_focus_start_e988bcbe:
 msgid "[_jacklyn_s_smile_] All students have access to the shop, you just won't be on my shortlist."
-msgstr "[_jacklyn_s_smile_] Tous les étudiants ont accès à la boutique, vous ne serez pas sur ma liste."
+msgstr "[_jacklyn_s_Souriez_] Tous les étudiants ont accès à la boutique, vous ne serez pas sur ma liste."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:33 #-#-# translate crowdin jacklyn_quest_art_focus_start_21a6a957:
 msgid "[_jacklyn_s_smile_] You're still getting a basic education."
-msgstr "[_jacklyn_s_smile_] Vous avez toujours une éducation de base."
+msgstr "[_jacklyn_s_Souriez_] Vous avez toujours une éducation de base."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:34 #-#-# translate crowdin jacklyn_quest_art_focus_start_c78f9799:
 msgid "[_mc_] What about [isabelle]? You haven't even seen her work yet!"
@@ -118,7 +118,7 @@ msgstr "[_mc_] Qu'en est-il du [isabelle] ? Vous n'avez même pas encore vu son 
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:35 #-#-# translate crowdin jacklyn_quest_art_focus_start_c7c84b41:
 msgid "[_jacklyn_s_smile_] Exchange students aren't my dolls to dress up. The bigwigs of the board decide their fate."
-msgstr "[_jacklyn_s_smile_] Les étudiants d'échange ne sont pas mes poupées pour m'habiller. Les fanatiques du conseil décident de leur sort."
+msgstr "[_jacklyn_s_Souriez_] Les étudiants d'échange ne sont pas mes poupées pour m'habiller. Les fanatiques du conseil décident de leur sort."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:36 #-#-# translate crowdin jacklyn_quest_art_focus_start_849cde22:
 msgid "[_mc_] Anything I can do to change your mind?"
@@ -138,7 +138,7 @@ msgstr "[_jacklyn_s_thinking_] Le meurtre n'est pas une question de pratique ; c
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:42 #-#-# translate crowdin jacklyn_quest_art_focus_start_678dcd08:
 msgid "[_jacklyn_s_smile_] See that easel with the blank canvas? Make it your crime scene and we'll talk again."
-msgstr "[_jacklyn_s_smile_] Voir cette chevalet avec la toile blanche ? Faites de votre scène de crime et nous reparlerons."
+msgstr "[_jacklyn_s_Souriez_] Voir cette chevalet avec la toile blanche ? Faites de votre scène de crime et nous reparlerons."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:45 #-#-# translate crowdin jacklyn_quest_art_focus_start_e1805c2b:
 msgid "[_mc_] Art is a stupid subject anyway. Just spatter some paint on a canvas and hang it in a gallery."
@@ -246,7 +246,7 @@ msgstr "Je ne devrais probablement pas lui dire que j'ai utilisé le [item.title
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:93 #-#-# translate crowdin jacklyn_art_focus_easel_use_456ca6c5:
 msgid "[_jacklyn_s_smile_] That's hot as fuck."
-msgstr "[_jacklyn_s_smile_] C'est chaud comme une merde."
+msgstr "[_jacklyn_s_Souriez_] C'est chaud comme une merde."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:94 #-#-# translate crowdin jacklyn_art_focus_easel_use_55310c42:
 msgid "[_mc_] Seriously?"
@@ -254,7 +254,7 @@ msgstr "[_mc_] Sérieusement ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:95 #-#-# translate crowdin jacklyn_art_focus_easel_use_13314f08:
 msgid "[_jacklyn_s_smile_] Yeah, the raw emotion. It's tearing me a new asshole!"
-msgstr "[_jacklyn_s_smile_] Oui, l'émotion brute. C'est me déchirant un nouveau connard !"
+msgstr "[_jacklyn_s_Souriez_] Oui, l'émotion brute. C'est me déchirant un nouveau connard !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:96 #-#-# translate crowdin jacklyn_art_focus_easel_use_1c90cea3:
 msgid "[_mc_] That's a good thing?"
@@ -278,11 +278,11 @@ msgstr "Je ne peux pas croire qu'elle est en rafales sur mon art, mais ce qu'ell
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:101 #-#-# translate crowdin jacklyn_art_focus_easel_use_b7b41004:
 msgid "[_jacklyn_s_smile_] Honestly, you've got it."
-msgstr "[_jacklyn_s_smile_] Honnêtement, vous l'avez."
+msgstr "[_jacklyn_s_Souriez_] Honnêtement, vous l'avez."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:102 #-#-# translate crowdin jacklyn_art_focus_easel_use_6ff640d8:
 msgid "[_jacklyn_s_smile_] Channeling your rage into the colors and ripping them across the canvas. Makes my left foot all moist."
-msgstr "[_jacklyn_s_smile_] Channeling your rage into the colors and ripping them across the canvas. Rend mon pied gauche tout humide."
+msgstr "[_jacklyn_s_Souriez_] Channeling your rage into the colors and ripping them across the canvas. Rend mon pied gauche tout humide."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:103 #-#-# translate crowdin jacklyn_art_focus_easel_use_b5919512:
 msgid "[_mc_] Thanks, I guess. It did feel good letting it all out."
@@ -298,7 +298,7 @@ msgstr "[_jacklyn_s_neutral_] Les pillards étaient censés être brisés."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:106 #-#-# translate crowdin jacklyn_art_focus_easel_use_60e41d65:
 msgid "[_jacklyn_s_smile_] I'll tell you what. You, me, and half a dozen spray cans..."
-msgstr "[_jacklyn_s_smile_] Je vais vous dire quoi. Toi, moi, et une demi-douzaine de bidons ..."
+msgstr "[_jacklyn_s_Souriez_] Je vais vous dire quoi. Toi, moi, et une demi-douzaine de bidons ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:108 #-#-# translate crowdin jacklyn_art_focus_easel_use_304b655f:
 msgid "[_jacklyn_s_excited_right_] You have my number. Let's go out and make a statement!"
@@ -418,7 +418,7 @@ msgstr "[_jacklyn_s_thinking_]..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:160 #-#-# translate crowdin jacklyn_quest_art_focus_jacklyn_2f29093b:
 msgid "[_jacklyn_s_smile_] It's not toilet water, that's for sure."
-msgstr "[_jacklyn_s_smile_] Ce n'est pas de l'eau de toilette, c'est sûr."
+msgstr "[_jacklyn_s_Souriez_] Ce n'est pas de l'eau de toilette, c'est sûr."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:161 #-#-# translate crowdin jacklyn_quest_art_focus_jacklyn_94075107:
 msgid "[_mc_] Thanks, I guess."
@@ -434,7 +434,7 @@ msgstr "[_jacklyn_s_neutral_] I was tort about you, [mc]."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:164 #-#-# translate crowdin jacklyn_quest_art_focus_jacklyn_14274d2a:
 msgid "[_jacklyn_s_smile_] You've upped your bang from last year. You're welcome to join my special class."
-msgstr "[_jacklyn_s_smile_] Vous avez enregistré votre bang depuis l'année dernière. Vous êtes les bienvenus pour rejoindre ma classe spéciale."
+msgstr "[_jacklyn_s_Souriez_] Vous avez enregistré votre bang depuis l'année dernière. Vous êtes les bienvenus pour rejoindre ma classe spéciale."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:167 #-#-# translate crowdin jacklyn_quest_art_focus_jacklyn_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -510,7 +510,7 @@ msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:212 #-#-# translate crowdin jacklyn_contact_second_chance_486f02e7:
 msgid "[_mc_] Hey! Stealing is illegal!"
-msgstr "[_mc_] Hey ! Le vol est illégal !"
+msgstr "[_mc_] Hé ! Le vol est illégal !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:213 #-#-# translate crowdin jacklyn_contact_second_chance_286b77a9:
 msgid "[_flora_s_annoyed_texting_] Don't care. What's your password?"
@@ -522,7 +522,7 @@ msgstr "[_mc_] Vous ne serez jamais en mesure de deviner-"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:215 #-#-# translate crowdin jacklyn_contact_second_chance_54209243:
 msgid "[_flora_s_eyeroll_texting_] Gross. I knew it was something perverted."
-msgstr "[_flora_s_eyeroll_texting_] Gross. Je savais que c'était quelque chose perverti."
+msgstr "[_flora_s_eyeroll_texting_] Grossier. Je savais que c'était quelque chose perverti."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:216 #-#-# translate crowdin jacklyn_contact_second_chance_26111757:
 msgid "[_flora_s_annoyed_texting_] I need to make a call. Be right back."
@@ -530,7 +530,7 @@ msgstr "[_flora_s_annoyed_texting_] Je dois faire un appel. Sois juste en arriè
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:218 #-#-# translate crowdin jacklyn_contact_second_chance_0c994870:
 msgid "[_mc_] Damn it, [flora]!"
-msgstr "[_mc_] Damn it, [flora]!"
+msgstr "[_mc_] Bon sang, [flora] !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:220 #-#-# translate crowdin jacklyn_contact_second_chance_c64a0b3d:
 msgid "Well, she better not use up all the battery. I have a Snake high score to beat."
@@ -574,7 +574,7 @@ msgstr "[_mc_] Alors, quelle est la bonne nouvelle ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:232 #-#-# translate crowdin jacklyn_contact_second_chance_0ed85e78:
 msgid "[_flora_s_smile_] Good news?"
-msgstr "[_flora_s_smile_] Bonnes nouvelles ?"
+msgstr "[_flora_s_Souriez_] Bonnes nouvelles ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:233 #-#-# translate crowdin jacklyn_contact_second_chance_07579bba:
 msgid "[_mc_] When you first got in here, you were all grumpy. Now, you're glowing."
@@ -630,7 +630,7 @@ msgstr "[_flora_s_eyeroll_texting_] C'est bizarre. Vous agissez bizarre."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:248 #-#-# translate crowdin jacklyn_contact_second_chance_41dbd668:
 msgid "[_mc_] Look, I'm just trying to be nice for a change."
-msgstr "[_mc_] Ecoutez, j'essaie juste d'être gentile pour un changement."
+msgstr "[_mc_] Ecoutez, j'essaie juste d'être gentille pour un changement."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:249 #-#-# translate crowdin jacklyn_contact_second_chance_f199022c:
 msgid "[_mc_] If you don't want to borrow the phone, that's okay."
@@ -642,7 +642,7 @@ msgstr "[_mc_] Si vous le faites, n'hésitez pas à faire un pas en dehors de vo
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:253 #-#-# translate crowdin jacklyn_contact_second_chance_5c64a58e:
 msgid "[_flora_s_annoyed_texting_] Okay. Thanks for being nice, but it is a bit creepy. I don't know if I like it."
-msgstr "[_flora_s_annoyed_texting_] Ok. Merci d'être gentile, mais c'est un peu flirtant. Je ne sais pas si j'aime ça."
+msgstr "[_flora_s_annoyed_texting_] Ok. Merci d'être gentille, mais c'est un peu flirtant. Je ne sais pas si j'aime ça."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:256 #-#-# translate crowdin jacklyn_contact_second_chance_8ac262a8:
 msgid "I wonder if I'll ever get her to fully trust me."
