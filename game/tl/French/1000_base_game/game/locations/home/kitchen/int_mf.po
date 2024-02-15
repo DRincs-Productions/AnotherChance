@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:41\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:50 #-#-# translate crowdin home_kitchen_mf_interact_flora_bonsai_d6cedc54:
 msgid "I already got enough items. I should give them to [flora]."
@@ -94,9 +94,9 @@ msgstr "La cuisine de l'école a probablement de l'ail, donc c'est un bon endroi
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:68
 msgid "{image=items bottle milk}|Milk"
-msgstr "{ image=items lait de bouteille } | Lait"
+msgstr "{image=items lait de bouteille}|Lait"
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:68
 msgid "{image=items bottle pepelepsi}|Pepelepsi"
-msgstr "{ image=items bouteille pepelepsi } | Pepelepsi"
+msgstr "{image=items bouteille pepelepsi}|Pepelepsi"
 
