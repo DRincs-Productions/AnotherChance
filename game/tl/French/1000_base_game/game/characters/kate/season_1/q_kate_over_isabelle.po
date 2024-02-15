@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:21\n"
+"PO-Revision-Date: 2024-02-15 11:19\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:5 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_aeb844b7:
 msgid "[_isabelle_s_laughing_] Hi, [kate]. Do you have a minute?"
@@ -18,7 +18,7 @@ msgstr "[_isabelle_s_laughing_] Salut, [kate]. As-tu une minute ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:6 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_de17496b:
 msgid "[_kate_s_smile_] For you two? Forget it."
-msgstr "[_kate_s_smile_] Pour vous deux ? Oublie ça."
+msgstr "[_kate_s_Souriez_] Pour vous deux ? Oublie ça."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:7 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_239bd252:
 msgid "[_isabelle_s_eyeroll_] What's your deal? Are you always this much of a wanker?"
@@ -78,7 +78,7 @@ msgstr "Mais si quelqu'un est né une chienne, ce serait [kate]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:29 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_8189f2e7:
 msgid "[_kate_s_smile_] The only tragedy here is the company."
-msgstr "[_kate_s_smile_] La seule tragédie ici, c'est l'entreprise."
+msgstr "[_kate_s_Souriez_] La seule tragédie ici, c'est l'entreprise."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:30 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_19bf8541:
 msgid "[_isabelle_s_annoyed_] You know what? I'm over it... come on, [mc], let's go."
@@ -122,7 +122,7 @@ msgstr "[_isabelle_s_annoyed_left_] Screw you, [kate]!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:57 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_8b11a494:
 msgid "[_kate_s_smile_right_] Keep dreaming, sweetheart."
-msgstr "[_kate_s_smile_right_] Keep dreaming, sweetheart."
+msgstr "[_kate_s_Souriez_right_] Keep dreaming, sweetheart."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:64 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_9cc33135:
 msgid "It's weird... even though [kate] throws her usual insults my way, it feels different having someone to share them with. Less painful, somehow."
@@ -162,7 +162,7 @@ msgstr "[_isabelle_s_annoyed_left_] Pourquoi tu dois être si grossier, [kate] ?
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:80 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_cbc52b35:
 msgid "[_kate_s_smile_right_] The only rude one here is you, thinking it's okay to give me lip. Do you know who I am?"
-msgstr "[_kate_s_smile_right_] La seule grossière ici, c'est toi, pensant que c'est bon de me donner de la lèvre. Savez-vous qui je suis ?"
+msgstr "[_kate_s_Souriez_right_] La seule grossière ici, c'est toi, pensant que c'est bon de me donner de la lèvre. Savez-vous qui je suis ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:81 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_9cb3e357:
 msgid "[_isabelle_s_annoyed_left_] I know you're a proper twat."
@@ -250,7 +250,7 @@ msgstr "[_isabelle_s_annoyed_left_] Screw you, [kate]!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:119 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_8b11a494_1:
 msgid "[_kate_s_smile_right_] Keep dreaming, sweetheart."
-msgstr "[_kate_s_smile_right_] Keep dreaming, sweetheart."
+msgstr "[_kate_s_Souriez_right_] Keep dreaming, sweetheart."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:126 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_9cc33135_1:
 msgid "It's weird... even though [kate] throws her usual insults my way, it feels different having someone to share them with. Less painful, somehow."
@@ -330,7 +330,7 @@ msgstr "Et elle m'a rencontré ! C'est un compliment si j'en ai vu un."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:164 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_fff64686:
 msgid "[_kate_s_smile_right_] If you keep running into trouble, maybe you're the problem?"
-msgstr "[_kate_s_smile_right_] Si vous continuez à courir des problèmes, peut-être que vous êtes le problème ?"
+msgstr "[_kate_s_Souriez_right_] Si vous continuez à courir des problèmes, peut-être que vous êtes le problème ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:165 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_0e466934:
 msgid "[_isabelle_s_annoyed_left_] Whatever."
@@ -350,7 +350,7 @@ msgstr "[_mc_] Si vous ne regardez pas votre bouche, [kate], je vous gouge les y
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:180 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_8cfa4ddc:
 msgid "[_isabelle_s_afraid_] What?! What's wrong with you?"
-msgstr "[_isabelle_s_afraid_] Quoi ? ! Qu'est-ce qui ne va pas avec toi ?"
+msgstr "[_isabelle_s_afraid_] Quoi ?! Qu'est-ce qui ne va pas avec toi ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:183 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_43be07a4:
 msgid "[_kate_s_cringe_] Get some help, psycho."
@@ -390,7 +390,7 @@ msgstr "Mais si quelqu'un est né une chienne, ce serait [kate]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:192 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_8189f2e7_1:
 msgid "[_kate_s_smile_] The only tragedy here is the company."
-msgstr "[_kate_s_smile_] La seule tragédie ici, c'est l'entreprise."
+msgstr "[_kate_s_Souriez_] La seule tragédie ici, c'est l'entreprise."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:193 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_19bf8541_1:
 msgid "[_isabelle_s_annoyed_] You know what? I'm over it... come on, [mc], let's go."
@@ -434,7 +434,7 @@ msgstr "[_isabelle_s_annoyed_left_] Screw you, [kate]!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:220 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_8b11a494_2:
 msgid "[_kate_s_smile_right_] Keep dreaming, sweetheart."
-msgstr "[_kate_s_smile_right_] Keep dreaming, sweetheart."
+msgstr "[_kate_s_Souriez_right_] Keep dreaming, sweetheart."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:227 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_9cc33135_2:
 msgid "It's weird... even though [kate] throws her usual insults my way, it feels different having someone to share them with. Less painful, somehow."
@@ -482,7 +482,7 @@ msgstr "Mais si quelqu'un est né une chienne, ce serait [kate]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:244 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_kate_8189f2e7:
 msgid "[_kate_s_smile_] The only tragedy here is the company."
-msgstr "[_kate_s_smile_] La seule tragédie ici, c'est l'entreprise."
+msgstr "[_kate_s_Souriez_] La seule tragédie ici, c'est l'entreprise."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:245 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_kate_6cfaff49:
 msgid "[_isabelle_s_eyeroll_] Good, because I'm leaving. See you in the English classroom, [mc]."
@@ -494,7 +494,7 @@ msgstr "[_kate_s_laughing_] Off you go ! C'était si dur ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:249 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_kate_98856200:
 msgid "[_kate_s_smile_] ..."
-msgstr "[_kate_s_smile_]..."
+msgstr "[_kate_s_Souriez_]..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:250 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_kate_2b35b6fe:
 msgid "[_mc_] ..."
@@ -522,7 +522,7 @@ msgstr "[_mc_] Clairement."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:267 #-#-# translate crowdin kate_over_isabelle_choosing_kate_c86a9320:
 msgid "[_kate_s_smile_] You were always a loser and a freak, but at least you never tried something that stupid..."
-msgstr "[_kate_s_smile_] Vous avez toujours été un loser et un freak, mais au moins vous n'avez jamais essayé quelque chose de stupide ..."
+msgstr "[_kate_s_Souriez_] Vous avez toujours été un loser et un freak, mais au moins vous n'avez jamais essayé quelque chose de stupide ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:268 #-#-# translate crowdin kate_over_isabelle_choosing_kate_3c600e93:
 msgid "[_mc_] Thanks, I guess..."
@@ -554,7 +554,7 @@ msgstr "[_kate_s_laughing_] Oh mon Dieu, non ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:279 #-#-# translate crowdin kate_over_isabelle_choosing_kate_b1f520a6:
 msgid "[_kate_s_smile_] Okay, so here's what's going to happen..."
-msgstr "[_kate_s_smile_] D'accord, voici ce qui va se passer ..."
+msgstr "[_kate_s_Souriez_] D'accord, voici ce qui va se passer ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:280 #-#-# translate crowdin kate_over_isabelle_choosing_kate_8fb385a6:
 msgid "[_kate_s_confident_] You're going to keep an eye on her and report back to me."
@@ -706,7 +706,7 @@ msgstr "[_mc_] Pas assez bon."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:343 #-#-# translate crowdin kate_over_isabelle_choosing_kate_34a76850:
 msgid "[_kate_s_smile_] You think you have a bargaining chip here?"
-msgstr "[_kate_s_smile_] Vous pensez avoir une monnaie d'échange ici ?"
+msgstr "[_kate_s_Souriez_] Vous pensez avoir une monnaie d'échange ici ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:344 #-#-# translate crowdin kate_over_isabelle_choosing_kate_4cc7003c:
 msgid "[_mc_] Yes, I do think that. You've already wasted your chances with her."
@@ -738,7 +738,7 @@ msgstr "[_mc_] Je veux être laissé seul."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:356 #-#-# translate crowdin kate_over_isabelle_choosing_kate_5faf7b2f:
 msgid "[_kate_s_smile_] That's it?"
-msgstr "[_kate_s_smile_] C'est ça ?"
+msgstr "[_kate_s_Souriez_] C'est ça ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:357 #-#-# translate crowdin kate_over_isabelle_choosing_kate_919943ff:
 msgid "[_mc_] Yes, that's it. No jocks. No nothing."
@@ -750,7 +750,7 @@ msgstr "[_kate_s_laughing_] Je leur ferai savoir que vous êtes mon petit dogme 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:359 #-#-# translate crowdin kate_over_isabelle_choosing_kate_6c2abe3f:
 msgid "[_mc_] Deal."
-msgstr "[_mc_] Deal."
+msgstr "[_mc_] marché conclu."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:360 #-#-# translate crowdin kate_over_isabelle_choosing_kate_ebf3ad24_1:
 msgid "[_kate_s_confident_] Okay, so here's what's going to happen..."
@@ -806,7 +806,7 @@ msgstr "[_kate_s_laughing_] Croit-moi, je vais faire un spectacle pour toute l'�
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:381 #-#-# translate crowdin kate_over_isabelle_choosing_kate_6c2abe3f_1:
 msgid "[_mc_] Deal."
-msgstr "[_mc_] Deal."
+msgstr "[_mc_] marché conclu."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:382 #-#-# translate crowdin kate_over_isabelle_choosing_kate_ebf3ad24_2:
 msgid "[_kate_s_confident_] Okay, so here's what's going to happen..."
@@ -1114,7 +1114,7 @@ msgstr "[_kate_s_laughing_] Quel nerd !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:491 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_163543a9:
 msgid "[_kate_s_smile_right_] Okay, let me think..."
-msgstr "[_kate_s_smile_right_] Ok, laisse-moi penser ..."
+msgstr "[_kate_s_Souriez_right_] Ok, laisse-moi penser ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:492 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_3a605e27:
 msgid "[_kate_s_confident_] Bring me a pair of handcuffs, a dog collar, a bottle of ice tea, and some sleeping pills."
@@ -1214,7 +1214,7 @@ msgstr "[_kate_s_laughing_] Je t'ai bien traitée !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:528 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_329f9511:
 msgid "[_kate_s_smile_] Tell me, has anyone bothered you since you started helping me?"
-msgstr "[_kate_s_smile_] Dis-moi, est-ce que quelqu'un t'a pris la peine depuis que tu as commencé à m'aider ?"
+msgstr "[_kate_s_Souriez_] Dis-moi, est-ce que quelqu'un t'a pris la peine depuis que tu as commencé à m'aider ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:529 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_cc761816:
 msgid "[_mc_] No..."
@@ -1254,7 +1254,7 @@ msgstr "[_kate_s_laughing_] Une boisson de base pour une salope de base."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:543 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_34a0e5d9:
 msgid "[_kate_s_smile_] Okay, I'll need you to bring me a few things."
-msgstr "[_kate_s_smile_] Ok, j'ai besoin que tu m'apporte quelques trucs."
+msgstr "[_kate_s_Souriez_] Ok, j'ai besoin que tu m'apporte quelques trucs."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:544 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_824cc9bd:
 msgid "[_mc_] Name them, ma'am."
@@ -1322,7 +1322,7 @@ msgstr "[_kate_s_laughing_] Quel nerd absolu !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:563 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_163543a9_1:
 msgid "[_kate_s_smile_right_] Okay, let me think..."
-msgstr "[_kate_s_smile_right_] Ok, laisse-moi penser ..."
+msgstr "[_kate_s_Souriez_right_] Ok, laisse-moi penser ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:564 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_3a605e27_2:
 msgid "[_kate_s_confident_] Bring me a pair of handcuffs, a dog collar, a bottle of ice tea, and some sleeping pills."
