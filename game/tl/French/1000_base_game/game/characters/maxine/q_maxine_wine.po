@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:20\n"
+"PO-Revision-Date: 2024-02-15 14:32\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:2 #-#-# translate crowdin quest_maxine_wine_start_4c8369be:
 msgid "[_maxine_] I already know what you're going to say..."
@@ -66,7 +66,7 @@ msgstr "[_mc_] Droit. Je serai modérément attentif à ce moment-là."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:16 #-#-# translate crowdin quest_maxine_wine_start_e59b60ec:
 msgid "[_maxine_s_smile_] Very well. In moderation there is truth."
-msgstr "[_maxine_s_smile_] Très bien. Il y a la vérité avec modération."
+msgstr "[_maxine_s_Souriez_] Très bien. Il y a la vérité avec modération."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:17 #-#-# translate crowdin quest_maxine_wine_start_212e6a7d:
 msgid "[_mc_] I thought it was in wine?"
@@ -114,11 +114,11 @@ msgstr "[_mc_] Hé, question aléatoire. Quelles sont vos opinions sur l'alcool 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:34 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_eb8e277c:
 msgid "[_jacklyn_s_smile_] Party filler. Liver killer. Makes me want to fuck Ben Stiller."
-msgstr "[_jacklyn_s_smile_] Obturateur de partie. Étueur de foie. Je veux baiser Ben Stiller."
+msgstr "[_jacklyn_s_Souriez_] Obturateur de partie. Étueur de foie. Je veux baiser Ben Stiller."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:35 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_b205c70a:
 msgid "[_jacklyn_s_smile_] And I wouldn't normally."
-msgstr "[_jacklyn_s_smile_] Et je ne le ferais pas normalement."
+msgstr "[_jacklyn_s_Souriez_] Et je ne le ferais pas normalement."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:38 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -130,7 +130,7 @@ msgstr "[_mc_] Qu'est-ce qui ne va pas avec Ben ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:42 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_d3c5cb02:
 msgid "[_jacklyn_s_smile_right_] He's too manly. I like my men more femme."
-msgstr "[_jacklyn_s_smile_right_] Il est trop maniement. J'aime mes hommes plus femme."
+msgstr "[_jacklyn_s_Souriez_right_] Il est trop maniement. J'aime mes hommes plus femme."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:43 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_e9a3a553:
 msgid "[_mc_] Err... right. Why not just date a girl then?"
@@ -194,7 +194,7 @@ msgstr "[_mc_] Vous semblez être une personne qui sait comment faire entrer cla
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:62 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_570efac6:
 msgid "[_jacklyn_s_smile_right_] You're far too generous. Not that I would do that or anything."
-msgstr "[_jacklyn_s_smile_right_] Vous êtes beaucoup trop généreux. Non pas que je ferais ça ou quoi que ce soit."
+msgstr "[_jacklyn_s_Souriez_right_] Vous êtes beaucoup trop généreux. Non pas que je ferais ça ou quoi que ce soit."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:63 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_ccdeeaf6:
 msgid "[_mc_] Not that I would do that either, but do you have any tips?"
@@ -202,11 +202,11 @@ msgstr "[_mc_] Non pas que je ferais ça non plus, mais avez-vous des conseils ?
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:64 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_1960ad26:
 msgid "[_jacklyn_s_smile_right_] Not assuming you would, but I know all secret artforms of getting wasted during school hours."
-msgstr "[_jacklyn_s_smile_right_] Pas en supposant que vous le feriez, mais je connais toutes les formes secrètes d'art de se perdre pendant les heures d'école."
+msgstr "[_jacklyn_s_Souriez_right_] Pas en supposant que vous le feriez, mais je connais toutes les formes secrètes d'art de se perdre pendant les heures d'école."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:65 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_ee99b496:
 msgid "[_jacklyn_s_smile_] Of course, nothing's free."
-msgstr "[_jacklyn_s_smile_] Bien sûr, rien n'est gratuit."
+msgstr "[_jacklyn_s_Souriez_] Bien sûr, rien n'est gratuit."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:66 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_ed87226f:
 msgid "[_mc_] What do you want?"
@@ -222,7 +222,7 @@ msgstr "[_mc_] Une broche ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:69 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_460e40c4:
 msgid "[_jacklyn_s_smile_right_] Right. Like my yellow emoji one."
-msgstr "[_jacklyn_s_smile_right_] Droit. Comme mon emoji jaune."
+msgstr "[_jacklyn_s_Souriez_right_] Droit. Comme mon emoji jaune."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:70 #-#-# translate crowdin quest_maxine_wine_jacklyn_deal_d489647b:
 msgid "[_mc_] Err... okay..."
@@ -398,7 +398,7 @@ msgstr "[_mc_] En tout cas, vous avez utilisé pour collecter les épinglettes, 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:130 #-#-# translate crowdin quest_maxine_wine_flora_deal_56a536fc:
 msgid "[_flora_s_smile_] Yep."
-msgstr "[_flora_s_smile_] Yep."
+msgstr "[_flora_s_Souriez_] Yep."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:131 #-#-# translate crowdin quest_maxine_wine_flora_deal_b2e1e773:
 msgid "[_mc_] I need one."
@@ -406,7 +406,7 @@ msgstr "[_mc_] J'en ai besoin."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:132 #-#-# translate crowdin quest_maxine_wine_flora_deal_72067230:
 msgid "[_flora_s_smile_] Nope."
-msgstr "[_flora_s_smile_] Non."
+msgstr "[_flora_s_Souriez_] Non."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:133 #-#-# translate crowdin quest_maxine_wine_flora_deal_7e2a0044:
 msgid "[_mc_] Seriously, [flora]. You need to give me one."
@@ -606,7 +606,7 @@ msgstr "[_mc_] N'oubliez pas ce questionnaire à long terme que vous m'avez fait
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:195 #-#-# translate crowdin quest_maxine_wine_flora_pin_56a536fc:
 msgid "[_flora_s_smile_] Yep."
-msgstr "[_flora_s_smile_] Yep."
+msgstr "[_flora_s_Souriez_] Yep."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:196 #-#-# translate crowdin quest_maxine_wine_flora_pin_0d467987:
 msgid "[_mc_] What was that for?"
@@ -678,7 +678,7 @@ msgstr "[_mc_] Avez-vous vu des animaux ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:213 #-#-# translate crowdin quest_maxine_wine_flora_pin_eb39a643:
 msgid "[_flora_s_smile_] I'm still a first-year intern. I'm hoping next year!"
-msgstr "[_flora_s_smile_] Je suis encore stagiaire de première année. J'espère l'année prochaine !"
+msgstr "[_flora_s_Souriez_] Je suis encore stagiaire de première année. J'espère l'année prochaine !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:214 #-#-# translate crowdin quest_maxine_wine_flora_pin_8fea2db2:
 msgid "[_mc_] Hmm..."
@@ -814,11 +814,11 @@ msgstr "[_mc_] Huh ? Pas que je sache !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:259 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_0351f82a:
 msgid "[_jacklyn_s_smile_] Do you have a question?"
-msgstr "[_jacklyn_s_smile_] Avez-vous une question ?"
+msgstr "[_jacklyn_s_Souriez_] Avez-vous une question ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:260 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_e92d3dfc:
 msgid "[_jacklyn_s_smile_] Perhaps regarding the latest lesson?"
-msgstr "[_jacklyn_s_smile_] Peut-être en ce qui concerne la dernière leçon ?"
+msgstr "[_jacklyn_s_Souriez_] Peut-être en ce qui concerne la dernière leçon ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:261 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_de73f9fa:
 msgid "[_mc_] Not exactly! But I do have another question."
@@ -970,11 +970,11 @@ msgstr "[_mc_] Err ... no ! J'ai encore besoin de ton aide pour obtenir ce vin."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:309 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_b9b11635:
 msgid "[_jacklyn_s_smile_] Right on, AA! Fine, hand over the goodies."
-msgstr "[_jacklyn_s_smile_] Droit sur, AA ! Bien, la main sur les goodies."
+msgstr "[_jacklyn_s_Souriez_] Droit sur, AA ! Bien, la main sur les goodies."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:312 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_44d56b39:
 msgid "[_jacklyn_s_smile_right_] Isn't that a star-dash and a half?"
-msgstr "[_jacklyn_s_smile_right_] N'est-ce pas une étoile et demie ?"
+msgstr "[_jacklyn_s_Souriez_right_] N'est-ce pas une étoile et demie ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:313 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_0109f0d3:
 msgid "[_mc_] Looks good on you."
@@ -982,7 +982,7 @@ msgstr "[_mc_] Je vous aime bien."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:314 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_5dcc52a6:
 msgid "[_jacklyn_s_smile_right_] Yeah, like a splash of Oxford on the Cambridge campus."
-msgstr "[_jacklyn_s_smile_right_] Oui, comme un éclat d'Oxford sur le campus de Cambridge."
+msgstr "[_jacklyn_s_Souriez_right_] Oui, comme un éclat d'Oxford sur le campus de Cambridge."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:315 #-#-# translate crowdin quest_maxine_wine_jacklyn_pin_8a1d33e0:
 msgid "[_mc_] So, what about that wine?"
@@ -1054,7 +1054,7 @@ msgstr "Pourquoi j'ai le sentiment qu'elle ne parle pas de jardinage ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:338 #-#-# translate crowdin quest_maxine_wine_make_a_move_e8339674:
 msgid "[_maxine_s_smile_] I'll give you one question because of Uranus."
-msgstr "[_maxine_s_smile_] Je vous donnerai une question à cause d'Uranus."
+msgstr "[_maxine_s_Souriez_] Je vous donnerai une question à cause d'Uranus."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:339 #-#-# translate crowdin quest_maxine_wine_make_a_move_f2ba445d:
 msgid "Okay, better make this one count..."
@@ -1262,11 +1262,11 @@ msgstr "[_mc_] Je vous ai apporté du vin."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:404 #-#-# translate crowdin quest_maxine_wine_make_a_move_d81c12b4:
 msgid "[_maxine_s_smile_] I'm aware."
-msgstr "[_maxine_s_smile_] Je suis au courant."
+msgstr "[_maxine_s_Souriez_] Je suis au courant."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:405 #-#-# translate crowdin quest_maxine_wine_make_a_move_6c8e72fd:
 msgid "[_maxine_s_smile_] I've been waiting for you to make a move."
-msgstr "[_maxine_s_smile_] J'ai attendu que vous bousoyez."
+msgstr "[_maxine_s_Souriez_] J'ai attendu que vous bousoyez."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:406 #-#-# translate crowdin quest_maxine_wine_make_a_move_5146fde2:
 msgid "[_mc_] Make a move?"
@@ -1294,7 +1294,7 @@ msgstr "[_mc_] Peut-être que je ne suis pas intéressé à suivre le playbook .
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:412 #-#-# translate crowdin quest_maxine_wine_make_a_move_ed692df2:
 msgid "[_maxine_s_smile_] I won't either, then."
-msgstr "[_maxine_s_smile_] Je ne le ferai pas non plus."
+msgstr "[_maxine_s_Souriez_] Je ne le ferai pas non plus."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:413 #-#-# translate crowdin quest_maxine_wine_make_a_move_866fc203:
 msgid "Why did that sound like a threat?"
@@ -1310,7 +1310,7 @@ msgstr "[_maxine_s_neutral_] Nous le serons, en effet."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:417 #-#-# translate crowdin quest_maxine_wine_make_a_move_b0e9c07b:
 msgid "[_maxine_s_smile_] Thanks for the drink."
-msgstr "[_maxine_s_smile_] Merci pour la boisson."
+msgstr "[_maxine_s_Souriez_] Merci pour la boisson."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:418 #-#-# translate crowdin quest_maxine_wine_make_a_move_482129ae:
 msgid "[_mc_] You're welcome, I guess..."
@@ -1334,7 +1334,7 @@ msgstr "[_maxine_s_excited_] Normalement, vous feriez un mouvement maintenant ..
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:423 #-#-# translate crowdin quest_maxine_wine_make_a_move_45c2bb70:
 msgid "[_maxine_s_smile_] Anyway... you've way exceeded your question quota for the day, so I shall take my retreat."
-msgstr "[_maxine_s_smile_] Quoi qu'il en soit ... vous avez dépassé votre quota de questions pour la journée, alors je prendrai ma retraite."
+msgstr "[_maxine_s_Souriez_] Quoi qu'il en soit ... vous avez dépassé votre quota de questions pour la journée, alors je prendrai ma retraite."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:424 #-#-# translate crowdin quest_maxine_wine_make_a_move_d6e00992:
 msgid "Not exactly sure what's going on, but you never really know with her."
