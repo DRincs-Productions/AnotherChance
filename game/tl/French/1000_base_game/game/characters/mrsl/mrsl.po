@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-09 16:04\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1207 #-#-# translate crowdin mrsl_talk_day1_take2_ffe543b6:
 msgid "[_mrsl_s_smile_] Hi, [mc]!"
-msgstr "[_mrsl_s_smile_] Bonjour, [mc]!"
+msgstr "[_mrsl_s_Souriez_] Bonjour, [mc]!"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1210 #-#-# translate crowdin mrsl_talk_day1_take2_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -34,7 +34,7 @@ msgstr "[_mc_] Je dirais que c'est juste."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1219 #-#-# translate crowdin mrsl_talk_day1_take2_4fba8d5d:
 msgid "[_mc_] Do you give private swimming lessons, by any chance?"
-msgstr "[_mc_] Est-ce que vous donnez des cours privés de natation, par hasard?"
+msgstr "[_mc_] Est-ce que vous donnez des cours privés de natation, par hasard ?"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1221 #-#-# translate crowdin mrsl_talk_day1_take2_08a58e2c:
 msgid "[_mrsl_s_excited_] Only to the most promising students on the team..."
@@ -46,7 +46,7 @@ msgstr "[_mc_] Je vais commencer à pratiquer mon brasse tout de suite !"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1225 #-#-# translate crowdin mrsl_talk_day1_take2_9fdeb35a:
 msgid "[_mc_] How long have you worked at Newfall High?"
-msgstr "[_mc_] Combien de temps avez-vous travaillé à Newfall High?"
+msgstr "[_mc_] Combien de temps avez-vous travaillé à Newfall High ?"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1226 #-#-# translate crowdin mrsl_talk_day1_take2_3dc334f7:
 msgid "[_mrsl_s_thinking_] For a long time. I've always been drawn to the passion and lust for knowledge."
@@ -54,11 +54,11 @@ msgstr "[_mrsl_s_thinking_] Pendant longtemps. J'ai toujours été attiré par l
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1227 #-#-# translate crowdin mrsl_talk_day1_take2_db6231ee:
 msgid "[_mrsl_s_smile_] I'll be sad to see you all go by the end of the year."
-msgstr "[_mrsl_s_smile_] Je serai triste de vous voir tous partir à la fin de l'année."
+msgstr "[_mrsl_s_Souriez_] Je serai triste de vous voir tous partir à la fin de l'année."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1228 #-#-# translate crowdin mrsl_talk_day1_take2_6fe1652f:
 msgid "Why does it feel like she's not being sincere?"
-msgstr "Pourquoi pense-t-elle qu'elle n'est pas sincère?"
+msgstr "Pourquoi pense-t-elle qu'elle n'est pas sincère ?"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1233 #-#-# translate crowdin mrsl_flirt_over_7d6bfd23:
 msgid "She must be sick of my poor attempts at flirting by now..."
@@ -78,11 +78,11 @@ msgstr "[_mrsl_s_excited_] Je pense que ce sera une bonne année."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1251 #-#-# translate crowdin mrsl_talk_two_baaac211:
 msgid "[_mrsl_s_smile_] I'm glad to be out of those old rags."
-msgstr "[_mrsl_s_smile_] Je suis heureux de sortir de ces vieux chiffons."
+msgstr "[_mrsl_s_Souriez_] Je suis heureux de sortir de ces vieux chiffons."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1252 #-#-# translate crowdin mrsl_talk_two_cf5e503b:
 msgid "[_mrsl_s_smile_] I feel... invigorated."
-msgstr "[_mrsl_s_smile_] Je me sens revigorée."
+msgstr "[_mrsl_s_Souriez_] Je me sens revigorée."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1253 #-#-# translate crowdin mrsl_talk_two_89c26776:
 msgid "[_mrsl_s_sad_] Sometimes you have to make tough choices in life to break out of a bad rut."
@@ -118,7 +118,7 @@ msgstr "[_mrsl_s_laughing_] Parfois, vous devez faire un saut de foi et étendre
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1279 #-#-# translate crowdin mrsl_talk_five_0bb787b0:
 msgid "[_mrsl_s_cringe_] Curses! What is that smell?"
-msgstr "[_mrsl_s_cringe_] Curses ! Quelle est cette odeur?"
+msgstr "[_mrsl_s_cringe_] Curses ! Quelle est cette odeur ?"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1280 #-#-# translate crowdin mrsl_talk_five_d5b87a54:
 msgid "[_mc_] Sorry, I didn't shower this morning."
@@ -130,7 +130,7 @@ msgstr "[_mrsl_s_flirty_] Oh, ce n'est pas toi, chérie !"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1282 #-#-# translate crowdin mrsl_talk_five_542e519a:
 msgid "[_mrsl_s_cringe_] Did the janitor change the soap formula?"
-msgstr "[_mrsl_s_cringe_] Le concierge a-t-il modifié la formule du savon?"
+msgstr "[_mrsl_s_cringe_] Le concierge a-t-il modifié la formule du savon ?"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1283 #-#-# translate crowdin mrsl_talk_five_6034b147:
 msgid "[_mc_] I don't think so. Smells the same as always."
@@ -142,7 +142,7 @@ msgstr "[_mrsl_s_laughing_] Vous avez probablement raison. Je ne me suis jamais 
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1290 #-#-# translate crowdin mrsl_flirt_one_8be7b9d8:
 msgid "[_mrsl_s_sad_] Everyone's going through their own struggles. Do you know what fuels me to keep going every day?"
-msgstr "[_mrsl_s_sad_] Tout le monde passe par ses propres luttes. Savez-vous ce qui me nourrit chaque jour?"
+msgstr "[_mrsl_s_sad_] Tout le monde passe par ses propres luttes. Savez-vous ce qui me nourrit chaque jour ?"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1293 #-#-# translate crowdin mrsl_flirt_one_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -154,7 +154,7 @@ msgstr "[_mc_] Pour sortir de vos vieux vêtements."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1297 #-#-# translate crowdin mrsl_flirt_one_76a05f31:
 msgid "[_mrsl_s_smile_] That did help, but it's never been what drives me."
-msgstr "[_mrsl_s_smile_] Cela a été utile, mais ce n'est jamais ce qui me motive."
+msgstr "[_mrsl_s_Souriez_] Cela a été utile, mais ce n'est jamais ce qui me motive."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1300 #-#-# translate crowdin mrsl_flirt_one_dd85daf2:
 msgid "[_mc_] The passion of the students here."
@@ -162,7 +162,7 @@ msgstr "[_mc_] La passion des étudiants ici."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1303 #-#-# translate crowdin mrsl_flirt_one_4be808d4:
 msgid "[_mrsl_s_smile_] Correct. That's why I'm still here after all these years."
-msgstr "[_mrsl_s_smile_] Corriger. C'est pourquoi je suis toujours là après toutes ces années."
+msgstr "[_mrsl_s_Souriez_] Corriger. C'est pourquoi je suis toujours là après toutes ces années."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1306 #-#-# translate crowdin mrsl_flirt_one_9ddeed15:
 msgid "[_mc_] Two Duracell batteries and a magic wand."
@@ -170,7 +170,7 @@ msgstr "[_mc_] Deux piles Duracell et une baguerie magique."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1307 #-#-# translate crowdin mrsl_flirt_one_1bc0dd6f:
 msgid "[_mrsl_s_smile_] Only on slow nights."
-msgstr "[_mrsl_s_smile_] Seulement les nuits lentes."
+msgstr "[_mrsl_s_Souriez_] Seulement les nuits lentes."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1308 #-#-# translate crowdin mrsl_flirt_one_e9405f3a:
 msgid "[_mrsl_s_embarrassed_] Sorry, that was a joke."
@@ -198,7 +198,7 @@ msgstr "[_mrsl_s_confident_] La tenue de votre tête est importante, mais certai
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1324 #-#-# translate crowdin mrsl_flirt_two_bc02ed46:
 msgid "[_mrsl_s_cringe_] There's one thing that always sours my mood. Do you know what?"
-msgstr "[_mrsl_s_cringe_] Il y a une chose qui sème toujours mon humeur. Savez-vous quoi?"
+msgstr "[_mrsl_s_cringe_] Il y a une chose qui sème toujours mon humeur. Savez-vous quoi ?"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1327 #-#-# translate crowdin mrsl_flirt_two_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -242,7 +242,7 @@ msgstr "[_mrsl_s_angry_] Oui ! Je ne peux pas supporter ça. Il tue mes narines 
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1355 #-#-# translate crowdin mrsl_flirt_three_98f06b24:
 msgid "[_mrsl_s_neutral_] What's something I consider important in order to get through life?"
-msgstr "[_mrsl_s_neutral_] Qu'est-ce que je considère important pour traverser la vie?"
+msgstr "[_mrsl_s_neutral_] Qu'est-ce que je considère important pour traverser la vie ?"
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1358 #-#-# translate crowdin mrsl_flirt_three_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -258,7 +258,7 @@ msgstr "[_mrsl_s_angry_] Les planchers de Wet sont des pièges à mort si vous p
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1363 #-#-# translate crowdin mrsl_flirt_three_86837393:
 msgid "[_mrsl_s_smile_] They're important, but that's not really what I had in mind."
-msgstr "[_mrsl_s_smile_] Ils sont importants, mais ce n'est pas vraiment ce que j'avais en tête."
+msgstr "[_mrsl_s_Souriez_] Ils sont importants, mais ce n'est pas vraiment ce que j'avais en tête."
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1366 #-#-# translate crowdin mrsl_flirt_three_e1f71629:
 msgid "[_mc_] Sexy clothes."
@@ -298,11 +298,11 @@ msgstr "\"J'aime votre nouveau style, [mrsl]!\""
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1209
 msgid "\"Do you give private swimming lessons, by any chance?\""
-msgstr "\"Vous donnez des cours privés de natation, par hasard?\""
+msgstr "\"Vous donnez des cours privés de natation, par hasard ?\""
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1209
 msgid "\"How long have you worked at Newfall High?\""
-msgstr "\"Depuis combien de temps travaillez-vous à Newfall High?\""
+msgstr "\"Depuis combien de temps travaillez-vous à Newfall High ?\""
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1292
 msgid "\"Getting out of your old clothes.\""
