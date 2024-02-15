@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 17:41\n"
+"PO-Revision-Date: 2024-02-15 18:49\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:5 #-#-# translate crowdin quest_kate_trick_start_6cb5dee0:
 msgid "Uh-oh. Did I just step into the Colosseum?"
@@ -514,7 +514,7 @@ msgstr "[_kate_s_laughing_] Vous avez une compréhension amusante de ce mot."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:289 #-#-# translate crowdin quest_kate_trick_start_80fbaea6:
 msgid "[_mc_] You did just call me dumb a moment ago..."
-msgstr "[_mc_] Vous venez de m'appeler idiot il y a un instant ..."
+msgstr "[Vous m'avez traité de débile il y a quelques instants..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:290 #-#-# translate crowdin quest_kate_trick_start_e498fe33:
 msgid "[_isabelle_s_afraid_] I didn't call {i}you{/} dumb, just the thing you said!"
@@ -588,7 +588,7 @@ msgstr "[_isabelle_s_cringe_left_] Vous êtes un être humain méprisable ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:328 #-#-# translate crowdin quest_kate_trick_start_45e4f24a:
 msgid "[_mc_] We'll have her leashed and potty trained in no time."
-msgstr "[_mc_] Nous aurons sa fuite et son potty entraînés en aucun temps."
+msgstr "[Nous allons la mettre en laisse et l'entraîner à la propreté en un rien de temps."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:331 #-#-# translate crowdin quest_kate_trick_start_b7d6f0e6_2:
 msgid "[_isabelle_s_afraid_] !!!"
@@ -794,7 +794,7 @@ msgstr "Ugh, elle semble sérieuse. Je me comporais mieux."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:420 #-#-# translate crowdin quest_kate_trick_start_two_c1001b8b:
 msgid "[_mc_] I'm all for shutting up [isabelle], but this schedule is going to make it difficult for a lot of other people..."
-msgstr "[_mc_] I'm all for shutting up [_mc_] isabelle], but this schedule is going to make it difficile for a lot of other people ..."
+msgstr "[Je suis tout à fait d'accord pour qu'on la ferme [isabelle], mais cet horaire va rendre les choses difficiles pour beaucoup d'autres personnes..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:422 #-#-# translate crowdin quest_kate_trick_start_two_114fa874:
 msgid "[_kate_s_laughing_] Since when do you care about other people?"
@@ -1522,7 +1522,7 @@ msgstr "[_flora_s_cringe_] Je pense que je développe une allergie aux arachides
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:708 #-#-# translate crowdin quest_kate_trick_flora_1e1db8f6:
 msgid "[_mc_] Come on, I know my voice is actually a soothing aloe to your burning ears."
-msgstr "[_mc_] Allez, je sais que ma voix est en fait un aloe apaisant à vos oreilles en feu."
+msgstr "[Allez, je sais que ma voix est en fait un aloès apaisant pour vos oreilles brûlantes."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:709 #-#-# translate crowdin quest_kate_trick_flora_e49b052c:
 msgid "[_flora_s_annoyed_] The only thing burning here is my patience going up in smoke."
@@ -1634,7 +1634,7 @@ msgstr "[_flora_s_angry_] Vous êtes celui qui vous demande de l'aide ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:755 #-#-# translate crowdin quest_kate_trick_flora_32947179:
 msgid "[_mc_] You drive a hard bargain."
-msgstr "[_mc_] Vous conduissez un marché difficile."
+msgstr "[Vous menez un dur combat."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:756 #-#-# translate crowdin quest_kate_trick_flora_084a029f:
 msgid "[_flora_s_angry_] Beggars can't be choosers."
@@ -1844,7 +1844,7 @@ msgstr "[_flora_s_worried_leash_] Il n'aime pas être appelé ça."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:841 #-#-# translate crowdin quest_kate_trick_park_5b7afec3:
 msgid "[_mc_] I-I think I just peed a little..."
-msgstr "[_mc_] I-I think I just peed a little ..."
+msgstr "[Je crois que j'ai fait pipi un peu..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:842 #-#-# translate crowdin quest_kate_trick_park_09480fd8:
 msgid "[_flora_s_angry_leash_] Ew, gross!"
@@ -1904,7 +1904,7 @@ msgstr "[_flora_s_confused_leash_] Et bien sûr, vous allez le faire de la faço
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:856 #-#-# translate crowdin quest_kate_trick_park_f434d125:
 msgid "[_mc_] Pretty much, yeah."
-msgstr "[_mc_] Pretty much, yeah."
+msgstr "[A peu près, oui."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:857 #-#-# translate crowdin quest_kate_trick_park_bf6b6469:
 msgid "[_flora_s_sarcastic_leash_] This is why I'm her favorite, and you're a nuisance."
@@ -1968,7 +1968,7 @@ msgstr "[_flora_s_afraid_leash_] Eh bien, je-"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:884 #-#-# translate crowdin quest_kate_trick_school_9f53949a:
 msgid "[_mc_] Maybe I should take the leash for now, just so you don't accidentally break a rule."
-msgstr "[_mc_] Peut-être que je devrais prendre la laisse pour l'instant, juste pour que vous ne romiez pas accidentellement une règle."
+msgstr "[Je devrais peut-être prendre la laisse pour l'instant, juste pour que tu n'enfreignes pas accidentellement une règle."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:885 #-#-# translate crowdin quest_kate_trick_school_97b556ed:
 msgid "[_mc_] You know, since you're a mere layman when it comes to our four-legged friends."
@@ -2064,7 +2064,7 @@ msgstr "[_nurse_s_blush_] Je ne sais pas."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:920 #-#-# translate crowdin quest_kate_trick_nurse_3d1ea516:
 msgid "[_mc_] Enough talking. Good dogs don't speak unless they're told."
-msgstr "[_mc_] Enough parlant. Les bons chiens ne parlent pas s'ils ne sont pas informés."
+msgstr "[Assez parlé. Les bons chiens ne parlent pas à moins qu'on ne leur dise."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:921 #-#-# translate crowdin quest_kate_trick_nurse_62ed1b4b:
 msgid "[_nurse_s_concerned_] ..."
@@ -2088,7 +2088,7 @@ msgstr "[_mc_] Bon chien."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:936 #-#-# translate crowdin quest_kate_trick_nurse_72ae3688:
 msgid "[_mc_] Heel."
-msgstr "[_mc_] Heel."
+msgstr "[_mc_] Talon."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:949 #-#-# translate crowdin quest_kate_trick_gym_bab8f51c:
 msgid "[_kate_s_neutral_] Again? You're not allowed in the gym anymore."
@@ -2132,7 +2132,7 @@ msgstr "[_kate_] Eh bien, allez à votre journée ailleurs."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:974 #-#-# translate crowdin quest_kate_trick_gym_631ddccc:
 msgid "[_mc_] I will, right after I get my gym grade."
-msgstr "[_mc_] I will, right after I get my gym grade."
+msgstr "[Je le ferai, juste après avoir eu ma note de gym."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:976 #-#-# translate crowdin quest_kate_trick_gym_52f9ab5c:
 msgid "[_mc_] Did you think you were the only one capable of this?"
@@ -2168,7 +2168,7 @@ msgstr "[_kate_] Vous avez un fantasme vif."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:989 #-#-# translate crowdin quest_kate_trick_gym_72330f96:
 msgid "[_mc_] Are you blushing a little? Maybe that's secretly {i}your{/} fantasy?"
-msgstr "[_mc_] Est-ce que vous rougez un peu ? Peut-être que c'est secrètement {i}votre {/} fantasme ?"
+msgstr "[Vous rougissez un peu ? Peut-être que c'est secrètement {i}votre{/} fantasme ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:992 #-#-# translate crowdin quest_kate_trick_gym_d6be28e9:
 msgid "[_kate_] You need to get your eyes checked, you dumb clown."
@@ -2308,7 +2308,7 @@ msgstr "[_flora_s_laughing_] Ne vous inquiétez pas, il n'est qu'une grosse boul
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1078 #-#-# translate crowdin quest_kate_trick_gym_6597eebb:
 msgid "[_mc_] Yeah, a big fluff ball with five-inch fangs."
-msgstr "[_mc_] Oui, une grosse boule de fluff avec des crocs de cinq pouces."
+msgstr "[Oui, une grosse boule de poils avec des crocs de cinq pouces."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1079 #-#-# translate crowdin quest_kate_trick_gym_4644bbf7:
 msgid "[_flora_s_thinking_leash_] Anyway, I should probably get him back to the internship now."
@@ -2328,7 +2328,7 @@ msgstr "[_flora_s_worried_leash_] Quoi ? Pourquoi ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1085 #-#-# translate crowdin quest_kate_trick_gym_1d158e79:
 msgid "[_mc_] Because I need it to impress [kate] and make her my wife."
-msgstr "[_mc_] Parce que j'ai besoin que j'impresse [_mc_] kate] et que j'en fasse ma femme."
+msgstr "[Parce que j'en ai besoin pour impressionner [Kate] et faire d'elle ma femme."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1086 #-#-# translate crowdin quest_kate_trick_gym_59193b25:
 msgid "[_flora_s_laughing_leash_] Nice joke."
@@ -2470,7 +2470,7 @@ msgstr "Je me trouve derrière elle et je me parie pour prendre son veau dans me
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1167 #-#-# translate crowdin quest_kate_trick_workout_66a64189:
 msgid "[_mc_] Well, you have your gastrocnemius..."
-msgstr "[_mc_] Eh bien, vous avez votre gastrocnémien ..."
+msgstr "[Vous avez votre gastrocnémien..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1168 #-#-# translate crowdin quest_kate_trick_workout_8fa129e8:
 msgid "I trail my fingers down from the back of her knee, towards her ankle, caressing her outer leg."
@@ -2654,7 +2654,7 @@ msgstr "Elle se moque et elle se transforme en un petit peu comme elle s'ajuste 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1246 #-#-# translate crowdin quest_kate_trick_workout_b315f07c:
 msgid "[_mc_] Goddamn, that feels good."
-msgstr "[_mc_] GodBon sang, qui se sent bien."
+msgstr "[Bon sang, ça fait du bien."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1248 #-#-# translate crowdin quest_kate_trick_workout_47bf7bbb:
 msgid "This is the physical activity all these muscles were made for. Just pure, primal fucking."
@@ -2754,7 +2754,7 @@ msgstr "[_mc_] Je vais vous donner plus."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1284 #-#-# translate crowdin quest_kate_trick_workout_ef6ef049:
 msgid "[_mc_] Every. Damn. Inch."
-msgstr "[_mc_] Tous. Merde. Inch."
+msgstr "[Chaque. Maudite. Pouce."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1286 #-#-# translate crowdin quest_kate_trick_workout_361bc85d:
 msgid "Each word is punctuated by a thrust and I watch as my cock goes in and out, in and out."
