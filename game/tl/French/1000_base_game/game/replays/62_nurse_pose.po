@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 23:42\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/62_nurse_pose.rpy:13 #-#-# translate crowdin replay_nurse_pose_de516b0b:
 msgid "[_nurse_] B-but, Miss [kate]! They're right outside!"
@@ -94,7 +94,7 @@ msgstr "[_kate_] Notre accord n'a été que de cesser de la faire chanter."
 
 # game/1000_base_game/game/replays/62_nurse_pose.rpy:42 #-#-# translate crowdin replay_nurse_pose_2492d680:
 msgid "[_mc_] I won't allow this, [kate]."
-msgstr "[_mc_] Je ne le permettrai pas, [kate]."
+msgstr "[_mc_] Je ne le permettrai pas, [_mc_] kate]."
 
 # game/1000_base_game/game/replays/62_nurse_pose.rpy:43 #-#-# translate crowdin replay_nurse_pose_afb22d02:
 msgid "[_kate_] Don't get your panties in a twist. This is the last time, okay?"
