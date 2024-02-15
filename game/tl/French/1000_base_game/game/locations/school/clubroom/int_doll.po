@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:47\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:17 #-#-# translate crowdin school_clubroom_doll_interact_42443d95:
 msgid "Spinach keeps hissing at it. A cat is never wrong about these things."
@@ -30,7 +30,7 @@ msgstr "[_maxine_s_confident_] Nous l'avons fait ! Et j'ai seulement perdu mon t
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:29 #-#-# translate crowdin maxine_lines_doll_prison_1500c156:
 msgid "[_mc_] Great. Saved [lindsey] and the school, I'm sure."
-msgstr "[_mc_] Grand. Saved [lindsey] et l'école, j'en suis sûr."
+msgstr "[_mc_] Grand. Saved [_mc_] lindsey] et l'école, j'en suis sûr."
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:30 #-#-# translate crowdin maxine_lines_doll_prison_746b3321:
 msgid "[_maxine_s_sad_] ..."
@@ -54,7 +54,7 @@ msgstr "[_mc_] Nous les choisirons ensemble, un par un !"
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:40 #-#-# translate crowdin maxine_lines_doll_prison_8dcdc8b8:
 msgid "[_maxine_s_smile_] It's been a lonely road so far, but after this success, I might entrust you with more important matters."
-msgstr "[_maxine_s_smile_] C'est une route solitaire jusqu'à présent, mais après ce succès, je pourrais vous confier des questions plus importantes."
+msgstr "[_maxine_s_Souriez_] C'est une route solitaire jusqu'à présent, mais après ce succès, je pourrais vous confier des questions plus importantes."
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:41 #-#-# translate crowdin maxine_lines_doll_prison_1dd82039:
 msgid "[_mc_] Thanks! I feel the same way."
@@ -78,7 +78,7 @@ msgstr "Il n'y a aucun moyen d'avoir un canard à fourche ..."
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:49 #-#-# translate crowdin maxine_lines_doll_prison_e9ef755f:
 msgid "[_maxine_s_smile_] Anyway, good work on this case."
-msgstr "[_maxine_s_smile_] Quoi qu'il en soit, bon travail dans ce cas."
+msgstr "[_maxine_s_Souriez_] Quoi qu'il en soit, bon travail dans ce cas."
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:50 #-#-# translate crowdin maxine_lines_doll_prison_bb0eeaf4:
 msgid "[_mc_] Thank you."
