@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 18:48\n"
+"PO-Revision-Date: 2024-02-15 22:00\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_day.rpy:3 #-#-# translate crowdin quest_jo_day_start_9e2bc76f:
 msgid "[_jo_s_displeased_cup_] Ugh... who uses bold text in a professional email? Who does she think she's talking to—"
@@ -160,7 +160,7 @@ msgstr "[_mc_] Comme quoi ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:66 #-#-# translate crowdin quest_jo_day_flora_1ec17225:
 msgid "[_flora_s_sarcastic_] Guilty. Like you did something."
-msgstr "[_flora_s_sarcastic_] Guilty. Comme vous avez fait quelque chose."
+msgstr "[_flora_s_sarcastic_] Coupable. Comme si vous aviez fait quelque chose."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:67 #-#-# translate crowdin quest_jo_day_flora_d44e9e82:
 msgid "[_mc_] No reason. I always look this way."
@@ -198,7 +198,7 @@ msgstr "[Aha-aha."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:75 #-#-# translate crowdin quest_jo_day_flora_c07b5279:
 msgid "[_flora_s_eyeroll_] Stop smirking."
-msgstr "[_flora_s_eyeroll_] Arrêter smirking."
+msgstr "[_flora_s_eyeroll_] Arrêtez de sourire."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:76 #-#-# translate crowdin quest_jo_day_flora_b7ff6695:
 msgid "[_mc_] I'm not smirking."
@@ -332,7 +332,7 @@ msgstr "[_flora_s_worried_] Comment la prendre quelque part ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:118 #-#-# translate crowdin quest_jo_day_flora_7ff8d973:
 msgid "[_flora_s_confident_] I can think of a few things that would make [jo] tolerate you better..."
-msgstr "[_flora_s_confident_] I can think of a few things that make make [jo] tolérer you better ..."
+msgstr "[_flora_s_confident_] Je pense à plusieurs choses qui permettraient à [jo] de mieux vous tolérer..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:119 #-#-# translate crowdin quest_jo_day_flora_d18e3c5d:
 msgid "[_flora_s_concerned_] For one, you never, ever clean."
@@ -352,7 +352,7 @@ msgstr "[_mc_] Je veux dire ... nous sommes tous des animaux ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:123 #-#-# translate crowdin quest_jo_day_flora_b15be16c:
 msgid "[_flora_s_concerned_] My ears are off. Don't even bother."
-msgstr "[_flora_s_concerned_] Mes oreilles sont étees. Ne te déranger même pas."
+msgstr "[_flora_s_concerned_] Mes oreilles sont déconnectées. N'y pensez même pas."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:124 #-#-# translate crowdin quest_jo_day_flora_79df5cc7:
 msgid "[_flora_s_neutral_] How about you take her out somewhere?"
@@ -392,7 +392,7 @@ msgstr "[_mc_] Mise en place d'un pique-nique ? Je n'ai jamais fait ça avant."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:133 #-#-# translate crowdin quest_jo_day_flora_9c2300c3:
 msgid "[_flora_s_eyeroll_] That's just typical. You're too selfish for this."
-msgstr "[_flora_s_eyeroll_] C'est typique. Tu es trop égoïle pour ça."
+msgstr "[_flora_s_eyeroll_] C'est typique. Tu es trop égoïste pour ça."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:134 #-#-# translate crowdin quest_jo_day_flora_f411fdae:
 msgid "[_flora_s_annoyed_] It's not even a lot of effort."
@@ -436,7 +436,7 @@ msgstr "[_mc_] Mais techniquement, vous avez eu tort."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:144 #-#-# translate crowdin quest_jo_day_flora_d374f35a:
 msgid "[_flora_s_cringe_] And technically, you're a sicko!"
-msgstr "[_flora_s_cringe_] Et techniquement, vous êtes un sicko !"
+msgstr "[_flora_s_cringe_] Et techniquement, tu es un malade !"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:145 #-#-# translate crowdin quest_jo_day_flora_a9712dcc:
 msgid "[_mc_] One man's sicko is another man's genius."
@@ -520,7 +520,7 @@ msgstr "[_mc_] Je veux dire, vous êtes fondamentalement un maître à ce sujet.
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:183 #-#-# translate crowdin quest_jo_day_flora_a2f2bbaf:
 msgid "[_flora_s_concerned_] Flattery will get you nowhere."
-msgstr "[_flora_s_concerned_] Le Flattery ne vous mènera nulle part."
+msgstr "[_flora_s_concerned_] La flatterie ne vous mènera nulle part."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:184 #-#-# translate crowdin quest_jo_day_flora_a84c5a62:
 msgid "[_mc_] What would?"
@@ -556,7 +556,7 @@ msgstr "[_mc_] Combien ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:192 #-#-# translate crowdin quest_jo_day_flora_38924d58:
 msgid "[_flora_s_neutral_] Two-hundred bucks. That's my final offer."
-msgstr "[_flora_s_neutral_] Deux cent dollars. C'est ma dernière offre."
+msgstr "[_flora_s_neutral_] Deux cents dollars. C'est ma dernière offre."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:195 #-#-# translate crowdin quest_jo_day_flora_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
@@ -572,7 +572,7 @@ msgstr "[_flora_s_laughing_] Plaisir d'affaires avec vous !"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:201 #-#-# translate crowdin quest_jo_day_flora_eed18356:
 msgid "[_flora_s_flirty_] I'll take care of your bedroom. You gather the picnic supplies."
-msgstr "[_flora_s_flirty_] Je prendrai soin de votre chambre. Vous rassavez les fournitures de pique-nique."
+msgstr "[_flora_s_flirty_] Je vais m'occuper de ta chambre. Tu rassembles les provisions pour le pique-nique."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:212 #-#-# translate crowdin quest_jo_day_flora_34d8e50c:
 msgid "[_mc_] You're out of your mind."
