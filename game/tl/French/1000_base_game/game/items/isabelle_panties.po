@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:24\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/isabelle_panties.rpy:18 #-#-# translate crowdin isabelle_panties_interact_2581c627:
 msgid "[isabelle] has entrusted me with one of her most private possessions."
@@ -62,7 +62,7 @@ msgstr "[_mc_] Err ..."
 
 # game/1000_base_game/game/items/isabelle_panties.rpy:35 #-#-# translate crowdin isabelle_panties_interact_a137c3cc:
 msgid "[_isabelle_s_cringe_] What the hell, [mc]?!"
-msgstr "[_isabelle_s_cringe_] Qu'est-ce que l'enfer, [mc] ? !"
+msgstr "[_isabelle_s_cringe_] Qu'est-ce que l'enfer, [mc] ?!"
 
 # game/1000_base_game/game/items/isabelle_panties.rpy:38 #-#-# translate crowdin isabelle_panties_interact_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -126,7 +126,7 @@ msgstr "[_mc_] Je veux dire, pas que vous pouvez maintenant, de toute façon ...
 
 # game/1000_base_game/game/items/isabelle_panties.rpy:70 #-#-# translate crowdin isabelle_panties_interact_f64c63ed:
 msgid "[_isabelle_s_skeptical_] Funny."
-msgstr "[_isabelle_s_skeptical_] Funny."
+msgstr "[_isabelle_s_skeptical_] C'est drôle."
 
 # game/1000_base_game/game/items/isabelle_panties.rpy:71 #-#-# translate crowdin isabelle_panties_interact_68156131:
 msgid "[_isabelle_s_skeptical_] Why were you sniffing my panties?"
@@ -198,5 +198,5 @@ msgstr "Rensez-les"
 
 # game/1000_base_game/game/items/isabelle_panties.rpy:37
 msgid "?mc.charisma>=10@[mc.charisma]/10|{image=stats cha}|\"Don't get your knickers in a twist just yet.\""
-msgstr " ? mc.charisma> =10 @[mc.charisma]/10 | { image=stats cha } | \"N'obtenez pas encore vos knickers en une seule fois.\""
+msgstr "?mc.charisma>=10 @[mc.charisma]/10|{image=stats cha}|\"N'obtenez pas encore vos knickers en une seule fois.\""
 
