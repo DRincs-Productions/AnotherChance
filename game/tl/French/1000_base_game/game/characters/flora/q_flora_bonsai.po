@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 17:39\n"
+"PO-Revision-Date: 2024-02-15 22:00\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:11 #-#-# translate crowdin quest_flora_bonsai_spaghetti_505d8ca3:
 msgid "[_nurse_s_smile_] Hello there, [mc]. How are you feeling today?"
@@ -58,7 +58,7 @@ msgstr "[_nurse_s_concerned_] Quel est le nom de Dieu ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:24 #-#-# translate crowdin quest_flora_bonsai_spaghetti_e27102c9:
 msgid "[_flora_s_angry_] No, not chili! Spaghetti bolognese!"
-msgstr "[_flora_s_angry_] Non, pas chili ! Spaghetti bolognese !"
+msgstr "[_flora_s_angry_] Non, pas chili ! Spaghetti bolognaise !"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:25 #-#-# translate crowdin quest_flora_bonsai_spaghetti_75e7e4b7:
 msgid "[_nurse_s_thinking_] Okay, let's wash your eyes off. Was it very hot?"
@@ -198,7 +198,7 @@ msgstr "[_mc_] Mais il a aussi révélé que le dosage était faux, donc ... en 
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:76 #-#-# translate crowdin quest_flora_bonsai_spaghetti_b6cb46ca:
 msgid "[_flora_s_angry_] You can't OD on cough drops!"
-msgstr "[_flora_s_angry_] You can't OD on toux sera en baisse !"
+msgstr "[_flora_s_angry_] On ne peut pas faire une overdose de pastilles contre la toux !"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:77 #-#-# translate crowdin quest_flora_bonsai_spaghetti_aefec6b7:
 msgid "[_mc_] I actually read about a guy in Japan who injected cough drops into his—"
@@ -466,7 +466,7 @@ msgstr "[_mc_] Un verre ? Un repas ? Peut-être une douche ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:169 #-#-# translate crowdin quest_flora_bonsai_help_home_d5313b87:
 msgid "[_flora_s_cringe_] Perv!"
-msgstr "[_flora_s_cringe_] Perv !"
+msgstr "[_flora_s_cringe_] Pervers !"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:170 #-#-# translate crowdin quest_flora_bonsai_help_home_8a90db85:
 msgid "[_mc_] What? Are you not going to shower for an entire week?"
@@ -1010,7 +1010,7 @@ msgstr "[_flora_s_annoyed_] Ce n'est pas parce que je suis aveugle que vous pouv
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:392 #-#-# translate crowdin quest_flora_bonsai_bake_check_f1e1d2e9:
 msgid "[_flora_s_neutral_] I need you to bring me a fork, a grater, a pan, a measuring beaker, eggs, and flour. In that order."
-msgstr "[_flora_s_neutral_] J'ai besoin que vous me ramenez une fourchette, un grater, une poêle, un bécher de mesure, des œufs et de la farine. Dans cet ordre."
+msgstr "[ _flora_s_neutral_ ] J'ai besoin que vous me ramenez une fourchette, un gratter, une poêle, un bécher de mesure, des œufs et de la farine. Dans cet ordre."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:397 #-#-# translate crowdin quest_flora_bonsai_bake_check_3f2e03b4:
 msgid "[_flora_s_eyeroll_] I know you're hopelessly lazy, but..."
@@ -1022,7 +1022,7 @@ msgstr "[_flora_s_eyeroll_] Vous devez faire la cuisine par le livre ! Commencer
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:399 #-#-# translate crowdin quest_flora_bonsai_bake_check_f1e1d2e9_1:
 msgid "[_flora_s_neutral_] I need you to bring me a fork, a grater, a pan, a measuring beaker, eggs, and flour. In that order."
-msgstr "[_flora_s_neutral_] J'ai besoin que vous me ramenez une fourchette, un grater, une poêle, un bécher de mesure, des œufs et de la farine. Dans cet ordre."
+msgstr "[ _flora_s_neutral_ ] J'ai besoin que vous me ramenez une fourchette, un gratter, une poêle, un bécher de mesure, des œufs et de la farine. Dans cet ordre."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:403 #-#-# translate crowdin quest_flora_bonsai_bake_check_6d15102c:
 msgid "[_flora_s_thinking_] Two plus two equals—"
@@ -1042,7 +1042,7 @@ msgstr "[_flora_s_angry_] Non, non, non. Pas comme ça. Dois-je tout faire moi-m
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:407 #-#-# translate crowdin quest_flora_bonsai_bake_check_f1e1d2e9_2:
 msgid "[_flora_s_neutral_] I need you to bring me a fork, a grater, a pan, a measuring beaker, eggs, and flour. In that order."
-msgstr "[_flora_s_neutral_] J'ai besoin que vous me ramenez une fourchette, un grater, une poêle, un bécher de mesure, des œufs et de la farine. Dans cet ordre."
+msgstr "[ _flora_s_neutral_ ] J'ai besoin que vous me ramenez une fourchette, un gratter, une poêle, un bécher de mesure, des œufs et de la farine. Dans cet ordre."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:417 #-#-# translate crowdin quest_flora_bonsai_bake_confirm_f92d7d0b:
 msgid "[_flora_s_neutral_] Ready?"
@@ -1050,7 +1050,7 @@ msgstr "[_flora_s_neutral_] Prêt ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:418 #-#-# translate crowdin quest_flora_bonsai_bake_confirm_f1e1d2e9:
 msgid "[_flora_s_neutral_] I need you to bring me a fork, a grater, a pan, a measuring beaker, eggs, and flour. In that order."
-msgstr "[_flora_s_neutral_] J'ai besoin que vous me ramenez une fourchette, un grater, une poêle, un bécher de mesure, des œufs et de la farine. Dans cet ordre."
+msgstr "[ _flora_s_neutral_ ] J'ai besoin que vous me ramenez une fourchette, un gratter, une poêle, un bécher de mesure, des œufs et de la farine. Dans cet ordre."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:442 #-#-# translate crowdin quest_flora_bonsai_knock_knock_712b3f5c:
 msgid "Okay, this should sate the bonsai's thirst for today."
@@ -1414,7 +1414,7 @@ msgstr "[_mc_] Qu'est-ce qui est si drôle ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:630 #-#-# translate crowdin quest_flora_bonsai_fetch_onions_interact_836a65a7:
 msgid "[_flora_s_blush_] I was just testing you to see if you'd let me endanger myself."
-msgstr "[_flora_s_blush_] Je vous tesais juste pour voir si vous me laisseriez me mettre en danger."
+msgstr "[_flora_s_blush_] Je vous testais juste pour voir si vous me laisseriez me mettre en danger."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:631 #-#-# translate crowdin quest_flora_bonsai_fetch_onions_interact_ab039bf2:
 msgid "[_mc_] So, all these onions were for nothing?"
@@ -1914,7 +1914,7 @@ msgstr "[_flora_s_annoyed_] Je suis encore en train de fumer quelque chose de su
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:1037 #-#-# translate crowdin quest_flora_bonsai_gift_5d83845a:
 msgid "[_flora_s_skeptical_] Is this a lollipop?"
-msgstr "[_flora_s_skeptical_] Est-ce une lollipop ?"
+msgstr "[_flora_s_skeptical_] Est-ce une sucette ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:1038 #-#-# translate crowdin quest_flora_bonsai_gift_20ed90f5:
 msgid "[_mc_] Yes. You'll like it. I'll like it. Everyone's happy."
@@ -2010,7 +2010,7 @@ msgstr "[_mc_] Vous ne pouvez pas cuire les yeux bandés, et je dis non."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:1069 #-#-# translate crowdin quest_flora_bonsai_gift_1d91a6c3:
 msgid "[_flora_s_confused_] Why would you feed me the cake then?"
-msgstr "[_flora_s_confused_] Pourquoi me nourais-tu le gâteau alors ?"
+msgstr "[_flora_s_confused_] Pourquoi me donner le gâteau alors ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:1070 #-#-# translate crowdin quest_flora_bonsai_gift_0bd8f697:
 msgid "[_mc_] Just so you'll get to experience the withdrawal."
@@ -2030,7 +2030,7 @@ msgstr "[_mc_] Criez si vous avez besoin de quoi que ce soit !"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:1081 #-#-# translate crowdin quest_flora_bonsai_gift_0ec30152:
 msgid "[_flora_s_angry_] What do you want me to do with this? Eat it?"
-msgstr "[_flora_s_angry_] Que voulez-vous que je fasse avec ça ? Eat-le ?"
+msgstr "[_flora_s_angry_] Qu'est-ce que tu veux que je fasse avec ça ? Que je le mange ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:1082 #-#-# translate crowdin quest_flora_bonsai_gift_b60ecc85:
 msgid "She threw it on the ground..."
