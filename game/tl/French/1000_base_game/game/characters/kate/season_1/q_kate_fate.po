@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:11\n"
+"PO-Revision-Date: 2024-02-15 09:28\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:17 #-#-# translate crowdin quest_kate_fate_start_ec93e813:
 msgid "[_kate_s_neutral_] Excuse me. What do you think you're doing?"
@@ -334,7 +334,7 @@ msgstr "[_kate_] Pousse-le !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:274 #-#-# translate crowdin quest_kate_fate_fight_81a0812f:
 msgid "[_mc_] What the hell?! [withvpunch]"
-msgstr "[_mc_] Qu'est-ce que l'enfer ? ! [withvpunch]"
+msgstr "[_mc_] Qu'est-ce que l'enfer ?! [withvpunch]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:275 #-#-# translate crowdin quest_kate_fate_fight_7055b071:
 msgid "[_casey_s_confident_s_flip_] Freak, you broke my nail! Stop struggling!"
@@ -358,7 +358,7 @@ msgstr "Putain ... Je ne peux pas bouger un muscle."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:300 #-#-# translate crowdin quest_kate_fate_fight_f7dbd005:
 msgid "They tied those ropes tightly. Goddamn."
-msgstr "Ils ligoles étroitement ces cordes. Goddamn."
+msgstr "Ils ligoles étroitement ces cordes. GodBon sang."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:301 #-#-# translate crowdin quest_kate_fate_fight_ab1fd1b2:
 msgid "[_kate_s_cheerleader_feet_kate_smile_] There you are! Trussed up like a pathetic rope burrito."
@@ -558,7 +558,7 @@ msgstr "[_kate_s_cheerleader_feet_kate_neutral_] [mc] a raison."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:357 #-#-# translate crowdin quest_kate_fate_fight_a99b7d14:
 msgid "[_retinue_] He's what?! [withvpunch]"
-msgstr "[_retinue_] C'est quoi ? ! [withvpunch]"
+msgstr "[_retinue_] C'est quoi ?! [withvpunch]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:358 #-#-# translate crowdin quest_kate_fate_fight_9a465b89:
 msgid "[_kate_s_cheerleader_feet_kate_neutral_] She's the type that won't bow to my authority no matter what."
@@ -1138,7 +1138,7 @@ msgstr "[_kate_s_cheerleader_feet_] Allons, les filles !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:603 #-#-# translate crowdin quest_kate_fate_bound_babf7924:
 msgid "What the hell? Are they really going to leave me here overnight?!"
-msgstr "Qu'est-ce que l'enfer ? Est-ce qu'ils vont vraiment me laisser ici du jour au lendemain ? !"
+msgstr "Qu'est-ce que l'enfer ? Est-ce qu'ils vont vraiment me laisser ici du jour au lendemain ?!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:604 #-#-# translate crowdin quest_kate_fate_bound_d64eb40e:
 msgid "Fuck..."
@@ -1514,7 +1514,7 @@ msgstr "[_kate_s_neutral_rope_] C'est mieux."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:808 #-#-# translate crowdin quest_kate_fate_fight_surrender_8ba76663:
 msgid "[_kate_s_neutral_rope_] Hands behind your back, convict."
-msgstr "[_kate_s_neutral_rope_] Mains derrière votre dos, condamné."
+msgstr "[_kate_s_neutral_rope_] Mains derrière votre dos, conBon sangé."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:814 #-#-# translate crowdin quest_kate_fate_fight_surrender_aae08b16:
 msgid "[_kate_s_neutral_] Now, on your stomach."
@@ -1974,7 +1974,7 @@ msgstr "Fuck-moi ... Elle est encore repartie."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1029 #-#-# translate crowdin quest_kate_fate_conversation_710bd19e:
 msgid "[_isabelle_] [mc]?! Are you okay?"
-msgstr "[_isabelle_] [mc] ? ! Es-tu d'accord ?"
+msgstr "[_isabelle_] [mc] ?! Es-tu d'accord ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1030 #-#-# translate crowdin quest_kate_fate_conversation_58fd5e9a:
 msgid "Shit, I must've fallen asleep for a bit..."
@@ -1982,7 +1982,7 @@ msgstr "Merde, je dois m'endormissement pour un peu ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1036 #-#-# translate crowdin quest_kate_fate_conversation_93c1b0a9:
 msgid "[_isabelle_] Who did this to you?!"
-msgstr "[_isabelle_] Qui t'a fait ça ? !"
+msgstr "[_isabelle_] Qui t'a fait ça ?!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1037 #-#-# translate crowdin quest_kate_fate_conversation_dc74c21c:
 msgid "[_mc_] {i}Mmmph...{/}"
@@ -1994,7 +1994,7 @@ msgstr "[_isabelle_] Ici, laissez-moi vous délier !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1040 #-#-# translate crowdin quest_kate_fate_conversation_b75e6edc:
 msgid "[_isabelle_] Man, these knots are bloody tight..."
-msgstr "[_isabelle_] Homme, ces noeuds sont ensanglants ..."
+msgstr "[_isabelle_] Mec, ces nœuds sont sacrément serrés..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1050 #-#-# translate crowdin quest_kate_fate_conversation_e085a9a3:
 msgid "[_isabelle_s_concerned_] What happened here?"
@@ -2298,7 +2298,7 @@ msgstr "Ça ... semble inquiétant, mais dans une sorte de torsadée tordue ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1199 #-#-# translate crowdin quest_kate_fate_conversation_c72cf0a5:
 msgid "Fuck! Why am I such a sucker for [kate]?!"
-msgstr "Putain ! Pourquoi suis-je un tel suceur pour [kate] ? !"
+msgstr "Putain ! Pourquoi suis-je un tel suceur pour [kate] ?!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1200 #-#-# translate crowdin quest_kate_fate_conversation_a44d5c6c:
 msgid "Damn it. I need to push back, else she'll walk all over me..."
@@ -2442,7 +2442,7 @@ msgstr "[_isabelle_s_skeptical_] Qu'est-ce qui se passe ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1257 #-#-# translate crowdin quest_kate_fate_rescue_4f30208d:
 msgid "[_kate_s_skeptical_] None of your goddamn business."
-msgstr "[_kate_s_skeptical_] Aucune de vos activités de goddamn."
+msgstr "[_kate_s_skeptical_] Aucune de vos activités de godBon sang."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1258 #-#-# translate crowdin quest_kate_fate_rescue_f6a74aa4:
 msgid "[_kate_s_skeptical_] [mc], let's go."
