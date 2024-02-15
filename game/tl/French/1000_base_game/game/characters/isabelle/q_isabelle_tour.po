@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:05\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3 #-#-# translate crowdin isabelle_quest_isabelle_tour_86544d5e:
 msgid "[_isabelle_s_laughing_] I just wanted to say that I appreciate you showing me around."
@@ -1262,7 +1262,7 @@ msgstr "Dérendez-vous ... ? Nah, ça ne peut pas être-doit être mon imaginati
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:574 #-#-# translate crowdin quest_nurse_photogenic_second_chance_0ac7f64d:
 msgid "[_mc_] ...Hello?"
-msgstr "[ _mc_ ] ...Bonjour?"
+msgstr "[_mc_]  _mc_ ] ...Bonjour?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:575 #-#-# translate crowdin quest_nurse_photogenic_second_chance_dd847a7b:
 msgid "[_nurse_] ..."
