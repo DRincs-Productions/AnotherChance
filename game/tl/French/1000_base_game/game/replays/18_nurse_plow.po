@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 18:48\n"
+"PO-Revision-Date: 2024-02-15 23:41\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/18_nurse_plow.rpy:12 #-#-# translate crowdin replay_nurse_plow_2ea33455:
 msgid "[_nurse_s_thinking_] I still don't know what you have in mind..."
@@ -26,7 +26,7 @@ msgstr "[_nurse_s_Souriez_] Comment allez-vous faire ?"
 
 # game/1000_base_game/game/replays/18_nurse_plow.rpy:15 #-#-# translate crowdin replay_nurse_plow_081ca31e:
 msgid "[_mc_] I got this plow and now I got the cattle to pull it."
-msgstr "[J'ai cette charrue et maintenant j'ai le bétail pour la tirer."
+msgstr "[_mc_] J'ai cette charrue et maintenant j'ai le bétail pour la tirer."
 
 # game/1000_base_game/game/replays/18_nurse_plow.rpy:16 #-#-# translate crowdin replay_nurse_plow_82e8e5bc:
 msgid "[_nurse_s_annoyed_] I don't see any cattle..."
@@ -154,7 +154,7 @@ msgstr "[_mc_] Pull !"
 
 # game/1000_base_game/game/replays/18_nurse_plow.rpy:58 #-#-# translate crowdin replay_nurse_plow_f0824331:
 msgid "[_mc_] Pull, my little moo-cow!"
-msgstr "[Tire, ma petite vache !"
+msgstr "[_mc_] Tire, ma petite vache !"
 
 # game/1000_base_game/game/replays/18_nurse_plow.rpy:59 #-#-# translate crowdin replay_nurse_plow_dd847a7b:
 msgid "[_nurse_] ..."
