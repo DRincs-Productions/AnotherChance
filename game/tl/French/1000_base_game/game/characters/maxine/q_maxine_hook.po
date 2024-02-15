@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:3 #-#-# translate crowdin quest_maxine_hook_start_8a0e7ef1:
 msgid "[_mc_] Hey, [maxine]! What are you doing?"
@@ -1866,7 +1866,7 @@ msgstr "[_kate_s_confident_right_] Ok ... si vous ne l'avez pas fait, alors c'é
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:808 #-#-# translate crowdin quest_maxine_hook_interrogation_kate_c695655f:
 msgid "[_mc_] [isabelle] doesn't have crooked teeth."
-msgstr "[_mc_] [isabelle] n'a pas de dents crochies."
+msgstr "[_mc_] [_mc_] isabelle] n'a pas de dents crochies."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:809 #-#-# translate crowdin quest_maxine_hook_interrogation_kate_c0b5e7a6:
 msgid "[_kate_s_laughing_] It sure sounds like she does when she talks."
@@ -2014,7 +2014,7 @@ msgstr "[_guard_s_suspicious_] Pouvez-vous me dire où se trouve la nuit derniè
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:881 #-#-# translate crowdin quest_maxine_hook_interrogation_18fbcbc5:
 msgid "[_mc_] I was with [maxine]. She can vouch for me."
-msgstr "[_mc_] I was with [maxine]. Elle peut se porter garant de moi."
+msgstr "[_mc_] J'étais avec [maxine]. Elle peut se porter garante de moi."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:882 #-#-# translate crowdin quest_maxine_hook_interrogation_1884bcb9:
 msgid "[_guard_s_suspicious_] We will confirm this with her, so you better not be making things up.{space=-5}"
