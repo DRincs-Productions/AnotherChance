@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 14:31\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:5 #-#-# translate crowdin isabelle_quest_haggis_deliver_c4773099:
 msgid "[_isabelle_s_excited_] What is this?"
@@ -1198,7 +1198,7 @@ msgstr "[_flora_s_confused_] Que voulez-vous dire ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:713 #-#-# translate crowdin isabelle_quest_haggis_cup_game_again_d1dd2350:
 msgid "[_mc_] If you lose again, you'll have to accept a dare."
-msgstr "[_mc_] Si vous perdez à nouveau, vous devrez accepter un oser."
+msgstr "[_mc_] Si vous perdez à nouveau, vous devrez accepter un défi."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:714 #-#-# translate crowdin isabelle_quest_haggis_cup_game_again_ac311919:
 msgid "[_flora_s_annoyed_] Well, I'm not getting naked if that's what you're thinking."
@@ -1238,7 +1238,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:738 #-#-# translate crowdin isabelle_quest_haggis_cup_game_again_86d5dd36:
 msgid "[_mc_] You lost. Get over it."
-msgstr "[_mc_] Vous avez perdu. Va-y."
+msgstr "[_mc_] Vous avez perdu. Il faut s'en remettre."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:739 #-#-# translate crowdin isabelle_quest_haggis_cup_game_again_5ab42f2a:
 msgid "[_flora_s_eyeroll_] Whatever. I don't really care anyway."
@@ -1254,7 +1254,7 @@ msgstr "[_flora_s_thinking_] Hmm ... intermédiaire !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:796 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_0c994870:
 msgid "[_mc_] Damn it, [flora]!"
-msgstr "[_mc_] Bon sang it, [flora]!"
+msgstr "[_mc_] Bon sang, [flora] !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:800 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_8c9eafc2:
 msgid "[_flora_s_laughing_] Woo! Easy!"
@@ -1294,7 +1294,7 @@ msgstr "[_flora_s_cringe_] Je ne mange rien de brut, et je ne me fais pas nue."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:830 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_897be9d3:
 msgid "[_mc_] Your dare is to kiss [isabelle]."
-msgstr "[_mc_] Votre oser est d'embrasser [isabelle]."
+msgstr "[_mc_] Votre défi est d'embrasser [isabelle]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:831 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_97e72ac1:
 msgid "[_flora_s_cringe_] No way, you perv!"
@@ -1334,7 +1334,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:844 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_97deafd0:
 msgid "[_mc_] I don't know what the big deal is. It's just a dare."
-msgstr "[_mc_] Je ne sais pas ce que c'est. C'est juste un oser."
+msgstr "[_mc_] Je ne vois pas où est le problème. C'est juste un défi."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:845 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_e7cc187a:
 msgid "[_flora_s_annoyed_] And you're just a pervert."
@@ -1498,7 +1498,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:919 #-#-# translate crowdin isabelle_quest_haggis_flora_endorse_291c92d0:
 msgid "[_mc_] I also want you to endorse me in getting the reward."
-msgstr "[_mc_] Je veux aussi que vous m'endrmiez pour obtenir la récompense."
+msgstr "[_mc_] Je souhaite également que vous me souteniez dans l'obtention de la récompense."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:920 #-#-# translate crowdin isabelle_quest_haggis_flora_endorse_1bd725e2:
 msgid "[_flora_s_annoyed_] Yeah, that's fine. Just get me out of here."
@@ -1794,7 +1794,7 @@ msgstr "[_mc_] C'est en fait pire !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1092 #-#-# translate crowdin isabelle_quest_haggis_give_bayonets_etiquettes_isabelle_5325a143:
 msgid "[_mc_] Hating haggis was considered worse than treason."
-msgstr "[_mc_] Hating haggis a été considéré pire que la trahison."
+msgstr "[_mc_] Détester le haggis était considéré comme pire que la trahison."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1093 #-#-# translate crowdin isabelle_quest_haggis_give_bayonets_etiquettes_isabelle_fd16a29a:
 msgid "[_isabelle_s_skeptical_] I don't believe you."
@@ -1930,7 +1930,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1152 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_8a9a5a6d:
 msgid "[_mc_] I pick [flora]."
-msgstr "[_mc_] I pick [flora]."
+msgstr "[_mc_] Je choisis [flore]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1153 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_4bf95134:
 msgid "[_mrsl_s_surprised_] Are you sure she didn't trick you into leaving the room in order to disqualify you?"
@@ -1966,7 +1966,7 @@ msgstr "[_mc_] Je suppose ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1164 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_e9011915:
 msgid "[_mc_] I pick [isabelle]."
-msgstr "[_mc_] I pick [isabelle]."
+msgstr "[_mc_] Je choisis [isabelle]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1165 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_799252cf:
 msgid "[_mc_] I feel like it's a nice gesture to give it to the new girl..."
@@ -1978,7 +1978,7 @@ msgstr "[_mrsl_s_confident_] Qu'en est-il du [flora] ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1167 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_a23917d6:
 msgid "[_mc_] What about her?"
-msgstr "[_mc_] Qu'en est-il de elle ?"
+msgstr "[_mc_] Et elle ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1168 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_3a8622f8:
 msgid "[_mrsl_s_laughing_] Well, she practically tricked you into forfeiting your claim to the reward."
