@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:00\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:5 #-#-# translate crowdin isabelle_quest_haggis_deliver_c4773099:
 msgid "[_isabelle_s_excited_] What is this?"
@@ -1930,7 +1930,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1152 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_8a9a5a6d:
 msgid "[_mc_] I pick [flora]."
-msgstr "[_mc_] Je choisis [flore]."
+msgstr "[_mc_] Je choisis [_mc_] flore]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1153 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_4bf95134:
 msgid "[_mrsl_s_surprised_] Are you sure she didn't trick you into leaving the room in order to disqualify you?"
