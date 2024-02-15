@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:05\n"
+"PO-Revision-Date: 2024-02-15 22:00\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:3 #-#-# translate crowdin quest_flora_handcuffs_start_baf5498f:
 msgid "[_mc_] Hey, [flora]! Do you have a minute?"
@@ -184,7 +184,7 @@ msgstr "[_mc_] Je cherchais juste quelque chose à lire."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:55 #-#-# translate crowdin quest_flora_handcuffs_start_00981988:
 msgid "[_flora_s_cringe_] You were snooping!"
-msgstr "[_flora_s_cringe_] Vous étiez en train de snobendre !"
+msgstr "[_flora_s_cringe_] Vous fouiniez !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:56 #-#-# translate crowdin quest_flora_handcuffs_start_8d83f354:
 msgid "[_mc_] I wasn't!"
@@ -414,7 +414,7 @@ msgstr "[_mc_] Vous vous inquiétez pour rien !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:137 #-#-# translate crowdin quest_flora_handcuffs_package_83c2500f:
 msgid "[_flora_s_concerned_] That's what you said right before drenching me with ice water..."
-msgstr "[_flora_s_concerned_] C'est ce que tu as dit juste avant de me départir avec de l'eau glacé ..."
+msgstr "[_flora_s_concerned_] C'est ce que tu as dit juste avant de m'arroser d'eau glacée..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:138 #-#-# translate crowdin quest_flora_handcuffs_package_33ac439c:
 msgid "[_mc_] To be fair, it was for that ice bucket challenge."
@@ -486,7 +486,7 @@ msgstr "[_mc_] C'était juste une farce, mon frère. Vous devez vous en remettre
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:167 #-#-# translate crowdin quest_flora_handcuffs_package_098719e0:
 msgid "[_flora_s_angry_] Screw you! Seriously."
-msgstr "[_flora_s_angry_] Screw you ! Sérieusement."
+msgstr "[_flora_s_angry_] Va te faire voir ! Sérieusement."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:172 #-#-# translate crowdin quest_flora_handcuffs_package_5c917257:
 msgid "[_mc_] Ow! That's assault!"
@@ -494,7 +494,7 @@ msgstr "[_mc_] Ow ! C'est l'assaut !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:173 #-#-# translate crowdin quest_flora_handcuffs_package_39dd306e:
 msgid "[_flora_s_concerned_] No, it's just a prank. Get over it."
-msgstr "[_flora_s_concerned_] Non, c'est juste une farce. Va-y."
+msgstr "[_flora_s_concerned_] Non, c'est juste une blague. Il faut s'en remettre."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:174 #-#-# translate crowdin quest_flora_handcuffs_package_36c0ab61:
 msgid "Painful, but fair..."
@@ -1028,7 +1028,7 @@ msgstr "Dépansement en public. Une vue pour les yeux douloureux."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:417 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_0c49a74b:
 msgid "[_flora_s_concerned_] Happy?"
-msgstr "[_flora_s_concerned_] Happy ?"
+msgstr "[_flora_s_concerned_] Heureux ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:418 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_8d3d3154:
 msgid "[_mc_] Not quite..."
@@ -1052,7 +1052,7 @@ msgstr "[_mc_] Alors je mourrai un homme heureux."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:431 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_05212ccb:
 msgid "[_flora_s_angry_] Happy now, you goddamn pervert?"
-msgstr "[_flora_s_angry_] Happy now, you godBon sang pervert ?"
+msgstr "[_flora_s_angry_] Heureux maintenant, espèce de pervers ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:432 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_1003108e:
 msgid "[_mc_] Very..."
@@ -1452,7 +1452,7 @@ msgstr "[_mc_] Dites que vous avez vu un chat coincé dans un arbre à l'extéri
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:626 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_6f63659d:
 msgid "[_flora_s_laughing_] That's the most cliché thing I've ever heard!"
-msgstr "[_flora_s_laughing_] C'est la chose la plus cliché que j'ai jamais entendue !"
+msgstr "[_flora_s_laughing_] C'est la chose la plus clichée que j'ai jamais entendue !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:627 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_4a0deadb:
 msgid "[_mc_] And that's exactly why it'll work."
@@ -1494,7 +1494,7 @@ msgstr "[_flora_s_flirty_] Il y a ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:654 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_1a9ba2b0:
 msgid "[_flora_s_laughing_] I mean, eww! That's gross!"
-msgstr "[_flora_s_laughing_] Je veux dire, eww ! C'est brut !"
+msgstr "[_flora_s_laughing_] Je veux dire, beurk ! C'est dégueulasse !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:655 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_2b35b6fe_1:
 msgid "[_mc_] ..."
@@ -1562,7 +1562,7 @@ msgstr "[_mc_] Honnêtement, je ne pense pas que vous avez besoin d'une excuse."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:694 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_2673b9f1:
 msgid "[_flora_s_laughing_] You're probably right! He won't question anything as soon as he hears the word \"doughnut.\""
-msgstr "[_flora_s_laughing_] Vous avez probablement raison ! Il ne remet pas en question quelque chose dès qu'il entend le mot \"doughnut\"."
+msgstr "[_flora_s_laughing_] Vous avez sans doute raison ! Il ne remettra rien en question dès qu'il entendra le mot \"beignet.\""
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:695 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_51e53baf:
 msgid "[_mc_] That's what I'm banking on."
