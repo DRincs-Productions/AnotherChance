@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:06\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:3 #-#-# translate crowdin quest_kate_stepping_start_b9e60c75:
 msgid "[_kate_s_skeptical_] What have I told you about looking at me?"
@@ -70,7 +70,7 @@ msgstr "[_mc_] Vous ne devriez absolument pas, mais ce n'est pas mon opinion."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:25 #-#-# translate crowdin quest_kate_stepping_start_6d233da1:
 msgid "[_mc_] I was reading [flora]'s Cosmololitan last night and saw a model with your exact hairstyle, only less shiny."
-msgstr "[_mc_] I was reading [flora]'s Cosmololitan last night and saw a model with your exact hairstyle, only less shiny."
+msgstr "[_mc_] I was reading [_mc_] flora]'s Cosmololitan last night and saw a model with your exact hairstyle, only less shiny."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:26 #-#-# translate crowdin quest_kate_stepping_start_599e16fa:
 msgid "[_mc_] It's been voted hairstyle of the year by a panel of distinguished fashion judges."
@@ -320,7 +320,7 @@ msgstr "[_kate_s_embarrassed_] Rencontrez-moi dans la salle de gym pour un ajust
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:138 #-#-# translate crowdin quest_kate_stepping_start_7673be95:
 msgid "[_mc_] Look, [kate], I set up the meeting and I'm going to it now. You can come with me or not."
-msgstr "[_mc_] Look, [kate], I set up the meeting and I'm going to it now. Tu peux venir avec moi ou pas."
+msgstr "[_mc_] Ecoutez, [_mc_] Kate], j'ai organisé la réunion et j'y vais maintenant. Tu peux venir avec moi ou pas."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:139 #-#-# translate crowdin quest_kate_stepping_start_a31363e3:
 msgid "[_kate_s_angry_] You're going to regret this..."
@@ -2321,7 +2321,7 @@ msgstr "[_kate_] Que voulez-vous ?"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:939 #-#-# translate crowdin quest_kate_stepping_phone_call_kate_9e2eccea:
 msgid "[_mc_] I've put [isabelle] to sleep\n"
 "in the English classroom..."
-msgstr "[_mc_] I've put [isabelle] to sleep\n"
+msgstr "[_mc_] I've put [_mc_] isabelle] to sleep\n"
 "in the English classroom ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:940 #-#-# translate crowdin quest_kate_stepping_phone_call_kate_bece9498:
