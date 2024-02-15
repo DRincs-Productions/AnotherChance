@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 18:49\n"
+"PO-Revision-Date: 2024-02-15 22:01\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:5 #-#-# translate crowdin quest_kate_trick_start_6cb5dee0:
 msgid "Uh-oh. Did I just step into the Colosseum?"
@@ -1474,7 +1474,7 @@ msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:696 #-#-# translate crowdin quest_kate_trick_flora_f46fa032:
 msgid "[_flora_s_skeptical_] The look that says you're about to ask me for something."
-msgstr "[_flora_s_skeptical_] The look that says you're about to ask me for something."
+msgstr "[_flora_s_skeptical_] Le regard qui dit que vous êtes sur le point de me demander quelque chose."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:697 #-#-# translate crowdin quest_kate_trick_flora_dd91307c:
 msgid "Huh... seems like I need to work on my poker face. Mum-mum-mum-mah."
@@ -1590,7 +1590,7 @@ msgstr "[_mc_] Vous êtes les bienvenus."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:736 #-#-# translate crowdin quest_kate_trick_flora_8ac898b2:
 msgid "[_flora_s_concerned_] Whatever, dork."
-msgstr "[_flora_s_concerned_] Quoi qu'il en soit, dork."
+msgstr "[_flora_s_concerned_] Peu importe, abruti."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:737 #-#-# translate crowdin quest_kate_trick_flora_571003a1:
 msgid "[_flora_s_concerned_] Good luck with whatever ridiculous thing you're up to now."
@@ -1622,7 +1622,7 @@ msgstr "[_mc_] Ugh, fine ... Je te donnerai vingt dollars."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:752 #-#-# translate crowdin quest_kate_trick_flora_7eeeeafd:
 msgid "[_flora_s_excited_] Make it fifty."
-msgstr "[_flora_s_excited_] Make it cinquante."
+msgstr "[_flora_s_excited_] Disons cinquante."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:753 #-#-# translate crowdin quest_kate_trick_flora_d2c20d97:
 msgid "[_mc_] Fifty? That's kinda steep."
@@ -1638,7 +1638,7 @@ msgstr "[Vous menez un dur combat."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:756 #-#-# translate crowdin quest_kate_trick_flora_084a029f:
 msgid "[_flora_s_angry_] Beggars can't be choosers."
-msgstr "[_flora_s_angry_] Les Beggars ne peuvent pas être des choeurs."
+msgstr "[_flora_s_angry_] Les mendiants ne peuvent pas être choqués."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:760 #-#-# translate crowdin quest_kate_trick_flora_deal_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1662,7 +1662,7 @@ msgstr "[_mc_] Vous ne savez même pas ce que je veux encore ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:775 #-#-# translate crowdin quest_kate_trick_flora_deal_5e1bd527:
 msgid "[_flora_s_concerned_] Is it creepy or disgusting?"
-msgstr "[_flora_s_concerned_] Is it creepy or disgusting ?"
+msgstr "[_flora_s_concerned_] Est-ce que c'est effrayant ou dégoûtant ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:776 #-#-# translate crowdin quest_kate_trick_flora_deal_afd74152:
 msgid "[_mc_] What do you think?"
@@ -1670,7 +1670,7 @@ msgstr "[_mc_] Que pensez-vous ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:777 #-#-# translate crowdin quest_kate_trick_flora_deal_f8e37ae5:
 msgid "[_flora_s_concerned_] Knowing you? Both."
-msgstr "[_flora_s_concerned_] Vous connarez ? Les deux."
+msgstr "[_flora_s_concerned_] Vous connaître ? Les deux."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:778 #-#-# translate crowdin quest_kate_trick_flora_deal_f181662a:
 msgid "[_mc_] Ugh! No, it's not!"
@@ -1690,7 +1690,7 @@ msgstr "[_flora_s_concerned_] Très drôle."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:784 #-#-# translate crowdin quest_kate_trick_flora_deal_3104a04c:
 msgid "[_flora_s_concerned_] 'Scuse me for expecting some quid pro quo!"
-msgstr "[_flora_s_concerned_] 'Scuse-moi pour m'attendre à un quid pro quo !"
+msgstr "[_flora_s_concerned_] \"Excusez-moi de m'attendre à un quid pro quo !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:785 #-#-# translate crowdin quest_kate_trick_flora_deal_5ce8a8d3:
 msgid "[_mc_] You want to get paid in British money?"
@@ -1924,7 +1924,7 @@ msgstr "[_mc_] Quand Einstein était enfant-"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:861 #-#-# translate crowdin quest_kate_trick_park_89718be5:
 msgid "[_flora_s_eyeroll_leash_] That's been debunked."
-msgstr "[_flora_s_eyeroll_leash_] Cela a été démystiqué."
+msgstr "[_flora_s_eyeroll_leash_] Cela a été démenti."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:862 #-#-# translate crowdin quest_kate_trick_park_902d3da2:
 msgid "[_mc_] Whatever. Let's just go."
@@ -2304,7 +2304,7 @@ msgstr "[_nurse_s_blush_] Oh, mon. C'est un grand chien ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1077 #-#-# translate crowdin quest_kate_trick_gym_2e62728d:
 msgid "[_flora_s_laughing_] Don't worry, he's just a big fluff ball!"
-msgstr "[_flora_s_laughing_] Ne vous inquiétez pas, il n'est qu'une grosse boule de neige !"
+msgstr "[_flora_s_laughing_] Ne vous inquiétez pas, ce n'est qu'une grosse boule de poils !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1078 #-#-# translate crowdin quest_kate_trick_gym_6597eebb:
 msgid "[_mc_] Yeah, a big fluff ball with five-inch fangs."
