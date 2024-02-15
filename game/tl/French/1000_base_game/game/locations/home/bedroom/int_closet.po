@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:20\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:76 #-#-# translate crowdin home_bedroom_closet_kate_fate_dress_ebc2c219:
 msgid "Okay, time to pick my outfit for this endeavor..."
@@ -226,7 +226,7 @@ msgstr "[_flora_s_afraid_] Aaah ! [withhpunch]"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:209 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_fa94b5ee:
 msgid "[_mc_] [flora]?! What the hell?"
-msgstr "[_mc_] [flora] ? ! Qu'est-ce que l'enfer ?"
+msgstr "[_mc_] [flora] ?! Qu'est-ce que l'enfer ?"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:210 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_228df983:
 msgid "[_flora_s_embarrassed_] Sorry, but..."
@@ -358,7 +358,7 @@ msgstr "[_mc_] Hmm ... oui. Je pense que [flora] a oublié que nous avions une d
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:255 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_6efc0963:
 msgid "[_jacklyn_s_smile_] Wicked. Wanna get out of here? I know a good way to make a statement."
-msgstr "[_jacklyn_s_smile_] Wicked. Tu veux sortir d'ici ? Je sais une bonne façon de faire une déclaration."
+msgstr "[_jacklyn_s_Souriez_] Wicked. Tu veux sortir d'ici ? Je sais une bonne façon de faire une déclaration."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:258 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -374,7 +374,7 @@ msgstr "Connaissant [flora], elle me détestera sans doute maintenant."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:263 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_bcf8eadd:
 msgid "It's a bit weird that she felt so strongly about the hand holding... I was just trying to be nice."
-msgstr "C'est un peu bizarre qu'elle se sentait si forte au sujet de la tenue à la main ... J'essayais juste d'être gentile."
+msgstr "C'est un peu bizarre qu'elle se sentait si forte au sujet de la tenue à la main ... J'essayais juste d'être gentille."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:264 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_a022df3a:
 msgid "Besides, we can't really date or have a normal relationship. She knows that."
@@ -418,7 +418,7 @@ msgstr "[_mc_] Merci d'être cool à ce sujet."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:278 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_d6392707:
 msgid "[_jacklyn_s_smile_] No problemo. I'll see myself out."
-msgstr "[_jacklyn_s_smile_] Pas de problème. Je me verrai moi-même."
+msgstr "[_jacklyn_s_Souriez_] Pas de problème. Je me verrai moi-même."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:280 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_0d8ebf87:
 msgid "All right, better go find [flora] before she does something stupid."
@@ -426,7 +426,7 @@ msgstr "Très bien, allez trouver [flora] avant qu'elle fasse quelque chose de s
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:284 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_3986b376:
 msgid "[_mc_] You, me, and [jo] — you know all three of us are terrible liars."
-msgstr "[_mc_] You, moi, and [jo] -you know all three of us are terrible mentars."
+msgstr "[_mc_] You, moi, and [_mc_] jo] -you know all three of us are terrible mentars."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:285 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_5d59ecba:
 msgid "[_flora_s_eyeroll_] Fine. I was spying on you."
@@ -502,7 +502,7 @@ msgstr "[_flora_s_worried_s_flip_] Pourquoi tu sors avec [mc] ?"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:307 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_c7319aa4:
 msgid "[_jacklyn_s_smile_right_] I was hungry, mostly."
-msgstr "[_jacklyn_s_smile_right_] J'avais faim, surtout."
+msgstr "[_jacklyn_s_Souriez_right_] J'avais faim, surtout."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:308 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_993e34d9:
 msgid "Ouch. That's rough."
@@ -522,7 +522,7 @@ msgstr "[_flora_s_annoyed_] Que vous aimiez mes cheveux et mon sourire, et que v
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:312 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_6681757e:
 msgid "[_jacklyn_s_smile_right_] Well, I think that, and I'd like to do that."
-msgstr "[_jacklyn_s_smile_right_] Eh bien, je pense que, et j'aimerais le faire."
+msgstr "[_jacklyn_s_Souriez_right_] Eh bien, je pense que, et j'aimerais le faire."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:313 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_9f63a719:
 msgid "[_flora_s_concerned_s_flip_] So you're just trying to make me jealous?"
@@ -530,7 +530,7 @@ msgstr "[_flora_s_concerned_s_flip_] Alors vous essayez juste de me rendre jalou
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:314 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_e53a03ac:
 msgid "[_jacklyn_s_smile_right_] Are you jealous?"
-msgstr "[_jacklyn_s_smile_right_] Êtes-vous jaloux ?"
+msgstr "[_jacklyn_s_Souriez_right_] Êtes-vous jaloux ?"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:315 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_bb704398:
 msgid "[_flora_s_angry_s_flip_] What do you think?!"
@@ -546,11 +546,11 @@ msgstr "[_mc_] Avez-vous vraiment fait une date avec moi pour la rendre jalouse 
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:324 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_2aa34879:
 msgid "[_jacklyn_s_smile_] Obviously not."
-msgstr "[_jacklyn_s_smile_] Evidemment pas."
+msgstr "[_jacklyn_s_Souriez_] Evidemment pas."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:325 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_cd1fd443:
 msgid "[_jacklyn_s_smile_] I also did it for the free meal."
-msgstr "[_jacklyn_s_smile_] Je l'ai aussi fait pour le repas gratuit."
+msgstr "[_jacklyn_s_Souriez_] Je l'ai aussi fait pour le repas gratuit."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:326 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_e9448d92:
 msgid "Ugh."
@@ -582,7 +582,7 @@ msgstr "[_jacklyn_s_neutral_] Vous avez probablement raison. Je ne peux pas avoi
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:337 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_d75832c9:
 msgid "[_jacklyn_s_smile_] Thanks for the dinner."
-msgstr "[_jacklyn_s_smile_] Merci pour le dîner."
+msgstr "[_jacklyn_s_Souriez_] Merci pour le dîner."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:340 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_8d9b2ff5:
 msgid "Not really sure what's gotten into me, but it felt like the right thing to do."
