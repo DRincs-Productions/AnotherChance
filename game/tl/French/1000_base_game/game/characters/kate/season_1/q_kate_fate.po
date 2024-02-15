@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 18:48\n"
+"PO-Revision-Date: 2024-02-15 23:42\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:17 #-#-# translate crowdin quest_kate_fate_start_ec93e813:
 msgid "[_kate_s_neutral_] Excuse me. What do you think you're doing?"
@@ -210,7 +210,7 @@ msgstr "[_kate_s_excited_] Cependant, ce privilège a certaines conditions ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:154 #-#-# translate crowdin quest_kate_fate_start_f3716317:
 msgid "[_mc_] What, um... conditions?"
-msgstr "[Quelles, euh... conditions ?"
+msgstr "[_mc_] Quelles, euh... conditions ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:155 #-#-# translate crowdin quest_kate_fate_start_6a641fe1:
 msgid "[_kate_s_skeptical_] Well, we'd have to make sure you don't touch your dick, wouldn't we?"
@@ -410,7 +410,7 @@ msgstr "[_mc_] Encore une telle salope."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:318 #-#-# translate crowdin quest_kate_fate_fight_21a5b353:
 msgid "[_mc_] Please don't!"
-msgstr "[S'il vous plaît, non !"
+msgstr "[_mc_] S'il vous plaît, non !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:319 #-#-# translate crowdin quest_kate_fate_fight_cab60430:
 msgid "[_mc_] I'm sorry for stepping out of line, ma'am..."
@@ -778,7 +778,7 @@ msgstr "[_mc_] Baise-moi ! Vous me déchirez-"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:438 #-#-# translate crowdin quest_kate_fate_socks_8e8a4a2a:
 msgid "[_mc_] {i}Mmmph!{/} [withvpunch]"
-msgstr "[_mc_] {i}Mmmph ! {/} [withvpunch]"
+msgstr "[_mc_] {i}Mmmph ! {/} [_mc_] withvpunch]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:445 #-#-# translate crowdin quest_kate_fate_socks_7fa9b69f:
 msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_laughing_] There you go! I told you those socks would go into your mouth..."
@@ -1934,7 +1934,7 @@ msgstr "[_mc_] C'est au début de l'année scolaire, et je me suis dit que je vo
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1001 #-#-# translate crowdin quest_kate_fate_conversation_dfb01a93:
 msgid "[_mc_] But clearly you're the same old bitch you've always been. Irredeemable."
-msgstr "[Mais il est clair que tu es la même vieille salope que tu as toujours été. Irrémédiable."
+msgstr "[_mc_] Mais il est clair que tu es la même vieille salope que tu as toujours été. Irrémédiable."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1002 #-#-# translate crowdin quest_kate_fate_conversation_6be1690a:
 msgid "[_mc_] This year, you'll be caught in the act and exposed."
@@ -1950,7 +1950,7 @@ msgstr "[_kate_s_cheerleader_feet_nofeet_kate_holdingsock_Souriez_phoneground_] 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1009 #-#-# translate crowdin quest_kate_fate_conversation_8e8a4a2a:
 msgid "[_mc_] {i}Mmmph!{/} [withvpunch]"
-msgstr "[_mc_] {i}Mmmph ! {/} [withvpunch]"
+msgstr "[_mc_] {i}Mmmph ! {/} [_mc_] withvpunch]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1015 #-#-# translate crowdin quest_kate_fate_conversation_7527e238:
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_neutral_phoneground_] I like you better silent. Perhaps we should get a permanent muzzle for you?"
@@ -2054,7 +2054,7 @@ msgstr "[_isabelle_s_neutral_] Laissez-moi parler au directeur. En attendant, al
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1092 #-#-# translate crowdin quest_kate_fate_conversation_ce94c8da:
 msgid "[_mc_] Blegh! [withvpunch]"
-msgstr "[ _mc_ ] Blegh ! [ withvpunch ]"
+msgstr "[_mc_]  _mc_ ] Blegh ! [_mc_]  withvpunch ]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1096 #-#-# translate crowdin quest_kate_fate_conversation_c24253d9:
 msgid "Not sure why, but I feel like [isabelle] would've exploded if she learned about the socks..."
@@ -2066,7 +2066,7 @@ msgstr "Certaines choses sont mieux conservées d'elle."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1107 #-#-# translate crowdin quest_kate_fate_conversation_ce94c8da_1:
 msgid "[_mc_] Blegh! [withvpunch]"
-msgstr "[ _mc_ ] Blegh ! [ withvpunch ]"
+msgstr "[_mc_]  _mc_ ] Blegh ! [_mc_]  withvpunch ]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1108 #-#-# translate crowdin quest_kate_fate_conversation_87c1da68:
 msgid "[_isabelle_s_concerned_left_] What the hell is that?"
@@ -2086,7 +2086,7 @@ msgstr "[_isabelle_s_afraid_] Donnez-moi ça ! Je prends ça au principal !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1112 #-#-# translate crowdin quest_kate_fate_conversation_66ab3708:
 msgid "[_mc_] It won't accomplish anything..."
-msgstr "[Cela ne servira à rien..."
+msgstr "[_mc_] Cela ne servira à rien..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1113 #-#-# translate crowdin quest_kate_fate_conversation_ed8579e3:
 msgid "[_mc_] [kate] has immunity from the school board thanks to her dad."
@@ -2234,7 +2234,7 @@ msgstr "[_kate_s_cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground_
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1172 #-#-# translate crowdin quest_kate_fate_conversation_2abc17f7:
 msgid "[_mc_] Untie me now."
-msgstr "[Détachez-moi maintenant."
+msgstr "[_mc_] Détachez-moi maintenant."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1173 #-#-# translate crowdin quest_kate_fate_conversation_d0391e2f:
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_holdingsock_neutral_phoneground_] Ask nicely."
@@ -2246,7 +2246,7 @@ msgstr "Ugh ... elle va me quitter ici encore, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1175 #-#-# translate crowdin quest_kate_fate_conversation_f5a10397:
 msgid "[_mc_] Untie me, please..."
-msgstr "[Détachez-moi, s'il vous plaît..."
+msgstr "[_mc_] Détachez-moi, s'il vous plaît..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1176 #-#-# translate crowdin quest_kate_fate_conversation_7d6f10de:
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_holdingsock_laughing_phoneground_] That wasn't so hard, was it?"
@@ -2330,7 +2330,7 @@ msgstr "Mais si je suis de retour maintenant, elle va penser que je suis une cha
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1209 #-#-# translate crowdin quest_kate_fate_conversation_2abc17f7_1:
 msgid "[_mc_] Untie me now."
-msgstr "[Détachez-moi maintenant."
+msgstr "[_mc_] Détachez-moi maintenant."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1210 #-#-# translate crowdin quest_kate_fate_conversation_802d7f19:
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_neutral_ballgag_phoneground_] Ask nicely."
@@ -2342,7 +2342,7 @@ msgstr "Ugh ... elle va me quitter ici encore, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1212 #-#-# translate crowdin quest_kate_fate_conversation_f5a10397_1:
 msgid "[_mc_] Untie me, please..."
-msgstr "[Détachez-moi, s'il vous plaît..."
+msgstr "[_mc_] Détachez-moi, s'il vous plaît..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1213 #-#-# translate crowdin quest_kate_fate_conversation_1b5cae5d:
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_laughing_ballgag_phoneground_] That wasn't so hard, was it?"
@@ -2358,7 +2358,7 @@ msgstr "[_kate_s_cheerleader_feet_nofeet_kate_Souriez_ballgag_phoneground_] Trè
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1217 #-#-# translate crowdin quest_kate_fate_conversation_2abc17f7_2:
 msgid "[_mc_] Untie me now."
-msgstr "[Détachez-moi maintenant."
+msgstr "[_mc_] Détachez-moi maintenant."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1218 #-#-# translate crowdin quest_kate_fate_conversation_c1af33dd:
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_neutral_phoneground_] Ask nicely."
@@ -2370,7 +2370,7 @@ msgstr "Ugh ... elle va me quitter ici encore, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1220 #-#-# translate crowdin quest_kate_fate_conversation_f5a10397_2:
 msgid "[_mc_] Untie me, please..."
-msgstr "[Détachez-moi, s'il vous plaît..."
+msgstr "[_mc_] Détachez-moi, s'il vous plaît..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1221 #-#-# translate crowdin quest_kate_fate_conversation_4a8705cf:
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_laughing_phoneground_] That wasn't so hard, was it?"
@@ -2526,7 +2526,7 @@ msgstr "Qui sait ce qui aurait pu arriver autrement ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1294 #-#-# translate crowdin quest_kate_fate_rescue_2a2d9ffd:
 msgid "[_mc_] I just wanted to get [isabelle]'s thoughts on the school's gym equipment."
-msgstr "[Je voulais juste connaître l'avis de [isabelle] sur l'équipement de la salle de sport de l'école."
+msgstr "[_mc_] Je voulais juste connaître l'avis de [isabelle] sur l'équipement de la salle de sport de l'école."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1295 #-#-# translate crowdin quest_kate_fate_rescue_8ecf1453:
 msgid "[_kate_s_skeptical_] ..."
@@ -2706,7 +2706,7 @@ msgstr "[_kate_s_confident_] Thought you could get away, didn't you ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1379 #-#-# translate crowdin quest_kate_fate_dead_end_kate_f2a87b69:
 msgid "[_mc_] I was, err... just looking for something to read..."
-msgstr "[Je cherchais juste quelque chose à lire..."
+msgstr "[_mc_] Je cherchais juste quelque chose à lire..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1380 #-#-# translate crowdin quest_kate_fate_dead_end_kate_4e7638f3:
 msgid "[_kate_s_confident_] Yeah?"
