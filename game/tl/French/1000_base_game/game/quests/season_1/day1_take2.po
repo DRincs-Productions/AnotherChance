@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:11\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_1/day1_take2.rpy:46 #-#-# translate crowdin quest_day1_take2_arrived_914a9ae0:
 msgid "Newfall High — the perfect place to have your confidence shattered and your hopes turned to dust, while on a semi-strict diet of eggos and strawberry juice."
@@ -342,11 +342,11 @@ msgstr "[_mrsl_s_excited_] Certains d'entre vous devront travailler aussi fort q
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:188 #-#-# translate crowdin quest_day1_take2_homeroom_520564d6:
 msgid "[_mrsl_s_smile_] Others might have more time for... other activities."
-msgstr "[_mrsl_s_smile_] D'autres pourraient avoir plus de temps pour d'autres activités."
+msgstr "[_mrsl_s_Souriez_] D'autres pourraient avoir plus de temps pour d'autres activités."
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:189 #-#-# translate crowdin quest_day1_take2_homeroom_b374c1dd:
 msgid "[_mrsl_s_smile_] In the end, your grades are all up to you."
-msgstr "[_mrsl_s_smile_] En fin de compte, vos notes vous sont toutes à la hauteur."
+msgstr "[_mrsl_s_Souriez_] En fin de compte, vos notes vous sont toutes à la hauteur."
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:193 #-#-# translate crowdin quest_day1_take2_homeroom_3fde7f7b:
 msgid "[_mc_] What classes do you teach this year, [mrsl]?"
@@ -354,11 +354,11 @@ msgstr "[_mc_] Quelles classes enseignez-vous cette année, [mrsl] ?"
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:194 #-#-# translate crowdin quest_day1_take2_homeroom_1371e073:
 msgid "[_mrsl_s_smile_] Unfortunately, I won't be teaching any classes this year."
-msgstr "[_mrsl_s_smile_] Malheureusement, je n'enseignerai pas de cours cette année."
+msgstr "[_mrsl_s_Souriez_] Malheureusement, je n'enseignerai pas de cours cette année."
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:195 #-#-# translate crowdin quest_day1_take2_homeroom_97f05499:
 msgid "[_mrsl_s_smile_] But I will be coaching the Newfall swim team. You're very welcome to try out, [mc]!"
-msgstr "[_mrsl_s_smile_] Mais je vais entraîner l'équipe de natation Newfall. Vous êtes le bienvenu pour essayer, [mc]!"
+msgstr "[_mrsl_s_Souriez_] Mais je vais entraîner l'équipe de natation Newfall. Vous êtes le bienvenu pour essayer, [mc]!"
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:196 #-#-# translate crowdin quest_day1_take2_homeroom_8653f38f:
 msgid "That's... err. Is she being suggestive on purpose?"
@@ -414,11 +414,11 @@ msgstr "Et, évidemment, sortir de ma ligue."
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:215 #-#-# translate crowdin quest_day1_take2_homeroom_16d9f318:
 msgid "[_mrsl_s_smile_] Why don't you tell us a bit about yourself?"
-msgstr "[_mrsl_s_smile_] Pourquoi ne pas nous parler un peu de vous ?"
+msgstr "[_mrsl_s_Souriez_] Pourquoi ne pas nous parler un peu de vous ?"
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:216 #-#-# translate crowdin quest_day1_take2_homeroom_05dc1a61:
 msgid "[_isabelle_s_smile_] I'm originally from London, but thanks to my dad's job, we move almost every year."
-msgstr "[_isabelle_s_smile_] Je suis originaire de Londres, mais grâce au travail de mon père, on se déplace presque chaque année."
+msgstr "[_isabelle_s_Souriez_] Je suis originaire de Londres, mais grâce au travail de mon père, on se déplace presque chaque année."
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:217 #-#-# translate crowdin quest_day1_take2_homeroom_ffa49a55:
 msgid "[_isabelle_s_sad_] I get to see the world, but sometimes it's hard to stay in touch with people."
@@ -486,11 +486,11 @@ msgstr "[_mrsl_s_blush_] C'est votre dernière année d'école. Alors, assurez-v
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:261 #-#-# translate crowdin quest_day1_take2_homeroom_2244d2bf:
 msgid "[_mrsl_s_smile_] I think that's all for now. Don't forget to sign up for your focus classes!"
-msgstr "[_mrsl_s_smile_] Je pense que c'est tout pour l'instant. N'oubliez pas de vous inscrire à vos cours de focus !"
+msgstr "[_mrsl_s_Souriez_] Je pense que c'est tout pour l'instant. N'oubliez pas de vous inscrire à vos cours de focus !"
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:262 #-#-# translate crowdin quest_day1_take2_homeroom_bfe25d3b:
 msgid "[_mrsl_s_smile_] If you have any questions throughout the year, feel free to stop by here or at the pool."
-msgstr "[_mrsl_s_smile_] Si vous avez des questions tout au long de l'année, n'hésitez pas à vous arrêter ici ou à la piscine."
+msgstr "[_mrsl_s_Souriez_] Si vous avez des questions tout au long de l'année, n'hésitez pas à vous arrêter ici ou à la piscine."
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:272 #-#-# translate crowdin quest_day1_take2_lindsey_fall_7fc2d2f2:
 msgid "[_lindsey_] Eeep!"
@@ -566,7 +566,7 @@ msgstr "Entre cette rose serrée tendue de la luxure interdite et les indignes .
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:314 #-#-# translate crowdin quest_day1_take2_lindsey_fall_b10006c1:
 msgid "[_lindsey_] Piece of crap scum sign!"
-msgstr "[_lindsey_] Piece of crap scum signe !"
+msgstr "[_lindsey_] Panneau de merde !"
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:316 #-#-# translate crowdin quest_day1_take2_lindsey_fall_8bb3389c:
 msgid "[_lindsey_] Ugh..."
