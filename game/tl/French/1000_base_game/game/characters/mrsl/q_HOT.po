@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3 #-#-# translate crowdin mrsl_quest_HOT_start_9598f0ee:
 msgid "[mrsl] seems lost in thought. Her eyes wander slowly over the gym."
@@ -110,11 +110,11 @@ msgstr "[_mc_] Qu'est-ce que vous mangez habituellement ?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:39 #-#-# translate crowdin mrsl_quest_HOT_start_49882155:
 msgid "[_mrsl_s_smile_] A diet is a personal thing. It's never one size fits all."
-msgstr "[_mrsl_s_smile_] Une alimentation est une chose personnelle. Ce n'est jamais une taille unique."
+msgstr "[_mrsl_s_Souriez_] Une alimentation est une chose personnelle. Ce n'est jamais une taille unique."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:40 #-#-# translate crowdin mrsl_quest_HOT_start_96a19a9c:
 msgid "[_mrsl_s_smile_] I usually like to keep my meals hot. Lately, I've been going for small portions of junk food."
-msgstr "[_mrsl_s_smile_] J'aime habituellement garder mes repas chauds. Dernièrement, j'ai fait de petites portions de malbouffe."
+msgstr "[_mrsl_s_Souriez_] J'aime habituellement garder mes repas chauds. Dernièrement, j'ai fait de petites portions de malbouffe."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:41 #-#-# translate crowdin mrsl_quest_HOT_start_8e3b0e1d:
 msgid "[_mc_] You can diet on junk food?"
@@ -538,7 +538,7 @@ msgstr "[_mc_] Je suis d'accord avec le [flora]. Tu n'as rien à craindre, [lind
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:207 #-#-# translate crowdin mrsl_quest_lindsey_talk_4fea137e:
 msgid "[_lindsey_s_smile_] Hey, thanks! I appreciate that."
-msgstr "[_lindsey_s_smile_] Hé, merci ! J'apprécie ça."
+msgstr "[_lindsey_s_Souriez_] Hé, merci ! J'apprécie ça."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:208 #-#-# translate crowdin mrsl_quest_lindsey_talk_2e229f7c:
 msgid "[_flora_s_excited_] You should do that more often, [mc]."
@@ -630,7 +630,7 @@ msgstr "Maintenant que le [flora] le mentionne, [jo] était dans toutes sortes d
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:247 #-#-# translate crowdin mrsl_quest_lindsey_talk_8a6eb046:
 msgid "[_lindsey_s_smile_] Well, I got to get my bearings straight for practice. See you around!"
-msgstr "[_lindsey_s_smile_] Eh bien, j'ai droit à mes roulements pour la pratique. À tout le monde !"
+msgstr "[_lindsey_s_Souriez_] Eh bien, j'ai droit à mes roulements pour la pratique. À tout le monde !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:250 #-#-# translate crowdin mrsl_quest_lindsey_talk_d6246ca7:
 msgid "[_flora_s_worried_] Are you finally going to get in shape, or what's the deal?"
@@ -654,7 +654,7 @@ msgstr "[_mc_] [jo] ? Vous souvenez-vous des programmes de formation que vous av
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:261 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_a228073e:
 msgid "[_jo_s_smile_] Yes! They worked wonders. You should try one some time."
-msgstr "[_jo_s_smile_] Oui ! Ils ont fait des merveilles. Tu devrais essayer un peu de temps."
+msgstr "[_jo_s_Souriez_] Oui ! Ils ont fait des merveilles. Tu devrais essayer un peu de temps."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:262 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_62be7a1e:
 msgid "[_mc_] I'm okay, thanks."
@@ -866,7 +866,7 @@ msgstr "Elle n'a rien dit sur le porno régulier, cependant !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:342 #-#-# translate crowdin mrsl_quest_HOT_flora_text_447cef3a:
 msgid "[_mc_] I like putting you to work, [flora]. No amount of money will change that!"
-msgstr "[_mc_] I like mets you to work, [flora]. Aucune somme d'argent ne changera cela !"
+msgstr "[_mc_] I like mets you to work, [_mc_] flora]. Aucune somme d'argent ne changera cela !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:345 #-#-# translate crowdin mrsl_quest_HOT_flora_text_83178c20:
 msgid "[_flora_] Fuck off."
@@ -978,11 +978,11 @@ msgstr "[_mc_] Je ... me confierai des devoirs ... Je suppose."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:400 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_28bae0b3:
 msgid "[_jo_s_smile_] That's what I like to hear!"
-msgstr "[_jo_s_smile_] C'est ce que j'aime entendre !"
+msgstr "[_jo_s_Souriez_] C'est ce que j'aime entendre !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:401 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_171a65c2:
 msgid "[_jo_s_smile_] [flora] is already working hard. We've had a couple of other students ask for her homework schedule."
-msgstr "[_jo_s_smile_] [flora] travaille déjà dur. Nous avons eu quelques autres élèves à demander son programme de devoirs."
+msgstr "[_jo_s_Souriez_] [flora] travaille déjà dur. Nous avons eu quelques autres élèves à demander son programme de devoirs."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:402 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_86181714:
 msgid "[_mc_] Great. Good for her."
@@ -1114,11 +1114,11 @@ msgstr "[_mc_] Err ... oui, j'ai commandé une vidéo d'instruction pour l'écol
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:445 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_9d858b94:
 msgid "[_jo_s_smile_] That's great to hear! Very good use of your money."
-msgstr "[_jo_s_smile_] C'est super d'entendre ! Très bon usage de votre argent."
+msgstr "[_jo_s_Souriez_] C'est super d'entendre ! Très bon usage de votre argent."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:446 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_f05de0ef:
 msgid "[_jo_s_smile_] Here you go."
-msgstr "[_jo_s_smile_] Ici, vous allez."
+msgstr "[_jo_s_Souriez_] Ici, vous allez."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:448 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_f3876764:
 msgid "It's badly wrapped, but it definitely has the shape of a videotape."
@@ -1138,11 +1138,11 @@ msgstr "C'est dommage que nous n'ayons pas de joueur VHS à la maison ... mais p
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:460 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_5f9af487:
 msgid "[_jo_s_smile_] Hey, honey! How's your day so far?"
-msgstr "[_jo_s_smile_] Hé, chérie ! Comment va votre journée jusqu'à présent ?"
+msgstr "[_jo_s_Souriez_] Hé, chérie ! Comment va votre journée jusqu'à présent ?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:461 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_4b73269c:
 msgid "[_mc_] It's... a bit weird. I dreamt that [kate] cut a hole in my head and tried to eat my soul with a spoon."
-msgstr "[_mc_] C'est. .. un peu bizarre. J'ai rêvé que [kate] a coupé un trou dans ma tête et essayé de manger mon âme avec une cuillon."
+msgstr "[_mc_] C'est. .. un peu bizarre. J'ai rêvé que [_mc_] kate] a coupé un trou dans ma tête et essayé de manger mon âme avec une cuillon."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:462 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_d8669efa:
 msgid "[_jo_s_concerned_] That doesn't sound like [kate]."
@@ -1234,7 +1234,7 @@ msgstr "[_flora_s_laughing_] Merci, [jo], mais je pense que je vais passer !"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:487 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_abccc089:
 msgid "[_jo_s_smile_] Very well."
-msgstr "[_jo_s_smile_] Très bien."
+msgstr "[_jo_s_Souriez_] Très bien."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:488 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_23210bef:
 msgid "[_flora_s_flirty_] Is [mc] in trouble again?"
@@ -1390,7 +1390,7 @@ msgstr "[_jo_s_excited_] Ok. J'ai besoin d'aller chercher les dernières robes. 
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:546 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_b055d135:
 msgid "[_jo_s_smile_] Not that I know of."
-msgstr "[_jo_s_smile_] Pas que je sache."
+msgstr "[_jo_s_Souriez_] Pas que je sache."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:547 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_a21a8cf7:
 msgid "[_jo_s_confident_] He's been quite good lately... I must say I'm happily surprised."
@@ -1502,7 +1502,7 @@ msgstr "[_mc_] Et aussi parce qu'il me plaît de savoir ce que vous ne faites pa
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:580 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_e9d2eaed:
 msgid "[_flora_s_smile_] I get that. It's such a rare thing."
-msgstr "[_flora_s_smile_] Je l'ai. C'est une chose si rare."
+msgstr "[_flora_s_Souriez_] Je l'ai. C'est une chose si rare."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:581 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_753fd7f3:
 msgid "[_mc_] That was a compliment."
@@ -1598,7 +1598,7 @@ msgstr "[_mc_] I need it to watch vintage porn."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:610 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr "[_flora_s_cringe_] Gross."
+msgstr "[_flora_s_cringe_] Grossier."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:611 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_db85b611:
 msgid "[_flora_s_eyeroll_] Why do I even ask?"
@@ -1606,7 +1606,7 @@ msgstr "[_flora_s_eyeroll_] Pourquoi je demande même ?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:612 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_e87dda41:
 msgid "[_mc_] Gross? Old school porn was quite classy."
-msgstr "[_mc_] Gross ? Le porno de l'ancienne école était plutôt classy."
+msgstr "[_mc_] Grossier ? Le porno de l'ancienne école était plutôt classy."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:613 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_c36d369e:
 msgid "[_flora_s_angry_] I don't need to know this!"
@@ -1718,7 +1718,7 @@ msgstr "Il vaut mieux ne pas être un putain de rickroll ..."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:661 #-#-# translate crowdin home_bedroom_computer_interact_mrsl_HOT_watch_f971435d:
 msgid "[_mrsl_s_smile_] Do you ever feel like your jaw aches and your throat is sore?"
-msgstr "[_mrsl_s_smile_] Est-ce que vous vous sentez mal à la mâchoire et à la gorge ?"
+msgstr "[_mrsl_s_Souriez_] Est-ce que vous vous sentez mal à la mâchoire et à la gorge ?"
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:662 #-#-# translate crowdin home_bedroom_computer_interact_mrsl_HOT_watch_45a8393c:
 msgid "Holy shit, it's actually [mrsl]!"
