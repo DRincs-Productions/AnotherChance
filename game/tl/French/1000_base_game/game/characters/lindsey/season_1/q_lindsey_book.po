@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 18:48\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:3 #-#-# translate crowdin quest_lindsey_book_start_c7688f55:
 msgid "[_mc_] Hey, [lindsey]! Your, err... your hair looks nice today!"
@@ -426,7 +426,7 @@ msgstr "[_lindsey_s_skeptical_] Qu'est-ce que c'est ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:185 #-#-# translate crowdin quest_lindsey_book_suggest_1432241b:
 msgid "[_mc_] A porno-political satire. It's a classic!"
-msgstr "[Une satire porno-politique. C'est un classique !"
+msgstr "[_mc_] Une satire porno-politique. C'est un classique !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:186 #-#-# translate crowdin quest_lindsey_book_suggest_bb3f5c60:
 msgid "[_lindsey_s_skeptical_] It's not exactly what I had in mind..."
@@ -486,7 +486,7 @@ msgstr "[_lindsey_s_Souriez_] Ok, je vais trouver un endroit tranquille pour lir
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:220 #-#-# translate crowdin quest_lindsey_book_suggest_ff62f9a0:
 msgid "[_mc_] All right, let me know what you think!"
-msgstr "[Très bien, dites-moi ce que vous en pensez !"
+msgstr "[_mc_] Très bien, dites-moi ce que vous en pensez !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:221 #-#-# translate crowdin quest_lindsey_book_suggest_e232fdfc:
 msgid "[_lindsey_s_smile_] Will do! Thanks again!"
@@ -550,7 +550,7 @@ msgstr "[_lindsey_s_blush_] Vraiement ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:253 #-#-# translate crowdin quest_lindsey_book_feedback_93dabedc:
 msgid "[_mc_] Yeah. I'll get you an easel."
-msgstr "[Oui. Je vais te trouver un chevalet."
+msgstr "[_mc_] Oui. Je vais te trouver un chevalet."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:254 #-#-# translate crowdin quest_lindsey_book_feedback_a4ba5b29:
 msgid "[_lindsey_s_blush_] Thank you! That would be fantastic. Those things are expensive as hell and I'm just a hobby painter!"
@@ -558,7 +558,7 @@ msgstr "[_lindsey_s_blush_] Merci ! Ce serait fantastique. Ces choses sont chèr
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:257 #-#-# translate crowdin quest_lindsey_book_feedback_0005d2fe:
 msgid "[_mc_] If I bring you an easel, will you let me watch?"
-msgstr "[Si je vous apporte un chevalet, me laisserez-vous regarder ?"
+msgstr "[_mc_] Si je vous apporte un chevalet, me laisserez-vous regarder ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:258 #-#-# translate crowdin quest_lindsey_book_feedback_f9ac24bf:
 msgid "[_lindsey_s_flirty_] I'm kinda shy about my art..."
@@ -618,7 +618,7 @@ msgstr "[_lindsey_s_flirty_] Je suppose que si vous pouvez obtenir vos mains sur
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:279 #-#-# translate crowdin quest_lindsey_book_feedback_41494785:
 msgid "[_mc_] Sounds good!"
-msgstr "[Ça a l'air bien !"
+msgstr "[_mc_] Ça a l'air bien !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:281 #-#-# translate crowdin quest_lindsey_book_feedback_d3ba3d2a:
 msgid "Hmm... perhaps that wasn't the smartest thing to promise. But she gets so excited, it compels me to help her."
@@ -674,7 +674,7 @@ msgstr "[_lindsey_s_blush_] Eh bien, j'espère qu'il y a un chevalier dans l'arm
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:307 #-#-# translate crowdin quest_lindsey_book_easel_79d5aa91:
 msgid "[_mc_] Here's the easel! And I know it's not pretty, but it works."
-msgstr "[Voilà le chevalet ! Et je sais que ce n'est pas joli, mais ça marche."
+msgstr "[_mc_] Voilà le chevalet ! Et je sais que ce n'est pas joli, mais ça marche."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:313 #-#-# translate crowdin quest_lindsey_book_easel_308a41c8:
 msgid "[_lindsey_s_laughing_] Aw! Thank you!"
@@ -802,7 +802,7 @@ msgstr "[_lindsey_s_thinking_] Il a probablement pris la chevalet pour des bâto
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:387 #-#-# translate crowdin quest_lindsey_book_easel_3915adea:
 msgid "[_mc_] Well, it's going to chew it up and use it for its dam!"
-msgstr "[Eh bien, il va la mâcher et s'en servir comme digue !"
+msgstr "[_mc_] Eh bien, il va la mâcher et s'en servir comme digue !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:388 #-#-# translate crowdin quest_lindsey_book_easel_99f1795d:
 msgid "[_lindsey_s_sad_] There's not much we can do..."
