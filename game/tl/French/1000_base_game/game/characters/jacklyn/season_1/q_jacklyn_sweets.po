@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-15 23:42\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:2 #-#-# translate crowdin quest_jacklyn_sweets_start_9efa726c:
 msgid "[_guard_] ZzzZzzzzZzz..."
@@ -30,7 +30,7 @@ msgstr "[_jo_s_sad_] J'espère que vous n'emballez pas le [guard], [mc]."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:7 #-#-# translate crowdin quest_jacklyn_sweets_start_eb4045dd:
 msgid "[_mc_] Bothering? Not exactly."
-msgstr "[ _mc_ ] Bothering? Pas exactement."
+msgstr "[_mc_]  _mc_ ] Bothering? Pas exactement."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:8 #-#-# translate crowdin quest_jacklyn_sweets_start_b13f9ca6:
 msgid "[_jo_s_thinking_] Good. I don't want you getting in his way. He has a very important job.{space=-45}"
@@ -210,7 +210,7 @@ msgstr "Sur quoi est le [jacklyn] ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:90 #-#-# translate crowdin quest_jacklyn_sweets_feed_3f9df27f:
 msgid "[_mc_] ...What?"
-msgstr "[...Quoi ?"
+msgstr "[_mc_] ...Quoi ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:91 #-#-# translate crowdin quest_jacklyn_sweets_feed_dd38315c:
 msgid "[_jacklyn_s_smile_] Ezekiel 25:17."
@@ -246,7 +246,7 @@ msgstr "[_mc_] Je ne permets pas de temps avec une charité inutile ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:99 #-#-# translate crowdin quest_jacklyn_sweets_feed_11984b1e:
 msgid "[_mc_] I'm actually, err... working on... an art project? Yes, that's right! Food nouveau, to be precise."
-msgstr "[Je suis en fait, euh... en train de travailler sur... un projet artistique ? Oui, c'est ça ! Food nouveau, pour être précis."
+msgstr "[_mc_] Je suis en fait, euh... en train de travailler sur... un projet artistique ? Oui, c'est ça ! Food nouveau, pour être précis."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:100 #-#-# translate crowdin quest_jacklyn_sweets_feed_3077b682:
 msgid "[_jacklyn_s_excited_] Bitch, no shot!"
@@ -294,7 +294,7 @@ msgstr "[_jacklyn_s_Souriez_] What's barkin', Snoopy ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:119 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_ec13116b:
 msgid "[_mc_] Woof, woof!"
-msgstr "[Woof, woof !"
+msgstr "[_mc_] Woof, woof !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:120 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_815f8d17:
 msgid "[_jacklyn_s_neutral_] ..."
@@ -302,7 +302,7 @@ msgstr "[_jacklyn_s_neutral_]..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:121 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_5b10dfbc:
 msgid "[_mc_] Okay, that was cringe. I'm sorry."
-msgstr "[D'accord, c'était un peu bizarre. Je suis désolée."
+msgstr "[_mc_] D'accord, c'était un peu bizarre. Je suis désolée."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:122 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_39979cec:
 msgid "[_jacklyn_s_smile_] A bit, yeah."
@@ -342,7 +342,7 @@ msgstr "Et que sont les cotes [jacklyn] connait l'éditeur de freaking ?!"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:131 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_c3d37068:
 msgid "[_mc_] Err, yep. That's it..."
-msgstr "[Err, yep. C'est ça..."
+msgstr "[_mc_] Err, yep. C'est ça..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:132 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_6482bf36:
 msgid "How do I get out of this now?"
@@ -438,7 +438,7 @@ msgstr "[_jacklyn_s_excited_] L'avis est éphémère. L'art est éternel."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:164 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_1a59ed65:
 msgid "[_mc_] I'm particularly uninterested in what the critics have to say."
-msgstr "[Je ne m'intéresse pas du tout à ce que les critiques ont à dire."
+msgstr "[_mc_] Je ne m'intéresse pas du tout à ce que les critiques ont à dire."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:165 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_bcf6d4bc:
 msgid "[_mc_] Miserable and talentless, wallowing in their own hypocrisy."
@@ -450,7 +450,7 @@ msgstr "[_jacklyn_s_laughing_] Si je n'étais pas à l'horloge, je vous donnerai
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:167 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_8d99d8d2:
 msgid "[_mc_] I'll give you one instead — you're only half as hot as your mind and vision.{space=-120}"
-msgstr "[Je vais vous en donner une à la place - vous n'êtes que la moitié de ce que votre esprit et votre vision peuvent vous apporter.{space=-120}"
+msgstr "[_mc_] Je vais vous en donner une à la place - vous n'êtes que la moitié de ce que votre esprit et votre vision peuvent vous apporter.{space=-120}"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:168 #-#-# translate crowdin quest_jacklyn_sweets_oldpromises_82af9b33:
 msgid "[_jacklyn_s_laughing_] Hah, you sure know how to foreplay."
@@ -678,7 +678,7 @@ msgstr "[_flora_s_worried_] Alors, puis-je l'emprunter ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:275 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_658f0aa1:
 msgid "[_mc_] Sure! We could even play together if you like."
-msgstr "[Bien sûr ! Nous pourrions même jouer ensemble si vous le souhaitez."
+msgstr "[_mc_] Bien sûr ! Nous pourrions même jouer ensemble si vous le souhaitez."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:276 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_e03e87f6:
 msgid "[_flora_s_laughing_] I don't know... I'm not very good."
@@ -726,7 +726,7 @@ msgstr "[_flora_s_blush_] I do ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:288 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_f21630a1:
 msgid "[_mc_] Okay, don't get any funny ideas now — you're just getting to borrow my xCube."
-msgstr "[Ok, ne te fais pas d'idées bizarres maintenant - tu vas juste emprunter mon xCube."
+msgstr "[_mc_] Ok, ne te fais pas d'idées bizarres maintenant - tu vas juste emprunter mon xCube."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:289 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_44154bf9:
 msgid "[_flora_s_laughing_] I wasn't...."
@@ -954,7 +954,7 @@ msgstr "[_flora_s_embarrassed_] Vous essayez de dormir avec [jacklyn], n'est-ce 
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:362 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_733d05af:
 msgid "[_mc_] Look, I'm just a simple artisan trying to hone my craft."
-msgstr "[Je ne suis qu'un simple artisan qui essaie de perfectionner son art."
+msgstr "[_mc_] Je ne suis qu'un simple artisan qui essaie de perfectionner son art."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:363 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_85241f7c:
 msgid "[_flora_s_crying_] You're a troll is what you are!"
@@ -1138,7 +1138,7 @@ msgstr "[_mc_] Je suppose qu'il a ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:490 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_0a31458b:
 msgid "[_mc_] If it ain't a crime scene, it ain't art."
-msgstr "[Si ce n'est pas une scène de crime, ce n'est pas de l'art."
+msgstr "[_mc_] Si ce n'est pas une scène de crime, ce n'est pas de l'art."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:492 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_6b82c45f:
 msgid "[_jacklyn_s_laughing_] Right out of my playbook!"
@@ -1146,7 +1146,7 @@ msgstr "[_jacklyn_s_laughing_] Tout droit sorti de mon livre de jeux !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:493 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_db7abb17:
 msgid "[_mc_] I'm learning a lot from you. More than Mrs. Bloomer ever did."
-msgstr "[J'apprends beaucoup de vous. Plus que Mme Bloomer ne l'a jamais fait."
+msgstr "[_mc_] J'apprends beaucoup de vous. Plus que Mme Bloomer ne l'a jamais fait."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:494 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_9a663ce5:
 msgid "[_jacklyn_s_excited_] I'm just showing you the ropes. You'll have to tie the knot yourself."
@@ -1174,7 +1174,7 @@ msgstr "[_jacklyn_s_Souriez_] C'est cool, ça ne me déra pas un peu."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:500 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_aa707888:
 msgid "[_mc_] You're not even blushing..."
-msgstr "[Tu ne rougis même pas..."
+msgstr "[_mc_] Tu ne rougis même pas..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:501 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_6c3a447e:
 msgid "[_jacklyn_s_smile_right_] I am on the inside."
@@ -1262,7 +1262,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:534 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_d37db5aa:
 msgid "[_mc_] Could you take a photo for Newfall Culinary?"
-msgstr "[Pourriez-vous prendre une photo pour Newfall Culinary ?"
+msgstr "[_mc_] Pourriez-vous prendre une photo pour Newfall Culinary ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:535 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_7e797172:
 msgid "[_jacklyn_s_king_of_sweets_lip_bite_] Sure thing, babylegs."
@@ -1434,7 +1434,7 @@ msgstr "[_jacklyn_s_king_of_sweets_stroke2_] ... et sur la toile ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:710 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_938a3904:
 msgid "[_mc_] Hnnng!"
-msgstr "[Hnnng !"
+msgstr "[_mc_] Hnnng !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:711 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_3a845318:
 msgid "[_jacklyn_s_king_of_sweets_stroke1_] ...is part of the masterpiece."
@@ -1670,7 +1670,7 @@ msgstr "[_jacklyn_s_king_of_sweets_cum_on_face1_] Hmm ? Est-il temps pour le roi
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:972 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_42778659:
 msgid "[_mc_] Y-yeah..."
-msgstr "[Oui, oui..."
+msgstr "[_mc_] Oui, oui..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:973 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_3dc889ae:
 msgid "[_jacklyn_s_king_of_sweets_cum_on_face1_] You're the artist now — tell me where you want the final splash of color!{space=-85}"
@@ -1710,7 +1710,7 @@ msgstr "[jacklyn] n'est même pas gêné, ce qui le rend même plus chaud."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:1046 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_4c779ae5:
 msgid "[_mc_] Swallow it!"
-msgstr "[Avalez-la !"
+msgstr "[_mc_] Avalez-la !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:1047 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_7f79f9d6:
 msgid "[_jacklyn_s_king_of_sweets_cum_on_face1_] Great art always fills the body and soul."
