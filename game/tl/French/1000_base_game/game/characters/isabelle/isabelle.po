@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 17:39\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2316 #-#-# translate crowdin isabelle_talk_romance_disabled_fa619cce:
 msgid "I don't think [isabelle] wants to talk to me after what I did to her..."
@@ -612,7 +612,7 @@ msgstr "[_isabelle_s_skeptical_] Truly ?"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2700 #-#-# translate crowdin isabelle_flirt_tips_f2ba459a:
 msgid "[_mc_] Yeah, she sometimes gets a bit feisty, but in reality she's really kind.{space=-5}"
-msgstr "[Oui, elle est parfois un peu fougueuse, mais en réalité elle est très gentille.{space=-5}"
+msgstr "[_mc_] Oui, elle est parfois un peu fougueuse, mais en réalité elle est très gentille.{space=-5}"
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2701 #-#-# translate crowdin isabelle_flirt_tips_c6a5750b:
 msgid "[_mc_] And she has an adorable accent."
