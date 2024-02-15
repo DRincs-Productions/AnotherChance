@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:58\n"
+"PO-Revision-Date: 2024-02-15 16:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:88 #-#-# translate crowdin school_ground_floor_guard_booth_interact_default_c0f68e65:
 msgid "The [guard] seems to be asleep. "
@@ -26,7 +26,7 @@ msgstr "Il y a une odeur de café et de pâtisseries fraîchement cuites venant 
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:94 #-#-# translate crowdin school_ground_floor_guard_booth_interact_day1_take2_5e2ade0e:
 msgid "Must be nice to have a job where your only real duty is locking up the school at night."
-msgstr "Il faut être gentile d'avoir un emploi où votre seul devoir réel est de verrouiller l'école la nuit."
+msgstr "Il faut être gentille d'avoir un emploi où votre seul devoir réel est de verrouiller l'école la nuit."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:98 #-#-# translate crowdin school_ground_floor_guard_booth_interact_the_key_11ca154f:
 msgid "[_mc_] Hi, I'd like to pick up my locker key."
@@ -58,7 +58,7 @@ msgstr "[_mc_] Non."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:111 #-#-# translate crowdin school_ground_floor_guard_booth_interact_the_key_995e2d55:
 msgid "[_guard_] A senior who doesn't know how things work around here?"
-msgstr "[_guard_] Un aîné qui ne sait pas comment les choses fonctionnent ici ?"
+msgstr "[_guard_] Une personne âgée qui ne sait pas comment les choses fonctionnent ici ?"
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:112 #-#-# translate crowdin school_ground_floor_guard_booth_interact_the_key_3c01123f:
 msgid "[_guard_] I've got my eye on you."
@@ -226,7 +226,7 @@ msgstr "Comme un sac à ordures qui roule sur le côté de la route."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:199 #-#-# translate crowdin school_ground_floor_guard_booth_lindsey_wrong_doughnuts_7c5aed20:
 msgid "[_guard_] Okay, here's the damn mop. Don't bother me again."
-msgstr "[_guard_] Ok, voici la putain de mop. Ne me déranger pas encore."
+msgstr "[_guard_] Ok, voilà cette foutue serpillière. Ne me dérangez plus."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:207 #-#-# translate crowdin school_ground_floor_guard_booth_lindsey_wrong_doughnuts_63338eb1:
 msgid "[_guard_] What do you want me to do with this?"
