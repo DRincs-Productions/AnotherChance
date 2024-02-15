@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:11\n"
+"PO-Revision-Date: 2024-02-15 17:40\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:76 #-#-# translate crowdin school_first_hall_east_door_bathroom_interact_9deb3421:
 msgid "Have you ever had the honor of eating your turkey mayo sandwhich surrounded by poop particles?"
@@ -102,7 +102,7 @@ msgstr "[_guard_s_surprised_flashlight_] Huh ?"
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:115 #-#-# translate crowdin quest_maxine_eggs_bathroom_interact_recon_2cdbcfd0:
 msgid "[_guard_s_angry_flashlight_] Hey! What do you think you're doing?"
-msgstr "[_guard_s_angry_flashlight_] Hey ! Que penses-tu que tu fais ?"
+msgstr "[_guard_s_angry_flashlight_] Hé ! Que penses-tu que tu fais ?"
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:116 #-#-# translate crowdin quest_maxine_eggs_bathroom_interact_recon_fb6e33a2:
 msgid "Shit."
@@ -306,7 +306,7 @@ msgstr "[_mc_] L'eau est la température parfaite si vous êtes d'humeur à nage
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:213 #-#-# translate crowdin quest_maxine_eggs_bathroom_interact_recon_f68f4fa1:
 msgid "[_guard_s_smile_flashlight_] That would be nice, but it's getting late."
-msgstr "[_guard_s_smile_flashlight_] Ce serait bien, mais il est en retard."
+msgstr "[_guard_s_Souriez_flashlight_] Ce serait bien, mais il est en retard."
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:214 #-#-# translate crowdin quest_maxine_eggs_bathroom_interact_recon_d04d6d02:
 msgid "[_mc_] All right. Well, I'm about to hit the showers."
@@ -318,7 +318,7 @@ msgstr "[_mc_] C'est une longue journée, mais je suis heureux que nous ayons la
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:216 #-#-# translate crowdin quest_maxine_eggs_bathroom_interact_recon_b8b070fd:
 msgid "[_guard_s_smile_flashlight_] Keep up the good work, kid."
-msgstr "[_guard_s_smile_flashlight_] Continuez le bon travail, gamin."
+msgstr "[_guard_s_Souriez_flashlight_] Continuez le bon travail, gamin."
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:217 #-#-# translate crowdin quest_maxine_eggs_bathroom_interact_recon_e6a25665:
 msgid "[_mc_] See you around, sir!"
