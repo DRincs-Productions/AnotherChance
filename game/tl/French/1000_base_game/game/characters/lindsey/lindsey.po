@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-09 16:02\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1540 #-#-# translate crowdin lindsey_talk_romance_disabled_82074987:
 msgid "I don't think [lindsey] wants to talk to me after what I did to her..."
@@ -30,7 +30,7 @@ msgstr "[_lindsey_s_thinking_] Peut-être que je suis un peu démodé, mais je p
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1560 #-#-# translate crowdin lindsey_talk_two_77fc0611:
 msgid "[_lindsey_s_smile_] Mom always says that racing is in my blood, but sometimes I wish I could stop for a moment and catch my breath."
-msgstr "[_lindsey_s_smile_] Mom dit toujours que la course est dans mon sang, mais parfois j'aimerais pouvoir m'arrêter un instant et prendre mon souffle."
+msgstr "[_lindsey_s_Souriez_] Mom dit toujours que la course est dans mon sang, mais parfois j'aimerais pouvoir m'arrêter un instant et prendre mon souffle."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1567 #-#-# translate crowdin lindsey_talk_three_4ce78fed:
 msgid "[_lindsey_s_sad_] My family has always been very competitive. One time, I placed third in a junior race."
@@ -38,7 +38,7 @@ msgstr "[_lindsey_s_sad_] Ma famille a toujours été très compétitive. Une fo
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1568 #-#-# translate crowdin lindsey_talk_three_4b4362bb:
 msgid "[_lindsey_] When we got home, Dad spent an hour in the woodshed splitting logs and Mom cried more than when granny died. I was four years old."
-msgstr "[_lindsey_] Lorsque nous sommes rentrés chez nous, papa a passé une heure dans le bois de coupe de bois, et maman a pleuré plus que quand granny est morte. J'avais quatre ans."
+msgstr "[_maya_] Quand nous sommes rentrés à la maison, papa a passé une heure dans le hangar à bois à fendre des bûches et maman a pleuré encore plus que lorsque grand-mère est morte. J'avais quatre ans."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1575 #-#-# translate crowdin lindsey_talk_four_8899dbe6:
 msgid "[_lindsey_s_excited_] I went to a jousting tournament once with real knights!"
@@ -62,11 +62,11 @@ msgstr "[_lindsey_s_neutral_] L'administration de l'école veut que je me concur
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1592 #-#-# translate crowdin lindsey_talk_six_a1aab030:
 msgid "[_lindsey_s_smile_] That's why none of my trophies are displayed outside the gym."
-msgstr "[_lindsey_s_smile_] C'est pourquoi aucun de mes trophées ne s'affiche à l'extérieur de la salle de gym."
+msgstr "[_lindsey_s_Souriez_] C'est pourquoi aucun de mes trophées ne s'affiche à l'extérieur de la salle de gym."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1599 #-#-# translate crowdin lindsey_talk_seven_45866539:
 msgid "[_lindsey_s_neutral_] Have you ever been out on a yacht? My dad owns the second largest one in Newfall."
-msgstr "[_lindsey_s_neutral_] Avez-vous déjà été à bord d'un yacht? Mon père est le deuxième en importance à Newfall."
+msgstr "[_lindsey_s_neutral_] Avez-vous déjà été à bord d'un yacht ? Mon père est le deuxième en importance à Newfall."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1600 #-#-# translate crowdin lindsey_talk_seven_37574244:
 msgid "[_lindsey_] I miss going on cruises with [maxine] and a couple of close friends."
@@ -78,7 +78,7 @@ msgstr "[_lindsey_s_excited_] J'ai commencé à faire la compétition à un trè
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1608 #-#-# translate crowdin lindsey_flirt_one_a007dd39:
 msgid "[_lindsey_s_excited_] Do you know why?"
-msgstr "[_lindsey_s_excited_] Savez-vous pourquoi?"
+msgstr "[_lindsey_s_excited_] Savez-vous pourquoi ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1611 #-#-# translate crowdin lindsey_flirt_one_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -106,7 +106,7 @@ msgstr "[_mc_] Vous vouez obtenir une bonne bourse."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1625 #-#-# translate crowdin lindsey_flirt_one_b6e7dd5a:
 msgid "[_lindsey_s_smile_] Not really... my parents are pretty loaded, so I'll get into whatever college I want as long as I keep my grades up."
-msgstr "[_lindsey_s_smile_] Pas vraiment ... mes parents sont assez chargés, donc je vais entrer dans n'importe quel collège que je veux tant que je garderai mes notes."
+msgstr "[_lindsey_s_Souriez_] Pas vraiment ... mes parents sont assez chargés, donc je vais entrer dans n'importe quel collège que je veux tant que je garderai mes notes."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1628 #-#-# translate crowdin lindsey_flirt_one_7a5a57ad:
 msgid "[_mc_] You've always admired champions."
@@ -122,11 +122,11 @@ msgstr "[_lindsey_s_neutral_] Mais je ne me souciais pas autant des champions de
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1637 #-#-# translate crowdin lindsey_flirt_two_032ee9af:
 msgid "[_lindsey_s_smile_] I enjoy going out with friends sometimes."
-msgstr "[_lindsey_s_smile_] J'aime sortir avec des amis parfois."
+msgstr "[_lindsey_s_Souriez_] J'aime sortir avec des amis parfois."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1638 #-#-# translate crowdin lindsey_flirt_two_9a2fb095:
 msgid "[_lindsey_s_smile_] Do you know what my favorite venues are?"
-msgstr "[_lindsey_s_smile_] Savez-vous quels sont mes sites préférés?"
+msgstr "[_lindsey_s_Souriez_] Savez-vous quels sont mes sites préférés ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1641 #-#-# translate crowdin lindsey_flirt_two_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -170,7 +170,7 @@ msgstr "[_lindsey_s_thinking_] Je ne pense pas avoir jamais été à un. Pas du 
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1667 #-#-# translate crowdin lindsey_flirt_three_0fea6b8e:
 msgid "[_lindsey_s_smile_] Did you know I've never been on a real date with a guy? Do you know why?"
-msgstr "[_lindsey_s_smile_] Saviez-vous que je n'ai jamais été à une date réelle avec un mec? Savez-vous pourquoi?"
+msgstr "[_lindsey_s_Souriez_] Saviez-vous que je n'ai jamais été à une date réelle avec un mec ? Savez-vous pourquoi ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1670 #-#-# translate crowdin lindsey_flirt_three_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -206,7 +206,7 @@ msgstr "[_mc_] Vous aimeriez vous sauver pour le mariage."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1694 #-#-# translate crowdin lindsey_flirt_three_533934be:
 msgid "[_lindsey_s_laughing_] It's a bit weird, right?"
-msgstr "[_lindsey_s_laughing_] C'est un peu bizarre, non?"
+msgstr "[_lindsey_s_laughing_] C'est un peu bizarre, non ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1695 #-#-# translate crowdin lindsey_flirt_three_2054a182:
 msgid "[_lindsey_s_laughing_] But I find the thought really romantic. I'm a strong believer in true love."
@@ -214,7 +214,7 @@ msgstr "[_lindsey_s_laughing_] Mais je trouve la pensée vraiment romantique. Je
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1702 #-#-# translate crowdin lindsey_flirt_four_298dba89:
 msgid "[_lindsey_s_sad_] I used to be best friends with another student here. Do you know who?"
-msgstr "[_lindsey_s_sad_] J'étais le meilleur ami avec un autre étudiant ici. Sais-tu qui?"
+msgstr "[_lindsey_s_sad_] J'étais le meilleur ami avec un autre étudiant ici. Sais-tu qui ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1705 #-#-# translate crowdin lindsey_flirt_four_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -230,11 +230,11 @@ msgstr "[_lindsey_s_neutral_] [kate] et moi sommes amis, mais je ne dirais pas q
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1712 #-#-# translate crowdin lindsey_flirt_four_5becab7a:
 msgid "[_mc_] Was it [maya]? You're both so adorable, I could totally picture it."
-msgstr "[_mc_] Était-ce [maya]? Vous êtes tous les deux si adorables, je pourrais l'imaginer."
+msgstr "[_mc_] Était-ce [maya] ? Vous êtes tous les deux si adorables, je pourrais l'imaginer."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1715 #-#-# translate crowdin lindsey_flirt_four_8c830d1e:
 msgid "[_lindsey_s_blush_] Wrong, but... aw, that's so nice of you!"
-msgstr "[_lindsey_s_blush_] Wrong, mais ... aw, c'est si gentil de toi !"
+msgstr "[_lindsey_s_blush_] Incorrecte, mais ... aw, c'est si gentil de toi !"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1716 #-#-# translate crowdin lindsey_flirt_four_4583e08d:
 msgid "[_lindsey_s_blush_] She's a real cutie! And I totally don't mind being compared to her!"
@@ -242,7 +242,7 @@ msgstr "[_lindsey_s_blush_] C'est une vraie cutie ! Et je n'ai absolument pas l'
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1719 #-#-# translate crowdin lindsey_flirt_four_42cec446:
 msgid "[_mc_] [maxine], right? You built that wooden ship together and I know you miss sailing on the yacht with her."
-msgstr "[_mc_] [maxine], non? Vous avez construit ce bateau en bois ensemble et je sais que vous manquerez de naviguer sur le yacht avec elle."
+msgstr "[_mc_] [maxine], non ? Vous avez construit ce bateau en bois ensemble et je sais que vous manquerez de naviguer sur le yacht avec elle."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1722 #-#-# translate crowdin lindsey_flirt_four_766b0822:
 msgid "[_lindsey_s_sad_] You're right. I do miss her a lot."
@@ -250,7 +250,7 @@ msgstr "[_lindsey_s_sad_] Vous avez raison. Elle me manque beaucoup."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1723 #-#-# translate crowdin lindsey_flirt_four_9ff9c7c9:
 msgid "[_mc_] So, what happened?"
-msgstr "[_mc_] Alors, que s'est-il passé?"
+msgstr "[_mc_] Alors, que s'est-il passé ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1724 #-#-# translate crowdin lindsey_flirt_four_76f16e0b:
 msgid "[_lindsey_s_sad_] Well... I guess we grew apart. This isn't really a good time to get into the details."
@@ -258,15 +258,15 @@ msgstr "[_lindsey_s_sad_] Puits ... Je suppose que nous avons grandi. Ce n'est p
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1727 #-#-# translate crowdin lindsey_flirt_four_a15b423b:
 msgid "[_mc_] [isabelle]? I don't know. I'm honestly just guessing."
-msgstr "[_mc_] [isabelle]? Je ne sais pas. Honnêtement, je suppose."
+msgstr "[_mc_] [isabelle] ? Je ne sais pas. Honnêtement, je suppose."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1728 #-#-# translate crowdin lindsey_flirt_four_c500517d:
 msgid "[_lindsey_s_laughing_] No! [isabelle] just started here. Why would you think that?"
-msgstr "[_lindsey_s_laughing_] Non ! [isabelle] vient de commencer ici. Pourquoi tu penses ça?"
+msgstr "[_lindsey_s_laughing_] Non ! [isabelle] vient de commencer ici. Pourquoi tu penses ça ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1735 #-#-# translate crowdin lindsey_flirt_five_1376eab0:
 msgid "[_lindsey_s_flirty_] Wanna race?"
-msgstr "[_lindsey_s_flirty_] Wanna race?"
+msgstr "[_lindsey_s_flirty_] Wanna race ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1736 #-#-# translate crowdin lindsey_flirt_five_d4358764:
 msgid "[_mc_] Not really, no."
@@ -274,7 +274,7 @@ msgstr "[_mc_] Pas vraiment, non."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1737 #-#-# translate crowdin lindsey_flirt_five_11b4fdce:
 msgid "[_lindsey_s_laughing_] Then how about a quiz?"
-msgstr "[_lindsey_s_laughing_] Alors, comment un quiz?"
+msgstr "[_lindsey_s_laughing_] Alors, comment un quiz ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1738 #-#-# translate crowdin lindsey_flirt_five_c69fc073:
 msgid "[_mc_] I'd be down for that."
@@ -282,7 +282,7 @@ msgstr "[_mc_] Je serais en bas pour ça."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1739 #-#-# translate crowdin lindsey_flirt_five_81beffc6:
 msgid "[_lindsey_s_smile_] Okay! Do you know how many trophies I have outside the gym?"
-msgstr "[_lindsey_s_smile_] Ok ! Savez-vous combien de trophées j'ai à l'extérieur de la salle de gym?"
+msgstr "[_lindsey_s_Souriez_] Ok ! Savez-vous combien de trophées j'ai à l'extérieur de la salle de gym ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1742 #-#-# translate crowdin lindsey_flirt_five_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -294,7 +294,7 @@ msgstr "[_mc_] Probablement beaucoup. Cinq au moins."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1746 #-#-# translate crowdin lindsey_flirt_five_e4b03574:
 msgid "[_lindsey_s_laughing_] Wrong! But nice try!"
-msgstr "[_lindsey_s_laughing_] Wrong ! Mais bon, essayez !"
+msgstr "[_lindsey_s_laughing_] Incorrecte ! Mais bon, essayez !"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1749 #-#-# translate crowdin lindsey_flirt_five_3fa0d883:
 msgid "[_mc_] Three. You've won all the high school district marathons so far."
@@ -302,7 +302,7 @@ msgstr "[_mc_] Trois. Vous avez gagné tous les marathons du lycée jusqu'à pr�
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1750 #-#-# translate crowdin lindsey_flirt_five_3c417fe6:
 msgid "[_lindsey_s_laughing_] Wrong! Well, it is true that I've won all three, but those trophies aren't outside the gym."
-msgstr "[_lindsey_s_laughing_] Wrong ! Eh bien, c'est vrai que j'ai gagné les trois, mais ces trophées ne sont pas à l'extérieur de la salle de gym."
+msgstr "[_lindsey_s_laughing_] Incorrecte ! Eh bien, c'est vrai que j'ai gagné les trois, mais ces trophées ne sont pas à l'extérieur de la salle de gym."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1753 #-#-# translate crowdin lindsey_flirt_five_57e9e089:
 msgid "[_mc_] Just one, but this year you're going for your second win."
@@ -374,15 +374,15 @@ msgstr "\"[kate]. Vous avez toujours fait partie de la foule. \""
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1704
 msgid "\"Was it [maya]? You're both so adorable, I could totally picture it.\""
-msgstr "\" Était-ce [maya]? Vous êtes tous les deux si adorables, je pourrais l'imaginer. \""
+msgstr "\" Était-ce [maya] ? Vous êtes tous les deux si adorables, je pourrais l'imaginer. \""
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1704
 msgid "\"[maxine], right? You built that wooden ship together and I know you miss sailing on the yacht with her.\""
-msgstr "\"[maxine], non? Vous avez construit ce bateau en bois ensemble et je sais que vous manquerez de naviguer sur le yacht avec elle. \""
+msgstr "\"[maxine], non ? Vous avez construit ce bateau en bois ensemble et je sais que vous manquerez de naviguer sur le yacht avec elle. \""
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1704
 msgid "\"[isabelle]? I don't know. I'm honestly just guessing.\""
-msgstr "\"[isabelle]? Je ne sais pas. Honnêtement, je suppose. \""
+msgstr "\"[isabelle] ? Je ne sais pas. Honnêtement, je suppose. \""
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1741
 msgid "\"Probably many. Five at least.\""
