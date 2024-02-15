@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:19\n"
+"PO-Revision-Date: 2024-02-15 09:27\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/65_lindsey_flight.rpy:6 #-#-# translate crowdin replay_lindsey_flight_7d6b1e76:
 msgid "Oh, wow. Half the school is still here."
@@ -66,7 +66,7 @@ msgstr "..."
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:27 #-#-# translate crowdin replay_lindsey_flight_cc691430:
 msgid "Where the hell is [jo]?!"
-msgstr "Où diable est [jo] ? !"
+msgstr "Où diable est [jo] ?!"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:33 #-#-# translate crowdin replay_lindsey_flight_4d49d164:
 msgid "[_guard_] {i}Calling...{/}"
@@ -103,8 +103,7 @@ msgstr "[_mc_] C'est trop long ..."
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:43 #-#-# translate crowdin replay_lindsey_flight_5974d439:
 msgid "[_jo_] I'll be there as\n"
 "fast as I can—"
-msgstr "[_jo_] I'll be there as\n"
-"fast as I can-"
+msgstr "[_jo_] Je serai là aussi vite que possible"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:50 #-#-# translate crowdin replay_lindsey_flight_796b6b2e:
 msgid "Fuck it, I'm not waiting for [lindsey] to fall down!"
@@ -132,7 +131,7 @@ msgstr "[_lindsey_s_roof_door_still_] Exécution ! Exécuter !"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:63 #-#-# translate crowdin replay_lindsey_flight_b7ff0450:
 msgid "[_mc_] What are you saying?! Why are you up here?!"
-msgstr "[_mc_] Qu'est-ce que vous dites ? ! Pourquoi es-tu ici ?"
+msgstr "[_mc_] Qu'est-ce que vous dites ?! Pourquoi es-tu ici ?"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:64 #-#-# translate crowdin replay_lindsey_flight_13734960:
 msgid "She's totally out of it..."
