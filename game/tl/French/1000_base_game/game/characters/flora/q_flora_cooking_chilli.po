@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 17:39\n"
+"PO-Revision-Date: 2024-02-15 22:00\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
 msgid "You picked up a cooking item. Is it the right one? No one knows."
@@ -186,7 +186,7 @@ msgstr "[_mc_] Ugh, vous êtes un enfant aussi libre. Amende ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:146 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_8cbcdf5d:
 msgid "[_flora_s_excited_] Sweet."
-msgstr "[_flora_s_excited_] Sweet."
+msgstr "[_flora_s_excited_] Doux."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:150 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_4c02e1d7:
 msgid "[_mc_] Don't talk to me like that."
@@ -410,7 +410,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:248 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_3f5d9ddd:
 msgid "[_flora_s_excited_] Yummy?"
-msgstr "[_flora_s_excited_] Yummy ?"
+msgstr "[_flora_s_excited_] Pour moi ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:249 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c03f81da:
 msgid "[_mc_] {i}*Cough, cough*{/}"
@@ -502,7 +502,7 @@ msgstr "[_mc_] Me ? Je pensais que c'était pour toi."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:299 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c51b9085:
 msgid "[_flora_s_confident_] You're the clumsy one here."
-msgstr "[_flora_s_confident_] Vous êtes la maladroiteuse ici."
+msgstr "[_flora_s_confident_] C'est vous qui êtes maladroit."
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:300 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_4ef7e440:
 msgid "[_mc_] Ugh. What about the grater?"
@@ -610,7 +610,7 @@ msgstr "[_flora_s_cringe_] Qu'est-ce que c'est ? Tu crois que c'est un jeu ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:352 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_803d571b:
 msgid "[_flora_s_cringe_] My internship rides on this chili! Get it right!"
-msgstr "[_flora_s_cringe_] Mes stages en chili ! Dégez-le bien !"
+msgstr "[_flora_s_cringe_] Mon stage dépend de ce chili ! Faites-le bien !"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:354 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_9e5fe86a_4:
 msgid "[_mc_] I brought what you asked."
@@ -1142,7 +1142,7 @@ msgstr "[_flora_] Tais-toi !"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:601 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_98652491:
 msgid "[_flora_s_FloraShowerPoseA1_] Just do it!"
-msgstr "[_flora_s_FloraShowerPoseA1_] Just Fais-le !"
+msgstr "[_flora_s_FloraShowerPoseA1_] Juste Fais-le !"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:603 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_0c9cacc1:
 msgid "[_flora_] Eeeeeee! Cold, cold, cold! Too cold!"
@@ -1834,7 +1834,7 @@ msgstr "C'était probablement le plus réticon \"merci\" que j'aie jamais entend
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:986 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_2f45a754:
 msgid "[_flora_s_FloraShowerPoseA1_concerned_pepelepsi_] Why does my pussy smell like Pepelepsi?"
-msgstr "[_flora_s_FloraShowerPoseA1_concerned_pepelepsi_] Pourquoi mon pussy sent comme Pepelepsi ?"
+msgstr "[_flora_s_FloraShowerPoseA1_concerned_pepelepsi_] Pourquoi ma chatte sent-elle le Pepelepsi ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_cooking_chilli.rpy:987 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_40e6fa00:
 msgid "[_mc_] Err... we were out of milk..."
