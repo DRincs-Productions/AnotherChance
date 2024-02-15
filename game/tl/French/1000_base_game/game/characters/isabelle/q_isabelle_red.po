@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:10\n"
+"PO-Revision-Date: 2024-02-15 11:19\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:3 #-#-# translate crowdin quest_isabelle_red_start_5f580138:
 msgid "[_mc_] Hi, do you know where I could find a bucket of red paint?"
@@ -34,11 +34,11 @@ msgstr "[_mc_] C'est pour un projet d'art personnel."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:13 #-#-# translate crowdin quest_isabelle_red_start_bb33dbf3:
 msgid "[_jacklyn_s_smile_] Right on!"
-msgstr "[_jacklyn_s_smile_] Droit sur !"
+msgstr "[_jacklyn_s_Souriez_] Droit sur !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:14 #-#-# translate crowdin quest_isabelle_red_start_c779691d:
 msgid "[_jacklyn_s_smile_] What's the Mona Lisa?"
-msgstr "[_jacklyn_s_smile_] Quelle est la Joconde ?"
+msgstr "[_jacklyn_s_Souriez_] Quelle est la Joconde ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:15 #-#-# translate crowdin quest_isabelle_red_start_5026fa77:
 msgid "[_mc_] I'd like to keep it a secret for now..."
@@ -74,7 +74,7 @@ msgstr "[_mc_] It's for a play about the Battle of Edwin's Bridge."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:25 #-#-# translate crowdin quest_isabelle_red_start_abed54e2:
 msgid "[_jacklyn_s_smile_] Red paint for a victimless battle?"
-msgstr "[_jacklyn_s_smile_] Peinture rouge pour une bataille sans victime ?"
+msgstr "[_jacklyn_s_Souriez_] Peinture rouge pour une bataille sans victime ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:26 #-#-# translate crowdin quest_isabelle_red_start_2475e564:
 msgid "Oh, snap. How the hell did she know about that?"
@@ -274,7 +274,7 @@ msgstr "Obtenir des choses d'elle, c'est comme tirer une épée d'une pierre-il 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:81 #-#-# translate crowdin quest_isabelle_red_start_e4c259d5:
 msgid "[_jacklyn_s_smile_] Smooth winds, sailor."
-msgstr "[_jacklyn_s_smile_] Vents lisses, marins."
+msgstr "[_jacklyn_s_Souriez_] Vents lisses, marins."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:88 #-#-# translate crowdin quest_isabelle_red_note_ba78e3ec:
 msgid "I totally forgot about her annoying habit of leaving clues about where she's gone."
@@ -310,7 +310,7 @@ msgstr "{i}\" Depuis mon bureau, les pieds sont si légers, j'ai fait mon chemin
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:102 #-#-# translate crowdin quest_isabelle_red_greenhouse_isabelle_d6cea6e4:
 msgid "[_mc_] Hey! Do you have a moment?"
-msgstr "[_mc_] Hey ! As-tu un moment ?"
+msgstr "[_mc_] Hé ! As-tu un moment ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:103 #-#-# translate crowdin quest_isabelle_red_greenhouse_isabelle_fcc8917b:
 msgid "[_isabelle_s_neutral_] Sure thing!"
@@ -406,7 +406,7 @@ msgstr "[_lacey_] Rien."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:143 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_1f643dec:
 msgid "[_kate_] Just do it. We have practice soon."
-msgstr "[_kate_] Just do it. Nous avons bientôt de la pratique."
+msgstr "[_kate_] Fais-le. Nous avons bientôt un entraînement."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:144 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_987a5069:
 msgid "What's going on in there?"
@@ -898,7 +898,7 @@ msgstr "Dieu putain ! Elle est venue à nouveau et a surmonté tout le [lacey]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:316 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_297f09be:
 msgid "[_lacey_] Hey..."
-msgstr "[_lacey_] Hey ..."
+msgstr "[_lacey_] Hé ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:317 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_507d2451:
 msgid "[lacey] narrows her eyes in annoyance, but [kate] just squirts again, this time on her face."
@@ -1074,7 +1074,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:412 #-#-# translate crowdin quest_isabelle_red_cabinet_dc4df1e3:
 msgid "[_maxine_s_smile_] Now that I'm done here..."
-msgstr "[_maxine_s_smile_] Maintenant que je suis fait ici ..."
+msgstr "[_maxine_s_Souriez_] Maintenant que je suis fait ici ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:413 #-#-# translate crowdin quest_isabelle_red_cabinet_8b5e620a:
 msgid "[_mc_] Wait!"
@@ -1102,7 +1102,7 @@ msgstr "[_maxine_s_laughing_] Ne pas être ridicule !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:419 #-#-# translate crowdin quest_isabelle_red_cabinet_92cf2422:
 msgid "[_maxine_s_smile_] Now, if you'll excuse me..."
-msgstr "[_maxine_s_smile_] Maintenant, si vous m'excuserez ..."
+msgstr "[_maxine_s_Souriez_] Maintenant, si vous m'excuserez ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:420 #-#-# translate crowdin quest_isabelle_red_cabinet_8b5e620a_1:
 msgid "[_mc_] Wait!"
@@ -1286,7 +1286,7 @@ msgstr "[_mc_] Uh, ok ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:473 #-#-# translate crowdin quest_isabelle_red_cabinet_aeb34eb6:
 msgid "[_maxine_s_smile_] Anyway, you've kept me long enough."
-msgstr "[_maxine_s_smile_] Quoi qu'il en soit, tu m'as gardé assez longtemps."
+msgstr "[_maxine_s_Souriez_] Quoi qu'il en soit, tu m'as gardé assez longtemps."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:477 #-#-# translate crowdin quest_isabelle_red_cabinet_ae3933d3:
 msgid "[_mc_] What were you really doing in the supply cabinet?"
@@ -1310,7 +1310,7 @@ msgstr "[_mc_] Mary ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:482 #-#-# translate crowdin quest_isabelle_red_cabinet_b54b8291:
 msgid "[_maxine_s_smile_] Yes, the bloody one."
-msgstr "[_maxine_s_smile_] Oui, le sanglant."
+msgstr "[_maxine_s_Souriez_] Oui, le sanglant."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:483 #-#-# translate crowdin quest_isabelle_red_cabinet_b3126cb4:
 msgid "[_mc_] The urban legend?"
