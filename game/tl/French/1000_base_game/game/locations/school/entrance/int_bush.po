@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 17:40\n"
+"PO-Revision-Date: 2024-02-15 22:01\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:48 #-#-# translate crowdin school_entrance_bush_interact_a31a7204:
 msgid "Always be sure to check your local bush for a certain Italian assassin."
@@ -62,7 +62,7 @@ msgstr "[_nurse_s_concerned_] Je suis juste de mes jours. Ne vous inquiéte pas.
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:73 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_b7968bb2:
 msgid "[_mc_] You look a little stressed out. Are you okay?"
-msgstr "[_mc_] Vous avez l'air un peu stressi. Es-tu d'accord ?"
+msgstr "[Vous avez l'air un peu stressé. Est-ce que ça va ?"
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:74 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_5347e79f:
 msgid "[_nurse_s_blush_] I'm mostly fine, thank you."
@@ -98,7 +98,7 @@ msgstr "[_mc_] Ok, bon. Tout le monde a besoin d'un peu de temps pour lui-même.
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:82 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_a7cbd3c3:
 msgid "[_mc_] Herb collecting is a fine way to relax."
-msgstr "[_mc_] La collection de Herb est un excellent moyen de se détendre."
+msgstr "[La collection d'herbes est un excellent moyen de se détendre."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:83 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_1846b4c7:
 msgid "[_nurse_s_smile_] I'm glad you agree."
@@ -106,7 +106,7 @@ msgstr "[_nurse_s_Souriez_] Je suis heureux que vous êtes d'accord."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:86 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_c15d2983:
 msgid "[_mc_] What are you doing in this bush?"
-msgstr "[_mc_] Qu'est-ce que vous faites dans ce brousse ?"
+msgstr "[Que faites-vous dans ce buisson ?"
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:87 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_64df57a4:
 msgid "[_nurse_s_annoyed_] Just, err, collecting herbs and... other things. Nothing nefarious!"
@@ -234,7 +234,7 @@ msgstr "[_mc_] Pas si rapide."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:123 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_766923af:
 msgid "[_mc_] You still need to tell me what you're so stressed out about."
-msgstr "[_mc_] Vous devez encore me dire ce que vous êtes tellement stressi."
+msgstr "[Il faut encore que tu me dises pourquoi tu es si stressée."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:124 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_d2a9948b:
 msgid "[_mc_] Everyone knows you're a hopeless stress eater, and I found a trail of candy wrappers."
@@ -294,7 +294,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:144 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_436eefd9:
 msgid "[_mc_] I'm taking you to her right now."
-msgstr "[_mc_] Je vous emprends à elle en ce moment."
+msgstr "[Je t'emmène la voir tout de suite."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:146 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_08a60385:
 msgid "[_nurse_s_afraid_] Oh my goodness."
@@ -302,7 +302,7 @@ msgstr "[_nurse_s_afraid_] Oh mon Dieu."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:147 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_8fad9594:
 msgid "[_mc_] Come on, let's get a move on, convict."
-msgstr "[_mc_] Allez, allons-y, conBon sang."
+msgstr "[Allez, on se bouge, condamné."
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:148 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_1aadef53:
 msgid "[_nurse_s_surprised_] I, err, I didn't do anything bad. You have to tell her that."
