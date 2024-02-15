@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 14:31\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6 #-#-# translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
 msgid "[_mc_] Hey, how are you holding up?"
@@ -58,7 +58,7 @@ msgstr "[_isabelle_s_laughing_] Quelqu'un doit être dans cet endroit."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:17 #-#-# translate crowdin quest_isabelle_hurricane_start_d5ae2301:
 msgid "[_mc_] Fair enough."
-msgstr "[_mc_] Fair suffisante."
+msgstr "[_mc_] Très bien."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:18 #-#-# translate crowdin quest_isabelle_hurricane_start_f98840e6:
 msgid "[_isabelle_s_confident_] And yes, I do in fact have a plan."
@@ -194,7 +194,7 @@ msgstr "[isabelle] est clairement toujours en avance, et sa colère pourrait se 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:64 #-#-# translate crowdin quest_isabelle_hurricane_start_c497d73f:
 msgid "[_mc_] Maybe it would be best if you let me take care of this?"
-msgstr "[_mc_] Peut-être qu'il serait mieux que vous me laiez prendre soin de ça ?"
+msgstr "[_mc_] Peut-être serait-il préférable que vous me laissiez m'en occuper ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:65 #-#-# translate crowdin quest_isabelle_hurricane_start_f1cb1c18:
 msgid "[_isabelle_s_concerned_] What makes you say that?"
@@ -222,7 +222,7 @@ msgstr "[_mc_] Vous pouvez venir quand je suis fait et je vais vous en parler."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:71 #-#-# translate crowdin quest_isabelle_hurricane_start_4efb9563:
 msgid "[_mc_] Maybe we can watch some NutFlex and order takeout?"
-msgstr "[_mc_] Peut-être que nous pouvons regarder NutFlex et commander le décollage ?"
+msgstr "[_mc_] On pourrait peut-être regarder NutFlex et commander des plats à emporter ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:72 #-#-# translate crowdin quest_isabelle_hurricane_start_c5d2bd3a:
 msgid "[_isabelle_s_neutral_] Sounds good. I've been meaning to watch Quid Game forever."
@@ -306,7 +306,7 @@ msgstr "[_maxine_s_thinking_] Avez-vous une preuve de cela ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:105 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_327961b8:
 msgid "[_mc_] Well... you said it's been repurposed. So, you know... things."
-msgstr "[_mc_] Eh bien ... vous avez dit que ça a été répuré. Donc, tu sais ... les choses."
+msgstr "[_mc_] Eh bien... vous avez dit qu'il a été réaffecté. Donc, vous savez... des choses."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:106 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_5706fbbe:
 msgid "[_maxine_s_skeptical_] The last time I read through the statutory codes, knowledge was not listed as a crime."
@@ -412,7 +412,7 @@ msgstr "[_maxine_] Vous êtes à la recherche de la représentation du tribunal\
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:151 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_f75ae5c0:
 msgid "[_mc_] Screw you."
-msgstr "[_mc_] vis à vis de vous."
+msgstr "[_mc_] Allez vous faire voir."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:159 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_e3c9a8da:
 msgid "[_maxine_s_cringe_phone_] Sorry about that. Someone must've gotten the wrong number."
@@ -820,7 +820,7 @@ msgstr "Peut-être que je suis gay ? Merde, je suppose que nous allons découvri
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:308 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_f75ae5c0:
 msgid "[_mc_] Screw you."
-msgstr "[_mc_] vis à vis de vous."
+msgstr "[_mc_] Allez vous faire voir."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:310 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_5f39ca3a:
 msgid "[_kate_s_eyeroll_] Don't make me slap you."
@@ -896,7 +896,7 @@ msgstr "[_kate_s_flirty_] Mais ce n'est toujours pas une excuse."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:340 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_5c4c000f:
 msgid "[_mc_] Oh, that was just me practicing for a poetry reading."
-msgstr "[_mc_] Oh, c'était juste moi qui pratichez une lecture de poésie."
+msgstr "[_mc_] Oh, c'était juste moi qui m'entraînais pour une lecture de poésie."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:341 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_4524d9f7:
 msgid "[_kate_s_laughing_] Right, right. And I didn't make the [nurse] swallow eight dicks this morning."
@@ -952,7 +952,7 @@ msgstr "[_guard_] Huh ?! Quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:360 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_dac038fd:
 msgid "[_mc_] There's a doughnut-sale in the cafeteria!"
-msgstr "[_mc_] Il y a une beignet à la cafétéria !"
+msgstr "[_mc_] Il y a une vente de beignets à la cafétéria !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:361 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_5233a746:
 msgid "[_guard_] ..."
@@ -1018,7 +1018,7 @@ msgstr "Peut-être que [spinach] pourrait m'aider à distraire le [guard] ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:389 #-#-# translate crowdin quest_isabelle_hurricane_short_circuit_spinach1_b22e4f0a:
 msgid "[_mc_] Wanna go into my backpack for a bit, girl?"
-msgstr "[_mc_] Wanna va dans mon sac à dos pour un peu, fille ?"
+msgstr "[_mc_] Tu veux aller dans mon sac à dos un peu, ma fille ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:390 #-#-# translate crowdin quest_isabelle_hurricane_short_circuit_spinach1_a0de8a2b:
 msgid "[_spinach_s_closedeyes_] Meow!"
@@ -1416,7 +1416,7 @@ msgstr "[_kate_s_confident_] Comment ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:565 #-#-# translate crowdin quest_isabelle_hurricane_blowjob_kate_8c44a485:
 msgid "[_mc_] W-weird..."
-msgstr "[_mc_] W-weird ..."
+msgstr "[_mc_] B-bizarre..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:566 #-#-# translate crowdin quest_isabelle_hurricane_blowjob_kate_9477b7b5:
 msgid "[_kate_s_laughing_] That's a more common reaction than you think!"
@@ -1696,7 +1696,7 @@ msgstr "[_isabelle_s_neutral_] Truly ? Qu'avez-vous appris ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:706 #-#-# translate crowdin quest_isabelle_hurricane_forest_isabelle_9b3ddf5a:
 msgid "[_mc_] I've done some digging and your locker is... well..."
-msgstr "[_mc_] I've done some excavation and your locker is ... well ..."
+msgstr "[_mc_] J'ai fait quelques recherches et votre casier est... eh bien..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:707 #-#-# translate crowdin quest_isabelle_hurricane_forest_isabelle_1a5355be:
 msgid "[_mc_] It's apparently in a place lost to time and civilization."
@@ -1740,7 +1740,7 @@ msgstr "[_isabelle_s_excited_] Parfait ! Laissez-moi mettre mon numéro dans vot
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:719 #-#-# translate crowdin quest_isabelle_hurricane_forest_isabelle_98ebc575:
 msgid "[_mc_] Sounds good. Here you go."
-msgstr "[_mc_] Sounds good. Ici vous allez."
+msgstr "[_mc_] Ça a l'air bien. C'est parti."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:721 #-#-# translate crowdin quest_isabelle_hurricane_forest_isabelle_ebc41965:
 msgid "[_isabelle_s_excited_] Okay, done!"
@@ -1822,7 +1822,7 @@ msgstr "[_isabelle_] Vous plaisantez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:755 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_d37232d4:
 msgid "[_mc_] I wish I was..."
-msgstr "[_mc_] I wish I was ..."
+msgstr "[_mc_] J'aimerais être..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:756 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_8344e237:
 msgid "[_isabelle_] Well, where is it?"
@@ -1830,7 +1830,7 @@ msgstr "[_isabelle_] Eh bien, où est-il ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:757 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_0cb70763:
 msgid "[_mc_] It's in the forest glade."
-msgstr "[_mc_] C'est dans la claipublique de la forêt."
+msgstr "[_mc_] C'est dans la clairière de la forêt."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:758 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_56c33513:
 msgid "[_isabelle_] Someone dragged it\n"
@@ -1840,7 +1840,7 @@ msgstr "[_isabelle_] Quelqu'un l'a traîné sur\n"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:759 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_3b9ad0cf:
 msgid "[_mc_] Seems that way."
-msgstr "[_mc_] Seems that way."
+msgstr "[_mc_] Il semblerait que ce soit le cas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:760 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_62dfbbc6:
 msgid "[_isabelle_] Okay, I'll be\n"
@@ -1976,11 +1976,11 @@ msgstr "[_isabelle_s_afraid_] C'est comme ça que les brutes gagnent !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:819 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_411c1933:
 msgid "[_mc_] I just don't want you to do something you might regret."
-msgstr "[_mc_] Je ne veux pas que vous faites quelque chose que vous pourriez regretter."
+msgstr "[_mc_] Je ne veux pas que tu fasses quelque chose que tu pourrais regretter."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:820 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_e53e5627:
 msgid "[_mc_] You were talking about decapitating her cat earlier..."
-msgstr "[_mc_] Vous parlions de décapiter son chat plus tôt ..."
+msgstr "[_mc_] Vous parliez de décapiter son chat tout à l'heure..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:821 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_bca3d1a8:
 msgid "[_isabelle_s_cringe_] And she would've bloody well deserved it!"
@@ -2067,8 +2067,8 @@ msgstr "[_maxine_] Pourquoi m'appelez-vous\n"
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:858 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_555f79f3:
 msgid "[_mc_] I didn't realize there\n"
 "was an unsecure line..."
-msgstr "[_mc_] Je n'ai pas réalisé que\n"
-"était une ligne non sécurisée ..."
+msgstr "[_mc_] Je n'avais pas réalisé qu'il y avait\n"
+"une ligne non sécurisée..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:859 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_2d092351:
 msgid "[_maxine_] There isn't. That\n"
@@ -2084,13 +2084,13 @@ msgstr "[_mc_]..."
 msgid "[_mc_] Anyway, I need you to\n"
 "come to the forest glade\n"
 "behind the school."
-msgstr "[_mc_] En tout cas, j'ai besoin de vous au\n"
-"venez à la claibo-forêt\n"
+msgstr "[_mc_] Quoi qu'il en soit, j'ai besoin que vous veniez à\n"
+"dans la clairière\n"
 "derrière l'école."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:862 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_2500ad19:
 msgid "[_maxine_] Nope. Busy."
-msgstr "[_maxine_] Non. Busy."
+msgstr "[_maxine_] Non. Occupé."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:865 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -2207,8 +2207,8 @@ msgstr "[_mc_] Ok ? Alors, tu viens ?"
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:898 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_3e5db85b:
 msgid "[_maxine_] I've been meaning to test out\n"
 "my homunculus for a while..."
-msgstr "[_maxine_] I've been meaning to test out\n"
-"my homunculus for a while ..."
+msgstr "[_maxine_] Cela fait un moment que je veux tester\n"
+"mon homoncule..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:899 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_ff16f838:
 msgid "[_maxine_] I just haven't found\n"
@@ -2224,7 +2224,7 @@ msgstr "[_mc_] Tout ce que vous dites.\n"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:901 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_8fba1193:
 msgid "[_maxine_] I'll be right there."
-msgstr "[_maxine_] I'll be right there."
+msgstr "[_maxine_] J'arrive tout de suite."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:902 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_2893c669:
 msgid "[_maxine_] Alpha-Bravo, prepare\n"
@@ -2260,9 +2260,9 @@ msgstr "[_mc_] Err ... J'ai juste eu quelques\n"
 msgid "[_maxine_] Well, what did you think would\n"
 "happen when you performed\n"
 "the Ritual of Baal?"
-msgstr "[_maxine_] Eh bien, qu'est-ce qui vous a pensé que\n"
-"se produirait quand vous avez effectué\n"
-"la Rituel de Baal ?"
+msgstr "[_maxine_] Eh bien, que pensez-vous qu'il se passerait\n"
+"lorsque vous auriez accompli\n"
+"le rituel de Baal ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:915 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_c8155816:
 msgid "[_mc_] The what?"
@@ -2270,7 +2270,7 @@ msgstr "[_mc_] Le quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:916 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_8fba1193_1:
 msgid "[_maxine_] I'll be right there."
-msgstr "[_maxine_] I'll be right there."
+msgstr "[_maxine_] J'arrive tout de suite."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:921 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_84ea610e:
 msgid "No idea how that worked, but okay..."
@@ -2620,7 +2620,7 @@ msgstr "Notre petit prisonnier."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1250 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_03f86545:
 msgid "[_mc_] F-fuck! I'm going to—"
-msgstr "[_mc_] F-fuck ! Je vais-"
+msgstr "[_mc_] Putain de merde ! Je vais -"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1252 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -2892,7 +2892,7 @@ msgstr "[_maxine_s_confident_] Très bien ! Tu sais des choses."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1386 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_d4b75dd8:
 msgid "[_mc_] So, you built a thing... a homunculus... that looks exactly like you?"
-msgstr "[_mc_] Alors, vous avez construit une chose ... un homunculus ... qui ressemble exactement à vous ?"
+msgstr "[_mc_] Donc, vous avez construit une chose... un homoncule... qui vous ressemble exactement ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1387 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_82c7ecde:
 msgid "[_maxine_s_skeptical_] Right. Have you seen it?"
