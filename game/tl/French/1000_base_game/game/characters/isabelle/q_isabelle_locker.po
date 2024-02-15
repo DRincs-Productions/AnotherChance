@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 12:49\n"
+"PO-Revision-Date: 2024-02-15 09:27\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:8 #-#-# translate crowdin quest_isabelle_locker_start_95c7633a:
 msgid "[_mc_] Are you okay?"
@@ -834,7 +834,7 @@ msgstr "[_maxine_s_thinking_] Cinquante."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:319 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_pay_2c6acf4f:
 msgid "[_mc_] Fifty?!"
-msgstr "[_mc_] Cinquante ? !"
+msgstr "[_mc_] Cinquante ?!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:320 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_pay_6506bae7:
 msgid "[_maxine_s_thinking_] It's a small price for a woman's affection."
@@ -1006,7 +1006,7 @@ msgstr "[isabelle] ne sera pas content de ça ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:376 #-#-# translate crowdin quest_isabelle_locker_talk_a4b5b8f7:
 msgid "[_isabelle_s_laughing_] Hey!"
-msgstr "[_isabelle_s_laughing_] Hey !"
+msgstr "[_isabelle_s_laughing_] Hé !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:377 #-#-# translate crowdin quest_isabelle_locker_talk_7a604bb0:
 msgid "[_mc_] You look a bit happier."
@@ -1114,7 +1114,7 @@ msgstr "[_isabelle_s_angry_] Je vais ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:405 #-#-# translate crowdin quest_isabelle_locker_talk_acfd33e8:
 msgid "[_mc_] Hey! Don't you think it would be smart to mull this over?"
-msgstr "[_mc_] Hey ! Ne penses-tu pas qu'il serait intelligent de le faire ?"
+msgstr "[_mc_] Hé ! Ne penses-tu pas qu'il serait intelligent de le faire ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:407 #-#-# translate crowdin quest_isabelle_locker_talk_f32b2346:
 msgid "[_isabelle_s_sad_] Do you think they're all in on this?"
@@ -1298,7 +1298,7 @@ msgstr "[_mc_] Donnez-moi vos cultes."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:458 #-#-# translate crowdin quest_isabelle_locker_talk_97e835c8:
 msgid "[_isabelle_s_afraid_] What?! Why?"
-msgstr "[_isabelle_s_afraid_] Quoi ? ! Pourquoi ?"
+msgstr "[_isabelle_s_afraid_] Quoi ?! Pourquoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:459 #-#-# translate crowdin quest_isabelle_locker_talk_50c4c863:
 msgid "[_mc_] Because, uh... it's the only way [spinach] will search for you?"
@@ -1402,7 +1402,7 @@ msgstr "[_mc_] Maintenant, allez attendre dehors et je ferai venir le chat."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:498 #-#-# translate crowdin quest_isabelle_locker_catnap_75479867:
 msgid "Damn it — [maxine] is here."
-msgstr "Damn it- [maxine] est ici."
+msgstr "Bon sang it- [maxine] est ici."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:499 #-#-# translate crowdin quest_isabelle_locker_catnap_a1801959:
 msgid "If I'm going to lure the cat outside, I'll need to get rid of her somehow..."
@@ -1762,7 +1762,7 @@ msgstr "[_mc_] Saviez-vous qu'il y a un rassemblement d'escargots dans l'aile de
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:697 #-#-# translate crowdin quest_isabelle_locker_repeat_8683a1d6:
 msgid "[_mc_] They seemed drawn to douchey impressionist art."
-msgstr "[_mc_] Ils semblaient attirés par l'art impressionniste douchey."
+msgstr "[_mc_] Ils semblaient attirés par l'art impressionniste doucHé."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:698 #-#-# translate crowdin quest_isabelle_locker_repeat_6715065c:
 msgid "[_maxine_s_concerned_] This requires further investigation."
@@ -1798,7 +1798,7 @@ msgstr "[_maxine_s_afraid_] Je savais que cela arriverait tôt ou tard ! [withvp
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:709 #-#-# translate crowdin quest_isabelle_locker_repeat_10dd3df5:
 msgid "[_maxine_s_afraid_] Where did I put my battering-RAM?! [withvpunch]"
-msgstr "[_maxine_s_afraid_] Où ai-je mis ma matraque-RAM ? ! [withvpunch]"
+msgstr "[_maxine_s_afraid_] Où ai-je mis ma matraque-RAM ?! [withvpunch]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:711 #-#-# translate crowdin quest_isabelle_locker_repeat_015321f5:
 msgid "Hope she doesn't break all the school computers. I still have a folder of... {i}important stuff{/} on one of them."
@@ -1962,7 +1962,7 @@ msgstr "[_isabelle_s_excited_] Oh, d'accord. Alors, propre, c'est bon !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:782 #-#-# translate crowdin quest_isabelle_locker_bedroom_7cbc55e6:
 msgid "[_isabelle_s_afraid_] What happened here?!"
-msgstr "[_isabelle_s_afraid_] Que s'est-il passé ici ? !"
+msgstr "[_isabelle_s_afraid_] Que s'est-il passé ici ?!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:783 #-#-# translate crowdin quest_isabelle_locker_bedroom_b2b9e19d:
 msgid "[_mc_] What do you mean?"
@@ -2370,7 +2370,7 @@ msgstr "[_mc_] Oh, arrête ! Tu es l'une des personnes les plus intelligentes qu
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:947 #-#-# translate crowdin quest_isabelle_locker_wait_5dd12a13:
 msgid "[_mc_] You're kind, strong, and independent."
-msgstr "[_mc_] Vous êtes gentile, fort et indépendant."
+msgstr "[_mc_] Vous êtes gentille, fort et indépendant."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:948 #-#-# translate crowdin quest_isabelle_locker_wait_26a3002f:
 msgid "[_mc_] And more importantly, you stand for what is right."
