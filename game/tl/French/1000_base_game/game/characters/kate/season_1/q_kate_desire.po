@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:06\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:4 #-#-# translate crowdin quest_kate_desire_start_e8823701:
 msgid "Whenever I see [kate] in the gym, my heart starts beating a little faster..."
@@ -1206,7 +1206,7 @@ msgstr "[_kate_s_Souriez_] Maintenant, si vous voulez bien m'excuser, j'ai un d�
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:520 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_0b905fb5:
 msgid "[_mc_] I'll get you a nude of [maxine]."
-msgstr "[_mc_] I'll get you a nude of [maxine]."
+msgstr "[_mc_] I'll get you a nude of [_mc_] maxine]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:521 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_fb8e63e4:
 msgid "[_kate_s_skeptical_] First of all, how did you get a nude of her?"
@@ -1746,7 +1746,7 @@ msgstr "[_mc_] Il devrait y avoir une étoile de papier quelque part à l'intér
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:758 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_0464f291:
 msgid "[_mc_] You need to find it before [kate] gets here..."
-msgstr "[_mc_] You need to find it before [kate] gets here here ..."
+msgstr "[_mc_] You need to find it before [_mc_] kate] gets here here ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:759 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_997798c3:
 msgid "[_isabelle_s_skeptical_s_flip_] Paper star. Got it."
@@ -2162,7 +2162,7 @@ msgstr "[_isabelle_s_blush_] Vous voyez autour de vous."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:906 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_dc72fdc6:
 msgid "[_mc_] You live in a fantasy world, [kate]."
-msgstr "[_mc_] You live in a fantasy world, [kate]."
+msgstr "[_mc_] Vous vivez dans un monde imaginaire, [_mc_] Kate]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:908 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_cfc121a8:
 msgid "[_kate_s_skeptical_] What did you just say?"
@@ -2506,7 +2506,7 @@ msgstr "[_isabelle_] Bonjour ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1061 #-#-# translate crowdin quest_kate_desire_conclusion_one_bc0f7f05:
 msgid "[_mc_] Hello, [isabelle]! You're on speaker."
-msgstr "[_mc_] Bonjour, [isabelle]! Vous êtes sur le haut-parleur."
+msgstr "[_mc_] Bonjour, [_mc_] isabelle]! Vous êtes sur le haut-parleur."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1062 #-#-# translate crowdin quest_kate_desire_conclusion_one_d3116a7f:
 msgid "[_isabelle_] Okay... what's going on?"
@@ -4002,7 +4002,7 @@ msgstr "[_kate_s_sad_] Il a triché."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1954 #-#-# translate crowdin quest_kate_desire_conclusion_two_4d54f0ce:
 msgid "[_mc_] I did not cheat... Stop being a sore loser, [kate]."
-msgstr "[_mc_] Je n'ai pas tricha ... Stop being a sore loser, [kate]."
+msgstr "[_mc_] Je n'ai pas triché... Arrête de jouer les mauvais perdants, [_mc_] Kate]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1955 #-#-# translate crowdin quest_kate_desire_conclusion_two_34c582cb:
 msgid "[_stacy_s_neutral_] Hush, [mc]."
@@ -4022,7 +4022,7 @@ msgstr "[_lacey_s_neutral_] Chèque !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1959 #-#-# translate crowdin quest_kate_desire_conclusion_two_e3a4351e:
 msgid "[_mc_] [isabelle] only grabbed it for me from the women's bathroom. I figured out the location on my own."
-msgstr "[_mc_] [isabelle] only grabbed it for me from the women's bathroom. J'ai trouvé l'endroit par moi-même."
+msgstr "[_mc_] [_mc_] isabelle] Je l'ai seulement pris dans les toilettes des femmes. J'ai trouvé l'endroit tout seul."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1960 #-#-# translate crowdin quest_kate_desire_conclusion_two_6fd99e55:
 msgid "[_mc_] That's not against the rules."
@@ -4034,7 +4034,7 @@ msgstr "[_stacy_s_neutral_] Hmm ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1962 #-#-# translate crowdin quest_kate_desire_conclusion_two_6d579acc:
 msgid "[_mc_] Besides, [kate] followed me around for the entire challenge — that's even worse."
-msgstr "[_mc_] En plus, [kate] m'a suivi pour tout le défi-c'est encore pire."
+msgstr "[_mc_] De plus, [_mc_] kate] m'a suivi pendant toute la durée de l'épreuve - c'est encore pire."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1963 #-#-# translate crowdin quest_kate_desire_conclusion_two_2439e7cb:
 msgid "[_casey_] I don't know... I think you played a bit unfair..."
@@ -5470,7 +5470,7 @@ msgstr "[_kate_s_annoyed_right_] N'avons-nous pas assez de discipline aujourd'hu
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3097 #-#-# translate crowdin quest_kate_desire_nude_encounter_b2d2b489:
 msgid "[_mc_] N-no, don't! I'll get you a different nude of [maxine]! I promise!"
-msgstr "[_mc_] Non, non ! Je vais vous faire une nude différente de [maxine]! Je promets !"
+msgstr "[_mc_] Non, ne faites pas ça ! Je te trouverai un autre nu de [_mc_] maxine] ! Je te le promets !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3098 #-#-# translate crowdin quest_kate_desire_nude_encounter_1035b946_1:
 msgid "[_kate_s_skeptical_] Yes, you will. And it better be soon... or else."
