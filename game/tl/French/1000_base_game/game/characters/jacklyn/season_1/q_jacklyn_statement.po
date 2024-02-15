@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:21\n"
+"PO-Revision-Date: 2024-02-15 16:06\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:2 #-#-# translate crowdin jacklyn_statement_text_same_room_9bf66073:
 msgid "As much as I'd like to see [jacklyn]'s face when I text her, I don't want her to see mine."
@@ -34,7 +34,7 @@ msgstr "[_mc_] Il s'agit d'un texte d'amorçage."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:13 #-#-# translate crowdin jacklyn_statement_text_start_10501a9c:
 msgid "[_jacklyn_] Lookin' for a pegging, cowboy?"
-msgstr "[_jacklyn_] Lookin'pour un pegging, cowboy ?"
+msgstr "[_jacklyn_] Tu cherches à te faire piquer, cow-boy ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:14 #-#-# translate crowdin jacklyn_statement_text_start_969be9bb:
 msgid "[_mc_] Sorry, autocorrect got me... I meant that this is a beautiful time to sext."
@@ -102,7 +102,7 @@ msgstr "[_mc_] Comment se déroule ma place demain soir ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:39 #-#-# translate crowdin jacklyn_statement_text_start_3acac928:
 msgid "[_jacklyn_] Wicked."
-msgstr "[_jacklyn_] Wicked."
+msgstr "[_jacklyn_] Méchant."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:41 #-#-# translate crowdin jacklyn_statement_text_start_f4b688c9:
 msgid "Wow, okay. Never thought that'd work. How do I get [flora] and [jo] out of the house for a whole evening?"
@@ -166,7 +166,7 @@ msgstr "Hmm ... elle ne voulait probablement pas dire une pipe littérale."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:65 #-#-# translate crowdin jacklyn_statement_text_start_d665e9d8:
 msgid "[_jacklyn_] Let's rendezvous outside the school."
-msgstr "[_jacklyn_] Let's rendezvous outside the school."
+msgstr "[_jacklyn_] Rendez-vous devant l'école."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:67 #-#-# translate crowdin jacklyn_statement_text_start_eaa2d723:
 msgid "Or did she?"
@@ -198,7 +198,7 @@ msgstr "[_mc_] J'ai une date demain et je me demandais si je pouvais avoir la ma
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:83 #-#-# translate crowdin jacklyn_statement_remove_jo_87c974b8:
 msgid "[_jo_s_concerned_cup_] A date?! What are you saying?"
-msgstr "[_jo_s_concerned_cup_] Une date ? ! Qu'est-ce que tu dis ?"
+msgstr "[_jo_s_concerned_cup_] Une date ?! Qu'est-ce que tu dis ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:84 #-#-# translate crowdin jacklyn_statement_remove_jo_69c25b65:
 msgid "[_mc_] Yeah..."
@@ -218,7 +218,7 @@ msgstr "[_mc_] Jack-"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:88 #-#-# translate crowdin jacklyn_statement_remove_jo_306f17d2:
 msgid "[_jo_s_smile_cup_] Jack! Well, let me tell you... I always suspected you liked boys."
-msgstr "[_jo_s_smile_cup_] Jack ! Eh bien, laissez-moi vous dire ... J'ai toujours soupçonné que tu aimes les garçons."
+msgstr "[_jo_s_Souriez_cup_] Jack ! Eh bien, laissez-moi vous dire ... J'ai toujours soupçonné que tu aimes les garçons."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:89 #-#-# translate crowdin jacklyn_statement_remove_jo_cdbf6d43:
 msgid "[_mc_] No, it's actually—"
@@ -226,11 +226,11 @@ msgstr "[_mc_] Non, c'est en fait-"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:90 #-#-# translate crowdin jacklyn_statement_remove_jo_fd12b00b:
 msgid "[_jo_s_smile_cup_] I want you to know that I'm fine with that! As long as you're happy, I don't care."
-msgstr "[_jo_s_smile_cup_] Je veux que vous sachiez que je vais bien avec ça ! Tant que tu es heureux, je m'en fiche."
+msgstr "[_jo_s_Souriez_cup_] Je veux que vous sachiez que je vais bien avec ça ! Tant que tu es heureux, je m'en fiche."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:91 #-#-# translate crowdin jacklyn_statement_remove_jo_bcae3851:
 msgid "[_jo_s_smile_cup_] Of course, I'm a bit sad that there won't be any mini-[mc]s running around the house..."
-msgstr "[_jo_s_smile_cup_] Bien sûr, je suis un peu triste qu'il n'y ait pas de mini-[mc]s courir autour de la maison ..."
+msgstr "[_jo_s_Souriez_cup_] Bien sûr, je suis un peu triste qu'il n'y ait pas de mini-[mc]s courir autour de la maison ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:92 #-#-# translate crowdin jacklyn_statement_remove_jo_94ca1d6f:
 msgid "[_mc_] [jo]..."
@@ -298,7 +298,7 @@ msgstr "[_jo_s_neutral_cup_] Je m'attendais à ça du [flora], mais pas vous ...
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:115 #-#-# translate crowdin jacklyn_statement_remove_jo_efc82254:
 msgid "[_jo_s_smile_cup_] I'm proud of you for doing your research."
-msgstr "[_jo_s_smile_cup_] Je suis fier de vous pour votre recherche."
+msgstr "[_jo_s_Souriez_cup_] Je suis fier de vous pour votre recherche."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:116 #-#-# translate crowdin jacklyn_statement_remove_jo_f26929ec:
 msgid "[_jo_s_confident_cup_] It's a sign of a good student and of adulthood!"
@@ -342,7 +342,7 @@ msgstr "[_jo_s_confident_cup_] Elle est un peu un esprit libre, c'est un ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:130 #-#-# translate crowdin jacklyn_statement_remove_jo_4db28373:
 msgid "[_jo_s_smile_cup_] Her wardrobe is something else entirely."
-msgstr "[_jo_s_smile_cup_] Sa garde-robe est autre chose."
+msgstr "[_jo_s_Souriez_cup_] Sa garde-robe est autre chose."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:133 #-#-# translate crowdin jacklyn_statement_remove_jo_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
@@ -370,7 +370,7 @@ msgstr "[_mc_] Elle est un bon exemple de ne pas prendre soin de ce que les gens
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:142 #-#-# translate crowdin jacklyn_statement_remove_jo_ce114d57:
 msgid "[_jo_s_smile_cup_] We just have to agree to disagree on that."
-msgstr "[_jo_s_smile_cup_] Nous devons juste accepter d'être en désaccord sur ce point."
+msgstr "[_jo_s_Souriez_cup_] Nous devons juste accepter d'être en désaccord sur ce point."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:143 #-#-# translate crowdin jacklyn_statement_remove_jo_f33ef0f9:
 msgid "[_mc_] Will you at least give us some privacy tomorrow night?"
@@ -394,7 +394,7 @@ msgstr "[_mc_] Je suis juste réaliste."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:150 #-#-# translate crowdin jacklyn_statement_remove_jo_ceb8d660:
 msgid "[_jo_s_smile_cup_] I think you're a catch for someone like her."
-msgstr "[_jo_s_smile_cup_] Je pense que vous êtes une prise pour quelqu'un comme elle."
+msgstr "[_jo_s_Souriez_cup_] Je pense que vous êtes une prise pour quelqu'un comme elle."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:151 #-#-# translate crowdin jacklyn_statement_remove_jo_8fa1989e:
 msgid "[_jo_s_neutral_cup_] I'm not going to hide that I don't approve of her style and mannerisms..."
@@ -406,11 +406,11 @@ msgstr "[_mc_] Heureusement, je suis celle qui a une date avec elle."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:154 #-#-# translate crowdin jacklyn_statement_remove_jo_09be8bee:
 msgid "[_jo_s_smile_cup_] I suppose you're right... that's a grown-up way of looking at it."
-msgstr "[_jo_s_smile_cup_] Je suppose que vous avez raison ... c'est une façon d'envisager la croissance."
+msgstr "[_jo_s_Souriez_cup_] Je suppose que vous avez raison ... c'est une façon d'envisager la croissance."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:155 #-#-# translate crowdin jacklyn_statement_remove_jo_014c9bad:
 msgid "[_jo_s_smile_cup_] All right, I'll be out of the house tomorrow night."
-msgstr "[_jo_s_smile_cup_] Très bien, je serai à l'extérieur de la maison demain soir."
+msgstr "[_jo_s_Souriez_cup_] Très bien, je serai à l'extérieur de la maison demain soir."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:158 #-#-# translate crowdin jacklyn_statement_remove_jo_1cc8ed50:
 msgid "[_mc_] She's perfect."
@@ -418,11 +418,11 @@ msgstr "[_mc_] Elle est parfaite."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:159 #-#-# translate crowdin jacklyn_statement_remove_jo_be13130a:
 msgid "[_jo_s_smile_cup_] I remember my first love too..."
-msgstr "[_jo_s_smile_cup_] Je me souviens de mon premier amour aussi ..."
+msgstr "[_jo_s_Souriez_cup_] Je me souviens de mon premier amour aussi ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:160 #-#-# translate crowdin jacklyn_statement_remove_jo_690d5a72:
 msgid "[_jo_s_smile_cup_] Just be careful, okay? She might be a heartbreaker."
-msgstr "[_jo_s_smile_cup_] Juste être prudent, d'accord ? Elle pourrait être un disjoncteur."
+msgstr "[_jo_s_Souriez_cup_] Juste être prudent, d'accord ? Elle pourrait être un disjoncteur."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:161 #-#-# translate crowdin jacklyn_statement_remove_jo_2712f591:
 msgid "[_mc_] Thanks, [jo]. It's just our first date, but I'll keep it in mind..."
@@ -438,11 +438,11 @@ msgstr "[_mc_] [jo]!"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:165 #-#-# translate crowdin jacklyn_statement_remove_jo_8f1bd33c:
 msgid "[_jo_s_smile_cup_] I know you're responsible when it comes to these things."
-msgstr "[_jo_s_smile_cup_] Je sais que vous êtes responsable de ces choses."
+msgstr "[_jo_s_Souriez_cup_] Je sais que vous êtes responsable de ces choses."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:166 #-#-# translate crowdin jacklyn_statement_remove_jo_dfea2dc5:
 msgid "[_jo_s_smile_cup_] I'll make sure to be out of the house tomorrow night so you guys have some privacy."
-msgstr "[_jo_s_smile_cup_] Je vais m'assurer d'être à l'extérieur de la maison demain soir pour que vous avez un peu de vie privée."
+msgstr "[_jo_s_Souriez_cup_] Je vais m'assurer d'être à l'extérieur de la maison demain soir pour que vous avez un peu de vie privée."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:169 #-#-# translate crowdin jacklyn_statement_remove_jo_ff06fd84:
 msgid "[_mc_] She's a total slut, and I love it!"
@@ -474,7 +474,7 @@ msgstr "[_mc_] Désolé, [jo]... Je ne le dirai plus."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:177 #-#-# translate crowdin jacklyn_statement_remove_jo_06639256:
 msgid "[_jo_s_smile_cup_] Good. You better treat her well."
-msgstr "[_jo_s_smile_cup_] Bon. Tu feras mieux de la traiter."
+msgstr "[_jo_s_Souriez_cup_] Bon. Tu feras mieux de la traiter."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:181 #-#-# translate crowdin jacklyn_statement_remove_jo_82245609:
 msgid "Okay, with everyone out of the house tomorrow... time to start preparing the dinner!"
@@ -630,11 +630,11 @@ msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:238 #-#-# translate crowdin jacklyn_statement_meetjacklyn_57d8ad19:
 msgid "[_jacklyn_s_smile_] You said you were trying to flatter my scarlett johansson."
-msgstr "[_jacklyn_s_smile_] Vous avez dit que vous essayiez de flatter mon foulard johansson."
+msgstr "[_jacklyn_s_Souriez_] Vous avez dit que vous essayiez de flatter mon foulard johansson."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:239 #-#-# translate crowdin jacklyn_statement_meetjacklyn_6fb09975:
 msgid "[_jacklyn_s_smile_] Now's your chance."
-msgstr "[_jacklyn_s_smile_] Maintenant, c'est votre chance."
+msgstr "[_jacklyn_s_Souriez_] Maintenant, c'est votre chance."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:240 #-#-# translate crowdin jacklyn_statement_meetjacklyn_109c213f:
 msgid "Fuck. What does she mean?"
@@ -662,7 +662,7 @@ msgstr "[_mc_] Err ... pas vraiment. Juste me fixer pour flatter votre foulard j
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:250 #-#-# translate crowdin jacklyn_statement_meetjacklyn_02bb456d:
 msgid "[_jacklyn_s_smile_] Jokes. I'm listening."
-msgstr "[_jacklyn_s_smile_] Jokes. J'écoute."
+msgstr "[_jacklyn_s_Souriez_] Jokes. J'écoute."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:251 #-#-# translate crowdin jacklyn_statement_meetjacklyn_d546f1fe:
 msgid "[_mc_] I saw your scarlett johansson when you bent over to look at my past artwork."
@@ -710,7 +710,7 @@ msgstr "[_jacklyn_s_neutral_] Vous m'avez probablement laissé."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:263 #-#-# translate crowdin jacklyn_statement_meetjacklyn_549ba9f6:
 msgid "[_jacklyn_s_smile_] Dinner at your place tomorrow night. You're cooking for me."
-msgstr "[_jacklyn_s_smile_] Dîner à votre place demain soir. Tu fais la cuisine pour moi."
+msgstr "[_jacklyn_s_Souriez_] Dîner à votre place demain soir. Tu fais la cuisine pour moi."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:264 #-#-# translate crowdin jacklyn_statement_meetjacklyn_0d566609:
 msgid "[_mc_] A date?"
@@ -718,7 +718,7 @@ msgstr "[_mc_] Une date ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:265 #-#-# translate crowdin jacklyn_statement_meetjacklyn_23c883ee:
 msgid "[_jacklyn_s_smile_right_] We'll see."
-msgstr "[_jacklyn_s_smile_right_] Nous verrons."
+msgstr "[_jacklyn_s_Souriez_right_] Nous verrons."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:266 #-#-# translate crowdin jacklyn_statement_meetjacklyn_a3ef5b48:
 msgid "[_mc_] Okay!"
@@ -822,11 +822,11 @@ msgstr "[_jacklyn_s_thinking_] Vous n'avez pas gagné la loterie génétique en 
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:301 #-#-# translate crowdin jacklyn_statement_meetjacklyn_54a72076:
 msgid "[_jacklyn_s_smile_] You're funny and pretty resourceful, and you're far from stupid."
-msgstr "[_jacklyn_s_smile_] Vous êtes drôle et assez ingénieux, et vous êtes loin d'être stupide."
+msgstr "[_jacklyn_s_Souriez_] Vous êtes drôle et assez ingénieux, et vous êtes loin d'être stupide."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:302 #-#-# translate crowdin jacklyn_statement_meetjacklyn_597fd004:
 msgid "[_jacklyn_s_smile_] You've also got that creative spark!"
-msgstr "[_jacklyn_s_smile_] Vous avez aussi cette étincelle créative !"
+msgstr "[_jacklyn_s_Souriez_] Vous avez aussi cette étincelle créative !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:305 #-#-# translate crowdin jacklyn_statement_meetjacklyn_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
@@ -838,7 +838,7 @@ msgstr "[_mc_] Merci, j'avais besoin d'entendre ça ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:310 #-#-# translate crowdin jacklyn_statement_meetjacklyn_522a8a6d:
 msgid "[_jacklyn_s_smile_right_] We all do sometimes."
-msgstr "[_jacklyn_s_smile_right_] Nous le faisons tous parfois."
+msgstr "[_jacklyn_s_Souriez_right_] Nous le faisons tous parfois."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:311 #-#-# translate crowdin jacklyn_statement_meetjacklyn_0e4c1fec:
 msgid "Damn, maybe this is my chance?"
@@ -870,11 +870,11 @@ msgstr "[_mc_] Je suppose que vous avez raison. Et demain soir, ma place ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:318 #-#-# translate crowdin jacklyn_statement_meetjacklyn_a5d1a0d5:
 msgid "[_jacklyn_s_smile_] Wicked."
-msgstr "[_jacklyn_s_smile_] Wicked."
+msgstr "[_jacklyn_s_Souriez_] Wicked."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:319 #-#-# translate crowdin jacklyn_statement_meetjacklyn_5b9bdd3f:
 msgid "[_jacklyn_s_smile_] All right, I got some buzzing to do. Laters!"
-msgstr "[_jacklyn_s_smile_] Très bien, j'ai un peu de bourrage à faire. Les Lettons !"
+msgstr "[_jacklyn_s_Souriez_] Très bien, j'ai un peu de bourrage à faire. Les Lettons !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:321 #-#-# translate crowdin jacklyn_statement_meetjacklyn_5ae41708:
 msgid "Does this count as a date?"
@@ -926,7 +926,7 @@ msgstr "[_mc_] En fait, j'aimerais vous en donner un !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:339 #-#-# translate crowdin jacklyn_statement_meetjacklyn_6c7e7850:
 msgid "[_jacklyn_s_smile_] Oh, yeah?"
-msgstr "[_jacklyn_s_smile_] Oh, oui ?"
+msgstr "[_jacklyn_s_Souriez_] Oh, oui ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:340 #-#-# translate crowdin jacklyn_statement_meetjacklyn_5323d4b6:
 msgid "[_mc_] You're super confident in who you are, and that's so hot."
@@ -954,7 +954,7 @@ msgstr "[_mc_] Nous verrons qui fait ça ... à propos de demain soir ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:347 #-#-# translate crowdin jacklyn_statement_meetjacklyn_b14526b1:
 msgid "[_jacklyn_s_excited_] We will see. All right, deal!"
-msgstr "[_jacklyn_s_excited_] Nous verrons. Très bien, deal !"
+msgstr "[_jacklyn_s_excited_] Nous verrons. Très bien, marché conclu !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:348 #-#-# translate crowdin jacklyn_statement_meetjacklyn_7f999dfc:
 msgid "[_jacklyn_s_excited_] Got some buzzing to do. Laters."
@@ -1254,11 +1254,11 @@ msgstr "[_flora_s_flirty_] Bien sûr !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:472 #-#-# translate crowdin jacklyn_statement_flora_ingredients_b568bb19:
 msgid "[_mc_] Why are you being so nice all of a sudden?"
-msgstr "[_mc_] Pourquoi êtes-vous si gentile tout d'un coup ?"
+msgstr "[_mc_] Pourquoi êtes-vous si gentille tout d'un coup ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:473 #-#-# translate crowdin jacklyn_statement_flora_ingredients_2748d1a5:
 msgid "[_flora_s_blush_] Well, you were nice to me... so I thought I'd return the favor."
-msgstr "[_flora_s_blush_] Eh bien, vous étiez gentile avec moi ... alors j'ai pensé que je renverrais la faveur."
+msgstr "[_flora_s_blush_] Eh bien, vous étiez gentille avec moi ... alors j'ai pensé que je renverrais la faveur."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:474 #-#-# translate crowdin jacklyn_statement_flora_ingredients_6a5f5be5:
 msgid "[_mc_] Uh... thanks, I guess..."
@@ -1454,7 +1454,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:557 #-#-# translate crowdin jacklyn_statement_flora_chef_3b08cccb:
 msgid "[_mc_] Deal..."
-msgstr "[_mc_] Deal ..."
+msgstr "[_mc_] marché conclu ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:559 #-#-# translate crowdin jacklyn_statement_flora_chef_f4ea83e0:
 msgid "[_flora_s_laughing_] Pleasure doing business with you!"
@@ -1570,7 +1570,7 @@ msgstr "Toujours dans l'uniforme de son professeur ... hmmm ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:622 #-#-# translate crowdin jacklyn_statement_jackdate_231e7d34:
 msgid "[_jacklyn_s_smile_] So, did you really cook for me? I'm starving."
-msgstr "[_jacklyn_s_smile_] Alors, tu as vraiment cuisiner pour moi ? Je suis affamé."
+msgstr "[_jacklyn_s_Souriez_] Alors, tu as vraiment cuisiner pour moi ? Je suis affamé."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:625 #-#-# translate crowdin jacklyn_statement_jackdate_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1682,7 +1682,7 @@ msgstr "[_mc_] Mais ... Je me souviendrai à jamais du gars qui a servi sa cér�
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:664 #-#-# translate crowdin jacklyn_statement_jackdate_af702b4a:
 msgid "[_jacklyn_s_smile_] Yeah, but that's flickers and sparks! As long as you own it, people will find it badass."
-msgstr "[_jacklyn_s_smile_] Oui, mais c'est des rameurs et des étincelles ! Tant que vous le possédez, les gens trouveront le blaireau."
+msgstr "[_jacklyn_s_Souriez_] Oui, mais c'est des rameurs et des étincelles ! Tant que vous le possédez, les gens trouveront le blaireau."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:665 #-#-# translate crowdin jacklyn_statement_jackdate_f0b1304c:
 msgid "[_jacklyn_s_laughing_] High schoolers eat that shit up."
@@ -1778,7 +1778,7 @@ msgstr "[_jacklyn_s_jacklyn_date_laughing_] Oh, petit garçon ... Je voulais dir
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:703 #-#-# translate crowdin jacklyn_statement_jackdate_6f8b862f:
 msgid "[_jacklyn_s_jacklyn_date_smile_] You know I don't dabble."
-msgstr "[_jacklyn_s_jacklyn_date_smile_] Tu sais que je ne sais pas."
+msgstr "[_jacklyn_s_jacklyn_date_Souriez_] Tu sais que je ne sais pas."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:704 #-#-# translate crowdin jacklyn_statement_jackdate_4c1dfaf9:
 msgid "[_mc_] Ah! Got confused there for a second!"
@@ -1834,7 +1834,7 @@ msgstr "[_jacklyn_s_jacklyn_date_neutral_] L'art est mon cœur pleurer ... toujo
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:723 #-#-# translate crowdin jacklyn_statement_jackdate_d8c593b1:
 msgid "[_jacklyn_s_jacklyn_date_smile_] Plus it's chill as fuck. Just watch a bunch of students splash color on a canvas all day..."
-msgstr "[_jacklyn_s_jacklyn_date_smile_] Plus c'est le refroidissement comme baiser. Il suffit de voir une bande d'étudiants éclaboussé la couleur sur une toile toute la journée ..."
+msgstr "[_jacklyn_s_jacklyn_date_Souriez_] Plus c'est le refroidissement comme baiser. Il suffit de voir une bande d'étudiants éclaboussé la couleur sur une toile toute la journée ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:724 #-#-# translate crowdin jacklyn_statement_jackdate_f7d7d6a9:
 msgid "[_mc_] Never thought of that! Getting a chill job is pretty legit."
@@ -1918,7 +1918,7 @@ msgstr "[_jacklyn_s_jacklyn_date_flirty_] Excuse-moi pour sucer votre bite, mais
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:747 #-#-# translate crowdin jacklyn_statement_jackdate_81ac8c7a:
 msgid "[_jacklyn_s_jacklyn_date_smile_] It's like one of those origin stories... what a relief."
-msgstr "[_jacklyn_s_jacklyn_date_smile_] C'est comme l'une de ces histoires d'origine ... quel soulagement."
+msgstr "[_jacklyn_s_jacklyn_date_Souriez_] C'est comme l'une de ces histoires d'origine ... quel soulagement."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:748 #-#-# translate crowdin jacklyn_statement_jackdate_fee2b2fd:
 msgid "[_mc_] Happy you liked it."
@@ -2034,7 +2034,7 @@ msgstr "[_jacklyn_s_thinking_] Oui ? Toutes les bonnes déclarations ont un fact
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:802 #-#-# translate crowdin jacklyn_statement_statement_6aa03ed6:
 msgid "[_jacklyn_s_smile_] That's the difference between vandalism and art."
-msgstr "[_jacklyn_s_smile_] C'est la différence entre le vandalisme et l'art."
+msgstr "[_jacklyn_s_Souriez_] C'est la différence entre le vandalisme et l'art."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:803 #-#-# translate crowdin jacklyn_statement_statement_c6b0b5b2:
 msgid "[_mc_] Right... but why are we out here sneaking around, then?"
@@ -2210,7 +2210,7 @@ msgstr "[_mc_] Comment vous avez ouvert les yeux sur ce que signifie être un ar
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:870 #-#-# translate crowdin jacklyn_statement_statement_43a113b4:
 msgid "[_jacklyn_s_smile_] And what does it mean?"
-msgstr "[_jacklyn_s_smile_] Et qu'est-ce que cela signifie ?"
+msgstr "[_jacklyn_s_Souriez_] Et qu'est-ce que cela signifie ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:871 #-#-# translate crowdin jacklyn_statement_statement_2af54843:
 msgid "[_mc_] To turn nothing into something... chaos into order."
@@ -2314,7 +2314,7 @@ msgstr "C'est ce qu'on appelle ça ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:902 #-#-# translate crowdin jacklyn_statement_statement_27e356b9:
 msgid "[_jacklyn_s_smile_right_] Every successful artist has felt it at some point."
-msgstr "[_jacklyn_s_smile_right_] Tous les artistes qui réussissent le sentent à un moment ou à un autre."
+msgstr "[_jacklyn_s_Souriez_right_] Tous les artistes qui réussissent le sentent à un moment ou à un autre."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:904 #-#-# translate crowdin jacklyn_statement_statement_8673a3bb:
 msgid "Not sure what's going on... I thought [jacklyn] would slap me and storm off, but she's actually playing with the waistband of her panties."
@@ -2330,7 +2330,7 @@ msgstr "[_mc_] Sérieusement ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:909 #-#-# translate crowdin jacklyn_statement_statement_5608e55a:
 msgid "[_jacklyn_s_smile_] Yeah, seriously. Lie down... this is the prize of enlightened artistry."
-msgstr "[_jacklyn_s_smile_] Oui, sérieusement. Lie down ... c'est le prix de l'art éclairé."
+msgstr "[_jacklyn_s_Souriez_] Oui, sérieusement. Lie down ... c'est le prix de l'art éclairé."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:912 #-#-# translate crowdin jacklyn_statement_statement_ba9abfda:
 msgid "Can't believe this is happening... anal with freaking [jacklyn]!"
@@ -2502,7 +2502,7 @@ msgstr "[_jacklyn_s_jacklyn_anal_thrust3_face1_] Dick-fister !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1039 #-#-# translate crowdin jacklyn_statement_statement_c99a8d8b:
 msgid "[_jacklyn_s_jacklyn_anal_thrust4_face3_] Fuck me, that's deep."
-msgstr "[_jacklyn_s_jacklyn_anal_thrust4_face3_] Fuck me, c'est profond."
+msgstr "[_jacklyn_s_jacklyn_anal_thrust4_face3_] Baise-moi, c'est profond."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1040 #-#-# translate crowdin jacklyn_statement_statement_b9083906:
 msgid "Jesus... I swear she just took the head of my dick into her colon."
@@ -2522,7 +2522,7 @@ msgstr "[_mc_] -------------"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1071 #-#-# translate crowdin jacklyn_statement_statement_38cb8147:
 msgid "[_mc_] Fuck!"
-msgstr "[_mc_] Fuck !"
+msgstr "[_mc_] Putain!"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1072 #-#-# translate crowdin jacklyn_statement_statement_4df710a2:
 msgid "[_jacklyn_s_jacklyn_anal_thrust3_face3_] Oh, give it to me!"
@@ -2674,7 +2674,7 @@ msgstr "Pas sûr de ce qui m'est arrivé, mais un désir étrange d'être ravag�
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1136 #-#-# translate crowdin jacklyn_statement_statement_3690047e:
 msgid "[_jacklyn_s_smile_] You sure did dress the part of a punk bitch! Is that why you rock the stockings and choker?"
-msgstr "[_jacklyn_s_smile_] Vous avez vraiment habillées la partie d'une salope punk ! C'est pour ça que vous rochez les bas et le choeur ?"
+msgstr "[_jacklyn_s_Souriez_] Vous avez vraiment habillées la partie d'une salope punk ! C'est pour ça que vous rochez les bas et le choeur ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1137 #-#-# translate crowdin jacklyn_statement_statement_acc26762:
 msgid "[_mc_] I guess..."
@@ -2682,11 +2682,11 @@ msgstr "[_mc_] Je suppose ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1138 #-#-# translate crowdin jacklyn_statement_statement_d59333b3:
 msgid "[_jacklyn_s_smile_] Baller. I'm actually feeling the tingles as well."
-msgstr "[_jacklyn_s_smile_] Baller. En fait, je ressens aussi les tingles."
+msgstr "[_jacklyn_s_Souriez_] Baller. En fait, je ressens aussi les tingles."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1139 #-#-# translate crowdin jacklyn_statement_statement_5cc86dc6:
 msgid "[_jacklyn_s_smile_] Come on, let's get skin-deep..."
-msgstr "[_jacklyn_s_smile_] Allez, on a la peau ..."
+msgstr "[_jacklyn_s_Souriez_] Allez, on a la peau ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1142 #-#-# translate crowdin jacklyn_statement_statement_f3034b3c:
 msgid "[_jacklyn_s_excited_] Oh, you can leave the top on — you look totally baby in it."
@@ -2726,11 +2726,11 @@ msgstr "[_mc_] Oui ... Je ne pense pas que vous pouvez vous considérer comme vr
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1153 #-#-# translate crowdin jacklyn_statement_statement_69f14eaf:
 msgid "[_jacklyn_s_smile_] That is fair and true."
-msgstr "[_jacklyn_s_smile_] C'est juste et vrai."
+msgstr "[_jacklyn_s_Souriez_] C'est juste et vrai."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1154 #-#-# translate crowdin jacklyn_statement_statement_430a8c6a:
 msgid "[_jacklyn_s_smile_] All right, get comfy while I strap in..."
-msgstr "[_jacklyn_s_smile_] Tous droits, get comfy while I strap in ..."
+msgstr "[_jacklyn_s_Souriez_] Tous droits, get comfy while I strap in ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1157 #-#-# translate crowdin jacklyn_statement_statement_7e133616:
 msgid "This is probably going to hurt, but somehow I'm turned on by the idea of getting fucked by someone like [jacklyn]."
@@ -2766,7 +2766,7 @@ msgstr "[_mc_] Um ... ok. Ne le mets pas tout à la fois."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1169 #-#-# translate crowdin jacklyn_statement_statement_470723a0:
 msgid "[_jacklyn_s_mc_pegged_prepare_] Don't worry... I'll be nice."
-msgstr "[_jacklyn_s_mc_pegged_prepare_] Ne vous inquiétez pas ... Je serai gentile."
+msgstr "[_jacklyn_s_mc_pegged_prepare_] Ne vous inquiétez pas ... Je serai gentille."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1170 #-#-# translate crowdin jacklyn_statement_statement_06d142e1:
 msgid "[_jacklyn_s_mc_pegged_insert_] We'll start with the tip."
@@ -2830,7 +2830,7 @@ msgstr "[_jacklyn_s_mc_pegged_insert_] Ça pourrait faire mal un peu au début, 
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1186 #-#-# translate crowdin jacklyn_statement_statement_38cb8147_1:
 msgid "[_mc_] Fuck!"
-msgstr "[_mc_] Fuck !"
+msgstr "[_mc_] Putain!"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1187 #-#-# translate crowdin jacklyn_statement_statement_4d7c7a11:
 msgid "[_jacklyn_s_mc_pegged_in_] Are you okay?"
@@ -2866,7 +2866,7 @@ msgstr "[_jacklyn_s_mc_pegged_deep_] Nous y allons. Comment ça ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1196 #-#-# translate crowdin jacklyn_statement_statement_df29fd7d:
 msgid "[_mc_] Fuck me... that's deep."
-msgstr "[_mc_] Fuck me ... c'est profond."
+msgstr "[_mc_] Baise-moi ... c'est profond."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1197 #-#-# translate crowdin jacklyn_statement_statement_826d51d4:
 msgid "Feels like she just pushed through my ass entirely, poking at the entrance of my colon."
@@ -2942,7 +2942,7 @@ msgstr "[_jacklyn_s_mc_pegged_deep_] Oh oui ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1233 #-#-# translate crowdin jacklyn_statement_statement_4bf7fa3b:
 msgid "[_mc_] Fuck me, [jacklyn]!"
-msgstr "[_mc_] Fuck me, [jacklyn]!"
+msgstr "[_mc_] Baise-moi, [jacklyn]!"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1234 #-#-# translate crowdin jacklyn_statement_statement_8d77950a:
 msgid "[_jacklyn_s_mc_pegged_deep_] That's what I like to hear."
@@ -2994,11 +2994,11 @@ msgstr "Oh, mon dieu ! Mes couilles n'ont jamais été aussi près d'éclater !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1286 #-#-# translate crowdin jacklyn_statement_statement_218043ad:
 msgid "[_jacklyn_s_mc_pegged_deep_] Come on, [mc]! Take it!"
-msgstr "[_jacklyn_s_mc_pegged_deep_] Come on, [mc]! Prends ça !"
+msgstr "[_jacklyn_s_mc_pegged_deep_] Viens, [mc]! Prends ça !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1287 #-#-# translate crowdin jacklyn_statement_statement_d5473dbd:
 msgid "[_mc_] Fuck me hard!"
-msgstr "[_mc_] Fuck me hard !"
+msgstr "[_mc_] Baise-moi hard !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1288 #-#-# translate crowdin jacklyn_statement_statement_807077e4:
 msgid "[_jacklyn_s_mc_pegged_deep_] Oh, I'm planning on it..."
@@ -3158,7 +3158,7 @@ msgstr "\"Les dîners coûteux ne sont pas une bonne base pour une relation, de 
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:553
 msgid "?mc.money>=50@[mc.money]/50|{image=ui hud icon_money}|\"Deal...\""
-msgstr "?mc.money>=50 @[mc.money]/50|{image=ui hud icon_money}|\"Deal ...\""
+msgstr "?mc.money>=50 @[mc.money]/50|{image=ui hud icon_money}|\"marché conclu ...\""
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:553
 msgid "\"Forget it.\""
