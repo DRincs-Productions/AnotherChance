@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:3 #-#-# translate crowdin quest_jo_pot_start_a253a57b:
 msgid "[_jo_] How's it going, honey?"
@@ -174,7 +174,7 @@ msgstr "[_flora_s_thinking_]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:57 #-#-# translate crowdin quest_jo_pot_start_900bfabe:
 msgid "[_flora_s_cringe_] Gross!"
-msgstr "[_flora_s_cringe_] Gross !"
+msgstr "[_flora_s_cringe_] Grossier !"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:58 #-#-# translate crowdin quest_jo_pot_start_84ef2399:
 msgid "[_mc_] I don't think they're that gross."
@@ -394,7 +394,7 @@ msgstr "[_mc_] Très bien, suivez-moi."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:150 #-#-# translate crowdin quest_jo_pot_getnurse_2501cbab:
 msgid "[_nurse_s_smile_] Where are we going?"
-msgstr "[_nurse_s_smile_] Où allons-nous ?"
+msgstr "[_nurse_s_Souriez_] Où allons-nous ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:151 #-#-# translate crowdin quest_jo_pot_getnurse_21ce824a:
 msgid "[_mc_] To my field, of course."
@@ -438,7 +438,7 @@ msgstr "[_mc_] Voir cette parcelle d'herbe là-bas ? Ça a besoin de ploïdie."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:178 #-#-# translate crowdin quest_jo_pot_nurse_plow_4fc7c79f:
 msgid "[_nurse_s_smile_] How are you going to do that?"
-msgstr "[_nurse_s_smile_] Comment allez-vous faire ?"
+msgstr "[_nurse_s_Souriez_] Comment allez-vous faire ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:179 #-#-# translate crowdin quest_jo_pot_nurse_plow_081ca31e:
 msgid "[_mc_] I got this plow and now I got the cattle to pull it."
@@ -694,11 +694,11 @@ msgstr "[_mc_] J'ai appris à travailler sur les terres."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:277 #-#-# translate crowdin quest_jo_pot_tea_school_5e033ff9:
 msgid "[_jo_s_smile_] I'm glad you have!"
-msgstr "[_jo_s_smile_] Je suis heureux que vous l'avez !"
+msgstr "[_jo_s_Souriez_] Je suis heureux que vous l'avez !"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:278 #-#-# translate crowdin quest_jo_pot_tea_school_4662065b:
 msgid "[_jo_s_smile_] Is that a metaphor for something? I'm struggling to keep up with the slang."
-msgstr "[_jo_s_smile_] Est-ce une métaphore pour quelque chose ? J'ai du mal à suivre l'argot."
+msgstr "[_jo_s_Souriez_] Est-ce une métaphore pour quelque chose ? J'ai du mal à suivre l'argot."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:279 #-#-# translate crowdin quest_jo_pot_tea_school_597b4062:
 msgid "[_jo_s_eyeroll_] Last night [flora] told me that her new hair dryer blows her skirt up."
@@ -718,7 +718,7 @@ msgstr "[_mc_] Quoi qu'il en soit, je voulais dire que j'étais entré dans l'ag
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:283 #-#-# translate crowdin quest_jo_pot_tea_school_3d6bf330:
 msgid "[_jo_s_smile_] That is great news! I'm glad you're finally interested in something other than your computer and cartoons."
-msgstr "[_jo_s_smile_] C'est une bonne nouvelle ! Je suis heureux que vous soyez enfin intéressé par quelque chose d'autre que votre ordinateur et vos dessins animés."
+msgstr "[_jo_s_Souriez_] C'est une bonne nouvelle ! Je suis heureux que vous soyez enfin intéressé par quelque chose d'autre que votre ordinateur et vos dessins animés."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:284 #-#-# translate crowdin quest_jo_pot_tea_school_f25d3de7:
 msgid "[_mc_] I actually grew some plants and I've made tea from their leaves. It's supposed to help with throat pain!"
@@ -742,11 +742,11 @@ msgstr "[_mc_] Aimeriez-vous une tasse ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:289 #-#-# translate crowdin quest_jo_pot_tea_school_2999a77a:
 msgid "[_jo_s_smile_] I most definitely do, but it'll have to wait until we get home."
-msgstr "[_jo_s_smile_] Je le fais vraiment, mais il faudra attendre que nous nous retrouverions à la maison."
+msgstr "[_jo_s_Souriez_] Je le fais vraiment, mais il faudra attendre que nous nous retrouverions à la maison."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:290 #-#-# translate crowdin quest_jo_pot_tea_school_380ff27f:
 msgid "[_jo_s_smile_] The truly good teas often have a strong smell and I have a board meeting later."
-msgstr "[_jo_s_smile_] Les thés vraiment bons ont souvent une forte odeur et j'ai une réunion du conseil plus tard."
+msgstr "[_jo_s_Souriez_] Les thés vraiment bons ont souvent une forte odeur et j'ai une réunion du conseil plus tard."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:297 #-#-# translate crowdin quest_jo_pot_tea_home_98f298b2:
 msgid "[_jo_s_flirty_] That smells nice! Is that the tea you made me?"
@@ -766,11 +766,11 @@ msgstr "[_mc_] J'ai appris à travailler sur les terres."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:303 #-#-# translate crowdin quest_jo_pot_tea_home_5e033ff9:
 msgid "[_jo_s_smile_] I'm glad you have!"
-msgstr "[_jo_s_smile_] Je suis heureux que vous l'avez !"
+msgstr "[_jo_s_Souriez_] Je suis heureux que vous l'avez !"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:304 #-#-# translate crowdin quest_jo_pot_tea_home_4662065b:
 msgid "[_jo_s_smile_] Is that a metaphor for something? I'm struggling to keep up with the slang."
-msgstr "[_jo_s_smile_] Est-ce une métaphore pour quelque chose ? J'ai du mal à suivre l'argot."
+msgstr "[_jo_s_Souriez_] Est-ce une métaphore pour quelque chose ? J'ai du mal à suivre l'argot."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:305 #-#-# translate crowdin quest_jo_pot_tea_home_597b4062:
 msgid "[_jo_s_eyeroll_] Last night [flora] told me that her new hair dryer blows her skirt up."
@@ -790,7 +790,7 @@ msgstr "[_mc_] Quoi qu'il en soit, je voulais dire que j'étais entré dans l'ag
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:309 #-#-# translate crowdin quest_jo_pot_tea_home_3d6bf330:
 msgid "[_jo_s_smile_] That is great news! I'm glad you're finally interested in something other than your computer and cartoons."
-msgstr "[_jo_s_smile_] C'est une bonne nouvelle ! Je suis heureux que vous soyez enfin intéressé par quelque chose d'autre que votre ordinateur et vos dessins animés."
+msgstr "[_jo_s_Souriez_] C'est une bonne nouvelle ! Je suis heureux que vous soyez enfin intéressé par quelque chose d'autre que votre ordinateur et vos dessins animés."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:310 #-#-# translate crowdin quest_jo_pot_tea_home_f25d3de7:
 msgid "[_mc_] I actually grew some plants and I've made tea from their leaves. It's supposed to help with throat pain!"
@@ -830,11 +830,11 @@ msgstr "[_mc_] Vous pouvez également vous détendre. Je sais que le stress est 
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:321 #-#-# translate crowdin quest_jo_pot_tea_home_66839ead:
 msgid "[_jo_s_smile_cup_] I appreciate it, honey."
-msgstr "[_jo_s_smile_cup_] Je l'apprécie, chérie."
+msgstr "[_jo_s_Souriez_cup_] Je l'apprécie, chérie."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:325 #-#-# translate crowdin quest_jo_pot_tea_home_30b69fd4:
 msgid "[_flora_s_annoyed_s_flip_] Gross. What's that smell?"
-msgstr "[_flora_s_annoyed_s_flip_] Gross. Quelle est cette odeur ?"
+msgstr "[_flora_s_annoyed_s_flip_] Grossier. Quelle est cette odeur ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:326 #-#-# translate crowdin quest_jo_pot_tea_home_66c36664:
 msgid "[_jo_s_neutral_cup_] Don't say that, [flora]."
@@ -842,7 +842,7 @@ msgstr "[_jo_s_neutral_cup_] Ne dites pas ça, [flora]."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:327 #-#-# translate crowdin quest_jo_pot_tea_home_9aac0efd:
 msgid "[_jo_s_smile_cup_] [mc] has been kind enough to brew me a cup of tea for my throat."
-msgstr "[_jo_s_smile_cup_] [mc] a été assez aimable pour me faire une tasse de thé pour ma gorge."
+msgstr "[_jo_s_Souriez_cup_] [mc] a été assez aimable pour me faire une tasse de thé pour ma gorge."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:328 #-#-# translate crowdin quest_jo_pot_tea_home_71b84898:
 msgid "[_flora_s_skeptical_] I would check the table of contents if I were you..."
@@ -870,7 +870,7 @@ msgstr "Sucre à sucer, [flora]."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:337 #-#-# translate crowdin quest_jo_pot_tea_home_cdd2af81:
 msgid "[_jo_s_smile_cup_] Okay, let's give it a taste."
-msgstr "[_jo_s_smile_cup_] D'accord, donnons-nous un goût."
+msgstr "[_jo_s_Souriez_cup_] D'accord, donnons-nous un goût."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:338 #-#-# translate crowdin quest_jo_pot_tea_home_a31861ae:
 msgid "[_jo_s_confident_cup_] ..."
@@ -902,7 +902,7 @@ msgstr "[_jo_s_confident_cup_]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:349 #-#-# translate crowdin quest_jo_pot_tea_home_092755c0:
 msgid "[_jo_s_smile_cup_] I appreciate it, [mc]."
-msgstr "[_jo_s_smile_cup_] Je l'apprécie, [mc]."
+msgstr "[_jo_s_Souriez_cup_] Je l'apprécie, [mc]."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:350 #-#-# translate crowdin quest_jo_pot_tea_home_937211d8:
 msgid "[_mc_] Anything to help you."
@@ -910,7 +910,7 @@ msgstr "[_mc_] N'importe quoi pour vous aider."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:352 #-#-# translate crowdin quest_jo_pot_tea_home_93fd1221:
 msgid "[_jo_s_smile_cup_] Aw, sweetie!"
-msgstr "[_jo_s_smile_cup_] Aw, chérie !"
+msgstr "[_jo_s_Souriez_cup_] Aw, chérie !"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:355 #-#-# translate crowdin quest_jo_pot_tea_home_fef46c97:
 msgid "[_mc_] The plants are a distant relative to the Cannabis sativa plant."
@@ -926,15 +926,15 @@ msgstr "[_mc_] Ils ne semblent pas liés du tout, comme moi et [flora]."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:358 #-#-# translate crowdin quest_jo_pot_tea_home_3853ce95:
 msgid "[_jo_s_smile_cup_] I'm not upset with you! I think it's a nice gesture."
-msgstr "[_jo_s_smile_cup_] Je ne suis pas contrariété avec toi ! Je pense que c'est un beau geste."
+msgstr "[_jo_s_Souriez_cup_] Je ne suis pas contrariété avec toi ! Je pense que c'est un beau geste."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:359 #-#-# translate crowdin quest_jo_pot_tea_home_8f6b8a76:
 msgid "[_jo_s_smile_cup_] Don't tell [flora], but I used to smoke a good bit of pot when I first started as a school administrator..."
-msgstr "[_jo_s_smile_cup_] Ne dis pas [flora], mais j'ai utilisé pour fumer un bon bout de pot quand j'ai commencé comme administrateur scolaire ..."
+msgstr "[_jo_s_Souriez_cup_] Ne dis pas [flora], mais j'ai utilisé pour fumer un bon bout de pot quand j'ai commencé comme administrateur scolaire ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:360 #-#-# translate crowdin quest_jo_pot_tea_home_19dd8226:
 msgid "[_jo_s_smile_cup_] It always helped with the stress and took the burn and aches out of my throat."
-msgstr "[_jo_s_smile_cup_] Il a toujours aidé avec le stress et a pris le feu et a mal à la gorge."
+msgstr "[_jo_s_Souriez_cup_] Il a toujours aidé avec le stress et a pris le feu et a mal à la gorge."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:361 #-#-# translate crowdin quest_jo_pot_tea_home_a31861ae_2:
 msgid "[_jo_s_confident_cup_] ..."
@@ -942,7 +942,7 @@ msgstr "[_jo_s_confident_cup_]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:363 #-#-# translate crowdin quest_jo_pot_tea_home_9753736e:
 msgid "[_jo_s_smile_cup_] I used to be very sore down there after those late nights at the office."
-msgstr "[_jo_s_smile_cup_] J'ai été très douloureux là-bas après ces dernières nuits au bureau."
+msgstr "[_jo_s_Souriez_cup_] J'ai été très douloureux là-bas après ces dernières nuits au bureau."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:366 #-#-# translate crowdin quest_jo_pot_tea_home_8d0eb2ff:
 msgid "[_mc_] Hard work, for the most part."
@@ -950,11 +950,11 @@ msgstr "[_mc_] Le travail acharne, pour la plupart."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:367 #-#-# translate crowdin quest_jo_pot_tea_home_36b4a08b:
 msgid "[_jo_s_smile_cup_] I've noticed you getting into shape lately."
-msgstr "[_jo_s_smile_cup_] J'ai remarqué que vous vous êtes mis en forme dernièrement."
+msgstr "[_jo_s_Souriez_cup_] J'ai remarqué que vous vous êtes mis en forme dernièrement."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:368 #-#-# translate crowdin quest_jo_pot_tea_home_9921be6f:
 msgid "[_jo_s_smile_cup_] And I've been meaning to reward you."
-msgstr "[_jo_s_smile_cup_] Et j'ai eu un sens pour vous récompenser."
+msgstr "[_jo_s_Souriez_cup_] Et j'ai eu un sens pour vous récompenser."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:370 #-#-# translate crowdin quest_jo_pot_tea_home_a31861ae_3:
 msgid "[_jo_s_confident_cup_] ..."
@@ -966,11 +966,11 @@ msgstr "[_mc_] Merci, [jo]."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:372 #-#-# translate crowdin quest_jo_pot_tea_home_ff94c9b8:
 msgid "[_jo_s_smile_cup_] I know it's not much, but if you keep this up, you can expect more of it in the future."
-msgstr "[_jo_s_smile_cup_] Je sais que ce n'est pas beaucoup, mais si vous le conservez, vous pouvez en attendre plus à l'avenir."
+msgstr "[_jo_s_Souriez_cup_] Je sais que ce n'est pas beaucoup, mais si vous le conservez, vous pouvez en attendre plus à l'avenir."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:373 #-#-# translate crowdin quest_jo_pot_tea_home_3b896c2e:
 msgid "[_jo_s_smile_cup_] And the tea is very effective! My throat feels better already."
-msgstr "[_jo_s_smile_cup_] Et le thé est très efficace ! Ma gorge se sent déjà mieux."
+msgstr "[_jo_s_Souriez_cup_] Et le thé est très efficace ! Ma gorge se sent déjà mieux."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:374 #-#-# translate crowdin quest_jo_pot_tea_home_c956b820:
 msgid "[_mc_] Happy it works."
@@ -1102,7 +1102,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:417 #-#-# translate crowdin quest_jo_pot_tea_home_40fcf4f5:
 msgid "[_mc_] All right, [jo]. Let's get you to bed."
-msgstr "[_mc_] Très bien, [jo]. Mettons-vous au lit."
+msgstr "[_mc_] Très bien, [_mc_] jo]. Mettons-vous au lit."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:424 #-#-# translate crowdin quest_jo_pot_tea_home_3ad4cef0:
 msgid "All right, she's fast asleep in her bed now."
@@ -1250,7 +1250,7 @@ msgstr "Cela compterait-il comme une agression sexuelle pour la toucher là-bas 
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:468 #-#-# translate crowdin quest_jo_pot_tea_home_fea492ca:
 msgid "[_mc_] [jo]! Wake up!"
-msgstr "[_mc_] [jo]! Révechez !"
+msgstr "[_mc_] [_mc_] jo]! Révechez !"
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:469 #-#-# translate crowdin quest_jo_pot_tea_home_fd7f2f22:
 msgid "[_jo_] ZzzzzzZzz..."
