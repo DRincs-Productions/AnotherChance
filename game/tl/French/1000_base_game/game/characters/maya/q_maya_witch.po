@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:10\n"
+"PO-Revision-Date: 2024-02-15 09:27\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2 #-#-# translate crowdin quest_maya_witch_start_7c4911ec:
 msgid "Oh, man. There's [maya] again."
@@ -1418,7 +1418,7 @@ msgstr "[_maya_s_cringe_] Je peux l'sentir ici."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:623 #-#-# translate crowdin quest_maya_witch_computer_class_c31b5cc9:
 msgid "[_mc_] Smell what?"
-msgstr "[_mc_] Smell quoi ?"
+msgstr "[_mc_] Sentir quoi ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:625 #-#-# translate crowdin quest_maya_witch_computer_class_e853817d:
 msgid "[_maya_s_cringe_] The desperation."
@@ -1956,7 +1956,7 @@ msgstr "[_mc_] Oui, parce que j'ai totalement fait\n"
 msgid "[_jo_] Don't take that tone\n"
 "with me, mister."
 msgstr "[_jo_] Ne prenez pas ce ton\n"
-"avec moi, mister."
+"avec moi, monsieur."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:801 #-#-# translate crowdin quest_maya_witch_phone_call_58324085:
 msgid "[_mc_] Sorry, [jo]..."
@@ -2058,7 +2058,7 @@ msgstr "[_mc_] [maya] est verrouillé\n"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:826 #-#-# translate crowdin quest_maya_witch_phone_call_537f98c9:
 msgid "[_jo_] Oh, okay. Sit tight."
-msgstr "[_jo_] Oh, d'accord. Asserrée."
+msgstr "[_jo_] Oh, d'accord. Asseyez-vous bien."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:827 #-#-# translate crowdin quest_maya_witch_phone_call_2429f807:
 msgid "[_jo_] And [mc]?"
@@ -2326,7 +2326,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:933 #-#-# translate crowdin quest_maya_witch_wait_f0c551f8:
 msgid "[_mc_] Like what?!"
-msgstr "[_mc_] Comme quoi ? !"
+msgstr "[_mc_] Comme quoi ?!"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:934 #-#-# translate crowdin quest_maya_witch_wait_2476809f:
 msgid "[_maya_s_dramatic_] Oh, I don't know, settle in for a cozy nap?"
