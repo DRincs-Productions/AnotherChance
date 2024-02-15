@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:18\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:6 #-#-# translate crowdin replay_mrsl_modeling_61e1f5f1:
 msgid "[_lindsey_] Okay, I guess it was worth being picky. This is a great spot!"
-msgstr "[_lindsey_] Ok, je suppose que ça valait la peine d'être picky. C'est un grand endroit !"
+msgstr "[_maya_] Ok, je suppose que ça valait le coup d'être pointilleux. C'est un endroit génial !"
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:7 #-#-# translate crowdin replay_mrsl_modeling_d779fed8:
 msgid "She was starting to get annoyed, so I had to settle here..."
@@ -30,7 +30,7 @@ msgstr "[_lindsey_] Je suis désolé de vous avoir douté !"
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:13 #-#-# translate crowdin replay_mrsl_modeling_77799348:
 msgid "[_mrsl_s_painting_date_smile_lindsey_smile_] Are you guys ready to get started?"
-msgstr "[_mrsl_s_painting_date_smile_lindsey_smile_] Est-ce que vous êtes prêts à commencer ?"
+msgstr "[_mrsl_s_painting_date_Souriez_lindsey_Souriez_] Est-ce que vous êtes prêts à commencer ?"
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:14 #-#-# translate crowdin replay_mrsl_modeling_772b7052:
 msgid "[_mc_] More than ready!"
@@ -42,7 +42,7 @@ msgstr "[_lindsey_] Je suppose ..."
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:17 #-#-# translate crowdin replay_mrsl_modeling_7fb4a486:
 msgid "[_mrsl_s_painting_date_smile_lindsey_worried_] So, what pose should I do?"
-msgstr "[_mrsl_s_painting_date_smile_lindsey_worried_] Alors, que dois-je faire ?"
+msgstr "[_mrsl_s_painting_date_Souriez_lindsey_worried_] Alors, que dois-je faire ?"
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:18 #-#-# translate crowdin replay_mrsl_modeling_5ad2aab6:
 msgid "[_mc_] What do you think, [lindsey]?"
@@ -118,7 +118,7 @@ msgstr "[_lindsey_] Oui, c'est bien."
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:46 #-#-# translate crowdin replay_mrsl_modeling_6ed9da42:
 msgid "[_mc_] You're doing great, [mrsl]. Standing so perfectly still."
-msgstr "[_mc_] You're doing great, [mrsl]. Debout aussi parfaitement."
+msgstr "[_mc_] You're doing great, [_mc_] mrsl]. Debout aussi parfaitement."
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:47 #-#-# translate crowdin replay_mrsl_modeling_dad74f28:
 msgid "[_mrsl_s_painting_date_arms_behind_head_lindsey_blush_] Thank you... I care deeply about the progress of my students."
@@ -150,7 +150,7 @@ msgstr "[_mc_] Pouvez-vous tourner un peu ?"
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:56 #-#-# translate crowdin replay_mrsl_modeling_47fd2266:
 msgid "[_mrsl_s_painting_date_smile_lindsey_worried_] Certainly."
-msgstr "[_mrsl_s_painting_date_smile_lindsey_worried_] Certainement."
+msgstr "[_mrsl_s_painting_date_Souriez_lindsey_worried_] Certainement."
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:60 #-#-# translate crowdin replay_mrsl_modeling_7e1d415b:
 msgid "She gives me a playful little smile, then does as she's told."
@@ -392,7 +392,7 @@ msgstr "[_mc_] C'est super !"
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:146 #-#-# translate crowdin replay_mrsl_modeling_66da48a4:
 msgid "[_mrsl_s_painting_date_smile_canvas_full_lindsey_blush_] You two are quite the artists. I must say I'm very impressed."
-msgstr "[_mrsl_s_painting_date_smile_canvas_full_lindsey_blush_] Vous deux êtes des artistes. Je dois dire que je suis très impressionné."
+msgstr "[_mrsl_s_painting_date_Souriez_canvas_full_lindsey_blush_] Vous deux êtes des artistes. Je dois dire que je suis très impressionné."
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:147 #-#-# translate crowdin replay_mrsl_modeling_e9721ff3:
 msgid "[_mc_] Thank you!"
