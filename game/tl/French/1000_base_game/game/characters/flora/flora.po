@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/flora/flora.rpy:2267 #-#-# translate crowdin flora_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
@@ -170,7 +170,7 @@ msgstr "[_flora_s_blush_] Mmm, oui !"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2375 #-#-# translate crowdin flora_flirt_two_591ac8c9:
 msgid "[_flora_s_smile_] Do you know what my favorite animals are?"
-msgstr "[_flora_s_smile_] Tu sais ce que sont mes animaux préférés ?"
+msgstr "[_flora_s_Souriez_] Tu sais ce que sont mes animaux préférés ?"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2378 #-#-# translate crowdin flora_flirt_two_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -298,7 +298,7 @@ msgstr "[_mc_] Vous aimeriez vous blottir avec moi dans un chalet au nord."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2455 #-#-# translate crowdin flora_flirt_four_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr "[_flora_s_cringe_] Gross."
+msgstr "[_flora_s_cringe_] Grossier."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2462 #-#-# translate crowdin flora_flirt_five_4151ddcf:
 msgid "[_flora_s_concerned_] Since you enjoy embarrassing me so much..."
