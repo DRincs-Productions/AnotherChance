@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:00\n"
+"PO-Revision-Date: 2024-02-15 23:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_day.rpy:3 #-#-# translate crowdin quest_jo_day_start_9e2bc76f:
 msgid "[_jo_s_displeased_cup_] Ugh... who uses bold text in a professional email? Who does she think she's talking to—"
@@ -194,7 +194,7 @@ msgstr "[_flora_s_annoyed_] Aucune de vos affaires !"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:74 #-#-# translate crowdin quest_jo_day_flora_08bd576c:
 msgid "[_mc_] Aha-aha."
-msgstr "[Aha-aha."
+msgstr "[_mc_] Aha-aha."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:75 #-#-# translate crowdin quest_jo_day_flora_c07b5279:
 msgid "[_flora_s_eyeroll_] Stop smirking."
@@ -440,7 +440,7 @@ msgstr "[_flora_s_cringe_] Et techniquement, tu es un malade !"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:145 #-#-# translate crowdin quest_jo_day_flora_a9712dcc:
 msgid "[_mc_] One man's sicko is another man's genius."
-msgstr "[Le malade des uns est le génie des autres."
+msgstr "[_mc_] Le malade des uns est le génie des autres."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:146 #-#-# translate crowdin quest_jo_day_flora_f07dda75:
 msgid "[_flora_s_annoyed_] Ugh..."
@@ -460,7 +460,7 @@ msgstr "[_flora_s_sarcastic_] Avec un peu de chance, [jo] ne vous frappe pas sur
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:151 #-#-# translate crowdin quest_jo_day_flora_98f16323:
 msgid "[_mc_] Pray for me..."
-msgstr "[Priez pour moi..."
+msgstr "[_mc_] Priez pour moi..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:155 #-#-# translate crowdin quest_jo_day_flora_2f6c6fd5:
 msgid "[_mc_] Unless... you want to help me?"
@@ -544,7 +544,7 @@ msgstr "[_flora_s_confident_] Qu'est-ce qui fait passer le monde ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:189 #-#-# translate crowdin quest_jo_day_flora_2aca644a:
 msgid "[_mc_] Seriously? You're extorting me?"
-msgstr "[Sérieusement ? Vous m'extorquez ?"
+msgstr "[_mc_] Sérieusement ? Vous m'extorquez ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:190 #-#-# translate crowdin quest_jo_day_flora_76d6c3b4:
 msgid "[_flora_s_excited_] It's not extortion, it's commerce! The trade of goods and services."
@@ -588,7 +588,7 @@ msgstr "[_flora_s_laughing_] Avec un peu de chance, [jo] ne vous frappe pas sur 
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:215 #-#-# translate crowdin quest_jo_day_flora_98f16323_1:
 msgid "[_mc_] Pray for me..."
-msgstr "[Priez pour moi..."
+msgstr "[_mc_] Priez pour moi..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:221 #-#-# translate crowdin quest_jo_day_cleaning_vacuum_cleaner_d5116b17:
 msgid "Better late than never, I guess..."
@@ -862,7 +862,7 @@ msgstr "[_maxine_s_thinking_] Elle saura ce qu'elle est."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:411 #-#-# translate crowdin quest_jo_day_maxine_1a72d736:
 msgid "[_mc_] Queen's Rue? Sounds exotic."
-msgstr "[La rue de la Reine ? Ça a l'air exotique."
+msgstr "[_mc_] La rue de la Reine ? Ça a l'air exotique."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:412 #-#-# translate crowdin quest_jo_day_maxine_f0de304d:
 msgid "[_mc_] If I get that for you, will you make me something to help with my girl problems?"
@@ -930,7 +930,7 @@ msgstr "Elle n'en a vraiment pas besoin. Regarde ces poignées d'amour. Un peu p
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:435 #-#-# translate crowdin quest_jo_day_nurse_bab5bc87:
 msgid "[_mc_] I like you the way you are. No more dieting."
-msgstr "[Je t'aime comme tu es. Plus de régime."
+msgstr "[_mc_] Je t'aime comme tu es. Plus de régime."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:436 #-#-# translate crowdin quest_jo_day_nurse_7d50632f:
 msgid "[_nurse_s_blush_] Aw, thank you!"
@@ -998,7 +998,7 @@ msgstr "[_mc_] J'espérais en fait que tu pourrais m'aider ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:457 #-#-# translate crowdin quest_jo_day_nurse_b8a1fde4:
 msgid "[_mc_] I'm awful at botany. I can't tell a dandelion apart from a regular lion."
-msgstr "[Je suis nul en botanique. Je ne peux pas distinguer un pissenlit d'un lion ordinaire."
+msgstr "[_mc_] Je suis nul en botanique. Je ne peux pas distinguer un pissenlit d'un lion ordinaire."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:458 #-#-# translate crowdin quest_jo_day_nurse_48b93984:
 msgid "[_nurse_s_smile_] Oh, that's no bother! I'll see if I can find a few bulbs for you while I'm out here."
@@ -1010,7 +1010,7 @@ msgstr "[_mc_] Merci, je l'apprécie !"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:473 #-#-# translate crowdin quest_jo_day_nurse_harvest_33243244:
 msgid "[_mc_] How did that go? Were you able to find the Queen's-whatever?"
-msgstr "[Comment ça s'est passé ? Avez-vous pu trouver le... machin de la Reine ?"
+msgstr "[_mc_] Comment ça s'est passé ? Avez-vous pu trouver le... machin de la Reine ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:474 #-#-# translate crowdin quest_jo_day_nurse_harvest_86ddb3a1:
 msgid "[_nurse_s_smile_] I only found a few, but I hope it's enough..."
@@ -1278,7 +1278,7 @@ msgstr "[_maxine_s_angry_] Et je vous ai donné le montant exact que j'ai dit."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:595 #-#-# translate crowdin quest_jo_day_love_potion_water_3dcb0742:
 msgid "[_mc_] What a rip off."
-msgstr "[Quelle arnaque ."
+msgstr "[_mc_] Quelle arnaque ."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:596 #-#-# translate crowdin quest_jo_day_love_potion_water_c3ce2b8a:
 msgid "[_maxine_s_smile_] Trust me, a drop is all you need."
@@ -1330,7 +1330,7 @@ msgstr "[_jo_s_sad_] [mc]..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:619 #-#-# translate crowdin quest_jo_day_amends_227f4938:
 msgid "[_mc_] I just wanted to say sorry. Sorry for being such a worthless leech over the years."
-msgstr "[Je voulais juste m'excuser. Désolée d'avoir été une telle sangsue sans valeur pendant toutes ces années."
+msgstr "[_mc_] Je voulais juste m'excuser. Désolée d'avoir été une telle sangsue sans valeur pendant toutes ces années."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:621 #-#-# translate crowdin quest_jo_day_amends_07e1cebc:
 msgid "[_mc_] I know I've made things unnecessarily hard for you by being lazy and selfish."
@@ -1414,7 +1414,7 @@ msgstr "[_jo_s_flirty_hands_to_the_side_] Peu importe, ça pourrait être trop d
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:642 #-#-# translate crowdin quest_jo_day_amends_91f196dd:
 msgid "[_mc_] Could you meet me in the forest glade behind the school at sunset?"
-msgstr "[Pourriez-vous me retrouver dans la clairière derrière l'école au coucher du soleil ?"
+msgstr "[_mc_] Pourriez-vous me retrouver dans la clairière derrière l'école au coucher du soleil ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:643 #-#-# translate crowdin quest_jo_day_amends_d696e211:
 msgid "[_jo_s_sarcastic_] At sunset? Meaning we'll get to watch it together?"
@@ -1514,7 +1514,7 @@ msgstr "[_jo_s_picnic_Souriez_holding_wine_] Wow ! Couleur-moi impressionnée. J
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:690 #-#-# translate crowdin quest_jo_day_picnic_bddc7ac6:
 msgid "[_mc_] Probably never. I've always taken everything for granted."
-msgstr "[Probablement jamais. J'ai toujours considéré que tout allait de soi."
+msgstr "[_mc_] Probablement jamais. J'ai toujours considéré que tout allait de soi."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:691 #-#-# translate crowdin quest_jo_day_picnic_5d8297e4:
 msgid "[_mc_] But not anymore. I'll try to do better. I want to turn things around."
@@ -1718,7 +1718,7 @@ msgstr "[_mc_] Je ne peux pas imaginer comment quelqu'un pourrait être pour vou
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:762 #-#-# translate crowdin quest_jo_day_picnic_462aecbf:
 msgid "[_mc_] You're just so beautiful. How could they?"
-msgstr "[Tu es si belle. Comment ont-ils pu ?"
+msgstr "[_mc_] Tu es si belle. Comment ont-ils pu ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:763 #-#-# translate crowdin quest_jo_day_picnic_0a5be541:
 msgid "[_mc_] I bet the person who wrote that email feels terrible about it now."
@@ -1984,7 +1984,7 @@ msgstr "[_jo_s_boobjob_flirty_aftermath_] Mmmm, oui ! Comme ça !"
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:1063 #-#-# translate crowdin quest_jo_day_picnic_bd191716:
 msgid "[_mc_] Goddamn... you really drained it all out of me..."
-msgstr "[Bon sang... tu m'as vraiment vidé de tout mon être..."
+msgstr "[_mc_] Bon sang... tu m'as vraiment vidé de tout mon être..."
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:1064 #-#-# translate crowdin quest_jo_day_picnic_46eaa3fb:
 msgid "[_jo_s_boobjob_smile_aftermath_] That's what a woman with experience is supposed to do, honey."
