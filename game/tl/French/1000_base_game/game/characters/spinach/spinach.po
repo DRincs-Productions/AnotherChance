@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:16\n"
+"PO-Revision-Date: 2024-02-15 16:06\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/spinach/spinach.rpy:224 #-#-# translate crowdin spinach_talk_hide_ff1922d5:
 msgid "[_spinach_] ..."
@@ -18,7 +18,7 @@ msgstr "[_spinach_]..."
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:225 #-#-# translate crowdin spinach_talk_hide_40fbbb66:
 msgid "[_mc_] What are you hiding from, girl?"
-msgstr "[_mc_] Qu'est-ce que tu caches, fille?"
+msgstr "[_mc_] Qu'est-ce que tu caches, fille ?"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:226 #-#-# translate crowdin spinach_talk_hide_9dde958b:
 msgid "Let's be honest, it's probably me."
@@ -38,7 +38,7 @@ msgstr "Il n'y a aucune raison de s'opposer à l'un ou l'autre."
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:237 #-#-# translate crowdin spinach_talk_lick_30dabd49:
 msgid "[_spinach_s_neutral_] Meow?"
-msgstr "[_spinach_s_neutral_] Meow?"
+msgstr "[_spinach_s_neutral_] Meow ?"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:239 #-#-# translate crowdin spinach_talk_lick_aed49dee:
 msgid "She's watching my every move... [maxine], that is."
@@ -90,7 +90,7 @@ msgstr "[_spinach_s_neutral_] {i}*Sniff, sniff * {/}"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:274 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_147445fd:
 msgid "[_spinach_s_closedeyes_] Meow?"
-msgstr "[_spinach_s_closedeyes_] Meow?"
+msgstr "[_spinach_s_closedeyes_] Meow ?"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:275 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_give_wrapper_5c31795e:
 msgid "[_spinach_s_hearteyed_] {i}*Sniff, sniff*{/}"
@@ -174,7 +174,7 @@ msgstr "Le chat tourne autour de la brousse ici. Elle est comme une effusion de 
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:343 #-#-# translate crowdin spinach_talk_bf8dde08:
 msgid "[_spinach_] Meow?"
-msgstr "[_spinach_] Meow?"
+msgstr "[_spinach_] Meow ?"
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:350 #-#-# translate crowdin spinach_flirt_a0ca9454:
 msgid "[_spinach_] Meow!"
