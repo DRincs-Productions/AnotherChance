@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:45\n"
+"PO-Revision-Date: 2024-02-15 11:19\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:42 #-#-# translate crowdin school_art_class_supply_closet_interact_95047015:
 msgid "This is where all the pranksters find their equipment."
@@ -134,11 +134,11 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:97 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_6bd151f2:
 msgid "[_kate_s_smile_] Did you really think I was going to give you a reward?"
-msgstr "[_kate_s_smile_] Avez-vous vraiment pensé que j'allais vous donner une récompense ?"
+msgstr "[_kate_s_Souriez_] Avez-vous vraiment pensé que j'allais vous donner une récompense ?"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:98 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_977a893e:
 msgid "[_kate_s_smile_] Anyway, open the supply closet."
-msgstr "[_kate_s_smile_] En tout cas, ouvrez le placard d'alimentation."
+msgstr "[_kate_s_Souriez_] En tout cas, ouvrez le placard d'alimentation."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:99 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_4ada344a:
 msgid "[_mc_] It's locked."
@@ -194,7 +194,7 @@ msgstr "[_mc_] Je peux totalement."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:120 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_1ed15a84:
 msgid "[_kate_s_smile_] Okay, let's see it."
-msgstr "[_kate_s_smile_] Ok, voyons ça."
+msgstr "[_kate_s_Souriez_] Ok, voyons ça."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:121 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_853f8f92:
 msgid "The power flows through me. A little wooden door can't stand in my way."
@@ -390,11 +390,11 @@ msgstr "[_kate_] Regarde ça ! Vous l'avez fait. L'idiot s'est embrouillé pour 
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:213 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_90f86cff:
 msgid "[_mc_] Damn straight, Katie!"
-msgstr "[_mc_] Damn droit, Katie !"
+msgstr "[_mc_] Bon sang droit, Katie !"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:214 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_98bd5ace:
 msgid "[_kate_s_cringe_] Gross."
-msgstr "[_kate_s_cringe_] Gross."
+msgstr "[_kate_s_cringe_] Grossier."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:215 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_cb7b3dfb:
 msgid "[_kate_s_confident_] Let's just extract my favorite subject."
@@ -502,5 +502,5 @@ msgstr "\"Nous aurons besoin de trouver un moyen de le déverrouiller.\""
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:102
 msgid "?mc.strength>=5@[mc.strength]/5|{image=stats str}|\"Want me to break it open for you?\""
-msgstr "?mc.renforc> =5@[mc.strength]/5|{ image=stats str }|\"Voulez-vous que je la casse ouverte pour vous ?\""
+msgstr "?mc.renforc>=5@[mc.strength]/5|{image=stats str}|\"Voulez-vous que je la casse ouverte pour vous ?\""
 
