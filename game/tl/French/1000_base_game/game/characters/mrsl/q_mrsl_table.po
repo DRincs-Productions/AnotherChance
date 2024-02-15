@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
@@ -62,7 +62,7 @@ msgstr "[mrsl] sait que c'était elle ... elle doit avoir un sixième sens ou qu
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:22 #-#-# translate crowdin quest_mrsl_table_start_bfd088d8:
 msgid "[_mc_] I like it better this time around... err, I mean, this year."
-msgstr "[Je préfère cette fois-ci... euh, je veux dire, cette année."
+msgstr "[_mc_] Je préfère cette fois-ci... euh, je veux dire, cette année."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:23 #-#-# translate crowdin quest_mrsl_table_start_6e67624f:
 msgid "[_mrsl_s_confident_] The senior year is always exciting. Although, it's been a while since I graduated."
@@ -410,7 +410,7 @@ msgstr "[_mc_] En fait, ce n'était pas moi cette fois, je le jure !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:140 #-#-# translate crowdin quest_mrsl_table_letter_b03cfca7:
 msgid "[_mc_] It must've been [flora] or something!"
-msgstr "[Ce devait être de la [flore] ou quelque chose comme ça !"
+msgstr "[_mc_] Ce devait être de la [_mc_] flore] ou quelque chose comme ça !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:141 #-#-# translate crowdin quest_mrsl_table_letter_4c1d7c7b:
 msgid "[_jo_s_thinking_] [flora] left before I did, and the clothes were still in the laundry basket then."
@@ -454,7 +454,7 @@ msgstr "Mieux s'y prendre avant qu'elle ne bille un vaisseau sanguin ou quelque 
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:156 #-#-# translate crowdin quest_mrsl_table_letter_1569e0c0:
 msgid "[_mc_] I'm sorry, I tripped over it... I'll fix it."
-msgstr "[Je suis désolé, j'ai trébuché dessus... Je vais le réparer."
+msgstr "[_mc_] Je suis désolé, j'ai trébuché dessus... Je vais le réparer."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:157 #-#-# translate crowdin quest_mrsl_table_letter_ad61b7db:
 msgid "[_mc_] I was running late for school and didn't have time in the morning."
@@ -798,7 +798,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:475 #-#-# translate crowdin quest_mrsl_table_flora_18dba03c:
 msgid "[_mc_] Not until you thank me for cleaning up your mess."
-msgstr "[Pas tant que vous ne m'aurez pas remercié d'avoir nettoyé vos dégâts."
+msgstr "[_mc_] Pas tant que vous ne m'aurez pas remercié d'avoir nettoyé vos dégâts."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:476 #-#-# translate crowdin quest_mrsl_table_flora_a1b55d84:
 msgid "[_flora_s_confused_] What mess?"
@@ -850,7 +850,7 @@ msgstr "[_mc_] Je viens de vous regarder ?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:491 #-#-# translate crowdin quest_mrsl_table_flora_a8d42112:
 msgid "[_flora_s_cringe_] Creep."
-msgstr "[_flora_s_cringe_] Creep."
+msgstr "[_flora_s_cringe_] Pervers."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:492 #-#-# translate crowdin quest_mrsl_table_flora_7064c946:
 msgid "[_mc_] There's no winning with you, is there?"
@@ -926,7 +926,7 @@ msgstr "[_flora_s_laughing_] Ça n'aurait pas pu être aussi mauvais ! Elle éta
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:511 #-#-# translate crowdin quest_mrsl_table_flora_ab12dbc6:
 msgid "[_mc_] Dude, it was like a wild animal had been in there!"
-msgstr "[On aurait dit qu'un animal sauvage était entré là-dedans !"
+msgstr "[_mc_] On aurait dit qu'un animal sauvage était entré là-dedans !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:512 #-#-# translate crowdin quest_mrsl_table_flora_c0e6765e:
 msgid "[_flora_s_cringe_] Don't call me \"dude.\""
@@ -1186,7 +1186,7 @@ msgstr "[_mc_] Votre charme et vos mots doux n'ont aucun pouvoir sur moi !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:637 #-#-# translate crowdin quest_mrsl_table_morning_3b60e8dd:
 msgid "[_mc_] I've been deprived of female touch for aeons!"
-msgstr "[J'ai été privé de contact féminin pendant des lustres !"
+msgstr "[_mc_] J'ai été privé de contact féminin pendant des lustres !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:638 #-#-# translate crowdin quest_mrsl_table_morning_75f034f5:
 msgid "[_mc_] Nothing but my own firm grip does it for me anymore!"
@@ -1278,7 +1278,7 @@ msgstr "[_lacey_] Duh."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:674 #-#-# translate crowdin quest_mrsl_table_school_homeroom_door_talk_5059b0e1:
 msgid "[_mc_] So, you could get ahead of the others by starting to be your own woman."
-msgstr "[Vous pouvez donc prendre de l'avance sur les autres en commençant à être votre propre femme."
+msgstr "[_mc_] Vous pouvez donc prendre de l'avance sur les autres en commençant à être votre propre femme."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:675 #-#-# translate crowdin quest_mrsl_table_school_homeroom_door_talk_5d208718:
 msgid "[_lacey_] Why? I want to graduate at the same time as everyone else..."
