@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:3 #-#-# translate crowdin flora_quest_flora_jacklyn_introduction_start_5a36f080:
 msgid "[_flora_s_annoyed_] What?"
@@ -566,7 +566,7 @@ msgstr "[_mc_] Pas que je sache."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:186 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_baeb4fc4:
 msgid "[_jacklyn_s_smile_] Good, 'cause I don't dabble."
-msgstr "[_jacklyn_s_smile_] Bon, parce que je ne sais pas."
+msgstr "[_jacklyn_s_Souriez_] Bon, parce que je ne sais pas."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:187 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_956fe370:
 msgid "[_mc_] It's really about her grades. She's a bit of a perfectionist."
@@ -574,7 +574,7 @@ msgstr "[_mc_] C'est vraiment pour ses notes. Elle est un peu perfectionniste."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:188 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_b95ef0b3:
 msgid "[_jacklyn_s_smile_] Totally. I saw that in her art. It's too stiff. She needs to let her soul wander."
-msgstr "[_jacklyn_s_smile_] Totalement. J'ai vu ça dans son art. C'est trop rigide. Elle a besoin de laisser son âme errer."
+msgstr "[_jacklyn_s_Souriez_] Totalement. J'ai vu ça dans son art. C'est trop rigide. Elle a besoin de laisser son âme errer."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:189 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_28b3612d:
 msgid "[_mc_] Right. Would you mind giving her a hand?"
@@ -622,11 +622,11 @@ msgstr "[_mc_] Elle a dit que vous aviez rencontré les gars."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:210 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_0f6d8cd0:
 msgid "[_jacklyn_s_smile_] Wicked. I remember her."
-msgstr "[_jacklyn_s_smile_] Wicked. Je me souviens d'elle."
+msgstr "[_jacklyn_s_Souriez_] Wicked. Je me souviens d'elle."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:211 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_86283cfa:
 msgid "[_jacklyn_s_smile_] She's not bad at all. Just stiff as a lightning rod."
-msgstr "[_jacklyn_s_smile_] Elle n'est pas mauvaise du tout. Vraie comme un paratonnerre."
+msgstr "[_jacklyn_s_Souriez_] Elle n'est pas mauvaise du tout. Vraie comme un paratonnerre."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:212 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_51afa8cd:
 msgid "[_mc_] That's a very accurate description of her."
@@ -678,11 +678,11 @@ msgstr "[_mc_] Je crois que [Flora] a le béguin pour toi. J'essaye juste d'êtr
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:233 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_63eeb2b4:
 msgid "[_jacklyn_s_smile_] Sorry, but I don't dabble."
-msgstr "[_jacklyn_s_smile_] Désolé, mais je ne sais pas."
+msgstr "[_jacklyn_s_Souriez_] Désolé, mais je ne sais pas."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:234 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_5544bf3d:
 msgid "[_jacklyn_s_smile_] Who's she, though?"
-msgstr "[_jacklyn_s_smile_] Qui est-elle ?"
+msgstr "[_jacklyn_s_Souriez_] Qui est-elle ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:235 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_026798de_1:
 msgid "[_mc_] She said you guys had met."
@@ -742,7 +742,7 @@ msgstr "[_mc_] Génial. Je lui dirai. Viens nous rejoindre devant l'école, peut
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:254 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_21f27464:
 msgid "[_jacklyn_s_smile_] Doubt it."
-msgstr "[_jacklyn_s_smile_] Doute."
+msgstr "[_jacklyn_s_Souriez_] Doute."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:258 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_ec843325:
 msgid "[_mc_] [flora] really loves your fashion sense, but she's too shy to tell you."
@@ -774,7 +774,7 @@ msgstr "[_mc_] Quoi ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:266 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_38ddca2e:
 msgid "[_jacklyn_s_smile_] Does she like the ladies?"
-msgstr "[_jacklyn_s_smile_] Est-ce qu'elle aime les dames ?"
+msgstr "[_jacklyn_s_Souriez_] Est-ce qu'elle aime les dames ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:267 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_ff440ff2:
 msgid "[_mc_] Hah! I don't know. Well, she did make you a snack, I think."
@@ -782,7 +782,7 @@ msgstr "[_mc_] Hah ! Je ne sais pas. Eh bien, elle t'a fait une collation, je pe
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:268 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_4a49e160:
 msgid "[_jacklyn_s_smile_] Damn it. I figured she was into me."
-msgstr "[_jacklyn_s_smile_] Bon sang it. Je me suis dit qu'elle était en moi."
+msgstr "[_jacklyn_s_Souriez_] Bon sang it. Je me suis dit qu'elle était en moi."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:269 #-#-# translate crowdin jacklyn_quest_flora_jacklyn_introduction_a2bfbc9d:
 msgid "[_jacklyn_s_thinking_] Too bad I'm straight as an arrow."
@@ -818,7 +818,7 @@ msgstr "[_flora_s_laughing_] Je ne pensais pas que vous l'aviez en vous."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:291 #-#-# translate crowdin quest_flora_jacklyn_introduction_outside_c37f2e93:
 msgid "[_jacklyn_s_smile_] What's up, people!"
-msgstr "[_jacklyn_s_smile_] Quoi de plus, les gens !"
+msgstr "[_jacklyn_s_Souriez_] Quoi de plus, les gens !"
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:292 #-#-# translate crowdin quest_flora_jacklyn_introduction_outside_22617564:
 msgid "[_mc_] All right, my work here is done."
@@ -826,7 +826,7 @@ msgstr "[_mc_] Très bien, mon travail ici est fait."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:293 #-#-# translate crowdin quest_flora_jacklyn_introduction_outside_0d9bb60d:
 msgid "[_flora_s_smile_s_flip_] Thanks."
-msgstr "[_flora_s_smile_s_flip_] Merci."
+msgstr "[_flora_s_Souriez_s_flip_] Merci."
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:294 #-#-# translate crowdin quest_flora_jacklyn_introduction_outside_c9593576:
 msgid "Tricking another person into the relentless grip of a cake-addiction isn't exactly good."
@@ -854,7 +854,7 @@ msgstr "[_mc_] Err... oui, des cours et des trucs. Il faut courir !"
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:301 #-#-# translate crowdin quest_flora_jacklyn_introduction_outside_2cefcb43:
 msgid "[_jacklyn_s_smile_] Next time, then. Pocket my good lucks!"
-msgstr "[_jacklyn_s_smile_] La prochaine fois, alors. Poche mes bonnes lucks !"
+msgstr "[_jacklyn_s_Souriez_] La prochaine fois, alors. Poche mes bonnes lucks !"
 
 # game/1000_base_game/game/characters/flora/q_flora_jacklyn_introduction.rpy:302 #-#-# translate crowdin quest_flora_jacklyn_introduction_outside_21a7d3e0:
 msgid "[_mc_] Thanks. Just waiting for my reward..."
