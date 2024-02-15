@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/hall/int_door_bathroom.rpy:43 #-#-# translate crowdin home_hall_door_bathroom_interact_flora_cooking_chilli_return_phone_c824e642:
 msgid "[_mc_] [flora], are you okay?"
@@ -50,7 +50,7 @@ msgstr "[_mc_] C'est tout. Je viens."
 
 # game/1000_base_game/game/locations/home/hall/int_door_bathroom.rpy:57 #-#-# translate crowdin home_hall_door_bathroom_interact_flora_cooking_chilli_return_phone_01671a68:
 msgid "[_mc_] Let me know if you need help or anything."
-msgstr "[Faites-moi savoir si vous avez besoin d'aide ou de quoi que ce soit."
+msgstr "[_mc_] Faites-moi savoir si vous avez besoin d'aide ou de quoi que ce soit."
 
 # game/1000_base_game/game/locations/home/hall/int_door_bathroom.rpy:58 #-#-# translate crowdin home_hall_door_bathroom_interact_flora_cooking_chilli_return_phone_a20cefa7:
 msgid "..."
