@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:18\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/55_jo_picnic.rpy:6 #-#-# translate crowdin replay_jo_picnic_f12695fb:
 msgid "[_mc_] I cleaned my room. Everything's sparkling, so you don't have to lift a finger."
@@ -18,7 +18,7 @@ msgstr "[_mc_] J'ai nettoyé ma chambre. Tout est pétillant, donc vous n'avez p
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:7 #-#-# translate crowdin replay_jo_picnic_f1a5e99f:
 msgid "[_jo_s_picnic_smile_holding_wine_] Wow! Color me impressed. I can't remember the last time you did that.{space=-50}"
-msgstr "[_jo_s_picnic_smile_holding_wine_] Wow ! Couleur-moi impressionnée. Je ne me souviens pas de la dernière fois que vous l'avez fait. {space=-50}"
+msgstr "[_jo_s_picnic_Souriez_holding_wine_] Wow ! Couleur-moi impressionnée. Je ne me souviens pas de la dernière fois que vous l'avez fait. {space=-50}"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:8 #-#-# translate crowdin replay_jo_picnic_bddc7ac6:
 msgid "[_mc_] Probably never. I've always taken everything for granted."
@@ -36,15 +36,15 @@ msgstr "Elle ne sait pas que j'ai déjà vu l'avenir qui m'attend\n"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:11 #-#-# translate crowdin replay_jo_picnic_7d033f0b:
 msgid "[_jo_s_picnic_smile_holding_wine_] I'm glad you're taking up more responsibility. It's an important part of your life as an adult."
-msgstr "[_jo_s_picnic_smile_holding_wine_] Je suis heureux que vous soyez de plus en plus responsable. C'est une partie importante de votre vie en tant qu'adulte."
+msgstr "[_jo_s_picnic_Souriez_holding_wine_] Je suis heureux que vous soyez de plus en plus responsable. C'est une partie importante de votre vie en tant qu'adulte."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:12 #-#-# translate crowdin replay_jo_picnic_1a6f407a:
 msgid "[_jo_s_picnic_blush_smile_holding_wine_] You've grown up so fast. Faster than I ever wanted."
-msgstr "[_jo_s_picnic_blush_smile_holding_wine_] Vous avez grandi si vite. Plus vite que je ne le voulais."
+msgstr "[_jo_s_picnic_blush_Souriez_holding_wine_] Vous avez grandi si vite. Plus vite que je ne le voulais."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:13 #-#-# translate crowdin replay_jo_picnic_b227a316:
 msgid "[_jo_s_picnic_blush_smile_holding_wine_] I'm proud to see the man you've become."
-msgstr "[_jo_s_picnic_blush_smile_holding_wine_] Je suis fier de voir l'homme que vous êtes devenu."
+msgstr "[_jo_s_picnic_blush_Souriez_holding_wine_] Je suis fier de voir l'homme que vous êtes devenu."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:15 #-#-# translate crowdin replay_jo_picnic_1007dcd7:
 msgid "[jo] is never proud of me. I guess I really must've impressed her\n"
@@ -82,11 +82,11 @@ msgstr "[_mc_] Vous travaillez si dur, et faites tant pour moi et [flora]."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:24 #-#-# translate crowdin replay_jo_picnic_372d579a:
 msgid "[_jo_s_picnic_smile_holding_wine_] You really are something today, [mc]! I'm not sure what's gotten into you."
-msgstr "[_jo_s_picnic_smile_holding_wine_] Vous êtes vraiment quelque chose aujourd'hui, [mc]! Je ne suis pas sûr de ce qui vous est arrivé."
+msgstr "[_jo_s_picnic_Souriez_holding_wine_] Vous êtes vraiment quelque chose aujourd'hui, [mc]! Je ne suis pas sûr de ce qui vous est arrivé."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:25 #-#-# translate crowdin replay_jo_picnic_d607afd7:
 msgid "[_jo_s_picnic_smile_holding_wine_] Not that I'm complaining!"
-msgstr "[_jo_s_picnic_smile_holding_wine_] Pas que je me plains !"
+msgstr "[_jo_s_picnic_Souriez_holding_wine_] Pas que je me plains !"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:26 #-#-# translate crowdin replay_jo_picnic_d73b9c83:
 msgid "[_mc_] Just trying to be better..."
@@ -102,15 +102,15 @@ msgstr "[_jo_s_picnic_surprised_looking_down_spilling_wine_] Oh, non, j'ai déve
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:32 #-#-# translate crowdin replay_jo_picnic_1a39bde7:
 msgid "[_jo_s_picnic_blush_smile_spilling_wine_] I suppose I should take this thing off, keep it from staining too badly.{space=-20}"
-msgstr "[_jo_s_picnic_blush_smile_spilling_wine_] Je suppose que je devrais enlever cette chose, le garder de la coloration trop mal. {space=-20}"
+msgstr "[_jo_s_picnic_blush_Souriez_spilling_wine_] Je suppose que je devrais enlever cette chose, le garder de la coloration trop mal. {space=-20}"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:38 #-#-# translate crowdin replay_jo_picnic_64719f52:
 msgid "[_jo_s_picnic_blush_smile_removing_shirt_] There, that's better already."
-msgstr "[_jo_s_picnic_blush_smile_removing_shirt_] Là, c'est déjà mieux."
+msgstr "[_jo_s_picnic_blush_Souriez_removing_shirt_] Là, c'est déjà mieux."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:39 #-#-# translate crowdin replay_jo_picnic_234bb837:
 msgid "[_jo_s_picnic_blush_smile_removing_shirt_] Don't you think?"
-msgstr "[_jo_s_picnic_blush_smile_removing_shirt_] Ne pensez-vous pas ?"
+msgstr "[_jo_s_picnic_blush_Souriez_removing_shirt_] Ne pensez-vous pas ?"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:40 #-#-# translate crowdin replay_jo_picnic_e2992703:
 msgid "[_mc_] Much better..."
@@ -130,15 +130,15 @@ msgstr "Attends, qu'est-ce que je pense ? Ça n'a pas d'importance, je ne peux p
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:47 #-#-# translate crowdin replay_jo_picnic_e60034ab:
 msgid "[_jo_s_picnic_blush_smile_holding_wine_shirtless_] Oooh, this wine has me feeling woozy..."
-msgstr "[_jo_s_picnic_blush_smile_holding_wine_shirtless_] Oooh, ce vin me fait sentir paresseux ..."
+msgstr "[_jo_s_picnic_blush_Souriez_holding_wine_shirtless_] Oooh, ce vin me fait sentir paresseux ..."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:48 #-#-# translate crowdin replay_jo_picnic_671f0cc2:
 msgid "[_jo_s_picnic_blush_smile_holding_wine_shirtless_] It was so good that I drank it a little too quickly."
-msgstr "[_jo_s_picnic_blush_smile_holding_wine_shirtless_] C'était tellement bon que je l'ai bu un peu trop vite."
+msgstr "[_jo_s_picnic_blush_Souriez_holding_wine_shirtless_] C'était tellement bon que je l'ai bu un peu trop vite."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:49 #-#-# translate crowdin replay_jo_picnic_72b73f75:
 msgid "[_jo_s_picnic_blush_smile_holding_wine_shirtless_] Just a little more won't hurt, though..."
-msgstr "[_jo_s_picnic_blush_smile_holding_wine_shirtless_] Un peu plus ne fera pas de mal, même si ..."
+msgstr "[_jo_s_picnic_blush_Souriez_holding_wine_shirtless_] Un peu plus ne fera pas de mal, même si ..."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:50 #-#-# translate crowdin replay_jo_picnic_0fa8c929:
 msgid "[_mc_] It's okay to have some more. I'm here for you."
@@ -218,7 +218,7 @@ msgstr "[_mc_] Je ne sais pas si c'est la façon dont le soleil vous frappe ce s
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:78 #-#-# translate crowdin replay_jo_picnic_363db6c2:
 msgid "[_jo_s_picnic_blush_smile_resting_hands_] Aww! You're making me blush!"
-msgstr "[_jo_s_picnic_blush_smile_resting_hands_] Aww ! Tu me fais rougouste !"
+msgstr "[_jo_s_picnic_blush_Souriez_resting_hands_] Aww ! Tu me fais rougouste !"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:79 #-#-# translate crowdin replay_jo_picnic_f1a8f177:
 msgid "[_mc_] I can't imagine how anyone could be mean to you."
@@ -234,11 +234,11 @@ msgstr "[_mc_] Je parie que la personne qui a écrit ce courriel se sent mal à 
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:82 #-#-# translate crowdin replay_jo_picnic_eb66125f:
 msgid "[_jo_s_picnic_blush_smile_resting_hands_] Oh, I doubt it... but I don't want to think about that right now..."
-msgstr "[_jo_s_picnic_blush_smile_resting_hands_] Oh, j'en doute ... mais je ne veux pas y penser maintenant ..."
+msgstr "[_jo_s_picnic_blush_Souriez_resting_hands_] Oh, j'en doute ... mais je ne veux pas y penser maintenant ..."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:83 #-#-# translate crowdin replay_jo_picnic_03b13931:
 msgid "[_jo_s_picnic_blush_smile_resting_hands_] I just want to enjoy this relaxing moment."
-msgstr "[_jo_s_picnic_blush_smile_resting_hands_] Je veux juste profiter de ce moment de détente."
+msgstr "[_jo_s_picnic_blush_Souriez_resting_hands_] Je veux juste profiter de ce moment de détente."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:84 #-#-# translate crowdin replay_jo_picnic_f08036ce:
 msgid "[_mc_] I know, but I'm kind of glad that she got you so fired up. If she hadn't, we wouldn't be enjoying this moment right now."
@@ -258,7 +258,7 @@ msgstr "[_mc_] J'espère que votre ambition s'est enrouée sur moi."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:88 #-#-# translate crowdin replay_jo_picnic_22baa6e8:
 msgid "[_mc_] [flora] and I really don't know how lucky we are to have someone like you taking care of us."
-msgstr "[_mc_] [flora] and I really don't know how lucky we are to have someone like you taking care of us."
+msgstr "[_mc_] [_mc_] flora] et je ne sais vraiment pas à quel point nous sommes chanceux d'avoir quelqu'un comme vous qui s'occupe de nous."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:89 #-#-# translate crowdin replay_jo_picnic_fe772928:
 msgid "[_jo_s_picnic_blush_flirty_resting_hands_] Sweetie, you're being too generous. An old lady like me?"
@@ -308,7 +308,7 @@ msgstr "[_mc_] En cas d'accident, bien sûr."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:100 #-#-# translate crowdin replay_jo_picnic_394fc39d:
 msgid "[_jo_s_picnic_blush_smile_squeezing_boobs_] Yesss, of course. Accidents happen and that's... that's okay."
-msgstr "[_jo_s_picnic_blush_smile_squeezing_boobs_] Yesss, bien sûr. Les accidents arrivent et c'est. .. ça va."
+msgstr "[_jo_s_picnic_blush_Souriez_squeezing_boobs_] Yesss, bien sûr. Les accidents arrivent et c'est. .. ça va."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:101 #-#-# translate crowdin replay_jo_picnic_147c33b0:
 msgid "[_mc_] I know one thing..."
@@ -320,15 +320,15 @@ msgstr "[_mc_] ... s'il y a un Dieu, la façon dont il t'a créé n'était pas u
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:103 #-#-# translate crowdin replay_jo_picnic_a1e6deb7:
 msgid "[_jo_s_picnic_smile_resting_hands_] Well, isn't that a thing to say!"
-msgstr "[_jo_s_picnic_smile_resting_hands_] Eh bien, n'est-ce pas une chose à dire !"
+msgstr "[_jo_s_picnic_Souriez_resting_hands_] Eh bien, n'est-ce pas une chose à dire !"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:104 #-#-# translate crowdin replay_jo_picnic_cc14e62a:
 msgid "[_jo_s_picnic_smile_resting_hands_] How very sweet of you, [mc]."
-msgstr "[_jo_s_picnic_smile_resting_hands_] How very sweet of you, [mc]."
+msgstr "[_jo_s_picnic_Souriez_resting_hands_] How very sweet of you, [mc]."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:105 #-#-# translate crowdin replay_jo_picnic_fa1808b4:
 msgid "[_jo_s_picnic_smile_resting_hands_] I think I raised you right, after all."
-msgstr "[_jo_s_picnic_smile_resting_hands_] Je pense que je t'ai élevée, après tout."
+msgstr "[_jo_s_picnic_Souriez_resting_hands_] Je pense que je t'ai élevée, après tout."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:106 #-#-# translate crowdin replay_jo_picnic_841d53bf:
 msgid "[_mc_] You certainly did."
@@ -336,15 +336,15 @@ msgstr "[_mc_] Vous l'avez certainement fait."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:107 #-#-# translate crowdin replay_jo_picnic_6bff473a:
 msgid "[_jo_s_picnic_blush_smile_resting_hands_] Goodness, but that wine is so strong..."
-msgstr "[_jo_s_picnic_blush_smile_resting_hands_] Bonté, mais que le vin est si fort ..."
+msgstr "[_jo_s_picnic_blush_Souriez_resting_hands_] Bonté, mais que le vin est si fort ..."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:108 #-#-# translate crowdin replay_jo_picnic_a964e587:
 msgid "[_jo_s_picnic_blush_smile_resting_hands_] And on an empty stomach. It's really gotten to my head, I think."
-msgstr "[_jo_s_picnic_blush_smile_resting_hands_] Et sur un estomac vide. C'est vraiment arrivé à ma tête, je pense."
+msgstr "[_jo_s_picnic_blush_Souriez_resting_hands_] Et sur un estomac vide. C'est vraiment arrivé à ma tête, je pense."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:109 #-#-# translate crowdin replay_jo_picnic_8613e71e:
 msgid "[_jo_s_picnic_blush_smile_resting_hands_] How irresponsible!"
-msgstr "[_jo_s_picnic_blush_smile_resting_hands_] Comment irresponsable !"
+msgstr "[_jo_s_picnic_blush_Souriez_resting_hands_] Comment irresponsable !"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:110 #-#-# translate crowdin replay_jo_picnic_c14405df:
 msgid "[_mc_] It's okay to just let loose sometimes."
@@ -372,11 +372,11 @@ msgstr "[_jo_s_picnic_blush_flirty_resting_hands_] Peut-être pour un instant ..
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:123 #-#-# translate crowdin replay_jo_picnic_987c7abe:
 msgid "[_jo_s_boobjob_smile_lying_down_] Mmmm... that does feel good..."
-msgstr "[_jo_s_boobjob_smile_lying_down_] Mmmm ... qui se sent bien ..."
+msgstr "[_jo_s_boobjob_Souriez_lying_down_] Mmmm ... qui se sent bien ..."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:124 #-#-# translate crowdin replay_jo_picnic_ebc16fac:
 msgid "[_jo_s_boobjob_smile_lying_down_] That wine has really rushed to my head... makes it hard to th-think too clearly."
-msgstr "[_jo_s_boobjob_smile_lying_down_] Que le vin s'est vraiment précipité sur ma tête ... il est difficile de le croire-pensez trop clairement."
+msgstr "[_jo_s_boobjob_Souriez_lying_down_] Que le vin s'est vraiment précipité sur ma tête ... il est difficile de le croire-pensez trop clairement."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:125 #-#-# translate crowdin replay_jo_picnic_a764b387:
 msgid "She keeps saying that, but I can see how much she's enjoying this."
@@ -428,7 +428,7 @@ msgstr "[_mc_] Qu'est-ce que vous allez faire à ce sujet ?"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:140 #-#-# translate crowdin replay_jo_picnic_e73018d0:
 msgid "[_jo_s_boobjob_smile_grabbing_dick_] Well... there was one thing my husband loved to do..."
-msgstr "[_jo_s_boobjob_smile_grabbing_dick_] Eh bien ... il y avait une chose que mon mari aimait faire ..."
+msgstr "[_jo_s_boobjob_Souriez_grabbing_dick_] Eh bien ... il y avait une chose que mon mari aimait faire ..."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:142 #-#-# translate crowdin replay_jo_picnic_93c43af3:
 msgid "[_jo_s_boobjob_flirty_looking_down_grabbing_dick_] He liked to stick it right between..."
@@ -492,9 +492,9 @@ msgstr "[_jo_s_boobjob_flirty_aftermath_] Mmmm, oui ! Comme ça !"
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:381 #-#-# translate crowdin replay_jo_picnic_bd191716:
 msgid "[_mc_] Goddamn... you really drained it all out of me..."
-msgstr "[_mc_] Goddamn ... vous m'avez vraiment vidé de moi ..."
+msgstr "[_mc_] GodBon sang ... vous m'avez vraiment vidé de moi ..."
 
 # game/1000_base_game/game/replays/55_jo_picnic.rpy:382 #-#-# translate crowdin replay_jo_picnic_46eaa3fb:
 msgid "[_jo_s_boobjob_smile_aftermath_] That's what a woman with experience is supposed to do, honey."
-msgstr "[_jo_s_boobjob_smile_aftermath_] C'est ce qu'une femme avec expérience est censée faire, chérie."
+msgstr "[_jo_s_boobjob_Souriez_aftermath_] C'est ce qu'une femme avec expérience est censée faire, chérie."
 
