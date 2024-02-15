@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:76 #-#-# translate crowdin home_bedroom_closet_kate_fate_dress_ebc2c219:
 msgid "Okay, time to pick my outfit for this endeavor..."
@@ -266,7 +266,7 @@ msgstr "[_flora_s_annoyed_] C'est rien. Je vais juste y aller."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:219 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_e5eea46e:
 msgid "[_mc_] Not until you explain why you were spying on us."
-msgstr "[Pas tant que vous n'aurez pas expliqué pourquoi vous nous espionniez."
+msgstr "[_mc_] Pas tant que vous n'aurez pas expliqué pourquoi vous nous espionniez."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:220 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_46e7b6ed:
 msgid "[_flora_s_eyeroll_] I wasn't spying, okay?"
@@ -446,7 +446,7 @@ msgstr "[_mc_] Que voulez-vous dire ?"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:289 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_4146ebf9:
 msgid "[_flora_s_angry_] We went to have cake and she was being really flirty."
-msgstr "[_flora_s_angry_] Nous sommes allés faire du gâteau et elle était vraiment flirte."
+msgstr "[_flora_s_angry_] Nous sommes allés manger un gâteau et elle nous a beaucoup dragués."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:290 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_d0fe0233:
 msgid "[_flora_s_angry_] She said she wanted to paint me and stuff."
@@ -466,7 +466,7 @@ msgstr "[_mc_] Elle flirt avec tout le monde."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:294 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_61a73b01:
 msgid "[_mc_] She's also said many times that she doesn't dabble, which I think means she's not into girls."
-msgstr "[Elle a également déclaré à plusieurs reprises qu'elle ne s'adonnait pas à cette activité, ce qui signifie, selon moi, qu'elle n'aime pas les filles."
+msgstr "[_mc_] Elle a également déclaré à plusieurs reprises qu'elle ne s'adonnait pas à cette activité, ce qui signifie, selon moi, qu'elle n'aime pas les filles."
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:295 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_intruder_fcb004f4:
 msgid "[_flora_s_annoyed_] That's bullshit."
