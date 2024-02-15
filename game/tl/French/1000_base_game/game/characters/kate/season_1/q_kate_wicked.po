@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 17:41\n"
+"PO-Revision-Date: 2024-02-15 18:49\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:20 #-#-# translate crowdin quest_kate_wicked_start_ccd3f5c7:
 msgid "[_kate_s_confident_] I thought I heard someone being noisy over here."
@@ -18,7 +18,7 @@ msgstr "[_kate_s_confident_] Je croyais avoir entendu quelqu'un bruyant ici."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:21 #-#-# translate crowdin quest_kate_wicked_start_12807298:
 msgid "[_mc_] It's just me and my piano. I can stop if it bothers you."
-msgstr "[_mc_] C'est juste moi et mon piano. Je peux m'arrêter si ça te dérère."
+msgstr "[Il n'y a que moi et mon piano. Je peux m'arrêter si cela vous dérange."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:22 #-#-# translate crowdin quest_kate_wicked_start_d2b4b069:
 msgid "[_kate_s_confident_] It was okay, I've heard worse."
@@ -282,7 +282,7 @@ msgstr "[_kate_s_neutral_hands_down_] Maintenant, obtenez cette clé avant de co
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:117 #-#-# translate crowdin quest_kate_wicked_start_777b7ee8:
 msgid "[_mc_] I'll get the key for you, ma'am."
-msgstr "[_mc_] I'll get the key for you, ma'am."
+msgstr "[Je vais chercher la clé pour vous, madame."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:119 #-#-# translate crowdin quest_kate_wicked_start_1a769a47:
 msgid "[_kate_s_excited_] Good boy. Now get to it."
@@ -347,8 +347,8 @@ msgstr "[_jo_] Qu'est-ce qui ne va pas ?"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:149 #-#-# translate crowdin quest_kate_wicked_phone_call_ee5f7224:
 msgid "[_mc_] Nothing's wrong,\n"
 "but, uhm..."
-msgstr "[_mc_] Rien ne va mal,\n"
-"mais, uhm ..."
+msgstr "[Tout va bien,\n"
+"mais, uhm..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:150 #-#-# translate crowdin quest_kate_wicked_phone_call_76c5f1af:
 msgid "[_mc_] Could you meet me\n"
@@ -416,7 +416,7 @@ msgstr "[_mc_] Je n'ai pas vraiment besoin d'aide, mais ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:179 #-#-# translate crowdin quest_kate_wicked_phone_call_0b0ff844:
 msgid "[_mc_] I was having a rough day and needed a hug."
-msgstr "[_mc_] J'avais une journée difficile et j'avais besoin d'un câbeux."
+msgstr "[J'ai eu une journée difficile et j'avais besoin d'un câlin."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:180 #-#-# translate crowdin quest_kate_wicked_phone_call_87943b30:
 msgid "[_jo_s_afraid_] Oh, no! My poor baby! Come here!"
@@ -444,7 +444,7 @@ msgstr "[_jo_s_flirty_hands_to_the_side_] Maintenant, dites-moi de quoi il s'agi
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:201 #-#-# translate crowdin quest_kate_wicked_phone_call_b2599c65:
 msgid "[_mc_] Just the usual — I'm already falling behind in music class, and I was hoping you could help me."
-msgstr "[_mc_] Juste le courant-je suis déjà en retard dans la classe de musique, et j'espérais que tu pourrais m'aider."
+msgstr "[J'ai déjà pris du retard en cours de musique et j'espérais que vous pourriez m'aider."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:202 #-#-# translate crowdin quest_kate_wicked_phone_call_db90d648:
 msgid "[_jo_s_afraid_] Of course! What do you need?"
@@ -482,7 +482,7 @@ msgstr "[_jo_s_excited_] Alors, pourquoi ne m'a-t-elle pas demandé ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:212 #-#-# translate crowdin quest_kate_wicked_phone_call_613b0149:
 msgid "[_mc_] She's, uhm... she was shy?"
-msgstr "[_mc_] Elle est, uhm ... elle était timide ?"
+msgstr "[Elle est, euh... elle était timide ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:213 #-#-# translate crowdin quest_kate_wicked_phone_call_1f7514f4:
 msgid "[_jo_s_laughing_] Shy? She's never struck me as the shy type!"
@@ -1242,7 +1242,7 @@ msgstr "[_guard_s_suspicious_flashlight_] Vous n'êtes pas censé être ici."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:555 #-#-# translate crowdin quest_kate_wicked_costume_first_hall_stairs_6d534fc4:
 msgid "[_mc_] I have special permission from the principal..."
-msgstr "[_mc_] I have special permission from the principal ..."
+msgstr "[J'ai une autorisation spéciale du directeur..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:556 #-#-# translate crowdin quest_kate_wicked_costume_first_hall_stairs_2a14f030:
 msgid "[_guard_s_suspicious_flashlight_] Not to stay overnight. I'm closing up, so get your ass downstairs."
@@ -1425,8 +1425,8 @@ msgstr "[_flora_] Parlez normalement ou\n"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:652 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_8581d3e8:
 msgid "[_mc_] Ugh, fine! I need\n"
 "[maxine]'s number!"
-msgstr "[_mc_] Ugh, fine ! J'ai besoin de\n"
-"[_mc_] maxine]'s number !"
+msgstr "[_mc_] Ugh, bien ! J'ai besoin du numéro de\n"
+"[maxine] !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:653 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_d0ad97f5:
 msgid "[_flora_] And why is that, exactly?"
@@ -1462,7 +1462,7 @@ msgstr "[_flora_] Je suppose qu'il serait amusant\n"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:665 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_33ee0403:
 msgid "[_mc_] I'll have you know—"
-msgstr "[_mc_] I'll have you know-"
+msgstr "[Je vous ferai savoir"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:670 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_ada98d03:
 msgid "Hmm... [flora] sounded a bit mad about that..."
@@ -1483,8 +1483,8 @@ msgstr "[_flora_] À propos de quoi ?"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:679 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_19bcca8a:
 msgid "[_mc_] The, err... the plant\n"
 "in the admin wing?"
-msgstr "[_mc_] The, err ... the plant\n"
-"in the admin wing ?"
+msgstr "[Le, euh... la plante\n"
+"dans l'aile administrative ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:686 #-#-# translate crowdin quest_kate_wicked_costume_exterior_flora_1e819cdf:
 msgid "[_mc_] [flora]?"
@@ -1749,14 +1749,14 @@ msgstr "[_extend_]  [nointeract]"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:767 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_53c7b5b8:
 msgid "[_mc_] Well, I just happen to\n"
 "have one for you."
-msgstr "[_mc_] Eh bien, je viens juste de passer au\n"
-"en ont un pour vous."
+msgstr "[Il se trouve que j'en ai une pour vous sur\n"
+"."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:768 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_9fae0e40:
 msgid "[_mc_] You'll have to come down\n"
 "and get it, though."
-msgstr "[_mc_] You'll have to come down\n"
-"and get it, though."
+msgstr "[Il faudra venir le chercher sur\n"
+"."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:769 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_42e031a3:
 msgid "[_maxine_] Very well."
@@ -1803,8 +1803,8 @@ msgstr "[_mc_] Quels sont les avantages\n"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:797 #-#-# translate crowdin quest_kate_wicked_costume_exterior_maxine_163971e8:
 msgid "[_mc_] Forget about membership\n"
 "fees. What about the perks?"
-msgstr "[_mc_] Forget about membership\n"
-"fees. Qu'en est-il des avantages ?"
+msgstr "[_mc_] Oubliez les frais d'adhésion à\n"
+". Qu'en est-il des avantages ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:799 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_7678302b:
 msgid "[_maxine_] There are no perks."
@@ -1829,8 +1829,8 @@ msgstr "[_maxine_] Si les avantages sont ce que vous recherchez,\n"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:802 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_f284c989:
 msgid "[_mc_] You've got to be\n"
 "kidding me..."
-msgstr "[_mc_] You've got to be\n"
-"kidding me ..."
+msgstr "[_mc_] Vous devez vous moquer de moi sur\n"
+"..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:803 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_ce3988a4:
 msgid "[_maxine_] I never joke about perks."
@@ -1931,8 +1931,8 @@ msgstr "[_mc_]..."
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:831 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_18157c7d:
 msgid "[_mc_] Can you please throw\n"
 "down the rope now?"
-msgstr "[_mc_] Can you please throw\n"
-"down the corde now ?"
+msgstr "[Pouvez-vous, s'il vous plaît, jeter\n"
+"en bas de la corde maintenant ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:832 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_736cef1b:
 msgid "[_maxine_] Before I do, allow me\n"
@@ -1966,7 +1966,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:840 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_d3e60a42:
 msgid "[_mc_] Bouncy."
-msgstr "[_mc_] Bouncy."
+msgstr "[_mc_] Rebondissant."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:841 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_23a284e8:
 msgid "[_maxine_] Our juiciest plan!"
@@ -1988,7 +1988,7 @@ msgstr "[_maxine_] Nous allons savoir si\n"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:848 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_331ca312:
 msgid "[_mc_] Flat."
-msgstr "[_mc_] Flat."
+msgstr "[_mc_] Plat."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:849 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_82023f32:
 msgid "[_maxine_] A curious choice!"
@@ -2077,8 +2077,8 @@ msgstr "[_mc_] Sur la seconde pensée,\n"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:881 #-#-# translate crowdin quest_kate_wicked_costume_exterior_perks_38ce9a22:
 msgid "[_mc_] ASS, of course. TITs seems like\n"
 "the breast way to go bankrupt."
-msgstr "[_mc_] ASS, bien sûr. Les TIT semblent être le\n"
-"le moyen de faire faillite."
+msgstr "[_mc_] ASS, bien sûr. TITs semble être\n"
+"le meilleur moyen de faire faillite."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:883 #-#-# translate crowdin quest_kate_wicked_costume_exterior_ASS_8deace43:
 msgid "[_maxine_] Ah, a man of culture!"
@@ -2137,8 +2137,8 @@ msgstr "[_mc_] Je suis sûr que vous ..."
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:893 #-#-# translate crowdin quest_kate_wicked_costume_exterior_ASS_18157c7d:
 msgid "[_mc_] Can you please throw\n"
 "down the rope now?"
-msgstr "[_mc_] Can you please throw\n"
-"down the corde now ?"
+msgstr "[Pouvez-vous, s'il vous plaît, jeter\n"
+"en bas de la corde maintenant ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:894 #-#-# translate crowdin quest_kate_wicked_costume_exterior_ASS_6ad14837:
 msgid "[_maxine_] I most certainly can."
@@ -2324,7 +2324,7 @@ msgstr "[_nurse_s_thinking_] Je ne savais pas que nous avions ça à l'école."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1011 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_28aa830d:
 msgid "[_mc_] It's, err... new for this year?"
-msgstr "[_mc_] It's, err ... new for this year ?"
+msgstr "[C'est, euh... nouveau pour cette année ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1012 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_7677be2a:
 msgid "[_nurse_s_blush_] That's great! I've always been interested in the stars."
@@ -2344,7 +2344,7 @@ msgstr "[_mc_] Peu importe ce que la vie me jette, les étoiles restent les mêm
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1016 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_d3792c82:
 msgid "[_mc_] Maybe some other time we could go stargazing together?"
-msgstr "[_mc_] Peut-être que d'autres temps nous pourrions aller stargazing ensemble ?"
+msgstr "[Peut-être qu'une autre fois, nous pourrions aller observer les étoiles ensemble ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1018 #-#-# translate crowdin quest_kate_wicked_costume_admin_wing_nurse_65e2fe17:
 msgid "[_nurse_s_blush_] I would like that very much."
@@ -4345,7 +4345,7 @@ msgstr "Ou est-ce que sa chatte bourre d'excitation ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1789 #-#-# translate crowdin quest_kate_wicked_party_music_class_e8a580fb:
 msgid "[_mc_] F-fuck... You're in your element, aren't you?"
-msgstr "[_mc_] F-fuck ... Tu es dans ton élément, n'est-ce pas ?"
+msgstr "[Putain de merde... Tu es dans ton élément, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1790 #-#-# translate crowdin quest_kate_wicked_party_music_class_55a5a6ee:
 msgid "This remark is met with her swallowing more of my shaft."
@@ -4365,7 +4365,7 @@ msgstr "Je peux sentir que les exhales rapides de son nez chatouillaient mon bas
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1794 #-#-# translate crowdin quest_kate_wicked_party_music_class_6f7039ce:
 msgid "[_mc_] Goddamn..."
-msgstr "[_mc_] GodBon sang ..."
+msgstr "[Bon sang..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1795 #-#-# translate crowdin quest_kate_wicked_party_music_class_88bcb8de:
 msgid "I use it to drive myself in deeper, pushing halfway into her pussy\n"
@@ -4447,7 +4447,7 @@ msgstr "L'odeur musquée de ses jus sort de la boîte et imprègne mes narines."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1813 #-#-# translate crowdin quest_kate_wicked_party_music_class_c66b097a:
 msgid "[_mc_] F-fuck... You like having your... everything... used?"
-msgstr "[_mc_] F-fuck ... Vous aimez avoir ... tout ... utilisé ?"
+msgstr "[_mc_] M-Merde... Tu aimes qu'on utilise ton... tout... ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1814 #-#-# translate crowdin quest_kate_wicked_party_music_class_0c24874a:
 msgid "[_nurse_] Mmmhmm..."
@@ -4519,7 +4519,7 @@ msgstr "Notre pantalon inégal pour l'air est tout ce que j'entends."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1831 #-#-# translate crowdin quest_kate_wicked_party_music_class_fa6a4d64:
 msgid "[_mc_] Goddamn, what a night..."
-msgstr "[_mc_] GodBon sang, quelle nuit ..."
+msgstr "[Bon sang, quelle nuit..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1854 #-#-# translate crowdin quest_kate_wicked_ending_21b9bf61:
 msgid "What a night!"
