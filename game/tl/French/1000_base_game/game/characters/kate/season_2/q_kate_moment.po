@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:21\n"
+"PO-Revision-Date: 2024-02-15 09:28\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2 #-#-# translate crowdin quest_kate_moment_start_d812283f:
 msgid "Huh? This is an odd sight..."
@@ -342,7 +342,7 @@ msgstr "[_stacy_s_confident_mocking_] Ew !"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:146 #-#-# translate crowdin quest_kate_moment_gym_fa86c137:
 msgid "[_lacey_s_confident_mocking_] I know, right?!"
-msgstr "[Je sais, pas vrai ? !"
+msgstr "[Je sais, pas vrai ?!"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:147 #-#-# translate crowdin quest_kate_moment_gym_4c8c70cf:
 msgid "[_casey_s_confident_mocking_s_flip_] Makes my skin crawl!"
@@ -1688,7 +1688,7 @@ msgstr "[J'ai de bonnes nouvelles."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:658 #-#-# translate crowdin quest_kate_moment_text_259d8b82:
 msgid "[_isabelle_] And what's that?"
-msgstr "[Et qu'est-ce que c'est ?"
+msgstr "[_isabelle_] Et qu'est-ce que c'est ?"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:663 #-#-# translate crowdin quest_kate_moment_text_de509ab5:
 msgid "[_mc_] [kate] is going to be missing school one day per week."
@@ -1702,7 +1702,7 @@ msgstr "[C'est vingt pour cent\n"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:665 #-#-# translate crowdin quest_kate_moment_text_63d663b2:
 msgid "[_isabelle_] That is good news!"
-msgstr "[C'est une bonne nouvelle !"
+msgstr "[_isabelle_] C'est une bonne nouvelle !"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:666 #-#-# translate crowdin quest_kate_moment_text_9c0af606:
 msgid "[_isabelle_] The less I see of that miserable slag, the better."
@@ -1714,7 +1714,7 @@ msgstr "[Je pensais que vous approuveriez."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:668 #-#-# translate crowdin quest_kate_moment_text_71d83299:
 msgid "[_isabelle_] I most certainly do."
-msgstr "[C'est certain."
+msgstr "[_isabelle_] C'est certain."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:669 #-#-# translate crowdin quest_kate_moment_text_8afafd4f:
 msgid "[_isabelle_] Thanks for letting me know!"
@@ -1734,15 +1734,15 @@ msgstr "[Cancer, peut-être ?"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:673 #-#-# translate crowdin quest_kate_moment_text_84d90515:
 msgid "[_isabelle_] I don't think she'd come to school at all, then."
-msgstr "[Je ne pense pas qu'elle vienne à l'école du tout, alors."
+msgstr "[_isabelle_] Je ne pense pas qu'elle vienne à l'école du tout, alors."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:674 #-#-# translate crowdin quest_kate_moment_text_2598d279:
 msgid "[_isabelle_] Have you noticed anything unusual about her?"
-msgstr "[Avez-vous remarqué quelque chose d'inhabituel chez elle ?"
+msgstr "[_isabelle_] Avez-vous remarqué quelque chose d'inhabituel chez elle ?"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:675 #-#-# translate crowdin quest_kate_moment_text_3932ad80:
 msgid "[_isabelle_] It might give us a clue."
-msgstr "[Cela pourrait nous donner un indice."
+msgstr "[_isabelle_] Cela pourrait nous donner un indice."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:676 #-#-# translate crowdin quest_kate_moment_text_b4c491a9:
 msgid "[_mc_] Well, I did find her sleeping in a chair earlier..."
@@ -1754,7 +1754,7 @@ msgstr "[...et un flacon de pilules."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:678 #-#-# translate crowdin quest_kate_moment_text_a5469cc1:
 msgid "[_isabelle_] What kind of pills?"
-msgstr "[Quel genre de pilules ?"
+msgstr "[_isabelle_] Quel genre de pilules ?"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:679 #-#-# translate crowdin quest_kate_moment_text_dd3627c5:
 msgid "[_mc_] Sleeping pills, I think?"
@@ -1768,11 +1768,11 @@ msgstr "[_isabelle_] On dirait que ça pourrait être une thérapie\n"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:681 #-#-# translate crowdin quest_kate_moment_text_ec48378d:
 msgid "[_isabelle_] I was having trouble sleeping right after my sister died."
-msgstr "[J'ai eu du mal à dormir juste après la mort de ma soeur."
+msgstr "[_isabelle_] J'ai eu du mal à dormir juste après la mort de ma sœur."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:682 #-#-# translate crowdin quest_kate_moment_text_0da12ff0:
 msgid "[_isabelle_] This sounds a lot like that."
-msgstr "[Cela y ressemble beaucoup."
+msgstr "[_isabelle_] Cela y ressemble beaucoup."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:683 #-#-# translate crowdin quest_kate_moment_text_6811b24b:
 msgid "[_mc_] Hmm... you might be right..."
@@ -1784,7 +1784,7 @@ msgstr "[Je me demande qui est mort."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:685 #-#-# translate crowdin quest_kate_moment_text_49d8c892:
 msgid "[_isabelle_] Honestly, she probably just broke a nail."
-msgstr "[Honnêtement, elle s'est probablement cassé un ongle."
+msgstr "[_isabelle_] Honnêtement, elle s'est probablement cassé un ongle."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:686 #-#-# translate crowdin quest_kate_moment_text_bafe7fdd:
 msgid "[_mc_] Damn! Savage!"
@@ -1800,7 +1800,7 @@ msgstr "[Se pourrait-il que nous lui ayons donné des cauchemars durables ?"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:689 #-#-# translate crowdin quest_kate_moment_text_d0dc1bea:
 msgid "[_isabelle_] Now that you mention it..."
-msgstr "[Maintenant que vous le dites..."
+msgstr "[_isabelle_] Maintenant que vous le dites..."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:690 #-#-# translate crowdin quest_kate_moment_text_b7f59cf4:
 msgid "[_isabelle_] I had almost forgotten\n"
@@ -1814,7 +1814,7 @@ msgstr "[_isabelle_] J'avais presque oublié\n"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:691 #-#-# translate crowdin quest_kate_moment_text_fea22826:
 msgid "[_isabelle_] This is very interesting."
-msgstr "[C'est très intéressant."
+msgstr "[_isabelle_] C'est très intéressant."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:692 #-#-# translate crowdin quest_kate_moment_text_8afafd4f_1:
 msgid "[_isabelle_] Thanks for letting me know!"
@@ -1854,7 +1854,7 @@ msgstr "[On pourrait s'amuser..."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:711 #-#-# translate crowdin quest_kate_moment_text_come_over_a3e10572:
 msgid "[_isabelle_] I do like fun."
-msgstr "[J'aime m'amuser."
+msgstr "[_isabelle_] J'aime m'amuser."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:712 #-#-# translate crowdin quest_kate_moment_text_come_over_fcf123df:
 msgid "[_mc_] Come on over, and we will!"
@@ -2654,7 +2654,7 @@ msgstr "Il doit s'agir à nouveau d'un fusible grillé."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1329 #-#-# translate crowdin quest_kate_moment_next_day_196b0b3f:
 msgid "[_kate_] N-noooo...."
-msgstr "[N-noooo...."
+msgstr "[N-Nooono...."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1330 #-#-# translate crowdin quest_kate_moment_next_day_2a62f746:
 msgid "As the darkness settles around us, a trembling whine pierces the silence."
@@ -2710,7 +2710,7 @@ msgstr "Mais un oiseau gazouille à l'extérieur de la fenêtre, et..."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1358 #-#-# translate crowdin quest_kate_moment_next_day_c8749b47:
 msgid "[_kate_s_angry_tired_] What the hell? Why did you put your arm there?!"
-msgstr "[C'est quoi ce bordel ? Pourquoi as-tu mis ton bras là ? !"
+msgstr "[C'est quoi ce bordel ? Pourquoi as-tu mis ton bras là ?!"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1359 #-#-# translate crowdin quest_kate_moment_next_day_19d93d3e:
 msgid "[_kate_s_angry_tired_] I've told you to not come close!"
