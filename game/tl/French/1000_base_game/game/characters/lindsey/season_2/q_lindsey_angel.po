@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:20\n"
+"PO-Revision-Date: 2024-02-15 16:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4 #-#-# translate crowdin quest_lindsey_angel_start_9b346f38:
 msgid "[_guard_] Good morning, Newfall High. This is your administrator speaking."
@@ -30,7 +30,7 @@ msgstr "[_guard_] Aujourd'hui, je suis ici pour vous apporter de bonnes nouvelle
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:8 #-#-# translate crowdin quest_lindsey_angel_start_46e8618f:
 msgid "[_guard_] [lindsey] has woken up from her coma, and her vitals are stable."
-msgstr "[_guard_] [lindsey] s'est réveillée de son coma, et ses vitals sont stables."
+msgstr "[_guard_] [lindsey] s'est réveillée de son coma et ses signes vitaux sont stables."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:14 #-#-# translate crowdin quest_lindsey_angel_start_239c7424:
 msgid "Oh, thank god!"
@@ -300,7 +300,7 @@ msgstr "[_mc_] Désolé. Je suis ici pour demander une faveur."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:117 #-#-# translate crowdin quest_lindsey_angel_nurse_ba985881:
 msgid "[_nurse_s_smile_] Of course! How may I help?"
-msgstr "[_nurse_s_smile_] Bien sûr ! Comment puis-je m'aider ?"
+msgstr "[_nurse_s_Souriez_] Bien sûr ! Comment puis-je m'aider ?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:118 #-#-# translate crowdin quest_lindsey_angel_nurse_818545a6:
 msgid "Why isn't every woman this agreeable and helpful?"
@@ -1862,7 +1862,7 @@ msgstr "Le son de son rire envoie de la joie à travers moi."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:779 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d6f1bf5c:
 msgid "[_lindsey_s_hospital_bed_s_smile_s_hand_against_chest_] I like you... you're cute."
-msgstr "[_lindsey_s_hospital_bed_s_smile_s_hand_against_chest_] I like you ... you're cute."
+msgstr "[_lindsey_s_hospital_bed_s_Souriez_s_hand_against_chest_] I like you ... you're cute."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:780 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c60a3282:
 msgid "[_mc_] I'm serious! I will fight them."
@@ -2246,12 +2246,12 @@ msgstr "Il est en retard. Je ne peux pas attendre pour rentrer à la maison."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1184 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3a2f23e0:
 msgid "Access denied?! How the hell did my [item.title_lower] not work?!"
-msgstr "Accès refusé ? ! Comment diable mon [item.title_lower] ne fonctionne pas ?"
+msgstr "Accès refusé ?! Comment diable mon [item.title_lower] ne fonctionne pas ?"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:134
 msgid "?mc.owned_item(('damning_document','compromising_photo'))@|{image=items [blackmail]}|Blackmail her\n"
 "into helping"
-msgstr "?mc.owned_item(('damning_document','compromising_photo'))@|{image=items [blackmail]}|Faire chanter son\n"
+msgstr "?mc.owned_item(('Bon sanging_document','compromising_photo'))@|{image=items [blackmail]}|Faire chanter son\n"
 "pour l'aider"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:134
