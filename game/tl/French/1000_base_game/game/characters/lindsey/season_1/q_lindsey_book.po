@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:10\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:3 #-#-# translate crowdin quest_lindsey_book_start_c7688f55:
 msgid "[_mc_] Hey, [lindsey]! Your, err... your hair looks nice today!"
@@ -138,7 +138,7 @@ msgstr "[_mc_] Qu'est-ce que vous lisez habituellement ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:58 #-#-# translate crowdin quest_lindsey_book_start_mid_483135a4:
 msgid "[_lindsey_s_smile_] All sorts of things! But I love fairytales the most!"
-msgstr "[_lindsey_s_smile_] Toutes sortes de choses ! Mais j'adore les contes de fées !"
+msgstr "[_lindsey_s_Souriez_] Toutes sortes de choses ! Mais j'adore les contes de fées !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:59 #-#-# translate crowdin quest_lindsey_book_start_mid_11fadf75:
 msgid "[_mc_] So, you like the happily ever afters?"
@@ -178,7 +178,7 @@ msgstr "[_lindsey_s_laughing_] Oh, rien !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:72 #-#-# translate crowdin quest_lindsey_book_start_mid_cf25f7eb:
 msgid "[_lindsey_s_smile_] If I'm going to be completely honest, I always have a hard time picking."
-msgstr "[_lindsey_s_smile_] Si je vais être tout à fait honnête, j'ai toujours du mal à choisir."
+msgstr "[_lindsey_s_Souriez_] Si je vais être tout à fait honnête, j'ai toujours du mal à choisir."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:73 #-#-# translate crowdin quest_lindsey_book_start_mid_3413b244:
 msgid "[_mc_] I could choose one for you."
@@ -198,7 +198,7 @@ msgstr "[_lindsey_s_neutral_] D'accord, j'ai hâte de voir ce que vous venez de 
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:85 #-#-# translate crowdin quest_lindsey_book_apology_gift_268b3f10:
 msgid "[_lindsey_s_excited_] Thank you. That's very kind."
-msgstr "[_lindsey_s_excited_] Merci. C'est très gentile."
+msgstr "[_lindsey_s_excited_] Merci. C'est très gentille."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:86 #-#-# translate crowdin quest_lindsey_book_apology_gift_4e834a29:
 msgid "[_lindsey_s_neutral_] It's not about the gift itself... but you knew that, right?"
@@ -274,15 +274,15 @@ msgstr "Mon [item.title_lower] n'est probablement pas la chose numéro un sur sa
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:117 #-#-# translate crowdin quest_lindsey_book_apology_gift_two_0b1455d3:
 msgid "[_lindsey_s_smile_] Hey, thanks!"
-msgstr "[_lindsey_s_smile_] Hé, merci !"
+msgstr "[_lindsey_s_Souriez_] Hé, merci !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:118 #-#-# translate crowdin quest_lindsey_book_apology_gift_two_d16a3709:
 msgid "[_lindsey_s_smile_] I like the gesture."
-msgstr "[_lindsey_s_smile_] J'aime le geste."
+msgstr "[_lindsey_s_Souriez_] J'aime le geste."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:119 #-#-# translate crowdin quest_lindsey_book_apology_gift_two_0ab6f865:
 msgid "[_lindsey_s_flirty_] I wanted to see if you could be kind and giving."
-msgstr "[_lindsey_s_flirty_] Je voulais voir si tu pouvais être gentile et donner."
+msgstr "[_lindsey_s_flirty_] Je voulais voir si tu pouvais être gentille et donner."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:120 #-#-# translate crowdin quest_lindsey_book_apology_gift_two_7cd37670:
 msgid "[_mc_] How did I do?"
@@ -374,7 +374,7 @@ msgstr "[_lindsey_s_laughing_] Ok, c'était bien !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:149 #-#-# translate crowdin quest_lindsey_book_apology_gift_two_0521e79e:
 msgid "[_lindsey_s_smile_] Not that hard, right?"
-msgstr "[_lindsey_s_smile_] Pas si dur, non ?"
+msgstr "[_lindsey_s_Souriez_] Pas si dur, non ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:150 #-#-# translate crowdin quest_lindsey_book_apology_gift_two_8f8075c6:
 msgid "[_mc_] I guess not..."
@@ -482,7 +482,7 @@ msgstr "Je ne suis pas trop sûr de la lisibilité de mon [item.title_lower]."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:219 #-#-# translate crowdin quest_lindsey_book_suggest_8dd5f182:
 msgid "[_lindsey_s_smile_] Okay, I'm going to find a quiet place to read this."
-msgstr "[_lindsey_s_smile_] Ok, je vais trouver un endroit tranquille pour lire ça."
+msgstr "[_lindsey_s_Souriez_] Ok, je vais trouver un endroit tranquille pour lire ça."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:220 #-#-# translate crowdin quest_lindsey_book_suggest_ff62f9a0:
 msgid "[_mc_] All right, let me know what you think!"
@@ -490,11 +490,11 @@ msgstr "[_mc_] Très bien, laissez-moi savoir ce que vous pensez !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:221 #-#-# translate crowdin quest_lindsey_book_suggest_e232fdfc:
 msgid "[_lindsey_s_smile_] Will do! Thanks again!"
-msgstr "[_lindsey_s_smile_] Will do ! Merci encore !"
+msgstr "[_lindsey_s_Souriez_] Will do ! Merci encore !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:233 #-#-# translate crowdin quest_lindsey_book_feedback_fe750c91:
 msgid "[_lindsey_s_smile_] There you are! I've been looking for you."
-msgstr "[_lindsey_s_smile_] Vous êtes là ! Je vous ai cherché."
+msgstr "[_lindsey_s_Souriez_] Vous êtes là ! Je vous ai cherché."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:234 #-#-# translate crowdin quest_lindsey_book_feedback_c8d9e68a:
 msgid "[_mc_] Hey, [lindsey]!"
@@ -566,7 +566,7 @@ msgstr "[_lindsey_s_flirty_] I'm kinda shy about my art ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:259 #-#-# translate crowdin quest_lindsey_book_feedback_c14b7f25:
 msgid "[_lindsey_s_smile_] It's not that good, and I don't like to be judged."
-msgstr "[_lindsey_s_smile_] Ce n'est pas si bon, et je n'aime pas être jugé."
+msgstr "[_lindsey_s_Souriez_] Ce n'est pas si bon, et je n'aime pas être jugé."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:262 #-#-# translate crowdin quest_lindsey_book_feedback_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -610,7 +610,7 @@ msgstr "[_mc_] Je pratique beaucoup depuis ... l'année dernière."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:277 #-#-# translate crowdin quest_lindsey_book_feedback_344dc5dc:
 msgid "[_lindsey_s_smile_] Okay!"
-msgstr "[_lindsey_s_smile_] Ok !"
+msgstr "[_lindsey_s_Souriez_] Ok !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:278 #-#-# translate crowdin quest_lindsey_book_feedback_81d99d34:
 msgid "[_lindsey_s_flirty_] I guess if you can get your hands on an easel, we can paint something together."
@@ -722,7 +722,7 @@ msgstr "Je ne voudrais pas peindre son visage par contre ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:330 #-#-# translate crowdin quest_lindsey_book_easel_81d05d1a:
 msgid "[_lindsey_s_smile_] Are you free now? We could get started right away! No time like the present!"
-msgstr "[_lindsey_s_smile_] Êtes-vous libre maintenant ? On pourrait commencer tout de suite ! Pas de temps comme le présent !"
+msgstr "[_lindsey_s_Souriez_] Êtes-vous libre maintenant ? On pourrait commencer tout de suite ! Pas de temps comme le présent !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:331 #-#-# translate crowdin quest_lindsey_book_easel_06f1269c:
 msgid "[lindsey] is the type with infinite energy. It's really hard to keep up sometimes."
