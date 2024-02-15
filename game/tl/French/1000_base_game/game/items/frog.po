@@ -10,23 +10,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:22\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/items/frog.rpy:19 #-#-# translate crowdin frog_interact_0d3e533c:
 msgid "[_nurse_] Rubbit! Rubbit!"
-msgstr "[Rubbit ! Rubbit !"
+msgstr "[_nurse_] Rubbit ! Rubbit !"
 
 # game/1000_base_game/game/items/frog.rpy:20 #-#-# translate crowdin frog_interact_c7f62570:
 msgid "[_mc_] Rub it? If you insist..."
-msgstr "[Le frotter ? Si vous insistez..."
+msgstr "[_mc_] Le frotter ? Si vous insistez..."
 
 # game/1000_base_game/game/items/frog.rpy:21 #-#-# translate crowdin frog_interact_0d3e533c_1:
 msgid "[_nurse_] Rubbit! Rubbit!"
-msgstr "[Rubbit ! Rubbit !"
+msgstr "[_nurse_] Rubbit ! Rubbit !"
 
 # game/1000_base_game/game/items/frog.rpy:22 #-#-# translate crowdin frog_interact_4cd2d6dd:
 msgid "[_mc_] You like that?"
-msgstr "[Vous aimez ça ?"
+msgstr "[_mc_] Vous aimez ça ?"
 
 # game/1000_base_game/game/items/frog.rpy:23 #-#-# translate crowdin frog_interact_923f4c62:
 msgid "[_nurse_] {i}Gurgle...{/}"
