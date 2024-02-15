@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:10\n"
+"PO-Revision-Date: 2024-02-15 09:27\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6 #-#-# translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
 msgid "[_mc_] Hey, how are you holding up?"
@@ -948,7 +948,7 @@ msgstr "[_mc_] Hé, idibo ! Révechez ! [withvpunch]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:359 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_2d6eab07:
 msgid "[_guard_] Huh?! What?!"
-msgstr "[_guard_] Huh ? ! Quoi ?"
+msgstr "[_guard_] Huh ?! Quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:360 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_dac038fd:
 msgid "[_mc_] There's a doughnut-sale in the cafeteria!"
@@ -1835,8 +1835,8 @@ msgstr "[_mc_] C'est dans la claipublique de la forêt."
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:758 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_56c33513:
 msgid "[_isabelle_] Someone dragged it\n"
 "there? Bloody hell..."
-msgstr "[_isabelle_] Quelqu'un a traîné le\n"
-"là ? Bloody enfer ..."
+msgstr "[_isabelle_] Quelqu'un l'a traîné sur\n"
+"? Bon sang de bonsoir..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:759 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_3b9ad0cf:
 msgid "[_mc_] Seems that way."
@@ -2322,7 +2322,7 @@ msgstr "[_maxine_s_cringe_] Cela n'a pas été demandé."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:954 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_dd0bfb50:
 msgid "[_isabelle_s_angry_] Uncalled for?! Are you bloody serious?"
-msgstr "[_isabelle_s_angry_] Non appelé ? ! Es-tu très grave ?"
+msgstr "[_isabelle_s_angry_] Non appelé ?! Es-tu très grave ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:955 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_047f3963:
 msgid "[_isabelle_s_angry_] You think you can just mess with people and that's okay?"
