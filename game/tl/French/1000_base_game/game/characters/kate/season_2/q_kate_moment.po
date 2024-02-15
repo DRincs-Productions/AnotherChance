@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:28\n"
+"PO-Revision-Date: 2024-02-15 11:19\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2 #-#-# translate crowdin quest_kate_moment_start_d812283f:
 msgid "Huh? This is an odd sight..."
@@ -770,7 +770,7 @@ msgstr "[Existe-t-il une version, euh... extra-courte ?"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:295 #-#-# translate crowdin quest_kate_moment_maxine_106c18ba:
 msgid "[_maxine_s_smile_] Do you want it told in a haiku?"
-msgstr "[_maxine_s_smile_] Voulez-vous que ce soit raconté dans un haïku ?"
+msgstr "[_maxine_s_Souriez_] Voulez-vous que ce soit raconté dans un haïku ?"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:296 #-#-# translate crowdin quest_kate_moment_maxine_8012d875:
 msgid "[_mc_] If that's the shortest you've got..."
@@ -782,15 +782,15 @@ msgstr "[_maxine_s_laughing_] Très bien."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:298 #-#-# translate crowdin quest_kate_moment_maxine_79780077:
 msgid "[_maxine_s_smile_] Stormy night, two met."
-msgstr "[_maxine_s_smile_] Nuit d'orage, deux se sont rencontrés."
+msgstr "[_maxine_s_Souriez_] Nuit d'orage, deux se sont rencontrés."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:299 #-#-# translate crowdin quest_kate_moment_maxine_aa3af1a5:
 msgid "[_maxine_s_smile_] Green figure and goldilocks."
-msgstr "[_maxine_s_smile_] Figure verte et boucles d'or."
+msgstr "[_maxine_s_Souriez_] Figure verte et boucles d'or."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:300 #-#-# translate crowdin quest_kate_moment_maxine_0fdfdb48:
 msgid "[_maxine_s_smile_] Exchange of parcel."
-msgstr "[_maxine_s_smile_] Échange de colis."
+msgstr "[_maxine_s_Souriez_] Échange de colis."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:301 #-#-# translate crowdin quest_kate_moment_maxine_2b35b6fe_1:
 msgid "[_mc_] ..."
@@ -1906,11 +1906,11 @@ msgstr "[isabelle] est déjà là. Il serait impoli de la laisser sans surveilla
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:767 #-#-# translate crowdin quest_kate_moment_fun_isabelle_f2a31fea:
 msgid "[_isabelle_s_smile_] There you are!"
-msgstr "[_isabelle_s_smile_] Vous voilà !"
+msgstr "[_isabelle_s_Souriez_] Vous voilà !"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:768 #-#-# translate crowdin quest_kate_moment_fun_isabelle_d1e7e19c:
 msgid "[_isabelle_s_smile_] I decided to stop by early. [flora] let me in."
-msgstr "[_isabelle_s_smile_] J'ai décidé de passer plus tôt. [flora] Laissez-moi entrer."
+msgstr "[_isabelle_s_Souriez_] J'ai décidé de passer plus tôt. [flora] Laissez-moi entrer."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:769 #-#-# translate crowdin quest_kate_moment_fun_isabelle_4140fe1c:
 msgid "[_mc_] Sorry! Did you have to wait long?"
@@ -2378,7 +2378,7 @@ msgstr "[Moins de [kate] pour tout le monde !"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1221 #-#-# translate crowdin quest_kate_moment_fun_isabelle_316a51f0:
 msgid "[_isabelle_s_bed_after_s_smile_] That is indeed quite good."
-msgstr "[_isabelle_s_bed_after_s_smile_] C'est en effet très bien."
+msgstr "[_isabelle_s_bed_after_s_Souriez_] C'est en effet très bien."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1222 #-#-# translate crowdin quest_kate_moment_fun_isabelle_9f9c003a:
 msgid "[_isabelle_s_bed_after_s_smile_] Do you know why?"
@@ -2550,7 +2550,7 @@ msgstr "[_mc_] Plus sérieusement, j'ai eu cette pensée aussi. Et c'est vrai qu
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1271 #-#-# translate crowdin quest_kate_moment_fun_isabelle_a681831e:
 msgid "[_isabelle_s_bed_after_s_smile_] Mm-hmm."
-msgstr "[_isabelle_s_bed_after_s_smile_] Mm-hmm."
+msgstr "[_isabelle_s_bed_after_s_Souriez_] Mm-hmm."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1272 #-#-# translate crowdin quest_kate_moment_fun_isabelle_715f7fd4:
 msgid "[_isabelle_s_bed_after_s_smile_] Did you hear she's also out of the cheer squad?"
@@ -2582,7 +2582,7 @@ msgstr "[Elle l'a fait sans aucun doute."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1279 #-#-# translate crowdin quest_kate_moment_fun_isabelle_4c8b93f6:
 msgid "[_isabelle_s_bed_after_s_smile_] But enough about [kate]."
-msgstr "[_isabelle_s_bed_after_s_smile_] Mais assez parlé de [kate]."
+msgstr "[_isabelle_s_bed_after_s_Souriez_] Mais assez parlé de [kate]."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1280 #-#-# translate crowdin quest_kate_moment_fun_isabelle_fa53b167:
 msgid "[_mc_] Err, right."
