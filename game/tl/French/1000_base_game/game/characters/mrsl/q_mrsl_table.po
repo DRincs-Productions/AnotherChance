@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:06\n"
+"PO-Revision-Date: 2024-02-15 17:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
@@ -410,7 +410,7 @@ msgstr "[_mc_] En fait, ce n'était pas moi cette fois, je le jure !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:140 #-#-# translate crowdin quest_mrsl_table_letter_b03cfca7:
 msgid "[_mc_] It must've been [flora] or something!"
-msgstr "[_mc_] It must've been [flora] or something !"
+msgstr "[_mc_] It must've been [_mc_] flora] or something !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:141 #-#-# translate crowdin quest_mrsl_table_letter_4c1d7c7b:
 msgid "[_jo_s_thinking_] [flora] left before I did, and the clothes were still in the laundry basket then."
@@ -954,7 +954,7 @@ msgstr "[_mc_] Quoi qu'il en soit, je suis fatigué comme l'enfer ... je pense q
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:518 #-#-# translate crowdin quest_mrsl_table_flora_b3fe7560:
 msgid "[_mc_] Goodnight, [flora]!"
-msgstr "[_mc_] Goodnight, [flora]!"
+msgstr "[_mc_] Bonne nuit, [flora] !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:519 #-#-# translate crowdin quest_mrsl_table_flora_c352e87e:
 msgid "[_flora_s_annoyed_texting_] Night."
@@ -1638,7 +1638,7 @@ msgstr "[_jo_s_under_desk_half_open_legs_] Sweetheart, tu vas bien ?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:818 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_aefa480d:
 msgid "[_maya_] I-forgot-my-lunch-money-the-other-day-and... umm..."
-msgstr "[_maya_] I-oublié-my-lunch-money-the-other-day-and ... umm ..."
+msgstr "[_maya_] J'ai oublié l'argent de mon déjeuner l'autre jour et... euh..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:819 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_0fd67301:
 msgid "[_jo_s_under_desk_half_open_legs_] Slow down! Have you been crying?"
@@ -1654,7 +1654,7 @@ msgstr "[_jo_s_under_desk_half_open_legs_] Eh bien, alors ... dis-moi lentement 
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:822 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_a9940687:
 msgid "[_maya_] I, um... did something bad. I was bad."
-msgstr "[_maya_] I, um ... a fait quelque chose de mauvais. J'étais mauvais."
+msgstr "[_maya_] J'ai, euh... fait quelque chose de mal. J'ai été méchante."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:823 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_820988c6:
 msgid "[_maya_] [flora] told me to, um... talk to you to get my p-punishment..."
@@ -1682,7 +1682,7 @@ msgstr "Excusez-moi, quoi ?"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:829 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_8b6e3d63:
 msgid "[_maya_] Very bad, madam-principal. Very."
-msgstr "[_maya_] Très mauvais, madam-principal. Très."
+msgstr "[_maya_] Très mauvais, madame la directrice. Très."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:830 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_be42616c:
 msgid "[_jo_s_under_desk_open_legs_] I see... then you know what to do."
@@ -1746,7 +1746,7 @@ msgstr "[_maya_] Meow !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:851 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_4e147473:
 msgid "[_mc_] You've gone insane, [jo]!"
-msgstr "[_mc_] You've gone insane, [jo]!"
+msgstr "[_mc_] You've gone insane, [_mc_] jo]!"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:852 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_f22c886f:
 msgid "[_mc_] Move so I can get out!"
