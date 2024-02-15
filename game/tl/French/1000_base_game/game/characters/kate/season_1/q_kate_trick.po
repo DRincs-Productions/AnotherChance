@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 11:19\n"
+"PO-Revision-Date: 2024-02-15 17:41\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:5 #-#-# translate crowdin quest_kate_trick_start_6cb5dee0:
 msgid "Uh-oh. Did I just step into the Colosseum?"
@@ -794,7 +794,7 @@ msgstr "Ugh, elle semble sérieuse. Je me comporais mieux."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:420 #-#-# translate crowdin quest_kate_trick_start_two_c1001b8b:
 msgid "[_mc_] I'm all for shutting up [isabelle], but this schedule is going to make it difficult for a lot of other people..."
-msgstr "[_mc_] I'm all for shutting up [isabelle], but this schedule is going to make it difficile for a lot of other people ..."
+msgstr "[_mc_] I'm all for shutting up [_mc_] isabelle], but this schedule is going to make it difficile for a lot of other people ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:422 #-#-# translate crowdin quest_kate_trick_start_two_114fa874:
 msgid "[_kate_s_laughing_] Since when do you care about other people?"
@@ -1566,7 +1566,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:730 #-#-# translate crowdin quest_kate_trick_flora_4f2e20ae:
 msgid "[_mc_] You know what? Nevermind."
-msgstr "[_mc_] Vous savez quoi ? Nevermind."
+msgstr "[_mc_] Vous savez quoi ? Peu importe."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:731 #-#-# translate crowdin quest_kate_trick_flora_89219112:
 msgid "[_mc_] I have someone else who would be... more than willing to help."
@@ -2328,7 +2328,7 @@ msgstr "[_flora_s_worried_leash_] Quoi ? Pourquoi ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1085 #-#-# translate crowdin quest_kate_trick_gym_1d158e79:
 msgid "[_mc_] Because I need it to impress [kate] and make her my wife."
-msgstr "[_mc_] Parce que j'ai besoin que j'impresse [kate] et que j'en fasse ma femme."
+msgstr "[_mc_] Parce que j'ai besoin que j'impresse [_mc_] kate] et que j'en fasse ma femme."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1086 #-#-# translate crowdin quest_kate_trick_gym_59193b25:
 msgid "[_flora_s_laughing_leash_] Nice joke."
@@ -3172,7 +3172,7 @@ msgstr "\" Ugh, bon ... Je te donnerai vingt dollars. \""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:724
 msgid "{image=items [blackmail]}|\"You know what? Nevermind.\""
-msgstr "{image=items [blackmail]}|\" Vous savez quoi ? Nevermind. \""
+msgstr "{image=items [blackmail]}|\" Vous savez quoi ? Peu importe. \""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:759
 msgid "?mc.money>=50@[mc.money]/50|{image=ui hud icon_money}|Pay up"
