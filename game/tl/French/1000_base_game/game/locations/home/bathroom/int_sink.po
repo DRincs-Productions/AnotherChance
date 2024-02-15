@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:49 #-#-# translate crowdin home_bathroom_sink_use_socks_fe062c18:
 msgid "I wonder what [kate] will think when I return her socks perfectly clean...{space=-45}"
@@ -222,7 +222,7 @@ msgstr "[_mc_] C'est une blague ?"
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:149 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_3dcbcd6b:
 msgid "[_jo_] Do I sound like I'm joking, [mc]? Get dressed and come down now!"
-msgstr "[_jo_] Est-ce que j'ai l'air de plaisanter, [mc] ?] Habille-toi et descends maintenant !"
+msgstr "[_jo_] Est-ce que j'ai l'air de plaisanter, [mc] ? Habille-toi et descends maintenant !"
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:151 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_eea19202:
 msgid "[_mc_] I'm going back to bed! See you tonight!"
