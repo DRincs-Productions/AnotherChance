@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 16:06\n"
+"PO-Revision-Date: 2024-02-15 23:41\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/35_kate_punishment.rpy:6 #-#-# translate crowdin replay_kate_punishment_eedc76f6:
 msgid "[_kate_s_cheerleader_feet_] Down where you belong."
@@ -190,7 +190,7 @@ msgstr "[_mc_] Baise-moi ! Vous me déchirez-"
 
 # game/1000_base_game/game/replays/35_kate_punishment.rpy:66 #-#-# translate crowdin replay_kate_punishment_8e8a4a2a:
 msgid "[_mc_] {i}Mmmph!{/} [withvpunch]"
-msgstr "[_mc_] {i}Mmmph ! {/} [withvpunch]"
+msgstr "[_mc_] {i}Mmmph ! {/} [_mc_] withvpunch]"
 
 # game/1000_base_game/game/replays/35_kate_punishment.rpy:72 #-#-# translate crowdin replay_kate_punishment_7fa9b69f:
 msgid "[_kate_s_cheerleader_feet_kate_shoeless_sockless_laughing_] There you go! I told you those socks would go into your mouth..."
