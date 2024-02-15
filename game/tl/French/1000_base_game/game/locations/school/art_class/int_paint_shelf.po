@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:45\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/school/art_class/int_paint_shelf.rpy:50 #-#-# translate crowdin school_art_class_shelf_interact_6cf92097:
 msgid "Blue plus yellow equals green..."
@@ -50,7 +50,7 @@ msgstr "Allons chercher quelques seaux aléatoires ..."
 
 # game/1000_base_game/game/locations/school/art_class/int_paint_shelf.rpy:68 #-#-# translate crowdin school_art_class_paint_shelf_jacklyn_art_focus_paint_c73a3258:
 msgid "A real artist doesn't choose his colors, he lets the colors choose him.{space=-30}"
-msgstr "Un vrai artiste ne choisit pas ses couleurs, il laisse les couleurs le choisir. { space=-30 }"
+msgstr "Un vrai artiste ne choisit pas ses couleurs, il laisse les couleurs le choisir. {space=-30}"
 
 # game/1000_base_game/game/locations/school/art_class/int_paint_shelf.rpy:69 #-#-# translate crowdin school_art_class_paint_shelf_jacklyn_art_focus_paint_a20cefa7:
 msgid "..."
@@ -62,7 +62,7 @@ msgstr "..."
 
 # game/1000_base_game/game/locations/school/art_class/int_paint_shelf.rpy:73 #-#-# translate crowdin school_art_class_paint_shelf_jacklyn_art_focus_paint_21dc222c:
 msgid "All right, the paint is ready. Now, I just need something to paint with.{space=-10}"
-msgstr "D'accord, la peinture est prête. J'ai juste besoin de quelque chose pour peindre avec. { space=-10 }"
+msgstr "D'accord, la peinture est prête. J'ai juste besoin de quelque chose pour peindre avec. {space=-10}"
 
 # game/1000_base_game/game/locations/school/art_class/int_paint_shelf.rpy:81 #-#-# translate crowdin school_art_class_shelf_poolside_story_confetti_8ef830eb:
 msgid "Just paint here. No hidden confetti."
