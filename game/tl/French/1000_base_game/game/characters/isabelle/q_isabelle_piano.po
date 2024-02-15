@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:10\n"
+"PO-Revision-Date: 2024-02-15 09:27\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:47 #-#-# translate crowdin quest_isabelle_piano_start_af63ac0e:
 msgid "[_isabelle_s_excited_] I had no idea you play the piano!"
@@ -432,7 +432,7 @@ msgstr "Pas le meilleur ajustement pour mon [item.title_lower], mais je connais 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:233 #-#-# translate crowdin quest_isabelle_piano_isabelle_db6ec79c:
 msgid "[_mc_] Hey! Are you busy right now?"
-msgstr "[_mc_] Hey ! Es-tu occupé en ce moment ?"
+msgstr "[_mc_] Hé ! Es-tu occupé en ce moment ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:234 #-#-# translate crowdin quest_isabelle_piano_isabelle_d375cd38:
 msgid "[_isabelle_s_neutral_] Not really. Why?"
@@ -986,7 +986,7 @@ msgstr "[_mc_] Je suppose que si vous voulez vraiment ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:504 #-#-# translate crowdin quest_isabelle_piano_score_interact_48948744:
 msgid "[_isabelle_] I do! Thank you, [mc]."
-msgstr "[_isabelle_] I do ! Merci, [mc]."
+msgstr "[_isabelle_] Je le fais ! Merci, [mc]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:514 #-#-# translate crowdin quest_isabelle_piano_score_use_item_6765621a:
 msgid "All right... everything's set and I'm only mildly nervous."
@@ -1098,7 +1098,7 @@ msgstr "[_isabelle_s_blush_] Oh, mec. Ça devrait être une citation !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:580 #-#-# translate crowdin quest_isabelle_piano_score_use_item_9c98b795:
 msgid "[_mc_] Thank you! You're too kind."
-msgstr "[_mc_] Merci ! Vous êtes trop gentiles."
+msgstr "[_mc_] Merci ! Vous êtes trop gentilles."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:582 #-#-# translate crowdin quest_isabelle_piano_score_use_item_5f6c18dd:
 msgid "[_isabelle_s_laughing_] You're not only a great pianist, but you're also humble! I like that."
@@ -1638,5 +1638,5 @@ msgstr "\"Je me sens libre de le faire.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:561
 msgid "\"Thank you! You're too kind.\""
-msgstr "\" Merci ! Tu es trop gentile. \""
+msgstr "\" Merci ! Tu es trop gentille. \""
 
