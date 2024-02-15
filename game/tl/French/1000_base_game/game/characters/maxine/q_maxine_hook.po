@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:00\n"
+"PO-Revision-Date: 2024-02-15 23:40\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:3 #-#-# translate crowdin quest_maxine_hook_start_8a0e7ef1:
 msgid "[_mc_] Hey, [maxine]! What are you doing?"
@@ -366,7 +366,7 @@ msgstr "Mon Dieu, c'est ennuyeux."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:126 #-#-# translate crowdin quest_maxine_hook_wake_499f097a:
 msgid "[_mc_] The ghost of Pond Park?"
-msgstr "[Le fantôme de Pond Park ?"
+msgstr "[_mc_] Le fantôme de Pond Park ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:127 #-#-# translate crowdin quest_maxine_hook_wake_473e830b:
 msgid "[_maxine_s_skeptical_] Indeed. There has been a report of a haunting."
@@ -474,7 +474,7 @@ msgstr "[_maxine_s_Souriez_] Je savais que vous vous montreriez éventuellement.
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:164 #-#-# translate crowdin quest_maxine_hook_computer_c1e7d4e3:
 msgid "[_mc_] I got bored."
-msgstr "[Je me suis ennuyé."
+msgstr "[_mc_] Je me suis ennuyé."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:165 #-#-# translate crowdin quest_maxine_hook_computer_e89805aa:
 msgid "[_maxine_s_smile_] An idle mind is creativity's playground."
@@ -666,7 +666,7 @@ msgstr "[_lindsey_s_Souriez_] Je veux dire, il y a beaucoup de différences ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:228 #-#-# translate crowdin quest_maxine_hook_lindsey_f6f71a89:
 msgid "[_mc_] Kind of like you and me."
-msgstr "[Un peu comme vous et moi."
+msgstr "[_mc_] Un peu comme vous et moi."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:229 #-#-# translate crowdin quest_maxine_hook_lindsey_72b9089b:
 msgid "[_lindsey_s_flirty_] Oh, yeah? Which one am I, the car or the jar?"
@@ -854,7 +854,7 @@ msgstr "[_isabelle_s_confident_] Peut-être que c'était Bigfoot ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:310 #-#-# translate crowdin quest_maxine_hook_glade_b738092f:
 msgid "[_mc_] I know you're joking, but who knows what lives within this forest?"
-msgstr "[Je sais que vous plaisantez, mais qui sait ce qui vit dans cette forêt ?"
+msgstr "[_mc_] Je sais que vous plaisantez, mais qui sait ce qui vit dans cette forêt ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:311 #-#-# translate crowdin quest_maxine_hook_glade_04d47981:
 msgid "[_isabelle_s_laughing_] I think [maxine] is rubbing off on you!"
@@ -882,7 +882,7 @@ msgstr "[_isabelle_s_laughing_] Il y a des choses pires à boire, et des endroit
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:319 #-#-# translate crowdin quest_maxine_hook_glade_e6ab304d:
 msgid "[_mc_] You're cheery today."
-msgstr "[Vous êtes joyeux aujourd'hui."
+msgstr "[_mc_] Vous êtes joyeux aujourd'hui."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:320 #-#-# translate crowdin quest_maxine_hook_glade_555c753e:
 msgid "[_isabelle_s_confident_] It's a nice day. The sun is shining, the birds are singing..."
@@ -898,7 +898,7 @@ msgstr "J'aurais aimé que c'était facile pour moi ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:325 #-#-# translate crowdin quest_maxine_hook_glade_f4c194a0:
 msgid "[_mc_] I snuck into the school the other night."
-msgstr "[Je me suis faufilé dans l'école l'autre nuit."
+msgstr "[_mc_] Je me suis faufilé dans l'école l'autre nuit."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:326 #-#-# translate crowdin quest_maxine_hook_glade_26e08833:
 msgid "[_isabelle_s_concerned_] Really? How come?"
@@ -1242,7 +1242,7 @@ msgstr "[_maxine_s_thinking_] A un moment miné à l'avenir."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:450 #-#-# translate crowdin quest_maxine_hook_glade_271c4548:
 msgid "[_mc_] Will you... let me know when that is?"
-msgstr "[Pourriez-vous... me faire savoir quand ce sera le cas ?"
+msgstr "[_mc_] Pourriez-vous... me faire savoir quand ce sera le cas ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:451 #-#-# translate crowdin quest_maxine_hook_glade_d845e14d:
 msgid "[_maxine_s_sad_] Unlikely."
@@ -1542,7 +1542,7 @@ msgstr "[_maxine_s_annoyed_] C'est une carte de parchemin ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:610 #-#-# translate crowdin quest_maxine_hook_dig_use_item_3a51d3e2:
 msgid "[_mc_] Fair enough, I guess."
-msgstr "[C'est assez juste, je suppose."
+msgstr "[_mc_] C'est assez juste, je suppose."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:611 #-#-# translate crowdin quest_maxine_hook_dig_use_item_d2021cb0:
 msgid "[_maxine_s_confident_] Thanks for the help."
@@ -1614,7 +1614,7 @@ msgstr "[_maxine_s_angry_] Mais j'ai trouvé la voie."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:651 #-#-# translate crowdin quest_maxine_hook_dig_use_item_e4d000c5:
 msgid "[_mc_] Well, you're a tiny girl with sticks for arms — what are you going to do about it?"
-msgstr "[Tu es une petite fille avec des bâtons à la place des bras, qu'est-ce que tu vas faire ?"
+msgstr "[_mc_] Tu es une petite fille avec des bâtons à la place des bras, qu'est-ce que tu vas faire ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:654 #-#-# translate crowdin quest_maxine_hook_dig_use_item_284e4601:
 msgid "[_maxine_s_neutral_] Very well."
@@ -2286,7 +2286,7 @@ msgstr "[_maxine_s_hooking_up_angry_] Si je n'avais pas besoin de tout ça, alor
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:980 #-#-# translate crowdin quest_maxine_hook_thief_3a51d3e2:
 msgid "[_mc_] Fair enough, I guess."
-msgstr "[C'est assez juste, je suppose."
+msgstr "[_mc_] C'est assez juste, je suppose."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:981 #-#-# translate crowdin quest_maxine_hook_thief_50948001:
 msgid "[_maxine_s_hooking_up_smile_] Let's proceed now."
@@ -2490,7 +2490,7 @@ msgstr "[_maxine_s_hooking_up_flirty_hands_behind_back_] Oui ! Tension supérieu
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1053 #-#-# translate crowdin quest_maxine_hook_table_0385b06b:
 msgid "[_mc_] If you insist..."
-msgstr "[Si vous insistez..."
+msgstr "[_mc_] Si vous insistez..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1058 #-#-# translate crowdin quest_maxine_hook_table_96c9ec1f:
 msgid "[_maxine_s_hooking_up_ahegao_hands_behind_back_] Aaaaaah! [withvpunch]"
