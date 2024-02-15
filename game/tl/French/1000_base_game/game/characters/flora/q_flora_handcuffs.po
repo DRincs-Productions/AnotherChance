@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 16:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:3 #-#-# translate crowdin quest_flora_handcuffs_start_baf5498f:
 msgid "[_mc_] Hey, [flora]! Do you have a minute?"
@@ -582,7 +582,7 @@ msgstr "Je suppose que je ne suis pas aussi mignon."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:228 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_e38deeea:
 msgid "[_flora_s_smile_hands_up_] What do you think?"
-msgstr "[_flora_s_smile_hands_up_] Que pensez-vous ?"
+msgstr "[_flora_s_Souriez_hands_up_] Que pensez-vous ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:229 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_c6f1863c:
 msgid "[_mc_] Whoa!"
@@ -714,7 +714,7 @@ msgstr "Peut-être que c'est égoïsle, mais quoi que ce soit."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:276 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_d9250243:
 msgid "[_flora_s_smile_hands_up_] Ta-da!"
-msgstr "[_flora_s_smile_hands_up_] Ta-da !"
+msgstr "[_flora_s_Souriez_hands_up_] Ta-da !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:277 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_65aaf48c:
 msgid "[_mc_] I like that."
@@ -766,11 +766,11 @@ msgstr "[_mc_] Oui, je suppose ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:289 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_accd51d9:
 msgid "[_flora_s_smile_] Still a long time before you have to make that decision."
-msgstr "[_flora_s_smile_] Il reste encore beaucoup de temps avant de prendre cette décision."
+msgstr "[_flora_s_Souriez_] Il reste encore beaucoup de temps avant de prendre cette décision."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:290 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_472cf632:
 msgid "[_flora_s_smile_] Anywho..."
-msgstr "[_flora_s_smile_] Quoi qu'il en soit..."
+msgstr "[_flora_s_Souriez_] Quoi qu'il en soit..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:295 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_97f14fcf:
 msgid "Not nearly long enough..."
@@ -828,7 +828,7 @@ msgstr "[_flora_s_afraid_] Est-ce que c'est. ...?"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:316 #-#-# translate crowdin quest_flora_handcuffs_package_making_up_1b19dc59:
 msgid "[_flora_s_smile_] Oh my god!"
-msgstr "[_flora_s_smile_] Oh mon Dieu !"
+msgstr "[_flora_s_Souriez_] Oh mon Dieu !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:317 #-#-# translate crowdin quest_flora_handcuffs_package_making_up_57184c13:
 msgid "[_mc_] You're welcome."
@@ -1060,7 +1060,7 @@ msgstr "[_mc_] Très ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:433 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_2b0bfbe7:
 msgid "[_flora_s_concerned_] Gross."
-msgstr "[_flora_s_concerned_] Gross."
+msgstr "[_flora_s_concerned_] Grossier."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:434 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_31e75eef:
 msgid "[_flora_s_concerned_] Okay, I'm doing it now."
@@ -1378,7 +1378,7 @@ msgstr "[_mc_] Bien sûr, je ne pense pas."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:575 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_b298bcfb:
 msgid "[_flora_s_smile_] Okay, wait here. I'll send you a text."
-msgstr "[_flora_s_smile_] Ok, attends ici. Je vous enverrai un texte."
+msgstr "[_flora_s_Souriez_] Ok, attends ici. Je vous enverrai un texte."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:577 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_38c40332:
 msgid "If she took my money and left, I'm going to be very upset."
@@ -1550,7 +1550,7 @@ msgstr "[_mc_] Vous avez dix-huit ans. Il est. .. bien, plus de dix-huit ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:686 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_900bfabe:
 msgid "[_flora_s_cringe_] Gross!"
-msgstr "[_flora_s_cringe_] Gross !"
+msgstr "[_flora_s_cringe_] Grossier !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:689 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_11fdb519_4:
 msgid "[_extend_]  [nointeract]"
