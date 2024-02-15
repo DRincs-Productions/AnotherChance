@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 09:27\n"
+"PO-Revision-Date: 2024-02-15 16:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:47 #-#-# translate crowdin quest_isabelle_piano_start_af63ac0e:
 msgid "[_isabelle_s_excited_] I had no idea you play the piano!"
@@ -50,7 +50,7 @@ msgstr "[_isabelle_s_concerned_left_] C'est difficile de ne citer qu'un seul ...
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:60 #-#-# translate crowdin quest_isabelle_piano_start_93a46ee5:
 msgid "[_mc_] Didn't take you for a Chopin-chick."
-msgstr "[_mc_] Ne vous a pas pris pour un Chopin-chick."
+msgstr "[_mc_] Je ne vous prenais pas pour une fille de Chopin."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:61 #-#-# translate crowdin quest_isabelle_piano_start_ca415427:
 msgid "[_isabelle_s_skeptical_] What did you think?"
@@ -106,7 +106,7 @@ msgstr "[_isabelle_s_skeptical_] Relax, Mozart. Les femmes ne sont rien comme de
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:78 #-#-# translate crowdin quest_isabelle_piano_start_2267a05d:
 msgid "[_mc_] Women? I don't know what you're inferring."
-msgstr "[_mc_] Femmes ? Je ne sais pas ce que tu en dédues."
+msgstr "[_mc_] Les femmes ? Je ne sais pas ce que vous déduisez."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:79 #-#-# translate crowdin quest_isabelle_piano_start_165489b7:
 msgid "[_isabelle_s_skeptical_] Sure, you don't..."
@@ -142,7 +142,7 @@ msgstr "[_isabelle_s_confident_] Que appelez-vous, alors ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:95 #-#-# translate crowdin quest_isabelle_piano_start_aea10f26:
 msgid "[_mc_] Rappers are basically poets with a bad attitude."
-msgstr "[_mc_] Les rappers sont essentiellement des poètes avec une mauvaise attitude."
+msgstr "[_mc_] Les rappeurs sont essentiellement des poètes avec une mauvaise attitude."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:96 #-#-# translate crowdin quest_isabelle_piano_start_3f843b69:
 msgid "[_isabelle_s_laughing_] That is somehow accurate!"
@@ -150,7 +150,7 @@ msgstr "[_isabelle_s_laughing_] C'est exact !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:97 #-#-# translate crowdin quest_isabelle_piano_start_81907a89:
 msgid "[_mc_] I always imagine Shakespeare with a ton of bling, rapping about quids, tobacco, and Lady Macbeth's booty."
-msgstr "[_mc_] J'imagine toujours Shakespeare avec une tonne de bling, un rap sur les quids, le tabac et le butin de Lady Macbeth."
+msgstr "[_mc_] J'imagine toujours Shakespeare avec une tonne de bling-bling, rappant sur les quidams, le tabac et le butin de Lady Macbeth."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:98 #-#-# translate crowdin quest_isabelle_piano_start_86df3899:
 msgid "[_isabelle_s_confident_] I'd love to see that!"
@@ -194,7 +194,7 @@ msgstr "[_mc_] Je plaide pour le 5ème."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:114 #-#-# translate crowdin quest_isabelle_piano_start_ff4a42ac:
 msgid "[_mc_] Bagpipe fans."
-msgstr "[_mc_] éventails de Bagpipe."
+msgstr "[_mc_] Eventails de cornemuse."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:116 #-#-# translate crowdin quest_isabelle_piano_start_4fde6069:
 msgid "[_isabelle_s_angry_] How very dare you?!"
@@ -456,7 +456,7 @@ msgstr "[_isabelle_s_confident_] Lissage."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:245 #-#-# translate crowdin quest_isabelle_piano_isabelle_21a838ba:
 msgid "[_mc_] You should see my Bagatelle in E-flat major..."
-msgstr "[_mc_] You should see my Bagatelle in E-flat major ..."
+msgstr "[_mc_] Vous devriez voir ma Bagatelle en mi bémol majeur..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:246 #-#-# translate crowdin quest_isabelle_piano_isabelle_09578a47:
 msgid "[_isabelle_s_laughing_] What does that even mean?"
@@ -508,7 +508,7 @@ msgstr "[_isabelle_s_confident_] Compréhension. Plomb le chemin !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:262 #-#-# translate crowdin quest_isabelle_piano_isabelle_e7b8e5ac:
 msgid "[_mc_] Have you ever heard the Nocturnes played on bagpipes?"
-msgstr "[_mc_] Avez-vous déjà entendu le Nocturnes joué sur des cornemuse ?"
+msgstr "[_mc_] Avez-vous déjà entendu les Nocturnes joués à la cornemuse ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:264 #-#-# translate crowdin quest_isabelle_piano_isabelle_208d816d:
 msgid "[_isabelle_s_blush_] That would be the dream..."
@@ -716,7 +716,7 @@ msgstr "[_isabelle_s_blush_] C'est vrai talent !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:379 #-#-# translate crowdin quest_isabelle_piano_score_interact_ea98db5c:
 msgid "[_mc_] Did you like it, though?"
-msgstr "[_mc_] Est-ce que vous l'aimais ?"
+msgstr "[_mc_] Vous l'avez aimé ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:381 #-#-# translate crowdin quest_isabelle_piano_score_interact_3c4a1d1b:
 msgid "[_isabelle_s_blush_] Are you kidding me? I loved it!"
@@ -902,7 +902,7 @@ msgstr "[_isabelle_s_concerned_] En rétrospective, c'était une idée stupide .
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:469 #-#-# translate crowdin quest_isabelle_piano_score_interact_d06a8408:
 msgid "[_mc_] It's not your fault at all."
-msgstr "[_mc_] Ce n'est pas de votre faute."
+msgstr "[_mc_] Ce n'est pas du tout ta faute."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:470 #-#-# translate crowdin quest_isabelle_piano_score_interact_bfc505bb:
 msgid "[_isabelle_s_sad_] Thanks, but I still feel bad..."
@@ -1222,7 +1222,7 @@ msgstr "[_isabelle_s_piano_sex_kiss_] Un cône ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:648 #-#-# translate crowdin quest_isabelle_piano_sex_46f7e013:
 msgid "[_mc_] Yes... sometimes you have to risk it for the scone."
-msgstr "[_mc_] Oui ... parfois vous devez le risquer pour le scone."
+msgstr "[Oui... il faut parfois prendre des risques pour le scone."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:649 #-#-# translate crowdin quest_isabelle_piano_sex_e89b661b:
 msgid "[_isabelle_s_piano_sex_strip1_] You're so right..."
