@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 17:21\n"
+"PO-Revision-Date: 2024-02-15 11:19\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:3 #-#-# translate crowdin kate_quest_search_for_nurse_start_54d5c121:
 msgid "[_kate_s_neutral_] Excuse you. Why are you standing so near me?"
@@ -26,7 +26,7 @@ msgstr "[_mc_] Désolé, je ne voulais pas dire."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:11 #-#-# translate crowdin kate_quest_search_for_nurse_start_3f46a8ee:
 msgid "[_kate_s_smile_] Well, at least you know it's appropriate to apologize."
-msgstr "[_kate_s_smile_] Bien, au moins vous savez qu'il est approprié de présenter des excuses."
+msgstr "[_kate_s_Souriez_] Bien, au moins vous savez qu'il est approprié de présenter des excuses."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:12 #-#-# translate crowdin kate_quest_search_for_nurse_start_969c380b:
 msgid "[_kate_s_neutral_] I think we need to start with a ten feet rule."
@@ -78,7 +78,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:35 #-#-# translate crowdin kate_quest_search_for_nurse_start_abab4804:
 msgid "[_kate_s_smile_] Wait, you're serious?"
-msgstr "[_kate_s_smile_] Attends, tu es sérieux ?"
+msgstr "[_kate_s_Souriez_] Attends, tu es sérieux ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:36 #-#-# translate crowdin kate_quest_search_for_nurse_start_ced09b2a:
 msgid "[_mc_] I guess?"
@@ -102,7 +102,7 @@ msgstr "Peut-être que les choses n'ont pas changé autant que je le pensais."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:41 #-#-# translate crowdin kate_quest_search_for_nurse_start_e2433029:
 msgid "[_kate_s_smile_] Anyway, have you seen the [nurse]? She's supposed to meet with me."
-msgstr "[_kate_s_smile_] En tout cas, avez-vous vu le [nurse] ? Elle est supposée rencontrer avec moi."
+msgstr "[_kate_s_Souriez_] En tout cas, avez-vous vu le [nurse] ? Elle est supposée rencontrer avec moi."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:42 #-#-# translate crowdin kate_quest_search_for_nurse_start_e2e5f5f2:
 msgid "[_mc_] I saw her earlier, not sure where she is now..."
@@ -162,7 +162,7 @@ msgstr "[_flora_s_excited_] Je vous ai cherché, [mc]!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:63 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_fb59feb5:
 msgid "[_mc_] Funny. I've been looking for you."
-msgstr "[_mc_] Funny. Je vous ai cherché."
+msgstr "[_mc_] C'est drôle. Je vous ai cherché."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:64 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_d98775af:
 msgid "[_flora_s_neutral_] Well, I need you to answer another question."
@@ -426,11 +426,11 @@ msgstr "[_isabelle_s_laughing_] Je pense qu'il se résume à vos perspectives de
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:168 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_91e1df15:
 msgid "[_isabelle_s_smile_] Someone who has nothing can still feel all right."
-msgstr "[_isabelle_s_smile_] Quelqu'un qui n'a rien peut encore se sentir bien."
+msgstr "[_isabelle_s_Souriez_] Quelqu'un qui n'a rien peut encore se sentir bien."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:169 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_c0972998:
 msgid "[_isabelle_s_smile_left_] And someone who hasn't had a bother their entire life and lives on a shrimp sandwich can still feel horrible."
-msgstr "[_isabelle_s_smile_left_] Et quelqu'un qui n'a pas eu toute sa vie et qui vit sur un sandwich à la crevette peut encore se sentir horrible."
+msgstr "[_isabelle_s_Souriez_left_] Et quelqu'un qui n'a pas eu toute sa vie et qui vit sur un sandwich à la crevette peut encore se sentir horrible."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:170 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_b6b85b70:
 msgid "[_isabelle_s_confident_] It's all about attitude."
@@ -522,7 +522,7 @@ msgstr "[_kate_s_confident_] Je ne pense pas non plus."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:214 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_80455923:
 msgid "[_kate_s_smile_] I think she was being naughty."
-msgstr "[_kate_s_smile_] Je pense qu'elle était méchante."
+msgstr "[_kate_s_Souriez_] Je pense qu'elle était méchante."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:215 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_fd6f33e0:
 msgid "[_mc_] I think so too."
@@ -558,11 +558,11 @@ msgstr "[_mc_] Eh bien, elle est venue volontairement quand je l'ai trouvée."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:228 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_58be440c:
 msgid "[_kate_s_smile_] I guess good behavior should be rewarded."
-msgstr "[_kate_s_smile_] Je suppose que le bon comportement devrait être récompensé."
+msgstr "[_kate_s_Souriez_] Je suppose que le bon comportement devrait être récompensé."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:229 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_dbbb8e1b:
 msgid "[_kate_s_smile_] I'll keep that in mind for later."
-msgstr "[_kate_s_smile_] Je garderai cela à l'esprit plus tard."
+msgstr "[_kate_s_Souriez_] Je garderai cela à l'esprit plus tard."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:230 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_74c4e61f:
 msgid "[_mc_] What are you going to do?"
@@ -682,7 +682,7 @@ msgstr "[_kate_s_laughing_] Ok, êtes-vous prêt pour votre physique ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:276 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_a76e4c44:
 msgid "[_nurse_s_surprised_] N-now?!"
-msgstr "[_nurse_s_surprised_] N-maintenant ? !"
+msgstr "[_nurse_s_surprised_] N-maintenant ?!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:277 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_479f8f34:
 msgid "[_kate_s_eyeroll_] Why do you think we're here?"
@@ -806,7 +806,7 @@ msgstr "[_kate_] C'est une condition, d'accord."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:315 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_565c3ef1:
 msgid "[_kate_] I find it disgusting that her pussy is drooling at the thought of a student giving her an exam."
-msgstr "[_kate_] Je trouve dégoûtant que sa chatte se droit à la pensée d'un étudiant qui lui donne un examen."
+msgstr "[_kate_] Je trouve dégoûtant que sa chatte bave à l'idée qu'un étudiant lui fasse passer un examen."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:316 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_a75da1e7:
 msgid "[_kate_s_AnalExam02_] It's rather inappropriate, isn't it?"
@@ -870,7 +870,7 @@ msgstr "Mais elle semble la prendre comme un champion. On dirait presque qu'elle
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:334 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_afa71ffb:
 msgid "[_kate_] Stop trying to squeeze out my fingers."
-msgstr "[_kate_] Arrme d'essayer de serrer mes doigts."
+msgstr "[_kate_] Arrêtez d'essayer de presser mes doigts."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:335 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_4dbc1a16:
 msgid "[_nurse_] Sorry..."
@@ -1138,7 +1138,7 @@ msgstr "[_mc_] Je pense que nous devrions lui donner une lollipop et l'appeler u
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:445 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_fe2a309b:
 msgid "[_kate_] She has been very good, but she definitely won't be getting any more lollipops today."
-msgstr "[_kate_] Elle a été très bonne, mais elle n'aura certainement plus de lollipops aujourd'hui."
+msgstr "[_kate_] Elle a été très sage, mais elle n'aura certainement pas d'autres sucettes aujourd'hui."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:446 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_3134cdab:
 msgid "[_kate_] In fact, I think you should hold on to this one so she doesn't get any ideas."
