@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 17:39\n"
+"PO-Revision-Date: 2024-02-15 22:00\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:3 #-#-# translate crowdin flora_quest_back_to_school_special_190f85fb:
 msgid "[_flora_s_angry_] Breakfast!"
@@ -66,7 +66,7 @@ msgstr "[_mc_] Faites votre propre petit déjeuner !"
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:24 #-#-# translate crowdin flora_quest_back_to_school_special_3e87bf8d:
 msgid "[_flora_s_concerned_] Selfish as always. Whatever, fine."
-msgstr "[_flora_s_concerned_] Selfish comme toujours. Quoi qu'il en soit, bien."
+msgstr "[_flora_s_concerned_] Égoïste comme toujours. Peu importe, très bien."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:29 #-#-# translate crowdin flora_quest_back_to_school_special_8a6955c3:
 msgid "[_mc_] [jo] said that you should do it from now on."
@@ -150,7 +150,7 @@ msgstr "[_mc_] Rien !"
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:53 #-#-# translate crowdin flora_quest_back_to_school_special_9171fc97:
 msgid "[_flora_s_kitchen_cereals_1_] Ugh, perv."
-msgstr "[_flora_s_kitchen_cereals_1_] Ugh, perv."
+msgstr "[_flora_s_kitchen_cereals_1_] Moche, pervers."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:56 #-#-# translate crowdin flora_quest_back_to_school_special_4e57da00:
 msgid "[_mc_] Looked like you needed some help reaching..."
@@ -282,11 +282,11 @@ msgstr "[_flora_s_neutral_] Ok, prochaine question !"
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:104 #-#-# translate crowdin flora_quest_back_to_school_special_7724cc90:
 msgid "[_flora_s_neutral_] For the last few months you've been sacrificing goats in the company server room."
-msgstr "[_flora_s_neutral_] Au cours des derniers mois, vous avez sacrié des chèvres dans la salle des serveurs de l'entreprise."
+msgstr "[_flora_s_neutral_] Depuis quelques mois, vous sacrifiez des chèvres dans la salle des serveurs de l'entreprise."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:105 #-#-# translate crowdin flora_quest_back_to_school_special_067bc06d:
 msgid "[_flora_s_neutral_] Your boss is on the way over, shouting, \"What the hell do you think you're doing?\""
-msgstr "[_flora_s_neutral_] Votre patron est en route, en criant: \"Que penses-tu que tu fais ?\""
+msgstr "[_flora_s_neutral_] Votre patron arrive en criant : \"Qu'est-ce que vous croyez faire ?\""
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:106 #-#-# translate crowdin flora_quest_back_to_school_special_e5e423c8:
 msgid "[_flora_s_neutral_] What's your response?"
@@ -442,7 +442,7 @@ msgstr "Quoi qu'il en soit, avec ma chance, je ne le ferai probablement pas."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:176 #-#-# translate crowdin flora_quest_back_to_school_special_9934422b:
 msgid "[_flora_s_sarcastic_] Coward."
-msgstr "[_flora_s_sarcastic_] Coward."
+msgstr "[_flora_s_sarcastic_] quoi."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:177 #-#-# translate crowdin flora_quest_back_to_school_special_9b482a8a:
 msgid "Can't ever win with her..."
@@ -602,7 +602,7 @@ msgstr "[_mc_] Quelqu'un de mignon et de gentil."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:252 #-#-# translate crowdin flora_quest_back_to_school_special_1b6acee7:
 msgid "[_flora_s_sarcastic_] How cliche."
-msgstr "[_flora_s_sarcastic_] How cliche."
+msgstr "[_flora_s_sarcastic_] Quel cliché ."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:258 #-#-# translate crowdin flora_quest_back_to_school_special_bdaccea5:
 msgid "[_mc_] Someone smart and sophisticated."
@@ -654,7 +654,7 @@ msgstr "[_mc_] Hé, les mendiants ne peuvent pas être des chœurs."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:282 #-#-# translate crowdin flora_quest_back_to_school_special_2076db9b:
 msgid "[_flora_s_neutral_] Okay, that's all. My friends will pick me up soon, so I have to go and get ready. Don't bother me."
-msgstr "[_flora_s_neutral_] Ok, c'est tout. Mes amis vont me chercher bientôt, donc je dois y aller et me préparer. Ne me déranger pas."
+msgstr "[_flora_s_neutral_] Ok, c'est tout. Mes amis vont bientôt venir me chercher, alors je dois aller me préparer. Ne me dérange pas."
 
 # game/1000_base_game/game/characters/flora/q_back_to_school_special.rpy:285 #-#-# translate crowdin flora_quest_back_to_school_special_7e076c04:
 msgid "All right. So, this is what it's like being back in high school again. [flora] is clearly unaware that we've both reverted to our younger selves."
