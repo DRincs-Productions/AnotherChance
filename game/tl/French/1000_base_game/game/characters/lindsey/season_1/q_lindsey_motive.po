@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:39\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:9 #-#-# translate crowdin quest_lindsey_motive_start_10b530a7:
 msgid "There's something about [lindsey]..."
@@ -820,7 +820,7 @@ msgstr "[_mc_] Désolé, ce composé chimique {i}... {/}"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:279 #-#-# translate crowdin quest_lindsey_motive_maxine_9ebd12c6:
 msgid "[_maxine_s_skeptical_] Side effects include dizziness, memory loss, and hypno-somnambulism.{space=-80}"
-msgstr "[_maxine_s_skeptical_] Les effets secondaires comprennent les étourdissements, la perte de mémoire et l'hypnosomnambulisme. {space=-80}"
+msgstr "[_maxine_s_skeptical_] Les effets secondaires comprennent les étourdissements, la perte de mémoire et l'hypno somnambulisme. {space=-80}"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:280 #-#-# translate crowdin quest_lindsey_motive_maxine_f30c76e8:
 msgid "[_mc_] Are you serious?"
@@ -832,7 +832,7 @@ msgstr "[_maxine_s_skeptical_] Absolument. La science n'est rien pour plaisanter
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:282 #-#-# translate crowdin quest_lindsey_motive_maxine_68aeb16c:
 msgid "[lindsey] didn't remember the shoe incident or stealing [isabelle]'s chocolate hearts..."
-msgstr "[lindsey] ne se souvient pas de l'incident de la chaussure ou du vol de coeurs de chocolat [isabelle]..."
+msgstr "[lindsey] ne se souvient pas de l'incident de la chaussure ou du vol de cœurs de chocolat [isabelle]..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:283 #-#-# translate crowdin quest_lindsey_motive_maxine_9e6a0048:
 msgid "But what the hell does hypno-somnambulism mean?"
@@ -980,7 +980,7 @@ msgstr "[_isabelle_s_concerned_] Cela semble sérieux. Je ferai de mon mieux."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:332 #-#-# translate crowdin quest_lindsey_motive_isabelle_9ce7bd26:
 msgid "[_mc_] Think back to the day your chocolate hearts were stolen."
-msgstr "[_mc_] Pensez au jour où vos coeurs de chocolat ont été volés."
+msgstr "[_mc_] Pensez au jour où vos cœurs de chocolat ont été volés."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:333 #-#-# translate crowdin quest_lindsey_motive_isabelle_f5cdf18c:
 msgid "[_mc_] You came in through the entrance hall, went to your locker, and put your purse and chocolate box in."
