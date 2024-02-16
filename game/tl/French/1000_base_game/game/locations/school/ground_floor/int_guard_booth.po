@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:41\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:88 #-#-# translate crowdin school_ground_floor_guard_booth_interact_default_c0f68e65:
 msgid "The [guard] seems to be asleep. "
@@ -238,7 +238,7 @@ msgstr "[_guard_] Ce n'est pas un magasin de pions."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:100
 msgid "?quest.the_key.started@|{image=mrsl contact_icon}|\"Yes!\""
-msgstr " ? quest.the_key.started @|{image = mrsl contact_icon}|\"Yes!\""
+msgstr "?quest.the_key.started@|{image=mrsl contact_icon}|\"Oui!\""
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:100
 msgid "\"No.\""
