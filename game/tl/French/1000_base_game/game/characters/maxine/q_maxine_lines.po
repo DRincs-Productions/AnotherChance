@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:40\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:3 #-#-# translate crowdin quest_maxine_lines_start_81141839:
 msgid "[maxine] always seems to be investigating something, and it's usually best not to ask any questions..."
@@ -490,7 +490,7 @@ msgstr "[_spinach_s_neutral_] Meow !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:152 #-#-# translate crowdin maxine_lines_locator_21cb3519:
 msgid "[_maxine_s_sad_] Spinach...?"
-msgstr "[_maxine_s_sad_] Spinach ... ?"
+msgstr "[_maxine_s_sad_] Epinards ...?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:154 #-#-# translate crowdin maxine_lines_locator_40f4e089:
 msgid "[_spinach_s_hearteyed_] Meow! Meow!"
