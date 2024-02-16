@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:42\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:2 #-#-# translate crowdin quest_jacklyn_sweets_start_9efa726c:
 msgid "[_guard_] ZzzZzzzzZzz..."
@@ -578,7 +578,7 @@ msgstr "Cela pourrait guérir mon insomnie, mais ce n'est pas exactement ce que 
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:219 #-#-# translate crowdin quest_jacklyn_sweets_inspiration_school_english_class_daf7daa8:
 msgid "{i}\"To Kill a Mockingjay — The Hunter's Guide to Ammunition\"{/}"
-msgstr "{i}\"To Kill a Mockingjay-The Hunter's Guide to Ammunition\" {/}"
+msgstr "{i}\"Pour tuer un Mockingjay — The Hunter's Guide à Ammunition\"{/}"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:220 #-#-# translate crowdin quest_jacklyn_sweets_inspiration_school_english_class_4ae0281a:
 msgid "Nah, better keep looking..."
@@ -914,7 +914,7 @@ msgstr "[_mc_] Que faites-vous exactement maintenant ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:352 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_ea58cda3:
 msgid "[_flora_s_annoyed_texting_] Texting [jo]..."
-msgstr "[_flora_s_annoyed_texting_] envoi de Sms à [jo]..."
+msgstr "[_flora_s_annoyed_texting_] envoi de sms à [jo]..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:353 #-#-# translate crowdin quest_jacklyn_sweets_bedroom_f406e84d:
 msgid "[_mc_] Hold on just a moment! I didn't say you couldn't borrow it!"
