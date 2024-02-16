@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:59\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_wet_floor_sign.rpy:39 #-#-# translate crowdin school_ground_floor_wet_floor_sign_interact_day1_take2_fe470614:
 msgid "It should say \"Caution: Ugly Reflection\" instead."
-msgstr "Il devrait dire \"Caution: Ugly Reflection\" à la place."
+msgstr "Il devrait dire \"Attention : Réflexion moche\" à la place."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_wet_floor_sign.rpy:40 #-#-# translate crowdin school_ground_floor_wet_floor_sign_interact_day1_take2_f9ef0d58:
 msgid "That's the real danger of wet floors."
