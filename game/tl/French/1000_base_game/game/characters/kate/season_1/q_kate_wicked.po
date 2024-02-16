@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:42\n"
+"PO-Revision-Date: 2024-02-16 14:57\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:20 #-#-# translate crowdin quest_kate_wicked_start_ccd3f5c7:
 msgid "[_kate_s_confident_] I thought I heard someone being noisy over here."
@@ -1162,7 +1162,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:510 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_1fa76c35:
 msgid "Fuck, did I just quote Cinderella?"
-msgstr "Fuck, je viens juste de citer Cendrillon ?"
+msgstr "Merde, je viens juste de citer Cendrillon ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:511 #-#-# translate crowdin quest_kate_wicked_school_key_music_class_2ff34fe2:
 msgid "I never went to any parties last time around... not that I was ever invited."
@@ -1222,7 +1222,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:539 #-#-# translate crowdin quest_kate_wicked_costume_music_class_1fa76c35:
 msgid "Fuck, did I just quote Cinderella?"
-msgstr "Fuck, je viens juste de citer Cendrillon ?"
+msgstr "Merde, je viens juste de citer Cendrillon ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:543 #-#-# translate crowdin quest_kate_wicked_costume_locked_3043db92:
 msgid "Locked."
@@ -4647,7 +4647,7 @@ msgstr "\" Oubliez l'adhésion\n"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:763
 msgid "?mc.owned_item('rock')@|{image=items rock}|\"Well, I just happen\n"
 "to have one for you.\""
-msgstr " ? mc.owned_item ('rock') @|{image = éléments rock}|\"Eh bien, je viens juste de se produire\n"
+msgstr "?mc.owned_item('rock')@|{image=items rock}|\"Eh bien, je viens juste de se produire\n"
 "pour en avoir un pour vous.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:763
@@ -4674,11 +4674,11 @@ msgstr "\"A la seconde pensée, je vais aller avec ASS...\" {space = -10}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:836
 msgid "\"Bouncy.\""
-msgstr "\"Bouncy.\""
+msgstr "\"Rebondis.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:836
 msgid "\"Flat.\""
-msgstr "\"Flat\"."
+msgstr "\"Plat.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:836
 msgid "\"What about medium?\n"
@@ -4723,8 +4723,8 @@ msgstr "Refuser"
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1500
 msgid "?quest.isabelle_red['sneaked_a_peek']@|{image=kate_wicked_eating_out}|\"Your lust\n"
 "for revenge...\""
-msgstr " ? quest.isabelle_red [ 'éternaked_a_peek'] @|{image=kate_wicked_eating_out}|\"Your lust\n"
-"for vengeance ...\""
+msgstr "?quest.isabelle_red['sneaked_a_peek']@|{image=kate_wicked_eating_out}|\"Votre désir\n"
+"pour la vengeance...\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1500
 msgid "\"Your fears...\""
@@ -4732,7 +4732,7 @@ msgstr "\"Vos peurs ...\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1500
 msgid "?quest.kate_desire['bent_over']@|{image=kate_wicked_spanking}|\"Your pride...\""
-msgstr " ? quest.kate_désir [ 'bent_over'] @|{image=kate_wicked_spanking}|\"Votre fierté ...\""
+msgstr "?quest.kate_desire['bent_over']@|{image=kate_wicked_spanking}|\"Votre fierté ...\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1636
 msgid "\"That heart of yours is pure as snow...\""
@@ -4740,7 +4740,7 @@ msgstr "\"Ce cœur de la tienne est pur comme la neige ...\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1636
 msgid "?lindsey['romance_disabled']@|{image=lindsey contact_icon_evil}|\"Your mind...\""
-msgstr " ? lindsey ['romance_disabled'] @|{image=lindsey contact_icon_evil}|\"Votre esprit ...\""
+msgstr "?lindsey['romance_disabled']@|{image=lindsey contact_icon_evil}|\"Votre esprit ...\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1636
 msgid "\"Your sin is that you care too much...\""
