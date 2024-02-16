@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 13:12\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:2 #-#-# translate crowdin jacklyn_statement_text_same_room_9bf66073:
 msgid "As much as I'd like to see [jacklyn]'s face when I text her, I don't want her to see mine."
@@ -3174,7 +3174,7 @@ msgstr "?quest.jacklyn_statement['salad_made']@|{image= items croutons}|\"Ouais,
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:624
 msgid "?quest.jacklyn_statement['problem_for_later']@|\"Not really... I thought we'd figure it out once you got here.\""
-msgstr " ? quest.jacklyn_statement [ 'problem_for_later'] @| \" Pas vraiment ... Je pensais que nous le verrions une fois que vous êtes arrivé ici. \""
+msgstr "?quest.jacklyn_statement['problem_for_later']@|\"Pas vraiment ... Je pensais que nous le verrions une fois que vous êtes arrivé ici. \""
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:648
 msgid "\"If that's what you want...\""
@@ -3214,13 +3214,13 @@ msgstr "\"Comment vous avez ouvert les yeux sur ce que signifie être un artiste
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:865
 msgid "?jacklyn.lust>=8@[jacklyn.lust]/8|{image= jacklyn contact_icon}|{image=stats lust_2}|\"That I want to put my dick in your ass right now.\""
-msgstr "?jacklyn.lust>=8@[jacklyn.lust]/8|{image= jacklyn contact_icon}|{image=stats lust_ 2}|\"That I want to put my dick in your ass right now.\""
+msgstr "?jacklyn.lust>=8@[jacklyn.lust]/8|{image= jacklyn contact_icon}|{image=stats lust_ 2}|\"That I want to put my dick in your ass right Maintenant.\""
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:865
 msgid "?quest.jacklyn_statement['clothes'] == 'punk'@|{image=jacklyn avatar choker}|\"That I want you to fuck me.\""
-msgstr " ? quest.jacklyn_statement ['vêtements'] == 'punk'@|{image=jacklyn avatar choker}|\"Que je veux que vous me baisez.\""
+msgstr "?quest.jacklyn_statement['clothes'] == 'punk'@|{image=jacklyn avatar choker}|\"Que je veux que vous me baisez.\""
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1086
 msgid "Fill her ass with cum"
-msgstr "Remplissez le cul avec cum."
+msgstr "Remplir son cul avec du foutre"
 
