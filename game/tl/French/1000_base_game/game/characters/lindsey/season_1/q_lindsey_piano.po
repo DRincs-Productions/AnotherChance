@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:39\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:6 #-#-# translate crowdin quest_lindsey_piano_start_c8d9e68a:
 msgid "[_mc_] Hey, [lindsey]!"
@@ -2318,7 +2318,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:985 #-#-# translate crowdin quest_lindsey_piano_lindsey_talk_73015618:
 msgid "Fuck it. Just got to do it."
-msgstr "Fuck le. Il suffit de le faire."
+msgstr "Baise le. Il suffit de le faire."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:986 #-#-# translate crowdin quest_lindsey_piano_lindsey_talk_f651a355:
 msgid "Worst case, she'll make up some excuse and leave... Nothing I haven't seen before."
@@ -3850,7 +3850,7 @@ msgstr "[_lindsey_s_excited_album_] Oh, whoa ! Merci beaucoup !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:2103 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_0a33069c:
 msgid "Seeing [lindsey] happy makes my heart swell."
-msgstr "Voir [lindsey] heureux fait mon coeur gonfler."
+msgstr "Voir [lindsey] heureux fait mon cœur gonfler."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:2104 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_2bbe0d1f:
 msgid "She's so pure and innocent in her ways."
@@ -4030,11 +4030,11 @@ msgstr "Shake her"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:19
 msgid "?mc.owned_item('water_bottle')@|{image=items bottle water_bottle}|Splash her with water"
-msgstr " ? mc.owned_item ('water_bottle') @|{image = items bouteille water_bouteille}|Splash her avec de l'eau"
+msgstr "?mc.owned_item('water_bottle')@|{image=items bottle water_bottle}|L'éclabousser avec de l'eau"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:19
 msgid "?mc.owned_item('spray_water')@|{image=items bottle spray_water}|Splash her with water"
-msgstr " ? mc.owned_item ('spray_water') @|{image = items bouteille spray_water}|Splash her avec de l'eau"
+msgstr "?mc.owned_item('spray_water')@|{image=items bottle spray_water}|L'éclabousser avec de l'eau"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:19
 msgid "Get help"
@@ -4067,12 +4067,12 @@ msgstr "Jouer quelque chose de rapide mais sombre"
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:163
 msgid "?not quest.isabelle_stolen['lindsey_slaped']@|{image=lindsey_piano_no_slap}|Play something exciting\n"
 "but sweet"
-msgstr " ? non quest.isabelle_volé [ 'lindsey_slaped'] @|{image=lindsey_piano_no_slap}|Jouez quelque chose de passionnant\n"
-"mais sucré"
+msgstr "?not quest.isabelle_stolen['lindsey_slaped']@|{image=lindsey_piano_no_slap}|Jouez quelque chose de passionnant\n"
+"mais doux"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:191
 msgid "?not quest.lindsey_piano['failed']@|\"I do need more practice.\""
-msgstr " ? pas quest.lindsey_piano [ 'échoua'] @| \"J'ai besoin de plus de pratique.\""
+msgstr "?not quest.lindsey_piano['failed']@|\"J'ai besoin de plus de pratique.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:191
 msgid "\"Maybe you can show us how it's done, [kate]?\"{space=-55}"
@@ -4168,7 +4168,7 @@ msgstr "\"Elle a tout à fait raison.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:735
 msgid "?not quest.lindsey_piano['failed']@|\"I've always found you a bit one-dimensional as a person.\""
-msgstr " ? pas quest.lindsey_piano [ 'failed''@| \"Je vous ai toujours trouvé un peu unidimensionnel en tant que personne.\""
+msgstr "?not quest.lindsey_piano['failed']@|\"Je vous ai toujours trouvé un peu unidimensionnel en tant que personne.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:735
 msgid "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|\"I guess I figured you were more into modern electro and dance music?\""
