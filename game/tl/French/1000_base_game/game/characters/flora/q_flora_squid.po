@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:00\n"
+"PO-Revision-Date: 2024-02-16 11:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:13 #-#-# translate crowdin quest_flora_squid_start_3779c151:
 msgid "[_mc_] Hey, [flora]? Have you seen my electric toothbrush?"
@@ -498,7 +498,7 @@ msgstr "[flore] s'est-elle finalement transformée en escargot ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:172 #-#-# translate crowdin quest_flora_squid_trail_hall_15288f93:
 msgid "I knew I shouldn't have put that slug in her milk when we were little...{space=-20}"
-msgstr "Je savais que je n'aurais pas dû mettre cette salope dans son lait quand on était little...{space=-20}"
+msgstr "Je savais que je n'aurais pas dû mettre cette salope dans son lait quand on était petits...{space=-20}"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:177 #-#-# translate crowdin quest_flora_squid_trail_kitchen_684235aa:
 msgid "Hmm... the trail leads out the door..."
@@ -1054,7 +1054,7 @@ msgstr "[_mc_] Vous n'êtes pas vieux !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:404 #-#-# translate crowdin quest_flora_squid_wait_mrsl_a3bce872:
 msgid "[_mrsl_s_flirty_] You little charmer..."
-msgstr "[_mrsl_s_flirty_] You little charmer ..."
+msgstr "[_mrsl_s_flirty_] Petit charmeur..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:405 #-#-# translate crowdin quest_flora_squid_wait_mrsl_d61babb8:
 msgid "[_mrsl_s_flirty_] You make me miss the old days."
@@ -2186,7 +2186,7 @@ msgstr "[_flora_s_embarrassed_vines_] Aide !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:864 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_2442a0a9:
 msgid "Fuck, what do I do?"
-msgstr "Fuck, qu'est-ce que je fais ?"
+msgstr "Merde, qu'est-ce que je fais ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:865 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_137b781d:
 msgid "I can't just chop at [flora]. She'll get hurt."
@@ -3190,7 +3190,7 @@ msgstr "Ses yeux malicieux me regardant vers moi ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1502 #-#-# translate crowdin quest_flora_squid_shower_0888c96e:
 msgid "Fuck me, I can't!"
-msgstr "Fuck-moi, je ne peux pas !"
+msgstr "Baise-moi, je ne peux pas !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1503 #-#-# translate crowdin quest_flora_squid_shower_683a7764:
 msgid "[_mc_] [flora]! W-what, hnngh.... are you doing?"
@@ -3479,16 +3479,16 @@ msgstr "Oui, c'est bien. C'est sûr."
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:40
 msgid "?not quest.jacklyn_statement['ending']@|\"Well, I did go with her, but\n"
 "nothing happened.\""
-msgstr " ? non quest.jacklyn_statement [ 'ending'] @| \"Eh bien, je l'ai fait avec elle, mais\n"
+msgstr "?not quest.jacklyn_statement['ending']@|\"Eh bien, je l'ai fait avec elle, mais\n"
 "rien ne s'est passé.\""
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:40
 msgid "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_pegging}|\"Are you sure about that?\""
-msgstr " ? quest.jacklyn_statement ['ending'] in ('anal','pegging') @|{image=flora_squid_pegging}|\"Etes-vous sûr de cela ?\""
+msgstr "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_pegging}|\"Etes-vous sûr de cela ?\""
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:40
 msgid "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_anal}|\"Are you sure about that?\""
-msgstr " ? quest.jacklyn_statement ['ending'] in ('anal','pegging') @|{image=flora_squid_anal}|\"Etes-vous sûr de cela ?\""
+msgstr "?quest.jacklyn_statement['ending'] in ('anal','pegging')@|{image=flora_squid_anal}|\"Etes-vous sûr de cela ?\""
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:154
 msgid "What time is it?"
@@ -3500,11 +3500,11 @@ msgstr "Temps de veille"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:154
 msgid "Brooding time"
-msgstr "Heure de Brooding"
+msgstr "Délai d'écoulement"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:195
 msgid "?quest.flora_cooking_chilli.finished and quest.flora_cooking_chilli['distraction_method'] and not ('love11' in game.unlocked_stat_perks or 'lust11' in game.unlocked_stat_perks)@|{image=flora_squid_pepelepsi}|\"Did you have another Pepelepsi-moment?\""
-msgstr " ? quest.flora_cooking_chilli.finished and quest.flora_cooking_chilli ['distraction_method'] et non ('love11'dans gam.unlocked_stat_perks ou'lust11'dans gam.unlocked_stat_perks) @|{image=flora_squid_pepelepsi}|\"Avez-vous un autre moment Pepelepsi-moment ?\""
+msgstr "?quest.flora_cooking_chilli.finished and quest.flora_cooking_chilli['distraction_method'] and not ('love11' in game.unlocked_stat_perks or 'lust11' in game.unlocked_stat_perks)@|{image=flora_squid_pepelepsi}|\"Avez-vous un autre moment Pepelepsi-moment ?\""
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:195
 msgid "\"Why are you wet?\""
@@ -3517,8 +3517,8 @@ msgstr "\"Vous vous transformez en limace ?\""
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:195
 msgid "?quest.flora_bonsai.finished and quest.flora_bonsai['hug']@|{image=flora_squid_hug}|\"You look like you need\n"
 "another hug.\""
-msgstr " ? quest.flora_bonsai.finished and quest.flora_bonsai [ 'hug'] @|{image=flora_squid_hug}|\"You look like you need\n"
-"another hug.\""
+msgstr "?quest.flora_bonsai.finished and quest.flora_bonsai['hug']@|{image=flora_squid_hug}|\"Vous avez l'air d'avoir besoin\n"
+"un autre câlin.\""
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:346
 msgid "\"Sorry, I'm not risking that.\""
