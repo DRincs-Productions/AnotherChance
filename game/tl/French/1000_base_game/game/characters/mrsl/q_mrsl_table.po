@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:40\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
@@ -1790,7 +1790,7 @@ msgstr "[_mc_] Aaaaah !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:878 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_f46a4de9:
 msgid "Fuck me... just another nightmare..."
-msgstr "Fuck-moi ... juste un autre cauchemar ..."
+msgstr "Baise-moi ... juste un autre cauchemar ..."
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:879 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_1485aa20:
 msgid "It felt so real, though..."
@@ -2238,7 +2238,7 @@ msgstr "\"Juste rêver ...\""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:13
 msgid "?not quest.poolside_story['text']@|{image=mrsl_table_mrsl_tryout}|\"I wanted to ask you about the swim team tryout.\""
-msgstr " ? quest.poolside_story [ 'text'] @|{image=mrsl_table_mrsl_tryout}|\"Je voulais vous poser la question de l'équipe de natation.\""
+msgstr "?not quest.poolside_story['text']@|{image=mrsl_table_mrsl_tryout}|\"Je voulais vous poser la question de l'équipe de natation.\""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:13
 msgid "?'love14' in game.unlocked_stat_perks@|{image=mrsl_table_kate_demon}|\"Do you think [kate] is evil?\""
