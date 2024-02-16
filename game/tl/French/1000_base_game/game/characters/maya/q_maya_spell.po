@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:42\n"
+"PO-Revision-Date: 2024-02-16 16:37\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:3 #-#-# translate crowdin quest_maya_spell_start_d75d1eb1:
 msgid "[_mc_] Hey, [maya]! Guess what?"
@@ -18,7 +18,7 @@ msgstr "[_mc_] Hé, [maya] ! Devine quoi ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:4 #-#-# translate crowdin quest_maya_spell_start_8fa72faf:
 msgid "[_maya_s_bored_] No."
-msgstr "[Non."
+msgstr "[_maya_s_bored_] Non."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:5 #-#-# translate crowdin quest_maya_spell_start_d9af6597:
 msgid "[_mc_] No?"
@@ -26,11 +26,11 @@ msgstr "[_mc_] Non ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:6 #-#-# translate crowdin quest_maya_spell_start_af15b529:
 msgid "[_maya_s_bored_] I'll say it again in Spanish."
-msgstr "[Je vais le redire en espagnol."
+msgstr "[_maya_s_bored_] Je vais le redire en espagnol."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:7 #-#-# translate crowdin quest_maya_spell_start_8fa72faf_1:
 msgid "[_maya_s_bored_] No."
-msgstr "[Non."
+msgstr "[_maya_s_bored_] Non."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:8 #-#-# translate crowdin quest_maya_spell_start_12a5fb3b:
 msgid "[_mc_] Fine, don't guess."
@@ -38,11 +38,11 @@ msgstr "[_mc_] Bien, ne devinez pas."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:9 #-#-# translate crowdin quest_maya_spell_start_edbb2818:
 msgid "[_maya_s_bored_] I won't."
-msgstr "[Je ne le ferai pas."
+msgstr "[_maya_s_bored_] Je ne le ferai pas."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:10 #-#-# translate crowdin quest_maya_spell_start_2fa1c286:
 msgid "[_maya_s_bored_] Even though the guessing game is my favorite."
-msgstr "[Même si le jeu des devinettes est mon préféré."
+msgstr "[_maya_s_bored_] Même si le jeu des devinettes est mon préféré."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:11 #-#-# translate crowdin quest_maya_spell_start_9d9b865d:
 msgid "[_mc_] Liar."
@@ -50,11 +50,11 @@ msgstr "[_mc_] Menteur."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:12 #-#-# translate crowdin quest_maya_spell_start_7e76471e:
 msgid "[_maya_s_cringe_] I could have days left to live. Days!"
-msgstr "[Il pourrait me rester des jours à vivre. Des jours !"
+msgstr "[_maya_s_cringe_] Il pourrait me rester des jours à vivre. Des jours !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:13 #-#-# translate crowdin quest_maya_spell_start_9950d3ad:
 msgid "[_maya_s_cringe_] How could you waste my precious time like this?"
-msgstr "[Comment peux-tu me faire perdre mon temps précieux comme ça ?"
+msgstr "[_maya_s_cringe_] Comment peux-tu me faire perdre mon temps précieux comme ça ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:14 #-#-# translate crowdin quest_maya_spell_start_3e0e25b0:
 msgid "[_mc_] You're not going to die, okay?"
@@ -62,15 +62,15 @@ msgstr "[_mc_] Vous n'allez pas mourir, d'accord ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:15 #-#-# translate crowdin quest_maya_spell_start_c4a3272a:
 msgid "[_maya_s_dramatic_] I don't know, [mc]."
-msgstr "[Je ne sais pas, [mc]."
+msgstr "[_maya_s_dramatic_] Je ne sais pas, [mc]."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:16 #-#-# translate crowdin quest_maya_spell_start_d538c01d:
 msgid "[_maya_s_dramatic_] Spontaneous fires... oversalted cafeteria food... crossing the street without looking both ways..."
-msgstr "[Les incendies spontanés... la nourriture trop salée de la cafétéria... traverser la rue sans regarder des deux côtés..."
+msgstr "[_maya_s_dramatic_] Les incendies spontanés... la nourriture trop salée de la cafétéria... traverser la rue sans regarder des deux côtés..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:17 #-#-# translate crowdin quest_maya_spell_start_69ba74b1:
 msgid "[_maya_s_dramatic_] My days seem to be numbered."
-msgstr "[Mes jours semblent comptés."
+msgstr "[_maya_s_dramatic_] Mes jours semblent comptés."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:20 #-#-# translate crowdin quest_maya_spell_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -86,7 +86,7 @@ msgstr "[_maya_s_sarcastique_] Bien sûr ! L'écoute est ce que je préfère."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:27 #-#-# translate crowdin quest_maya_spell_start_689159de:
 msgid "[_maya_s_sarcastic_] Right after Monday mornings and STDs, of course."
-msgstr "[Juste après les lundis matin et les MST, bien sûr."
+msgstr "[_maya_s_sarcastic_] Juste après les lundis matin et les MST, bien sûr."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:28 #-#-# translate crowdin quest_maya_spell_start_8c286913:
 msgid "[_mc_] Mm-hmm."
@@ -114,7 +114,7 @@ msgstr "[_maya_s_dramatique_] Oh, calme-toi, [mc]."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:41 #-#-# translate crowdin quest_maya_spell_start_e63819c0:
 msgid "[_maya_s_dramatic_] It's not like anyone has died from a little fire."
-msgstr "[Ce n'est pas comme si quelqu'un était mort à cause d'un petit feu."
+msgstr "[_maya_s_dramatic_] Ce n'est pas comme si quelqu'un était mort à cause d'un petit feu."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:42 #-#-# translate crowdin quest_maya_spell_start_c1c95d6f:
 msgid "[_mc_] I mean—"
@@ -122,7 +122,7 @@ msgstr "[_mc_] Je veux dire..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:43 #-#-# translate crowdin quest_maya_spell_start_e9763371:
 msgid "[_maya_s_sarcastic_] Big fires, on the other hand..."
-msgstr "[Les grands incendies, en revanche..."
+msgstr "[_maya_s_sarcastic_] Les grands incendies, en revanche..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:44 #-#-# translate crowdin quest_maya_spell_start_2b35b6fe:
 msgid "[_mc_] ..."
@@ -134,7 +134,7 @@ msgstr "[_mc_] Quoi qu'il en soit, j'ai quelque chose pour vous."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:46 #-#-# translate crowdin quest_maya_spell_start_d2ec235f:
 msgid "[_maya_s_flirty_] Oh? The last time I heard that, I was left bitterly disappointed next to a snoring boy."
-msgstr "[La dernière fois que j'ai entendu ça, j'ai été amèrement déçue à côté d'un garçon qui ronflait."
+msgstr "[_maya_s_flirty_] La dernière fois que j'ai entendu ça, j'ai été amèrement déçue à côté d'un garçon qui ronflait."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:47 #-#-# translate crowdin quest_maya_spell_start_00b89ba2:
 msgid "[_mc_] Very funny. But you won't be this time."
@@ -142,7 +142,7 @@ msgstr "[_mc_] Très drôle. Mais vous ne le serez pas cette fois."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:48 #-#-# translate crowdin quest_maya_spell_start_1581f558:
 msgid "[_maya_s_kiss_] So self-assured! All right, big boy, let's see it."
-msgstr "[Si sûr de lui ! Très bien, mon grand, voyons ça."
+msgstr "[_maya_s_kiss_] Si sûr de lui ! Très bien, mon grand, voyons ça."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:49 #-#-# translate crowdin quest_maya_spell_start_ca78b376:
 msgid "[_mc_] I got a hold of a spellbook to see if we can fix your curse problem."
@@ -150,7 +150,7 @@ msgstr "[_mc_] J'ai mis la main sur un livre de sorts pour voir si nous pouvons 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:50 #-#-# translate crowdin quest_maya_spell_start_e045009d:
 msgid "[_maya_s_thinking_] A spellbook? Are you going to boil and toil my troubles?"
-msgstr "[Un livre de sorts ? Allez-vous faire bouillir et fatiguer mes ennuis ?"
+msgstr "[_maya_s_thinking_] Un livre de sorts ? Allez-vous faire bouillir et fatiguer mes ennuis ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:51 #-#-# translate crowdin quest_maya_spell_start_03070c68:
 msgid "[_mc_] Something like that. I was actually thinking a banishing spell."
@@ -166,11 +166,11 @@ msgstr "[_mc_] Il nous faut juste collecter des ingrédients pour le sort, puis 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:54 #-#-# translate crowdin quest_maya_spell_start_a8bc11bf:
 msgid "[_maya_s_smile_] Are you taking me on a real scavenger hunt?"
-msgstr "[Tu m'emmènes dans une vraie chasse au trésor ?"
+msgstr "[_maya_s_smile_] Tu m'emmènes dans une vraie chasse au trésor ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:55 #-#-# translate crowdin quest_maya_spell_start_4437ac5c:
 msgid "[_maya_s_smile_] A real adventure?"
-msgstr "[Une vraie aventure ?"
+msgstr "[_maya_s_smile_] Une vraie aventure ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:56 #-#-# translate crowdin quest_maya_spell_start_c963122f:
 msgid "[_mc_] Err, I guess?"
@@ -186,7 +186,7 @@ msgstr "[_mc_] Tu sais ce que c'est que le LARPing ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:59 #-#-# translate crowdin quest_maya_spell_start_a0772c4f:
 msgid "[_maya_s_smile_] Of course I do!"
-msgstr "[Bien sûr que oui !"
+msgstr "[_maya_s_smile_] Bien sûr que oui !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:60 #-#-# translate crowdin quest_maya_spell_start_a19629be:
 msgid "[_maya_s_annoyed_] Losers Acting Really Pathetic."
@@ -194,7 +194,7 @@ msgstr "[_maya_s_annoyed_] Les perdants agissent de façon vraiment pathétique.
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:61 #-#-# translate crowdin quest_maya_spell_start_8fbff600:
 msgid "Crap. I knew it was too good to be true."
-msgstr "C'est pas vrai. Je savais que c'était trop beau pour être vrai."
+msgstr "Ce n'est pas vrai. Je savais que c'était trop beau pour être vrai."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:62 #-#-# translate crowdin quest_maya_spell_start_459d2d41:
 msgid "[_maya_s_annoyed_] Not to wrinkle your wizard robes, but I'd rather not waste my time."
@@ -202,7 +202,7 @@ msgstr "[_maya_s_annoyed_] Je ne veux pas froisser votre robe de sorcier, mais j
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:63 #-#-# translate crowdin quest_maya_spell_start_826b174b:
 msgid "[_maya_s_eyeroll_] Besides, I haven't had an incident in a while. So, it's whatever."
-msgstr "[D'ailleurs, je n'ai pas eu d'incident depuis un moment. Alors, c'est comme tu veux."
+msgstr "[_maya_s_eyeroll_] D'ailleurs, je n'ai pas eu d'incident depuis un moment. Alors, c'est comme tu veux."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:64 #-#-# translate crowdin quest_maya_spell_start_c9a39c9d:
 msgid "Ugh, I can't believe I've been lugging around this spellbook for nothing!"
@@ -366,7 +366,7 @@ msgstr "{i}\"Vous devriez maintenant être guéri de toutes les frayeurs, hantis
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:120 #-#-# translate crowdin quest_maya_spell_book_hex_vex_and_texmex_f2aba002:
 msgid "{i}\"Turn to the next page for a queso dip that is simply to die for!\"{/}"
-msgstr "{i}\"Passez à la page suivante pour découvrir un queso dip qui est tout simplement à tomber !\"{/}"
+msgstr "{i}\"Passez à la page suivante pour découvrir un queso dip à tomber par terre!\"{/}"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:121 #-#-# translate crowdin quest_maya_spell_book_hex_vex_and_texmex_f63793f6:
 msgid "Well, that sounds easy enough..."
@@ -402,7 +402,7 @@ msgstr "Comment cela peut-il être si difficile ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:143 #-#-# translate crowdin quest_maya_spell_hair_kate_f50763a9:
 msgid "[_kate_s_skeptical_] What the hell are you staring at?"
-msgstr "[Qu'est-ce que vous regardez ?"
+msgstr "[_kate_s_skeptical_] Qu'est-ce que vous regardez ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:146 #-#-# translate crowdin quest_maya_spell_hair_kate_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -414,7 +414,7 @@ msgstr "[_mc_] Vous, évidemment."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:150 #-#-# translate crowdin quest_maya_spell_hair_kate_37dd15ca:
 msgid "[_kate_s_eyeroll_] Stop, then. Go perv on someone else."
-msgstr "[Arrêtez, alors. Va perverser quelqu'un d'autre."
+msgstr "[_kate_s_eyeroll_] Arrêtez, alors. Va perverser quelqu'un d'autre."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:151 #-#-# translate crowdin quest_maya_spell_hair_kate_f0600db4:
 msgid "[_mc_] Actually, I need something from you."
@@ -422,7 +422,7 @@ msgstr "[_mc_] En fait, j'ai besoin de quelque chose de vous."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:152 #-#-# translate crowdin quest_maya_spell_hair_kate_6226aedc:
 msgid "[_kate_s_excited_] As if I would give you anything."
-msgstr "[Comme si je voulais vous donner quelque chose."
+msgstr "[_kate_s_excited_] Comme si je voulais vous donner quelque chose."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:153 #-#-# translate crowdin quest_maya_spell_hair_kate_dbf17ed7:
 msgid "I guess I'll have to take what I want, like a real man."
@@ -442,15 +442,15 @@ msgstr "[_mc_] Je ne demande pas."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:158 #-#-# translate crowdin quest_maya_spell_hair_kate_bfbb44e3:
 msgid "[_kate_s_annoyed_] Look, if you don't—"
-msgstr "[Ecoutez, si vous ne..."
+msgstr "[_kate_s_annoyed_] Ecoutez, si vous ne..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:168 #-#-# translate crowdin quest_maya_spell_hair_kate_eb9c5c31:
 msgid "[_kate_s_embarrassed_] Ouch!"
-msgstr "[Aïe !"
+msgstr "[_kate_s_embarrassed_] Aïe !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:169 #-#-# translate crowdin quest_maya_spell_hair_kate_11331c9b:
 msgid "[_kate_s_embarrassed_] What do you think you're doing, you freak?!"
-msgstr "[Qu'est-ce que tu crois faire, espèce de monstre ?!"
+msgstr "[_kate_s_embarrassed_] Qu'est-ce que tu crois faire, espèce de monstre ?!"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:181 #-#-# translate crowdin quest_maya_spell_hair_kate_72138351:
 msgid "[_mc_] I just needed a piece of your hair."
@@ -458,11 +458,11 @@ msgstr "[_mc_] J'avais juste besoin d'un morceau de tes cheveux."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:182 #-#-# translate crowdin quest_maya_spell_hair_kate_ce683e9b:
 msgid "[_kate_s_embarrassed_] Ew! For some weird little shrine or something?"
-msgstr "[_kate_s_embarrassé_] Ew ! Pour un petit sanctuaire bizarre ou quelque chose comme ça ?"
+msgstr "[_kate_s_embarrassed_] Ew ! Pour un petit sanctuaire bizarre ou quelque chose comme ça ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:183 #-#-# translate crowdin quest_maya_spell_hair_kate_439b37a5:
 msgid "[_kate_s_embarrassed_] You can't have it!"
-msgstr "[Tu ne peux pas l'avoir !"
+msgstr "[_kate_s_embarrassed_] Tu ne peux pas l'avoir !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:184 #-#-# translate crowdin quest_maya_spell_hair_kate_667eaaba:
 msgid "[_mc_] Too late."
@@ -470,7 +470,7 @@ msgstr "[_mc_] Trop tard."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:185 #-#-# translate crowdin quest_maya_spell_hair_kate_ca299190:
 msgid "[_kate_s_thinking_] Put your hands on me again and they'll be tied behind your back for the rest of the year."
-msgstr "[Posez encore vos mains sur moi et elles seront attachées dans votre dos pour le reste de l'année."
+msgstr "[_kate_s_thinking_] Posez encore vos mains sur moi et elles seront attachées dans votre dos pour le reste de l'année."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:186 #-#-# translate crowdin quest_maya_spell_hair_kate_07bd4e3d:
 msgid "[_mc_] Really? And who's going to help you do that?"
@@ -486,7 +486,7 @@ msgstr "[_mc_] Peut-être {i}Je vais vous attacher les mains dans le dos et vous
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:189 #-#-# translate crowdin quest_maya_spell_hair_kate_b3ac1d14:
 msgid "[_kate_s_blush_] I'd like to see you try."
-msgstr "[J'aimerais vous voir essayer."
+msgstr "[_kate_s_blush_] J'aimerais vous voir essayer."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:190 #-#-# translate crowdin quest_maya_spell_hair_kate_773f2862:
 msgid "[_mc_] Don't tempt me, [kate]."
@@ -498,7 +498,7 @@ msgstr "[_mc_] Ou je pourrais toujours éteindre les lumières..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:193 #-#-# translate crowdin quest_maya_spell_hair_kate_2d5d3548:
 msgid "[_kate_s_surprised_] W-what did you say?"
-msgstr "[Qu'est-ce que tu as dit ?"
+msgstr "[_kate_s_surprised_] Qu'est-ce que tu as dit ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:194 #-#-# translate crowdin quest_maya_spell_hair_kate_0ce8bbbd:
 msgid "[_mc_] You know, like when—"
@@ -506,7 +506,7 @@ msgstr "[_mc_] Vous savez, comme quand..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:195 #-#-# translate crowdin quest_maya_spell_hair_kate_b667589d:
 msgid "[_kate_s_sad_] T-that was nothing!"
-msgstr "[Ce n'était rien !"
+msgstr "[_kate_s_sad_] Ce n'était rien !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:196 #-#-# translate crowdin quest_maya_spell_hair_kate_b089db3f:
 msgid "[_mc_] It didn't look like nothing."
@@ -530,7 +530,7 @@ msgstr "[_mc_] Oui, oui. J'y vais."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:204 #-#-# translate crowdin quest_maya_spell_hair_kate_19eba24a:
 msgid "[_kate_s_sad_] Good, and stay out of my way."
-msgstr "[Bien, et restez hors de mon chemin."
+msgstr "[_kate_s_sad_] Bien, et restez hors de mon chemin."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:205 #-#-# translate crowdin quest_maya_spell_hair_kate_f35330ea:
 msgid "[_mc_] Or maybe {i}you{/} should stay out of mine."
@@ -586,7 +586,7 @@ msgstr "[_mc_] Je ne regardais pas."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:229 #-#-# translate crowdin quest_maya_spell_hair_kate_4e9446d8:
 msgid "[_kate_s_excited_] You know what they say about liars, don't you?"
-msgstr "[Vous savez ce qu'on dit des menteurs, n'est-ce pas ?"
+msgstr "[_kate_s_excited_] Vous savez ce qu'on dit des menteurs, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:230 #-#-# translate crowdin quest_maya_spell_hair_kate_122dc406:
 msgid "[_mc_] Err, what?"
@@ -594,7 +594,7 @@ msgstr "[_mc_] Err, quoi ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:231 #-#-# translate crowdin quest_maya_spell_hair_kate_a22af732:
 msgid "[_kate_s_excited_] Their pants get taken and set on fire."
-msgstr "[On leur prend leur pantalon et on y met le feu."
+msgstr "[_kate_s_excited_] On leur prend leur pantalon et on y met le feu."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:232 #-#-# translate crowdin quest_maya_spell_hair_kate_dd1ac338:
 msgid "[_mc_] Good thing I'm not lying, then."
@@ -606,7 +606,7 @@ msgstr "[_mc_] Mais si tu veux que j'enlève mon pantalon, tout ce que tu as à 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:234 #-#-# translate crowdin quest_maya_spell_hair_kate_71736344:
 msgid "[_kate_s_cringe_] Ew! Don't make me vomit!"
-msgstr "[Beurk ! Ne me faites pas vomir !"
+msgstr "[_kate_s_cringe_] Beurk ! Ne me faites pas vomir !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:235 #-#-# translate crowdin quest_maya_spell_hair_kate_b8147c42:
 msgid "[_mc_] You're the one trying to get me naked..."
@@ -614,7 +614,7 @@ msgstr "[_mc_] C'est toi qui essaies de me mettre à poil..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:236 #-#-# translate crowdin quest_maya_spell_hair_kate_e4fad33b:
 msgid "[_kate_s_cringe_] Seriously, stop!"
-msgstr "[Sérieusement, arrêtez !"
+msgstr "[_kate_s_cringe_] Sérieusement, arrêtez !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:237 #-#-# translate crowdin quest_maya_spell_hair_kate_1ce191cf:
 msgid "[_mc_] I am a hot commodity."
@@ -622,11 +622,11 @@ msgstr "[_mc_] Je suis une marchandise très recherchée."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:238 #-#-# translate crowdin quest_maya_spell_hair_kate_b4f556fd:
 msgid "[_kate_s_eyeroll_] Oh, please."
-msgstr "[Oh, s'il vous plaît."
+msgstr "[_kate_s_eyeroll_] Oh, s'il vous plaît."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:239 #-#-# translate crowdin quest_maya_spell_hair_kate_dea2cd36:
 msgid "[_kate_s_eyeroll_] What do you even want?"
-msgstr "[Qu'est-ce que tu veux ?"
+msgstr "[_kate_s_eyeroll_] Qu'est-ce que tu veux ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:242 #-#-# translate crowdin quest_maya_spell_hair_kate_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -638,11 +638,11 @@ msgstr "[_mc_] Pour être honnête, j'admirais quelque chose."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:246 #-#-# translate crowdin quest_maya_spell_hair_kate_47236884:
 msgid "[_kate_s_laughing_] Ha! I knew it."
-msgstr "[Ha ! Je m'en doutais."
+msgstr "[_kate_s_laughing_] Ha ! Je m'en doutais."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:247 #-#-# translate crowdin quest_maya_spell_hair_kate_f8d42c51:
 msgid "[_kate_s_laughing_] Once a perv, always a perv."
-msgstr "[Pervers un jour, pervers toujours."
+msgstr "[_kate_s_laughing_] Pervers un jour, pervers toujours."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:248 #-#-# translate crowdin quest_maya_spell_hair_kate_85b9be68:
 msgid "[_mc_] It's the smell of your shampoo."
@@ -658,7 +658,7 @@ msgstr "[_mc_] Si je pouvais juste... le toucher..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:251 #-#-# translate crowdin quest_maya_spell_hair_kate_4883ba56:
 msgid "[_kate_s_neutral_] Don't even think about it."
-msgstr "[N'y pensez même pas."
+msgstr "[_kate_s_neutral_] N'y pensez même pas."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:252 #-#-# translate crowdin quest_maya_spell_hair_kate_7b409854:
 msgid "I've never played Russian roulette with a bloodthirsty shark before, but I imagine it feels a little something like this..."
@@ -666,7 +666,7 @@ msgstr "Je n'ai jamais joué à la roulette russe avec un requin assoiffé de sa
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:253 #-#-# translate crowdin quest_maya_spell_hair_kate_a504a148:
 msgid "[_kate_s_neutral_] Seriously, don't—"
-msgstr "[Sérieusement, ne..."
+msgstr "[_kate_s_neutral_] Sérieusement, ne -"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:262 #-#-# translate crowdin quest_maya_spell_hair_kate_494bde85:
 msgid "In a moment of reckless courage, I reach out and take a handful of her luscious blonde locks."
@@ -698,7 +698,7 @@ msgstr "[_mc_] Pour vous mettre en garde."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:286 #-#-# translate crowdin quest_maya_spell_hair_kate_1ced0aaf:
 msgid "[_kate_s_thinking_] I don't have time for your cryptic little nerd games."
-msgstr "[Je n'ai pas le temps pour tes petits jeux d'intello cryptiques."
+msgstr "[_kate_s_thinking_] Je n'ai pas le temps pour tes petits jeux d'intello cryptiques."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:287 #-#-# translate crowdin quest_maya_spell_hair_kate_27399a26:
 msgid "[_mc_] Okay, but..."
@@ -706,7 +706,7 @@ msgstr "[_mc_] D'accord, mais..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:288 #-#-# translate crowdin quest_maya_spell_hair_kate_135721cc:
 msgid "[_kate_s_thinking_] But? Spit it out."
-msgstr "[Mais ? Crache le morceau."
+msgstr "[_kate_s_thinking_] Mais ? Crache le morceau."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:289 #-#-# translate crowdin quest_maya_spell_hair_kate_b1fa4ca2:
 msgid "[_mc_] Well, there's been a lice outbreak."
@@ -718,11 +718,11 @@ msgstr "[_mc_] Et l'infirmière m'a demandé de prélever des échantillons de c
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:292 #-#-# translate crowdin quest_maya_spell_hair_kate_1de2715e:
 msgid "[_kate_s_embarrassed_] Ew! That's so gross!"
-msgstr "[_kate_s_embarrassé_] Ew ! C'est vraiment dégueulasse !"
+msgstr "[_kate_s_embarrassed_] Ew ! C'est vraiment dégueulasse !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:293 #-#-# translate crowdin quest_maya_spell_hair_kate_c81a0ef9:
 msgid "[_kate_s_embarrassed_] I bet that unwashed Brit is the plague starter."
-msgstr "[Je parie que ce Britannique non lavé est l'élément déclencheur de la peste."
+msgstr "[_kate_s_embarrassed_] Je parie que ce Britannique non lavé est l'élément déclencheur de la peste."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:294 #-#-# translate crowdin quest_maya_spell_hair_kate_c4113636:
 msgid "[_mc_] It could be."
@@ -736,11 +736,11 @@ msgstr "[_mc_] Puis-je prendre un échantillon ? Vous voudrez l'arrêter rapidem
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:297 #-#-# translate crowdin quest_maya_spell_hair_kate_58c55e01:
 msgid "[_kate_s_sad_] Oh, my god, fine! Just take it!"
-msgstr "[Oh, mon dieu, très bien ! Prends-le !"
+msgstr "[_kate_s_sad_] Oh, mon dieu, très bien ! Prends-le !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:298 #-#-# translate crowdin quest_maya_spell_hair_kate_1a219932:
 msgid "[_kate_s_sad_] I need a shower..."
-msgstr "[J'ai besoin d'une douche..."
+msgstr "[_kate_s_sad_] J'ai besoin d'une douche..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:303 #-#-# translate crowdin quest_maya_spell_hair_kate_3debc534:
 msgid "[_mc_] Okay, that will do. Thank you for your cooperation."
@@ -748,7 +748,7 @@ msgstr "[_mc_] D'accord, cela suffira. Je vous remercie de votre coopération."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:304 #-#-# translate crowdin quest_maya_spell_hair_kate_249a3e5a:
 msgid "[_kate_s_surprised_] Whatever! Just move!"
-msgstr "[Peu importe ! Bouge-toi !"
+msgstr "[_kate_s_surprised_] Peu importe ! Bouge-toi !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:312 #-#-# translate crowdin quest_maya_spell_hair_kate_afef4d40:
 msgid "[_mc_] Give me a piece of your hair, bitch."
@@ -756,7 +756,7 @@ msgstr "[_mc_] Donne-moi un morceau de tes cheveux, salope."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:315 #-#-# translate crowdin quest_maya_spell_hair_kate_36607518:
 msgid "[_kate_s_annoyed_] What did you just say to me?"
-msgstr "[Qu'est-ce que tu viens de me dire ?"
+msgstr "[_kate_s_annoyed_] Qu'est-ce que tu viens de me dire ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:317 #-#-# translate crowdin quest_maya_spell_hair_kate_1dcf964f:
 msgid "[_mc_] Chippity, choppity. Give me a piece, else you'll end up with hair disease.{space=-70}"
@@ -768,11 +768,11 @@ msgstr "[_kate_s_embarrassed_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:319 #-#-# translate crowdin quest_maya_spell_hair_kate_36e5cc20:
 msgid "[_kate_s_embarrassed_] I've never heard anything quite as cringe."
-msgstr "[Je n'ai jamais entendu quelque chose d'aussi croustillant."
+msgstr "[_kate_s_embarrassed_] Je n'ai jamais entendu quelque chose d'aussi croustillant."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:320 #-#-# translate crowdin quest_maya_spell_hair_kate_2a396ce3:
 msgid "[_kate_s_embarrassed_] Get out of my face, weirdo."
-msgstr "[Sors de ma vue, espèce d'énergumène."
+msgstr "[_kate_s_embarrassed_] Sors de ma vue, espèce d'énergumène."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:329 #-#-# translate crowdin quest_maya_spell_hair_kate_6abda3ea:
 msgid "Oh, well. It was worth a shot."
@@ -804,7 +804,7 @@ msgstr "[_mc_] J'ai juste besoin d'un morceau de tes cheveux."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:342 #-#-# translate crowdin quest_maya_spell_hair_kate_2f9d9ca2:
 msgid "[_kate_s_excited_] Keep dreaming, weirdo."
-msgstr "[Continuez à rêver, bizarroïde."
+msgstr "[_kate_s_excited_] Continuez à rêver, bizarroïde."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:343 #-#-# translate crowdin quest_maya_spell_hair_kate_1454faa5:
 msgid "[_mc_] It's nothing weird, okay? Just an ingredient I need for something."
@@ -816,7 +816,7 @@ msgstr "[_kate_s_cringe_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:345 #-#-# translate crowdin quest_maya_spell_hair_kate_86296d1d:
 msgid "[_kate_s_cringe_] That's actually disgusting."
-msgstr "[C'est vraiment dégoûtant."
+msgstr "[_kate_s_cringe_] C'est vraiment dégoûtant."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:346 #-#-# translate crowdin quest_maya_spell_hair_kate_ea0e9e3a:
 msgid "[_mc_] Fine, I'll do it by the book."
@@ -824,7 +824,7 @@ msgstr "[_mc_] Très bien, je le ferai dans les règles."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:347 #-#-# translate crowdin quest_maya_spell_hair_kate_ed928ad2:
 msgid "[_kate_s_afraid_] What?"
-msgstr "[Quoi ?"
+msgstr "[_kate_s_afraid_] Quoi ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:348 #-#-# translate crowdin quest_maya_spell_hair_kate_88075969:
 msgid "[_mc_] Hair, care, and all things rare, a strand of your hair do share."
@@ -836,7 +836,7 @@ msgstr "[_kate_s_thinking_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:350 #-#-# translate crowdin quest_maya_spell_hair_kate_33904bf8:
 msgid "[_kate_s_thinking_] Why are you rhyming now?"
-msgstr "[Pourquoi tu fais des rimes maintenant ?"
+msgstr "[_kate_s_thinking_] Pourquoi tu fais des rimes maintenant ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:351 #-#-# translate crowdin quest_maya_spell_hair_kate_c2db896f:
 msgid "Crap. Did it not work?"
@@ -848,11 +848,11 @@ msgstr "[_mc_] J'ai, euh... J'ai lu une recette de shampoing maison et j'ai pens
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:353 #-#-# translate crowdin quest_maya_spell_hair_kate_5fff79e1:
 msgid "[_kate_s_embarrassed_] No, thanks. I'm not poor enough for that."
-msgstr "[Non, merci. Je ne suis pas assez pauvre pour ça."
+msgstr "[_kate_s_embarrassed_] Non, merci. Je ne suis pas assez pauvre pour ça."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:354 #-#-# translate crowdin quest_maya_spell_hair_kate_55e9df93:
 msgid "[_kate_s_embarrassed_] Now get out of my face."
-msgstr "[Maintenant, sortez de ma vue."
+msgstr "[_kate_s_embarrassed_] Maintenant, sortez de ma vue."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:363 #-#-# translate crowdin quest_maya_spell_hair_kate_5780f4c6:
 msgid "Ugh, [kate] certainly hasn't lost all of her sass..."
@@ -876,7 +876,7 @@ msgstr "Il ne me reste plus qu'à trouver de la sueur..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:376 #-#-# translate crowdin quest_maya_spell_hair_isabelle_4406393b:
 msgid "[_isabelle_s_skeptical_] What do you want?"
-msgstr "[Que voulez-vous ?"
+msgstr "[_isabelle_s_skeptical_] Que voulez-vous ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:377 #-#-# translate crowdin quest_maya_spell_hair_isabelle_d8d50c3a:
 msgid "[_mc_] Who? Me?"
@@ -888,7 +888,7 @@ msgstr "[_isabelle_s_skeptical_] Est-ce que [kate] t'a fait faire quelque chose 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:379 #-#-# translate crowdin quest_maya_spell_hair_isabelle_b4dfeb4f:
 msgid "[_isabelle_s_skeptical_] Or are you just here to take the piss?"
-msgstr "[Ou vous êtes juste là pour vous moquer ?"
+msgstr "[_isabelle_s_skeptical_] Ou vous êtes juste là pour vous moquer ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:380 #-#-# translate crowdin quest_maya_spell_hair_isabelle_092b9cc7:
 msgid "[_mc_] First of all, your girlfriend has nothing to do with this."
@@ -900,7 +900,7 @@ msgstr "[_mc_] Deuxièmement, je suis ici pour une affaire importante."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:382 #-#-# translate crowdin quest_maya_spell_hair_isabelle_a36718ce:
 msgid "[_isabelle_s_skeptical_] And what could that possibly be?"
-msgstr "[Et qu'est-ce que cela peut bien être ?"
+msgstr "[_isabelle_s_skeptical_] Et qu'est-ce que cela peut bien être ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:385 #-#-# translate crowdin quest_maya_spell_hair_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -912,7 +912,7 @@ msgstr "[_mc_] J'ai besoin d'un morceau de vos cheveux, s'il vous plaît."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:390 #-#-# translate crowdin quest_maya_spell_hair_isabelle_fe91df44:
 msgid "[_isabelle_s_annoyed_] Are you being serious right now?"
-msgstr "[Tu es sérieux là ?"
+msgstr "[_isabelle_s_annoyed_] Tu es sérieux là ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:391 #-#-# translate crowdin quest_maya_spell_hair_isabelle_dc7e0139:
 msgid "[_mc_] I'm dead serious."
@@ -920,7 +920,7 @@ msgstr "[_mc_] Je suis très sérieux."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:392 #-#-# translate crowdin quest_maya_spell_hair_isabelle_12692dd1:
 msgid "[_isabelle_s_annoyed_] No bloody way."
-msgstr "[Pas question."
+msgstr "[_isabelle_s_annoyed_] Pas question."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:393 #-#-# translate crowdin quest_maya_spell_hair_isabelle_4d1e0cf6:
 msgid "[_mc_] Then you leave me no choice."
@@ -944,7 +944,7 @@ msgstr "[isabelle] se relâche et me fixe un instant, un air calme s'emparant d'
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:398 #-#-# translate crowdin quest_maya_spell_hair_isabelle_a4bfc8f0:
 msgid "[_isabelle_s_subby_] Okay, then."
-msgstr "[D'accord, alors."
+msgstr "[_isabelle_s_subby_] D'accord, alors."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:403 #-#-# translate crowdin quest_maya_spell_hair_isabelle_2a594347:
 msgid "She plucks a strand from her head and hands it over."
@@ -972,11 +972,11 @@ msgstr "[_mc_] J'ai besoin d'un morceau de cheveux de salope britannique."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:415 #-#-# translate crowdin quest_maya_spell_hair_isabelle_32e1c73e:
 msgid "[_isabelle_s_angry_] Excuse me?!"
-msgstr "[Excusez-moi ?!"
+msgstr "[_isabelle_s_angry_] Excusez-moi ?!"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:416 #-#-# translate crowdin quest_maya_spell_hair_isabelle_635b3dc9:
 msgid "[_isabelle_s_angry_] You're way out of line right now, [mc]!"
-msgstr "[Vous dépassez les bornes, [mc] !"
+msgstr "[_isabelle_s_angry_] Vous dépassez les bornes, [mc] !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:417 #-#-# translate crowdin quest_maya_spell_hair_isabelle_fc95a7e9:
 msgid "[_mc_] Nah, I'm actually keeping you in line."
@@ -1002,7 +1002,7 @@ msgstr "Elle me fixe un instant, puis fait un petit signe de tête."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:424 #-#-# translate crowdin quest_maya_spell_hair_isabelle_b8dd3051:
 msgid "[_isabelle_s_subby_] Here you go..."
-msgstr "[Voilà..."
+msgstr "[_isabelle_s_subby_] Voilà..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:429 #-#-# translate crowdin quest_maya_spell_hair_isabelle_11575750:
 msgid "Holy shit, that's a magic trick and a half!"
@@ -1026,7 +1026,7 @@ msgstr "[_mc_] Il y a une collecte de cheveux pour ces enfants chauves."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:439 #-#-# translate crowdin quest_maya_spell_hair_isabelle_003fa82b:
 msgid "[_isabelle_s_sad_] Cancer patients?"
-msgstr "[Les malades du cancer ?"
+msgstr "[_isabelle_s_sad_] Les malades du cancer ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:440 #-#-# translate crowdin quest_maya_spell_hair_isabelle_6e031d5b:
 msgid "[_mc_] Yeah, maybe."
@@ -1042,7 +1042,7 @@ msgstr "[_mc_] Quoi qu'il en soit, je voulais savoir si vous vouliez faire un do
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:443 #-#-# translate crowdin quest_maya_spell_hair_isabelle_417ccbdc:
 msgid "[_isabelle_s_sad_] You're right, that is a good cause..."
-msgstr "[Vous avez raison, c'est une bonne cause..."
+msgstr "[_isabelle_s_sad_] Vous avez raison, c'est une bonne cause..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:444 #-#-# translate crowdin quest_maya_spell_hair_isabelle_b39e1ac7:
 msgid "I can see the wheels spinning in her head."
@@ -1058,7 +1058,7 @@ msgstr "Mais elle ne peut pas non plus nier l'appel d'une bonne action."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:448 #-#-# translate crowdin quest_maya_spell_hair_isabelle_cd0a7509:
 msgid "[_isabelle_s_subby_] All right, fine. I'll do it."
-msgstr "[D'accord, très bien. Je vais le faire."
+msgstr "[_isabelle_s_subby_] D'accord, très bien. Je vais le faire."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:449 #-#-# translate crowdin quest_maya_spell_hair_isabelle_c5a9fd07:
 msgid "[_mc_] Great! Let me just take a look here..."
@@ -1070,7 +1070,7 @@ msgstr "Coupez ! Cheveux acquis."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:457 #-#-# translate crowdin quest_maya_spell_hair_isabelle_4f9c1da1:
 msgid "[_isabelle_s_angry_] Hey! That hurt!"
-msgstr "[Hé ! Ça fait mal !"
+msgstr "[_isabelle_s_angry_] Hé ! Ça fait mal !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:458 #-#-# translate crowdin quest_maya_spell_hair_isabelle_23d6df50:
 msgid "[_mc_] Sorry, the quality isn't quite what they're looking for."
@@ -1082,7 +1082,7 @@ msgstr "[_mc_] Merci quand même !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:460 #-#-# translate crowdin quest_maya_spell_hair_isabelle_cefde15e:
 msgid "[_isabelle_s_angry_] That's just bloody rude!"
-msgstr "[C'est vraiment grossier !"
+msgstr "[_isabelle_s_angry_] C'est vraiment grossier !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:461 #-#-# translate crowdin quest_maya_spell_hair_isabelle_9c31ec99:
 msgid "[_mc_] Sorry!"
@@ -1098,7 +1098,7 @@ msgstr "[_mc_] Je suis venu en mission officielle."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:469 #-#-# translate crowdin quest_maya_spell_hair_isabelle_83884829:
 msgid "[_isabelle_s_eyeroll_] Whose?"
-msgstr "[À qui ?"
+msgstr "[_isabelle_s_eyeroll_] À qui ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:470 #-#-# translate crowdin quest_maya_spell_hair_isabelle_176ce138:
 msgid "[_mc_] The [nurse]'s."
@@ -1106,7 +1106,7 @@ msgstr "[_mc_] Celle de [nurse]."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:471 #-#-# translate crowdin quest_maya_spell_hair_isabelle_4702ae9f:
 msgid "[_isabelle_s_eyeroll_] And why wouldn't she just come herself?"
-msgstr "[Et pourquoi ne viendrait-elle pas elle-même ?"
+msgstr "[_isabelle_s_eyeroll_] Et pourquoi ne viendrait-elle pas elle-même ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:472 #-#-# translate crowdin quest_maya_spell_hair_isabelle_1a9f5663:
 msgid "[_mc_] She has her hands tied."
@@ -1118,7 +1118,7 @@ msgstr "La connaissant, cela pourrait être vrai au sens propre comme au sens fi
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:476 #-#-# translate crowdin quest_maya_spell_hair_isabelle_295887b4:
 msgid "[_isabelle_s_thinking_] Well, what is it, then?"
-msgstr "[Qu'est-ce que c'est, alors ?"
+msgstr "[_isabelle_s_thinking_] Qu'est-ce que c'est, alors ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:478 #-#-# translate crowdin quest_maya_spell_hair_isabelle_795a6cfb:
 msgid "[_mc_] There's been a lice outbreak."
@@ -1136,12 +1136,12 @@ msgstr "[_mc_] Je ne peux pas le dire, mais l'[_mc_] infirmière] a demandé des
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:482 #-#-# translate crowdin quest_maya_spell_hair_isabelle_cc5d10e8:
 msgid "[_isabelle_s_cringe_] Ugh, that's bloody brilliant..."
-msgstr "[Ugh, c'est vraiment génial..."
+msgstr "[_isabelle_s_cringe_] Ugh, c'est vraiment génial..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:484 #-#-# translate crowdin quest_maya_spell_hair_isabelle_69cbdf42:
 msgid "[_isabelle_s_cringe_] But whatever helps narrow it down to keep the school safe and clean,{space=-35}\n"
 "I guess. Here you go."
-msgstr "[Mais tout ce qui peut aider à réduire le nombre de cas pour garder l'école sûre et propre, {space=-35}\n"
+msgstr "[_isabelle_s_cringe_] Mais tout ce qui peut aider à réduire le nombre de cas pour garder l'école sûre et propre, {space=-35}\n"
 "Je suppose. Et voilà."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:489 #-#-# translate crowdin quest_maya_spell_hair_isabelle_9b1c344f:
@@ -1190,7 +1190,7 @@ msgstr "[_jacklyn_s_neutral_] Droit au but, comme Seurat ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:513 #-#-# translate crowdin quest_maya_spell_sweat_c8ed0e0f:
 msgid "[_jacklyn_s_neutral_] I admire the boldness."
-msgstr "[J'admire l'audace."
+msgstr "[_jacklyn_s_neutral_] J'admire l'audace."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:514 #-#-# translate crowdin quest_maya_spell_sweat_5f146bd8:
 msgid "[_mc_] Err, thanks?"
@@ -1198,7 +1198,7 @@ msgstr "[_mc_] Err, merci ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:515 #-#-# translate crowdin quest_maya_spell_sweat_bd20e3ff:
 msgid "[_jacklyn_s_neutral_] Tell me what's blending your dots."
-msgstr "[Dites-moi ce qui mélange vos points."
+msgstr "[_jacklyn_s_neutral_] Dites-moi ce qui mélange vos points."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:518 #-#-# translate crowdin quest_maya_spell_sweat_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -1218,7 +1218,7 @@ msgstr "[_mc_] C'est pour, euh... un projet artistique !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:525 #-#-# translate crowdin quest_maya_spell_sweat_8d4c9db6:
 msgid "[_jacklyn_s_excited_] That's cheese spread! Why didn't you just drop the spice and say so?{space=-35}"
-msgstr "[C'est du fromage à tartiner ! Pourquoi n'as-tu pas laissé tomber les épices et ne l'as-tu pas dit ?"
+msgstr "[_jacklyn_s_excited_] C'est du fromage à tartiner ! Pourquoi n'as-tu pas laissé tomber les épices et ne l'as-tu pas dit ?{space=-35}"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:526 #-#-# translate crowdin quest_maya_spell_sweat_d9ec1af0:
 msgid "[_mc_] I, um... I wanted to keep it a surprise."
@@ -1226,7 +1226,7 @@ msgstr "[_mc_] Je, hum... Je voulais garder la surprise."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:527 #-#-# translate crowdin quest_maya_spell_sweat_e8833054:
 msgid "[_jacklyn_s_excited_] Using sweat, huh?"
-msgstr "[Jacklyn_s_excitée] Utiliser de la sueur, hein ?"
+msgstr "[_jacklyn_s_excited_] Utiliser de la sueur, hein ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:528 #-#-# translate crowdin quest_maya_spell_sweat_44d29ed3:
 msgid "[_mc_] It's a statement... on repression... and freedom..."
@@ -1234,7 +1234,7 @@ msgstr "[_mc_] C'est une déclaration... sur la répression... et la liberté...
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:529 #-#-# translate crowdin quest_maya_spell_sweat_0f0b4d8e:
 msgid "[_jacklyn_s_excited_] That's as avant garde as what the iceberg did to the Titanic."
-msgstr "[C'est aussi avant-gardiste que ce que l'iceberg a fait au Titanic."
+msgstr "[_jacklyn_s_excited_] C'est aussi avant-gardiste que ce que l'iceberg a fait au Titanic."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:530 #-#-# translate crowdin quest_maya_spell_sweat_27b46d9a:
 msgid "[_mc_] So, is that a yes?"
@@ -1254,7 +1254,7 @@ msgstr "[_mc_] Merci, [jacklyn]!"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:535 #-#-# translate crowdin quest_maya_spell_sweat_a91bff50:
 msgid "[_jacklyn_s_excited_] Let me just generate the spin..."
-msgstr "[Laissez-moi juste générer l'effet..."
+msgstr "[_jacklyn_s_excited_] Laissez-moi juste générer l'effet..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:545 #-#-# translate crowdin quest_maya_spell_sweat_6ad79721:
 msgid "She begins to do jumping jacks right then and there."
@@ -1278,7 +1278,7 @@ msgstr "Enfin, elle arrête de sauter et me fait un sourire malicieux.{space=-25
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:580 #-#-# translate crowdin quest_maya_spell_sweat_33e18726:
 msgid "[_jacklyn_s_smile_] Does that cure your ham?"
-msgstr "[Est-ce que cela guérit votre jambon ?"
+msgstr "[_jacklyn_s_smile_] Est-ce que cela guérit votre jambon ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:585 #-#-# translate crowdin quest_maya_spell_sweat_94448643:
 msgid "[_mc_] Err, yes! This is great."
@@ -1290,7 +1290,7 @@ msgstr "[_mc_] Merci encore !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:587 #-#-# translate crowdin quest_maya_spell_sweat_02c62dc7:
 msgid "[_jacklyn_s_smile_] Magnum. Keep burning outside the fire, [mc]."
-msgstr "[Magnum. Continuez à brûler en dehors du feu, [mc]."
+msgstr "[_jacklyn_s_smile_] Magnum. Continuez à brûler en dehors du feu, [mc]."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:597 #-#-# translate crowdin quest_maya_spell_sweat_sex_3adf1ad0:
 msgid "[_mc_] I want to get sweaty with you again."
@@ -1312,7 +1312,7 @@ msgstr "[_mc_] Juste deux personnes qui profitent du corps de l'autre, en admira
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:603 #-#-# translate crowdin quest_maya_spell_sweat_sex_584d0f80:
 msgid "[_jacklyn_s_excited_] Fair uno, I can dig that."
-msgstr "[_jacklyn_s_excité_] Juste uno, je peux le faire."
+msgstr "[_jacklyn_s_excited_] Juste uno, je peux le faire."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:604 #-#-# translate crowdin quest_maya_spell_sweat_sex_06cc58ff:
 msgid "[_mc_] Really? Sweet!"
@@ -1332,7 +1332,7 @@ msgstr "Il n'ose jamais manquer une occasion."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:608 #-#-# translate crowdin quest_maya_spell_sweat_sex_39dba599:
 msgid "[_jacklyn_s_annoyed_] Whoa, there! Jar your beans!"
-msgstr "[Whoa, là ! Jarre tes haricots !"
+msgstr "[_jacklyn_s_annoyed_] Whoa, là ! Jarre tes haricots !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:609 #-#-# translate crowdin quest_maya_spell_sweat_sex_122dc406:
 msgid "[_mc_] Err, what?"
@@ -1340,7 +1340,7 @@ msgstr "[_mc_] Err, quoi ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:610 #-#-# translate crowdin quest_maya_spell_sweat_sex_da54ce00:
 msgid "[_jacklyn_s_annoyed_] I admire the flow of your current, Sparky... but let's art for the sake of the muse."
-msgstr "[J'admire la fluidité de ton courant, Sparky... mais faisons de l'art pour le bien de la muse."
+msgstr "[_jacklyn_s_annoyed_] J'admire la fluidité de ton courant, Sparky... mais faisons de l'art pour le bien de la muse."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:611 #-#-# translate crowdin quest_maya_spell_sweat_sex_e7e53ed1:
 msgid "Ugh, does she think I meant actual sculptures?"
@@ -1348,7 +1348,7 @@ msgstr "Ugh, pense-t-elle que je parlais de véritables sculptures ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:612 #-#-# translate crowdin quest_maya_spell_sweat_sex_b012ae04:
 msgid "[_jacklyn_s_annoyed_] You have to lay your base first."
-msgstr "[Il faut d'abord poser sa base."
+msgstr "[_jacklyn_s_annoyed_] Il faut d'abord poser sa base."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:614 #-#-# translate crowdin quest_maya_spell_sweat_sex_9dbd1ad6:
 msgid "[_mc_] First base. Got it."
@@ -1438,7 +1438,7 @@ msgstr "[_mc_] Err, oui ! Je vais m'en débarrasser comme d'une peau !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:668 #-#-# translate crowdin quest_maya_spell_sweat_sex_0d74d49a:
 msgid "[_jacklyn_s_smile_hands_down_] You're kinda twisted, aren't you?"
-msgstr "[Vous êtes un peu tordu, n'est-ce pas ?"
+msgstr "[_jacklyn_s_smile_hands_down_] Vous êtes un peu tordu, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:669 #-#-# translate crowdin quest_maya_spell_sweat_sex_dac680ee:
 msgid "[_mc_] I, um..."
@@ -1490,7 +1490,7 @@ msgstr "Les os et les muscles tordus qui nous maintiennent ensemble."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:683 #-#-# translate crowdin quest_maya_spell_sweat_sex_bfc45478:
 msgid "[_jacklyn_s_smile_hands_down_] That's opium."
-msgstr "[C'est de l'opium."
+msgstr "[_jacklyn_s_smile_hands_down_] C'est de l'opium."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:684 #-#-# translate crowdin quest_maya_spell_sweat_sex_f103e714:
 msgid "[_mc_] Hell yeah, it is."
@@ -1530,7 +1530,7 @@ msgstr "L'intensité, la puissance pure du moment. Ma main s'est emmêlée dans 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:706 #-#-# translate crowdin quest_maya_spell_sweat_sex_03991832:
 msgid "But she knows how to play, and her hand is already reaching down, finding my aching weakness, gripping it with delicate fingers."
-msgstr "Mais elle sait comment jouer, et sa main se tend déjà vers le bas, trouvant ma faiblesse douloureuse, la saisissant avec des doigts délicats."
+msgstr "Mais elle sait comment jouer, et sa main se tend déjà vers le bas, trouvant ma faiblesse douloureuse, la saisissant avec ses doigts délicats."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:708 #-#-# translate crowdin quest_maya_spell_sweat_sex_577fbecb:
 msgid "She has all the finesse of a woman working a piece to her desire,\n"
@@ -1566,7 +1566,7 @@ msgstr "Elle rompt le baiser et me mord l'oreille, assez fort pour me faire fris
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:727 #-#-# translate crowdin quest_maya_spell_sweat_sex_9b9a01c6:
 msgid "[_jacklyn_s_paint_shelf_sex_s_anticipation_] Okay, slinger. Show me that pump action."
-msgstr "[_jacklyn_s_paint_shelf_sex_s_anticipation_] Ok, slinger. Montrez-moi ce fusil à pompe."
+msgstr "[_jacklyn_s_paint_shelf_sex_s_anticipation_] Ok, frondeur. Montrez-moi ce fusil à pompe."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:728 #-#-# translate crowdin quest_maya_spell_sweat_sex_a9b49175:
 msgid "She says the words in my ear as she clutches my shoulder with one hand and guides my cock inside of her with the other."
@@ -1646,7 +1646,7 @@ msgstr "Les sucs de sa chatte qui recouvrent ma bite sont le nectar des putains 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:963 #-#-# translate crowdin quest_maya_spell_sweat_sex_d57eb853:
 msgid "[_jacklyn_s_paint_shelf_sex_s_penetration2_] Mmm... you're blazing the hell out of my blunt right now..."
-msgstr "[_jacklyn_s_paint_shelf_sex_s_penetration2_] Mmm... tu es en train d'enflammer mon blunt en ce moment..."
+msgstr "[_jacklyn_s_paint_shelf_sex_s_penetration2_] Mmm... tu es en train d'enflammer ma libido en ce moment..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:964 #-#-# translate crowdin quest_maya_spell_sweat_sex_e27f4cbe:
 msgid "That sounds good, I'll take that."
@@ -1658,7 +1658,7 @@ msgstr "Elle me fait aussi toutes sortes de choses."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:971 #-#-# translate crowdin quest_maya_spell_sweat_sex_f3ed0abb:
 msgid "[_jacklyn_s_paint_shelf_sex_s_paintbrush_reveal_] K-keep going... and put this in my ass."
-msgstr "[_jacklyn_s_paint_shelf_sex_s_paintbrush_reveal] K-keep going... and put this in my ass."
+msgstr "[_jacklyn_s_paint_shelf_sex_s_paintbrush_reveal_] C-continuez ... et mettez ça dans mon cul."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:972 #-#-# translate crowdin quest_maya_spell_sweat_sex_af3ac9ff:
 msgid "I don't know where she got it from or how, but she holds a paint brush up in front of my face."
@@ -1724,7 +1724,7 @@ msgstr "[_mc_] F-Baise-moi..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1003 #-#-# translate crowdin quest_maya_spell_sweat_sex_565ed3b2:
 msgid "[_jacklyn_s_paint_shelf_sex_s_cum_] Oh? What would you call that?"
-msgstr "[Oh ? Comment tu appellerais ça ?"
+msgstr "[_jacklyn_s_paint_shelf_sex_s_cum_] Oh ? Comment tu appellerais ça ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1004 #-#-# translate crowdin quest_maya_spell_sweat_sex_66ef99b7:
 msgid "She giggles as I let the rest of my cum in sporadic spurts."
@@ -1800,11 +1800,11 @@ msgstr "Elle pousse un petit gémissement de satisfaction et, pour une raison qu
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1040 #-#-# translate crowdin quest_maya_spell_sweat_sex_0cf2671a:
 msgid "[_jacklyn_s_paint_shelf_aftermath_s_licking_] That's aces!"
-msgstr "[C'est un as !"
+msgstr "[_jacklyn_s_paint_shelf_aftermath_s_licking_] C'est un as !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1041 #-#-# translate crowdin quest_maya_spell_sweat_sex_9bb6f96e:
 msgid "[_jacklyn_s_paint_shelf_aftermath_s_licking_] You clean the snatch like a pro."
-msgstr "[Tu nettoies la chatte comme une pro."
+msgstr "[_jacklyn_s_paint_shelf_aftermath_s_licking_] Tu nettoies la chatte comme une pro."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1042 #-#-# translate crowdin quest_maya_spell_sweat_sex_d2efecf2:
 msgid "[_mc_] Thank you..."
@@ -1842,7 +1842,7 @@ msgstr "Puis elle enfonce le doigt dans sa bouche et acquiesce."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1062 #-#-# translate crowdin quest_maya_spell_sweat_sex_910aae86:
 msgid "[_jacklyn_s_paint_shelf_aftermath_s_tasting_] Our love juices aren't too shabby, [mc]..."
-msgstr "[Nos jus d'amour ne sont pas trop mauvais, [mc]..."
+msgstr "[_jacklyn_s_paint_shelf_aftermath_s_tasting_] Nos jus d'amour ne sont pas trop mauvais, [mc]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1063 #-#-# translate crowdin quest_maya_spell_sweat_sex_2a5c0afb:
 msgid "She dips her fingers in deeper, getting all my semen out, and then slurps it up like it's no big deal."
@@ -1854,11 +1854,11 @@ msgstr "[_mc_] Mmm..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1073 #-#-# translate crowdin quest_maya_spell_sweat_sex_9ce3d2ce:
 msgid "[_jacklyn_s_excited_] Anyway, that's Bonaparte."
-msgstr "[Quoi qu'il en soit, c'est Bonaparte."
+msgstr "[_jacklyn_s_excited_] Quoi qu'il en soit, c'est Bonaparte."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1074 #-#-# translate crowdin quest_maya_spell_sweat_sex_ee4d3130:
 msgid "[_jacklyn_s_excited_] Collect your salt dew, then let's make candles and wick."
-msgstr "[_jacklyn_s_excitée_] Ramassez votre rosée salée, puis fabriquons des bougies et des mèches."
+msgstr "[_jacklyn_s_excited_] Ramassez votre rosée salée, puis fabriquons des bougies et des mèches."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1079 #-#-# translate crowdin quest_maya_spell_sweat_sex_895d2be5:
 msgid "[_mc_] Thanks, [jacklyn]! For... everything."
@@ -1978,7 +1978,7 @@ msgstr "Je devrais peut-être faire savoir à [Maya] que j'ai rassemblé tous le
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1153 #-#-# translate crowdin quest_maya_spell_maya_e3332a86:
 msgid "[_maya_s_dramatic_] Oh, thank god, it's you! Just the person I needed most urgently!"
-msgstr "[Oh, Dieu merci, c'est vous ! La personne dont j'avais le plus besoin !"
+msgstr "[_maya_s_dramatic_] Oh, Dieu merci, c'est vous ! La personne dont j'avais le plus besoin !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1154 #-#-# translate crowdin quest_maya_spell_maya_9bd55f95:
 msgid "Oh? This is new..."
@@ -1990,7 +1990,7 @@ msgstr "[_mc_] Vraiement ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1156 #-#-# translate crowdin quest_maya_spell_maya_bfe1023e:
 msgid "[_maya_s_sarcastic_] Nope."
-msgstr "[Non."
+msgstr "[_maya_s_sarcastic_] Non."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1157 #-#-# translate crowdin quest_maya_spell_maya_902482de:
 msgid "I knew it."
@@ -1998,7 +1998,7 @@ msgstr "Je le savais."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1159 #-#-# translate crowdin quest_maya_spell_maya_6b633629:
 msgid "[_maya_s_sarcastic_] I saw you crawling around in the glade. What were you doing out there?{space=-70}"
-msgstr "[Je t'ai vu ramper dans la clairière. Qu'est-ce que tu faisais là-bas ?"
+msgstr "[_maya_s_sarcastic_] Je t'ai vu ramper dans la clairière. Qu'est-ce que tu faisais là-bas ?{space=-70}"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1160 #-#-# translate crowdin quest_maya_spell_maya_d0457a89:
 msgid "[_mc_] I was, err... catching frogs."
@@ -2006,7 +2006,7 @@ msgstr "[_mc_] J'étais, euh... en train d'attraper des grenouilles."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1161 #-#-# translate crowdin quest_maya_spell_maya_2e6358f6:
 msgid "[_maya_s_confident_] Ah, genital warts."
-msgstr "[Ah, les verrues génitales."
+msgstr "[_maya_s_confident_] Ah, les verrues génitales."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1162 #-#-# translate crowdin quest_maya_spell_maya_ff1bd373:
 msgid "[_mc_] No! Actual frogs!"
@@ -2014,7 +2014,7 @@ msgstr "[_mc_] Non ! De vraies grenouilles !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1163 #-#-# translate crowdin quest_maya_spell_maya_4fd0e5c0:
 msgid "[_maya_s_skeptical_] Why?"
-msgstr "[Pourquoi ?"
+msgstr "[_maya_s_skeptical_] Pourquoi ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1164 #-#-# translate crowdin quest_maya_spell_maya_9568880a:
 msgid "[_mc_] Err, just in case that spell needs to be done."
@@ -2030,7 +2030,7 @@ msgstr "[_maya_s_skeptical_] Se promener dans la forêt, contempler les misères
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1168 #-#-# translate crowdin quest_maya_spell_maya_4ff509d0:
 msgid "[_maya_s_skeptical_] Why are you obsessing over this?"
-msgstr "[Pourquoi es-tu obsédé par ça ?"
+msgstr "[_maya_s_skeptical_] Pourquoi es tu obsédé par ça ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1170 #-#-# translate crowdin quest_maya_spell_maya_73cc4cd0:
 msgid "[_mc_] I mean, computers don't just spontaneously catch on fire for nothing...{space=-55}"
@@ -2042,7 +2042,7 @@ msgstr "[_maya_s_bored_] Câblage défectueux. J'ai fait la paix avec la radiner
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1173 #-#-# translate crowdin quest_maya_spell_maya_60b5404d:
 msgid "[_maya_s_bored_] And so should you."
-msgstr "[Et vous devriez en faire autant."
+msgstr "[_maya_s_bored_] Et vous devriez en faire autant."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1174 #-#-# translate crowdin quest_maya_spell_maya_e1bb2b71:
 msgid "[_mc_] Maybe... but still, don't you—"
@@ -2072,7 +2072,7 @@ msgstr "La fontaine à soda étincelle en un instant et des flammes sautent dans
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1202 #-#-# translate crowdin quest_maya_spell_maya_0a99df4b:
 msgid "[_maya_s_annoyed_] Oh, perfect. Just the kind of soda I was hoping for."
-msgstr "[Oh, parfait. Juste le genre de soda que j'espérais."
+msgstr "[_maya_s_annoyed_] Oh, parfait. Juste le genre de soda que j'espérais."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1203 #-#-# translate crowdin quest_maya_spell_maya_1624d772:
 msgid "[_mc_] Quick, we need to do something!"
@@ -2080,7 +2080,7 @@ msgstr "[_mc_] Vite, il faut faire quelque chose !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1204 #-#-# translate crowdin quest_maya_spell_maya_ed372af1:
 msgid "[_maya_s_eyeroll_] Do we? I was just going to let it catch the whole building on fire."
-msgstr "[C'est le cas ? J'allais juste le laisser mettre le feu à tout le bâtiment."
+msgstr "[_maya_s_eyeroll_] C'est le cas ? J'allais juste le laisser mettre le feu à tout le bâtiment."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1205 #-#-# translate crowdin quest_maya_spell_maya_1e14e148:
 msgid "Hmm... as tempting as that actually is..."
@@ -2096,7 +2096,7 @@ msgstr "Eh bien, il n'y a rien à faire."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1235 #-#-# translate crowdin quest_maya_spell_maya_2b9550b5:
 msgid "[_maya_s_thinking_] You really love whipping your dick out and pissing on things, don't you?{space=-75}"
-msgstr "[Tu aimes vraiment sortir ta bite et pisser sur les choses, n'est-ce pas ?"
+msgstr "[_maya_s_thinking_] Tu aimes vraiment sortir ta bite et pisser sur les choses, n'est-ce pas ?{space=-75}"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1238 #-#-# translate crowdin quest_maya_spell_maya_0260907f:
 msgid "[_mc_] It's a primordial urge, okay? Territory marking and shit."
@@ -2104,7 +2104,7 @@ msgstr "[_mc_] C'est un besoin primordial, d'accord ? Le marquage du territoire 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1239 #-#-# translate crowdin quest_maya_spell_maya_ce5267f1:
 msgid "[_maya_s_flirty_] Oh, it's an urge, all right."
-msgstr "[Oh, c'est une envie, d'accord."
+msgstr "[_maya_s_flirty_] Oh, c'est une envie, d'accord."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1244 #-#-# translate crowdin quest_maya_spell_maya_bfceffc8:
 msgid "Like a practiced fire pisser, I whip out my hose and aim it at the soda{space=-20}\n"
@@ -2142,7 +2142,7 @@ msgstr "[_mc_] Je l'ai fait, mais seulement pour éteindre un feu qui faisait ra
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1275 #-#-# translate crowdin quest_maya_spell_maya_59e591dd:
 msgid "[_jo_s_cringe_] Then you call for help! Or, god forbid, use water!"
-msgstr "[Alors vous appelez à l'aide ! Ou, à Dieu ne plaise, utilisez de l'eau !"
+msgstr "[_jo_s_cringe_] Alors vous appelez à l'aide ! Ou, à Dieu ne plaise, utilisez de l'eau !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1276 #-#-# translate crowdin quest_maya_spell_maya_da677701:
 msgid "[_mc_] Sorry, I was thinking fast on my feet..."
@@ -2150,11 +2150,11 @@ msgstr "[_mc_] Désolé, je réfléchissais rapidement..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1278 #-#-# translate crowdin quest_maya_spell_maya_9ca9da7d:
 msgid "[_jo_s_displeased_] I'm afraid I'm going to have to give you detention for this, young man.{space=-35}"
-msgstr "[Je crains de devoir vous mettre en retenue pour cela, jeune homme."
+msgstr "[_jo_s_displeased_] Je crains de devoir vous mettre en retenue pour cela, jeune homme.{space=-35}"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1279 #-#-# translate crowdin quest_maya_spell_maya_43e87c93:
 msgid "[_jo_s_displeased_] I can't have students being so careless."
-msgstr "[Je ne peux pas tolérer que des étudiants soient aussi négligents."
+msgstr "[_jo_s_displeased_] Je ne peux pas tolérer que des étudiants soient aussi négligents."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1280 #-#-# translate crowdin quest_maya_spell_maya_1ba02867:
 msgid "Seriously? This is what happens with heroics..."
@@ -2166,11 +2166,11 @@ msgstr "[_mc_] Fine. Peu importe."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1283 #-#-# translate crowdin quest_maya_spell_maya_af494c1b:
 msgid "[_jo_s_displeased_] And don't take that tone with me, mister, or I'll add more time."
-msgstr "[Et ne prenez pas ce ton avec moi, monsieur, ou je rajouterai du temps."
+msgstr "[_jo_s_displeased_] Et ne prenez pas ce ton avec moi, monsieur, ou je rajouterai du temps."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1297 #-#-# translate crowdin quest_maya_spell_maya_54dc825d:
 msgid "[_maya_s_thinking_] Damn, you really pissed her off."
-msgstr "[Bon sang, tu l'as vraiment énervée."
+msgstr "[_maya_s_thinking_] Bon sang, tu l'as vraiment énervée."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1300 #-#-# translate crowdin quest_maya_spell_maya_246be8c4:
 msgid "After scanning the room for a moment, my eyes land on the freshly brewed pot of coffee."
@@ -2190,7 +2190,7 @@ msgstr "[_mc_] Merde. Cela ne s'est pas passé comme prévu."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1326 #-#-# translate crowdin quest_maya_spell_maya_021c01cd:
 msgid "[_guard_s_angry_] Did you just throw my coffee on that fire?!"
-msgstr "[Tu as jeté mon café sur le feu ?!"
+msgstr "[_guard_s_angry_] Tu as jeté mon café sur le feu ?!"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1328 #-#-# translate crowdin quest_maya_spell_maya_8b6a98cd:
 msgid "[_mc_] Err, I think the bigger problem here is the fire..."
@@ -2202,7 +2202,7 @@ msgstr "Que se passe-t-il avec les gens ces derniers temps ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1330 #-#-# translate crowdin quest_maya_spell_maya_22bdc28d:
 msgid "[_guard_s_neutral_phone_] Right... I guess I'll call 911..."
-msgstr "[D'accord... Je suppose que je vais appeler le 911..."
+msgstr "[_guard_s_neutral_phone_] D'accord... Je suppose que je vais appeler le 911..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1331 #-#-# translate crowdin quest_maya_spell_maya_47e31e4c:
 msgid "He grumbles incoherently at me for a moment."
@@ -2250,7 +2250,7 @@ msgstr "[_mc_] Mon Dieu, où sont les gens quand on a besoin d'eux ?!"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1392 #-#-# translate crowdin quest_maya_spell_maya_9148ed5a:
 msgid "[_maya_s_bored_] It's fine, [mc], I got this."
-msgstr "[C'est bon, [mc], je m'en occupe."
+msgstr "[_maya_s_bored_] C'est bon, [mc], je m'en occupe."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1398 #-#-# translate crowdin quest_maya_spell_maya_3cb3417e:
 msgid "As casually as swatting a fly, [maya] upends a pot of water onto the fire.{space=-55}"
@@ -2318,12 +2318,12 @@ msgstr "[_mc_] Tu sais que tu n'as pas besoin de mettre le feu pour attirer mon 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1445 #-#-# translate crowdin quest_maya_spell_maya_fbd258e2:
 msgid "[_maya_s_dramatic_] Oh, but how else would I get that attention I crave so desperately?"
-msgstr "[Oh, mais comment pourrais-je obtenir l'attention dont j'ai si désespérément besoin ?"
+msgstr "[_maya_s_dramatic_] Oh, mais comment pourrais-je obtenir l'attention dont j'ai si désespérément besoin ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1447 #-#-# translate crowdin quest_maya_spell_maya_9a2ab9fc:
 msgid "[_maya_s_dramatic_] My life just isn't complete without your wandering gaze and magnetic{space=-25}\n"
 "personality!"
-msgstr "[Ma vie n'est pas complète sans ton regard errant et ta personnalité magnétique\n"
+msgstr "[_maya_s_dramatic_] Ma vie n'est pas complète sans ton regard errant et ta personnalité magnétique\n"
 "!"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1448 #-#-# translate crowdin quest_maya_spell_maya_83a6cda9:
@@ -2332,7 +2332,7 @@ msgstr "[_mc_] D'accord, d'accord. Calmez-vous. Je plaisantais."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1449 #-#-# translate crowdin quest_maya_spell_maya_4f922506:
 msgid "[_maya_s_sarcastic_] And I was completely sincere."
-msgstr "[Et j'étais tout à fait sincère."
+msgstr "[_maya_s_sarcastic_] Et j'étais tout à fait sincère."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1451 #-#-# translate crowdin quest_maya_spell_maya_304bb035:
 msgid "I wonder what [maya]'s sincerity actually looks like. It's hard to picture.{space=-30}"
@@ -2344,7 +2344,7 @@ msgstr "[_mc_] Quoi qu'il en soit, avez-vous envie d'essayer ce sort maintenant 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1453 #-#-# translate crowdin quest_maya_spell_maya_d4f87526:
 msgid "[_maya_s_neutral_] Why?"
-msgstr "[Pourquoi ?"
+msgstr "[_maya_s_neutral_] Pourquoi ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1454 #-#-# translate crowdin quest_maya_spell_maya_d2fe4361:
 msgid "[_mc_] Oh, I don't know, the fact yet another spontaneous fire has erupted in your presence?"
@@ -2352,7 +2352,7 @@ msgstr "[_mc_] Oh, je ne sais pas, le fait qu'un autre incendie spontané ait é
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1455 #-#-# translate crowdin quest_maya_spell_maya_7f605ec5:
 msgid "[_maya_s_annoyed_] Right, that."
-msgstr "[C'est vrai, ça."
+msgstr "[_maya_s_annoyed_] C'est vrai, ça."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1456 #-#-# translate crowdin quest_maya_spell_maya_4292e3d1:
 msgid "[_mc_] Yeah, that."
@@ -2360,11 +2360,11 @@ msgstr "[_mc_] Oui, c'est ça."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1457 #-#-# translate crowdin quest_maya_spell_maya_9c8c80fc:
 msgid "[_maya_s_smile_] Sure, why not?"
-msgstr "[Bien sûr, pourquoi pas ?"
+msgstr "[_maya_s_smile_] Bien sûr, pourquoi pas ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1458 #-#-# translate crowdin quest_maya_spell_maya_e923ab62:
 msgid "[_maya_s_smile_] I have nothing to lose now but my life."
-msgstr "[Je n'ai plus rien à perdre, sauf ma vie."
+msgstr "[_maya_s_smile_] Je n'ai plus rien à perdre, sauf ma vie."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1459 #-#-# translate crowdin quest_maya_spell_maya_b8e19b97:
 msgid "[_mc_] That's the spirit!"
@@ -2380,7 +2380,7 @@ msgstr "[_mc_] Rejoignez-moi dans la salle de cours de sciences à minuit ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1462 #-#-# translate crowdin quest_maya_spell_maya_85fe9516:
 msgid "[_maya_s_flirty_] Oh, my! What a scandalous hour!"
-msgstr "[Oh, mon Dieu ! Quelle heure scandaleuse !"
+msgstr "[_maya_s_flirty_] Oh, mon Dieu ! Quelle heure scandaleuse !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1463 #-#-# translate crowdin quest_maya_spell_maya_7e216ab0:
 msgid "[_mc_] I'll keep it all business this time."
@@ -2388,11 +2388,11 @@ msgstr "[_mc_] Je vais m'en tenir aux affaires cette fois-ci."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1464 #-#-# translate crowdin quest_maya_spell_maya_7b64d590:
 msgid "[_maya_s_kiss_] Lucky me."
-msgstr "[J'ai de la chance."
+msgstr "[_maya_s_kiss_] J'ai de la chance."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1465 #-#-# translate crowdin quest_maya_spell_maya_64de3971:
 msgid "[_maya_s_kiss_] See you at midnight, then."
-msgstr "[On se voit à minuit, alors."
+msgstr "[_maya_s_kiss_] On se voit à minuit, alors."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1480 #-#-# translate crowdin quest_maya_spell_midnight_getting_late_2286a709:
 msgid "It's getting late. I better get to the science classroom before the [guard] locks me out."
@@ -2490,7 +2490,7 @@ msgstr "[_guard_s_surprised_flashlight_] Huh ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1539 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_77068cd8:
 msgid "[_guard_s_angry_flashlight_] Hey! Are you seriously trying to pull this crap again, kid?"
-msgstr "[Hé ! Tu essaies vraiment de nous refaire le coup, gamin ?"
+msgstr "[_guard_s_angry_flashlight_] Hé ! Tu essaies vraiment de nous refaire le coup, gamin ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1540 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_3e0d3e87:
 msgid "Damn, I should have known he's not as stupid as he looks."
@@ -2514,7 +2514,7 @@ msgstr "Ne bougez pas un muscle... ne bougez pas un muscle..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1546 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_1fbba4a8:
 msgid "[_guard_s_suspicious_flashlight_] Quit playing school clown. You're coming with me."
-msgstr "[Arrête de faire le clown de l'école. Tu viens avec moi."
+msgstr "[_guard_s_suspicious_flashlight_] Arrête de faire le clown de l'école. Tu viens avec moi."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1548 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_7980c5b6:
 msgid "Damn it! So close to working."
@@ -2638,7 +2638,7 @@ msgstr "[_mc_] Une nuit paisible, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1642 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_219bb188:
 msgid "[_guard_s_surprised_flashlight_] Sorry! I didn't know anyone was in here..."
-msgstr "[Désolé ! Je ne savais pas qu'il y avait quelqu'un ici..."
+msgstr "[_guard_s_surprised_flashlight_] Désolé ! Je ne savais pas qu'il y avait quelqu'un ici..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1643 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_16ff994c:
 msgid "[_mc_] Don't worry. It's fine."
@@ -2652,7 +2652,7 @@ msgstr "[_mc_] Je fais juste un peu de travail supplémentaire, en étudiant la 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1646 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_e0e5cddb:
 msgid "[_guard_s_neutral_flashlight_] Err, right."
-msgstr "[Erreur, c'est vrai."
+msgstr "[_guard_s_neutral_flashlight_] Erreur, c'est vrai."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1647 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_4dcc5752:
 msgid "[_mc_] It's fascinating! You can stay and watch, if you want?"
@@ -2660,7 +2660,7 @@ msgstr "[_mc_] C'est fascinant ! Vous pouvez rester et regarder, si vous voulez 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1648 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_2633d6b1:
 msgid "[_guard_s_neutral_flashlight_] I should finish my nightly duty..."
-msgstr "[Je dois finir mon travail de nuit..."
+msgstr "[_guard_s_neutral_flashlight_] Je dois finir mon travail de nuit..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1649 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_feb7610b:
 msgid "[_mc_] Very well. I admire your dedication to the job, sir."
@@ -2668,7 +2668,7 @@ msgstr "[_mc_] Très bien. J'admire votre dévouement au travail, monsieur."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1650 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_8171aad7:
 msgid "[_guard_s_smile_flashlight_] Hey, thanks!"
-msgstr "[Hé, merci !"
+msgstr "[_maya_s_smile_flashlight_] Hé, merci !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1651 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_b8b070fd:
 msgid "[_guard_s_smile_flashlight_] Keep up the good work, kid."
@@ -2696,7 +2696,7 @@ msgstr "Il ne reste plus qu'à attendre [maya]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1679 #-#-# translate crowdin quest_maya_spell_busted_upon_entering_dbe809a1:
 msgid "[_maya_s_skeptical_] Where were you last night, [mc]? I waited!"
-msgstr "[Où étiez-vous hier soir, [mc] ? J'ai attendu !"
+msgstr "[_maya_s_skeptical_] Où étiez-vous hier soir, [mc] ? J'ai attendu !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1680 #-#-# translate crowdin quest_maya_spell_busted_upon_entering_407fe60e:
 msgid "Damn, I never thought I'd hear those words in my life."
@@ -2720,11 +2720,11 @@ msgstr "[_mc_] On réessayera ce soir, d'accord ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1685 #-#-# translate crowdin quest_maya_spell_busted_upon_entering_37c87f5d:
 msgid "[_maya_s_eyeroll_hands_down_] Fine."
-msgstr "[Très bien."
+msgstr "[_maya_s_eyeroll_hands_down_] Très bien."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1686 #-#-# translate crowdin quest_maya_spell_busted_upon_entering_cdbd9e70:
 msgid "[_maya_s_annoyed_] But stand me up once, strike one. Stand me up twice... I bury your body."
-msgstr "[Mais si tu me lèves une fois, tu fais un premier strike. Si je me lève deux fois... J'enterre ton corps."
+msgstr "[_maya_s_annoyed_] Mais si tu me lèves une fois, tu fais un premier strike. Si je me lève deux fois... J'enterre ton corps."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1687 #-#-# translate crowdin quest_maya_spell_busted_upon_entering_fa53b167:
 msgid "[_mc_] Err, right."
@@ -2788,15 +2788,15 @@ msgstr "[_guard_s_surprised_flashlight_] Huh ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1749 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_54e69401:
 msgid "[_guard_s_surprised_flashlight_] Who keeps moving this ugly-ass statue?"
-msgstr "[Qui continue à déplacer cette statue moche ?"
+msgstr "[_guard_s_surprised_flashlight_] Qui continue à déplacer cette statue moche ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1750 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_be4b31ce:
 msgid "[_guard_s_neutral_flashlight_] Maybe I'm finally losing my grip on reality."
-msgstr "[Peut-être que je perds enfin mon emprise sur la réalité."
+msgstr "[_guard_s_surprised_flashlight_] Peut-être que je perds enfin mon emprise sur la réalité."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1751 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_dc9d82cb:
 msgid "[_guard_s_neutral_flashlight_] I'm even talking to myself now..."
-msgstr "[Je me parle à moi-même maintenant..."
+msgstr "[_guard_s_surprised_flashlight_] Je me parle à moi-même maintenant..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1752 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_c8e45123:
 msgid "[_guard_s_neutral_flashlight_] ..."
@@ -2804,11 +2804,11 @@ msgstr "[_guard_s_neutral_flashlight_]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1753 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_1cd1333e:
 msgid "[_guard_s_angry_flashlight_] I knew those diet donuts were bad for my mental health!"
-msgstr "[Je savais que ces beignets diététiques étaient mauvais pour ma santé mentale !"
+msgstr "[_guard_s_surprised_flashlight_] Je savais que ces beignets diététiques étaient mauvais pour ma santé mentale !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1757 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_9ee99224:
 msgid "[_guard_s_suspicious_flashlight_] Why would someone put this ugly thing here?"
-msgstr "[Pourquoi quelqu'un mettrait-il ce truc moche ici ?"
+msgstr "[_guard_s_surprised_flashlight_] Pourquoi quelqu'un mettrait-il ce truc moche ici ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1758 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_cd920b4e:
 msgid "Gee, thanks. Tell me how you really feel."
@@ -2816,15 +2816,15 @@ msgstr "Gee, merci. Dis-moi ce que tu ressens vraiment."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1759 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_5b40d836:
 msgid "[_guard_s_suspicious_flashlight_] Maybe it's some science geek?"
-msgstr "[C'est peut-être un geek de la science ?"
+msgstr "[_guard_s_surprised_flashlight_] C'est peut-être un geek de la science ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1760 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_44450d4c:
 msgid "[_guard_s_suspicious_flashlight_] I guess that would make sense."
-msgstr "[Je suppose que c'est logique."
+msgstr "[_guard_s_surprised_flashlight_] Je suppose que c'est logique."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1761 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_74f72d93:
 msgid "[_guard_s_neutral_flashlight_] Oh, well."
-msgstr "[Oh, bien."
+msgstr "[_guard_s_surprised_flashlight_] Oh, bien."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1767 #-#-# translate crowdin quest_maya_spell_statue_upon_entering_cae5f18c:
 msgid "Thank god, he finally left. I can't believe he fell for it again!"
@@ -2844,15 +2844,15 @@ msgstr "Il ne reste plus qu'à attendre [maya]..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1799 #-#-# translate crowdin quest_maya_spell_spell_7f81fb49:
 msgid "[_maya_s_bored_] 'Sup, witch boy?"
-msgstr "[_maya_s_bored_] 'Sup, witch boy ?"
+msgstr "[_maya_s_bored_] 'Sup, garçon sorcier ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1801 #-#-# translate crowdin quest_maya_spell_spell_2ba276ad:
 msgid "[_maya_s_confident_] I didn't realize we were dressing up."
-msgstr "[Je n'avais pas réalisé qu'on se déguisait."
+msgstr "[_maya_s_confident_] Je n'avais pas réalisé qu'on se déguisait."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1802 #-#-# translate crowdin quest_maya_spell_spell_5ae0dc29:
 msgid "[_maya_s_confident_] If I did, I'd have come as the dancer to your... disco ball?"
-msgstr "[Si c'était le cas, je serais venue en tant que danseuse à votre... bal disco ?"
+msgstr "[_maya_s_confident_] Si c'était le cas, je serais venue en tant que danseuse à votre... bal disco ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1803 #-#-# translate crowdin quest_maya_spell_spell_abd42aad:
 msgid "[_mc_] Heh! Not a costume party this time. I'm just a master of disguise."
@@ -2860,7 +2860,7 @@ msgstr "[_mc_] Heh ! Ce n'est pas une fête costumée cette fois. Je suis juste 
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1804 #-#-# translate crowdin quest_maya_spell_spell_aaa13de0:
 msgid "[_maya_s_confident_] Master, huh? Someone's confident."
-msgstr "[Maître, hein ? Quelqu'un est confiant."
+msgstr "[_maya_s_confident_] Maître, hein ? Quelqu'un est confiant."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1805 #-#-# translate crowdin quest_maya_spell_spell_d52c2f2d:
 msgid "[_mc_] How'd you get in here so easily?"
@@ -2868,11 +2868,11 @@ msgstr "[_mc_] Comment es-tu entré ici si facilement ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1806 #-#-# translate crowdin quest_maya_spell_spell_50b890df:
 msgid "[_maya_s_bored_] This might sound like a novel concept, but hear me out..."
-msgstr "[Cela peut sembler un concept nouveau, mais écoutez-moi..."
+msgstr "[_maya_s_bored_] Cela peut sembler un concept nouveau, mais écoutez-moi..."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1807 #-#-# translate crowdin quest_maya_spell_spell_1728e808:
 msgid "[_maya_s_bored_] I walked in."
-msgstr "[Je suis entré."
+msgstr "[_maya_s_bored_] Je suis entré."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1808 #-#-# translate crowdin quest_maya_spell_spell_aa7930b7:
 msgid "Ugh... and meanwhile, I'm playing hide and seek with the [guard]..."
@@ -2884,11 +2884,11 @@ msgstr "[_mc_] Je n'étais pas sûr que tu viendrais, malgré tout."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1811 #-#-# translate crowdin quest_maya_spell_spell_1c43690b:
 msgid "[_maya_s_dramatic_] What do you mean? This is exactly how I wanted to spend my evening.{space=-55}"
-msgstr "[Qu'est-ce que tu veux dire ? C'est exactement comme ça que je voulais passer ma soirée."
+msgstr "[_maya_s_dramatic_] Qu'est-ce que tu veux dire ? C'est exactement comme ça que je voulais passer ma soirée.{space=-55}"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1812 #-#-# translate crowdin quest_maya_spell_spell_3a88f6c5:
 msgid "[_maya_s_dramatic_] Nothing gets me going like knockoff spells from a knockoff witch."
-msgstr "[Rien ne m'excite plus que les sortilèges d'une sorcière de pacotille."
+msgstr "[_maya_s_dramatic_] Rien ne m'excite plus que les sortilèges d'une sorcière de pacotille."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1813 #-#-# translate crowdin quest_maya_spell_spell_9c044d8c:
 msgid "[_mc_] Hey, I'm working with what I got, okay?"
@@ -2896,7 +2896,7 @@ msgstr "[_mc_] Je fais avec ce que j'ai, d'accord ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1814 #-#-# translate crowdin quest_maya_spell_spell_dcfdc13e:
 msgid "[_maya_s_sarcastic_] I imagine that's your life motto."
-msgstr "[J'imagine que c'est la devise de votre vie."
+msgstr "[_maya_s_sarcastic_] J'imagine que c'est la devise de votre vie."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1815 #-#-# translate crowdin quest_maya_spell_spell_c156a907:
 msgid "[_mc_] Very funny."
@@ -2912,7 +2912,7 @@ msgstr "[_maya_s_sarcastique_] Je peux apprécier une certaine conscience de soi
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1818 #-#-# translate crowdin quest_maya_spell_spell_b3f140b8:
 msgid "[_maya_s_dramatic_] Anyway, are we lighting this joint up or what?"
-msgstr "[Quoi qu'il en soit, est-ce qu'on allume ce joint ou quoi ?"
+msgstr "[_maya_s_dramatic_] Quoi qu'il en soit, est-ce qu'on allume ce joint ou quoi ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1821 #-#-# translate crowdin quest_maya_spell_spell_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -2924,7 +2924,7 @@ msgstr "[_mc_] Vous avez apporté de la drogue ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1825 #-#-# translate crowdin quest_maya_spell_spell_ebe78088:
 msgid "[_maya_s_eyeroll_] Of course. It's part of the Witchcraft Starter Kit. Duh."
-msgstr "[Bien sûr. Il fait partie du kit de démarrage de la sorcellerie. Duh."
+msgstr "[_maya_s_eyeroll_] Bien sûr. Il fait partie du kit de démarrage de la sorcellerie. Duh."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1826 #-#-# translate crowdin quest_maya_spell_spell_a4d32af8:
 msgid "[_mc_] Ah, my bad. I thought it was the Satan Worship Starter Kit."
@@ -2940,7 +2940,7 @@ msgstr "[_mc_] Maintenant, je sais ce que je ferai la prochaine fois."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1830 #-#-# translate crowdin quest_maya_spell_spell_8575a102:
 msgid "[_maya_s_smile_] Oh? Are we going to make a habit of this?"
-msgstr "[Oh ? Est-ce qu'on va en faire une habitude ?"
+msgstr "[_maya_s_smile_] Oh ? Est-ce qu'on va en faire une habitude ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1831 #-#-# translate crowdin quest_maya_spell_spell_04ca843a:
 msgid "[_mc_] That's what drugs do, you know?"
@@ -2948,7 +2948,7 @@ msgstr "[_mc_] C'est ce que font les drogues, vous savez ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1832 #-#-# translate crowdin quest_maya_spell_spell_60874128:
 msgid "[_maya_s_smile_] I didn't! Thank goodness you're here to enlighten me."
-msgstr "[Je ne l'ai pas fait ! Heureusement que tu es là pour m'éclairer."
+msgstr "[_maya_s_smile_] Je ne l'ai pas fait ! Heureusement que tu es là pour m'éclairer."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1833 #-#-# translate crowdin quest_maya_spell_spell_238b973a:
 msgid "[_mc_] I live to be of use."
@@ -2960,7 +2960,7 @@ msgstr "[_mc_] Faisons-le."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1837 #-#-# translate crowdin quest_maya_spell_spell_52d71f74:
 msgid "[_maya_s_blush_] So serious! So ready to get down to business!"
-msgstr "[Si sérieux ! Si prêt à passer aux choses sérieuses !"
+msgstr "[_maya_s_blush_] Si sérieux ! Si prêt à passer aux choses sérieuses !"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1838 #-#-# translate crowdin quest_maya_spell_spell_b198b202:
 msgid "[_mc_] Aren't you anxious to see if this works?"
@@ -2968,7 +2968,7 @@ msgstr "[_mc_] N'êtes-vous pas impatient de voir si cela fonctionne ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1839 #-#-# translate crowdin quest_maya_spell_spell_404b5a7f:
 msgid "[_maya_s_bored_] I assume nothing will work at all times."
-msgstr "[Je pars du principe que rien ne fonctionnera à tout moment."
+msgstr "[_maya_s_bored_] Je pars du principe que rien ne fonctionnera à tout moment."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1840 #-#-# translate crowdin quest_maya_spell_spell_dc06e070:
 msgid "[_mc_] Always the cynic, eh?"
@@ -2976,7 +2976,7 @@ msgstr "[_mc_] Toujours le cynique, hein ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1841 #-#-# translate crowdin quest_maya_spell_spell_9a6f9f50:
 msgid "[_maya_s_bored_] That's my favorite emotion."
-msgstr "[C'est mon émotion préférée."
+msgstr "[_maya_s_bored_] C'est mon émotion préférée."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1842 #-#-# translate crowdin quest_maya_spell_spell_48cff45a:
 msgid "[_mc_] Is that even an emotion?"
@@ -2984,7 +2984,7 @@ msgstr "[_mc_] Est-ce que c'est une émotion ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1843 #-#-# translate crowdin quest_maya_spell_spell_60ec2eb1:
 msgid "[_maya_s_bored_] If it's not, it should be."
-msgstr "[Si ce n'est pas le cas, ça devrait l'être."
+msgstr "[_maya_s_bored_] Si ce n'est pas le cas, ça devrait l'être."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1848 #-#-# translate crowdin quest_maya_spell_spell_e743eb77:
 msgid "[_mc_] Hell yeah, and maybe after we're done we can dance naked under the moon."
