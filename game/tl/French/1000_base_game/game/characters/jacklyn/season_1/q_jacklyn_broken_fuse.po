@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 17:41\n"
+"PO-Revision-Date: 2024-02-16 13:12\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:3 #-#-# translate crowdin jacklyn_quest_jacklyn_broken_fuse_start_a0d205f9:
 msgid "[_jacklyn_s_thinking_] The definition of HD trash!"
@@ -698,7 +698,7 @@ msgstr "\"Je me recommande.\""
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:62
 msgid "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"I think the school nurse would be perfect for this.\""
-msgstr " ? mc.owned_item ('compromising_photo') @|{image = items compromising_photo}|\"Je pense que l'infirmière de l'école serait parfaite pour cela.\""
+msgstr "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"\"Je pense que l'infirmière de l'école serait parfaite pour cela.\""
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:62
 msgid "?jacklyn.lust>=1@[jacklyn.lust]/1|{image= jacklyn contact_icon}|{image= stats lust_3}|\"I think you'd be the best candidate.\""
