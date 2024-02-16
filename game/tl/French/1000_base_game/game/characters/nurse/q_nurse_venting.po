@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:40\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
 msgid "[_mc_] I don't believe what I'm seeing."
@@ -662,7 +662,7 @@ msgstr "[_mc_] Mais vous devez m'aider à parler à la personne. Avez-vous des r
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:295 #-#-# translate crowdin quest_nurse_venting_supplies_maxine_b7aabed9:
 msgid "Deal of the century, right here — give me radios and I'll pretend your crazy theories aren't crazy."
-msgstr "marché conclu of the century, right here-donnez-moi des radios et je prétends que vos théories folles ne sont pas folles."
+msgstr "L'affaire du siècle, juste ici - donnez-moi des radios et je prétendrai que vos théories folles ne sont pas folles."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:296 #-#-# translate crowdin quest_nurse_venting_supplies_maxine_b9a55c91:
 msgid "[_maxine_s_smile_] I'd be willing to consider that deal."
@@ -3481,7 +3481,7 @@ msgstr "Laissez-le la comprendre"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:216
 msgid "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"You're going into the school's vents for me.\""
-msgstr " ? mc.owned_item ('compromising_photo') @|{image = items compromising_photo}|\"Vous allez dans les évents de l'école pour moi.\""
+msgstr "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"Vous allez dans les évents de l'école pour moi.\""
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:216
 msgid "\"I lost my inhaler...\""
