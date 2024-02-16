@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-16 13:12\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:2 #-#-# translate crowdin jacklyn_statement_text_same_room_9bf66073:
 msgid "As much as I'd like to see [jacklyn]'s face when I text her, I don't want her to see mine."
-msgstr "Aussi bien que j'aimerais voir le visage de [jacklyn]quand je la SMS, je ne veux pas qu'elle voit le mien."
+msgstr "Aussi bien que j'aimerais voir le visage de [jacklyn] quand je la sms, je ne veux pas qu'elle voit le mien."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:3 #-#-# translate crowdin jacklyn_statement_text_same_room_ffdec237:
 msgid "She doesn't get embarrassed anyway, and I'm a total tomato."
@@ -2658,7 +2658,7 @@ msgstr "Dieu putain ! Eh bien, elle a fait la plupart du travail ... mais c'est 
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1126 #-#-# translate crowdin jacklyn_statement_statement_8922ba60:
 msgid "Fuck, I still can't believe this just happened..."
-msgstr "Fuck, je n'arrive toujours pas à croire que c'est arrivé ..."
+msgstr "Merde, je n'arrive toujours pas à croire que c'est arrivé ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1129 #-#-# translate crowdin jacklyn_statement_statement_29e26aea:
 msgid "The ride back home was fifty shades of awkward... but damn, that might've been the best night of my life..."
@@ -3170,7 +3170,7 @@ msgstr "?mc.money>=25 et mc.intellect>=5@[mc.money]/25|{image=ui hud icon_money}
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:624
 msgid "?quest.jacklyn_statement['salad_made']@|{image= items croutons}|\"Yeah, I made a caesar salad.\""
-msgstr " ? quest.jacklyn_statement ['salad_made'] @|{image= items croutons}|\"Ouais, j'ai fait une salade de caesar.\""
+msgstr "?quest.jacklyn_statement['salad_made']@|{image= items croutons}|\"Ouais, j'ai fait une salade de caesar.\""
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:624
 msgid "?quest.jacklyn_statement['problem_for_later']@|\"Not really... I thought we'd figure it out once you got here.\""
