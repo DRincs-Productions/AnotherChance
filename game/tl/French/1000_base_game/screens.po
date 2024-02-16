@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:11\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
@@ -42,7 +42,7 @@ msgstr "Q.Charger"
 
 # game/1000_base_game/screens.rpy:263
 msgid "Prefs"
-msgstr "Préfs"
+msgstr "Paramètres"
 
 # game/1000_base_game/screens.rpy:304
 msgid "Start"
@@ -74,7 +74,7 @@ msgstr "Quitter"
 
 # game/1000_base_game/screens.rpy:560
 msgid "Version [config.version!t]\n"
-msgstr "Version [ config.version! t ]\n"
+msgstr "Version [config.version!t]\n"
 
 # game/1000_base_game/screens.rpy:566
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
@@ -116,11 +116,11 @@ msgstr "Fenêtre"
 
 # game/1000_base_game/screens.rpy:736
 msgid "Fullscreen"
-msgstr "Ecran plein"
+msgstr "Plein écran"
 
 # game/1000_base_game/screens.rpy:740
 msgid "Rollback Side"
-msgstr "Rannulation de la face"
+msgstr "Côté du retour"
 
 # game/1000_base_game/screens.rpy:748
 msgid "Unseen Text"
@@ -172,7 +172,7 @@ msgstr "Souris"
 
 # game/1000_base_game/screens.rpy:995
 msgid "Gamepad"
-msgstr "Gamepad"
+msgstr "Manette de jeu"
 
 # game/1000_base_game/screens.rpy:1008
 msgid "Enter"
@@ -200,7 +200,7 @@ msgstr "Naviguez dans l'interface."
 
 # game/1000_base_game/screens.rpy:1020
 msgid "Escape"
-msgstr "Echap"
+msgstr "Echappe"
 
 # game/1000_base_game/screens.rpy:1021
 msgid "Accesses the game menu."
@@ -212,7 +212,7 @@ msgstr "Ctrl"
 
 # game/1000_base_game/screens.rpy:1025
 msgid "Skips dialogue while held down."
-msgstr "Ignorte le dialogue en cours d'arrêt."
+msgstr "Permet de sauter des dialogues lorsque la touche est maintenue enfoncée."
 
 # game/1000_base_game/screens.rpy:1028
 msgid "Tab"
@@ -281,16 +281,16 @@ msgstr "Déclencheur droit\n"
 # game/1000_base_game/screens.rpy:1082
 msgid "Left Trigger\n"
 "Left Shoulder"
-msgstr "Déclencheur de gauche\n"
-"Shoulder de gauche"
+msgstr "Gâchette gauche\n"
+"Bouton gauche"
 
 # game/1000_base_game/screens.rpy:1086
 msgid "Right Shoulder"
-msgstr "Right Shoulder"
+msgstr "Bouton droite"
 
 # game/1000_base_game/screens.rpy:1091
 msgid "D-Pad, Sticks"
-msgstr "D-Pad, Sticks"
+msgstr "D-Pad, manette"
 
 # game/1000_base_game/screens.rpy:1095
 msgid "Start, Guide"
