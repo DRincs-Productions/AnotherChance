@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:39\n"
+"PO-Revision-Date: 2024-02-16 11:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:8 #-#-# translate crowdin quest_isabelle_dethroning_start_f602badf:
 msgid "[_mc_] Hi, [isabelle]! I managed to score a meeting with [maxine]."
@@ -488,7 +488,7 @@ msgstr "[_isabelle_s_laughing_] Je suis heureux que nous ayons mis cela derrièr
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:310 #-#-# translate crowdin quest_isabelle_dethroning_start_43692e38:
 msgid "[_isabelle_s_confident_] How did the photo turn out?"
-msgstr "[_isabelle_s_confident_] Comment la photo a-elle été sortie ?"
+msgstr "[_isabelle_s_confident_] Comment la photo a-t-elle été sortie ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:311 #-#-# translate crowdin quest_isabelle_dethroning_start_0c4ad78d:
 msgid "[_mc_] Have a look."
@@ -780,7 +780,7 @@ msgstr "[_mc_] Bien, [maxine] n'est pas exactement le genre à prendre en charge
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:480 #-#-# translate crowdin quest_isabelle_dethroning_climb_down_742a6387:
 msgid "[_isabelle_s_laughing_] Fair enough!"
-msgstr "[_isabelle_s_laughing_] Fair suffisante !"
+msgstr "[_isabelle_s_laughing_] Juste assez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:483 #-#-# translate crowdin quest_isabelle_dethroning_climb_down_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -804,7 +804,7 @@ msgstr "[_mc_] Sauf un échiquier."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:491 #-#-# translate crowdin quest_isabelle_dethroning_climb_down_753b03d1:
 msgid "[_isabelle_s_excited_] Fair enough!"
-msgstr "[_isabelle_s_excited_] Fair suffisante !"
+msgstr "[_isabelle_s_excited_] Juste assez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:492 #-#-# translate crowdin quest_isabelle_dethroning_climb_down_b40f4a5f:
 msgid "[_mc_] Come on, let's find [maxine]."
@@ -1016,7 +1016,7 @@ msgstr "[_mc_] Sérieusement ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:565 #-#-# translate crowdin quest_isabelle_dethroning_homeroom_sex_f6a6bccd:
 msgid "[_isabelle_s_laughing_] No, silly! I'm just taking the piss."
-msgstr "[_isabelle_s_laughing_] Non, idiot ! Je prends juste le pisse."
+msgstr "[_isabelle_s_laughing_] Non, idiot ! Je prends juste la pisse."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:566 #-#-# translate crowdin quest_isabelle_dethroning_homeroom_sex_c6e161cf:
 msgid "[_mc_] Damn, you totally had me."
@@ -1288,7 +1288,7 @@ msgstr "[_isabelle_s_desk_sex_licking1_] Mhmmmm ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:781 #-#-# translate crowdin quest_isabelle_dethroning_homeroom_sex_4960a567:
 msgid "[_isabelle_s_desk_sex_licking1_] F-fuck me, please..."
-msgstr "[_isabelle_s_desk_sex_licking1_] F-fuck-moi, s'il vous plaît ..."
+msgstr "[_isabelle_s_desk_sex_licking1_] F-Baise-moi, s'il vous plaît ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:782 #-#-# translate crowdin quest_isabelle_dethroning_homeroom_sex_f4356942:
 msgid "[_mc_] Not until you say my name."
@@ -4293,8 +4293,8 @@ msgstr "[_mc_]..."
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2775 #-#-# translate crowdin quest_isabelle_dethroning_dinner_maxine_5fd5f24b:
 msgid "[_maxine_s_excited_] Anyway, watch how [most_love]'s pupils dilate whenever she looks\n"
 "over here."
-msgstr "[_maxine_s_excited_] En tout cas, regardez comment les élèves de [most_love]dilate chaque fois qu'elle a l'air de\n"
-"ici."
+msgstr "[_maxine_s_excited_] Quoi qu'il en soit, regardez comment les pupilles [most_love] de la jeune femme se dilatent chaque fois qu'elle regarde\n"
+"par ici."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2776 #-#-# translate crowdin quest_isabelle_dethroning_dinner_maxine_536cbd6f:
 msgid "[_maxine_s_excited_] A soft shade of pink kissing her cheeks."
@@ -5620,7 +5620,7 @@ msgstr "[_kate_s_cowering_] Je jure que je viens de voir un cochon de fantôme !
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3539 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_9b6c62da:
 msgid "[_kate_s_cowering_] I was freaking out until you got here!"
-msgstr "[_kate_s_cowering_] Je me suis libéré jusqu'à ce que vous êtes là !"
+msgstr "[ _kate_s_cowering_ ] J'ai paniqué jusqu'à ce que vous soyez là !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3540 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_f3337617:
 msgid "[_mc_] Mhm..."
@@ -5796,7 +5796,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3686 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_4993a4ef:
 msgid "[_kate_s_hate_sex_tearing_up_spanking1_] Noooo! Stop!"
-msgstr "[_kate_s_hate_sex_tearing_up_spanking1_] Nooono ! Arrêtez !"
+msgstr "[_kate_s_hate_sex_tearing_up_spanking1_] Nooon ! Arrêtez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3687 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_9d1ed019:
 msgid "[_kate_s_hate_sex_tearing_up_spanking1_] This hurts too much!"
@@ -5890,7 +5890,7 @@ msgstr "Je n'arrive pas à croire que [kate] soit déjà mouillé."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3781 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_b2ad4df0:
 msgid "I wonder if it's from the spanking?"
-msgstr "Je me demande si c'est de la spanking ?"
+msgstr "Je me demande si c'est de la fessée ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3782 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_a98b8e8c:
 msgid "Probably just the fact that she thinks I'm Chad."
@@ -6038,7 +6038,7 @@ msgstr "[_kate_s_hate_sex_vaginal4_] Dieu, vous êtes un tel animal !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3910 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_1e226321:
 msgid "[_kate_s_hate_sex_vaginal4_] Fuck me! Fuck me harder!"
-msgstr "[_kate_s_hate_sex_vaginal4_] Baise-moi ! Fuck-moi plus fort !"
+msgstr "[_kate_s_hate_sex_vaginal4_] Baise-moi ! Baise-moi plus fort !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3911 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_a0fbdc22:
 msgid "[_mc_] Mmhh! Mmhh!"
@@ -6538,7 +6538,7 @@ msgstr "Des moyens que je n'ai pas pris en compte avant ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4486 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_c3a155a0:
 msgid "Fuck, I better go check on her."
-msgstr "Fuck, je ferais mieux de vérifier sur elle."
+msgstr "Merde, je ferais mieux de vérifier sur elle."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4488 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_c6df1f4f:
 msgid "She looked devastated."
@@ -6644,7 +6644,7 @@ msgstr "[_mc_] Oink !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4545 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_13c7d29d:
 msgid "[_kate_s_cowering_] N-noooo! Go away!"
-msgstr "[_kate_s_cowering_] N-Nooono ! Vas-y !"
+msgstr "[_kate_s_cowering_] N-Nooon ! Vas-y !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4546 #-#-# translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_eba44f7e:
 msgid "[_mc_] Ooooink, oink, oink, oink!"
@@ -7501,7 +7501,7 @@ msgstr "Je ne sais pas pourquoi je suis tout ce qui s'inquiète."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4987 #-#-# translate crowdin quest_isabelle_dethroning_panik_outside_e6a3089b:
 msgid "Sure, she's been a bit clumsy lately... but surely she's not going to fall off the roof."
-msgstr "Bien sûr, elle a été un peu maladroit ces derniers temps ... mais elle ne va sûrement pas tomber du toit."
+msgstr "Bien sûr, elle a été un peu maladroite ces derniers temps ... mais elle ne va sûrement pas tomber du toit."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4988 #-#-# translate crowdin quest_isabelle_dethroning_panik_outside_da1daeaf:
 msgid "It's weird that she's up there, but what can you do?"
