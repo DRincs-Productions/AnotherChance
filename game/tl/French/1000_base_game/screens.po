@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 14:56\n"
+"PO-Revision-Date: 2024-02-16 16:37\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
@@ -248,7 +248,7 @@ msgstr "Prend une capture d'écran."
 
 # game/1000_base_game/screens.rpy:1049
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr "Active ou désactive l'assistance {a=https: //www.renpy.org/l/voicing}self-voicing {/a}."
+msgstr "Bascule des fonctions d'assistance {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
 
 # game/1000_base_game/screens.rpy:1055
 msgid "Left Click"
