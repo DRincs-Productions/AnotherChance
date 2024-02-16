@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:41\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:89 #-#-# translate crowdin quest_fall_in_newfall_not_started_home_bedroom_bed_7b854a1e:
 msgid "My work here is done."
@@ -746,7 +746,7 @@ msgstr "[_maya_s_flirty_] Nous pouvons faire cum-on-the-back, mais seulement si 
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:585 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_a16cb774:
 msgid "Fuck me..."
-msgstr "Fuck-moi ..."
+msgstr "Baise-moi ..."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:586 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_7e981a01:
 msgid "[_mc_] I'll be a gentleman and just let you swallow."
@@ -1072,7 +1072,7 @@ msgstr "Merde. Je vais devoir réparer ça plus tard."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:712 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_fb612052:
 msgid "[_isabelle_s_laughing_] Heya!"
-msgstr "[_isabelle_s_laughing_] Héa !"
+msgstr "[_isabelle_s_laughing_] Hé !"
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:713 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_9c78e427:
 msgid "Her smile always makes my heart a little bit lighter..."
@@ -1172,7 +1172,7 @@ msgstr "[_isabelle_s_angry_] Merci de me laisser savoir, je suppose."
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:752 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_2c126fa5:
 msgid "Fuck me! Why do I always have to run my mouth?"
-msgstr "Fuck-moi ! Pourquoi dois-je toujours courir ma bouche ?"
+msgstr "Baise-moi ! Pourquoi dois-je toujours courir ma bouche ?"
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:758 #-#-# translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_a3dc5fe1:
 msgid "[_mc_] I didn't mean it like that!"
@@ -1642,7 +1642,7 @@ msgstr "\" Je suis désolé. Tu as l'air super. \""
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:527
 msgid "?mc.owned_item('ball_of_yarn')@|{image=items ball_of_yarn}|\"In that case, it's your lucky day.\""
-msgstr " ? mc.owned_item ('ball_of_fil') @|{image = items ball_of_fil}|\"Dans ce cas, c'est votre jour de chance.\""
+msgstr "?mc.owned_item('ball_of_yarn')@|{image=items ball_of_yarn}|\"Dans ce cas, c'est votre jour de chance.\""
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:527
 msgid "\"I don't have any on me...\""
