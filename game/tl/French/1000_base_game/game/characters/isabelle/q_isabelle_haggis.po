@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:39\n"
+"PO-Revision-Date: 2024-02-16 11:15\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:5 #-#-# translate crowdin isabelle_quest_haggis_deliver_c4773099:
 msgid "[_isabelle_s_excited_] What is this?"
@@ -654,7 +654,7 @@ msgstr "[_mc_] Je n'ai pas toujours été le meilleur, alors j'aimerais faire qu
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:332 #-#-# translate crowdin isabelle_quest_haggis_isabelle_detention_c20ffb24:
 msgid "[_isabelle_s_excited_] That's kind of you, but you can't buy someone's forgiveness."
-msgstr "[_isabelle_s_excited_] C'est gentille de vous, mais vous ne pouvez pas acheter le pardon de quelqu'un."
+msgstr "[_isabelle_s_excited_] C'est gentil de vous, mais vous ne pouvez pas acheter le pardon de quelqu'un."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:335 #-#-# translate crowdin isabelle_quest_haggis_isabelle_detention_ed12a157:
 msgid "[_mc_] You should get the reward."
@@ -990,7 +990,7 @@ msgstr "[_mc_] Nous avons décidé de donner la récompense au [isabelle]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:489 #-#-# translate crowdin isabelle_quest_haggis_isabelle_winner_7a7ca9e1:
 msgid "[_isabelle_s_blush_] They're too nice!"
-msgstr "[_isabelle_s_blush_] Ils sont trop gentilles !"
+msgstr "[_isabelle_s_blush_] Ils sont trop gentils !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:490 #-#-# translate crowdin isabelle_quest_haggis_isabelle_winner_d2b26d30:
 msgid "[_mrsl_s_excited_] A good choice. How did you decide that?"
