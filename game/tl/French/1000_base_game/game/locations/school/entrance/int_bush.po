@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:40\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:48 #-#-# translate crowdin school_entrance_bush_interact_a31a7204:
 msgid "Always be sure to check your local bush for a certain Italian assassin."
@@ -390,7 +390,7 @@ msgstr "\"Que faites-vous dans ce buisson ?\""
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:66
 msgid "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"This is not the first time I've caught you.\""
-msgstr " ? mc.owned_item ('compromising_photo') @|{image = items compromising_photo}|\"Ce n'est pas la première fois que je vous attrape.\""
+msgstr "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"Ce n'est pas la première fois que je vous attrape.\""
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:138
 msgid "\"I'm taking you to her right now.\""
