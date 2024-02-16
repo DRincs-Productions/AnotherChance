@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:40\n"
+"PO-Revision-Date: 2024-02-16 14:56\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:10 #-#-# translate crowdin quest_nurse_photogenic_strawberry_juice_69d25e76:
 msgid "[_mc_] Ah, the lifeblood courses through my veins once more!"
@@ -18,7 +18,7 @@ msgstr "[_mc_] Ah, les cours de sauvetage à travers mes veines une fois de plus
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:16 #-#-# translate crowdin quest_nurse_photogenic_start_51ff6af4:
 msgid "Damn, that last staircase took the piss out of me..."
-msgstr "Merde, ce dernier escalier a pris le pisse de moi ..."
+msgstr "Merde, ce dernier escalier a pris la pisse de moi ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:17 #-#-# translate crowdin quest_nurse_photogenic_start_91d91f27:
 msgid "Too many pizzas, too little exercise..."
@@ -30,7 +30,7 @@ msgstr "Hmm ... ça n'a jamais eu lieu avant ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:22 #-#-# translate crowdin quest_nurse_photogenic_start_4e25a91f:
 msgid "My heart is trying to break out of my chest..."
-msgstr "Mon coeur essaie de sortir de ma poitrine ..."
+msgstr "Mon cœur essaie de sortir de ma poitrine ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:26 #-#-# translate crowdin quest_nurse_photogenic_start_f611d06a:
 msgid "I never knew what the galaxy looked like up close. They say that there{space=-35}\n"
@@ -1260,7 +1260,7 @@ msgstr "Appel à l'aide"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:38
 msgid "?not lindsey['romance_disabled']@|{image=nurse_photogenic_not_romance_disabled}|It's probably nothing serious"
-msgstr " ? pas lindsey ['romance_disabled'] @|{image=nurse_photogenic_not_romance_disabled}|Ce n'est probablement rien de sérieux"
+msgstr "?not lindsey['romance_disabled']@|{image=nurse_photogenic_not_romance_disabled}|Ce n'est probablement rien de sérieux"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:38
 msgid "It's probably nothing serious"
