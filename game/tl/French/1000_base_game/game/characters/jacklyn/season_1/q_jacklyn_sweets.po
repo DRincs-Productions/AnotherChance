@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 14:56\n"
+"PO-Revision-Date: 2024-02-19 15:35\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:2 #-#-# translate crowdin quest_jacklyn_sweets_start_9efa726c:
 msgid "[_guard_] ZzzZzzzzZzz..."
@@ -1818,7 +1818,7 @@ msgstr "\"C'est juste de la frustration.\""
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:475
 msgid "?mc.charisma>=7@[mc.charisma]/7|{image=stats cha}|\"If it ain't a crime scene, it ain't art.\"{space=-20}"
-msgstr "?mc.charisma>=7@[mc.charisma]/7|{image=stats cha}|\"Si ce n'est pas une scène de crime, c'est pas l'art.\" {space=-20}"
+msgstr "?mc.charisma>=7@[mc.charisma]/7|{image=stats cha}|\"Si ce n'est pas une scène de crime, Ce n'est pas l'art.\" {space=-20}"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:531
 msgid "\"Could you take a photo for Newfall Culinary?\""
