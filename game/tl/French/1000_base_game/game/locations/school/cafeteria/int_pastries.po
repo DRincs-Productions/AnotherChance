@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:47\n"
+"PO-Revision-Date: 2024-02-19 14:58\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_pastries.rpy:36 #-#-# translate crowdin school_cafeteria_pastries_interact_two_7a443db5:
 msgid "As an unofficial rule, the doughnuts belong to the [guard]. Few dare be seen munching on one in his presence."
@@ -30,7 +30,7 @@ msgstr "Pour ce prix, mieux vaut être bon."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_pastries.rpy:45
 msgid "?mc.money>=2@[mc.money]/2|{image=ui hud icon_money}|Buy a doughnut"
-msgstr "?mc.money> =2@[mc.money]/2|{image=ui hud icon_money }|Achetez un beigne"
+msgstr "?mc.money>=2@[mc.money]/2|{image=ui hud icon_money}|Achetez un beigne"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_pastries.rpy:45
 msgid "Outrageous price!"
