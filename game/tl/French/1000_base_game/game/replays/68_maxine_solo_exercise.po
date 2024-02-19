@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-19 15:34\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:6 #-#-# translate crowdin replay_maxine_solo_exercise_33b6de01:
 msgid "When I woke up this morning, I never thought I'd be doing physical labor in exchange for curse help."
@@ -98,7 +98,7 @@ msgstr "[_maxine_s_electrodes_run_s_excited_s_faster_run_s_generator_lights_] C'
 
 # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:40 #-#-# translate crowdin replay_maxine_solo_exercise_ec140a19:
 msgid "[_mc_] I am... {i}huff...{/} trying..."
-msgstr "[Je suis... {i}huff...{/} en train d'essayer..."
+msgstr "[_mc_] Je suis... {i}huff...{/} en train d'essayer..."
 
 # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:46 #-#-# translate crowdin replay_maxine_solo_exercise_814af03c:
 msgid "I pant through the pain in my lungs, and watch as her computer actually blinks awake."
@@ -106,7 +106,7 @@ msgstr "Je me parie de la douleur dans mes poumons, et je regarde son ordinateur
 
 # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:47 #-#-# translate crowdin replay_maxine_solo_exercise_9eeff879:
 msgid "[_mc_] It's... actually... {i}huff...{/} working...?"
-msgstr "[C'est... en fait... {i}huff...{/} ça marche...?"
+msgstr "[_mc_] C'est... en fait... {i}huff...{/} ça marche...?"
 
 # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:48 #-#-# translate crowdin replay_maxine_solo_exercise_153920bc:
 msgid "[_maxine_s_electrodes_run_s_excited_s_faster_run_s_lights_] Of course it's working! Run, [mc], run!"
@@ -114,7 +114,7 @@ msgstr "[_maxine_s_electrodes_run_s_excited_s_faster_run_s_lights_] Bien sûr qu
 
 # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:50 #-#-# translate crowdin replay_maxine_solo_exercise_c70dbc86:
 msgid "[_mc_] I'm going... {i}huff...{/} as fast... {i}puff...{/} as I can...!"
-msgstr "[Je vais... {i}huff...{/} aussi vite... {i}puff...{/} que possible...!"
+msgstr "[_mc_] Je vais... {i}huff...{/} aussi vite... {i}puff...{/} que possible...!"
 
 # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:51 #-#-# translate crowdin replay_maxine_solo_exercise_e2e170fb:
 msgid "[_maxine_s_electrodes_run_s_neutral_s_fastest_run_s_lights_] Your physical stamina is a bit worrisome. You should probably have that checked."
@@ -136,7 +136,7 @@ msgstr "Au fur et à mesure que je vais, le générateur prend la vitesse et l'o
 
 # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:55 #-#-# translate crowdin replay_maxine_solo_exercise_a023bafb:
 msgid "[_mc_] I can't... {i}huff...{/} go... any... {i}puff...{/} more...!"
-msgstr "[Je ne peux pas... {i}huff...{/} aller... plus... {i}puff...{/} plus...!"
+msgstr "[_mc_] Je ne peux pas... {i}huff...{/} aller... plus... {i}puff...{/} plus...!"
 
 # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:56 #-#-# translate crowdin replay_maxine_solo_exercise_ba3dbf74:
 msgid "[_maxine_s_electrodes_run_s_smile_s_fastest_run_s_lights_] That will be sufficient for today."
@@ -144,5 +144,5 @@ msgstr "[_maxine_s_electrodes_run_s_Souriez_s_fastest_run_s_lights_] Cela sera s
 
 # game/1000_base_game/game/replays/68_maxine_solo_exercise.rpy:57 #-#-# translate crowdin replay_maxine_solo_exercise_db74fc70:
 msgid "[_mc_] Thank... {i}huff...{/} god..."
-msgstr "[Merci... {i}huff...{/} dieu..."
+msgstr "[_mc_] Merci... {i}huff...{/} dieu..."
 
