@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-19 15:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_beaver_light.rpy:33 #-#-# translate crowdin school_entrance_beaver_interact_lindsey_book_b23edab2:
 msgid "Puh, that sucker is fast. It ran into the school."
@@ -26,7 +26,7 @@ msgstr "Il ne cesse de glisser de ma main. Il faut quelque chose de dur pour le 
 
 # game/1000_base_game/game/locations/school/entrance/int_beaver_light.rpy:51 #-#-# translate crowdin school_entrance_beaver_interact_use_b3324d5a:
 msgid "[_mc_] Got you!"
-msgstr "[Je t'ai eu !"
+msgstr "[_mc_] Je t'ai eu !"
 
 # game/1000_base_game/game/locations/school/entrance/int_beaver_light.rpy:56 #-#-# translate crowdin school_entrance_beaver_interact_use_5f76a60e:
 msgid "Clipped it with the wrench."
