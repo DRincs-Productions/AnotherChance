@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 11:15\n"
+"PO-Revision-Date: 2024-02-19 11:09\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:13 #-#-# translate crowdin quest_flora_squid_start_3779c151:
 msgid "[_mc_] Hey, [flora]? Have you seen my electric toothbrush?"
@@ -354,7 +354,7 @@ msgstr "Depuis cet incident avec l'arbre, elle est modique et imprévisible. Plu
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:115 #-#-# translate crowdin quest_flora_squid_jealous_62c13b79:
 msgid "And who can blame her?"
-msgstr "Et qui peut la blâme ?"
+msgstr "Et qui peut lui en vouloir ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:116 #-#-# translate crowdin quest_flora_squid_jealous_2556dfae:
 msgid "She lived through a nightmare that she can't talk about or even process."
@@ -362,7 +362,7 @@ msgstr "Elle a vécu un cauchemar qu'elle ne peut pas parler ou même traiter."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:117 #-#-# translate crowdin quest_flora_squid_jealous_17b217e5:
 msgid "Who would believe her that a bonsai grew into a sentient tree monster and tried to... seed her?"
-msgstr "Qui pourrait croire qu'un bonsaï a grandi dans un monstre d'arbre sentient et a essayé de la semier ?"
+msgstr "Qui pourrait croire qu'un bonsaï s'est transformé en un monstre arboricole doué de sensibilité et qu'il a essayé de... l'ensemencer ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:118 #-#-# translate crowdin quest_flora_squid_jealous_479b289b:
 msgid "I can hardly believe it happened, and I saw it with my own eyes!"
@@ -422,7 +422,7 @@ msgstr "[_flora_] Je l'utilise pour rendre mes calamars heureux !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:136 #-#-# translate crowdin quest_flora_squid_happy_8033259f:
 msgid "Squid? Is that a euphemism?"
-msgstr "Squid ? Est-ce un euphémisme ?"
+msgstr "Tentacule ? Est-ce un euphémisme ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:137 #-#-# translate crowdin quest_flora_squid_happy_99d85e3f:
 msgid "[_mc_] Can you unlock the door?"
@@ -506,7 +506,7 @@ msgstr "Hmm ... le sentier mène à la porte ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:178 #-#-# translate crowdin quest_flora_squid_trail_kitchen_d6402099:
 msgid "Did the seeds of that tree actually impregnate her? Did her water just break?"
-msgstr "Les graines de cet arbre l'imprègnent-t-elle ? Son eau a-t-elle été juste ?"
+msgstr "Les graines de cet arbre l'ont-elles réellement fécondée ? A-t-elle perdu les eaux ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:180 #-#-# translate crowdin quest_flora_squid_trail_kitchen_f4ce2e1f:
 msgid "That thought is almost too hard to bear..."
@@ -1130,7 +1130,7 @@ msgstr "De quoi parle-t-elle ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:426 #-#-# translate crowdin quest_flora_squid_wait_mrsl_050446ce:
 msgid "This corridor smells like it always does — sweat and unbridled testosterone."
-msgstr "Ce couloir sent comme toujours-la sueur et la testostérone débridante."
+msgstr "Ce couloir sent comme toujours la sueur et la testostérone débridée."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:427 #-#-# translate crowdin quest_flora_squid_wait_mrsl_dfb66e27:
 msgid "[_mrsl_s_concerned_] Excuse me."
@@ -1202,7 +1202,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:452 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_ed85851e:
 msgid "Why is there a broken snowglobe behind the trophies?"
-msgstr "Pourquoi y a-on un globe de neige brisé derrière les trophées ?"
+msgstr "Pourquoi y a-t-il un globe de neige cassé derrière les trophées ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:453 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_a20cefa7_3:
 msgid "..."
@@ -1210,7 +1210,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:454 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_75aa4fed:
 msgid "Odd. Very odd."
-msgstr "Odd. Très étrange."
+msgstr "Bizarre. Très étrange."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:460 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_bf8c6881:
 msgid "[_flora_s_confused_] Are you trying to rob the trophy case?"
@@ -1254,7 +1254,7 @@ msgstr "[_mc_] Peut-être que le calmar est un autre mot pour pieuvre ... avec u
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:474 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_7e535a92:
 msgid "[_flora_s_cringe_] You're gross. Stop talking."
-msgstr "[_flora_s_cringe_] Vous êtes brut. Arrêtez de parler !"
+msgstr "[_flora_s_cringe_] Vous êtes dégueulasse. Arrêtez de parler."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:475 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_2fa33101:
 msgid "[_mc_] If I stop talking, nothing will be said."
@@ -1730,7 +1730,7 @@ msgstr "Hmm ... aucun signe de [cuthbert] ici ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:643 #-#-# translate crowdin quest_flora_squid_bathroom_shower2_8afd4773:
 msgid "However, it seems like someone's been trying to Scrooge McDuck this bitch up."
-msgstr "Cependant, il semble que quelqu'un ait essayé de Scrooge McDuck cette salope."
+msgstr "Cependant, il semble que quelqu'un ait essayé de faire de cette salope un Scrooge McDuck."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:652 #-#-# translate crowdin quest_flora_squid_bathroom_urinal_1477d818:
 msgid "[_mc_] [cuthbert], yo-ho!"
@@ -1978,11 +1978,11 @@ msgstr "[_mc_] Je ne sais pas ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:736 #-#-# translate crowdin quest_flora_squid_weapon_fire_axe_57aabc96:
 msgid "This thing is for emergencies. Surely, a thirsty sentient tree qualifies as such?"
-msgstr "Cette chose est pour les urgences. Un arbre sentient assoiffé peut être considéré comme tel ?"
+msgstr "Ce truc, c'est pour les urgences. Un arbre sensible assoiffé est certainement considéré comme tel ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:743 #-#-# translate crowdin quest_flora_squid_weapon_machete_8e336ee0:
 msgid "Yeah, this is perfect for cutting down trees — sentient or otherwise."
-msgstr "Oui, c'est parfait pour couper les arbres-sentient ou autrement."
+msgstr "Oui, c'est parfait pour abattre des arbres, qu'ils soient sensibles ou non."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:751 #-#-# translate crowdin quest_flora_squid_ready_9dcccaff:
 msgid "[_flora_s_cringe_] What took you so long?"
@@ -2026,7 +2026,7 @@ msgstr "On dirait que nous l'avons fait ici sans être pris en embuscade par la 
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:769 #-#-# translate crowdin quest_flora_squid_forest_glade_42510523:
 msgid "At least, not the sentient type."
-msgstr "Du moins, pas du type sentient."
+msgstr "Du moins, pas le type sensible."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:771 #-#-# translate crowdin quest_flora_squid_forest_glade_089f199b:
 msgid "[_flora_s_worried_] Oh, god! The stream is so polluted!"
@@ -2230,7 +2230,7 @@ msgstr "Oh, merde."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:902 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_7e0a6b88:
 msgid "What the hell?!"
-msgstr "Qu'est-ce que l'enfer ?"
+msgstr "Qu'est-ce que c'est que ce bordel ?!"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:903 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_20fb552f:
 msgid "There's too many!"
@@ -2250,7 +2250,7 @@ msgstr "[_flora_s_vine_fight_face1_vine1_vine2_vine4_cuthbert1_] [cuthbert]!"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:919 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_7e0a6b88_1:
 msgid "What the hell?!"
-msgstr "Qu'est-ce que l'enfer ?"
+msgstr "Qu'est-ce que c'est que ce bordel ?!"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:920 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_9eac836b:
 msgid "Squid out of nowhere!"
@@ -2286,7 +2286,7 @@ msgstr "Je veux dire, pouvez-vous vraiment reprocher à quelqu'un de vouloir une
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:936 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_e9c05388:
 msgid "Those star-studded milkyway-white squeaky toys..."
-msgstr "Ces jouets de squeaky blanc-blanc-étoilé ..."
+msgstr "Ces jouets qui couinent, d'un blanc laiteux, étoilés..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:937 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_143ff819:
 msgid "Mmm..."
@@ -2294,7 +2294,7 @@ msgstr "Mmm ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:938 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_8e3ec6da:
 msgid "Shit, I really need to stop reading budget erotica."
-msgstr "Merde, j'ai vraiment besoin d'arrêter la lecture du budget erotica."
+msgstr "Merde, il faut vraiment que j'arrête de lire de l'érotique budgétaire."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:939 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a36f95e2:
 msgid "Evil shall not prevail! [cuthbert] isn't standing alone this day!"
@@ -2322,7 +2322,7 @@ msgstr "Peut-être que je devrais arrêter de penser aux dieux grecs et amener l
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:958 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_6d6ad603:
 msgid "Snip-snip — vasectomy at its finest!"
-msgstr "Snip-snip-vasectomie à son meilleur !"
+msgstr "La vasectomie dans toute sa splendeur !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:969 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_a1c9eeab:
 msgid "[_flora_s_smile_] Oh, my god! [cuthbert], you saved me!"
@@ -2418,7 +2418,7 @@ msgstr "[_mc_] Il ne semble pas tout ce danger-"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1021 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_776b72a9:
 msgid "[_mc_] Aaah! My eyes!!"
-msgstr "[_mc_] Aaah ! Mes yeux ! !"
+msgstr "[_mc_] Aaah ! Mes yeux !!"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1022 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_2dd14a48:
 msgid "[_flora_s_eyeroll_] Well, that was your own fault."
@@ -2622,7 +2622,7 @@ msgstr "Elle se tourne dans mes bras pour me faire face."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1096 #-#-# translate crowdin quest_flora_squid_shower_cb6f6139:
 msgid "Her wet fingers wipe away the ink from my face, from my eyes."
-msgstr "Ses doigts mouillés effacez l'encre de mon visage, de mes yeux."
+msgstr "Ses doigts mouillés effacent l'encre de mon visage, de mes yeux."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1103 #-#-# translate crowdin quest_flora_squid_shower_88eaf3bc:
 msgid "I never thought we'd end up in a situation like this..."
@@ -2706,7 +2706,7 @@ msgstr "Au début, c'est comme une pensée à l'arrière de mon esprit-une envie
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1127 #-#-# translate crowdin quest_flora_squid_shower_d8d836fc:
 msgid "Then it grows..."
-msgstr "Puis il pousse ..."
+msgstr "Puis il grandit..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1128 #-#-# translate crowdin quest_flora_squid_shower_b027dcbb:
 msgid "I need to have her."
@@ -2730,7 +2730,7 @@ msgstr "Tu ne comprends jamais vraiment combien tu aimes quelqu'un jusqu'à ce q
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1134 #-#-# translate crowdin quest_flora_squid_shower_7a3a3f3f:
 msgid "Or in my case, until you push them away, and they stop talking to you...{space=-65}"
-msgstr "Ou dans mon cas, jusqu'à ce que vous les pousiez, et qu'ils cessent de vous parler ... {space=-65}"
+msgstr "Ou, dans mon cas, jusqu'à ce que vous les repoussiez et qu'ils cessent de vous parler...{space=-65}"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1135 #-#-# translate crowdin quest_flora_squid_shower_5433a486:
 msgid "And then you spend the rest of your life thinking what an idiot and coward you were."
@@ -2766,7 +2766,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1143 #-#-# translate crowdin quest_flora_squid_shower_1a248cb7:
 msgid "Don't be a fucking coward, man. Not again."
-msgstr "Ne soit pas un putain de lâche, meman. Pas encore."
+msgstr "Ne sois pas un putain de lâche, mec. Plus jamais."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1144 #-#-# translate crowdin quest_flora_squid_shower_43815b60:
 msgid "But maybe she doesn't want this? Maybe she just likes the intimacy?{space=-20}"
@@ -2914,7 +2914,7 @@ msgstr "Ses cuisses et ses chattes me pressent dur."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1216 #-#-# translate crowdin quest_flora_squid_shower_c71575ff:
 msgid "Goosebumps explode over my arms and back."
-msgstr "Goosebumps explose au-dessus de mes bras et de retour."
+msgstr "La chair de poule explose sur mes bras et mon dos."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1217 #-#-# translate crowdin quest_flora_squid_shower_8f6ee95b:
 msgid "The heat of her pussy is like nothing I've ever felt before."
@@ -2962,7 +2962,7 @@ msgstr "Dégustez chaque centimètre de sa chatte autour de ma bite."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1367 #-#-# translate crowdin quest_flora_squid_shower_c2399fdc:
 msgid "Enjoy every spasm and moan."
-msgstr "Profitez de chaque spasme et moan."
+msgstr "Savourez chaque spasme et chaque gémissement."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1368 #-#-# translate crowdin quest_flora_squid_shower_041834c3:
 msgid "Take it all in."
@@ -2982,19 +2982,19 @@ msgstr "[_flora_s_shower_sex_flora_cum1_] Oh, merde !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1404 #-#-# translate crowdin quest_flora_squid_shower_a843a6c3:
 msgid "With a gasp, the orgasm rips through her."
-msgstr "Avec un gasp, l'orgasme la traverse."
+msgstr "Avec un souffle, l'orgasme la transperce."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1405 #-#-# translate crowdin quest_flora_squid_shower_e2e60a0e:
 msgid "Every muscle in her body goes rigid, and then starts spasming."
-msgstr "Chaque muscle de son corps est rigide, puis commence à faire du spasming."
+msgstr "Tous les muscles de son corps deviennent rigides, puis commencent à se contracter."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1406 #-#-# translate crowdin quest_flora_squid_shower_e2726f5a:
 msgid "The muscles of her pussy expel me as her eyes roll back."
-msgstr "Les muscles de sa chatte m'expulse alors que ses yeux roule."
+msgstr "Les muscles de sa chatte m'expulsent tandis que ses yeux se révulsent."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1407 #-#-# translate crowdin quest_flora_squid_shower_21333553:
 msgid "And the blush of pleasure on her freckled cheeks sends me over the edge."
-msgstr "Et la rougeur du plaisir sur ses joues témorses m'envoie sur le bord."
+msgstr "Et le rougissement de plaisir sur ses joues couvertes de taches de rousseur m'envoie au bord du gouffre."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1413 #-#-# translate crowdin quest_flora_squid_shower_6b4d2dd8:
 msgid "[flora] slumps against the wall, in a post-orgasmic haze."
@@ -3002,7 +3002,7 @@ msgstr "[flora] chute contre le mur, dans une brume post-orgasmique."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1414 #-#-# translate crowdin quest_flora_squid_shower_6be58b6a:
 msgid "Her eyes still glazed over from pure bliss."
-msgstr "Ses yeux sont encore vitrés à partir de bliss purs."
+msgstr "Ses yeux sont encore vitreux de pure félicité."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1415 #-#-# translate crowdin quest_flora_squid_shower_a20cefa7_3:
 msgid "..."
@@ -3082,7 +3082,7 @@ msgstr "Comment allons-nous l'empêcher de se reproduire ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1458 #-#-# translate crowdin quest_flora_squid_shower_67a34ae1:
 msgid "Oh, man... Things just got a whole lot more complicated."
-msgstr "Oh, mep ... Les choses ont tout simplement beaucoup plus compliqué."
+msgstr "Oh, mec... Les choses sont devenues beaucoup plus compliquées."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1464 #-#-# translate crowdin quest_flora_squid_shower_eec537bc:
 msgid "[_flora_] Hey! [withvpunch]"
@@ -3178,7 +3178,7 @@ msgstr "[_mc_] [flora]!!!"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1498 #-#-# translate crowdin quest_flora_squid_shower_f1fa67c9:
 msgid "This is one of those feelings where you just get floored in an instant.{space=-20}"
-msgstr "C'est l'un de ces sentiments là où vous vous dévrez en un instant. {space=-20}"
+msgstr "C'est l'une de ces sensations qui vous bouleversent en un instant.{space=-20}"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1499 #-#-# translate crowdin quest_flora_squid_shower_62eb385f:
 msgid "[flora]'s lips wrapped around the tip of my dick..."
@@ -3190,7 +3190,7 @@ msgstr "Ses yeux malicieux me regardant vers moi ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1502 #-#-# translate crowdin quest_flora_squid_shower_0888c96e:
 msgid "Fuck me, I can't!"
-msgstr "Baise-moi, je ne peux pas !"
+msgstr "Putain, je ne peux pas !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1503 #-#-# translate crowdin quest_flora_squid_shower_683a7764:
 msgid "[_mc_] [flora]! W-what, hnngh.... are you doing?"
@@ -3218,7 +3218,7 @@ msgstr "C'est comme toute mon âme et mon esprit est sur le point d'être aspir�
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1509 #-#-# translate crowdin quest_flora_squid_shower_2d6d4815:
 msgid "Stars dance before my eyes as the wet heat of her mouth envelops me.{space=-65}"
-msgstr "Les étoiles dansent devant mes yeux car la chaleur humide de sa bouche m'enveloppe. {space=-65}"
+msgstr "Des étoiles dansent devant mes yeux tandis que la chaleur humide de sa bouche m'enveloppe.{space=-65}"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1511 #-#-# translate crowdin quest_flora_squid_shower_6d52e20a:
 msgid "How did we end up here?"
@@ -3250,7 +3250,7 @@ msgstr "[_flora_s_shower_sex_anticipation_] Oh !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1551 #-#-# translate crowdin quest_flora_squid_shower_90d94c50:
 msgid "In a daze of pleasure and guilt, I pull her up and push her against the shower wall."
-msgstr "Dans une daze de plaisir et de culpabilité, je la tire et la pousse contre la paroi de la douche."
+msgstr "Dans un étourdissement de plaisir et de culpabilité, je la tire vers le haut et la pousse contre la paroi de la douche."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1552 #-#-# translate crowdin quest_flora_squid_shower_ff408260:
 msgid "Her mouth has made me hard. This is her fault."
@@ -3258,7 +3258,7 @@ msgstr "Sa bouche m'a rendu difficile. C'est sa faute."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1553 #-#-# translate crowdin quest_flora_squid_shower_10d9c5e6:
 msgid "Little devilish vixen."
-msgstr "Petit vixen diaboté."
+msgstr "Petite mégère diabolique."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1554 #-#-# translate crowdin quest_flora_squid_shower_06d01a81:
 msgid "She giggles, acting all innocent... as if she doesn't know what she's doing to me."
@@ -3266,7 +3266,7 @@ msgstr "Elle donne des lunettes, agit tout innocent ... comme si elle ne savait 
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1555 #-#-# translate crowdin quest_flora_squid_shower_a00c92fa:
 msgid "Years and years of teasing has finally unleashed a beast in me."
-msgstr "Des années et des années de taquinage ont enfin déclenché une bête en moi."
+msgstr "Des années et des années de taquineries ont finalement libéré une bête en moi."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1556 #-#-# translate crowdin quest_flora_squid_shower_e1c9b4d7:
 msgid "[_flora_s_shower_sex_anticipation_] What are you going to do with that?"
@@ -3290,7 +3290,7 @@ msgstr "[_flora_s_shower_sex_penetration1_] Owie !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1564 #-#-# translate crowdin quest_flora_squid_shower_bde08c86:
 msgid "In a flash, my fingers catch her nipple."
-msgstr "En un éclair, mes doigts l'attrapont."
+msgstr "En un éclair, mes doigts attrapent son mamelon."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1565 #-#-# translate crowdin quest_flora_squid_shower_6f2904fd:
 msgid "And just like that, my cock split her open."
@@ -3318,7 +3318,7 @@ msgstr "Pour ce faire dans la douche, avec seulement des parois minces nous sép
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1573 #-#-# translate crowdin quest_flora_squid_shower_1c78a610:
 msgid "What would she think if she saw us now?"
-msgstr "Que penserait-t-elle si elle nous voyait maintenant ?"
+msgstr "Que penserait-elle si elle nous voyait maintenant ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1576 #-#-# translate crowdin quest_flora_squid_shower_96c4d71e:
 msgid "Guilt flickers through me, and I can see it in [flora]'s face — she's feeling it too."
@@ -3326,7 +3326,7 @@ msgstr "La culpabilité me traverse, et je peux le voir sur le visage de [flora]
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1577 #-#-# translate crowdin quest_flora_squid_shower_75455d3e:
 msgid "The sheer wrongness of what's happening."
-msgstr "La pure ronrante de ce qui se passe."
+msgstr "L'injustice pure et simple de ce qui se passe."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1578 #-#-# translate crowdin quest_flora_squid_shower_002655a0:
 msgid "Still I push myself deeper inside her tight pussy."
@@ -3338,7 +3338,7 @@ msgstr "Mais elle continue à se frotter."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1581 #-#-# translate crowdin quest_flora_squid_shower_b580cd68:
 msgid "She gasps as I bottom out inside her."
-msgstr "Elle gaspilles comme je le bas à l'intérieur d'elle."
+msgstr "Elle halète alors que je m'enfonce en elle."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1582 #-#-# translate crowdin quest_flora_squid_shower_36f1d5e0:
 msgid "My fingers keep playing with her nipple."
@@ -3394,7 +3394,7 @@ msgstr "[_flora_s_shower_sex_flora_cum1_] Oh, mon dieu !"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1774 #-#-# translate crowdin quest_flora_squid_shower_e39a3b5d:
 msgid "A shiver runs through her body as she goes rigid."
-msgstr "Un shiver passe par son corps alors qu'elle va rigide."
+msgstr "Un frisson parcourt son corps et elle devient rigide."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1775 #-#-# translate crowdin quest_flora_squid_shower_64826fc6:
 msgid "Her pussy tightens around my dick, squeezing it with every wave of her orgasm."
@@ -3430,7 +3430,7 @@ msgstr "Putain. Qu'avons-nous fait ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1794 #-#-# translate crowdin quest_flora_squid_shower_9b29d026:
 msgid "I gather up her limp form in my arms and wrap her in a towel."
-msgstr "Je me fiche de sa forme de limon dans mes bras et je la pellicule dans une serviette."
+msgstr "Je ramasse sa forme molle dans mes bras et l'enveloppe dans une serviette."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1795 #-#-# translate crowdin quest_flora_squid_shower_44224aec:
 msgid "Whatever the fuck just happened can never be spoken about again."
@@ -3446,7 +3446,7 @@ msgstr "Eh bien, si [flora] décide que c'était une erreur, peut-être que je v
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1798 #-#-# translate crowdin quest_flora_squid_shower_ce450356:
 msgid "But at least I'll have the memory of feeling her tight pussy wrapped around my dick..."
-msgstr "Mais au moins, j'aurai la mémoire de sentir sa chatte serrée enroulé autour de ma bite ..."
+msgstr "Mais au moins, j'aurai le souvenir de sentir sa chatte serrée autour de ma bite..."
 
 # game/1000_base_game/game/characters/flora/q_flora_squid.rpy:1799 #-#-# translate crowdin quest_flora_squid_shower_85a5993b:
 msgid "It's a better outcome than last time... I hope."
