@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:01\n"
+"PO-Revision-Date: 2024-02-19 14:53\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_stone.rpy:47 #-#-# translate crowdin home_kitchen_stone_interact_30c99b4b:
 msgid "Where did this come from, and why is it so smooth?"
@@ -110,7 +110,7 @@ msgstr "[_mc_] ... donc je pourrais retourner à l'école après la tombée de l
 
 # game/1000_base_game/game/locations/home/kitchen/int_stone.rpy:107 #-#-# translate crowdin home_kitchen_stonessss_interact_0dcb9250:
 msgid "[_mc_] ...but I ended up joining the Association of Smooth Stones..."
-msgstr "[...mais j'ai fini par rejoindre l'Association des pierres lisses..."
+msgstr "[_mc_] ...mais j'ai fini par rejoindre l'Association des pierres lisses..."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stone.rpy:108 #-#-# translate crowdin home_kitchen_stonessss_interact_636b4811:
 msgid "[_mc_] ...and now they're getting delivered here."
