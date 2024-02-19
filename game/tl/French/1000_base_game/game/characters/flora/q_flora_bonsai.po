@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 09:52\n"
+"PO-Revision-Date: 2024-02-19 09:34\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:11 #-#-# translate crowdin quest_flora_bonsai_spaghetti_505d8ca3:
 msgid "[_nurse_s_smile_] Hello there, [mc]. How are you feeling today?"
@@ -222,7 +222,7 @@ msgstr "[_flora_s_annoyed_] Comment osez-vous croire qu'il n'est pas mignon ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:84 #-#-# translate crowdin quest_flora_bonsai_spaghetti_f4fac1be:
 msgid "[_mc_] I was implying you're the Daredevil without the \"dare.\""
-msgstr "[_mc_] Je suppose que vous êtes le Daredevil sans le \"oser\"."
+msgstr "[_mc_] Je voulais dire que vous êtes le Daredevil sans le \"oser.\""
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:85 #-#-# translate crowdin quest_flora_bonsai_spaghetti_e289bda1:
 msgid "[_flora_s_angry_] ..."
@@ -354,7 +354,7 @@ msgstr "[_flora_s_annoyed_] Emmenez-moi chez moi."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:126 #-#-# translate crowdin quest_flora_bonsai_spaghetti_564521ca:
 msgid "So, I'm basically [flora]'s personal butler for a week. And I need to make sure that little tree doesn't die. Fantastic."
-msgstr "Donc, je suis au fond le majordome personnel de [flora]pendant une semaine. Et j'ai besoin de m'assurer que le petit arbre ne meurt pas. Fantastique."
+msgstr "Donc, je suis au fond le majordome personnel de [flora] pendant une semaine. Et j'ai besoin de m'assurer que le petit arbre ne meurt pas. Fantastique."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:134 #-#-# translate crowdin quest_flora_bonsai_help_home_47f4326a:
 msgid "[_flora_s_confused_] [mc]? Is that you?"
@@ -426,7 +426,7 @@ msgstr "Merde. Est-elle au courant des enregistrements ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:157 #-#-# translate crowdin quest_flora_bonsai_help_home_a0c5f208:
 msgid "Ran out of tape recently on the hidden camera in her room."
-msgstr "Ran de bande récemment sur la caméra cachée dans sa chambre."
+msgstr "Il n'y avait plus de bande récemment sur la caméra cachée dans sa chambre."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:158 #-#-# translate crowdin quest_flora_bonsai_help_home_110131ad:
 msgid "Need to retrieve it at some point."
@@ -442,7 +442,7 @@ msgstr "[_flora_s_annoyed_] Je suis aveugle, pas sourd."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:163 #-#-# translate crowdin quest_flora_bonsai_help_home_9ac00888:
 msgid "Oh, man. I love it when she unknowingly quotes video games."
-msgstr "Oh, mep. J'adore quand elle cite sans le savoir les jeux vidéo."
+msgstr "Oh, mec. J'adore quand elle cite les jeux vidéo sans le savoir."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:164 #-#-# translate crowdin quest_flora_bonsai_help_home_28e907ff:
 msgid "[_mc_] Were you imprisoned for 10,000 years by a hot elven warden with a fetish for knives?"
@@ -690,7 +690,7 @@ msgstr "Mais ces fantasmes étaient de nature sale. C'est différent."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:258 #-#-# translate crowdin quest_flora_bonsai_bed_6489c495:
 msgid "A few minutes ago, she was shaking and sweating, but now she seems more content."
-msgstr "Il y a quelques minutes, elle tremblait et transpirait, mais maintenant elle semble plus content."
+msgstr "Il y a quelques minutes, elle tremblait et transpirait, mais elle semble maintenant plus sereine."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:259 #-#-# translate crowdin quest_flora_bonsai_bed_542c8014:
 msgid "Old [flora] would never have agreed to this, but maybe she's changing?"
@@ -878,7 +878,7 @@ msgstr "[_flora_s_bed_s_flirty_] Il vous suffit de le fermer et de le faire !"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:318 #-#-# translate crowdin quest_flora_bonsai_bed_eed5be4f:
 msgid "Her cake addiction might cause her to bite it off..."
-msgstr "Sa dépendance à la gâteau pourrait l'amener à la mordre ..."
+msgstr "Sa dépendance au gâteau pourrait l'amener à le croquer..."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:319 #-#-# translate crowdin quest_flora_bonsai_bed_8cec9138:
 msgid "But you only live twice, right?"
@@ -886,7 +886,7 @@ msgstr "Mais tu ne vis que deux fois, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:321 #-#-# translate crowdin quest_flora_bonsai_bed_013314c6:
 msgid "Blindly, her fingertips fumble down my arm, searching for something..."
-msgstr "Blindly, ses doigts se sont enroués dans mon bras, à la recherche de quelque chose ..."
+msgstr "À l'aveuglette, ses doigts tâtonnent le long de mon bras, à la recherche de quelque chose..."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:322 #-#-# translate crowdin quest_flora_bonsai_bed_4b1af8ba:
 msgid "Maybe it's approval? Maybe it's comfort."
@@ -894,7 +894,7 @@ msgstr "Peut-être qu'il est approuvé ? C'est peut-être le confort."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:323 #-#-# translate crowdin quest_flora_bonsai_bed_7da6e7f2:
 msgid "Sweeping across my wrists, her hand finally finds mine and her thin fingers squeeze me tight."
-msgstr "En baladant mes poigans, sa main trouve enfin la mienne et ses doigts minces me pressent serré."
+msgstr "Passant sur mes poignets, sa main trouve enfin la mienne et ses doigts fins me serrent fort."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:325 #-#-# translate crowdin quest_flora_bonsai_bed_29f73eb5:
 msgid "Luckily, she can't see the surprise and stupid grin on my face."
@@ -954,7 +954,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:340 #-#-# translate crowdin quest_flora_bonsai_bed_ba9990a4:
 msgid "What matters is this... this feeling. Is it happiness? Bliss?"
-msgstr "Ce qui compte, c'est ça ... ce sentiment. Est-ce le bonheur ? Bliss ?"
+msgstr "Ce qui compte, c'est ceci... ce sentiment. Est-ce le bonheur ? Le bonheur ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:341 #-#-# translate crowdin quest_flora_bonsai_bed_05f0d2ae:
 msgid "All I know is that I want this."
@@ -1054,7 +1054,7 @@ msgstr "[ _flora_s_neutral_ ] J'ai besoin que vous me ramenez une fourchette, un
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:442 #-#-# translate crowdin quest_flora_bonsai_knock_knock_712b3f5c:
 msgid "Okay, this should sate the bonsai's thirst for today."
-msgstr "Ok, ça devrait sonner la soif de bonsai pour aujourd'hui."
+msgstr "Voilà qui devrait étancher la soif du bonsaï pour aujourd'hui."
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:443 #-#-# translate crowdin quest_flora_bonsai_knock_knock_8c92b6c5:
 msgid "I wonder if [flora] needs help with anything. I did promise to—"
@@ -1242,7 +1242,7 @@ msgstr "[_flora_s_Souriez_] Pas pour l'instant, mais continuez à vérifier votr
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:515 #-#-# translate crowdin quest_flora_bonsai_fetch_sweets_gift_b7c07346:
 msgid "Ugh. Can't I just ghost her instead?"
-msgstr "Ugh. Je ne peux pas la fantômes à la place ?"
+msgstr "Ugh. Est-ce que je ne peux pas juste la ghoster à la place ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_bonsai.rpy:521 #-#-# translate crowdin quest_flora_bonsai_fetch_sweets_gift_5c057b51:
 msgid "[_flora_s_angry_] What did you put in my mouth, [mc]?"
