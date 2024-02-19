@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 11:15\n"
+"PO-Revision-Date: 2024-02-19 14:21\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:8 #-#-# translate crowdin quest_isabelle_dethroning_start_f602badf:
 msgid "[_mc_] Hi, [isabelle]! I managed to score a meeting with [maxine]."
@@ -3406,7 +3406,7 @@ msgstr "[_lindsey_s_annoyed_] Vous êtes venu ici pour me dire ça en personne ?
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2442 #-#-# translate crowdin quest_isabelle_dethroning_invitations_lindsey_8ac8770b:
 msgid "[_lindsey_s_annoyed_] I don't really know [isabelle] that well, but that's uncool."
-msgstr "[_lindsey_s_annoyed_] Je ne sais pas vraiment [isabelle] ça bien, mais c'est pas cool."
+msgstr "[_lindsey_s_annoyed_] Je ne sais pas vraiment [isabelle] ça bien, mais Ce n'est pas cool."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2443 #-#-# translate crowdin quest_isabelle_dethroning_invitations_lindsey_30521d72:
 msgid "Crap. She didn't realize it was a joke."
@@ -5246,7 +5246,7 @@ msgstr "[_isabelle_s_laughing_pigless_] Passable, juste !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3318 #-#-# translate crowdin quest_isabelle_dethroning_trap_red_paint_41284686:
 msgid "[_isabelle_s_laughing_pigless_] It did feel amazing to chase her down. I think I made her cry, heh!"
-msgstr "[_isabelle_s_laughing_pigless_] It did feel amazing to chase her down. Je crois que je l'ai fait pleurer, heh !"
+msgstr "[_isabelle_s_laughing_pigless_] It did feelIncroyable to chase her down. Je crois que je l'ai fait pleurer, heh !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3319 #-#-# translate crowdin quest_isabelle_dethroning_trap_red_paint_cd76db64:
 msgid "[_isabelle_s_confident_pigless_] All right, you go get her."
@@ -7627,7 +7627,7 @@ msgstr "Pas le temps pour les blagues à bouton."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:5045 #-#-# translate crowdin quest_isabelle_dethroning_fly_to_the_moon_cafeteria_doors_86cb3767:
 msgid "If only I were a stronger climber, perhaps I could break a window in the cafeteria and scale the waterspout. Alas."
-msgstr "Si seulement j'étais un grimpeur plus fort, je pourrais peut-être casser une fenêtre à la cafétéria et mettre l'eau à l'échelle. Alas."
+msgstr "Si seulement j'étais un grimpeur plus fort, je pourrais peut-être casser une fenêtre à la cafétéria et mettre l'eau à l'échelle. Hélas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:5049 #-#-# translate crowdin quest_isabelle_dethroning_fly_to_the_moon_fire_axe_bad2e8bd:
 msgid "I don't care if I get detention for life, I'm taking this door down."
