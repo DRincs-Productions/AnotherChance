@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 11:15\n"
+"PO-Revision-Date: 2024-02-19 14:21\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:5 #-#-# translate crowdin isabelle_quest_haggis_deliver_c4773099:
 msgid "[_isabelle_s_excited_] What is this?"
@@ -642,7 +642,7 @@ msgstr "[_isabelle_s_excited_] [flora] est une jolie fille, elle le mérite. Mai
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:324 #-#-# translate crowdin isabelle_quest_haggis_isabelle_detention_4b14c003:
 msgid "[_isabelle_s_neutral_] I reckon we must wait for [mrsl] to return now."
-msgstr "[_isabelle_s_neutral_] I reckon we must wait for [mrsl] to return now."
+msgstr "[_isabelle_s_neutral_] I reckon we must wait for [mrsl] to return Maintenant."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:325 #-#-# translate crowdin isabelle_quest_haggis_isabelle_detention_8cc105c3:
 msgid "[_mc_] I guess so."
