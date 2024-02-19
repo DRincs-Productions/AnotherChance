@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 11:15\n"
+"PO-Revision-Date: 2024-02-19 14:21\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6 #-#-# translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
 msgid "[_mc_] Hey, how are you holding up?"
@@ -1046,7 +1046,7 @@ msgstr "Maintenant, je dois juste me tenir debout ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:410 #-#-# translate crowdin quest_isabelle_hurricane_short_circuit_door_0b322319:
 msgid "If my [item.title_lower] moved at all, it would be the perfect distraction. Alas."
-msgstr "Si mon [item.title_lower] bouait du tout, ce serait la distraction parfaite. Alas."
+msgstr "Si mon [item.title_lower] bouait du tout, ce serait la distraction parfaite. Hélas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:415 #-#-# translate crowdin quest_isabelle_hurricane_short_circuit_fuse_box2_eb2a8b12:
 msgid "Now all that remains is... darkness."
