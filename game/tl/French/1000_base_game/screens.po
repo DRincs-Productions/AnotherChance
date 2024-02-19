@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 16:37\n"
+"PO-Revision-Date: 2024-02-19 11:09\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
@@ -34,11 +34,11 @@ msgstr "Sauvegarder"
 
 # game/1000_base_game/screens.rpy:261
 msgid "Q.Save"
-msgstr "Q.Sauvegarder"
+msgstr "Q. Sauvegarder"
 
 # game/1000_base_game/screens.rpy:262
 msgid "Q.Load"
-msgstr "Q.Charger"
+msgstr "Q. Charger"
 
 # game/1000_base_game/screens.rpy:263
 msgid "Prefs"
@@ -108,7 +108,7 @@ msgstr ">"
 
 # game/1000_base_game/screens.rpy:734
 msgid "Display"
-msgstr "Afficher"
+msgstr "Affichage"
 
 # game/1000_base_game/screens.rpy:735
 msgid "Window"
@@ -124,7 +124,7 @@ msgstr "Côté du retour"
 
 # game/1000_base_game/screens.rpy:748
 msgid "Unseen Text"
-msgstr "Texte non vu"
+msgstr "Texte invisible"
 
 # game/1000_base_game/screens.rpy:749
 msgid "After Choices"
@@ -140,15 +140,15 @@ msgstr "Vitesse du texte"
 
 # game/1000_base_game/screens.rpy:767
 msgid "Auto-Forward Time"
-msgstr "Heure de transfert automatique"
+msgstr "Délai d'avancement automatique"
 
 # game/1000_base_game/screens.rpy:774
 msgid "Music Volume"
-msgstr "Volume de musique"
+msgstr "Volume Musique"
 
 # game/1000_base_game/screens.rpy:781
 msgid "Sound Volume"
-msgstr "Volume sonore"
+msgstr "Volume du son"
 
 # game/1000_base_game/screens.rpy:787
 msgid "Test"
@@ -156,11 +156,11 @@ msgstr "Test"
 
 # game/1000_base_game/screens.rpy:802
 msgid "Mute All"
-msgstr "Tous les muets"
+msgstr "Tous muets"
 
 # game/1000_base_game/screens.rpy:921
 msgid "The dialogue history is empty."
-msgstr "L'historique du dialogue est vide."
+msgstr "L'historique de dialogue est vide."
 
 # game/1000_base_game/screens.rpy:991
 msgid "Keyboard"
@@ -176,11 +176,11 @@ msgstr "Manette de jeu"
 
 # game/1000_base_game/screens.rpy:1008
 msgid "Enter"
-msgstr "Entrer"
+msgstr "Entrée"
 
 # game/1000_base_game/screens.rpy:1009
 msgid "Advances dialogue and activates the interface."
-msgstr "Avance le dialogue et active l'interface."
+msgstr "Permet de faire avancer le dialogue et d'activer l'interface."
 
 # game/1000_base_game/screens.rpy:1012
 msgid "Space"
@@ -188,15 +188,15 @@ msgstr "Espace"
 
 # game/1000_base_game/screens.rpy:1013
 msgid "Advances dialogue without selecting choices."
-msgstr "Avance le dialogue sans sélectionner de choix."
+msgstr "Fait avancer le dialogue sans sélectionner de choix."
 
 # game/1000_base_game/screens.rpy:1016
 msgid "Arrow Keys"
-msgstr "Touches de déplacement"
+msgstr "Touches de direction"
 
 # game/1000_base_game/screens.rpy:1017
 msgid "Navigate the interface."
-msgstr "Naviguez dans l'interface."
+msgstr "Naviguer dans l'interface."
 
 # game/1000_base_game/screens.rpy:1020
 msgid "Escape"
@@ -204,7 +204,7 @@ msgstr "Echappe"
 
 # game/1000_base_game/screens.rpy:1021
 msgid "Accesses the game menu."
-msgstr "Accède au menu du jeu."
+msgstr "Accéder au menu du jeu."
 
 # game/1000_base_game/screens.rpy:1024
 msgid "Ctrl"
@@ -216,7 +216,7 @@ msgstr "Permet de sauter des dialogues lorsque la touche est maintenue enfoncée
 
 # game/1000_base_game/screens.rpy:1028
 msgid "Tab"
-msgstr "Onglet"
+msgstr "Tabulation"
 
 # game/1000_base_game/screens.rpy:1029
 msgid "Toggles dialogue skipping."
@@ -224,19 +224,19 @@ msgstr "Active ou désactive le dialogue."
 
 # game/1000_base_game/screens.rpy:1032
 msgid "Page Up"
-msgstr "Page précédente"
+msgstr "Page haut"
 
 # game/1000_base_game/screens.rpy:1033
 msgid "Rolls back to earlier dialogue."
-msgstr "Retour à un dialogue antérieur."
+msgstr "Revient au dialogue précédent."
 
 # game/1000_base_game/screens.rpy:1036
 msgid "Page Down"
-msgstr "Page suivante"
+msgstr "Page bas"
 
 # game/1000_base_game/screens.rpy:1037
 msgid "Rolls forward to later dialogue."
-msgstr "Rouleaux à un dialogue ultérieur."
+msgstr "Passe au dialogue suivant."
 
 # game/1000_base_game/screens.rpy:1041
 msgid "Hides the user interface."
@@ -252,31 +252,31 @@ msgstr "Bascule des fonctions d'assistance {a=https://www.renpy.org/l/voicing}se
 
 # game/1000_base_game/screens.rpy:1055
 msgid "Left Click"
-msgstr "Cliquez sur la gauche"
+msgstr "Clic gauche"
 
 # game/1000_base_game/screens.rpy:1059
 msgid "Middle Click"
-msgstr "Cliquez sur le bouton"
+msgstr "Click molette"
 
 # game/1000_base_game/screens.rpy:1063
 msgid "Right Click"
-msgstr "Cliquez à droite"
+msgstr "Clic droit"
 
 # game/1000_base_game/screens.rpy:1067
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr "Roue de la souris vers le haut\n"
-"Cliquez sur le côté d'annulation"
+msgstr "Molette de la souris vers le haut\n"
+"cliquez sur le côté"
 
 # game/1000_base_game/screens.rpy:1071
 msgid "Mouse Wheel Down"
-msgstr "Roue de la souris vers le bas"
+msgstr "Roulette de la souris vers le bas"
 
 # game/1000_base_game/screens.rpy:1078
 msgid "Right Trigger\n"
 "A/Bottom Button"
 msgstr "Déclencheur droit\n"
-"Bouton d'A/bas"
+"A/Bouton en bas"
 
 # game/1000_base_game/screens.rpy:1082
 msgid "Left Trigger\n"
@@ -298,7 +298,7 @@ msgstr "Démarrer, Guide"
 
 # game/1000_base_game/screens.rpy:1099
 msgid "Y/Top Button"
-msgstr "O/Haut Bouton"
+msgstr "Y/Bouton du haut"
 
 # game/1000_base_game/screens.rpy:1102
 msgid "Calibrate"
