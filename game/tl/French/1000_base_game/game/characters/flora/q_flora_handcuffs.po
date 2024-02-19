@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 22:00\n"
+"PO-Revision-Date: 2024-02-19 11:09\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:3 #-#-# translate crowdin quest_flora_handcuffs_start_baf5498f:
 msgid "[_mc_] Hey, [flora]! Do you have a minute?"
@@ -38,7 +38,7 @@ msgstr "[_flora_s_confused_] Est-ce quelque chose d'illégal ?"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:9 #-#-# translate crowdin quest_flora_handcuffs_start_7cff2509:
 msgid "[_mc_] Listen, I would never—"
-msgstr "[_mc_] Écoute, je ne le ferais jamais."
+msgstr "[_mc_] Écoute, je ne le ferais jamais -"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:10 #-#-# translate crowdin quest_flora_handcuffs_start_3fae0db7:
 msgid "[_flora_s_annoyed_] Four years ago, Christmas morning."
@@ -313,7 +313,7 @@ msgstr "Il y avait un site en arrière dans la journée qui vendait toutes sorte
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:93 #-#-# translate crowdin quest_flora_handcuffs_order_6ab03948:
 msgid "Odd things like dream catchers and amulets, but also snacks, clothes,{space=-50}\n"
 "and tools."
-msgstr "Odd choses comme des capteurs de rêves et des amulettes, mais aussi des collations, des vêtements, {space=-50}\n"
+msgstr "Des choses bizarres comme des attrape-rêves et des amulettes, mais aussi des collations, des vêtements,{space=-50}\n"
 "et des outils."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:94 #-#-# translate crowdin quest_flora_handcuffs_order_244a04fb:
@@ -570,7 +570,7 @@ msgstr "[_flora_s_skeptical_] Fine, donne-moi juste une minute."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:222 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_e3977ff6:
 msgid "Girls, man. They always take the longest time to change..."
-msgstr "Filles, mep. Ils prennent toujours le temps le plus long de changer ..."
+msgstr "Les filles, mec. Ce sont toujours eux qui mettent le plus de temps à changer..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:223 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_a72f18de:
 msgid "I would've been done already at this point."
@@ -622,7 +622,7 @@ msgstr "Mais connaissant le [flora], probablement jamais dans un million d'anné
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:242 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_6e9ef4fd:
 msgid "She's such a tease, I swear..."
-msgstr "C'est une telle tease, je te jure ..."
+msgstr "Elle est tellement taquine, je le jure..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:248 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_455ae12d:
 msgid "[_flora_s_blush_] ..."
@@ -658,7 +658,7 @@ msgstr "[flora] a toujours été si insolente, et presque garçon manqué dans s
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:256 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_823c3bd4:
 msgid "But this is completely different. Mature... womanly, perhaps... and, god help me... sexy."
-msgstr "Mais c'est complètement différent. Mature ... womanly, peut-être ... et, Dieu m'aide ... sexy."
+msgstr "Mais c'est tout à fait différent. Mature... féminine, peut-être... et, que Dieu me vienne en aide... sexy."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:257 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_5a7ca2f7:
 msgid "[_flora_s_flirty_] Are you going to close your mouth? I'm tired of looking down your throat."
@@ -710,7 +710,7 @@ msgstr "C'est un peu manipulateur, mais je ne veux pas que d'autres gars la frap
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:273 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_0df2ca4b:
 msgid "Maybe that's selfish, but whatever."
-msgstr "Peut-être que c'est égoïsle, mais quoi que ce soit."
+msgstr "C'est peut-être égoïste, mais peu importe."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:276 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_d9250243:
 msgid "[_flora_s_smile_hands_up_] Ta-da!"
@@ -750,7 +750,7 @@ msgstr "[_mc_] Parce que, à la fin de l'année, vous allez commencer à travail
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:285 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_bad37fa2:
 msgid "...get married to a douchebag with a BMW."
-msgstr "... se marier avec un douchesac avec une BMW."
+msgstr "...se marier avec un connard qui a une BMW."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:286 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_c7d511f2:
 msgid "[_flora_s_afraid_] Well, aren't you?"
@@ -778,7 +778,7 @@ msgstr "Pas assez longtemps ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:296 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_8f0e8144:
 msgid "Fuck me, I really can't mess it up this time."
-msgstr "Fuck-moi, je ne peux vraiment pas le gâcher cette fois."
+msgstr "Baise-moi, je ne peux vraiment pas le gâcher cette fois."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:297 #-#-# translate crowdin quest_flora_handcuffs_package_new_look_a20cefa7:
 msgid "..."
@@ -1024,7 +1024,7 @@ msgstr "Mmm... J'ai toujours fantasmé sur le fait de faire faire à [flora] que
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:412 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_eda2571d:
 msgid "Undressing in public. A sight for sore eyes."
-msgstr "Dépansement en public. Une vue pour les yeux douloureux."
+msgstr "Se déshabiller en public. Un plaisir pour les yeux."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:417 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_0c49a74b:
 msgid "[_flora_s_concerned_] Happy?"
@@ -1100,7 +1100,7 @@ msgstr "Je tremblais, très probablement ... peut-être même pleurer."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:457 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_52dfc37c:
 msgid "But she's always been braver than I."
-msgstr "Mais elle a toujours été plus couragque que moi."
+msgstr "Mais elle a toujours été plus courageuse que moi."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:458 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_36e4a45a:
 msgid "Always been in charge of her own destiny."
@@ -1148,7 +1148,7 @@ msgstr "[_guard_] Hé, miss !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:471 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_967c9adb:
 msgid "Oh, wow! The chase is on! I wish I'd brought popcorn..."
-msgstr "Oh, wow ! La chasse est sur ! J'aurais voulu ramenez popcorn ..."
+msgstr "Oh, wow ! La chasse est ouverte ! J'aurais aimé apporter du pop-corn..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:472 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_b0fa2b36:
 msgid "One man chasing a naked girl."
@@ -1186,7 +1186,7 @@ msgstr "Sa peau chaude, brûlant contre ma propre ..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:480 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_09f163a4:
 msgid "Her nipples hard, her pussy wet..."
-msgstr "Ses nipples dures, sa chatte mouillée ..."
+msgstr "Ses mamelons sont durs, sa chatte est mouillée..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:481 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_d7db982a:
 msgid "Shit, I really need to stop thinking of her like that."
@@ -1238,7 +1238,7 @@ msgstr "C'est comme un peu parlé, interdit, prestant à l'intérieur de nous to
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:493 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_5d5065e7:
 msgid "It's been there for a while, festering in the back of our minds."
-msgstr "C'est là depuis un moment, festering dans le dos de nos esprits."
+msgstr "Cela fait un moment qu'elle est là, qu'elle s'envenime au fond de notre esprit."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:494 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_7d4a00c6:
 msgid "She can expose her body to the world, but never her mind."
@@ -1298,7 +1298,7 @@ msgstr "La poursuite se termine brusquement."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:515 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_241cdf70:
 msgid "Of course, the idiot guard had to body slam her..."
-msgstr "Bien sûr, la garde d'idiot a du corps la slam ..."
+msgstr "Bien sûr, l'idiot de gardien a dû la frapper au corps..."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:516 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_d75bbdb2:
 msgid "Probably intentional too, that old pervert."
@@ -1590,7 +1590,7 @@ msgstr "[_flora_s_blush_] Attends ici. Je vais vous dire quand la côte est clai
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:705 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_e714e4d1:
 msgid "Surely, a doughnut addict like him will fall for this."
-msgstr "Sûrement, un doughnut addict comme lui tombera pour ça."
+msgstr "Il est certain qu'un accro aux beignets comme lui tombera dans le panneau."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:706 #-#-# translate crowdin quest_flora_handcuffs_phone_call_distractions_a323971e:
 msgid "And getting attention from a cutie like [flora]... there's no way he'll be able to help himself!"
@@ -1610,7 +1610,7 @@ msgstr "Aussi bien que j'aimerais avoir une bière tiède sur le toit en ce mome
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:732 #-#-# translate crowdin quest_flora_handcuffs_steal_roof_stairs_77c626e7:
 msgid "A true teeter-totter that one."
-msgstr "Un vrai tetre-pour le faire."
+msgstr "Une véritable balançoire à bascule."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:736 #-#-# translate crowdin quest_flora_handcuffs_steal_homeroom_door_c0d3a5c7:
 msgid "[mrsl] probably has a set of handcuffs as well, but it's not worth gambling on."
@@ -1626,7 +1626,7 @@ msgstr "C'est une bonne voie d'évasion ... mais le crime doit être commis en p
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:748 #-#-# translate crowdin quest_flora_handcuffs_steal_cafeteria_doors_9f7fe077:
 msgid "Sadly, no time for strawberry juice. Not during an ongoing heist."
-msgstr "Malheureusement, pas de temps pour le jus de fraise. Pas pendant un hétome en cours."
+msgstr "Malheureusement, il n'y a pas eu de temps pour le jus de fraise. Pas pendant un braquage en cours."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:752 #-#-# translate crowdin quest_flora_handcuffs_steal_exit_arrow_3d809b68:
 msgid "This is probably my only chance of getting those handcuffs. I can't leave now."
@@ -1646,11 +1646,11 @@ msgstr "Ils sont là !"
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:760 #-#-# translate crowdin quest_flora_handcuffs_steal_a8fadc73:
 msgid "Shiny, stainless steel. Robust and escape-proof. These cuffs will come in handy."
-msgstr "Shiny, acier inoxydable. Robuste et étanches. Ces menottes vont venir à la main."
+msgstr "Acier inoxydable brillant. Robuste et à l'épreuve des évasions. Ces manchettes seront très utiles."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:761 #-#-# translate crowdin quest_flora_handcuffs_steal_593db2a0:
 msgid "I probably shouldn't touch his doughnut stash, though. He'll notice if one's missing."
-msgstr "Je ne devrais probablement pas toucher à sa pâte de doughnut. Il remarquera si l'on manque."
+msgstr "Je ne devrais probablement pas toucher à sa réserve de beignets. Il remarquera s'il en manque un."
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:771 #-#-# translate crowdin quest_flora_handcuffs_streaking_aftermath_94a09ac5:
 msgid "[_mc_] Ouch!"
@@ -1714,7 +1714,7 @@ msgstr "\"Il est juste arrivé de le voir quand\n"
 msgid "\"I've only ever wanted to\n"
 "make you happy.\""
 msgstr "\"Je n'ai jamais voulu que\n"
-"vous rendre heureux.\""
+"te rendre heureux.\""
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:119
 msgid "\"You're worried for nothing!\""
@@ -1748,7 +1748,7 @@ msgstr "\"Il suffit de lui dire que vous avez perdu la clé de votre casier.\" {
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:353
 msgid "\"Tell him to handcuff you, and then ask to borrow them.\""
-msgstr "\"Dites-lui de vous menotez, et demandez-lui ensuite de les emprunter.\""
+msgstr "\"Dites-lui de vous passer les menottes, puis demandez à les emprunter.\""
 
 # game/1000_base_game/game/characters/flora/q_flora_handcuffs.rpy:353
 msgid "\"Say that you saw a cat stuck in a tree outside.\"{space=-75}"
