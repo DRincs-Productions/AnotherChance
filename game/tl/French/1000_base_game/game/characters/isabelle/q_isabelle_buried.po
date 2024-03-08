@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-06 15:50\n"
+"PO-Revision-Date: 2024-03-08 13:49\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:8 #-#-# translate crowdin isabelle_quest_buried_start_ef126006:
 msgid "[_isabelle_s_neutral_] Thanks for the ice tea idea. It always helps me cool down."
@@ -1538,7 +1538,7 @@ msgstr "Et pourquoi [jacklyn] mentirait pour jeter la boîte dans la poubelle ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:561 #-#-# translate crowdin quest_isabelle_buried_callforhelp_text_fd8746e7:
 msgid "Something fishy is definitely happening behind the scenes..."
-msgstr "Quelque chose de loupique est en train de se produire en coulisses ..."
+msgstr "Il se passe certainement quelque chose de louche en coulisses..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:562 #-#-# translate crowdin quest_isabelle_buried_callforhelp_text_666af549:
 msgid "Not sure how [jacklyn] and the box are related to all of it. Honestly, that person could just be lying."
@@ -1682,7 +1682,7 @@ msgstr "[_mc_] C'est l'argot américain !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:618 #-#-# translate crowdin isabelle_quest_buried_isabelle_d6cdc71c:
 msgid "[_isabelle_s_skeptical_] I'm sure it is..."
-msgstr "[_isabelle_s_skeptical_] Je suis sûr que c'est. .."
+msgstr "[_isabelle_s_skeptical_] Je suis sûr que c'est..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:619 #-#-# translate crowdin isabelle_quest_buried_isabelle_19ac55f2:
 msgid "[_mc_] Anyway, I have a surprise for you."
@@ -1746,7 +1746,7 @@ msgstr "Et ça vient si facilement !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:637 #-#-# translate crowdin isabelle_quest_buried_isabelle_ed97f1dc:
 msgid "Finding the box wasn't a journey to Mt. Doom; it was just an ordinary favor, and it meant everything to her."
-msgstr "Trouver la boîte n'était pas un voyage vers le mont Doom ; c'était juste une faveur ordinaire, et cela signifiait tout pour elle."
+msgstr "Trouver la boîte n'a pas été un voyage au Mt. Doom ; Ce n'était qu'une faveur ordinaire, mais elle représentait tout pour elle."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:638 #-#-# translate crowdin isabelle_quest_buried_isabelle_eadc43ba:
 msgid "[_isabelle_s_sad_] Would you help me bury it?"
@@ -1842,7 +1842,7 @@ msgstr "Promise pour faire [isabelle] une pelle. Pas de repos jusqu'à ce que l'
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:688 #-#-# translate crowdin quest_isabelle_buried_entered_glade_3b711fe2:
 msgid "Damn it. I was hoping that she'd found another glade than the polluted and beaver-infested one."
-msgstr "Merde. J'espérais qu'elle avait trouvé une autre lade que celle qui était polluée et infestée par le castor."
+msgstr "Bon sang. J'espérais qu'elle avait trouvé une autre clairière que celle polluée et infestée de castors."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:689 #-#-# translate crowdin quest_isabelle_buried_entered_glade_8eaf9446:
 msgid "Just got to keep my mouth shut about the fact that I caused the pollution..."
@@ -1970,7 +1970,7 @@ msgstr "[_mc_] Probablement pas. Je vais le mettre dans mon sac à dos."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:755 #-#-# translate crowdin isabelle_buried_car_tire_use_b6bac210:
 msgid "If I started digging with my [item.title_lower], [isabelle] would either laugh or think I'm a moron."
-msgstr "Si j'ai commencé à creuser avec mon [item.title_lower], [isabelle] se moque de moi ou je pense que je suis un moron."
+msgstr "Si je commençais à creuser avec ma [item.title_lower], [isabelle] riraient ou me prendraient pour un crétin."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:760 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_6585719c:
 msgid "[_isabelle_s_concerned_] Thanks for all the help, [mc]."
@@ -2038,11 +2038,11 @@ msgstr "[_isabelle_s_neutral_] Si elle était triste, elle tirait une robe. Si e
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:780 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_d50ce1b3:
 msgid "[_isabelle_s_excited_] One time she drew hearts when she had a crush on some stupid boy."
-msgstr "[_isabelle_s_excited_] Une fois, elle a attiré les cœurs quand elle a eu une béguin pour un garçon stupide."
+msgstr "[_isabelle_s_excited_] Une fois, elle a dessiné des cœurs parce qu'elle avait le béguin pour un garçon stupide."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:781 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_cd929291:
 msgid "[_isabelle_s_excited_] She always let me know exactly how she was feeling every day."
-msgstr "[_isabelle_s_excited_] Elle me laisse toujours savoir exactement comment elle se sentait chaque jour."
+msgstr "[_isabelle_s_excited_] Elle m'a toujours fait savoir exactement comment elle se sentait chaque jour."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:782 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_610e4935:
 msgid "[_mc_] I imagine there were a lot of sad faces in the end."
@@ -2050,7 +2050,7 @@ msgstr "[_mc_] J'imagine qu'il y avait beaucoup de visages tristes à la fin."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:783 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_83a09156:
 msgid "[_isabelle_s_sad_] I... made her stop doing it. I didn't want her wasting my lipstick."
-msgstr "[_isabelle_s_sad_] I. .. l'a fait arrêter de le faire. Je ne voulais pas qu'elle gaspette mon rouge à lèvres."
+msgstr "[_isabelle_s_sad_] Je... J'ai cesser de le faire. Je ne voulais pas qu'elle gaspille mon rouge à lèvres."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:784 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_155aec2d:
 msgid "[_isabelle_s_sad_] In hindsight, it's one of those things I really regret."
@@ -2106,7 +2106,7 @@ msgstr "[_mc_] Bien sûr."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:800 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_d4e77b81:
 msgid "[_isabelle_s_blush_] Sometimes you say things I'd never expect. It's like you're wise beyond your years."
-msgstr "[_isabelle_s_blush_] Parfois, vous dites des choses que je ne m'attendais pas. C'est comme si tu étais sage au-delà de tes années."
+msgstr "[_isabelle_s_blush_] Parfois, tu dis des choses auxquelles je ne m'attendais pas. C'est comme si vous étiez plus sage que votre âge."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:801 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_1d1faed0:
 msgid "[_mc_] I guess I might be."
@@ -2286,7 +2286,7 @@ msgstr "Pour tout le monde, c'est juste une boîte vide, mais au [isabelle] c'es
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:853 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_f737d858:
 msgid "Every year she buries it to get some semblance of closure. That's all she has left."
-msgstr "Chaque année, elle l'enterie pour obtenir un semblant de fermeture. C'est tout ce qu'elle a quitté."
+msgstr "Chaque année, elle l'enterre pour avoir un semblant de fin. C'est tout ce qui lui reste."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:854 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_fdcb7472:
 msgid "[_isabelle_s_sad_] I think it's time."
@@ -2390,7 +2390,7 @@ msgstr "Je n'ai pas vraiment fait grand-chose non plus, mais peut-être qu'être
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:891 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_ed9ffe55:
 msgid "[_isabelle_s_blush_] Is it okay if I hug you?"
-msgstr "[_isabelle_s_blush_] Est-ce bon si je vous embrais ?"
+msgstr "[_isabelle_s_blush_] Je peux te serrer dans mes bras ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:892 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_6779918b:
 msgid "[_mc_] Yes! I mean, I guess. Sure."
@@ -2402,7 +2402,7 @@ msgstr "[_isabelle_s_laughing_] Lissage !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:895 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_66abd9fc:
 msgid "They never tell you what a hug of true gratitude feels like."
-msgstr "Ils ne te disent jamais ce qu'est un câbeux d'une vraie gratitude."
+msgstr "Ils ne vous disent jamais à quoi ressemble une étreinte de vraie gratitude."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:896 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_73acc3bd:
 msgid "They never share what a girl's arms wrapped around your neck feels like."
@@ -2442,15 +2442,15 @@ msgstr "Qui sait, peut-être que c'est la première étape ? L'intimité platoni
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:905 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_b6345399:
 msgid "Maybe I'm just drunk on happy brain chemicals, but there's definitely a difference between hugs."
-msgstr "Peut-être que je suis ivre avec des produits chimiques cérébraux heureux, mais il y a certainement une différence entre les hugs."
+msgstr "Peut-être que je suis juste ivre de substances chimiques joyeuses, mais il y a vraiment une différence entre les câlins."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:906 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_62e8e79a:
 msgid "I've seen girls hug the jocks and each other — they do it every morning, like a ritual — but they don't hug like this."
-msgstr "J'ai vu des filles hug les jhores et les unes les autres-elles le font tous les matins, comme un rituel-mais elles ne se huent pas comme ça."
+msgstr "J'ai vu des filles faire des câlins aux sportifs et les unes aux autres - elles le font tous les matins, comme un rituel - mais elles ne font pas de câlins comme ça."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:907 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_81cf3359:
 msgid "They don't hug like [isabelle] is hugging me now."
-msgstr "Ils ne se huent pas comme [isabelle] me embrassant maintenant."
+msgstr "Elles ne font pas de câlins comme [Isabelle] en fait en ce moment."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:908 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_0f8a080f:
 msgid "This is another type of hug."
@@ -2474,7 +2474,7 @@ msgstr "Et c'est juste qu'il se passe."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:914 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_141010f4:
 msgid "Just like that, she gets on her tippy toes and puts her lips to yours."
-msgstr "Comme ça, elle se met sur ses orteils tippy et met ses lèvres à la vôtre."
+msgstr "C'est ainsi qu'elle se met sur la pointe des pieds et pose ses lèvres sur les vôtres."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:915 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_cbddb3bd:
 msgid "After you've put it on a pedestal for thirty years, it's... almost too natural."
@@ -2570,7 +2570,7 @@ msgstr "Dieu merde, j'ai embrassé [isabelle]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:955 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_f8d6a376:
 msgid "Then again... I have that box we dug up. What the hell could be in it?{space=-10}"
-msgstr "Puis à nouveau ... J'ai cette boîte que nous avons creusés. Que peut être l'enfer ? {space=-10}"
+msgstr "Mais encore une fois... J'ai cette boîte que nous avons déterrée. Qu'est-ce qu'il peut bien y avoir dedans ?{space=-10}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:956 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_e49c0bf9:
 msgid "And god damn, I actually kissed [isabelle]!"
@@ -2578,7 +2578,7 @@ msgstr "Et dieu sacrément, j'ai embrassé [isabelle]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:957 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_0e0854f7:
 msgid "Can still feel the tingles on my lips..."
-msgstr "Peut encore sentir les tingles sur mes lèvres ..."
+msgstr "Je sens encore les picotements sur mes lèvres..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:958 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_647f55a9:
 msgid "I wonder how she feels about it today?"
@@ -2606,7 +2606,7 @@ msgstr "[isabelle] va-"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:971 #-#-# translate crowdin school_ground_floor_missing_locker_interact_isabelle_bury_8995e21b:
 msgid "[_isabelle_s_angry_] This is bloody bonkers. First my box of chocolates and now my entire locker!"
-msgstr "[_isabelle_s_angry_] C'est des bonkers sanglants. D'abord ma boîte de chocolats et maintenant tout mon casier !"
+msgstr "[_isabelle_s_angry_] C'est complètement fou. D'abord ma boîte de chocolats et maintenant tout mon casier !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:972 #-#-# translate crowdin school_ground_floor_missing_locker_interact_isabelle_bury_11b807e0:
 msgid "[_isabelle_s_angry_] How dare they steal my locker?!"
@@ -2646,11 +2646,11 @@ msgstr "[_mc_] Avez-vous déjà entendu parler de ce groupe ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:988 #-#-# translate crowdin school_ground_floor_missing_locker_interact_isabelle_bury_0899dfe3:
 msgid "[_isabelle_s_skeptical_] Seems made up. There's no way anyone steals a locker and a good chunk of the floor."
-msgstr "[_isabelle_s_skeptical_] Seems made up. Personne ne vole un casier et une bonne partie du sol."
+msgstr "[_isabelle_s_skeptical_] Il semble inventé. Il est impossible que quelqu'un vole un casier et une bonne partie du sol."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:989 #-#-# translate crowdin school_ground_floor_missing_locker_interact_isabelle_bury_dbf7bd38:
 msgid "[_isabelle_s_skeptical_] I talked to the [guard] earlier. Really useful bloke that one..."
-msgstr "[_isabelle_s_skeptical_] J'ai parlé au [guard] plus tôt. Vraiement utile bloke qu'un ..."
+msgstr "[_isabelle_s_skeptical_] J'ai parlé au [guard] tout à l'heure. Un homme très utile..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:990 #-#-# translate crowdin school_ground_floor_missing_locker_interact_isabelle_bury_9acf84a0:
 msgid "[_mc_] What did he say?"
@@ -2794,7 +2794,7 @@ msgstr "?quest.spinach_seek.finished@|{image=items bottle spray_cap}|\"Vaporiser
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:284
 msgid "\"Aquarelle.\""
-msgstr "\"Aquarelle\"."
+msgstr "\"Aquarelle\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:354
 msgid "?mc.owned_item('mysterious_medallion')@|{image=mysterious_medallion_small}|\"I found a strange medallion.\""
@@ -2834,11 +2834,11 @@ msgstr "\"Peut-être pouvez-vous me parler de certains de ces souvenirs ?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:767
 msgid "\"Even though the box is empty, your heart seems fuller than ever.\""
-msgstr "\"Même si la boîte est vide, votre cœur semble plus complet que jamais.\""
+msgstr "\"Même si la boîte est vide, votre cœur semble plus rempli que jamais.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:767
 msgid "\"We'll make sure everyone gets what they deserve.\""
-msgstr "\" Nous ferons en sorte que tout le monde obtienne ce qu'il mérite."
+msgstr "\"Nous veillerons à ce que chacun reçoive ce qu'il mérite.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:767
 msgid "Say nothing"
