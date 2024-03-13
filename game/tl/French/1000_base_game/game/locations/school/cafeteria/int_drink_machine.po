@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:11\n"
+"PO-Revision-Date: 2024-03-13 16:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:39 #-#-# translate crowdin school_cafeteria_drink_machine_interact_5ff67c8d:
 msgid "This thing would be more interesting if it worked more like an actual fountain, spraying soda into the ceiling..."
@@ -30,7 +30,7 @@ msgstr "Oui ! En dernier !"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:61 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_banana_milk_34738e3a:
 msgid "The weird smell and sickly yellow color put most people off."
-msgstr "L'odeur bizarre et la couleur jaune drépandit la plupart des gens."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:62 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_banana_milk_f413dadb:
 msgid "The milky banana taste takes care of the rest."
@@ -38,13 +38,12 @@ msgstr "Le goût laiteux de la banane prend soin du reste."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:68 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_seven_hp_5730a1a8:
 msgid "The jocks always drink this crap. Tastes like watered-down Sprite."
-msgstr "Les jocks boivent toujours cette merde. Des Tastes comme le Sprite à diluer."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:74 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_salted_cola_d6a8dc40:
 msgid "Tastes like cold semen. [mrsl] is the only person who likes this\n"
 "foul liquid."
-msgstr "Les Tastes aiment le sperme froid. [mrsl] est la seule personne qui aime ce liquide\n"
-"."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:80 #-#-# translate crowdin school_cafeteria_drink_machine_use_item_pepelepsi_b234df0a:
 msgid "There was an article in the school paper about this drink once — said it contained traces of amphetamine."
