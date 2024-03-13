@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:41\n"
+"PO-Revision-Date: 2024-03-13 16:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:53 #-#-# translate crowdin school_homeroom_window_grapple_1649e1c4:
 msgid "Na na na na na na na na na!"
@@ -26,15 +26,15 @@ msgstr "Je ne suis pas le personnage principal."
 
 # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:59 #-#-# translate crowdin school_homeroom_window_grapple_36d7d4f9:
 msgid "I'm definitely something of a nimble trickster, but climbing on my [item.title_lower] to the next floor is a feat beyond me."
-msgstr "Je suis vraiment quelque chose de trickster nimble, mais grimper sur mon [item.title_lower] au prochain étage est un exploit au-delà de moi."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:63 #-#-# translate crowdin school_homeroom_window_interact_12c18f59:
 msgid "It's a beautiful day outside. A mediocre day inside. And a shitty one in... okay, time to think positive... "
-msgstr "C'est une belle journée à l'extérieur. Un jour de médiocrite à l'intérieur. Et une merde dans ... ok, le temps de penser positif ... "
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:64 #-#-# translate crowdin school_homeroom_window_interact_985889fd:
 msgid "Boobs."
-msgstr "Boobs."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:68 #-#-# translate crowdin school_homeroom_window_interact_lindsey_book_6bee2675:
 msgid "The perfect stick is right there, just outside the window."
@@ -142,7 +142,7 @@ msgstr "Quelque chose avec une forme cylindrique minuscule serait idéal."
 
 # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:122 #-#-# translate crowdin school_homeroom_window_interact_haggis_57a2a772:
 msgid "Although, doing so might land me in actual detention."
-msgstr "Bien que ce faisant, je pourrais me poser en détention."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:128 #-#-# translate crowdin school_homeroom_window_interact_open_b3aac2e1:
 msgid "Climbing out is easy, but getting back in is much harder."
@@ -210,7 +210,7 @@ msgstr "[_flora_s_angry_] Ugh ... ne sautez pas de cette fenêtre. Je vous prév
 
 # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:148 #-#-# translate crowdin school_homeroom_window_interact_open_dcf50c77:
 msgid "Who knew picking up that haggis for Miss Cranky and Ungrateful would be such a hassle?"
-msgstr "Qui a connu le ramassage de ce haggis pour Mlle Cranky et Unreconnaissants serait un tel hassle ?"
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:149 #-#-# translate crowdin school_homeroom_window_interact_open_3865bc15:
 msgid "[_mc_] I'll be back soon!"
