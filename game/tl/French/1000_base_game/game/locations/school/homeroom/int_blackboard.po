@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 16:11\n"
+"PO-Revision-Date: 2024-03-13 16:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:37 #-#-# translate crowdin school_homeroom_blackboard_interact_3970b336:
 msgid "{i}\"Seniors, sign up for your focus classes. Three in total. Sign-up lists available in each classroom.\"{/}"
-msgstr "{i}\" Aînés, inscri-toi pour tes cours de focus. Trois au total. Listes d'inscription disponibles dans chaque salle de classe. \" {/}"
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:38 #-#-# translate crowdin school_homeroom_blackboard_interact_bbc32583:
 msgid "{i}\"Focus classes require 100 points to pass. Regular classes require 20 points to pass.\"{/}"
@@ -66,7 +66,7 @@ msgstr "{i}\"[mrsl], je vais valider tous les péchés de vos courbes. \" {/}"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write something nice"
-msgstr "Ecrire quelque chose de bien"
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write something vulgar"
@@ -74,17 +74,17 @@ msgstr "Écrire quelque chose de vulgaire"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write something for [mrsl]"
-msgstr "Ecrire quelque chose pour [mrsl]"
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write nothing"
-msgstr "Ecrire rien"
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:71
 msgid "Write something for [isabelle]"
-msgstr "Ecrire quelque chose pour [isabelle]"
+msgstr ""
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:71
 msgid "Write something for [flora]"
-msgstr "Ecrire quelque chose pour [flora]"
+msgstr ""
 
