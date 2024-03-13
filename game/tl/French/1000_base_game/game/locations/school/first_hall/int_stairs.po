@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 16:55\n"
+"PO-Revision-Date: 2024-03-13 16:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/first_hall/int_stairs.rpy:58 #-#-# translate crowdin quest_kate_fate_rescue_stairs_interact_9ef2b133:
 msgid "When [isabelle] looks up from her book, you know you've made an impression."
@@ -22,7 +22,7 @@ msgstr "Dommage qu'elle ne soit pas la même que celle qui impressionner [lindse
 
 # game/1000_base_game/game/locations/school/first_hall/int_stairs.rpy:61 #-#-# translate crowdin quest_kate_fate_rescue_stairs_interact_0fb98bef:
 msgid "Phew! Made it to safety."
-msgstr "Phew ! Conçit pour la sécurité."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/first_hall/int_stairs.rpy:62 #-#-# translate crowdin quest_kate_fate_rescue_stairs_interact_1713894b:
 msgid "Not even [kate] would try to abduct me in front of the [guard]'s booth."
@@ -30,7 +30,7 @@ msgstr "Même le [kate] n'essaierait pas de m'enlever devant le stand [guard]."
 
 # game/1000_base_game/game/locations/school/first_hall/int_stairs.rpy:67 #-#-# translate crowdin quest_kate_over_isabelle_talk_kate_e565c1e3:
 msgid "As much as I'd like to run, appeasing [kate] is more important. If I don't resolve this, she'll make my life even more miserable."
-msgstr "Aussi bien que j'aimerais courir, il est plus important d'apaiser le [kate] . Si je ne le résout pas, elle rendra ma vie encore plus misérable."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/first_hall/int_stairs.rpy:71 #-#-# translate crowdin first_hall_stairs_lindsey_wrong_lindseyart_f4057f34:
 msgid "Not exactly chivalrous to run off when the damsel needs me the most."
@@ -54,5 +54,5 @@ msgstr "[_kate_s_excited_] Ne l'a pas pensé."
 
 # game/1000_base_game/game/locations/school/first_hall/int_stairs.rpy:83 #-#-# translate crowdin first_hall_stairs_lindsey_wrong_verywet_22070c6c:
 msgid "No use running, [kate]'s got me exactly where she wants me."
-msgstr "No use running, [kate]'s got me exactement where she veut me."
+msgstr ""
 
