@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 14:56\n"
+"PO-Revision-Date: 2024-03-13 16:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:3 #-#-# translate crowdin quest_maxine_lines_start_81141839:
 msgid "[maxine] always seems to be investigating something, and it's usually best not to ask any questions..."
@@ -106,7 +106,7 @@ msgstr "[_maxine_s_sad_] Il s'agit d'une erreur factuelle."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:30 #-#-# translate crowdin quest_maxine_lines_start_47a682d6:
 msgid "[_maxine_s_sad_] Were you just guessing or did you miscount that badly?"
-msgstr "[_maxine_s_sad_] Avez-vous simplement deviner ou vous avez mal pris le mal ?"
+msgstr "[_maxine_s_sad_] Tu as deviné ou tu t'es trompé à ce point ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:31 #-#-# translate crowdin quest_maxine_lines_start_c33b515c:
 msgid "[_mc_] Err..."
@@ -114,7 +114,7 @@ msgstr "[_mc_] Err ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:32 #-#-# translate crowdin quest_maxine_lines_start_862be293:
 msgid "[_maxine_s_thinking_] Arrogance or imperception? One is worse than the other."
-msgstr "[_maxine_s_thinking_] Arrogance ou imperception ? L'un est pire que l'autre."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:33 #-#-# translate crowdin quest_maxine_lines_start_32138d3a:
 msgid "Knowing [maxine], it's probably the second..."
@@ -126,7 +126,7 @@ msgstr "[_mc_] J'ai fait une supposition."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:35 #-#-# translate crowdin quest_maxine_lines_start_945e6500:
 msgid "[_maxine_s_annoyed_] Guesswork is the cradle of misconception."
-msgstr "[_maxine_s_annoyed_] Le Guesswork est le berceau de la conception erronée."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:36 #-#-# translate crowdin quest_maxine_lines_start_f17e2918:
 msgid "[_maxine_s_annoyed_] There are fifteen lamps in total."
@@ -298,7 +298,7 @@ msgstr "Pourquoi le nombre de lampes est-il un problème ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:88 #-#-# translate crowdin quest_maxine_lines_start_20529071:
 msgid "Whenever I listen to her I feel my mind slowly turning into mush..."
-msgstr "Chaque fois que je l'écoute, je sens que mon esprit se transforme lentement en mush ..."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:89 #-#-# translate crowdin quest_maxine_lines_start_9ab0f9b4:
 msgid "[_maxine_s_skeptical_] Do you see it yet?"
@@ -426,7 +426,7 @@ msgstr "[_mc_] Qu'est-ce que c'est, alors ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:131 #-#-# translate crowdin maxine_lines_locator_1f3b278b:
 msgid "[_maxine_s_thinking_] It's a check-up."
-msgstr "[_maxine_s_thinking_] C'est un check-up."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:132 #-#-# translate crowdin maxine_lines_locator_df0066ff:
 msgid "[_mc_] I never booked one of those either."
@@ -466,7 +466,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:141 #-#-# translate crowdin maxine_lines_locator_a4046446:
 msgid "Okay, just act casual, man."
-msgstr "Ok, agir décontracté, mep."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:144 #-#-# translate crowdin maxine_lines_locator_81488f6b:
 msgid "[_mc_] What are you going to do, throw me out?"
@@ -586,7 +586,7 @@ msgstr "[_mc_] La lampe est ... err, activée par un capteur de lumière ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:188 #-#-# translate crowdin maxine_lines_locator_8461b0cc:
 msgid "[_maxine_s_sad_] Interesting... that would explain why the school board refuses to install a lamp in this room."
-msgstr "[_maxine_s_sad_] Interesting ... qui expliquerait pourquoi la commission scolaire refuse d'installer une lampe dans cette pièce."
+msgstr "[_maxine_s_sad_] Intéressant... cela expliquerait pourquoi la commission scolaire refuse d'installer une lampe dans cette pièce."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:189 #-#-# translate crowdin maxine_lines_locator_cec3915a:
 msgid "[_mc_] I don't think that's the job of the school board..."
@@ -594,7 +594,7 @@ msgstr "[_mc_] Je ne pense pas que ce soit le travail de la commission scolaire 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:190 #-#-# translate crowdin maxine_lines_locator_4992cdb2:
 msgid "[_maxine_s_thinking_] Whose job is it?"
-msgstr "[_maxine_s_thinking_] Whose job is it ?"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:191 #-#-# translate crowdin maxine_lines_locator_e5f3e198:
 msgid "[_mc_] I'm guessing it's the janitor's job? Or maybe the guard's?"
@@ -638,7 +638,7 @@ msgstr "[_mc_] Cool. En attendant, j'étais curieux au sujet de la chose du loca
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:205 #-#-# translate crowdin maxine_lines_locator_cc0878a9:
 msgid "[_maxine_s_excited_] The Ley Line Locator, you mean?"
-msgstr "[_maxine_s_excited_] L'indice de Ley Line, vous voulez dire ?"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:206 #-#-# translate crowdin maxine_lines_locator_2f931be2:
 msgid "[_mc_] That's the one, yeah."
@@ -806,7 +806,7 @@ msgstr "[_maxine_s_sad_] Personne ne l'a frappé auparavant, et vos coups de feu
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:259 #-#-# translate crowdin maxine_lines_reward_interact_maxine_e5d50a6c:
 msgid "[_mc_] You've been watching my previous attempts...?"
-msgstr "[_mc_] Vous avez regardé mes précédentes tentatives ... ?"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:260 #-#-# translate crowdin maxine_lines_reward_interact_maxine_c5fec349:
 msgid "[_maxine_s_excited_] Naturally. I always gather the necessary data before conducting an experiment."
@@ -882,7 +882,7 @@ msgstr "[_maxine_s_sad_]..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:284 #-#-# translate crowdin maxine_lines_reward_interact_maxine_2996cf1b:
 msgid "[_maxine_s_thinking_] Did you just stuff my Ley Line Locator into your backpack?"
-msgstr "[_maxine_s_thinking_] Avez-vous juste des trucs sur mon indice de Ley Line dans votre sac à dos ?"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:285 #-#-# translate crowdin maxine_lines_reward_interact_maxine_967e936c:
 msgid "[_mc_] Did you see me do it?"
@@ -918,7 +918,7 @@ msgstr "[_mc_] Qu'en est-il du [lindsey] ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:296 #-#-# translate crowdin maxine_lines_reward_interact_maxine_27d46f0d:
 msgid "[_maxine_s_thinking_] What about her?"
-msgstr "[_maxine_s_thinking_] Qu'en est-il de elle ?"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:297 #-#-# translate crowdin maxine_lines_reward_interact_maxine_353d4a70:
 msgid "[_mc_] If the saucer-eyed doll is making her trip, shouldn't we try to stop it?"
@@ -958,7 +958,7 @@ msgstr "[_mc_] Bien, elle est importante pour moi, donc je vais juste l'emprunte
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:307 #-#-# translate crowdin maxine_lines_reward_interact_maxine_ffdc485e:
 msgid "[_maxine_s_annoyed_] Bold."
-msgstr "[_maxine_s_annoyed_] Bold."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:308 #-#-# translate crowdin maxine_lines_reward_interact_maxine_f9f11163:
 msgid "[_mc_] I've been called worse..."
@@ -1038,7 +1038,7 @@ msgstr "[_maxine_s_Souriez_] Sur vous."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:331 #-#-# translate crowdin maxine_lines_reward_interact_maxine_1d98ed5c:
 msgid "[_maxine_s_smile_] I needed to make sure I wasn't giving away my prized artifact to some crazy person."
-msgstr "[_maxine_s_Souriez_] J'avais besoin de m'assurer que je ne donnais pas mon artefact priée à une personne folle."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:332 #-#-# translate crowdin maxine_lines_reward_interact_maxine_207ab58d:
 msgid "[_mc_] But we've talked in the past..."
@@ -1066,7 +1066,7 @@ msgstr "[_maxine_s_skeptical_] Ne pas trop chipper. Il reste encore beaucoup de 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:343 #-#-# translate crowdin maxine_lines_reward_interact_maxine_bcca0cbf:
 msgid "Well, time to find out why [lindsey] keeps tripping..."
-msgstr "Eh bien, le temps de découvrir pourquoi [lindsey] continue à trébutant ..."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:350 #-#-# translate crowdin quest_maxine_lines_insight_9dcd3a10:
 msgid "[_maxine_s_concerned_] Have you seen my cat?"
@@ -1182,7 +1182,7 @@ msgstr "[_mc_] Vous avez de la chance de ne pas bavardages."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:388 #-#-# translate crowdin quest_maxine_lines_insight_be2caa6e:
 msgid "[_maxine_s_cringe_] Gossip is unreliable information!"
-msgstr "[_maxine_s_cringe_] Gossip n'est pas fiable !"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:389 #-#-# translate crowdin quest_maxine_lines_insight_b6560593:
 msgid "[_mc_] Perhaps, but a lot of people don't care."
@@ -1502,7 +1502,7 @@ msgstr "[_mc_] J'ai triangulé ces endroits et puis j'ai eu une erreur en disant
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:484 #-#-# translate crowdin quest_maxine_lines_insight_89711ec4:
 msgid "[_maxine_s_thinking_] Intriguing."
-msgstr "[_maxine_s_thinking_] Intriguing."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:485 #-#-# translate crowdin quest_maxine_lines_insight_1bcfcef7:
 msgid "[_mc_] Do you have any idea what to do?"
@@ -1534,7 +1534,7 @@ msgstr "[_mc_] Par tous les moyens, ne me laissez pas vous arrêter ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:492 #-#-# translate crowdin quest_maxine_lines_insight_80b1b0cd:
 msgid "[_maxine_s_neutral_] By my estimation, it seems like you have discovered a number of ley line nodes."
-msgstr "[_maxine_s_neutral_] Selon mon estimation, il semble que vous avez découvert un certain nombre de noeuds en ligne."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:493 #-#-# translate crowdin quest_maxine_lines_insight_4fb775a0:
 msgid "[_mc_] Ley line nodes? What does that mean?"
@@ -1542,7 +1542,7 @@ msgstr "[_mc_] Les nœuds de la ligne de Ley ? Qu'est-ce que cela signifie ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:494 #-#-# translate crowdin quest_maxine_lines_insight_3cb5b607:
 msgid "[_maxine_s_neutral_] There are always four nodes."
-msgstr "[_maxine_s_neutral_] Il y a toujours quatre noeuds."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:495 #-#-# translate crowdin quest_maxine_lines_insight_2ab5a20f:
 msgid "[_mc_] But I only found three circles..."
@@ -1550,7 +1550,7 @@ msgstr "[_mc_] Mais je n'ai trouvé que trois cercles ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:496 #-#-# translate crowdin quest_maxine_lines_insight_e74fa06e:
 msgid "[_maxine_s_smile_] If you manage to enhance the signal, the locator device should lead you to the final node."
-msgstr "[_maxine_s_Souriez_] Si vous gérez le signal, le dispositif de localisation doit vous diriger vers le noeud final."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:497 #-#-# translate crowdin quest_maxine_lines_insight_84b3cf66:
 msgid "[_mc_] And how do I do that?"
@@ -1570,7 +1570,7 @@ msgstr "Je n'arrive pas à croire qu'elle a fait ce son comme si c'était évide
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:501 #-#-# translate crowdin quest_maxine_lines_insight_e64feec5:
 msgid "I also can't believe I'm getting dragged into this stupid merry-go-round."
-msgstr "Je ne peux pas non plus croire que je suis traîné dans ce stupide merry-go-round."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:502 #-#-# translate crowdin quest_maxine_lines_insight_2a458495:
 msgid "[_mc_] How do you know all these things?"
@@ -1594,7 +1594,7 @@ msgstr "Où est-ce que je trouve des aimants ?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:513 #-#-# translate crowdin quest_maxine_lines_unscrew_b32f5933:
 msgid "Jacklyn has the longest and deadliest nails in the school."
-msgstr "Jacklyn a les ongles les plus longs et les plus mortels de l'école."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:515 #-#-# translate crowdin quest_maxine_lines_unscrew_3d6e1ed6:
 msgid "[_mc_] Hey, I need your help with something..."
@@ -1634,7 +1634,7 @@ msgstr "[_mc_] Non ! Ce n'est pas ce que je voulais dire !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:528 #-#-# translate crowdin quest_maxine_lines_unscrew_1ba1560e:
 msgid "[_jacklyn_s_excited_] I'm just pulling your speedo!"
-msgstr "[_jacklyn_s_excited_] Je viens juste de tirer votre speedo !"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:529 #-#-# translate crowdin quest_maxine_lines_unscrew_a87d938d:
 msgid "[_jacklyn_s_excited_] What do you need?"
@@ -1654,7 +1654,7 @@ msgstr "[_mc_] Je suis le jeu si vous êtes."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:536 #-#-# translate crowdin quest_maxine_lines_unscrew_a5f39b24:
 msgid "[_jacklyn_s_excited_] All right, shooter. Hands up, pants down!"
-msgstr "[_jacklyn_s_excited_] Très bien, tireur. Hands up, pants down !"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:537 #-#-# translate crowdin quest_maxine_lines_unscrew_bc1354ad:
 msgid "[_mc_] Actually, I have a better idea."
@@ -1754,7 +1754,7 @@ msgstr "C'est comme si elle essaya de m'étouffer !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:593 #-#-# translate crowdin quest_maxine_lines_helpinghand_82e819b2:
 msgid "But goddamn if it's not a great feeling..."
-msgstr "Mais godBon sang si ce n'est pas un grand sentiment ..."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:594 #-#-# translate crowdin quest_maxine_lines_helpinghand_6721709f:
 msgid "[_jacklyn_s_handjob_base_] Ready for the claw machine?"
@@ -1770,7 +1770,7 @@ msgstr "[_mc_] Veuillez être doux ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:597 #-#-# translate crowdin quest_maxine_lines_helpinghand_ddec7402:
 msgid "[_jacklyn_s_handjob_base_] Stealing the virgin girl's line, eh?"
-msgstr "[_jacklyn_s_handjob_base_] Stealing the virgin girl's line, eh ?"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:598 #-#-# translate crowdin quest_maxine_lines_helpinghand_1443eb0f:
 msgid "[_jacklyn_s_handjob_base_] How's this?"
@@ -1838,11 +1838,11 @@ msgstr "[_mc_] Fantastique ! Je vous remercie !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:704 #-#-# translate crowdin quest_maxine_lines_helpinghand_bc00ed94:
 msgid "[_jacklyn_s_handjob_cum_] I knew you were tougher than your average punk bitch."
-msgstr "[_jacklyn_s_handjob_cum_] Je savais que vous étiez plus dur que votre bitch de punk."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:705 #-#-# translate crowdin quest_maxine_lines_helpinghand_13539b6b:
 msgid "[_jacklyn_s_handjob_cum_] Now, if you'll excuse me... job's about to get pissy. Gotta bounce."
-msgstr "[_jacklyn_s_handjob_cum_] Maintenant, si vous voulez m'excuser ... le travail est sur le point d'obtenir pissy. Gotta bounce."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:713 #-#-# translate crowdin quest_maxine_lines_helpinghand_0a2dfc67:
 msgid "Damn, [lindsey] just ran by! I barely managed to get it back in my pants..."
@@ -1902,7 +1902,7 @@ msgstr "[_jacklyn_s_Souriez_] Tout pour l'art, Bobby."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:736 #-#-# translate crowdin quest_maxine_lines_helpinghand_86d33a10:
 msgid "[_jacklyn_s_smile_] Catch you on the flipside."
-msgstr "[_jacklyn_s_Souriez_] Catch you on the flipside."
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:745 #-#-# translate crowdin quest_maxine_lines_seemaxine_1e3d0f7d:
 msgid "She appears to be deep in thought."
@@ -1970,7 +1970,7 @@ msgstr "[_maxine_s_afraid_] Vous l'avez amenée ici sans précautions ?!"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:761 #-#-# translate crowdin quest_maxine_lines_seemaxine_886a6856:
 msgid "[_maxine_s_afraid_] What's wrong with you?!"
-msgstr "[_maxine_s_afraid_] Qu'est-ce qui ne va pas avec toi ?"
+msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:762 #-#-# translate crowdin quest_maxine_lines_seemaxine_51d4ee8d:
 msgid "[_mc_] Sorry?"
@@ -2014,7 +2014,7 @@ msgstr "[_mc_] Je sais où les trouver."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:776 #-#-# translate crowdin quest_maxine_lines_seemaxine_8059ffd1:
 msgid "[_maxine_s_afraid_] Hurry! We need to form a circle around it!"
-msgstr "[_maxine_s_afraid_] Hurry ! Nous devons former un cercle autour d'elle !"
+msgstr ""
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:24
 msgid "\"Thirteen.\""
