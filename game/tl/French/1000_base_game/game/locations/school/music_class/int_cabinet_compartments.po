@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-11-10 15:30\n"
+"PO-Revision-Date: 2024-03-13 16:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/music_class/int_cabinet_compartments.rpy:23 #-#-# translate crowdin school_music_class_top_compartment_interact1_cff664ea:
 msgid "A tuning fork is stuck in this compartment, but getting it out would require a replacement item of the same size."
@@ -30,7 +30,7 @@ msgstr "Sans le marteau d'accord dans le compartiment inférieur qui maintient l
 
 # game/1000_base_game/game/locations/school/music_class/int_cabinet_compartments.rpy:37 #-#-# translate crowdin school_music_class_top_compartment_use_item1_11d1958c:
 msgid "Baton cum fork. Alea iacta est."
-msgstr "Baton cum fork. Alea iacta est."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/music_class/int_cabinet_compartments.rpy:42 #-#-# translate crowdin school_music_class_top_compartment_use_item1_8b465e6e:
 msgid "Much like the piano outside, my choice of items need some fine tuning.{space=-60}"
