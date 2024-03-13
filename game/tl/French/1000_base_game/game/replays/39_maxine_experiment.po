@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-16 14:56\n"
+"PO-Revision-Date: 2024-03-13 16:08\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/39_maxine_experiment.rpy:13 #-#-# translate crowdin replay_maxine_experiment_39fad868:
 msgid "[_maxine_s_hooking_up_replay_smile_] Listen closely. This morning I put a micro-transmitter in my cereal."
@@ -46,7 +46,7 @@ msgstr "[_mc_] Cela n'a absolument aucun sens ..."
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:23 #-#-# translate crowdin replay_maxine_experiment_bbaa0744:
 msgid "[_maxine_s_hooking_up_replay_angry_] I told you to listen! Listen and you will understand."
-msgstr "[_maxine_s_hooking_up_replay_angry_] Je vous ai dit d'écouter ! Ecoute et tu compras."
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:24 #-#-# translate crowdin replay_maxine_experiment_f75213da:
 msgid "[_mc_] I did listen, but it still makes no sense."
@@ -66,7 +66,7 @@ msgstr "[_mc_] Honnêtement, qui sait à ce stade ..."
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:28 #-#-# translate crowdin replay_maxine_experiment_906cce8a:
 msgid "[_maxine_s_hooking_up_replay_smile_] You underestimate my meticulousness. Everything has been planned in great detail."
-msgstr "[_maxine_s_hooking_up_replay_Souriez_] Vous sous-estiez ma méticulosité. Tout a été planifié en détail."
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:30 #-#-# translate crowdin replay_maxine_experiment_646f2d4c:
 msgid "[_mc_] How about we hook up instead?"
@@ -138,7 +138,7 @@ msgstr "[_maxine_s_hooking_up_replay_thinking_] Tout d'abord, nous avons ce pouv
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:48 #-#-# translate crowdin replay_maxine_experiment_46ea7483:
 msgid "[_maxine_s_hooking_up_replay_thinking_] I'm lubricating this end for better conductivity."
-msgstr "[_maxine_s_hooking_up_replay_thinking_] Je lubrifier cette extrémité pour une meilleure conductivité."
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:49 #-#-# translate crowdin replay_maxine_experiment_a7291705:
 msgid "[_maxine_s_hooking_up_replay_thinking_] You might have to lubricate it yourself, so look closely."
@@ -234,11 +234,11 @@ msgstr "[_mc_] Sure, je suppose."
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:72 #-#-# translate crowdin replay_maxine_experiment_0e0135e5:
 msgid "[_maxine_s_hooking_up_replay_cable_flirty_hands_behind_back_] Okay, try not to waste electricity!"
-msgstr "[_maxine_s_hooking_up_replay_cable_flirty_hands_behind_back_] Ok, essayez de ne pas gaspproduire de l'électricité !"
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:73 #-#-# translate crowdin replay_maxine_experiment_b04daacf:
 msgid "[_mc_] That's what you're worried about in this scenario...?"
-msgstr "[_mc_] C'est ce qui vous inquiète dans ce scénario ... ?"
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:75 #-#-# translate crowdin replay_maxine_experiment_34147c74:
 msgid "[_maxine_s_hooking_up_replay_cable_concerned_hands_behind_back_] Hey, don't touch that cable!"
@@ -254,7 +254,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:80 #-#-# translate crowdin replay_maxine_experiment_10e8df04:
 msgid "[_maxine_s_hooking_up_replay_cable_afraid_hands_behind_back_] I believe you've got me tangled up by mistake..."
-msgstr "[_maxine_s_hooking_up_replay_cable_afraid_hands_behind_back_] Je crois que vous m'avez emmêle par erreur ..."
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:81 #-#-# translate crowdin replay_maxine_experiment_58f26a75:
 msgid "[_mc_] It looks fine to me."
@@ -290,7 +290,7 @@ msgstr "[_mc_] L'électricité se déplace bien dans des liquides comme le jus d
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:98 #-#-# translate crowdin replay_maxine_experiment_890b83ff:
 msgid "[_maxine_s_hooking_up_replay_cable_out_of_it_hands_behind_back_] You're... ugh... right..."
-msgstr "[_maxine_s_hooking_up_replay_cable_out_of_it_hands_behind_back_] You're ... ugh ... right ..."
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:100 #-#-# translate crowdin replay_maxine_experiment_fe974535:
 msgid "[_maxine_s_hooking_up_replay_cable_out_of_it_hands_behind_back_] How's... it looking?"
@@ -442,7 +442,7 @@ msgstr "Je préfère que [maxine] soit décalé, pour être honnête."
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:166 #-#-# translate crowdin replay_maxine_experiment_93718f81:
 msgid "She's less annoying that way."
-msgstr "Elle est moins gênant de cette façon."
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:167 #-#-# translate crowdin replay_maxine_experiment_00875b90_2:
 msgid "[_maxine_s_hooking_up_replay_concerned_hands_behind_back_] Mmmph!"
@@ -466,7 +466,7 @@ msgstr "La façon dont son sphincter s'accroche autour du câble électrique est
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:178 #-#-# translate crowdin replay_maxine_experiment_7a8dfa0a:
 msgid "The inner walls of her asshole contract to electrical currents that pulsate through her."
-msgstr "Les murs intérieurs de son asshole se contracèrent avec des courants électriques qui la pulsaient."
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:179 #-#-# translate crowdin replay_maxine_experiment_12370b12:
 msgid "I don't know if [maxine] is seeing anything at all in those goggles, but one thing is for sure..."
@@ -478,7 +478,7 @@ msgstr "Je la vois pour qui elle est vraiment pour la première fois."
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:181 #-#-# translate crowdin replay_maxine_experiment_0782fc2d:
 msgid "Underneath that conspiracy-nutter-exterior is a girl who is deeply dedicated to her work."
-msgstr "Sous cette conspiration-nutter-extérieur est une fille qui est profondément dévoué à son travail."
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:182 #-#-# translate crowdin replay_maxine_experiment_c3d621a6:
 msgid "Someone who will stop at nothing to find the truth, even if it means taking electricity up your ass."
@@ -538,7 +538,7 @@ msgstr "[_mc_] Oui ? As-tu vu la lumière ?"
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:198 #-#-# translate crowdin replay_maxine_experiment_cb44106f:
 msgid "[_maxine_s_hooking_up_replay_out_of_it_hands_behind_back_] No..."
-msgstr "[_maxine_s_hooking_up_replay_out_of_it_hands_behind_back_] Non."
+msgstr ""
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:199 #-#-# translate crowdin replay_maxine_experiment_ae4aed89:
 msgid "[_maxine_s_hooking_up_replay_out_of_it_hands_behind_back_] It was a person..."
