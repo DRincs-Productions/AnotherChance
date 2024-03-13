@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 11:00\n"
+"PO-Revision-Date: 2024-03-13 16:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor_west/int_plant_pot.rpy:39 #-#-# translate crowdin school_ground_floor_west_pot_use_item_920fd6f5:
 msgid "Now that the letter has been deposited into [maxine]'s mailbox, the only thing left to do is wait."
@@ -26,7 +26,7 @@ msgstr "Mettre mon [item.title_lower] dans cette plante en pot peut sembler inof
 
 # game/1000_base_game/game/locations/school/ground_floor_west/int_plant_pot.rpy:44 #-#-# translate crowdin school_ground_floor_west_pot_use_item_b1c13a0b:
 msgid "Next thing you know the school is overrun by aliens and [maxine] is marching down the street at the head of a spider army."
-msgstr "La prochaine chose que vous savez que l'école est surgérée par des extraterrestre et [maxine] , c'est marcher dans la rue à la tête d'une armée d'araignées."
+msgstr ""
 
 # game/1000_base_game/game/locations/school/ground_floor_west/int_plant_pot.rpy:45 #-#-# translate crowdin school_ground_floor_west_pot_use_item_10054836:
 msgid "Not risking that."
@@ -39,6 +39,5 @@ msgstr "Où est cette demoiselle de réponse de [maxine] ? J'ai cherché partout
 # game/1000_base_game/game/locations/school/ground_floor_west/int_plant_pot.rpy:54 #-#-# translate crowdin school_ground_floor_west_pot_interact_74225117:
 msgid "There's something deeply unsettling about this plant. Too flourishing.{space=-35}\n"
 "Too happy in its lonesome state."
-msgstr "Il y a quelque chose de profondément troublquant à propos de cette plante. Trop florissante. {space=-35}\n"
-"Trop heureux dans son état solitaire."
+msgstr ""
 
