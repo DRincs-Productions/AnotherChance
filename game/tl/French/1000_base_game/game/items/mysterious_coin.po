@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:28\n"
+"PO-Revision-Date: 2024-03-13 16:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/mysterious_coin.rpy:15 #-#-# translate crowdin int_mysterious_coin_706c4b8c:
 msgid "A coin of mystical powers. Flipping it could have astronomical consequences."
@@ -26,7 +26,7 @@ msgstr "Les voiles."
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:20 #-#-# translate crowdin int_mysterious_coin_68d524b2:
 msgid "Of course. Never lucky. Seriously, even in coin flips I lose."
-msgstr "Bien sûr. Jamais chanceux. Sérieusement, même en flips je perds."
+msgstr ""
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:21 #-#-# translate crowdin int_mysterious_coin_29011049:
 msgid "The coin is probably rigged somehow."
@@ -34,11 +34,11 @@ msgstr "La pièce est probablement truquée d'une manière ou d'une autre."
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:22 #-#-# translate crowdin int_mysterious_coin_c5524275:
 msgid "Honestly, the weather conditions for the flip sucked."
-msgstr "Honnêtement, les conditions météorologiques pour le flip aspiré."
+msgstr ""
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:23 #-#-# translate crowdin int_mysterious_coin_2d67ce17:
 msgid "Plus I wasn't taking the flip seriously."
-msgstr "Et je n'ai pas pris la flip au sérieux."
+msgstr ""
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:25 #-#-# translate crowdin int_mysterious_coin_34afd9dd:
 msgid "This is the wise decision."
@@ -54,11 +54,11 @@ msgstr "La pauvreté ? Maladie ? Mort ? Ou pire encore ... perdre ?"
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:28 #-#-# translate crowdin int_mysterious_coin_0b328fec:
 msgid "Definitely matrixed a bullet there."
-msgstr "Certainement matrixed une balle là."
+msgstr ""
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/items/mysterious_coin.rpy:16
 msgid "Flip the coin"
-msgstr "Flip la pièce"
+msgstr ""
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:16
 msgid "Gambling is dangerous"
