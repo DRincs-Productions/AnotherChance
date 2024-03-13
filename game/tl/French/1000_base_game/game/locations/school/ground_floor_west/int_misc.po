@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-19 15:13\n"
+"PO-Revision-Date: 2024-03-13 16:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor_west/int_misc.rpy:45 #-#-# translate crowdin school_ground_floor_west_book_interact_8de3cff9:
 msgid "I didn't even know I needed this book..."
@@ -18,5 +18,5 @@ msgstr "Je ne savais même pas que j'avais besoin de ce livre ..."
 
 # game/1000_base_game/game/locations/school/ground_floor_west/int_misc.rpy:46 #-#-# translate crowdin school_ground_floor_west_book_interact_28be1f7d:
 msgid "{i}\"Just Smile and Wave — the successful politician's complete manual.\"{/}"
-msgstr "{i}\"Just Souriez and Wave-the réussie politicienne's complete manual.\" {/}"
+msgstr ""
 
