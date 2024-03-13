@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-15 23:41\n"
+"PO-Revision-Date: 2024-03-13 16:08\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_1/kate_desire.rpy:207 #-#-# translate crowdin quest_kate_desire_holdup_leave_ba4c3ae0:
 msgid "[_kate_s_excited_] Hey, where do you think you're going?"
@@ -66,7 +66,7 @@ msgstr "[_kate_s_thinking_]..."
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:236 #-#-# translate crowdin quest_kate_desire_nude_model_b7f7559b:
 msgid "[_mc_] That's..."
-msgstr "[_mc_] C'est. .."
+msgstr ""
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:237 #-#-# translate crowdin quest_kate_desire_nude_model_d25cdb75:
 msgid "[_kate_s_blush_] ...not what you had in mind?"
@@ -110,11 +110,11 @@ msgstr "[_kate_s_sad_] Il n'y a aucune façon de réussir à peindre un visage, 
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:256 #-#-# translate crowdin quest_kate_desire_nude_model_c867e6d2:
 msgid "[_jacklyn_s_smile_] I wouldn't put my bank on that piggy if I were you."
-msgstr "[_jacklyn_s_Souriez_] Je ne metterais pas ma banque sur cette pige si j'étais vous."
+msgstr ""
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:257 #-#-# translate crowdin quest_kate_desire_nude_model_fd82ee84:
 msgid "[_jacklyn_s_smile_] Bowl-cut here has some real talent."
-msgstr "[_jacklyn_s_Souriez_] Bowl-coupé ici a de vrais talents."
+msgstr ""
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:258 #-#-# translate crowdin quest_kate_desire_nude_model_4657ac0f:
 msgid "[_mc_] Thank you, [jacklyn]!"
@@ -226,7 +226,7 @@ msgstr "[_mc_] Oui, c'est fait."
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:306 #-#-# translate crowdin quest_kate_desire_nude_model_replay_5b477204:
 msgid "[_jacklyn_s_excited_] That is baller! Straight up Matisse!"
-msgstr "[_jacklyn_s_excited_] C'est baller ! Straight up Matisse !"
+msgstr ""
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:307 #-#-# translate crowdin quest_kate_desire_nude_model_replay_8fe429e9:
 msgid "[_kate_s_eyeroll_] Well, have that shit graded and sent to me. No one else can see it."
@@ -242,7 +242,7 @@ msgstr "Eh bien, c'était certainement intéressant ..."
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:315 #-#-# translate crowdin quest_kate_desire_nude_model_replay_59c05843:
 msgid "Not sure I've ever seen [kate] so flustered."
-msgstr "Pas sûr que j'ai déjà vu [kate] si flustered."
+msgstr ""
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:316 #-#-# translate crowdin quest_kate_desire_nude_model_replay_aff2bf79:
 msgid "It's a shame I can't keep the painting... You win some, you lose some, I guess."
@@ -322,7 +322,7 @@ msgstr "C'est un nouveau bas, et je suis l'un des plus gênés."
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:341 #-#-# translate crowdin quest_kate_desire_nude_model_replay_96e10452:
 msgid "This is a weird boner..."
-msgstr "C'est un boneur bizarre ..."
+msgstr ""
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/quests/season_1/kate_desire.rpy:239
 msgid "?jacklyn.love>=10@[jacklyn.love]/10|{image= jacklyn contact_icon}|{image= stats love_3}|\"Actually, this is better.\""
