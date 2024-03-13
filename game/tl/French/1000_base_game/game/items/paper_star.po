@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 10:29\n"
+"PO-Revision-Date: 2024-03-13 16:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/paper_star.rpy:17 #-#-# translate crowdin paper_star_blue_interact_c2b17cbc:
 msgid "{i}\"I'm big and I'm long.\"{/}"
@@ -38,7 +38,7 @@ msgstr "{i}\" Vider mes boutons. Je ne pense pas. \" {/}"
 
 # game/1000_base_game/game/items/paper_star.rpy:43 #-#-# translate crowdin paper_star_red_interact_6a0c9be5:
 msgid "{i}\"Finger me. Oh, do it right.\"{/}"
-msgstr "{i}\" Plier-moi. Oh, faites ça juste. \" {/}"
+msgstr ""
 
 # game/1000_base_game/game/items/paper_star.rpy:44 #-#-# translate crowdin paper_star_red_interact_0974286a:
 msgid "{i}\"I'll sing for you. I'll sing all night.\"{/}"
@@ -58,7 +58,7 @@ msgstr "{i}\"Je suis à l'intérieur de vous toute la vie.\" {/}"
 
 # game/1000_base_game/game/items/paper_star.rpy:88 #-#-# translate crowdin paper_star_black_interact_d1bcf492:
 msgid "{i}\"I'm where no man dares to tread.\"{/}"
-msgstr "{i}\"I'm where no man dares to tread.\" {/}"
+msgstr ""
 
 # game/1000_base_game/game/items/paper_star.rpy:89 #-#-# translate crowdin paper_star_black_interact_acc5047f:
 msgid "{i}\"A land of bowls and pipes of lead.\"{/}"
@@ -66,5 +66,5 @@ msgstr "{i}\"Une terre de bols et de tuyaux de plomb.\" {/}"
 
 # game/1000_base_game/game/items/paper_star.rpy:110 #-#-# translate crowdin paper_star_gold_interact_f33d85f8:
 msgid "{i}\"To the victor goes the spoils.\"{/}"
-msgstr "{i}\"To the victor goes the spoils.\" {/}"
+msgstr ""
 
