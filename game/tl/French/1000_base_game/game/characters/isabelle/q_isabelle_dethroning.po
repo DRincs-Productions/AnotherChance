@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:01\n"
+"PO-Revision-Date: 2024-03-14 12:21\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:8 #-#-# translate crowdin quest_isabelle_dethroning_start_f602badf:
 msgid "[_mc_] Hi, [isabelle]! I managed to score a meeting with [maxine]."
@@ -4753,7 +4753,7 @@ msgstr "[_nurse_s_kitchen_posing_] Oh mon dieu ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3008 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_kitchen_31995cf7:
 msgid "Despite looking spooked, the [nurse] seems to have enjoyed that. She's practically gushing."
-msgstr "Malgré son air effrayé, l'[infirmière] semble avoir apprécié. Elle est pratiquement en train de jaillir."
+msgstr "Malgré son air effrayé, l'[nurse] semble avoir apprécié. Elle est pratiquement en train de jaillir."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3009 #-#-# translate crowdin quest_isabelle_dethroning_dinner_picture_kitchen_b93997bf:
 msgid "[_kate_] Keep crawling, slut. We're not done yet."
@@ -5427,7 +5427,7 @@ msgstr "[isabelle] sera probablement parti pour un moment ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3400 #-#-# translate crowdin quest_isabelle_dethroning_revenge_21f83fd3:
 msgid "I'm not sure if she'll even get into the [guard]'s booth without breaking the glass..."
-msgstr "Je ne suis pas sûr qu'elle puisse entrer dans la cabine du [gardien] sans briser la vitre..."
+msgstr "Je ne suis pas sûr qu'elle puisse entrer dans la cabine du [guard] sans briser la vitre..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3401 #-#-# translate crowdin quest_isabelle_dethroning_revenge_3b2818ca:
 msgid "Might as well make myself useful."
@@ -7063,7 +7063,7 @@ msgstr "[_isabelle_s_afraid_] Nous ne pouvons pas simplement partir sans [lindse
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4729 #-#-# translate crowdin quest_isabelle_dethroning_revenge_done_6dea4cb2:
 msgid "[_isabelle_s_cringe_] I know this is just someone trying to mess with us, but... just in case...{space=-45}"
-msgstr "[Je sais que c'est juste quelqu'un qui essaie de nous embêter, mais... juste au cas où...{space=-45}"
+msgstr "[_isabelle_s_cringe_] Je sais que c'est juste quelqu'un qui essaie de nous embêter, mais... juste au cas où...{space=-45}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4730 #-#-# translate crowdin quest_isabelle_dethroning_revenge_done_c688936d:
 msgid "[_mc_] [isabelle], maybe you can help the [nurse] get everyone out, and I'll try to find [lindsey]?"
