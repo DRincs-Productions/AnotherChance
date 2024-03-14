@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:04\n"
+"PO-Revision-Date: 2024-03-14 11:02\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/leyline_indicator.rpy:50 #-#-# translate crowdin int_leyline_locator_charge_bb60e552:
 msgid "This thing is dead. It does seem to run on electricity, though... perhaps there's a way to charge it?"
@@ -78,7 +78,7 @@ msgstr "[_lll_] {i}Erreur. Signal trop faible. {/}"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:212 #-#-# translate crowdin locator_button_2_interact_final_0a06dfe7:
 msgid "Damn it. Maybe [maxine] is right... I need a magnet on each node."
-msgstr ""
+msgstr "Bon sang de bonsoir. Peut-être que [maxine] a raison... J'ai besoin d'un aimant sur chaque nœud."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:217 #-#-# translate crowdin locator_button_2_interact_9f4986ea:
 msgid "[_lll_] {i}Triangulating positions...{/}"
@@ -138,11 +138,11 @@ msgstr "Si seulement ces lignes pouvaient me pointer dans la direction des meill
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:317 #-#-# translate crowdin locator_screen_school_cafeteria_c4ad2b30:
 msgid "On second thought, that direction is the [guard]'s booth. Don't need no magic lines to tell me!"
-msgstr ""
+msgstr "A bien y réfléchir, c'est la direction de la cabine du [garde]. Pas besoin de lignes magiques pour me le dire !"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:321 #-#-# translate crowdin locator_screen_school_english_class_e34c05a1:
 msgid "That looks a bit like an inverted gastrohedron, but without the hexatropinac flexpod..."
-msgstr ""
+msgstr "Cela ressemble un peu à un gastrohedron inversé, mais sans le flexpod hexatropinique..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:322 #-#-# translate crowdin locator_screen_school_english_class_c63c1382:
 msgid "I'm just making up words."
@@ -154,7 +154,7 @@ msgstr "Whoa ! Une nouvelle ligne s'est matérialisée, menant les escaliers pri
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:331 #-#-# translate crowdin locator_screen_school_first_hall_final_79da9882:
 msgid "The lines here converge into a node of some sort..."
-msgstr ""
+msgstr "Les lignes ici convergent en une sorte de nœud..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:332 #-#-# translate crowdin locator_screen_school_first_hall_final_fd0d754c:
 msgid "One line leads off in the direction of each wing."
@@ -170,7 +170,7 @@ msgstr "Je ne sais pas si c'est la chose la plus intelligente ..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:338 #-#-# translate crowdin locator_screen_school_first_hall_east_68ed68a8:
 msgid "Next thing you know, you're at the end of the rainbow, and a leprechaun is hitting you over the head with a gold ingot and cussing you out in Irish!"
-msgstr ""
+msgstr "L'instant d'après, vous êtes au bout de l'arc-en-ciel et un lutin vous frappe à la tête avec un lingot d'or en vous injuriant en irlandais !"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:342 #-#-# translate crowdin locator_screen_school_first_hall_west_8b2ed324:
 msgid "It's hard to come full circle when it looks like this..."
@@ -190,7 +190,7 @@ msgstr "Ce cercle se connecte à la ligne dans le couloir à l'extérieur."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:352 #-#-# translate crowdin locator_screen_school_gym_a4639cf2:
 msgid "Does that mean what I think it does...?"
-msgstr ""
+msgstr "Cela signifie-t-il ce que je pense ?"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:353 #-#-# translate crowdin locator_screen_school_gym_a683a19d:
 msgid "Yeah, no clue."
@@ -214,7 +214,7 @@ msgstr "Mettre des aimants dans des endroits aléatoires n'est absolument pas fo
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:375 #-#-# translate crowdin quest_maxine_lines_use_magnet_c1558b30:
 msgid "Not really sure why I'm doing this mumbo-jumbo..."
-msgstr ""
+msgstr "Je ne sais pas vraiment pourquoi je fais ce charabia..."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:376 #-#-# translate crowdin quest_maxine_lines_use_magnet_dbd01bd3:
 msgid "Maybe it's just the need to know?"
@@ -226,7 +226,7 @@ msgstr "La soif de l'inconnu me conduit. Ou peut-être que c'est juste la soif d
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:383 #-#-# translate crowdin quest_maxine_lines_use_magnet_d03fab30:
 msgid "Imbuing my [item.title_lower] with mysterious arcane properties seems like a quick way to attract a vengeful coven of witches."
-msgstr ""
+msgstr "Imprégner mon [item.title_lower] de mystérieuses propriétés arcaniques semble être un moyen rapide d'attirer une bande de sorcières vengeresses."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:384 #-#-# translate crowdin quest_maxine_lines_use_magnet_f640908f:
 msgid "Magically hot... but also dangerous."
@@ -234,7 +234,7 @@ msgstr "Magiquement chaud ... mais aussi dangereux."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:387 #-#-# translate crowdin quest_maxine_lines_use_magnet_656340bd:
 msgid "My [item.title_lower] would make for a beautiful floor decoration, but [lindsey]'s probably just going to trip again."
-msgstr ""
+msgstr "Mon [item.title_lower] ferait une belle décoration au sol, mais [lindsey] va probablement trébucher à nouveau."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:390 #-#-# translate crowdin quest_maxine_lines_use_magnet_a3ced8d2:
 msgid "Putting my [item.title_lower] in this circle could awaken some ancient spirit..."
@@ -250,7 +250,7 @@ msgstr "Je continue à vérifier cette chose plus que mon téléphone. Rien ici,
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:416 #-#-# translate crowdin quest_maxine_lines_locator_no_lines_b9102ad4:
 msgid "This reminds me of my Game Boy Colour addiction! No lines drawn for either."
-msgstr ""
+msgstr "Cela me rappelle ma dépendance à la Game Boy Colour ! Aucune ligne n'est tracée pour l'une ou l'autre."
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:418 #-#-# translate crowdin quest_maxine_lines_locator_no_lines_84da0da8:
 msgid "No lines here, and maybe that's a relief."
