@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:05\n"
+"PO-Revision-Date: 2024-03-14 11:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_s1.rpy:53 #-#-# translate crowdin home_kitchen_s1_interact_flora_bonsai_d6cedc54:
 msgid "I already got enough items. I should give them to [flora]."
@@ -38,7 +38,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/kitchen/int_s1.rpy:72
 msgid "Apron"
-msgstr ""
+msgstr "Tablier"
 
 # game/1000_base_game/game/locations/home/kitchen/int_s1.rpy:72
 msgid "Kitchen Towel"
