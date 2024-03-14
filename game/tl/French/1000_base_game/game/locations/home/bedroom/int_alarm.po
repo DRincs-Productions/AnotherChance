@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:04\n"
+"PO-Revision-Date: 2024-03-14 11:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:86 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_b3662912:
 msgid "What should I do with this thing?"
@@ -22,7 +22,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:97 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_b9c32f7b:
 msgid "Ding-dong, the watch is dead! [withvpunch]"
-msgstr ""
+msgstr "Ding-dong, la montre est morte ! [avecvpunch]"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:98 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_fb02c09d:
 msgid "Who knew a proper smashing would feel so good? The testosterone! The sheer power!"
@@ -38,7 +38,7 @@ msgstr "Il n'y a pas besoin d'être en hausse pendant plusieurs heures. Pourquoi
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:108 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_d77c68d1:
 msgid "Smashing it would've been nice, but at least I don't have to clean up the pieces now."
-msgstr ""
+msgstr "L'écraser aurait été bien, mais au moins je n'ai pas à nettoyer les morceaux maintenant."
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:109 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_251bbc0a_1:
 msgid "There's no need to be up for several more hours. Why the hell did my alarm go off so early?"
@@ -50,11 +50,11 @@ msgstr "La mélodie d'un meilleur moment. Il est également possible de la laiss
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:116 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_smashed_31360bc0:
 msgid "You tell me, \"All I've done is create more despair and destruction in my environment.\""
-msgstr ""
+msgstr "Vous me dites : \"Tout ce que j'ai fait, c'est créer plus de désespoir et de destruction dans mon environnement\"."
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:117 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_smashed_8f055e01:
 msgid "I ask you, \"Why did it feel so good then?\""
-msgstr ""
+msgstr "Je vous demande : \"Pourquoi est-ce que je me sentais si bien à ce moment-là ?\""
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:121 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_off_8261505a:
 msgid "Those deprived of sympathy can still break the circle of abuse. Jesus turned the other cheek and so can I."
@@ -62,7 +62,7 @@ msgstr "Ceux qui sont privés de sympathie peuvent encore briser le cercle des a
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:122 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_off_d7bacf75:
 msgid "Except if there are clock-merchants involved, those get righteously whipped out of the temple."
-msgstr ""
+msgstr "Sauf s'il s'agit de marchands d'horloges, ceux-ci sont expulsés du temple à juste titre."
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:127 #-#-# translate crowdin home_bedroom_alarm_interact_dress_to_the_nine_off_dfe6d16d:
 msgid "Now is not the time. Unless we're talking about time itself... then, it's always time."
@@ -106,7 +106,7 @@ msgstr "Bien. Cette pièce pourrait rapidement se transformer en cimetière d'ho
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:198 #-#-# translate crowdin home_bedroom_alarm_interact_kate_blowjob_dream_alarm_off_again_1d984af7:
 msgid "Foul beast of the abyss! Return from whence you came! [withvpunch]"
-msgstr ""
+msgstr "Bête immonde de l'abîme ! Retourne d'où tu viens ! [avecvpunch]"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:202 #-#-# translate crowdin home_bedroom_alarm_interact_kate_blowjob_dream_alarm_off_again_09f8a697:
 msgid "Good. This room could quickly turn into a clock cemetery."
@@ -114,7 +114,7 @@ msgstr "Bien. Cette pièce pourrait rapidement se transformer en cimetière d'ho
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:87
 msgid "Smash it"
-msgstr ""
+msgstr "Le briser"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:87
 msgid "Turn it off"
@@ -122,11 +122,11 @@ msgstr "Éteignez la"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:87
 msgid "Leave it"
-msgstr ""
+msgstr "Laissez-le"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:173
 msgid "Smash it again!"
-msgstr ""
+msgstr "Encore une fois !"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:173
 msgid "Let the new clock live... for now"
