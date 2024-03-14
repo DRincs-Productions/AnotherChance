@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:03\n"
+"PO-Revision-Date: 2024-03-14 11:01\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1540 #-#-# translate crowdin lindsey_talk_romance_disabled_82074987:
 msgid "I don't think [lindsey] wants to talk to me after what I did to her..."
@@ -30,7 +30,7 @@ msgstr "[_lindsey_s_thinking_] Peut-être que je suis un peu démodé, mais je p
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1560 #-#-# translate crowdin lindsey_talk_two_77fc0611:
 msgid "[_lindsey_s_smile_] Mom always says that racing is in my blood, but sometimes I wish I could stop for a moment and catch my breath."
-msgstr ""
+msgstr "[_lindsey_s_smile_] Maman dit toujours que j'ai la course dans le sang, mais parfois j'aimerais pouvoir m'arrêter un moment et reprendre mon souffle."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1567 #-#-# translate crowdin lindsey_talk_three_4ce78fed:
 msgid "[_lindsey_s_sad_] My family has always been very competitive. One time, I placed third in a junior race."
@@ -150,7 +150,7 @@ msgstr "[_lindsey_s_blush_] Oh, oui !"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1652 #-#-# translate crowdin lindsey_flirt_two_4a56f718:
 msgid "[_lindsey_s_blush_] I love watching knights in full armor, charging down the lists on their mighty steeds!"
-msgstr ""
+msgstr "[J'adore regarder les chevaliers en armure charger les listes sur leurs puissants destriers !"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1655 #-#-# translate crowdin lindsey_flirt_two_b85e19e4:
 msgid "[_mc_] Olympic races."
@@ -234,11 +234,11 @@ msgstr "[_mc_] Était-ce [maya] ? Vous êtes tous les deux si adorables, je pour
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1715 #-#-# translate crowdin lindsey_flirt_four_8c830d1e:
 msgid "[_lindsey_s_blush_] Wrong, but... aw, that's so nice of you!"
-msgstr ""
+msgstr "[_lindsey_s_blush_] Faux, mais... aw, c'est si gentil de ta part !"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1716 #-#-# translate crowdin lindsey_flirt_four_4583e08d:
 msgid "[_lindsey_s_blush_] She's a real cutie! And I totally don't mind being compared to her!"
-msgstr ""
+msgstr "[Elle est vraiment mignonne ! Et ça ne me dérange pas du tout d'être comparée à elle !"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1719 #-#-# translate crowdin lindsey_flirt_four_42cec446:
 msgid "[_mc_] [maxine], right? You built that wooden ship together and I know you miss sailing on the yacht with her."
@@ -266,7 +266,7 @@ msgstr "[_lindsey_s_laughing_] Non ! [isabelle] vient de commencer ici. Pourquoi
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1735 #-#-# translate crowdin lindsey_flirt_five_1376eab0:
 msgid "[_lindsey_s_flirty_] Wanna race?"
-msgstr ""
+msgstr "[Tu veux faire la course ?"
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1736 #-#-# translate crowdin lindsey_flirt_five_d4358764:
 msgid "[_mc_] Not really, no."
@@ -322,7 +322,7 @@ msgstr "[_lindsey_s_excited_] Corriger ! Je garde tous mes trophées et mes méd
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1610
 msgid "\"Racing is in your blood.\""
-msgstr ""
+msgstr "\"Vous avez la course dans le sang."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1610
 msgid "\"Your parents got you into it.\""
@@ -338,11 +338,11 @@ msgstr "\"Vous avez toujours admiré les champions.\""
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1640
 msgid "\"Charter cruises.\""
-msgstr ""
+msgstr "\"Croisières charter\"."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1640
 msgid "\"Jousting tournaments.\""
-msgstr ""
+msgstr "\"Tournois de joutes\"."
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1640
 msgid "\"Olympic races.\""
@@ -362,7 +362,7 @@ msgstr "\"Eh bien, si vous n'étiez pas une telle primadonna, les gars pourraien
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1669
 msgid "\"All the dudes here are dicks. I don't blame you.\""
-msgstr ""
+msgstr "\"Tous les mecs ici sont des bites. Je ne t'en veux pas.\""
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1669
 msgid "\"You'd like to save yourself for marriage.\""
@@ -398,5 +398,5 @@ msgstr "\"Juste un, mais cette année tu vas pour ta deuxième victoire.\""
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1741
 msgid "\"None.\""
-msgstr ""
+msgstr "\"Aucune\"."
 
