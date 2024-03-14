@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:03\n"
+"PO-Revision-Date: 2024-03-14 11:01\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/maxine/maxine.rpy:1622 #-#-# translate crowdin maxine_talk_one_e47f2210:
 msgid "[_maxine_s_afraid_] Not now, the Vending Corporation is trying to pull the wool over my eyes!"
-msgstr ""
+msgstr "[Pas maintenant, la société de distribution automatique essaie de me faire marcher sur les pieds !"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1629 #-#-# translate crowdin maxine_talk_two_f02b123a:
 msgid "[_maxine_s_skeptical_] The specimen in Area 12 should not be touched, ingested, or worshipped. It is the most dangerous living thing in the school."
@@ -38,7 +38,7 @@ msgstr "[_mc_] Quelle exposition ?"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1646 #-#-# translate crowdin maxine_talk_four_c0d3964a:
 msgid "[_maxine_s_neutral_popcorn_] Don't mind me."
-msgstr ""
+msgstr "[Ne faites pas attention à moi."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1652 #-#-# translate crowdin maxine_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
@@ -182,7 +182,7 @@ msgstr "[_mc_] Hé, [maxine]!"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1732 #-#-# translate crowdin maxine_flirt_three_57494b38:
 msgid "[_maxine_s_smile_] Greetings, fellow Newfaller."
-msgstr ""
+msgstr "[_maxine_s_smile_] Salutations, camarade Newfaller."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1733 #-#-# translate crowdin maxine_flirt_three_4308d1e6:
 msgid "[_mc_] I just wanted to tell you that..."
@@ -294,7 +294,7 @@ msgstr "[_maxine_s_concerned_] Une sorte de primate, du moins."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1774 #-#-# translate crowdin maxine_flirt_three_a0fbd51e:
 msgid "[_mc_] There's a monkey behind me?!"
-msgstr ""
+msgstr "[Il y a un singe derrière moi ? !"
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1775 #-#-# translate crowdin maxine_flirt_three_b78528cb:
 msgid "[_maxine_s_flirty_] I'm glad you're finally starting to question your reality, but I've already said too much."
@@ -314,7 +314,7 @@ msgstr "\"Le spécimen dans la zone 12.\""
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1666
 msgid "\"Ignorance.\""
-msgstr ""
+msgstr "\"Ignorance\"."
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1666
 msgid "\"[kate]'s wrath.\""
