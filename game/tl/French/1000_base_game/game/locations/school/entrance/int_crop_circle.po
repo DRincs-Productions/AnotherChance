@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:06\n"
+"PO-Revision-Date: 2024-03-14 11:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_crop_circle.rpy:15 #-#-# translate crowdin school_entrance_cropcircle_interact_fd55076a:
 msgid "Huh! There's lines of tiny text burnt into the grass."
-msgstr ""
+msgstr "Huh ! Il y a des lignes de texte minuscules gravées dans l'herbe."
 
 # game/1000_base_game/game/locations/school/entrance/int_crop_circle.rpy:16 #-#-# translate crowdin school_entrance_cropcircle_interact_6ec39ec3:
 msgid "{i}\"Our gratitude, earth-giant.\"{/}"
