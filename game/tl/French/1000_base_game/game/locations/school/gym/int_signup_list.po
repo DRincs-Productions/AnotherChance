@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:07\n"
+"PO-Revision-Date: 2024-03-14 11:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/gym/int_signup_list.rpy:28 #-#-# translate crowdin school_gym_signup_list_interact_a2be0bfc:
 msgid "Where's the I-changed-my-mind-list?"
-msgstr ""
+msgstr "Où est la liste des \"j'ai changé d'avis\" ?"
 
 # game/1000_base_game/game/locations/school/gym/int_signup_list.rpy:29 #-#-# translate crowdin school_gym_signup_list_interact_841b8d58:
 msgid "The only upside of this is that I can't sign up twice."
@@ -34,5 +34,5 @@ msgstr "Inscrivez-vous aux cours de gymnastique"
 
 # game/1000_base_game/game/locations/school/gym/int_signup_list.rpy:22
 msgid "I'd rather take a fall down a flight of stairs"
-msgstr ""
+msgstr "Je préfère faire une chute dans les escaliers."
 
