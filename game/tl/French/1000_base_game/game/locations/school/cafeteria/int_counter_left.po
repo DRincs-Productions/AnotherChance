@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:05\n"
+"PO-Revision-Date: 2024-03-14 11:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:55 #-#-# translate crowdin school_cafeteria_counter_left_interact_two_0aaef48c:
 msgid "Entering the kitchen is against school regulations."
@@ -18,7 +18,7 @@ msgstr "Entrer dans la cuisine est contraire aux règlements de l'école."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:56 #-#-# translate crowdin school_cafeteria_counter_left_interact_two_c4ec3e62:
 msgid "They're worried unruly students will mess with the food."
-msgstr ""
+msgstr "Ils craignent que des étudiants indisciplinés ne s'attaquent à la nourriture."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:57 #-#-# translate crowdin school_cafeteria_counter_left_interact_two_fcd3a332:
 msgid "To be honest, it would probably make it better."
@@ -58,7 +58,7 @@ msgstr "Je ne peux pas manger sur un estomac anxieux."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:85 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_9c20ddc2:
 msgid "A heist only works once. Everyone knows that."
-msgstr ""
+msgstr "Un hold-up ne fonctionne qu'une fois. Tout le monde le sait."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:87 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_f0ac7e5b:
 msgid "[_mc_] Hello? Can I have some garlic, please?"
@@ -74,7 +74,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:93 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_d97767d5:
 msgid "I'm just going to pocket this garlic and no one will—"
-msgstr ""
+msgstr "Je vais empocher cet ail et personne ne le fera..."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:96 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_f5cad311:
 msgid "[_jo_s_angry_] Caught red-handed!"
@@ -106,7 +106,7 @@ msgstr "[_jo_s_angry_] Non ! Je coupe votre câble TV."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:103 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_4a302ce9:
 msgid "Oh well. I've seen The Gimpsons a million times before."
-msgstr ""
+msgstr "Mais bon... J'ai déjà vu The Gimpsons un million de fois."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:107 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_4a149327:
 msgid "What do you say after you ate the stolen garlic?"
@@ -114,7 +114,7 @@ msgstr "Que dis-tu après avoir mangé l'ail volé ?"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:108 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_60eab4ca:
 msgid "You hold up your bowl and say, \"Please, ma'am, can I have some more garlic?\""
-msgstr ""
+msgstr "Vous brandissez votre bol et dites : \"S'il vous plaît, madame, puis-je avoir un peu plus d'ail ?\""
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:109 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_491ce037:
 msgid "And then it just miraculously appears in your hand."
@@ -166,11 +166,11 @@ msgstr "Heureusement pour moi ..."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:127 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_0c50e6d1:
 msgid "I've spent many nights honing the craft of stealth and trickery."
-msgstr ""
+msgstr "J'ai passé de nombreuses nuits à perfectionner l'art de la furtivité et de la ruse."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:128 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_7e027941:
 msgid "This is nothing compared to the creaky stairs at home."
-msgstr ""
+msgstr "Ce n'est rien comparé aux escaliers grinçants de la maison."
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:132 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_d206b49c:
 msgid "[_jo_s_neutral_] What do you think you're doing?"
@@ -202,7 +202,7 @@ msgstr "Dieu le maudit. Au moins, j'ai l'ail."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:89
 msgid "Commit larceny"
-msgstr ""
+msgstr "Commettre un vol"
 
 # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:89
 msgid "Wait for better times"
