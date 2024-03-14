@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:05\n"
+"PO-Revision-Date: 2024-03-14 11:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:35 #-#-# translate crowdin home_kitchen_stove_interact_327b112f:
 msgid "Right. After the last incident, [jo] put safety locks on the stove."
@@ -34,15 +34,15 @@ msgstr "Deux minutes à minuit et le monde est en feu. Il est grand temps d'ajou
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:51 #-#-# translate crowdin quest_jo_pot_stove_6873c992:
 msgid "I'm all for experimenting with cooking, but boiling water on my [item.title_lower] is too Frankenstein even for me."
-msgstr ""
+msgstr "Je veux bien faire des expériences culinaires, mais faire bouillir de l'eau sur mon [item.title_lower], c'est trop Frankenstein, même pour moi."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:57 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_0c8cd162:
 msgid "Okay, time to toss that caesar salad..."
-msgstr ""
+msgstr "Bon, il est temps de mélanger cette salade César..."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:63 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_223df4be:
 msgid "Best to keep the Whooshster™ Sauce. Never know when it might come in handy."
-msgstr ""
+msgstr "Mieux vaut garder le Whooshster™ Sauce. On ne sait jamais quand elle peut être utile."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:64 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_a20cefa7:
 msgid "..."
@@ -58,11 +58,11 @@ msgstr "Maintenant, pour attendre [jacklyn]."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:84 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_4da9d435:
 msgid "My first date ever and I refuse to do even the most basic of preparations?"
-msgstr ""
+msgstr "C'est mon premier rendez-vous et je refuse de faire les préparatifs les plus élémentaires ?"
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:85 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_b8ce7c6b:
 msgid "Suprising? No."
-msgstr ""
+msgstr "Surprenant ? Non."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:86 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_90592855:
 msgid "Disappointing? Yes."
@@ -106,7 +106,7 @@ msgstr "Ça ira bien."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:113 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_223df4be:
 msgid "Best to keep the Whooshster™ Sauce. Never know when it might come in handy."
-msgstr ""
+msgstr "Mieux vaut garder le Whooshster™ Sauce. On ne sait jamais quand elle peut être utile."
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:114 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_a20cefa7:
 msgid "..."
