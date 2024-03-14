@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:07\n"
+"PO-Revision-Date: 2024-03-14 11:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_notice_board.rpy:46 #-#-# translate crowdin school_ground_floor_notice_board_interact_two_21aee5c7:
 msgid "{i}\"Make a real queen rule the prom this year. Vote for [kate]!\"{/}"
@@ -26,7 +26,7 @@ msgstr "{i}\"Bienvenue à Newfall High et le premier jour de l'année scolaire !
 
 # game/1000_base_game/game/locations/school/ground_floor/int_notice_board.rpy:52 #-#-# translate crowdin school_ground_floor_notice_board_interact_day1_take2_3a1729eb:
 msgid "{i}\"Freshmen, sophomores, and juniors — please, gather on the field behind the school.\"{/}"
-msgstr ""
+msgstr "{i}\"Les élèves de première, deuxième et troisième année se rassemblent sur le terrain derrière l'école."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_notice_board.rpy:53 #-#-# translate crowdin school_ground_floor_notice_board_interact_day1_take2_12ac5f97:
 msgid "{i}\"Seniors, come to the homeroom.\"{/}"
@@ -106,7 +106,7 @@ msgstr "Là. Perfection."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_notice_board.rpy:103 #-#-# translate crowdin school_ground_floor_notice_board_maxine_wine_locker_use_item_b5b7158c:
 msgid "Okay, that's all of them. Praise the lord Jesus hallelujah. My ass is sweating more than that hipster up on the cross."
-msgstr ""
+msgstr "D'accord, c'est tout. Louez le Seigneur Jésus, alléluia. Mon cul transpire plus que ce hipster sur la croix."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_notice_board.rpy:106 #-#-# translate crowdin school_ground_floor_notice_board_maxine_wine_locker_use_item_40b35634:
 msgid "It wouldn't be entirely outlandish to nail my [item.title_lower] to the board and watch a sudden outbreak of confusion."
