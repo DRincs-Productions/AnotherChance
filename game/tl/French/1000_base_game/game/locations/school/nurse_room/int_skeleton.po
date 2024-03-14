@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:07\n"
+"PO-Revision-Date: 2024-03-14 11:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_skeleton.rpy:30 #-#-# translate crowdin school_nurse_room_skeleton_interact_d4d47b50:
 msgid "It says, \"Made in China.\""
@@ -22,5 +22,5 @@ msgstr "Mais ça ne ressemble pas à un timbre officiel. La Chine typique."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_skeleton.rpy:35 #-#-# translate crowdin school_nurse_room_skeleton_interact_tour_finished_11e8df97:
 msgid "His handshake is a bit hard and loose. Typical for a bonehead."
-msgstr ""
+msgstr "Sa poignée de main est un peu dure et lâche. Typique d'une tête de noeud."
 
