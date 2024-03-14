@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:07\n"
+"PO-Revision-Date: 2024-03-14 11:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_no_globe.rpy:17 #-#-# translate crowdin school_homeroom_no_globe_interact_737f8338:
 msgid "Map of the galaxy. Tiny dot. \"You are here.\""
@@ -26,5 +26,5 @@ msgstr "Avec mon aide, le cosmos a été restauré."
 
 # game/1000_base_game/game/locations/school/homeroom/int_no_globe.rpy:28 #-#-# translate crowdin school_homeroom_no_globe_use_332287d7:
 msgid "If only my [item.title_lower] could replace the world. It would be a better place."
-msgstr ""
+msgstr "Si seulement mon [item.title_lower] pouvait remplacer le monde. Ce serait un meilleur endroit."
 
