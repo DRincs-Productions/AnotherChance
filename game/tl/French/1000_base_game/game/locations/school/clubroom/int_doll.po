@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:05\n"
+"PO-Revision-Date: 2024-03-14 11:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:17 #-#-# translate crowdin school_clubroom_doll_interact_42443d95:
 msgid "Spinach keeps hissing at it. A cat is never wrong about these things."
-msgstr ""
+msgstr "Les épinards n'arrêtent pas de le siffler. Un chat ne se trompe jamais sur ce genre de choses."
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:18 #-#-# translate crowdin school_clubroom_doll_interact_2d62b189:
 msgid "I wonder what the symbols on its dress mean..."
@@ -150,7 +150,7 @@ msgstr "J'ai besoin de plus d'aimants pour former un cercle autour ..."
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:74 #-#-# translate crowdin maxine_lines_doll_prison_4a1ca3f6:
 msgid "Imprisoning the doll with my [item.title_lower] would look kinda funny, but I doubt [maxine] would approve."
-msgstr ""
+msgstr "Emprisonner la poupée avec mon [item.title_lower] serait plutôt drôle, mais je doute que [maxine] approuve."
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:93 #-#-# translate crowdin school_clubroom_eyelessdoll_interact_1a2f6c26:
 msgid "I'm not sure if the lack of eyes made it any less creepy."
@@ -174,5 +174,5 @@ msgstr "\" Quoi de suite ? Le canard à fourche ? \""
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:34
 msgid "\"We're lucky that you're here watching over us.\""
-msgstr ""
+msgstr "\"Nous avons de la chance que vous soyez là à veiller sur nous.\""
 
