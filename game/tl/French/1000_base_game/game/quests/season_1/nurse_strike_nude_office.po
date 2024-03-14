@@ -10,12 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:08\n"
+"PO-Revision-Date: 2024-03-14 11:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:32 #-#-# translate crowdin nurse_strike_nude_office_first_04de358e:
 msgid "[_nurse_s_neutral_] Gosh, I'm not sure you should be looking through that book\n"
 "right now..."
-msgstr ""
+msgstr "[Je ne suis pas sûr que vous devriez lire ce livre\n"
+"en ce moment..."
 
 # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:33 #-#-# translate crowdin nurse_strike_nude_office_first_49f95e3f:
 msgid "[_mc_] Hmm? This little book? And why is that?"
@@ -36,7 +37,8 @@ msgstr "[_mc_] Ils sont notre petit secret."
 # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:37 #-#-# translate crowdin nurse_strike_nude_office_first_f87067be:
 msgid "[_nurse_s_annoyed_] Oh, I don't know. I get really nervous when you flip through\n"
 "those pages."
-msgstr ""
+msgstr "[Oh, je ne sais pas. Je deviens vraiment nerveuse quand vous feuilletez\n"
+"ces pages."
 
 # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:38 #-#-# translate crowdin nurse_strike_nude_office_first_83f3d709:
 msgid "[_mc_] I can imagine."
@@ -104,7 +106,7 @@ msgstr "[_nurse_s_concerned_] Oh, ma bonté ..."
 
 # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:54 #-#-# translate crowdin nurse_strike_nude_office_first_7c1a21d5:
 msgid "[_nurse_s_concerned_] Gosh, okay, but what if someone comes in?"
-msgstr ""
+msgstr "[Bon sang, d'accord, mais si quelqu'un entre ?"
 
 # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:65 #-#-# translate crowdin nurse_strike_nude_office_first_93324af9:
 msgid "[_nurse_s_thinking_] This is enough, right?"
@@ -132,7 +134,7 @@ msgstr "[_nurse_s_neutral_] Je ne sais pas ce que je vais faire si quelqu'un vie
 
 # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:80 #-#-# translate crowdin nurse_strike_nude_office_first_58e69950:
 msgid "[_nurse_s_neutral_] Sorry, but this is..."
-msgstr ""
+msgstr "[Désolé, mais c'est..."
 
 # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:81 #-#-# translate crowdin nurse_strike_nude_office_first_56c92980:
 msgid "[_mc_] It's pretty hot, right?"
@@ -160,7 +162,7 @@ msgstr "[_mc_] Découvrons-le."
 
 # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:87 #-#-# translate crowdin nurse_strike_nude_office_first_5771f56f:
 msgid "[_nurse_s_concerned_] Okay, okay. Gosh."
-msgstr ""
+msgstr "[D'accord, d'accord. C'est bien."
 
 # game/1000_base_game/game/quests/season_1/nurse_strike_nude_office.rpy:97 #-#-# translate crowdin nurse_strike_nude_office_first_6baeb239:
 msgid "[_nurse_s_sad_] This must be enough, right?"
