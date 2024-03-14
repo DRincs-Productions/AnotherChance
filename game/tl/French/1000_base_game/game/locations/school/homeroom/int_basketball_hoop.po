@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:07\n"
+"PO-Revision-Date: 2024-03-14 11:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:36 #-#-# translate crowdin school_homeroom_basketball_hoop_interact_93a7c4a2:
 msgid "Not sure how the jocks managed to get this thing installed. It's all a big conspiracy."
-msgstr ""
+msgstr "Je ne sais pas comment les sportifs ont réussi à faire installer ce truc. C'est une grande conspiration."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:40 #-#-# translate crowdin school_homeroom_basket_interact_41e0c409:
 msgid "I wish I was a little bit taller."
@@ -22,7 +22,7 @@ msgstr "J'aimerais être un peu plus grand."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:41 #-#-# translate crowdin school_homeroom_basket_interact_e0489245:
 msgid "I wish I was a baller."
-msgstr ""
+msgstr "J'aimerais être un joueur de baseball."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:46 #-#-# translate crowdin school_homeroom_globe_basketball_hoop_use_ba95d88a:
 msgid "All right, going for a three-pointer..."
@@ -66,7 +66,7 @@ msgstr "Et il tire ..."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:76 #-#-# translate crowdin school_homeroom_globe_basketball_hoop_use_423885ce:
 msgid "Miss..."
-msgstr ""
+msgstr "Mademoiselle..."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:77 #-#-# translate crowdin school_homeroom_globe_basketball_hoop_use_50507b20:
 msgid "Not sure why I expected another outcome."
@@ -74,7 +74,7 @@ msgstr "Je ne sais pas pourquoi j'attendais un autre résultat."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:80 #-#-# translate crowdin school_homeroom_globe_basketball_hoop_use_c6082297:
 msgid "[_mrsl_s_angry_] I was okay with it until you missed."
-msgstr ""
+msgstr "[J'étais d'accord avec ça jusqu'à ce que tu manques ton coup."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:84 #-#-# translate crowdin school_homeroom_globe_basketball_hoop_use_da105992:
 msgid "[_isabelle_s_afraid_] That almost hit me!"
@@ -114,7 +114,7 @@ msgstr "Prend pour objectif."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:99 #-#-# translate crowdin school_homeroom_globe_basketball_hoop_use_f4f5211e:
 msgid "Cocks his arms back."
-msgstr ""
+msgstr "Il renverse les bras en arrière."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:100 #-#-# translate crowdin school_homeroom_globe_basketball_hoop_use_760f72e6:
 msgid "And shoots!"
@@ -130,5 +130,5 @@ msgstr "..."
 
 # game/1000_base_game/game/locations/school/homeroom/int_basketball_hoop.rpy:103 #-#-# translate crowdin school_homeroom_globe_basketball_hoop_use_916dac45:
 msgid "Actually, he doesn't do any of that because chucking his [item.title_lower] across the room would be stupid."
-msgstr ""
+msgstr "En fait, il ne fait rien de tout cela parce qu'il serait stupide de jeter son [item.title_lower] à travers la pièce."
 
