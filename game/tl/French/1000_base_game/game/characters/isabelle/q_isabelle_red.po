@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:02\n"
+"PO-Revision-Date: 2024-03-14 11:01\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:3 #-#-# translate crowdin quest_isabelle_red_start_5f580138:
 msgid "[_mc_] Hi, do you know where I could find a bucket of red paint?"
@@ -18,7 +18,7 @@ msgstr "[_mc_] Salut, tu sais où je pourrais trouver un seau de peinture rouge 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:4 #-#-# translate crowdin quest_isabelle_red_start_7677e275:
 msgid "[_jacklyn_s_neutral_] What's rustling Santa's jimmies?"
-msgstr ""
+msgstr "[Qu'est-ce qui dérange le Père Noël ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:5 #-#-# translate crowdin quest_isabelle_red_start_466299f9:
 msgid "Err... what? She must mean what it's for."
@@ -86,7 +86,7 @@ msgstr "Il n'y a pas d'information sur Internet à ce sujet ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:28 #-#-# translate crowdin quest_isabelle_red_start_dfa9cece:
 msgid "The only reason I know about this event is because of [jo]'s great great uncle's love letters during the time."
-msgstr ""
+msgstr "La seule raison pour laquelle je connais cet événement, c'est grâce aux lettres d'amour de l'arrière grand-oncle de [jo] à l'époque."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:29 #-#-# translate crowdin quest_isabelle_red_start_28a149b6:
 msgid "[_mc_] Then you must also know the color of their shields..."
@@ -94,7 +94,7 @@ msgstr "[_mc_] Vous devez aussi connaître la couleur de leurs boucliers ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:30 #-#-# translate crowdin quest_isabelle_red_start_48073379:
 msgid "[_jacklyn_s_thinking_] Shields? You're tickling my funny bone."
-msgstr ""
+msgstr "[Jacklyn_s_thinking_] Des boucliers ? Vous me chatouillez l'os de l'humour."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:31 #-#-# translate crowdin quest_isabelle_red_start_b326dd89:
 msgid "[_jacklyn_s_thinking_] The combatants were all peasants and barely had access to weapons, much less shields."
@@ -142,11 +142,11 @@ msgstr "[_jacklyn_s_annoyed_] C'est. .. Je ne savais pas à ce sujet."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:42 #-#-# translate crowdin quest_isabelle_red_start_944ebffd:
 msgid "Ha! Got her."
-msgstr ""
+msgstr "Ha ! Je l'ai eue."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:43 #-#-# translate crowdin quest_isabelle_red_start_39c6d611:
 msgid "[_jacklyn_s_excited_] Was your great great uncle's name Enoch, by any chance?"
-msgstr ""
+msgstr "[Le nom de votre arrière grand-oncle était-il Enoch, par hasard ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:44 #-#-# translate crowdin quest_isabelle_red_start_02bc8d9d:
 msgid "[_mc_] Huh! How did you know that?"
@@ -182,7 +182,7 @@ msgstr "[_mc_] Je suis ici pour étudier la qualité du pigment au nom du journa
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:55 #-#-# translate crowdin quest_isabelle_red_start_506faec6:
 msgid "[_jacklyn_s_thinking_] That's sus, bro."
-msgstr ""
+msgstr "[C'est sus, mon frère."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:56 #-#-# translate crowdin quest_isabelle_red_start_e4068727:
 msgid "[_mc_] What is?"
@@ -210,7 +210,7 @@ msgstr "[_mc_] Et vous lui avez donné la peinture ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:62 #-#-# translate crowdin quest_isabelle_red_start_6cf550e5:
 msgid "[_jacklyn_s_excited_] Pigment quality is top prio."
-msgstr ""
+msgstr "[La qualité des pigments est primordiale."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:63 #-#-# translate crowdin quest_isabelle_red_start_1e270824:
 msgid "[_mc_] Did she tell you when she'd give it back?"
@@ -254,7 +254,7 @@ msgstr "[_mc_] N'avez-vous qu'un seul seau ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:76 #-#-# translate crowdin quest_isabelle_red_start_869cddf0:
 msgid "[_jacklyn_s_neutral_] Budget cuts whipped our asses."
-msgstr ""
+msgstr "[Les coupes budgétaires ont eu raison de nous."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:77 #-#-# translate crowdin quest_isabelle_red_start_3515c03a:
 msgid "[_mc_] Well, do you know who borrowed it?"
@@ -270,7 +270,7 @@ msgstr "Ugh, [maxine]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:80 #-#-# translate crowdin quest_isabelle_red_start_7587ca5d:
 msgid "Getting stuff from her is like pulling a sword from a stone — you basically need to be the king of England."
-msgstr ""
+msgstr "Obtenir des choses d'elle, c'est comme tirer une épée d'une pierre - il faut être le roi d'Angleterre."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:81 #-#-# translate crowdin quest_isabelle_red_start_e4c259d5:
 msgid "[_jacklyn_s_smile_] Smooth winds, sailor."
@@ -278,7 +278,7 @@ msgstr "[_jacklyn_s_Souriez_] Vents lisses, marins."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:88 #-#-# translate crowdin quest_isabelle_red_note_ba78e3ec:
 msgid "I totally forgot about her annoying habit of leaving clues about where she's gone."
-msgstr ""
+msgstr "J'avais totalement oublié sa fâcheuse habitude de laisser des indices sur ses déplacements."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:89 #-#-# translate crowdin quest_isabelle_red_note_0bf3c1b9:
 msgid "Apparently, it's in case a highly intelligent civilization stops by her door during her coffee break."
@@ -294,7 +294,7 @@ msgstr "Voyons ce qu'il dit ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:92 #-#-# translate crowdin quest_isabelle_red_note_5b677fbe:
 msgid "{i}\"From my office, feet so light, I've made my way this day most bright. Hidden in a world of greens — petals, pistils, color-schemes.\"{/}{space=-20}"
-msgstr ""
+msgstr "{i}\"Depuis mon bureau, les pieds si légers, j'ai fait mon chemin ce jour le plus lumineux. Caché dans un monde de verts - pétales, pistils, jeux de couleurs.\"{/}{space=-20}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:93 #-#-# translate crowdin quest_isabelle_red_note_f9a28d6a:
 msgid "Ugh, a riddle?"
@@ -306,7 +306,7 @@ msgstr "Eh bien, si je ne peux pas le comprendre seul, peut-être [isabelle] peu
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:97 #-#-# translate crowdin quest_isabelle_red_note_5b677fbe_1:
 msgid "{i}\"From my office, feet so light, I've made my way this day most bright. Hidden in a world of greens — petals, pistils, color-schemes.\"{/}{space=-20}"
-msgstr ""
+msgstr "{i}\"Depuis mon bureau, les pieds si légers, j'ai fait mon chemin ce jour le plus lumineux. Caché dans un monde de verts - pétales, pistils, jeux de couleurs.\"{/}{space=-20}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:102 #-#-# translate crowdin quest_isabelle_red_greenhouse_isabelle_d6cea6e4:
 msgid "[_mc_] Hey! Do you have a moment?"
@@ -374,7 +374,7 @@ msgstr "Huh ? Il y a des voix venant de l'intérieur ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:135 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_25f83ec0:
 msgid "Crap. It sounds like [kate] and her cheerleader posse."
-msgstr ""
+msgstr "C'est de la merde. On dirait [Kate] et sa bande de pom-pom girls."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:136 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_57e769ff:
 msgid "[_lacey_] But I'm not... you know..."
@@ -478,7 +478,7 @@ msgstr "Peut-être que je devrais offrir de prendre sa place ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:175 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_67001619:
 msgid "Considering [kate] is pretty much perfect in every way, her pussy probably is too."
-msgstr ""
+msgstr "Étant donné que [Kate] est parfaite à tous points de vue, sa chatte l'est probablement aussi."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:176 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_53275bf0:
 msgid "Although, she would probably kill me before letting me anywhere near her pussy."
@@ -514,7 +514,7 @@ msgstr "Peut-être qu'il y a plus de camps que je ne le pensais."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:187 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_b7f0e1a9:
 msgid "[_kate_s_lacey_bet_licking_panties_] Now, take my panties off and try again."
-msgstr ""
+msgstr "[Maintenant, enlève ma culotte et essaie encore."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:195 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_d2199f82:
 msgid "The tip of [lacey]'s tongue grazes [kate]'s rosy folds."
@@ -522,7 +522,7 @@ msgstr "Le bout de la langue de [lacey] effleure les plis rosés de [kate]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:196 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_5894439f:
 msgid "As expected, it is a perfect pussy — completely shaven clean, glistening and swollen."
-msgstr ""
+msgstr "Comme prévu, c'est une chatte parfaite - complètement rasée, luisante et gonflée."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:197 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_4cf85185:
 msgid "[lacey] sweeps her tongue up and down, slowly, gently... maybe nervously."
@@ -530,7 +530,7 @@ msgstr "[lacey] suie sa langue vers le haut et vers le bas, lentement, doucement
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:198 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_9088964f:
 msgid "Her bubbly smiley self, replaced by a more concentrated countenance.{space=-50}"
-msgstr ""
+msgstr "Son sourire pétillant est remplacé par un visage plus concentré.{space=-50}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:199 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_c96a96ae:
 msgid "[_lacey_] Doesn't taste like papaya..."
@@ -538,7 +538,7 @@ msgstr "[_lacey_] N'a pas le goût de papaye ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:200 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_039209aa:
 msgid "[kate] stifles a gasp of pleasure, a single bead of sweat sparkling down the side of her face."
-msgstr ""
+msgstr "[kate] étouffe un soupir de plaisir, une perle de sueur perlant sur le côté de son visage."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:201 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_47ebd675:
 msgid "[_kate_s_lacey_bet_licking_pussy1_] W-what does it taste like?"
@@ -562,11 +562,11 @@ msgstr "Ce n'est pas juste."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:206 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_0600af33:
 msgid "Pretty privilege is absolutely real, and [kate] is the ruling class."
-msgstr ""
+msgstr "Les jolis privilèges sont bien réels, et [Kate] fait partie de la classe dirigeante."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:207 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_8285852f:
 msgid "[_kate_s_lacey_bet_licking_pussy1_] Touch me like you would touch yourself, [lacey]."
-msgstr ""
+msgstr "[Touche-moi comme tu te toucherais toi-même, [lacey]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:213 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_2dfa6c89:
 msgid "[_kate_s_lacey_bet_fingering_pussy_] Ohhh! Yes! Exactly like that!"
@@ -602,7 +602,7 @@ msgstr "Whoa ! [kate] est vraiment en train de s'y rendre ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:226 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_9ee355fe:
 msgid "She slips out of her top and helps [lacey] out of hers."
-msgstr ""
+msgstr "Elle enlève son haut et aide [lacey] à enlever le sien."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:227 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_af26b418:
 msgid "[_lacey_] Mmm... after school... mmm.... I'm going to my sister's beauty pageant...{space=-75}"
@@ -642,7 +642,7 @@ msgstr "[_lacey_] Mmm ... alors je vais voir Tanner ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:236 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_3b04c4e5:
 msgid "[_kate_s_lacey_bet_removing_kate_and_lacey_bra_] Touch me like you touch yourself when you think of Tanner!"
-msgstr ""
+msgstr "[Touche-moi comme tu te touches toi-même quand tu penses à Tanner !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:237 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_3f421db7:
 msgid "[_lacey_] Mmm... okay..."
@@ -654,7 +654,7 @@ msgstr "[_kate_s_lacey_bet_fingering_ass1_] Oooh !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:242 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_eddfb33f:
 msgid "Holy shit! [lacey] just put two fingers up [kate]'s ass..."
-msgstr ""
+msgstr "Putain de merde ! [Lacey] vient de mettre deux doigts dans le cul de [Kate]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:243 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_88061256:
 msgid "I knew the cheerleaders were slutty bimbos, but god damn!"
@@ -666,7 +666,7 @@ msgstr "[_kate_s_lacey_bet_fingering_ass1_] C'est. .. hnnngh !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:245 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_8680cc1f:
 msgid "[kate]'s eyes roll back as [lacey] drives her finger in and out, forcing the orgasm out."
-msgstr ""
+msgstr "Les yeux de [Kate] se révulsent tandis que [Lacey] enfonce et retire son doigt, forçant l'orgasme à sortir."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:246 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_f09f0cec:
 msgid "[_kate_s_lacey_bet_fingering_ass1_] Aaaaaaaah! My god! [withvpunch]"
@@ -682,7 +682,7 @@ msgstr "Puis le climax frappe en plein, transformant ses membres en gelée."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:249 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_f33baae0:
 msgid "For a moment, she just lies there while [lacey], clearly unaware of the climax, keeps licking and fingering."
-msgstr ""
+msgstr "Pendant un moment, elle reste allongée, tandis que [Lacey], qui n'a manifestement pas conscience de l'apogée, continue de lécher et de doigter."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:251 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_27811d0a:
 msgid "[_kate_s_lacey_bet_fingering_ass2_] [lacey]-baby?"
@@ -714,7 +714,7 @@ msgstr "Ronde et ferme, comme une pêche semi-mûre."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:262 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_97bf5fe9:
 msgid "[_kate_s_lacey_bet_spreading_ass_] Lick me."
-msgstr ""
+msgstr "[Lèche-moi."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:263 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_b6052db5:
 msgid "[_lacey_] There...?"
@@ -734,7 +734,7 @@ msgstr "[_kate_s_lacey_bet_spreading_ass_] Je le dis."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:267 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_f3cb0a27:
 msgid "[kate] does bossy just right. Man, I wish she would boss me like this."
-msgstr ""
+msgstr "[Kate] fait de l'autoritarisme juste ce qu'il faut. J'aimerais qu'elle me donne des ordres comme ça."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:268 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_37659946:
 msgid "I know I wouldn't mind eating her ass..."
@@ -750,7 +750,7 @@ msgstr "De plus, [lacey] se défait la langue."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:272 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_2d835520:
 msgid "She circles [kate]'s rosebud."
-msgstr ""
+msgstr "Elle entoure le bouton de rose de [kate]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:273 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_8f068d7c:
 msgid "[_kate_s_lacey_bet_licking_ass1_] Ahhh!"
@@ -762,15 +762,15 @@ msgstr "Un million de terminaisons nerveuses qui rencontrent un million de termi
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:275 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_fe00448c:
 msgid "The tip of her tongue, swirling over the tiny dark brown wrinkles."
-msgstr ""
+msgstr "Le bout de sa langue, en tourbillonnant sur les petites rides marron foncé."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:276 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_4638702c:
 msgid "Poking through the sphincter, tasting, exploring deeper."
-msgstr ""
+msgstr "Fouiller le sphincter, goûter, explorer plus profondément."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:277 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_7332526d:
 msgid "[kate] moans in pleasure — it's a soft feminine sound, very unlike her usual harsh tone."
-msgstr ""
+msgstr "[kate] gémit de plaisir - c'est un son doux et féminin, très différent de son ton dur habituel."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:279 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_b21dbf2a:
 msgid "[lacey] again slides her fingers into [kate]'s pussy, fucking her with both tongue and digit."
@@ -818,7 +818,7 @@ msgstr "[_kate_s_lacey_bet_licking_ass2_] Je suis tellement impatient de faire d
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:293 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_d6d6f82c:
 msgid "[_kate_s_lacey_bet_licking_ass2_] I'll have her eat your ass too, [lacey]."
-msgstr ""
+msgstr "[Je vais lui faire manger ton cul aussi, [lacey]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:294 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_1f97b17b:
 msgid "[_lacey_] Mmmm..."
@@ -838,7 +838,7 @@ msgstr "[_kate_s_lacey_bet_licking_ass2_] Dieu, vous êtes bon, [lacey]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:298 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_eb2cb035:
 msgid "[_kate_s_lacey_bet_licking_ass2_] Lick my pussy again!"
-msgstr ""
+msgstr "[_kate_s_lacey_bet_licking_ass2_] Lèche encore ma chatte !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:300 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_641927ac:
 msgid "[_lacey_] Mmmhmmm..."
@@ -858,7 +858,7 @@ msgstr "Elle a toujours été un baiser à nez brun."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:304 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_068aaa6d:
 msgid "Always the yes-man... or well, yes-queen in this case."
-msgstr ""
+msgstr "Toujours le béni-oui-oui... ou plutôt la reine du béni-oui-oui dans ce cas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:305 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_1d75f7f0:
 msgid "Her tongue whips across [kate]'s fold, almost like a machine."
@@ -902,15 +902,15 @@ msgstr "[_lacey_] Hé ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:317 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_507d2451:
 msgid "[lacey] narrows her eyes in annoyance, but [kate] just squirts again, this time on her face."
-msgstr ""
+msgstr "[lacey] plisse les yeux en signe d'agacement, mais [kate] se contente de gicler à nouveau, cette fois sur son visage."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:318 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_d62ad32d:
 msgid "Eyes half-closed, she peers around the room for a tissue of some sort.{space=-60}"
-msgstr ""
+msgstr "Les yeux mi-clos, elle regarde autour de la pièce à la recherche d'un mouchoir en papier.{space=-60}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:319 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_b1a2ff9a:
 msgid "Holy shit, I can't believe that just happened!"
-msgstr ""
+msgstr "Putain de merde, je n'arrive pas à croire ce qui vient de se passer !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:320 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_382bd4a7:
 msgid "If only I'd had the presence of mind to record it..."
@@ -934,7 +934,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:325 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_27d670c6:
 msgid "Crap. I really need to go before they notice me."
-msgstr ""
+msgstr "Merde. Il faut vraiment que je parte avant qu'ils ne me remarquent."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:326 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_13fceaf0:
 msgid "And I really need to find the nearest bathroom and jerk off."
@@ -942,7 +942,7 @@ msgstr "Et j'ai vraiment besoin de trouver la salle de bain la plus proche."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:338 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_89996d92:
 msgid "Ah, that was one of the better wanks this week!"
-msgstr ""
+msgstr "Ah, c'était l'une des meilleures branlettes de la semaine !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:339 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_87c660b7:
 msgid "I really should jerk off more often in a bathroom stall. It's just more thrilling."
@@ -970,7 +970,7 @@ msgstr "Sérieusement ? Papier noir ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:358 #-#-# translate crowdin quest_isabelle_red_black_note_d84f7f44:
 msgid "Fucking [maxine]..."
-msgstr ""
+msgstr "Putain de [maxine]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:359 #-#-# translate crowdin quest_isabelle_red_black_note_128788bd:
 msgid "Let's see what it says, I guess."
@@ -978,11 +978,11 @@ msgstr "Voyons ce qu'il dit, je suppose."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:360 #-#-# translate crowdin quest_isabelle_red_black_note_9e91e684:
 msgid "{i}\"Clever is your middle name, your eye for detail is no shame. My name is a tricky matter, hit me hard and ears may shatter.\"{/}"
-msgstr ""
+msgstr "{i}\"L'intelligence est votre deuxième prénom, votre sens du détail n'est pas une honte. Mon nom est un sujet délicat, frappez-moi fort et les oreilles risquent de se briser.\"{/}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:363 #-#-# translate crowdin quest_isabelle_red_black_note_9e91e684_1:
 msgid "{i}\"Clever is your middle name, your eye for detail is no shame. My name is a tricky matter, hit me hard and ears may shatter.\"{/}"
-msgstr ""
+msgstr "{i}\"L'intelligence est votre deuxième prénom, votre sens du détail n'est pas une honte. Mon nom est un sujet délicat, frappez-moi fort et les oreilles risquent de se briser.\"{/}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:368 #-#-# translate crowdin quest_isabelle_red_triangle_isabelle_2ab7e513:
 msgid "[_mc_] Hey, [isabelle]! Could you help me with another riddle?"
@@ -990,7 +990,7 @@ msgstr "[_mc_] Hé, [isabelle]! Pourriez-vous m'aider avec une énigme ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:369 #-#-# translate crowdin quest_isabelle_red_triangle_isabelle_03e3a632:
 msgid "[_isabelle_s_excited_] Sure!"
-msgstr ""
+msgstr "[Bien sûr !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:370 #-#-# translate crowdin quest_isabelle_red_triangle_isabelle_5b240f45:
 msgid "[_mc_] What do you think about this one?"
@@ -1006,7 +1006,7 @@ msgstr "[_isabelle_s_skeptical_] Hmm ... c'est dur."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:373 #-#-# translate crowdin quest_isabelle_red_triangle_isabelle_075a4f80:
 msgid "[_isabelle_s_skeptical_] Tricky matter? Ears shattering might have something to do with sound?{space=-85}"
-msgstr ""
+msgstr "[_isabelle_s_skeptical_] Une question délicate ? Les oreilles qui se brisent ont peut-être quelque chose à voir avec le son ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:374 #-#-# translate crowdin quest_isabelle_red_triangle_isabelle_9570a0e8:
 msgid "[_mc_] I think I have an idea now, thanks!"
@@ -1250,7 +1250,7 @@ msgstr "[_mc_] Qu'est-ce qui est particulier ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:464 #-#-# translate crowdin quest_isabelle_red_cabinet_50727bb7:
 msgid "[_maxine_s_confident_] Lots of things! Crolytes, bearlings, paper machetes..."
-msgstr ""
+msgstr "[Beaucoup de choses ! Des crolytes, des oursons, des machettes en papier..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:465 #-#-# translate crowdin quest_isabelle_red_cabinet_3e8d6dbe:
 msgid "[_mc_] What's a bearling?"
@@ -1278,7 +1278,7 @@ msgstr "[_mc_] Tout ce que je peux faire pour aider ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:471 #-#-# translate crowdin quest_isabelle_red_cabinet_43c685c0:
 msgid "[_maxine_s_neutral_] Just stay ever vigilant."
-msgstr ""
+msgstr "[Restez toujours vigilants."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:472 #-#-# translate crowdin quest_isabelle_red_cabinet_2a2ab676:
 msgid "[_mc_] Uh, okay..."
