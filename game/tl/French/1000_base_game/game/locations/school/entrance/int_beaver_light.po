@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:06\n"
+"PO-Revision-Date: 2024-03-14 11:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_beaver_light.rpy:33 #-#-# translate crowdin school_entrance_beaver_interact_lindsey_book_b23edab2:
 msgid "Puh, that sucker is fast. It ran into the school."
-msgstr ""
+msgstr "Puh, cet engin est rapide. Il a foncé dans l'école."
 
 # game/1000_base_game/game/locations/school/entrance/int_beaver_light.rpy:36 #-#-# translate crowdin school_entrance_beaver_interact_lindsey_book_bdbad122:
 msgid "Damn it. Those legs are short but so fast."
-msgstr ""
+msgstr "Bon sang de bonsoir. Ces jambes sont courtes mais si rapides."
 
 # game/1000_base_game/game/locations/school/entrance/int_beaver_light.rpy:37 #-#-# translate crowdin school_entrance_beaver_interact_lindsey_book_497e3dfb:
 msgid "It keeps slipping out of my grip. Need something hard to hit it with."
@@ -42,5 +42,5 @@ msgstr "Il essaie de s'échapper à l'école."
 
 # game/1000_base_game/game/locations/school/entrance/int_beaver_light.rpy:61 #-#-# translate crowdin school_entrance_beaver_interact_use_18e4ddb6:
 msgid "Those teeth will chew right through my [item.title_lower]. Need to find something else."
-msgstr ""
+msgstr "Ces dents vont mordre à pleines dents dans mon [item.title_lower]. Il faut trouver autre chose."
 
