@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:02\n"
+"PO-Revision-Date: 2024-03-14 11:01\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:8 #-#-# translate crowdin quest_isabelle_locker_start_95c7633a:
 msgid "[_mc_] Are you okay?"
@@ -102,7 +102,7 @@ msgstr "[_mc_] Ce sera élémentaire, mon cher [isabelle]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:36 #-#-# translate crowdin quest_isabelle_locker_start_723a2d2e:
 msgid "[_isabelle_s_confident_] You forgot to bring your pipe and deerstalker cap."
-msgstr ""
+msgstr "[Vous avez oublié d'apporter votre pipe et votre bonnet de chasse."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:37 #-#-# translate crowdin quest_isabelle_locker_start_1c2b00c9:
 msgid "[_mc_] I also didn't bring my heroin. I'm Sherlock 2.0."
@@ -274,7 +274,7 @@ msgstr "Eh bien, ça n'a pas beaucoup d'aide ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:97 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_cdde83e0:
 msgid "[_jo_s_confident_] Hey, kiddo. I was looking for you earlier."
-msgstr ""
+msgstr "[Hey, kiddo. Je te cherchais tout à l'heure."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:98 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_f71fa49c:
 msgid "[_mc_] Me? Why me?"
@@ -338,7 +338,7 @@ msgstr "[_jo_s_thinking_] Le permis est valide. Je l'ai fait vérifier."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:121 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_488bba73:
 msgid "[_jo_s_worried_] I'm sure the locker company will supply a new one and repair the floor."
-msgstr ""
+msgstr "[Je suis sûr que l'entreprise de casiers en fournira un nouveau et réparera le sol."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:122 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_4ebbbd9c:
 msgid "[_jo_s_worried_] Anyway, I have a meeting to prepare for. See you at home tonight, okay?"
@@ -362,7 +362,7 @@ msgstr "[_mc_] Je me demandais si vous savez quoi que ce soit sur le casier manq
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:133 #-#-# translate crowdin quest_isabelle_locker_interrogate_mrsl_2164bd1e:
 msgid "[_mrsl_s_thinking_] Missing locker?"
-msgstr ""
+msgstr "[Casier manquant ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:134 #-#-# translate crowdin quest_isabelle_locker_interrogate_mrsl_0ed2e7b2:
 msgid "[_mc_] Yeah, someone stole [isabelle]'s entire locker."
@@ -386,7 +386,7 @@ msgstr "[_mc_] Eh bien, c'est ce que j'essaie de comprendre ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:139 #-#-# translate crowdin quest_isabelle_locker_interrogate_mrsl_3ff17dcd:
 msgid "[_mrsl_s_afraid_] Let me know if you find out who's behind it."
-msgstr ""
+msgstr "[Faites-moi savoir si vous trouvez qui est derrière tout ça."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:140 #-#-# translate crowdin quest_isabelle_locker_interrogate_mrsl_5998a43e:
 msgid "[_mc_] Same, I guess."
@@ -466,7 +466,7 @@ msgstr "[_kate_s_eyeroll_] Si je l'ai fait, je ne vous dirais pas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:172 #-#-# translate crowdin quest_isabelle_locker_interrogate_kate_e284fae9:
 msgid "[_kate_s_excited_] It's hilarious that her bad deeds finally caught up with her, though!"
-msgstr ""
+msgstr "[C'est hilarant que ses mauvaises actions l'aient finalement rattrapée !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:173 #-#-# translate crowdin quest_isabelle_locker_interrogate_kate_d8fa6e6f:
 msgid "[_mc_] What bad deeds?"
@@ -478,7 +478,7 @@ msgstr "[_kate_s_laughing_] Tentative de gâchis avec l'ordre naturel de l'unive
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:175 #-#-# translate crowdin quest_isabelle_locker_interrogate_kate_2a1c2f47:
 msgid "[_kate_s_confident_] Buh-bye."
-msgstr ""
+msgstr "[Au revoir."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:184 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_c73c4f1a:
 msgid "[_maxine_s_annoyed_] What?"
@@ -506,7 +506,7 @@ msgstr "[_mc_] Et donc, vous."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:190 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_f4da1f6e:
 msgid "[_maxine_s_cringe_] Who told you about my plans...?"
-msgstr ""
+msgstr "[Qui vous a parlé de mes projets... ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:191 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_04f07955:
 msgid "[_mc_] It was, err..."
@@ -590,7 +590,7 @@ msgstr "[_maxine_s_skeptical_] Excuse-moi pour un instant."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:218 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_710b8a14:
 msgid "[_maxine_s_angry_] Spinach! Come here, girl! [withvpunch]"
-msgstr ""
+msgstr "[Les épinards ! Viens ici, ma fille ! [avec un coup de poing]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:221 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_30dabd49:
 msgid "[_spinach_s_neutral_] Meow?"
@@ -598,7 +598,7 @@ msgstr "[_spinach_s_neutral_] Meow ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:223 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_4445dd2c:
 msgid "[_maxine_s_angry_] Meow, meow! Hiss, hiss!"
-msgstr ""
+msgstr "[Miaou, miaou ! Sifflement, sifflement !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:227 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_23bad99b:
 msgid "[_spinach_s_drugged_] Meeew!"
@@ -606,7 +606,7 @@ msgstr "[_spinach_s_drugged_] Meeew !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:231 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_8b524661:
 msgid "[_maxine_s_neutral_] Meowoewouw?"
-msgstr ""
+msgstr "[_maxine_s_neutral_] Meowoewouw ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:235 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_81e65d91:
 msgid "[_spinach_s_tongueout_] Mew! Mew! Mew!"
@@ -618,7 +618,7 @@ msgstr "Il n'y a pas de moyen qu'elle parle au chat ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:240 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_80a1ab2b:
 msgid "[_maxine_s_smile_] Muw! Muw! Purr! Blep!"
-msgstr ""
+msgstr "[Muw ! Muw ! Purr ! Blep !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:244 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_d1c5cbb9:
 msgid "[_spinach_s_closedeyes_] Meep!"
@@ -718,7 +718,7 @@ msgstr "[_mc_] Avez-vous volé le casier de [isabelle] ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:277 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_f372ca72:
 msgid "[_maxine_s_annoyed_] Steal? No."
-msgstr ""
+msgstr "[Voler ? Non."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:278 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_f5993146:
 msgid "[_mc_] But you took it?"
@@ -818,7 +818,7 @@ msgstr "[_mc_] Fine. Mais je suis prêt à le faire pour obtenir de l'informatio
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:313 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_pay_a2f04d5c:
 msgid "[_maxine_s_excited_] You have a deal. Hand it over!"
-msgstr ""
+msgstr "[Vous avez un accord. Donnez-le moi !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:316 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_pay_5064f27a:
 msgid "[_mc_] Do you really think I carry around sugar cubes?"
@@ -1190,7 +1190,7 @@ msgstr "[_isabelle_s_concerned_] Parfois, la seule chose que vous pouvez faire e
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:426 #-#-# translate crowdin quest_isabelle_locker_talk_bd3a1302:
 msgid "[_isabelle_s_concerned_left_] I wish I'd been there to do it for my sister..."
-msgstr ""
+msgstr "[J'aurais aimé être là pour ma soeur..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:427 #-#-# translate crowdin quest_isabelle_locker_talk_d428f9ae:
 msgid "[_mc_] It's not her bullies this time, but I'm sure she's up there watching."
@@ -1370,7 +1370,7 @@ msgstr "[_mc_] J'ai besoin d'un article de vos vêtements."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:483 #-#-# translate crowdin quest_isabelle_locker_talk_65e2f969:
 msgid "[_isabelle_s_laughing_] Oh, I get it — you'll let her sniff it and then she'll search for me. Clever!"
-msgstr ""
+msgstr "[_isabelle_s_laughing_] Oh, j'ai compris - tu vas la laisser le renifler et ensuite elle me cherchera. C'est malin !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:484 #-#-# translate crowdin quest_isabelle_locker_talk_f36e5aec:
 msgid "[_mc_] Exactly."
@@ -1402,7 +1402,7 @@ msgstr "[_mc_] Maintenant, allez attendre dehors et je ferai venir le chat."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:498 #-#-# translate crowdin quest_isabelle_locker_catnap_75479867:
 msgid "Damn it — [maxine] is here."
-msgstr ""
+msgstr "Bon sang - [maxine] est là."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:499 #-#-# translate crowdin quest_isabelle_locker_catnap_a1801959:
 msgid "If I'm going to lure the cat outside, I'll need to get rid of her somehow..."
@@ -1518,7 +1518,7 @@ msgstr "[_mc_] Pourquoi pas ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:542 #-#-# translate crowdin quest_isabelle_locker_catnap_maxine_back_940a2c6c:
 msgid "[_maxine_s_concerned_binoculars_] I'm planning to install hydraulics."
-msgstr ""
+msgstr "[Je prévois d'installer des systèmes hydrauliques."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:543 #-#-# translate crowdin quest_isabelle_locker_catnap_maxine_back_e949ec60:
 msgid "[_mc_] ...In your body?"
@@ -1558,7 +1558,7 @@ msgstr "[_mc_] Avez-vous été dehors récemment ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:555 #-#-# translate crowdin quest_isabelle_locker_catnap_maxine_back_2b3f7696:
 msgid "[_maxine_s_concerned_binoculars_] Yes, whenever I hunt goblins in the woods."
-msgstr ""
+msgstr "[Oui, quand je chasse les gobelins dans les bois."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:556 #-#-# translate crowdin quest_isabelle_locker_catnap_maxine_back_2b35b6fe_1:
 msgid "[_mc_] ..."
@@ -1706,7 +1706,7 @@ msgstr "[_spinach_s_tongueout_] Meow !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:657 #-#-# translate crowdin quest_isabelle_locker_scent_ee3bfe80:
 msgid "Okay, good — she made a one-eighty back to the entrance hall!"
-msgstr ""
+msgstr "D'accord, bien - elle a fait un virage à 180 degrés vers le hall d'entrée !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:661 #-#-# translate crowdin quest_isabelle_locker_scent_69e10d20:
 msgid "[_mc_] Did you lose the trail, [spinach]?"
@@ -1770,7 +1770,7 @@ msgstr "[_maxine_s_concerned_] Cela nécessite une enquête plus approfondie."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:700 #-#-# translate crowdin quest_isabelle_locker_repeat_13b91e70:
 msgid "Obviously just some jocks trying to impress [jacklyn], but [maxine] doesn't need to know that..."
-msgstr ""
+msgstr "De toute évidence, il s'agit simplement de sportifs qui essaient d'impressionner [Jacklyn], mais [Maxine] n'a pas besoin de le savoir..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:702 #-#-# translate crowdin quest_isabelle_locker_repeat_54cace5e:
 msgid "[_mc_] Someone managed to get in [maya]'s pants!"
@@ -1830,7 +1830,7 @@ msgstr "[_maxine_s_concerned_] Laissez-moi aller chercher mon équipement de har
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:720 #-#-# translate crowdin quest_isabelle_locker_repeat_17b12b45:
 msgid "[spinach] probably lost her trail too — I better allow her another sniff."
-msgstr ""
+msgstr "[Elle a probablement perdu sa trace aussi - je ferais mieux de la laisser respirer à nouveau."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:726 #-#-# translate crowdin quest_isabelle_locker_scent_isabelle_afd0c7c4:
 msgid "[_isabelle_s_excited_spinach_] Look what I found!"
@@ -1862,7 +1862,7 @@ msgstr "[_mc_] Je ne suis pas sûr que [jo] le permette non plus."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:733 #-#-# translate crowdin quest_isabelle_locker_scent_isabelle_db17c7df:
 msgid "[_isabelle_s_neutral_spinach_] It'll only be for a short while! We'll trade her in for my locker."
-msgstr ""
+msgstr "[Ce ne sera que pour un temps ! On l'échangera contre mon casier."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:734 #-#-# translate crowdin quest_isabelle_locker_scent_isabelle_35a4d82a:
 msgid "[_mc_] Alright. It's probably for the best, anyway — since the stolen locker is yours, you'd be the number one suspect."
@@ -1886,7 +1886,7 @@ msgstr "[_mc_] Oui ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:740 #-#-# translate crowdin quest_isabelle_locker_scent_isabelle_9b54fe87:
 msgid "[_isabelle_s_neutral_spinach_] I'd like my panties back now."
-msgstr ""
+msgstr "[J'aimerais retrouver ma culotte maintenant."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:741 #-#-# translate crowdin quest_isabelle_locker_scent_isabelle_f3804b50:
 msgid "[_mc_] You seem to have your hands full right now. I don't mind holding on to them a little longer."
@@ -2050,11 +2050,11 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:821 #-#-# translate crowdin quest_isabelle_locker_email_4eb49f5c:
 msgid "Might as well flex on this skinny nerd."
-msgstr ""
+msgstr "Autant que ce nerd maigrichon fasse preuve d'une grande souplesse."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:824 #-#-# translate crowdin quest_isabelle_locker_email_50388759:
 msgid "Just to let [maxine] know she's dealing with real intellectuals."
-msgstr ""
+msgstr "Juste pour que [maxine] sache qu'elle a affaire à de vrais intellectuels."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:827 #-#-# translate crowdin quest_isabelle_locker_email_19b9b63a:
 msgid "If it doesn't work out with [isabelle], it's smart to have a plan B."
@@ -2206,7 +2206,7 @@ msgstr "[_isabelle_s_excited_]..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:898 #-#-# translate crowdin quest_isabelle_locker_wait_4ea8064a:
 msgid "[_isabelle_s_concerned_] It just says... no."
-msgstr ""
+msgstr "[Il dit juste... non."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:899 #-#-# translate crowdin quest_isabelle_locker_wait_f2f91d4b:
 msgid "[_mc_] Even though [maxine] knows we have her cat?"
@@ -2258,7 +2258,7 @@ msgstr "[_isabelle_s_annoyed_] [maxine], [lindsey], et [kate] -ils vont tous obt
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:913 #-#-# translate crowdin quest_isabelle_locker_wait_b798bae5:
 msgid "[_isabelle_s_annoyed_] I don't care if [maxine] and [kate] are in on this together — I'm going to destroy them both."
-msgstr ""
+msgstr "[Je me fiche que [Maxine] et [Kate] soient dans le coup ensemble, je vais les détruire toutes les deux."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:914 #-#-# translate crowdin quest_isabelle_locker_wait_150dd47d:
 msgid "[_isabelle_s_angry_] Forget about nipping things in the bud!"
@@ -2278,7 +2278,7 @@ msgstr "Je ne peux pas imaginer la douleur de perdre sa sœur à l'intimidation,
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:918 #-#-# translate crowdin quest_isabelle_locker_wait_23c7c439:
 msgid "[_isabelle_s_annoyed_left_] Miserable fucking twats... It was never about the locker..."
-msgstr ""
+msgstr "[_isabelle_s_annoyed_left_] Putain de crétins misérables... Il n'a jamais été question de casier..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:919 #-#-# translate crowdin quest_isabelle_locker_wait_b46d4f2a:
 msgid "[_isabelle_s_annoyed_] It was about the bloody inability to be decent!"
@@ -2526,7 +2526,7 @@ msgstr "À mesure que nos lèvres se rencontrent, de minuscules étoiles explose
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1004 #-#-# translate crowdin quest_isabelle_locker_wait_e9615e71:
 msgid "Tingles down the back of my neck. Goosebumps on my arms."
-msgstr ""
+msgstr "Des picotements dans la nuque. La chair de poule sur les bras."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1005 #-#-# translate crowdin quest_isabelle_locker_wait_d27fa3c5:
 msgid "There's confidence in her every move, but also gentleness."
@@ -2626,7 +2626,7 @@ msgstr "Et elle l'aime."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1031 #-#-# translate crowdin quest_isabelle_locker_wait_a9314698:
 msgid "That subtle lip-bite tells me everything. It's like a poker tell of passion and I'm about to check."
-msgstr ""
+msgstr "Ce subtil mordillement de lèvres me dit tout. C'est comme un poker de la passion et je suis sur le point de vérifier."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1032 #-#-# translate crowdin quest_isabelle_locker_wait_65d9fd00:
 msgid "[_mc_] Remove your hands."
@@ -2634,7 +2634,7 @@ msgstr "[_mc_] Enlevez vos mains."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1033 #-#-# translate crowdin quest_isabelle_locker_wait_72ab7669:
 msgid "[_isabelle_s_straddling_boob_hide_] Whoa! Bossy!"
-msgstr ""
+msgstr "[_isabelle_s_straddling_boob_hide_] Whoa ! Bossy !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1034 #-#-# translate crowdin quest_isabelle_locker_wait_5b6a8efa:
 msgid "[_mc_] ...Please?"
@@ -2642,11 +2642,11 @@ msgstr "[_mc_] ...Je te prie ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1035 #-#-# translate crowdin quest_isabelle_locker_wait_16862c70:
 msgid "[_isabelle_s_straddling_boob_reveal_] Hah, if you insist!"
-msgstr ""
+msgstr "[_isabelle_s_straddling_boob_reveal_] Hah, si vous insistez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1036 #-#-# translate crowdin quest_isabelle_locker_wait_5b846014:
 msgid "She releases her breasts and they land with a tiny bounce."
-msgstr ""
+msgstr "Elle relâche ses seins qui atterrissent avec un petit rebond."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1037 #-#-# translate crowdin quest_isabelle_locker_wait_adf4bdcb:
 msgid "Pure natural perfection."
@@ -2654,7 +2654,7 @@ msgstr "La perfection naturelle pure."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1038 #-#-# translate crowdin quest_isabelle_locker_wait_f51c2de8:
 msgid "Her nipples stand, perky with excitement."
-msgstr ""
+msgstr "Ses mamelons se dressent, excités par l'excitation."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1039 #-#-# translate crowdin quest_isabelle_locker_wait_efbb77bc:
 msgid "They call to me. A deep primal urge..."
@@ -2682,7 +2682,7 @@ msgstr "La plupart des filles ne m'auraient jamais permis de les toucher comme �
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1046 #-#-# translate crowdin quest_isabelle_locker_wait_e700137d:
 msgid "Instead, she moans with pleasure and delight."
-msgstr ""
+msgstr "Au contraire, elle gémit de plaisir et de joie."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1047 #-#-# translate crowdin quest_isabelle_locker_wait_4799c8d3:
 msgid "[_isabelle_s_straddling_boob_play_] Oh, god... don't stop..."
@@ -2694,7 +2694,7 @@ msgstr "[_mc_] Comme si."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1049 #-#-# translate crowdin quest_isabelle_locker_wait_4c87a9ec:
 msgid "As I gently twist and play with her nipples, a shudder of pleasure rolls through her body."
-msgstr ""
+msgstr "Tandis que je tourne et joue doucement avec ses mamelons, un frisson de plaisir parcourt son corps."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1050 #-#-# translate crowdin quest_isabelle_locker_wait_5f52004a:
 msgid "[_isabelle_s_straddling_boob_play_] I can't... take it..."
@@ -2706,7 +2706,7 @@ msgstr "Et comme ça, elle glisse et se glisse de son pantalon."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1053 #-#-# translate crowdin quest_isabelle_locker_wait_d0c3b773:
 msgid "She takes her time with her panties, pulling the frilly waistband down her thighs."
-msgstr ""
+msgstr "Elle prend son temps avec sa culotte, tirant la ceinture froufroutante le long de ses cuisses."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1054 #-#-# translate crowdin quest_isabelle_locker_wait_142717ab:
 msgid "Not a twinkle of doubt in her face."
@@ -2722,15 +2722,15 @@ msgstr "La pensée me déconna alors que ses panties soyeuses voiles vers le lit
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1058 #-#-# translate crowdin quest_isabelle_locker_wait_233a3bec:
 msgid "Already, a sheen of wetness sparkles like morning dew in her peach fuzz."
-msgstr ""
+msgstr "Déjà, un voile de mouille scintille comme la rosée du matin dans son duvet de pêche."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1059 #-#-# translate crowdin quest_isabelle_locker_wait_0c569f76:
 msgid "She's excited. Her swollen labia speaks the truth."
-msgstr ""
+msgstr "Elle est excitée. Ses lèvres gonflées en témoignent."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1060 #-#-# translate crowdin quest_isabelle_locker_wait_fbb3dd54:
 msgid "Of course, she's not as excited as I am..."
-msgstr ""
+msgstr "Bien sûr, elle n'est pas aussi enthousiaste que moi..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1061 #-#-# translate crowdin quest_isabelle_locker_wait_1971ed64:
 msgid "[_isabelle_s_straddling_dick_reveal_] Oh, man..."
@@ -2738,7 +2738,7 @@ msgstr "[_isabelle_s_straddling_dick_reveal_] Oh, mec ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1062 #-#-# translate crowdin quest_isabelle_locker_wait_c27fcd2d:
 msgid "Like cherry blossoms carried by the wind, a soft blush sweeps across her cheeks."
-msgstr ""
+msgstr "Comme les fleurs de cerisier portées par le vent, un doux rougissement balaie ses joues."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1063 #-#-# translate crowdin quest_isabelle_locker_wait_4528c052:
 msgid "Surely, this isn't the first time she has seen one of these..."
@@ -2778,7 +2778,7 @@ msgstr "Elle n'attend pas ma réponse. Il suffit de se lever ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1139 #-#-# translate crowdin quest_isabelle_locker_wait_55f7984b:
 msgid "Rubs the tip of my dick between her pussy lips, letting me feel how absolutely soaked she is..."
-msgstr ""
+msgstr "Elle frotte le bout de ma bite entre les lèvres de sa chatte, me faisant sentir à quel point elle est trempée..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1141 #-#-# translate crowdin quest_isabelle_locker_wait_a31d20d2:
 msgid "[_isabelle_s_straddling_insertion_] Ohhh! [withvpunch]"
@@ -2810,7 +2810,7 @@ msgstr "Inch par pouce, [isabelle] glisse sur l'arbre de ma bite, se remplir. {s
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1149 #-#-# translate crowdin quest_isabelle_locker_wait_b34efbfd:
 msgid "Carefully, she bottoms herself out, letting my dick rest against her cervix."
-msgstr ""
+msgstr "Avec précaution, elle se retire, laissant ma bite s'appuyer sur son col de l'utérus."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1150 #-#-# translate crowdin quest_isabelle_locker_wait_ea467789:
 msgid "[_isabelle_s_straddling_penetration1_] Oh, my god!"
@@ -2826,11 +2826,11 @@ msgstr "La pression de ses muscles vaginaux envoie des vagues de plaisir à trav
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1196 #-#-# translate crowdin quest_isabelle_locker_wait_a03d2a8f:
 msgid "Her breathing quickens. Gasps of pleasure fill my usually austere bedroom."
-msgstr ""
+msgstr "Sa respiration s'accélère. Des halètements de plaisir emplissent ma chambre habituellement austère."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1197 #-#-# translate crowdin quest_isabelle_locker_wait_efafe826:
 msgid "She moans quietly, very unlike the faked screams of a pornstar."
-msgstr ""
+msgstr "Elle gémit doucement, ce qui n'a rien à voir avec les cris simulés d'une star du porno."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1231 #-#-# translate crowdin quest_isabelle_locker_wait_911a4a16:
 msgid "We move in unison."
@@ -2874,15 +2874,15 @@ msgstr "Sa confiance m'enivre."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1365 #-#-# translate crowdin quest_isabelle_locker_wait_5c755c66:
 msgid "Rubs off on me."
-msgstr ""
+msgstr "Ça déteint sur moi."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1366 #-#-# translate crowdin quest_isabelle_locker_wait_203fad7f:
 msgid "Gives rise to a boldness that I didn't know I had."
-msgstr ""
+msgstr "Il fait naître une audace que je ne soupçonnais pas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1367 #-#-# translate crowdin quest_isabelle_locker_wait_b2a6ebe6:
 msgid "[_mc_] [isabelle]...?"
-msgstr ""
+msgstr "[_mc_] [isabelle]... ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1368 #-#-# translate crowdin quest_isabelle_locker_wait_9a14be07:
 msgid "[_isabelle_s_straddling_change_position_] Yes?"
@@ -2922,7 +2922,7 @@ msgstr "[isabelle] est si doux ... si câblé ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1378 #-#-# translate crowdin quest_isabelle_locker_wait_f4c29a38:
 msgid "Her nipples rub against me as I lean in."
-msgstr ""
+msgstr "Ses mamelons se frottent contre moi alors que je me penche."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1380 #-#-# translate crowdin quest_isabelle_locker_wait_1f746849:
 msgid "For a moment, our panting mouths meet in a wet kiss."
@@ -2938,7 +2938,7 @@ msgstr "Je veux sentir tout ce dont j'ai été privé pendant si longtemps."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1383 #-#-# translate crowdin quest_isabelle_locker_wait_5dcb8585:
 msgid "I want to explore her body completely. Map out every ridge and valley with my tongue."
-msgstr ""
+msgstr "Je veux explorer complètement son corps. Tracer chaque crête et chaque vallée avec ma langue."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1384 #-#-# translate crowdin quest_isabelle_locker_wait_b798694b:
 msgid "But there's just so much time..."
@@ -2958,11 +2958,11 @@ msgstr "[_mc_] Êtes-vous prêt ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1389 #-#-# translate crowdin quest_isabelle_locker_wait_c80c18c8:
 msgid "She's too consumed by lust to answer, but her pleading eyes say it all.{space=-50}"
-msgstr ""
+msgstr "Elle est trop consumée par le désir pour répondre, mais ses yeux suppliants en disent long.{space=-50}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1391 #-#-# translate crowdin quest_isabelle_locker_wait_b016462c:
 msgid "Her needy lips try to draw me in..."
-msgstr ""
+msgstr "Ses lèvres en manque tentent de m'attirer..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1426 #-#-# translate crowdin quest_isabelle_locker_wait_17394981:
 msgid "She whines as my fingers touch her clit."
@@ -3002,7 +3002,7 @@ msgstr "Quand je la colle à l'intérieur de [isabelle] , je veux qu'elle vienne
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1472 #-#-# translate crowdin quest_isabelle_locker_wait_73bee942:
 msgid "She looks up at me, eyes watery. The muscles in her abdomen shake and shiver..."
-msgstr ""
+msgstr "Elle lève les yeux vers moi, les yeux larmoyants. Les muscles de son abdomen tremblent..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1474 #-#-# translate crowdin quest_isabelle_locker_wait_434e9d2e:
 msgid "[_isabelle_s_lying_down_insertion_] Oh, my god! [withhpunch]"
@@ -3010,7 +3010,7 @@ msgstr "[_isabelle_s_lying_down_insertion_] Oh, mon dieu ! [withhpunch]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1475 #-#-# translate crowdin quest_isabelle_locker_wait_60083d5d:
 msgid "She gasps as my dick once again penetrates her."
-msgstr ""
+msgstr "Elle halète lorsque ma bite la pénètre à nouveau."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1476 #-#-# translate crowdin quest_isabelle_locker_wait_b2588191:
 msgid "The desire burning in my eyes is making her nervous, but also excited."
@@ -3046,11 +3046,11 @@ msgstr "Avec un cri de plaisir, sa chatte tourne autour de ma bite."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1647 #-#-# translate crowdin quest_isabelle_locker_wait_9ac8ebea:
 msgid "Her eyes glaze over and then roll back into her head."
-msgstr ""
+msgstr "Ses yeux se voilent, puis se révèlent à nouveau dans sa tête."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1648 #-#-# translate crowdin quest_isabelle_locker_wait_9e655653:
 msgid "Nothing but the bliss of her orgasm fills her senses."
-msgstr ""
+msgstr "Rien d'autre que la félicité de son orgasme n'envahit ses sens."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1649 #-#-# translate crowdin quest_isabelle_locker_wait_38cb8147_1:
 msgid "[_mc_] Fuck!"
@@ -3078,7 +3078,7 @@ msgstr "[isabelle] amandes-trop éloignées de l'avis ou des soins."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1663 #-#-# translate crowdin quest_isabelle_locker_wait_91ed75a1:
 msgid "Just as the unstoppable wave of pleasure rips through me, I pull out.{space=-20}"
-msgstr ""
+msgstr "Au moment où la vague de plaisir irrépressible me traverse, je me retire.{space=-20}"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1665 #-#-# translate crowdin quest_isabelle_locker_wait_b26aaec4:
 msgid "My load splashes against her stomach and lower abdomen."
@@ -3094,7 +3094,7 @@ msgstr "Et puis nous sommes juste là dans les bras de l'autre alors que la mer 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1669 #-#-# translate crowdin quest_isabelle_locker_wait_a335a48b:
 msgid "The afterglow of the orgasm leaves us speechless."
-msgstr ""
+msgstr "La rémanence de l'orgasme nous laisse sans voix."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1670 #-#-# translate crowdin quest_isabelle_locker_wait_11290da3:
 msgid "But words aren't needed anymore."
@@ -3102,7 +3102,7 @@ msgstr "Mais les mots ne sont plus nécessaires."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1671 #-#-# translate crowdin quest_isabelle_locker_wait_6a970cc9:
 msgid "All I need is her arms around me. Our bodies close together."
-msgstr ""
+msgstr "Tout ce dont j'ai besoin, c'est de ses bras autour de moi. Nos corps serrés l'un contre l'autre."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1672 #-#-# translate crowdin quest_isabelle_locker_wait_1c69a384:
 msgid "A smile of satisfaction touches her lips."
@@ -3110,7 +3110,7 @@ msgstr "Un sourire de satisfaction touche ses lèvres."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1673 #-#-# translate crowdin quest_isabelle_locker_wait_22c4a853:
 msgid "Gently, she runs her fingers through my hair."
-msgstr ""
+msgstr "Doucement, elle passe ses doigts dans mes cheveux."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1674 #-#-# translate crowdin quest_isabelle_locker_wait_d8f70ea2:
 msgid "And it's such a tiny gesture, but it brings a lump to my throat and a tear to my eye."
@@ -3170,7 +3170,7 @@ msgstr "[_mc_] Vous avez raison, les négociations sont terminées. L'heure de l
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1699 #-#-# translate crowdin quest_isabelle_locker_wait_fdfff643:
 msgid "[_isabelle_s_skeptical_] I'm going to stomp on their little idyll."
-msgstr ""
+msgstr "[Je vais piétiner leur petite idylle."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1700 #-#-# translate crowdin quest_isabelle_locker_wait_ff833c6e:
 msgid "[_mc_] With iron boots."
@@ -3242,7 +3242,7 @@ msgstr "\"[spinach]. \""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:193
 msgid "\"The Inconspicuous Group.\""
-msgstr ""
+msgstr "\"Le groupe discret\"."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:291
 msgid "?mc.owned_item('sugar_cube')@[item_count]/1|{image= sugar_cube_small}|\"All information has a price. I'm willing to pay.\""
@@ -3316,5 +3316,5 @@ msgstr "{image=stats lust}|\" Vous avez raison : les négociations sont trop lon
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1651
 msgid "Cum inside"
-msgstr ""
+msgstr "Jouer à l'intérieur"
 
