@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:07\n"
+"PO-Revision-Date: 2024-03-14 11:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:41 #-#-# translate crowdin quest_flora_bonsai_pads_interact_ac24309d:
 msgid "Better not keep [isabelle] waiting, else she might burst in."
-msgstr ""
+msgstr "Mieux vaut ne pas faire attendre [isabelle], sinon elle risque de faire irruption."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:47 #-#-# translate crowdin quest_flora_bonsai_pads_door_a26de583:
 msgid "[_mc_] Don't lose these!"
@@ -38,7 +38,7 @@ msgstr "[_maxine_s_neutral_] Les acariens ont-ils aussi mangé vos vêtements ? 
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:88 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_aca56d73:
 msgid "[_nurse_s_afraid_] Mites? Err, I..."
-msgstr ""
+msgstr "[Des acariens ? Euh, je..."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:89 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_161ba503:
 msgid "[_mc_] She just likes going naked."
@@ -66,7 +66,7 @@ msgstr "[_nurse_s_annoyed_]..."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:95 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_fd65bb4f:
 msgid "[maxine] doesn't seem fazed by the [nurse]'s nudity at all."
-msgstr ""
+msgstr "[La nudité de l'[infirmière] n'a pas l'air de l'effrayer."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:96 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_9195312a:
 msgid "The [nurse], on the other hand, is sweating and squirming."
@@ -106,7 +106,7 @@ msgstr "[_mc_] Eh bien, je ne le fais pas."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:105 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_ee10aa17:
 msgid "[_maxine_s_annoyed_] Would you submit yourself to a cavity search?"
-msgstr ""
+msgstr "[Vous soumettriez-vous à une fouille des cavités ?"
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:106 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_6ca1fb61:
 msgid "[_mc_] ...no?"
