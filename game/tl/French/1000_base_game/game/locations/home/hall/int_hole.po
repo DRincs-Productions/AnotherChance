@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:05\n"
+"PO-Revision-Date: 2024-03-14 11:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/hall/int_hole.rpy:38 #-#-# translate crowdin home_hall_hole_use_dc9867cb:
 msgid "Ugh, my neck and back hurts from all the reaching and lassoing earlier. Need to rest for a while."
-msgstr ""
+msgstr "J'ai mal au cou et au dos à force de tendre le bras et de prendre le lasso. J'ai besoin de me reposer un peu."
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:40 #-#-# translate crowdin home_hall_hole_use_6760453c:
 msgid "Yeehaw! Toss out the nets!"
-msgstr ""
+msgstr "Yeehaw ! Jetez les filets !"
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:41 #-#-# translate crowdin home_hall_hole_use_a20cefa7:
 msgid "..."
@@ -46,7 +46,7 @@ msgstr "J'ai quelque chose !"
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:59 #-#-# translate crowdin home_hall_hole_use_c6267157:
 msgid "It's [catch[0]]!"
-msgstr ""
+msgstr "C'est [catch[0]] !"
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:61 #-#-# translate crowdin home_hall_hole_use_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -130,7 +130,7 @@ msgstr "Elle est restée dans l'eau pendant une heure ce jour-là, essayant de c
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:84 #-#-# translate crowdin home_hall_hole_use_0681ab4c:
 msgid "If I'd been more confident, I could probably have traded the bikini for a blowjob behind the pier."
-msgstr ""
+msgstr "Si j'avais été plus confiante, j'aurais probablement pu échanger le bikini contre une pipe derrière la jetée."
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:85 #-#-# translate crowdin home_hall_hole_use_2c3082cd:
 msgid "A good memory nonetheless."
@@ -194,7 +194,7 @@ msgstr "Pas tout à fait ce que j'avais en tête."
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:115 #-#-# translate crowdin home_hall_hole_use_51d9eea2:
 msgid "Thread's too weak and flimsy. Won't catch anything with a lasso like this."
-msgstr ""
+msgstr "Le fil est trop faible et fragile. On n'attrape rien avec un tel lasso."
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:118 #-#-# translate crowdin home_hall_hole_use_a0229a2d:
 msgid "Not to shame my [item.title_lower], but... hmm... maybe that's actually the play."
@@ -210,7 +210,7 @@ msgstr "Non. Ne travaille pas."
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:125 #-#-# translate crowdin home_hall_hole_interact_865e3624:
 msgid "The uncharted abyss lies beyond this tear in the flimsy fabric of reality. The truth is up there."
-msgstr ""
+msgstr "L'abîme inexploré se trouve au-delà de cette déchirure dans le tissu fragile de la réalité. La vérité est là-haut."
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:129 #-#-# translate crowdin home_hall_mrsl_HOT_interact_1d5a2265:
 msgid "Ever since the ladder to the attic's outdoor entrance broke and the floor around it collapsed, this hole is the only access point."
@@ -222,7 +222,7 @@ msgstr "L'extraction de choses à partir de là nécessiterait quelque chose à 
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/hall/int_hole.rpy:60
 msgid "Keep it"
-msgstr ""
+msgstr "Gardez-le"
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:60
 msgid "Toss it back"
