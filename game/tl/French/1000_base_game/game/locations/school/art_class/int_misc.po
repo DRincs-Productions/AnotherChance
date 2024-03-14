@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:05\n"
+"PO-Revision-Date: 2024-03-14 11:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/art_class/int_misc.rpy:61 #-#-# translate crowdin school_art_class_book_interact_29966ead:
 msgid "This might come in handy..."
@@ -18,5 +18,5 @@ msgstr "Ça pourrait venir à la main ..."
 
 # game/1000_base_game/game/locations/school/art_class/int_misc.rpy:62 #-#-# translate crowdin school_art_class_book_interact_50356d8b:
 msgid "{i}\"Twelve Things That Nobody Cares About.\"{/}"
-msgstr ""
+msgstr "{i}\"Douze choses dont tout le monde se fiche."
 
