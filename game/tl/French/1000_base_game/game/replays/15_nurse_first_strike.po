@@ -10,12 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:08\n"
+"PO-Revision-Date: 2024-03-14 11:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:17 #-#-# translate crowdin replay_nurse_first_strike_04de358e:
 msgid "[_nurse_s_neutral_] Gosh, I'm not sure you should be looking through that book\n"
 "right now..."
-msgstr ""
+msgstr "[Je ne suis pas sûr que vous devriez lire ce livre\n"
+"en ce moment..."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:18 #-#-# translate crowdin replay_nurse_first_strike_49f95e3f:
 msgid "[_mc_] Hmm? This little book? And why is that?"
@@ -36,7 +37,8 @@ msgstr "[_mc_] Ils sont notre petit secret."
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:22 #-#-# translate crowdin replay_nurse_first_strike_f87067be:
 msgid "[_nurse_s_annoyed_] Oh, I don't know. I get really nervous when you flip through\n"
 "those pages."
-msgstr ""
+msgstr "[Oh, je ne sais pas. Je deviens vraiment nerveuse quand vous feuilletez\n"
+"ces pages."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:23 #-#-# translate crowdin replay_nurse_first_strike_83f3d709:
 msgid "[_mc_] I can imagine."
@@ -104,7 +106,7 @@ msgstr "[_nurse_s_concerned_] Oh, ma bonté ..."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:39 #-#-# translate crowdin replay_nurse_first_strike_7c1a21d5:
 msgid "[_nurse_s_concerned_] Gosh, okay, but what if someone comes in?"
-msgstr ""
+msgstr "[Bon sang, d'accord, mais si quelqu'un entre ?"
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:50 #-#-# translate crowdin replay_nurse_first_strike_93324af9:
 msgid "[_nurse_s_thinking_] This is enough, right?"
@@ -132,7 +134,7 @@ msgstr "[_nurse_s_neutral_] Je ne sais pas ce que je vais faire si quelqu'un vie
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:65 #-#-# translate crowdin replay_nurse_first_strike_58e69950:
 msgid "[_nurse_s_neutral_] Sorry, but this is..."
-msgstr ""
+msgstr "[Désolé, mais c'est..."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:66 #-#-# translate crowdin replay_nurse_first_strike_56c92980:
 msgid "[_mc_] It's pretty hot, right?"
@@ -160,7 +162,7 @@ msgstr "[_mc_] Découvrons-le."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:72 #-#-# translate crowdin replay_nurse_first_strike_5771f56f:
 msgid "[_nurse_s_concerned_] Okay, okay. Gosh."
-msgstr ""
+msgstr "[D'accord, d'accord. C'est bien."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:82 #-#-# translate crowdin replay_nurse_first_strike_6baeb239:
 msgid "[_nurse_s_sad_] This must be enough, right?"
@@ -198,7 +200,7 @@ msgstr "[_maxine_s_neutral_] Les acariens ont-ils aussi mangé vos vêtements ? 
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:99 #-#-# translate crowdin replay_nurse_first_strike_aca56d73:
 msgid "[_nurse_s_afraid_] Mites? Err, I..."
-msgstr ""
+msgstr "[Des acariens ? Euh, je..."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:100 #-#-# translate crowdin replay_nurse_first_strike_161ba503:
 msgid "[_mc_] She just likes going naked."
@@ -226,7 +228,7 @@ msgstr "[_nurse_s_annoyed_]..."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:106 #-#-# translate crowdin replay_nurse_first_strike_fd65bb4f:
 msgid "[maxine] doesn't seem fazed by the [nurse]'s nudity at all."
-msgstr ""
+msgstr "[La nudité de l'[infirmière] n'a pas l'air de l'effrayer."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:107 #-#-# translate crowdin replay_nurse_first_strike_9195312a:
 msgid "The [nurse], on the other hand, is sweating and squirming."
@@ -266,7 +268,7 @@ msgstr "[_mc_] Eh bien, je ne le fais pas."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:116 #-#-# translate crowdin replay_nurse_first_strike_ee10aa17:
 msgid "[_maxine_s_annoyed_] Would you submit yourself to a cavity search?"
-msgstr ""
+msgstr "[Vous soumettriez-vous à une fouille des cavités ?"
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:117 #-#-# translate crowdin replay_nurse_first_strike_6ca1fb61:
 msgid "[_mc_] ...no?"
