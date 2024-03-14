@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:05\n"
+"PO-Revision-Date: 2024-03-14 11:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:42 #-#-# translate crowdin school_art_class_supply_closet_interact_95047015:
 msgid "This is where all the pranksters find their equipment."
-msgstr ""
+msgstr "C'est là que tous les farceurs trouvent leur matériel."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:43 #-#-# translate crowdin school_art_class_supply_closet_interact_38d10860:
 msgid "It's so easy to place a bucket of paint over a doorway and just watch an unsuspecting victim get drenched."
@@ -102,7 +102,7 @@ msgstr "Hmm ... [kate] a probablement suivi la piste des emballages de bonbons i
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:82 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_248ae4f4:
 msgid "It's risky getting in [kate]'s way, so the smart choice would be to tell the truth."
-msgstr ""
+msgstr "C'est risqué de se mettre en travers du chemin de [Kate], donc le choix le plus intelligent serait de dire la vérité."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:83 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_cd4b5a1c:
 msgid "But then, I would be devastated if someone gave me up to [kate]."
@@ -222,11 +222,11 @@ msgstr "C'est comme une fissure dans son armure."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:142 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_14caba77:
 msgid "How typical is it that the only thing that impresses her is something as basic as muscles."
-msgstr ""
+msgstr "Il est typique que la seule chose qui l'impressionne soit quelque chose d'aussi basique que les muscles."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:143 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_b1385a0b:
 msgid "That's why the jocks get all the girls."
-msgstr ""
+msgstr "C'est pourquoi les sportifs ont toutes les filles."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:144 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_83ed25f4:
 msgid "[_mc_] Okay, [nurse], you've been found. Come on out."
@@ -274,7 +274,7 @@ msgstr "[_kate_s_laughing_] Allez, souriez. Pas besoin d'avoir peur !"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:159 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_d630ccd5:
 msgid "[_kate_s_neutral_] Unless you cross me."
-msgstr ""
+msgstr "[Sauf si vous me contrariez."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:160 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_28d6b94d:
 msgid "[_kate_s_confident_] Bye!"
@@ -298,7 +298,7 @@ msgstr "[_mc_] Oh ?"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:167 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_0eb50553:
 msgid "[_kate_s_blush_s_flip_] I kinda sorta wanted to ask you for a favor..."
-msgstr ""
+msgstr "[Je voulais te demander une faveur..."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:168 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_c5e5931f:
 msgid "[_mc_] Of course! Anything! What is it?"
@@ -350,23 +350,23 @@ msgstr "[_spinach_] Meow !"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:192 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_force_open_10097d53:
 msgid "The cat darted out of the closet. Probably couldn't stand the company."
-msgstr ""
+msgstr "Le chat est sorti du placard. Il n'a probablement pas supporté la compagnie."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:193 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_force_open_d431abfa:
 msgid "[_kate_s_annoyed_right_] Whatever. Stupid cat."
-msgstr ""
+msgstr "[Peu importe. Stupide chat."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:194 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_force_open_abc74a1e:
 msgid "[_kate_s_excited_] Anyway, let me know if you find the [nurse]."
-msgstr ""
+msgstr "[Quoi qu'il en soit, faites-moi savoir si vous trouvez l'[infirmière]."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:205 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_b689cc56:
 msgid "It... worked...?"
-msgstr ""
+msgstr "Cela... a fonctionné... ?"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:206 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_bff41a56:
 msgid "What are all these emotions I'm feeling?"
-msgstr ""
+msgstr "Quelles sont toutes ces émotions que je ressens ?"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:207 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_3ea8000f:
 msgid "Happiness?"
@@ -374,7 +374,7 @@ msgstr "Le bonheur ?"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:208 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_ad2e62d1:
 msgid "Excitement?"
-msgstr ""
+msgstr "L'excitation ?"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:209 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_dc6e4d74:
 msgid "A sense of self worth?"
@@ -398,7 +398,7 @@ msgstr "[_kate_s_cringe_] Grossier."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:215 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_cb7b3dfb:
 msgid "[_kate_s_confident_] Let's just extract my favorite subject."
-msgstr ""
+msgstr "[Extrayons mon sujet favori."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:216 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_83ed25f4:
 msgid "[_mc_] Okay, [nurse], you've been found. Come on out."
@@ -458,11 +458,11 @@ msgstr "..."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:242 #-#-# translate crowdin school_art_class_supply_closet_poolside_story_confetti_6879df23:
 msgid "Hmm... no mylar or colored paper."
-msgstr ""
+msgstr "Hmm... pas de mylar ni de papier coloré."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:243 #-#-# translate crowdin school_art_class_supply_closet_poolside_story_confetti_5a670cb9:
 msgid "Maybe I'll just use my old paintings. It's not like they'll get a passing grade anyway."
-msgstr ""
+msgstr "Je vais peut-être utiliser mes vieilles peintures. Ce n'est pas comme s'ils allaient obtenir une note de passage de toute façon."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:244 #-#-# translate crowdin school_art_class_supply_closet_poolside_story_confetti_c8c311be:
 msgid "[jacklyn] probably hates them as well."
