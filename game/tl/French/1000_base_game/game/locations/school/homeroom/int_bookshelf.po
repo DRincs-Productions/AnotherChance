@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:07\n"
+"PO-Revision-Date: 2024-03-14 11:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_bookshelf.rpy:35 #-#-# translate crowdin school_homeroom_bookshelf_interact_first_445ee9ef:
 msgid "{i}\"Bayonets, Etiquette, and Other Things the French Made Dull, Vol. 983\"{/}"
@@ -26,7 +26,7 @@ msgstr "Voyons voir ce qu'il y a d'autre ici ..."
 
 # game/1000_base_game/game/locations/school/homeroom/int_bookshelf.rpy:43 #-#-# translate crowdin school_homeroom_bookshelf_interact_884aa3a9:
 msgid "{i}\"Kissing the Dead — the First Responder's Guide to CPR\"{/}"
-msgstr ""
+msgstr "{i}\"Kissing the Dead - the First Responder's Guide to CPR\" {/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_bookshelf.rpy:44 #-#-# translate crowdin school_homeroom_bookshelf_interact_cdd915fb:
 msgid "That... might actually be the sign I've been looking for! Might be my only chance to put my mouth on a girl!"
@@ -34,5 +34,5 @@ msgstr "C'est peut-être le signe que j'ai cherché ! Ma seule chance de mettre 
 
 # game/1000_base_game/game/locations/school/homeroom/int_bookshelf.rpy:48 #-#-# translate crowdin isabelle_quest_stolen_maxine_paper_bookshelf_fe0d4ed7:
 msgid "Technically, these fuckers are filled with paper, but [maxine] would probably spend a year analyzing all the text on the pages for hidden meanings."
-msgstr ""
+msgstr "Techniquement, ces enfoirés sont remplis de papier, mais [maxine] passerait probablement un an à analyser tout le texte des pages pour y trouver des significations cachées."
 
