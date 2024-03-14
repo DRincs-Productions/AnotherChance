@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:03\n"
+"PO-Revision-Date: 2024-03-14 11:02\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:10 #-#-# translate crowdin quest_nurse_photogenic_strawberry_juice_69d25e76:
 msgid "[_mc_] Ah, the lifeblood courses through my veins once more!"
@@ -56,7 +56,7 @@ msgstr "Donc ... des étourdissements ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:37 #-#-# translate crowdin quest_nurse_photogenic_start_0ed7cc14:
 msgid "What's happening...?"
-msgstr ""
+msgstr "Que se passe-t-il ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:39 #-#-# translate crowdin quest_nurse_photogenic_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -144,7 +144,7 @@ msgstr "[_flora_s_skeptical_] Cela me dévoile ..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:77 #-#-# translate crowdin quest_nurse_photogenic_start_a65e8e53:
 msgid "Great. Got to love lose-lose situations."
-msgstr ""
+msgstr "Superbe. Il faut aimer les situations perdant-perdant."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:78 #-#-# translate crowdin quest_nurse_photogenic_start_f3df8e5c:
 msgid "[_mc_] Don't, uh... don't help me next time I ask?"
@@ -176,7 +176,7 @@ msgstr "[_flora_s_Souriez_] Pas de soucis ! Parlez à vous plus tard !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:90 #-#-# translate crowdin quest_nurse_photogenic_start_a705f447:
 msgid "Okay, time to talk to the [nurse] before I pass out."
-msgstr ""
+msgstr "Il est temps de parler à [l'infirmière] avant que je ne m'évanouisse."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:93 #-#-# translate crowdin quest_nurse_photogenic_start_e5d6ae7a:
 msgid "[_mc_] Noted. Next time, I'll just die on the floor."
@@ -288,7 +288,7 @@ msgstr "[_flora_s_confused_] Quoi qu'il en soit, je dois y aller. Ne vous évano
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:136 #-#-# translate crowdin quest_nurse_photogenic_start_a705f447_1:
 msgid "Okay, time to talk to the [nurse] before I pass out."
-msgstr ""
+msgstr "Il est temps de parler à [l'infirmière] avant que je ne m'évanouisse."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:140 #-#-# translate crowdin quest_nurse_photogenic_start_5d38a2d2:
 msgid "[_mc_] Listen to me carefully, [flora] — if you ever get pulled into the sewers by a tentacle abomination... I will stand idly by."
@@ -336,7 +336,7 @@ msgstr "L'obtention de la peau durcie de [flora]'s est une simple promenade dans
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:160 #-#-# translate crowdin quest_nurse_photogenic_start_5e19b31f:
 msgid "Anyway, time to talk to the [nurse] before I pass out."
-msgstr ""
+msgstr "Quoi qu'il en soit, il est temps de parler à [l'infirmière] avant que je ne m'évanouisse."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:161 #-#-# translate crowdin quest_nurse_photogenic_start_c9a99334:
 msgid "Huh? Is someone there?"
@@ -404,7 +404,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:195 #-#-# translate crowdin quest_nurse_photogenic_start_df00ddab:
 msgid "[_mc_] Where is she now? And what was she doing outside her office?!"
-msgstr ""
+msgstr "[Où est-elle maintenant ? Et que faisait-elle devant son bureau ? !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:197 #-#-# translate crowdin quest_nurse_photogenic_start_4f9f95ca:
 msgid "[_mc_] The last bit is more upsetting than me fainting."
@@ -628,7 +628,7 @@ msgstr "[_lindsey_s_laughing_] Très."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:285 #-#-# translate crowdin quest_nurse_photogenic_start_68dad257:
 msgid "[_lindsey_s_smile_] Do you think you can make it the rest of the way on your own without fainting?"
-msgstr ""
+msgstr "[_lindsey_s_smile_] Pensez-vous pouvoir faire le reste du chemin toute seule sans vous évanouir ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:286 #-#-# translate crowdin quest_nurse_photogenic_start_b952fedc:
 msgid "[_mc_] Yeah, no problem! I think it's just low blood sugar or something."
@@ -664,7 +664,7 @@ msgstr "[_lindsey_s_flirty_] Oui ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:299 #-#-# translate crowdin quest_nurse_photogenic_start_323ca584:
 msgid "[_lindsey_s_flirty_] How will I ever repay you?"
-msgstr ""
+msgstr "[Comment vais-je vous remercier ?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:300 #-#-# translate crowdin quest_nurse_photogenic_start_3a36e7a6:
 msgid "[_mc_] If this doesn't kill me, there'll be plenty of time for you to hit the gym.{space=-30}"
@@ -708,7 +708,7 @@ msgstr "[_lindsey_s_flirty_] Quoi qu'il en soit, je te verrai autour du [mc]!"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:320 #-#-# translate crowdin quest_nurse_photogenic_start_a705f447_2:
 msgid "Okay, time to talk to the [nurse] before I pass out."
-msgstr ""
+msgstr "Il est temps de parler à [l'infirmière] avant que je ne m'évanouisse."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:321 #-#-# translate crowdin quest_nurse_photogenic_start_c9a99334_1:
 msgid "Huh? Is someone there?"
@@ -858,7 +858,7 @@ msgstr "... bien que la plupart des gens ici le méritent."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:363 #-#-# translate crowdin quest_nurse_photogenic_eavesdrop_b32e4c8a:
 msgid "But the strawberry juice is sacred! She can't be allowed to spike it!"
-msgstr ""
+msgstr "Mais le jus de fraise est sacré ! Elle ne peut pas être autorisée à le corser !"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:367 #-#-# translate crowdin quest_nurse_photogenic_eavesdrop_33d1d4b0:
 msgid "Ugh, anyway..."
@@ -1156,7 +1156,7 @@ msgstr "[_nurse_]..."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:483 #-#-# translate crowdin quest_nurse_photogenic_curtain_f8bc16b6:
 msgid "[_nurse_s_concerned_] Oh, um... okay, let me have a look at you."
-msgstr ""
+msgstr "[Oh, euh... ok, laissez-moi vous regarder."
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:484 #-#-# translate crowdin quest_nurse_photogenic_curtain_62ed1b4b:
 msgid "[_nurse_s_concerned_] ..."
@@ -1294,11 +1294,11 @@ msgstr "\" Non, je l'aurais incinérée avec mes restes. Le xCube et moi vous re
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:191
 msgid "\"Where is she now? And what was she doing outside her office?!\""
-msgstr ""
+msgstr "\"Où est-elle maintenant ? Et que faisait-elle devant son bureau ? !\""
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:191
 msgid "\"You two are unstoppable together!\""
-msgstr ""
+msgstr "\"Vous deux, vous êtes inarrêtables ensemble !\""
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:203
 msgid "\"Yeah, she's a complete weirdo.\""
@@ -1334,5 +1334,5 @@ msgstr "?mc.charisma>=3@[mc.charisma]/3|{image=stats cha}|\"Je veux dire ... tra
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:291
 msgid "\"Again, I really appreciate it. You're a lot stronger than you look.\""
-msgstr ""
+msgstr "\"Encore une fois, j'apprécie vraiment. Tu es beaucoup plus fort que tu n'en as l'air.\""
 
