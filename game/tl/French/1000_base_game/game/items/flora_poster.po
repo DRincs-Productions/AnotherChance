@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:03\n"
+"PO-Revision-Date: 2024-03-14 11:02\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/flora_poster.rpy:17 #-#-# translate crowdin flora_poster_interact_99c77460:
 msgid "{i}\"Do you have what it takes?\"{/}"
@@ -30,5 +30,5 @@ msgstr "{i}\"Bienvenue au jour de la journée portes ouvertes à la Fondation !\
 
 # game/1000_base_game/game/items/flora_poster.rpy:21 #-#-# translate crowdin flora_poster_interact_703f1484:
 msgid "{i}\"Hazmat suits and protective gear will be provided by us.\"{/}"
-msgstr ""
+msgstr "{i}\"Les combinaisons Hazmat et les équipements de protection seront fournis par nos soins."
 
