@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:03\n"
+"PO-Revision-Date: 2024-03-14 11:01\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:9 #-#-# translate crowdin quest_lindsey_motive_start_10b530a7:
 msgid "There's something about [lindsey]..."
@@ -34,7 +34,7 @@ msgstr "Tout le monde peut courir."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:14 #-#-# translate crowdin quest_lindsey_motive_start_a1f1ca52:
 msgid "I guess no one runs like her, though... and that's what makes her a joy to behold."
-msgstr ""
+msgstr "Je suppose que personne ne court comme elle, cependant... et c'est ce qui fait sa joie."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:15 #-#-# translate crowdin quest_lindsey_motive_start_06781516:
 msgid "The way she flies through the gym, lap after lap, is special."
@@ -61,7 +61,8 @@ msgstr "Et comme ça, le monde cesse de tourner."
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:23 #-#-# translate crowdin quest_lindsey_motive_start_dbc6fff7:
 msgid "She takes a sip of water, entirely unfazed by the show she just\n"
 "put on."
-msgstr ""
+msgstr "Elle boit une gorgée d'eau, sans se laisser impressionner par le spectacle qu'elle vient de donner sur\n"
+"."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:24 #-#-# translate crowdin quest_lindsey_motive_start_1f1187cb:
 msgid "To her, it's just another day in the office."
@@ -85,7 +86,7 @@ msgstr "Peut-être qu'ils l'ont frappée pendant des années sans résultat ? C'
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:29 #-#-# translate crowdin quest_lindsey_motive_start_4897d924:
 msgid "I guess they didn't know that the key to her heart was an old music album..."
-msgstr ""
+msgstr "Je suppose qu'ils ne savaient pas que la clé de son cœur était un vieil album de musique..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:30 #-#-# translate crowdin quest_lindsey_motive_start_055c567f:
 msgid "[_lindsey_s_flirty_] I was just thinking about you."
@@ -281,11 +282,11 @@ msgstr "[_mc_] Je comprends, mais vous avez aussi besoin de vous détendre.\n"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:94 #-#-# translate crowdin quest_lindsey_motive_start_0ffbe62c:
 msgid "[_lindsey_s_blush_] That's sweet of you. Okay, let's do it!"
-msgstr ""
+msgstr "[C'est gentil de ta part. Ok, faisons-le !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:95 #-#-# translate crowdin quest_lindsey_motive_start_ca024899:
 msgid "[_lindsey_s_blush_] I'll bring the easel and brushes. Would you mind bringing the paint?"
-msgstr ""
+msgstr "[Je vais apporter le chevalet et les pinceaux. Pourriez-vous apporter la peinture ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:96 #-#-# translate crowdin quest_lindsey_motive_start_bbffa7de:
 msgid "[_mc_] Not at all! See you tomorrow!"
@@ -457,7 +458,7 @@ msgstr "[lindsey] a dit qu'elle a donné la boîte au [jacklyn], qui l'a ensuite
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:174 #-#-# translate crowdin quest_lindsey_motive_hidden_chairs_c20fa89b:
 msgid "But the mysterious texter said that they didn't find the box in the trash like [jacklyn] said."
-msgstr ""
+msgstr "Mais le mystérieux texteur a dit qu'il n'avait pas trouvé la boîte dans la poubelle comme [Jacklyn] l'avait dit."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:175 #-#-# translate crowdin quest_lindsey_motive_hidden_chairs_6fed1162:
 msgid "Did [jacklyn] keep the box hidden here? And if so, why?"
@@ -477,7 +478,7 @@ msgstr "Peut-être que ce n'était pas elle ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:179 #-#-# translate crowdin quest_lindsey_motive_hidden_chairs_052a8036:
 msgid "It's not like the door to this classroom is ever locked..."
-msgstr ""
+msgstr "Ce n'est pas comme si la porte de cette salle de classe était toujours fermée à clé..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:180 #-#-# translate crowdin quest_lindsey_motive_hidden_chairs_3560b58b:
 msgid "Maybe she has seen something, though. She spends most of her time here."
@@ -485,7 +486,7 @@ msgstr "Peut-être qu'elle a vu quelque chose. Elle passe la plupart de son temp
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:187 #-#-# translate crowdin quest_lindsey_motive_jacklyn_01747f71:
 msgid "[_jacklyn_s_smile_] What's clapping, Dummy Thicc?"
-msgstr ""
+msgstr "[Qu'est-ce qui claque, Dummy Thicc ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:188 #-#-# translate crowdin quest_lindsey_motive_jacklyn_6e7ed73f:
 msgid "[_mc_] You know, the usual."
@@ -513,7 +514,7 @@ msgstr "[_mc_] Vous avez dit que [lindsey] vous l'ont donné, et que vous l'avez
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:194 #-#-# translate crowdin quest_lindsey_motive_jacklyn_f873720c:
 msgid "[_jacklyn_s_thinking_] Repeat and rewind much?"
-msgstr ""
+msgstr "[_jacklyn_s_thinking_] On répète et on rembobine beaucoup ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:195 #-#-# translate crowdin quest_lindsey_motive_jacklyn_85607462:
 msgid "[_mc_] Someone told me you didn't actually throw the box away."
@@ -529,7 +530,7 @@ msgstr "[_mc_] Peu importe. Je veux juste savoir pourquoi tu as menti."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:198 #-#-# translate crowdin quest_lindsey_motive_jacklyn_108fcfa3:
 msgid "[_jacklyn_s_annoyed_] Cards on the table, okay? I didn't want you snooping."
-msgstr ""
+msgstr "[Cartes sur table, d'accord ? Je ne voulais pas que tu fouines."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:199 #-#-# translate crowdin quest_lindsey_motive_jacklyn_56c3991c:
 msgid "[_mc_] Why not?"
@@ -561,7 +562,7 @@ msgstr "[_mc_] Pourquoi vous l'avez jeté, alors ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:206 #-#-# translate crowdin quest_lindsey_motive_jacklyn_52a708f5:
 msgid "[_jacklyn_s_annoyed_] I didn't. Some freebooter criminalized me."
-msgstr ""
+msgstr "[Je ne l'ai pas fait. Un flibustier m'a criminalisé."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:207 #-#-# translate crowdin quest_lindsey_motive_jacklyn_e5a18b55:
 msgid "[_mc_] So... someone stole it from you, and you lied because you didn't want to tell me that you'd kept it?"
@@ -569,7 +570,7 @@ msgstr "[_mc_] Alors ... quelqu'un vous l'a volé, et tu as menti parce que tu n
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:208 #-#-# translate crowdin quest_lindsey_motive_jacklyn_b286095e:
 msgid "[_jacklyn_s_excited_] On the dough, baker-bro!"
-msgstr ""
+msgstr "[_jacklyn_s_excité_] Sur la pâte, boulanger !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:209 #-#-# translate crowdin quest_lindsey_motive_jacklyn_b32159bb:
 msgid "[_mc_] I don't believe you."
@@ -599,7 +600,7 @@ msgstr "[_jacklyn_s_neutral_hands_up_]..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:215 #-#-# translate crowdin quest_lindsey_motive_jacklyn_c7b7899b:
 msgid "[_jacklyn_s_smile_] Seems like you have some horsepower in that egg."
-msgstr ""
+msgstr "[_jacklyn_s_smile_] On dirait que vous avez de la puissance dans cet œuf."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:216 #-#-# translate crowdin quest_lindsey_motive_jacklyn_595b1111:
 msgid "[_jacklyn_s_smile_] If you must know, someone gilded my wallet in exchange for hiding it.{space=-35}"
@@ -699,7 +700,7 @@ msgstr "[_maxine_s_confident_hands_down_] Les expériences humaines en cours à 
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:246 #-#-# translate crowdin quest_lindsey_motive_maxine_e7712b00:
 msgid "[_mc_] H-human... experiments...?"
-msgstr ""
+msgstr "[_mc_] Expériences... humaines... ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:247 #-#-# translate crowdin quest_lindsey_motive_maxine_c6a7f856:
 msgid "[_maxine_s_skeptical_] The Juice Apocalypse is coming. We need to be prepared."
@@ -831,11 +832,11 @@ msgstr "[_maxine_s_skeptical_] Absolument. La science n'est rien pour plaisanter
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:282 #-#-# translate crowdin quest_lindsey_motive_maxine_68aeb16c:
 msgid "[lindsey] didn't remember the shoe incident or stealing [isabelle]'s chocolate hearts..."
-msgstr ""
+msgstr "[Lindsey] ne se souvient pas de l'incident des chaussures ou du vol des cœurs en chocolat d'[Isabelle]..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:283 #-#-# translate crowdin quest_lindsey_motive_maxine_9e6a0048:
 msgid "But what the hell does hypno-somnambulism mean?"
-msgstr ""
+msgstr "Mais qu'est-ce que l'hypno-somnambulisme ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:284 #-#-# translate crowdin quest_lindsey_motive_maxine_928dfb7f:
 msgid "[_mc_] If you run experiments on me or [lindsey] again, I'm reporting you to the principal."
@@ -859,15 +860,15 @@ msgstr "[_mc_] C'est simple. Je suis un casse-cou."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:289 #-#-# translate crowdin quest_lindsey_motive_maxine_8aa47b1a:
 msgid "[_maxine_s_neutral_] I see. Have a good day."
-msgstr ""
+msgstr "[Je vois. Je vous souhaite une bonne journée."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:291 #-#-# translate crowdin quest_lindsey_motive_maxine_29acfe16:
 msgid "I should probably google hypno-whatever..."
-msgstr ""
+msgstr "Je devrais probablement googler hypno-quoi que ce soit..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:297 #-#-# translate crowdin quest_lindsey_motive_google_1362faff:
 msgid "{i}\"Hypno... somn...ambulism...\"{/}"
-msgstr ""
+msgstr "{i}\"Hypno... somn... ambulisme...\"{/}"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:299 #-#-# translate crowdin quest_lindsey_motive_google_331c5bce:
 msgid "Let's see here..."
@@ -883,7 +884,7 @@ msgstr "{i}\"Contrairement à un statique courant hypnotique, la personne n'a pa
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:302 #-#-# translate crowdin quest_lindsey_motive_google_ebaa1527:
 msgid "{i}\"Instead, the hypno-somnambulism state is more akin to sleepwalking.\"{/}{space=-70}"
-msgstr ""
+msgstr "{i}\"Au contraire, l'état d'hypno-somnambulisme est plus proche du somnambulisme.\"{/}{space=-70}"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:303 #-#-# translate crowdin quest_lindsey_motive_google_a20cefa7:
 msgid "..."
@@ -1095,7 +1096,7 @@ msgstr "[_mc_] Sure a fait."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:368 #-#-# translate crowdin quest_lindsey_motive_lindsey_92e2bc7f:
 msgid "[_lindsey_s_confident_] Awesome! I asked [mrsl] to meet us outside."
-msgstr ""
+msgstr "[Génial ! J'ai demandé à [mrsl] de nous retrouver dehors."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:369 #-#-# translate crowdin quest_lindsey_motive_lindsey_6a1d8d16:
 msgid "[_lindsey_s_confident_] I just need to grab the easels. See you there?"
@@ -1147,11 +1148,11 @@ msgstr "[_lindsey_s_flirty_] Ok, suivez-moi ! J'ai trouvé l'endroit parfait !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:400 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_743427a1:
 msgid "[_lindsey_s_painting_date_laughing_] Finally, right? I can't believe a beaver stole the easel you made for me!{space=-45}"
-msgstr ""
+msgstr "[_lindsey_s_painting_date_laughing_] Enfin, n'est-ce pas ? Je n'arrive pas à croire qu'un castor ait volé le chevalet que tu m'avais fabriqué!{space=-45}"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:401 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_bd949a34:
 msgid "[_mc_] Neither can I..."
-msgstr ""
+msgstr "[Moi non plus, je ne peux pas..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:402 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_aa694736:
 msgid "[_lindsey_s_painting_date_smile_] Well, these are a bit sturdier. I don't think we'll have that problem again."
@@ -1271,7 +1272,7 @@ msgstr "[_mc_] Non, c'est juste un pinceau. Mon épée est plus grande."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:435 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_1cd5b172:
 msgid "[_lindsey_s_painting_date_laughing_] Stop it!"
-msgstr ""
+msgstr "[Arrêtez !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:436 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_344d4d52:
 msgid "[_mc_] Heh, fine."
@@ -1327,7 +1328,7 @@ msgstr "[_mc_] Oui, j'ai cherché un motif depuis que nous sommes arrivés ici, 
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:452 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_1c584fe7:
 msgid "[_lindsey_s_painting_date_laughing_] You total cheeseball!"
-msgstr ""
+msgstr "[_lindsey_s_painting_date_laughing_] Tu es un vrai crétin !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:453 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_d000429d:
 msgid "[_mc_] I mean it!"
@@ -1351,7 +1352,7 @@ msgstr "[_mc_] [lindsey] ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:459 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_ed8efada:
 msgid "[_lindsey_s_painting_date_blank_] What...?"
-msgstr ""
+msgstr "[_lindsey_s_painting_date_blank_] Quoi... ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:460 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_95c7633a:
 msgid "[_mc_] Are you okay?"
@@ -1375,7 +1376,7 @@ msgstr "Est-ce l'hypno-somnambulisme dont parlait le [maxine] ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:465 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_0575738e:
 msgid "Man, I really need to find a way to detox her somehow..."
-msgstr ""
+msgstr "Il faut vraiment que je trouve un moyen de la désintoxiquer d'une manière ou d'une autre..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:466 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_fe201ccf:
 msgid "...or maybe I should try giving her a suggestion?"
@@ -1471,7 +1472,7 @@ msgstr "[_mc_] Une vache comme une vache."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:505 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_7aaf634b:
 msgid "[_lindsey_s_painting_date_boobs_wet_blank_] Moo."
-msgstr ""
+msgstr "[_lindsey_s_painting_date_boobs_wet_blank_] Moo."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:506 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_afd01cf4:
 msgid "[_mc_] Again!"
@@ -1479,7 +1480,7 @@ msgstr "[_mc_] Encore !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:507 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_7aaf634b_1:
 msgid "[_lindsey_s_painting_date_boobs_wet_blank_] Moo."
-msgstr ""
+msgstr "[_lindsey_s_painting_date_boobs_wet_blank_] Moo."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:508 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_4c8de6a1:
 msgid "Okay, I should probably get the [nurse] now."
@@ -1571,7 +1572,7 @@ msgstr "[_mc_] Dis : \"Fais-moi plaisir, papa !\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:546 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_aaccded6:
 msgid "[_lindsey_s_painting_date_boobs_wet_blank_] Fondle me, daddy..."
-msgstr ""
+msgstr "[Lindsey_s_painting_date_boobs_wet_blank] Fondle me, daddy..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:547 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_6481f56f:
 msgid "Well, the monotony in her voice kind of ruins it..."
@@ -1639,7 +1640,7 @@ msgstr "[_lindsey_s_painting_date_blank_] Mais quelque chose est en train de sor
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:568 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_92290392:
 msgid "[_lindsey_s_painting_date_blank_] The sound of steel plates clinking and rustling over the rock floor..."
-msgstr ""
+msgstr "[_lindsey_s_painting_date_blank_] Le bruit des plaques d'acier s'entrechoquant et bruissant sur le sol rocheux..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:569 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_32dca46e:
 msgid "[_lindsey_s_painting_date_blank_] A massive eye opens... glowing like a furnace... watching me... amused at my cries for help..."
@@ -1651,15 +1652,15 @@ msgstr "L'homme, c'est une merde sombre. Je n'avais pas idée que [lindsey] éta
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:571 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_797d44a4:
 msgid "[_lindsey_s_painting_date_blank_] But then, a beam of silvery light shines into the massive cave, and a knight steps forth..."
-msgstr ""
+msgstr "[_lindsey_s_painting_date_blank_] Mais alors, un rayon de lumière argentée brille dans la grotte massive, et un chevalier en sort..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:572 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_e8e82f7e:
 msgid "[_lindsey_s_painting_date_blank_] Flames burn in the reflections of his armor and shield..."
-msgstr ""
+msgstr "[Des flammes brûlent dans les reflets de son armure et de son bouclier..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:573 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_8d936acf:
 msgid "[_lindsey_s_painting_date_blank_] His sword sings as he pulls it from his scabbard..."
-msgstr ""
+msgstr "[_lindsey_s_painting_date_blank_] Son épée chante lorsqu'il la tire de son fourreau..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:574 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_748a20fe:
 msgid "Ah, of course. I should've seen this coming."
@@ -1667,7 +1668,7 @@ msgstr "Ah, bien sûr. J'aurais dû voir ça venir."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:575 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_fa24fe71:
 msgid "[_lindsey_s_painting_date_blank_] The dragon roars and flaps its giant wings... jagged teeth... torrents of liquid fire—"
-msgstr ""
+msgstr "[Le dragon rugit et bat des ailes géantes... des dents déchiquetées... des torrents de feu liquide..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:576 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_091af426:
 msgid "[_mc_] Yeah, and then the knight chops off the head of the dragon and saves you. Great stuff, [lindsey]."
@@ -1791,7 +1792,7 @@ msgstr "[_mc_] Oh, dieu merci ! Vous êtes en vie !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:641 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_289290ae:
 msgid "[_lindsey_s_making_out_surprised_] W-what happened...?"
-msgstr ""
+msgstr "[Qu'est-ce qui s'est passé ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:642 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_80e05fbf:
 msgid "[_mc_] You fell into the pond..."
@@ -1811,7 +1812,7 @@ msgstr "[_mc_] Err ... Je ne sais pas, mais je suis content que tu sois ok."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:646 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_d8b14482:
 msgid "[_lindsey_s_making_out_surprised_] Did you also fall in?"
-msgstr ""
+msgstr "[Êtes-vous aussi tombée dedans ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:647 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_6e11695c:
 msgid "[_mc_] Not exactly. Someone had to pull you out."
@@ -1879,7 +1880,7 @@ msgstr "Comme sauter dans une oasis de rajeunissement."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:674 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_b3af371e:
 msgid "Hopelessness, fear, self-doubt melt away."
-msgstr ""
+msgstr "Le désespoir, la peur, le doute fondent."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:675 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_d4d0add1:
 msgid "And for a moment, her energy is mine. Her excitement, strength, and determination — a rush of life from her lips to mine."
@@ -1887,7 +1888,7 @@ msgstr "Et pour un moment, son énergie est à moi. Son excitation, sa force et 
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:676 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_2b147c83:
 msgid "It's one of those things that never gets old..."
-msgstr ""
+msgstr "C'est une de ces choses qui ne se démodent jamais..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:680 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_aa4e9f2a:
 msgid "[_lindsey_s_making_out_workaround_hand_adore_] In fact, I'm quite sure."
@@ -1895,7 +1896,7 @@ msgstr "[_lindsey_s_making_out_workaround_hand_adore_] En fait, je suis tout à 
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:681 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_cd1e290b:
 msgid "[_lindsey_s_making_out_workaround_hand_adore_] Kiss me again."
-msgstr ""
+msgstr "[Embrassez-moi encore."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:682 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_d870a78d:
 msgid "[_mc_] You don't have to say that twice."
@@ -1963,11 +1964,11 @@ msgstr "Des bonbons de coton très mouillés."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:710 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_4d97f869:
 msgid "Making out is a lot sloppier than I thought... but it's sloppy in a good way."
-msgstr ""
+msgstr "L'embrassade est beaucoup plus bâclée que je ne le pensais... mais c'est bâclé dans le bon sens du terme."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:711 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_19ebc969:
 msgid "It's nothing like those hentai clips where strings of saliva stretch like telephone lines between the mouths of the kissers."
-msgstr ""
+msgstr "Rien à voir avec ces clips hentai où des fils de salive s'étirent comme des lignes téléphoniques entre les bouches des baisers."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:712 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_0f9ae4be:
 msgid "In fact, kissing [lindsey] is nothing like porn."
@@ -1975,7 +1976,7 @@ msgstr "En fait, le baiser [lindsey] n'est rien comme le porno."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:713 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_6c0d0e6f:
 msgid "It's sweet and gentle, and her playful tongue engages mine in a shy game of peekaboo."
-msgstr ""
+msgstr "C'est doux et tendre, et sa langue enjouée engage la mienne dans un timide jeu de cache-cache."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:714 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_6c9af0aa:
 msgid "Her stiff nipple pokes at my palm as I squeeze her breast."
@@ -2179,7 +2180,7 @@ msgstr "[_lindsey_s_laughing_] Si vous ne le savez pas, vous n'êtes peut-être 
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:788 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_2035ecb4:
 msgid "Man, why do girls always do this?"
-msgstr ""
+msgstr "Pourquoi les filles font-elles toujours ça ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:789 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_70db4f30:
 msgid "Always these coy games. I wish they would just tell me what they wanted..."
@@ -2207,7 +2208,7 @@ msgstr "[_mc_] Mais c'est un oui, non ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:798 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_65a7ed03:
 msgid "[_lindsey_s_flirty_] Oh, gosh... we just met... at least buy me dinner first!"
-msgstr ""
+msgstr "[Oh, mon Dieu... on vient de se rencontrer... au moins, invite-moi à dîner d'abord !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:799 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_c0bb48fc:
 msgid "[_mc_] I guess I can work with that. Tomorrow night?"
@@ -2399,7 +2400,7 @@ msgstr "[_mrsl_s_surprised_]..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:874 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_d08819a2:
 msgid "Whoa! That's so unlike her... so aggressive and demanding."
-msgstr ""
+msgstr "Ouah ! Cela ne lui ressemble pas du tout... si agressif et exigeant."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:878 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -2411,7 +2412,7 @@ msgstr "[_mc_] Etes-vous d'accord, [lindsey] ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:883 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_2e0f9a79:
 msgid "[_lindsey_s_afraid_] D-did I say that out loud? I'm so sorry!"
-msgstr ""
+msgstr "[Est-ce que j'ai dit ça à voix haute ? Je suis vraiment désolée !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:884 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_17451c20:
 msgid "[_mrsl_s_neutral_] That's okay, [lindsey]. Don't worry about it."
@@ -2649,7 +2650,7 @@ msgstr "[_mc_] Quelque chose comme ça."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:993 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_2b56c316:
 msgid "[_mrsl_s_painting_date_arms_behind_head_lindsey_worried_] Mhmmm..."
-msgstr ""
+msgstr "[_mrsl_s_painting_date_arm_behind_head_lindsey_worried_] Mhmmm..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:995 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_94d5dcc9:
 msgid "[_mc_] Can you turn around slightly?"
@@ -2665,7 +2666,7 @@ msgstr "Elle me donne un petit sourire ludique, puis fait comme elle l'a dit."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1001 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_50b40b6d:
 msgid "[lindsey] averts her eyes as [mrsl] slides her right hand along her naked body..."
-msgstr ""
+msgstr "[lindsey] détourne les yeux tandis que [mrsl] fait glisser sa main droite le long de son corps nu..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1002 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_e3c42946:
 msgid "...swirls a finger around her nipple briefly..."
@@ -2686,7 +2687,8 @@ msgstr "[_lindsey_] Les mains sur la tête ! Plus de déménagement ! [withvpunc
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1008 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_f2b75fb0:
 msgid "A sudden panicked order from [lindsey] makes [mrsl] freeze\n"
 "mid-motion."
-msgstr ""
+msgstr "Un ordre soudain et paniqué de [lindsey] fait que [mrsl] se fige\n"
+"en plein mouvement."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1012 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_5866c96e:
 msgid "[_mrsl_s_painting_date_arms_behind_head_lindsey_worried_] As you wish..."
@@ -2694,7 +2696,7 @@ msgstr "[_mrsl_s_painting_date_arms_behind_head_lindsey_worried_] Comme vous le 
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1013 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_9f5b5669:
 msgid "But then, she blinks away the surprise and submissively assumes the position."
-msgstr ""
+msgstr "Mais elle écarte la surprise en clignant des yeux et adopte la position avec soumission."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1014 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_5630d5ff:
 msgid "There's something highly erotic about that short exchange."
@@ -2710,11 +2712,11 @@ msgstr "Comme l'église qui punit les pécheurs."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1017 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_4cbfa6d9:
 msgid "Old, young. Naked, clothed. Sinner, saint."
-msgstr ""
+msgstr "Vieux, jeunes. Nu, habillé. Pécheur, saint."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1019 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_f557ec23:
 msgid "A smirk plays on [mrsl]'s lips. She's turned on."
-msgstr ""
+msgstr "Un sourire en coin se dessine sur les lèvres de [mrsl]. Elle est excitée."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1021 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_b7020456:
 msgid "And [lindsey]... well, she tries to block it all out."
@@ -2750,11 +2752,11 @@ msgstr "[_mc_] Ne vous inquiétez pas. C'est bien."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1034 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_5b728829:
 msgid "I hold my paintbrush up and measure her shapely proportions, then give a nod of approval."
-msgstr ""
+msgstr "Je lève mon pinceau et mesure ses proportions galbées, puis j'approuve d'un signe de tête."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1036 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_38dd1a54:
 msgid "[_mrsl_s_painting_date_right_leg_up_lindsey_embarrassed_] How... intrepid of you, [mc]."
-msgstr ""
+msgstr "[_mrsl_s_painting_date_right_leg_up_lindsey_embarrassed_] Quelle... intrépidité de votre part, [mc]."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1037 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_28a4d39c:
 msgid "[_mc_] All in the name of art."
@@ -2762,7 +2764,7 @@ msgstr "[_mc_] Tout au nom de l'art."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1038 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_fb4db98d:
 msgid "[_mrsl_s_painting_date_right_leg_up_lindsey_embarrassed_] Mhmmm, of course."
-msgstr ""
+msgstr "[_mrsl_s_painting_date_right_leg_up_lindsey_embarrassed_] Mhmmm, bien sûr."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1040 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_547d68bf:
 msgid "[_lindsey_] Oh, my god... I don't know about any of this..."
@@ -2774,7 +2776,7 @@ msgstr "[lindsey]'s l'embarras est mignon, mais mes yeux sont sur le [mrsl]."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1042 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_92eb7af3:
 msgid "In my mind, she spreads her pussy with her fingers, pushing the lips apart and exposing her dripping pink flower."
-msgstr ""
+msgstr "Dans mon esprit, elle écarte sa chatte avec ses doigts, écartant les lèvres et exposant sa fleur rose dégoulinante."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1043 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_582d284a:
 msgid "Goddamn, this is why art exists in the mind of the painter! How else can one possibly capture the beauty of such a thing?"
@@ -2858,7 +2860,7 @@ msgstr "[_lindsey_] Ok ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1072 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_f3d733ef:
 msgid "We paint in silence for a while — [lindsey] red as a tomato, at first, but then getting more into it."
-msgstr ""
+msgstr "Nous peignons en silence pendant un certain temps - [lindsey] rouge comme une tomate, au début, puis de plus en plus."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1074 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_ee8201ab:
 msgid "[_mc_] That's perfect, [mrsl]. Stay just like that."
@@ -2878,7 +2880,7 @@ msgstr "Encore une fois, je prends sa mesure avec mon pinceau."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1080 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_59df3d73:
 msgid "I hold it up in front of my face, squint my eyes, and focus on getting her perfect proportions just right."
-msgstr ""
+msgstr "Je la tiens devant mon visage, je plisse les yeux et je me concentre sur ses proportions parfaites."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1081 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_ad7148c1:
 msgid "Her firm, round ass... her legs spread so wide her pussy glistens in the sun... her lips swollen and wet..."
@@ -2910,7 +2912,7 @@ msgstr "[_lindsey_] Merci ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1094 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_74e5cc61:
 msgid "[_mrsl_s_painting_date_flirty_canvas_full_lindsey_blush_] Let me know if I can be of further use to your... academic careers... in the future."
-msgstr ""
+msgstr "[_mrsl_s_painting_date_flirty_canvas_full_lindsey_blush_] Faites-moi savoir si je peux vous être utile à l'avenir dans vos... carrières académiques...."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1096 #-#-# translate crowdin quest_lindsey_motive_date_mrsl_c0dec601:
 msgid "[_mc_] Oh, we will."
@@ -2990,7 +2992,7 @@ msgstr "Attends une minute ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1127 #-#-# translate crowdin quest_lindsey_motive_date_ending_fc686070:
 msgid "[isabelle] said she didn't see anyone with [lindsey] that day, but she was certainly texting someone."
-msgstr ""
+msgstr "[Isabelle a dit qu'elle n'avait vu personne avec Lindsey ce jour-là, mais qu'elle envoyait certainement des SMS à quelqu'un."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1128 #-#-# translate crowdin quest_lindsey_motive_date_ending_550976de:
 msgid "[_mc_] Who are you texting, [lindsey]?"
@@ -3050,7 +3052,7 @@ msgstr "J'ai besoin de sortir les filles, d'une façon ou d'une autre."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1156 #-#-# translate crowdin quest_lindsey_motive_distraction_0e4fe2ff:
 msgid "Hmm... maybe I could remove a fuse to blow out the bathroom lights..."
-msgstr ""
+msgstr "Hmm... je pourrais peut-être enlever un fusible pour faire sauter les lumières de la salle de bain..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1157 #-#-# translate crowdin quest_lindsey_motive_distraction_b4260a53:
 msgid "That would surely clear it of girls."
@@ -3058,7 +3060,7 @@ msgstr "Ce serait certainement clair pour les filles."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1158 #-#-# translate crowdin quest_lindsey_motive_distraction_06fb7352:
 msgid "But there's just one tiny problem — the security camera."
-msgstr ""
+msgstr "Mais il y a un petit problème : la caméra de sécurité."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1163 #-#-# translate crowdin quest_lindsey_motive_distraction_camera_5b3eaee7:
 msgid "A motion sensor causes the camera to track movement inside\n"
@@ -3208,7 +3210,7 @@ msgstr "[_guard_] Fine, je vais ouvrir la fenêtre humide."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1236 #-#-# translate crowdin quest_lindsey_motive_window_open_eaa978b4:
 msgid "The window is open, but the butterflies aren't budging..."
-msgstr ""
+msgstr "La fenêtre est ouverte, mais les papillons ne bougent pas..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1237 #-#-# translate crowdin quest_lindsey_motive_window_open_bf226310:
 msgid "Maybe I need something to lure them in?"
@@ -3248,7 +3250,7 @@ msgstr "[_maxine_s_skeptical_] Ne touchez pas le spécimen. Je vais regarder."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1279 #-#-# translate crowdin quest_lindsey_motive_lure_nurse_room_plant_interact_afe19840:
 msgid "The [nurse]'s prized bonsai. I should probably find a less expensive plant."
-msgstr ""
+msgstr "Le bonzaï le plus prisé de [l'infirmière]. Je devrais probablement trouver une plante moins chère."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1283 #-#-# translate crowdin quest_lindsey_motive_lure_roof_landing_plant_interact_036dfdf0:
 msgid "This plant doesn't bloom until spring. I need to find another."
@@ -3268,7 +3270,7 @@ msgstr "Cette plante est collée au sol."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1293 #-#-# translate crowdin quest_lindsey_motive_lure_first_hall_plant_interact_f837d712:
 msgid "Too many people tripped over it while trying to get downstairs."
-msgstr ""
+msgstr "Trop de personnes ont trébuché en essayant de descendre."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1297 #-#-# translate crowdin quest_lindsey_motive_lure_first_hall_west_plant_interact_31a74b07:
 msgid "Smells fresh like a summer breeze."
@@ -3300,15 +3302,15 @@ msgstr "Cela devrait garder un grand frère occupé pendant que je coupe le pouv
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1327 #-#-# translate crowdin quest_lindsey_motive_lure_window_06b310d5:
 msgid "While my [item.title_lower] would be perfect for attracting the ladies, these butterflies are a bit more picky."
-msgstr ""
+msgstr "Alors que mon [item.title_lower] serait parfait pour attirer les femmes, ces papillons sont un peu plus exigeants."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1332 #-#-# translate crowdin quest_lindsey_motive_power_cut_camera_f32301e8:
 msgid "Let the eye grow dim and the heart grow bold."
-msgstr ""
+msgstr "Que l'œil s'obscurcisse et que le cœur s'enhardisse."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1336 #-#-# translate crowdin quest_lindsey_motive_power_cut_7ba8d03e:
 msgid "All right, let's just unscrew the fuse to the women's bathroom..."
-msgstr ""
+msgstr "Très bien, dévissons le fusible des toilettes des femmes..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1337 #-#-# translate crowdin quest_lindsey_motive_power_cut_a20cefa7:
 msgid "..."
@@ -3336,15 +3338,15 @@ msgstr "On dirait que la côte est claire."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1362 #-#-# translate crowdin quest_lindsey_motive_steal_bf56f1d6:
 msgid "Hmm... it's a bit hard to see in the dark, but [lindsey]'s bag should be in one of the lockers..."
-msgstr ""
+msgstr "Hmm... c'est un peu difficile à voir dans l'obscurité, mais le sac de [Lindsey] devrait être dans l'un des casiers..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1366 #-#-# translate crowdin quest_lindsey_motive_steal_door_51181d0b:
 msgid "I can't leave before I've found [lindsey]'s phone. This might be my only shot."
-msgstr ""
+msgstr "Je ne peux pas partir avant d'avoir trouvé le téléphone de [Lindsey]. C'est peut-être ma seule chance."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1370 #-#-# translate crowdin quest_lindsey_motive_steal_urinal_5ff15c06:
 msgid "Why is there fresh urine here? Does one of the girls pee standing up?{space=-30}"
-msgstr ""
+msgstr "Pourquoi y a-t-il de l'urine fraîche ici ? L'une des filles fait-elle pipi debout ? {space=-30}"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1374 #-#-# translate crowdin quest_lindsey_motive_steal_shower1_aed1d8dd:
 msgid "The men's bathroom doesn't have showers..."
@@ -3412,7 +3414,7 @@ msgstr "Messages ... messages ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1399 #-#-# translate crowdin quest_lindsey_motive_steal_locker2_03fdae3e:
 msgid "Well, she doesn't text a lot, so that's helpful."
-msgstr ""
+msgstr "Elle n'envoie pas beaucoup de SMS, ce qui est utile."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1400 #-#-# translate crowdin quest_lindsey_motive_steal_locker2_b4a5972e:
 msgid "I guess she's more of a face-to-face type of person."
@@ -3444,7 +3446,7 @@ msgstr "Hmm ... voici quelque chose de quelqu'un appelé Mer."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1446 #-#-# translate crowdin quest_lindsey_motive_steal_locker2_4f9f0c72:
 msgid "I need to get to the bottom of this... or top, if we're talking about a text convo."
-msgstr ""
+msgstr "Il faut que j'aille au fond des choses... ou au sommet, s'il s'agit d'une conversation par texto."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1451 #-#-# translate crowdin quest_lindsey_motive_steal_locker2_out_of_loop_21713ae2:
 msgid "Well, there it is. I knew [lindsey] was innocent!{nw}"
@@ -3492,7 +3494,7 @@ msgstr "Parfait ! Ok, attrapons cette personne."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1481 #-#-# translate crowdin quest_lindsey_motive_steal_locker2_out_of_loop_4060ae02:
 msgid "That's enough snooping. I need to find out who Mer is."
-msgstr ""
+msgstr "Assez fouiné. Je dois découvrir qui est Mer."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1486 #-#-# translate crowdin quest_lindsey_motive_steal_locker3_79c35f6b:
 msgid "Hmm... no more mistakes were made here..."
@@ -3500,7 +3502,7 @@ msgstr "Hmm ... pas plus d'erreurs ont été faites ici ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1487 #-#-# translate crowdin quest_lindsey_motive_steal_locker3_d2f12db6:
 msgid "...unless you count me looking inside the locker again despite knowing fully well that it's empty."
-msgstr ""
+msgstr "... sauf si vous comptez que j'ai regardé à nouveau à l'intérieur du casier alors que je sais pertinemment qu'il est vide."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1489 #-#-# translate crowdin quest_lindsey_motive_steal_locker3_a5e4a9af:
 msgid "Oh, someone made a grave mistake here!"
@@ -3520,7 +3522,7 @@ msgstr "La journée de l'école est sur le point de se terminer ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1506 #-#-# translate crowdin quest_lindsey_motive_hide_advance_8fdfec29:
 msgid "I should probably get my ass over to the homeroom now."
-msgstr ""
+msgstr "Je devrais probablement me rendre à la salle de classe maintenant."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1510 #-#-# translate crowdin quest_lindsey_motive_hide_2b7c7bd0:
 msgid "All right, I don't know who Mer is, but I'm going to find out."
@@ -3672,7 +3674,7 @@ msgstr "[_mrsl_s_under_desk_closed_legs_] Avez-vous perdu vos dernières billes,
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1591 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_906d4e9f:
 msgid "[_mrsl_s_under_desk_closed_legs_] I'm the homeroom teacher. This is the homeroom."
-msgstr ""
+msgstr "[Je suis le professeur principal. C'est la salle de classe."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1592 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_1e3300fa:
 msgid "??? [special_delimiter] Watch your mouth, you fiend."
@@ -3708,7 +3710,7 @@ msgstr "[_mrsl_s_under_desk_closed_legs_] Oh, secrets ! Maintenant, c'est excita
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1600 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_356f3d93:
 msgid "[_mrsl_s_under_desk_closed_legs_] You're not breaking the rules, are you?"
-msgstr ""
+msgstr "[Vous n'enfreignez pas les règles, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1601 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_f3fdbc21:
 msgid "??? [special_delimiter] That is rich coming from you."
@@ -3748,7 +3750,7 @@ msgstr "Il n'y a aucun moyen qu'elle admette qu'il y a un étudiant sous son bur
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1616 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_3a660092:
 msgid "Right...?"
-msgstr ""
+msgstr "C'est vrai... ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1620 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_94f421be:
 msgid "[_mrsl_s_under_desk_tongue6_] ..."
@@ -3980,7 +3982,7 @@ msgstr "[_mrsl_]..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1758 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_ad5f73e0:
 msgid "[_mrsl_s_under_desk_closed_legs_] You cheating bitch!"
-msgstr ""
+msgstr "[Espèce de salope infidèle !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1759 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_79b9abe4:
 msgid "??? [special_delimiter] Absolutely untrue. The rules specifically say, no {i}direct{/} influence."
@@ -3996,7 +3998,7 @@ msgstr "[_mrsl_s_under_desk_closed_legs_] Oh, c'est comme ça que tu veux jouer 
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1762 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_1c3d8ca8:
 msgid "[_mrsl_s_under_desk_closed_legs_] Now get the fuck out of my classroom!"
-msgstr ""
+msgstr "[_mrsl_s_under_desk_closed_legs_] Maintenant, sortez de ma salle de classe !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1763 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_730eaf2a:
 msgid "??? [special_delimiter] Oh, stop pouting. It's going to ruin your lipstick."
@@ -4105,11 +4107,12 @@ msgstr "Quelle journée étrange ..."
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:34
 msgid "\"Was it about how you're yearning\n"
 "to go to a concert with me?\""
-msgstr ""
+msgstr "\"Est-ce que c'était à propos du fait que tu as envie\n"
+"d'aller à un concert avec moi ?\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:34
 msgid "\"Did it have something to do with jousting?\"{space=-25}"
-msgstr ""
+msgstr "\"Est-ce que ça a quelque chose à voir avec la joute ?\"{space=-25}"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:34
 msgid "\"I was actually thinking about you as well...\"{space=-15}"
@@ -4129,7 +4132,7 @@ msgstr "\" Je ne pense pas. [nude_model] s'est porté volontaire pour le modèle
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:405
 msgid "\"It chewed up the easel, but eventually escaped into the forest.\""
-msgstr ""
+msgstr "\"Il a mâché le chevalet, mais a fini par s'échapper dans la forêt."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:405
 msgid "?mc.charisma>=5@[mc.charisma]/5|{image=stats cha}|\"I drowned it in the aquarium.\""
@@ -4153,7 +4156,7 @@ msgstr "\"Attendez ici, alors que j'ai de l'aide.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:496
 msgid "\"Bark like a dog.\""
-msgstr ""
+msgstr "\"Aboie comme un chien.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:496
 msgid "\"Give me the money in your wallet.\""
@@ -4228,7 +4231,8 @@ msgstr "?mrsl.lust>=5@[mrsl.lust]/5|{image=mrsl contact_icon}|{image=stats lust_
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1185
 msgid "\"[lindsey] keeps tripping, and I think\n"
 "it's due to the heat.\""
-msgstr ""
+msgstr "\"[Lindsey] n'arrête pas de trébucher, et je pense\n"
+"que c'est dû à la chaleur.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1185
 msgid "\"I would like to examine the butterflies there for biology class.\""
