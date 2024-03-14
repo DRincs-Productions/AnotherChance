@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:07\n"
+"PO-Revision-Date: 2024-03-14 11:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:37 #-#-# translate crowdin school_homeroom_blackboard_interact_3970b336:
 msgid "{i}\"Seniors, sign up for your focus classes. Three in total. Sign-up lists available in each classroom.\"{/}"
-msgstr ""
+msgstr "{i}\"Seniors, inscrivez-vous à vos cours de concentration. Trois au total. Les listes d'inscription sont disponibles dans chaque classe.\"{/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:38 #-#-# translate crowdin school_homeroom_blackboard_interact_bbc32583:
 msgid "{i}\"Focus classes require 100 points to pass. Regular classes require 20 points to pass.\"{/}"
@@ -66,7 +66,7 @@ msgstr "{i}\"[mrsl], je vais valider tous les péchés de vos courbes. \" {/}"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write something nice"
-msgstr ""
+msgstr "Écrire quelque chose de gentil"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write something vulgar"
@@ -74,17 +74,17 @@ msgstr "Écrire quelque chose de vulgaire"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write something for [mrsl]"
-msgstr ""
+msgstr "Écrire quelque chose pour [mrsl]"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:42
 msgid "Write nothing"
-msgstr ""
+msgstr "Ne rien écrire"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:71
 msgid "Write something for [isabelle]"
-msgstr ""
+msgstr "Écrire quelque chose pour [isabelle]"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:71
 msgid "Write something for [flora]"
-msgstr ""
+msgstr "Écrire quelque chose pour [flore]"
 
