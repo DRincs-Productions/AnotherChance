@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:09\n"
+"PO-Revision-Date: 2024-03-14 11:08\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:4 #-#-# translate crowdin quest_kate_desire_start_e8823701:
 msgid "Whenever I see [kate] in the gym, my heart starts beating a little faster..."
@@ -30,7 +30,7 @@ msgstr "Pour vaincre mes peurs et mes démons."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:9 #-#-# translate crowdin quest_kate_desire_start_08e22c12:
 msgid "And mend the wounds she caused."
-msgstr ""
+msgstr "Et réparer les blessures qu'elle a causées."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:10 #-#-# translate crowdin quest_kate_desire_start_179e0d22:
 msgid "To conquer her."
@@ -66,7 +66,7 @@ msgstr "Alors peut-être que je pourrais enfin avancer et mettre les années de 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:24 #-#-# translate crowdin quest_kate_desire_challenge_kate_aba7d0f1:
 msgid "[_kate_s_neutral_] What's with the sullen face?"
-msgstr ""
+msgstr "[C'est quoi ce visage maussade ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:25 #-#-# translate crowdin quest_kate_desire_challenge_kate_3a0d889e:
 msgid "[_mc_] This is how I usually look..."
@@ -114,7 +114,7 @@ msgstr "Putain. Parler à [kate] me rend toujours si nerveuse."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:38 #-#-# translate crowdin quest_kate_desire_challenge_kate_a5852e29:
 msgid "Maybe she's right...?"
-msgstr ""
+msgstr "Elle a peut-être raison... ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:39 #-#-# translate crowdin quest_kate_desire_challenge_kate_bb792a63:
 msgid "[_mc_] Actually, I've come to challenge you."
@@ -134,7 +134,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:43 #-#-# translate crowdin quest_kate_desire_challenge_kate_0442fc09:
 msgid "[_kate_s_smile_] Wait, you're serious?!"
-msgstr ""
+msgstr "[Attendez, vous êtes sérieux ? !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:44 #-#-# translate crowdin quest_kate_desire_challenge_kate_c49db570_1:
 msgid "[_kate_s_laughing_] Hahaha!"
@@ -202,7 +202,7 @@ msgstr "[_isabelle_s_annoyed_] Pas tout à fait."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:70 #-#-# translate crowdin quest_kate_desire_isabelle_advice_b8541006:
 msgid "[_isabelle_s_annoyed_left_] I told the principal about [kate]'s behavior."
-msgstr ""
+msgstr "[J'ai parlé au directeur du comportement de [Kate]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:71 #-#-# translate crowdin quest_kate_desire_isabelle_advice_b820ddce:
 msgid "[_isabelle_s_annoyed_left_] I even showed her the wet socks."
@@ -282,7 +282,7 @@ msgstr "[_mc_] Qu'est-ce qui ne va pas ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:100 #-#-# translate crowdin quest_kate_desire_isabelle_advice_6650c724:
 msgid "[_isabelle_s_annoyed_left_] I somehow ended up with twelve assignments for [mrsl]'s class tomorrow."
-msgstr ""
+msgstr "[Je me suis retrouvée avec douze devoirs pour le cours de [mrsl] demain."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:101 #-#-# translate crowdin quest_kate_desire_isabelle_advice_ea334ea2:
 msgid "[_isabelle_s_annoyed_left_] If I hadn't checked my locker earlier, I would've missed it entirely."
@@ -426,7 +426,7 @@ msgstr "[_kate_s_confident_] Votre tête a l'air plus grande que d'habitude ... 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:150 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_22e0901d:
 msgid "[_kate_s_confident_] Luckily, my heels are sharp. I'll pop it like a zit if you bow down."
-msgstr ""
+msgstr "[Heureusement, mes talons sont aiguisés. Je l'éclaterai comme un bouton si vous vous inclinez."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:156 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -478,7 +478,7 @@ msgstr "[_kate_s_skeptical_] Soyez reconnaissants que j'ai même démis de l'exa
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:178 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_9d4be6c8:
 msgid "[_casey_s_confident_s_flip_] Katie with the vocab smackdown!"
-msgstr ""
+msgstr "[_casey_s_confident_s_flip_] Katie avec le smackdown de vocabulaire !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:179 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_dcfa0e1b:
 msgid "[_casey_s_confident_s_flip_] [mc], you're lucky the challenge isn't an English test, because she would wreck you."
@@ -514,7 +514,7 @@ msgstr "[_kate_s_blush_] Vous êtes le niveau parfait de pathétique pour le tra
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:197 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_27315d31:
 msgid "[_kate_s_blush_] I can picture you on your knees in my basement, wringing the water out by hand..."
-msgstr ""
+msgstr "[Je t'imagine à genoux dans ma cave, en train d'essorer l'eau à la main..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:198 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_bafe39d5:
 msgid "[_kate_s_blush_] You would like that, wouldn't you?"
@@ -522,7 +522,7 @@ msgstr "[_kate_s_blush_] Vous aimeriez cela, n'est-ce pas ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:199 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_aa0e0f12:
 msgid "She can probably see it in my face. This blush hides no secrets."
-msgstr ""
+msgstr "Elle peut probablement le voir sur mon visage. Ce fard à joues ne cache aucun secret."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:200 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_83fcb54b:
 msgid "There's something highly erotic about being walked all over by someone like [kate]."
@@ -562,7 +562,7 @@ msgstr "Ugh, la seule raison qui s'est produite était que le jus de fraise éta
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:218 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_ca8466dd:
 msgid "Can you really fault me for trying to stay hydrated?"
-msgstr ""
+msgstr "Pouvez-vous vraiment me reprocher d'essayer de m'hydrater ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:219 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_afd3b8d5:
 msgid "[_kate_s_laughing_] What's wrong? Did you lose your voice already?"
@@ -586,7 +586,7 @@ msgstr "Je pars pour un bon chevalier, prêt à vaincre le mal."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:227 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_755d892e:
 msgid "If that's nerdy, I don't want to be cool."
-msgstr ""
+msgstr "Si c'est ringard, je ne veux pas être cool."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:231 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_b3f46585:
 msgid "[_kate_s_excited_] So, [mc], how confident are you?"
@@ -610,7 +610,7 @@ msgstr "[_mc_] Non, mais vous sentez bon."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:246 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_a1807af8:
 msgid "[_stacy_s_confident_mocking_] Check out Mr. Charmer!"
-msgstr ""
+msgstr "[Regardez M. Charmer !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:248 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_c0c46017:
 msgid "[_kate_s_flirty_] Sorry, Mr. Charmer, but I'm unavailable."
@@ -642,7 +642,7 @@ msgstr "[_mc_] Laissons les enjeux."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:260 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_7f704006:
 msgid "[_kate_s_excited_] I guess the answer is, \"overconfident.\""
-msgstr ""
+msgstr "[Je pense que la réponse est : \"trop confiant\"."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:261 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_82b5471a:
 msgid "[_kate_s_excited_] What do you have in mind?"
@@ -662,7 +662,7 @@ msgstr "[_kate_s_flirty_] Je savais que vous étiez un pervers rager."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:268 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_7e1b9803:
 msgid "[_kate_s_flirty_] How are you going to hide your boner?"
-msgstr ""
+msgstr "[Comment vas-tu cacher ta trique ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:269 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_cdfd237f:
 msgid "[_mc_] Who says I want to hide it?"
@@ -674,7 +674,7 @@ msgstr "[_kate_s_laughing_] Très bien ... Je n'ai pas peur de montrer un peu de
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:278 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_dc69008c:
 msgid "Goddamn. She's so hot."
-msgstr ""
+msgstr "Putain de merde. Elle est si sexy."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:279 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_cdbdc3ac:
 msgid "If only I had the balls to make her mine..."
@@ -710,7 +710,7 @@ msgstr "[_kate_s_neutral_] Allez-y ? Nous savons tous les deux que vous ne le vo
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:309 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_085e1ab2:
 msgid "[_kate_s_neutral_] You want me to be merciless."
-msgstr ""
+msgstr "[Vous voulez que je sois sans pitié."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:311 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_681d5302:
 msgid "[_kate_s_confident_] And I will be. Don't you worry about that."
@@ -754,7 +754,7 @@ msgstr "[_stacy_s_confident_] Il y a cinq étoiles cachées dans l'école. Vous 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:322 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_d15f88e2:
 msgid "[_stacy_s_confident_] On the back of each star there's a clue to the next star."
-msgstr ""
+msgstr "[Au dos de chaque étoile, il y a un indice pour l'étoile suivante."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:323 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_8f02649c:
 msgid "[_casey_s_confident_s_flip_] The first person to return here with all five stars is the winner!"
@@ -774,7 +774,7 @@ msgstr "[_casey_s_confident_s_flip_] Une sorte de jeu de nerd. Mon cousin de cin
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:327 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_2dd755a0:
 msgid "[_lacey_s_confident_] This is a challenge of wits and stamina, not some stupid video game.{space=-20}"
-msgstr ""
+msgstr "[C'est un défi d'intelligence et d'endurance, pas un jeu vidéo stupide."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:328 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_d1414be1:
 msgid "[_kate_s_confident_] And the loser does a forfeit... winner's choice."
@@ -834,7 +834,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:342 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_aa1c49e4:
 msgid "[_kate_s_blush_s_flip_] Well, that's easy! Gotta run!"
-msgstr ""
+msgstr "[C'est facile ! Il faut courir !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:347 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_ad0788d4:
 msgid "Shit. Okay, better put my thinking cap on..."
@@ -850,7 +850,7 @@ msgstr "Il y a aussi l'étoile !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:361 #-#-# translate crowdin quest_kate_desire_aquarium_b684c30c:
 msgid "Seems like [kate] already picked up hers... Gotta get a move on."
-msgstr ""
+msgstr "On dirait que [kate] a déjà pris le sien... Il faut se dépêcher."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:362 #-#-# translate crowdin quest_kate_desire_aquarium_d1165962:
 msgid "The next clue should be on the backside."
@@ -926,7 +926,7 @@ msgstr "[_kate_s_neutral_] Je compte vous mettre au travail cette année. Travai
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:390 #-#-# translate crowdin quest_kate_desire_bus_interact_b8c7b6b2:
 msgid "[_kate_s_confident_] Crack that whip!"
-msgstr ""
+msgstr "[Faites claquer le fouet !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:391 #-#-# translate crowdin quest_kate_desire_bus_interact_4fdf1f8d:
 msgid "Ugh..."
@@ -1038,7 +1038,7 @@ msgstr "[_mc_] Parce que si je gagne, je vais-"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:440 #-#-# translate crowdin quest_kate_desire_bus_interact_4b29372a:
 msgid "[_kate_s_excited_] Win? You think you can actually win?"
-msgstr ""
+msgstr "[Gagner ? Tu penses que tu peux vraiment gagner ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:441 #-#-# translate crowdin quest_kate_desire_bus_interact_11a971b3:
 msgid "[_mc_] I've made the calculations. I have a 9.7%% chance of winning."
@@ -1074,7 +1074,7 @@ msgstr "[_mc_] Alors, allez-y, augmentez mes chances de gagner. Cela ne me déra
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:449 #-#-# translate crowdin quest_kate_desire_bus_interact_5c55d110:
 msgid "[_kate_s_cringe_] Whatever, weirdo."
-msgstr ""
+msgstr "[Peu importe, bizarre."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:452 #-#-# translate crowdin quest_kate_desire_bus_interact_00728560:
 msgid "And that's how you destroy a sassy cheerleader with facts and logic.{space=-20}"
@@ -1286,7 +1286,7 @@ msgstr "Et non seulement cela, ce sentiment de pouvoir est enivrants."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:563 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_6e6b00ab:
 msgid "Robbing [kate] of her freedom, for once. Putting her in bondage."
-msgstr ""
+msgstr "Enlever à [kate] sa liberté, pour une fois. La mettre en esclavage."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:564 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_eec947b6:
 msgid "Man, I'll be in so much trouble for this, but maybe it's worth it?"
@@ -1338,11 +1338,11 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:589 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_293c93ba:
 msgid "[_kate_s_excited_] That's right, you little sissy."
-msgstr ""
+msgstr "[C'est vrai, petite poule mouillée."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:590 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_a8ef8ebd:
 msgid "[_kate_s_excited_] You're not locking anyone up."
-msgstr ""
+msgstr "[Vous n'enfermez personne."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:591 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_f9f2083a:
 msgid "[_kate_s_skeptical_] The audacity to threaten me like that..."
@@ -1386,7 +1386,7 @@ msgstr "[_kate_s_Souriez_] Mais ne vous inquiéterez pas, je vous entrainerai bi
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:605 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_2dd2bafb:
 msgid "[_kate_s_confident_] Just do as you're told and everything will turn out fine."
-msgstr ""
+msgstr "[Faites ce qu'on vous dit et tout se passera bien."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:606 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_928677d1:
 msgid "[_kate_s_confident_] Admit defeat now, and we can move on to more interesting things."
@@ -1394,7 +1394,7 @@ msgstr "[_kate_s_confident_] Admit la défaite maintenant, et nous pouvons passe
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:607 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_4d2d9f3b:
 msgid "Crap. My knees get all wobbly and weak when [kate] starts bossing me around..."
-msgstr ""
+msgstr "C'est la merde. Mes genoux se dérobent et s'affaiblissent quand [Kate] commence à me donner des ordres..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:610 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -1430,7 +1430,7 @@ msgstr "[_kate_s_Souriez_] Vous ne pouvez probablement pas attendre pour baiser 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:621 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_d71a6166:
 msgid "There was no chance I'd win anyway... better just get this humiliation over with."
-msgstr ""
+msgstr "Il n'y avait aucune chance que je gagne de toute façon... Mieux vaut en finir avec cette humiliation."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:625 #-#-# translate crowdin quest_kate_desire_holdup_maxine_nude_f5d9b31f:
 msgid "[_mc_] Never!"
@@ -1486,7 +1486,7 @@ msgstr "Quelque chose de dur à l'intérieur de vous toute la vie ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:643 #-#-# translate crowdin quest_kate_desire_skeleton_interact_3e7ead72:
 msgid "I was thinking a boner at first... but of course it's bones."
-msgstr ""
+msgstr "J'ai d'abord pensé à une érection... mais bien sûr, il s'agit d'os."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:644 #-#-# translate crowdin quest_kate_desire_skeleton_interact_455f3f87:
 msgid "There's the star."
@@ -1554,7 +1554,7 @@ msgstr "[_mc_] Eh bien, le [nurse] m'a dit de retirer ma chemise pour qu'elle pu
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:679 #-#-# translate crowdin quest_kate_desire_mrsl_talk_95704ed5:
 msgid "[_mrsl_s_excited_] Well, then you better hurry up and find her!"
-msgstr ""
+msgstr "[_mrsl_s_excité_] Eh bien, vous feriez mieux de vous dépêcher et de la trouver !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:680 #-#-# translate crowdin quest_kate_desire_mrsl_talk_0cf71cc6:
 msgid "[_mc_] Will do!"
@@ -1574,7 +1574,7 @@ msgstr "[_mc_] Ce n'était qu'une excuse ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:686 #-#-# translate crowdin quest_kate_desire_mrsl_talk_81945376:
 msgid "[_mrsl_s_annoyed_] Don't get cheeky with me. I'll see you after school."
-msgstr ""
+msgstr "[Ne sois pas insolent avec moi. Je te verrai après l'école."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:688 #-#-# translate crowdin quest_kate_desire_mrsl_talk_ebec935a:
 msgid "Well, shit."
@@ -1638,7 +1638,7 @@ msgstr "Ok, donc la dernière étoile doit être là ... Dans la salle de bain p
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:711 #-#-# translate crowdin quest_kate_desire_stargold_bathroom_interact_d5f9a8bd:
 msgid "I should've known they'd rig it like this! That's why [kate] has been so relaxed!"
-msgstr ""
+msgstr "J'aurais dû savoir qu'ils allaient le truquer comme ça ! C'est pourquoi [Kate] a été si détendue !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:712 #-#-# translate crowdin quest_kate_desire_stargold_bathroom_interact_2f064b9a:
 msgid "Fuck!"
@@ -1718,7 +1718,7 @@ msgstr "[_mc_] Vous pouvez juger si vous voulez !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:744 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_434fb944:
 msgid "[_isabelle_s_skeptical_] Did you just flex...?"
-msgstr ""
+msgstr "[Est-ce que tu viens de fléchir... ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:745 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_eebb8fb3:
 msgid "[_mc_] Of course not! I have a resting Greek-god-posture."
@@ -1890,7 +1890,7 @@ msgstr "Allez, [kate], monologue maléfique, s'il vous plaît ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:806 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_e3e55c94:
 msgid "[_kate_s_neutral_] Are you trying to stall me?"
-msgstr ""
+msgstr "[Tu essaies de me faire patienter ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:807 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_d58b4e60:
 msgid "[_mc_] I don't know what you're talking about..."
@@ -1946,7 +1946,7 @@ msgstr "[_kate_s_eyeroll_] Et ce n'est absolument rien de votre entreprise."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:824 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_2ddfa23c:
 msgid "[_kate_s_skeptical_] Don't stick your drippy nose where it doesn't belong. Got it?"
-msgstr ""
+msgstr "[Ne mettez pas votre nez dégoulinant là où il n'a pas lieu d'être. C'est compris ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:825 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_967d014c:
 msgid "[_kate_s_excited_] Anyway, time to win myself a challenge."
@@ -1994,7 +1994,7 @@ msgstr "[_kate_s_excited_] Qui dit que je ne suis pas ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:841 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_47123451:
 msgid "Twice now, I've seen [kate] without a boyfriend. It is pretty weird that the most popular girl is single."
-msgstr ""
+msgstr "Cela fait deux fois que je vois [Kate] sans petit ami. C'est assez bizarre que la fille la plus populaire soit célibataire."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:842 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_5dae9d91:
 msgid "[_mc_] It's your choice, I'm just curious..."
@@ -2170,7 +2170,7 @@ msgstr "[_kate_s_skeptical_] Qu'est-ce que vous venez de dire ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:910 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_dbb485b7:
 msgid "[_isabelle_s_laughing_] He said you're deluded, mate."
-msgstr ""
+msgstr "[Il a dit que tu te berçais d'illusions, mon pote."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:911 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_210250d0:
 msgid "[_kate_s_annoyed_right_] Are you his spokesperson now?"
@@ -2194,11 +2194,11 @@ msgstr "[_kate_s_eyeroll_] Je sais que vous avez des affiches sur les murs de vo
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:916 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_42d28cde:
 msgid "How the hell did she know that?"
-msgstr ""
+msgstr "Comment diable a-t-elle su cela ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:918 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_a8269d53:
 msgid "[_kate_s_excited_] And look at how you dress in your sweatpants and hoodie!"
-msgstr ""
+msgstr "[Et regarde comment tu t'habilles avec ton pantalon de survêtement et ton sweat à capuche !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:920 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_6786c8dd:
 msgid "[_kate_s_excited_] And look at you running around in your crusty old boxers!"
@@ -2302,7 +2302,7 @@ msgstr "Ha ! Je savais que c'était juste un acte pour l'enlever de ma main !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:966 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_69b986a1:
 msgid "[_kate_s_angry_] You cheated, you little weasel!"
-msgstr ""
+msgstr "[Tu as triché, petite fouine !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:967 #-#-# translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_724153cb:
 msgid "[_mc_] No one cheated."
@@ -2358,7 +2358,7 @@ msgstr "[_kate_s_eyeroll_] Êtes-vous sérieux ? Acceptes juste ta défaite."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:993 #-#-# translate crowdin quest_kate_desire_conclusion_one_87982d1c:
 msgid "[_casey_s_neutral_s_flip_] Yeah, dude. Don't be a bad sport."
-msgstr ""
+msgstr "[Ouais, mec. Ne sois pas mauvais joueur."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:994 #-#-# translate crowdin quest_kate_desire_conclusion_one_003eb614:
 msgid "[_kate_s_eyeroll_] Sore losers are the worst."
@@ -2366,7 +2366,7 @@ msgstr "[_kate_s_eyeroll_] Les perdants sont les pires."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:995 #-#-# translate crowdin quest_kate_desire_conclusion_one_e11564f0:
 msgid "[_lacey_s_neutral_] Oh my god, right???"
-msgstr ""
+msgstr "[Oh mon dieu, c'est vrai ? ??"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:996 #-#-# translate crowdin quest_kate_desire_conclusion_one_cea29d21:
 msgid "[_kate_s_excited_] You're not going to bitch about it, are you?"
@@ -2550,7 +2550,7 @@ msgstr "[_lacey_s_neutral_] Qu'est-ce qu'il a dit ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1078 #-#-# translate crowdin quest_kate_desire_conclusion_one_e30d97e3:
 msgid "[_stacy_s_neutral_] [kate] would never do that!"
-msgstr ""
+msgstr "[Je ne ferais jamais ça !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1079 #-#-# translate crowdin quest_kate_desire_conclusion_one_f706a630:
 msgid "[_casey_s_neutral_s_flip_] I think the witness is lying."
@@ -2658,7 +2658,7 @@ msgstr "[_mc_] Vous n'auriez pas dû accepter le défi si vous êtes une mauviet
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1130 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_aca30d7c:
 msgid "[_kate_s_skeptical_] Fuck off, the only wimp here is you."
-msgstr ""
+msgstr "[Va te faire foutre, la seule mauviette ici, c'est toi."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1131 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_f7d39521:
 msgid "[_mc_] Then do it..."
@@ -2670,7 +2670,7 @@ msgstr "[_kate_s_excited_] Vous savez quoi ? Très bien."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1133 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_b9cf9cd0:
 msgid "[_kate_s_excited_] It gives a lot of extra points, which should cement my place as our valedictorian."
-msgstr ""
+msgstr "[Cela donne beaucoup de points supplémentaires, ce qui devrait consolider ma place en tant que major de promotion."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1136 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_108b240b:
 msgid "[_casey_s_confident_s_flip_] You've got nothing to be ashamed of, girl! You'll do great!"
@@ -2678,7 +2678,7 @@ msgstr "[_casey_s_confident_s_flip_] Vous n'avez rien à avoir honte, fille ! Vo
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1137 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_30842b5c:
 msgid "[_stacy_s_confident_] Yeah, if you've got it, flaunt it! And you've absolutely got it, babe!"
-msgstr ""
+msgstr "[Ouais, si tu l'as, affiche-le ! Et tu l'as absolument, bébé !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1138 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_d471ae45:
 msgid "[_lacey_s_confident_] Queen!"
@@ -2770,7 +2770,7 @@ msgstr "[_kate_s_skeptical_] Maintenant, pisse."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1179 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_5ff14c34:
 msgid "Man, it feels good to antagonize her!"
-msgstr ""
+msgstr "Ça fait du bien de la contrarier !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1180 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_cef5a3ad:
 msgid "All right, let's go see the [nurse]..."
@@ -2866,7 +2866,7 @@ msgstr "[_kate_s_excited_] Vous voulez une pipe, [mc] ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1223 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_9233a815:
 msgid "Why does this feel like a threat...?"
-msgstr ""
+msgstr "Pourquoi cela ressemble-t-il à une menace ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1225 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_66c11c70:
 msgid "Her demonic face from that horrible nightmare is forever seared into my memory..."
@@ -2954,7 +2954,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1268 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_ec35d960:
 msgid "[_mc_] [kate]...?"
-msgstr ""
+msgstr "[_mc_] [kate]... ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1269 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_e261fa1d:
 msgid "Ugh, she's gone..."
@@ -3010,7 +3010,7 @@ msgstr "[_mc_] Ce que ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1292 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_80c417f6:
 msgid "I knew [kate] had something planned, but I sure didn't expect this..."
-msgstr ""
+msgstr "Je savais que [Kate] avait prévu quelque chose, mais je ne m'attendais pas à ça..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1293 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_fea3edec:
 msgid "I can't believe the [nurse] is naked on her knees in front of me. This has to be a dream."
@@ -3130,7 +3130,7 @@ msgstr "[_nurse_s_blush_] T-merci. Je ne sais pas quoi dire d'autre ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1345 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_1490e2f0:
 msgid "[_nurse_s_blush_] If you ever need anything, let me know!"
-msgstr ""
+msgstr "[Si vous avez besoin de quoi que ce soit, faites-le moi savoir !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1346 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_ce32b2ca:
 msgid "[_mc_] Just doing my part."
@@ -3138,7 +3138,7 @@ msgstr "[_mc_] Je fais juste ma part."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1349 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_158846bd:
 msgid "That felt great! I'm basically Parry Hotter now, releasing Dobbster."
-msgstr ""
+msgstr "C'était génial ! Je suis en quelque sorte Parry Hotter maintenant, et je libère Dobbster."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1350 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_f5dbf8bf:
 msgid "Maybe I should give her my sock and see what happens?"
@@ -3342,7 +3342,7 @@ msgstr "Le [nurse] est-il droit, bi ou gay ? Est-elle même tournée par un suce
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1432 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_2442a48c:
 msgid "Perhaps it's [kate]'s dominance over her that is the turn-on?"
-msgstr ""
+msgstr "C'est peut-être la domination de [Kate] sur elle qui l'excite ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1434 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_95c3ef27:
 msgid "[_kate_] Come on, piggy! Get in there!"
@@ -3354,7 +3354,7 @@ msgstr "Son visage brosses contre ma bite et cela rend encore plus difficile."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1436 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_9961e481:
 msgid "Or perhaps I'm enjoying [kate]'s display of authority over her pet?"
-msgstr ""
+msgstr "Ou peut-être suis-je en train d'apprécier la démonstration d'autorité de [kate] sur son animal de compagnie ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1437 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_3182b72f:
 msgid "Because that's clearly what the [nurse] is — a piggy pet."
@@ -3434,15 +3434,15 @@ msgstr "Sa langue se défait, léchant soigneusement le fond de ma bite."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1490 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_a26965c3:
 msgid "She swirls it around the tip, puts it back in her mouth to have a taste.{space=-25}"
-msgstr ""
+msgstr "Elle le fait tourner autour de la pointe, le remet dans sa bouche pour le goûter.{space=-25}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1491 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_9a327f6b:
 msgid "Her face remains expressionless, so perhaps it wasn't so bad?"
-msgstr ""
+msgstr "Son visage reste inexpressif, alors peut-être n'était-ce pas si grave ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1505 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_8786b897:
 msgid "The tongue pops out again, takes another few licks along the shaft."
-msgstr ""
+msgstr "La langue sort à nouveau et lèche encore quelques fois la tige."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1506 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_d45a8d4a:
 msgid "[_kate_] Okay, that's enough teasing. Put it in your mouth now."
@@ -3466,7 +3466,7 @@ msgstr "[_kate_] Je n'ai pas toute la journée ! Sucre cette bite !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1514 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_63022344:
 msgid "Oh, f-fuck! [kate] just touched me down there..."
-msgstr ""
+msgstr "Oh, putain ! [kate] vient de me toucher en bas..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1515 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_c26a4729:
 msgid "That's hotter than any mouth..."
@@ -3478,11 +3478,11 @@ msgstr "Lentement, le [nurse] ouvre la bouche, laissant ma bite reposer sur sa l
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1518 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_f10d251e:
 msgid "Her hot breath bathes on my dick and almost makes me blow my load...{space=-70}"
-msgstr ""
+msgstr "Son souffle chaud baigne ma bite et me fait presque exploser...{space=-70}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1519 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_bced33c1:
 msgid "But years of edging in front of the computer has given me an unmatched control."
-msgstr ""
+msgstr "Mais des années de travail devant l'ordinateur m'ont permis d'acquérir une maîtrise inégalée."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1520 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_a7fc0be8:
 msgid "[kate] watches over her like a prison guard. Nothing happens without her saying so."
@@ -3510,7 +3510,7 @@ msgstr "Ce commentaire semble calmer le [nurse] un peu."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1565 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_f119bd25:
 msgid "She takes her time, sucking the tip. Seemingly lost in her own world.{space=-10}"
-msgstr ""
+msgstr "Elle prend son temps, suçant le bout. Elle semble perdue dans son propre monde.{space=-10}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1566 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_1eab214b:
 msgid "While on her knees, she seems to forget that this is completely unacceptable behavior."
@@ -3518,7 +3518,7 @@ msgstr "À genoux, elle semble oublier que c'est un comportement tout à fait in
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1567 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_ad25bb1c:
 msgid "She would be fired if [jo] found out she was giving blowjobs to students."
-msgstr ""
+msgstr "Elle serait licenciée si [jo] découvrait qu'elle faisait des fellations à des élèves."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1605 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_b4482052:
 msgid "But in her mind, it's just her and my dick..."
@@ -3538,7 +3538,7 @@ msgstr "Mais Dieu ... elle va trop lentement ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1609 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_bbb3e07f:
 msgid "I need her to bob her head faster, take my dick deeper..."
-msgstr ""
+msgstr "J'ai besoin qu'elle bouge la tête plus vite, qu'elle prenne ma queue plus profondément..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1612 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_4046bdd9:
 msgid "Maybe I can give her a hand..."
@@ -3566,7 +3566,7 @@ msgstr "Peut-être que c'était avide de moi d'assumer ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1620 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_eea82661:
 msgid "Suddenly, [kate] pulls the [nurse]'s head back by her hair."
-msgstr ""
+msgstr "Soudain, [kate] tire la tête de [l'infirmière] par les cheveux."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1622 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_cc4516bb:
 msgid "[_kate_] Is this really the best you can do, little piggy?"
@@ -3602,7 +3602,7 @@ msgstr "Ma bite glisse sur sa langue, touche le dos de sa bouche, puis pousse pr
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1632 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_a62ad917:
 msgid "Despite all this, she doesn't gag, and her lips stay wrapped around the base of my shaft."
-msgstr ""
+msgstr "Malgré tout, elle ne s'étouffe pas et ses lèvres restent enroulées autour de la base de ma tige."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1633 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_1d55c83e:
 msgid "[_kate_] See? This is how you suck dick, piggy!"
@@ -3614,7 +3614,7 @@ msgstr "[_kate_] C'est ce que veulent les gars !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1635 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_977e1550:
 msgid "[kate] holds her down, and I can feel the [nurse]'s panic starting to grow.{space=-50}"
-msgstr ""
+msgstr "[Kate] la maintient au sol, et je peux sentir la panique de l'[infirmière] commencer à grandir.{space=-50}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1637 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_c6497f3b:
 msgid "Her throat contracts. She finally gags on my dick, and cough up hot air from her lungs."
@@ -3694,11 +3694,11 @@ msgstr "[_nurse_s_blowjob_cum_in_mouth_] !!! [withvpunch]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1802 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_905cddcc:
 msgid "Rope upon thick rope of cum shoots down her throat."
-msgstr ""
+msgstr "Des cordes et des cordes épaisses de sperme jaillissent dans sa gorge."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1803 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_2e4ae26b:
 msgid "A tear rolls down the [nurse]'s face as I fill her stomach with spunk."
-msgstr ""
+msgstr "Une larme coule sur le visage de l'[infirmière] alors que je lui remplis l'estomac de sperme."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1804 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_06d964df:
 msgid "[kate] keeps her head firmly in place until every last drop of semen leaves my dick."
@@ -3738,7 +3738,7 @@ msgstr "Merde, cette pipe m'a complètement assommé ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1822 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_ce67b357:
 msgid "Maybe I should've challenged [kate] years ago... but I probably just got lucky this time..."
-msgstr ""
+msgstr "J'aurais peut-être dû défier [kate] il y a des années... mais j'ai probablement eu de la chance cette fois-ci..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1823 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_3b410943:
 msgid "And even though it wasn't [kate]'s lips wrapped around my dick, I can't really complain..."
@@ -3774,7 +3774,7 @@ msgstr "Elle semble confuse et soulagée en même temps ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1854 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_d6752afd:
 msgid "She probably thought I'd pick something selfish. Something humiliating.{space=-75}"
-msgstr ""
+msgstr "Elle a probablement pensé que je choisirais quelque chose d'égoïste. Quelque chose d'humiliant."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1855 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_7090e16a:
 msgid "But life is more than just high school and getting your rocks off."
@@ -3922,7 +3922,7 @@ msgstr "[_kate_s_laughing_] De la philanthropie à l'extorsion comme ça ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1913 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_ad21fac0:
 msgid "[_kate_s_smile_] I knew you were just trying to impress the girls with the donation bullshit.{space=-110}"
-msgstr ""
+msgstr "[Je savais que tu essayais juste d'impressionner les filles avec ces conneries de dons."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1914 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_37b188de:
 msgid "[_mc_] No, I'm very serious about that. But I also want something for myself.{space=-30}"
@@ -3974,7 +3974,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1929 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_41887256:
 msgid "All right, time to pay the [nurse] a visit..."
-msgstr ""
+msgstr "Bon, il est temps de rendre visite à l'[infirmière]..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1938 #-#-# translate crowdin quest_kate_desire_winner_no_blowjob_3eb54541:
 msgid "Quite the scalp to take so early in the year."
@@ -4006,15 +4006,15 @@ msgstr "[_mc_] Je n'ai pas triché... Arrête de jouer les mauvais perdants, [_m
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1955 #-#-# translate crowdin quest_kate_desire_conclusion_two_34c582cb:
 msgid "[_stacy_s_neutral_] Hush, [mc]."
-msgstr ""
+msgstr "[_stacy_s_neutral_] Hush, [mc]."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1956 #-#-# translate crowdin quest_kate_desire_conclusion_two_55be9b90:
 msgid "[_stacy_s_neutral_] How did he cheat?"
-msgstr ""
+msgstr "[Comment a-t-il triché ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1957 #-#-# translate crowdin quest_kate_desire_conclusion_two_a39498f0:
 msgid "[_kate_s_sad_] He got that bitchy exchange student to help him."
-msgstr ""
+msgstr "[Il a demandé à cette salope d'étudiante en échange de l'aider."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1958 #-#-# translate crowdin quest_kate_desire_conclusion_two_00c7a51d:
 msgid "[_lacey_s_neutral_] Cheater!"
@@ -4066,7 +4066,7 @@ msgstr "Est-elle sérieuse ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1991 #-#-# translate crowdin quest_kate_desire_spanking_8afca8df:
 msgid "[_kate_s_neutral_paddle_] Get down!"
-msgstr ""
+msgstr "[Descendez !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1992 #-#-# translate crowdin quest_kate_desire_spanking_374ac364:
 msgid "[_casey_s_neutral_paddle_s_flip_] Assume the position!"
@@ -4118,7 +4118,7 @@ msgstr "Dieu, c'est tellement humiliant ... Je suis complètement à leur merci.
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2012 #-#-# translate crowdin quest_kate_desire_spanking_7e5f9dda:
 msgid "[_kate_s_spanking_bend_over_] So, girls, how many swats does he deserve?"
-msgstr ""
+msgstr "[Alors, les filles, combien de fessées mérite-t-il ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2013 #-#-# translate crowdin quest_kate_desire_spanking_959d79eb:
 msgid "[_lacey_] Like, ten at least!"
@@ -4142,7 +4142,7 @@ msgstr "[_kate_s_spanking_bend_over_] La réponse est ... tous."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2018 #-#-# translate crowdin quest_kate_desire_spanking_62dc131a:
 msgid "Shit. Fuck. Cock."
-msgstr ""
+msgstr "Merde. Putain. Bite."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2019 #-#-# translate crowdin quest_kate_desire_spanking_b806633b:
 msgid "[_kate_] Don't you agree, [mc]?"
@@ -4302,7 +4302,7 @@ msgstr "Chaque coup de pagaies envoie des ondes de choc à travers mon cœur ...
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2104 #-#-# translate crowdin quest_kate_desire_spanking_fe2f39b0:
 msgid "Instant pain. Lingering heat. An odd pleasure."
-msgstr ""
+msgstr "Douleur instantanée. Chaleur persistante. Un plaisir étrange."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2173 #-#-# translate crowdin quest_kate_desire_spanking_de01cc08:
 msgid "Stacy sits on my back, holding me down, while [kate] brings the pain.{space=-5}"
@@ -4518,7 +4518,7 @@ msgstr "Putain, ça fait mal !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2389 #-#-# translate crowdin quest_kate_desire_spanking_3ac7623f:
 msgid "Each of them has their own style of spanking..."
-msgstr ""
+msgstr "Chacune d'entre elles a son propre style de fessée..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2390 #-#-# translate crowdin quest_kate_desire_spanking_a6bbce44:
 msgid "[kate] is brutal and merciless."
@@ -4538,7 +4538,7 @@ msgstr "[_mc_] Oww !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2421 #-#-# translate crowdin quest_kate_desire_spanking_b2663893:
 msgid "—harsh and uncaring..."
-msgstr ""
+msgstr "-Dure et indifférente..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2422 #-#-# translate crowdin quest_kate_desire_spanking_25cc96d3:
 msgid "[_casey_] Quiet, bitch boy."
@@ -4634,11 +4634,11 @@ msgstr "[_lacey_] J'ai hâte à ce ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2520 #-#-# translate crowdin quest_kate_desire_spanking_87a2bb89:
 msgid "She strokes my ass gently with the paddle. Teasing me."
-msgstr ""
+msgstr "Elle me caresse doucement les fesses avec la pagaie. Elle me taquine."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2521 #-#-# translate crowdin quest_kate_desire_spanking_c89a4534:
 msgid "There's malice in her touch."
-msgstr ""
+msgstr "Il y a de la malice dans son toucher."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2522 #-#-# translate crowdin quest_kate_desire_spanking_cff23767:
 msgid "She lowers her voice to a whisper."
@@ -4654,7 +4654,7 @@ msgstr "[_mc_] Putain!"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2587 #-#-# translate crowdin quest_kate_desire_spanking_be01928d:
 msgid "The searing pain rips through my asscheeks."
-msgstr ""
+msgstr "La douleur fulgurante me déchire les fesses."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2588 #-#-# translate crowdin quest_kate_desire_spanking_bbe31700:
 msgid "Red hot like burning coals."
@@ -4662,11 +4662,11 @@ msgstr "Rouge brûlant comme des charbons brûlant."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2589 #-#-# translate crowdin quest_kate_desire_spanking_512e8966:
 msgid "A sob escapes my throat, and suddenly the gym is silent."
-msgstr ""
+msgstr "Un sanglot s'échappe de ma gorge et le gymnase devient soudain silencieux."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2593 #-#-# translate crowdin quest_kate_desire_spanking_c4cc1eee:
 msgid "Then, [lacey] giggles."
-msgstr ""
+msgstr "Puis, [lacey] s'esclaffe."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2594 #-#-# translate crowdin quest_kate_desire_spanking_104bcd5d:
 msgid "[_lacey_] He's crying! I made him cry!"
@@ -4690,7 +4690,7 @@ msgstr "[_casey_] Supplie comme un chien !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2599 #-#-# translate crowdin quest_kate_desire_spanking_a5ece5bd:
 msgid "I try to speak, but another sob comes out instead."
-msgstr ""
+msgstr "J'essaie de parler, mais un autre sanglot sort à la place."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2600 #-#-# translate crowdin quest_kate_desire_spanking_377a8fe7:
 msgid "[_lacey_] Good enough!"
@@ -4698,7 +4698,7 @@ msgstr "[_lacey_] Bon assez !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2654 #-#-# translate crowdin quest_kate_desire_spanking_18848dc5:
 msgid "She alternates between hard swats and playful teasing."
-msgstr ""
+msgstr "Elle alterne les coups durs et les taquineries ludiques."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2655 #-#-# translate crowdin quest_kate_desire_spanking_63520782:
 msgid "Hot tears stream down my face, but she's not done..."
@@ -4750,11 +4750,11 @@ msgstr "[_kate_s_spanking_tomato_lacey2_] En fait, je m'en fiche."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2789 #-#-# translate crowdin quest_kate_desire_spanking_0179ace7:
 msgid "[_kate_s_spanking_tomato_lacey2_] What matters is you know your place."
-msgstr ""
+msgstr "[Ce qui compte, c'est que vous sachiez où est votre place."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2790 #-#-# translate crowdin quest_kate_desire_spanking_a3ffc528:
 msgid "[kate]'s voice suddenly takes a darker tone."
-msgstr ""
+msgstr "La voix de [Kate] prend soudain un ton plus sombre."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2791 #-#-# translate crowdin quest_kate_desire_spanking_be180b4a:
 msgid "[_kate_s_spanking_tomato_lacey2_] Now, beg me to finish you off."
@@ -4762,7 +4762,7 @@ msgstr "[_kate_s_spanking_tomato_lacey2_] Maintenant, menez-moi pour vous termin
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2792 #-#-# translate crowdin quest_kate_desire_spanking_977076ec:
 msgid "[_kate_s_spanking_tomato_lacey2_] Show me you're a true bitch — beg me to bust your balls."
-msgstr ""
+msgstr "[Montre-moi que tu es une vraie salope - supplie-moi de te casser les couilles."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2796 #-#-# translate crowdin quest_kate_desire_spanking_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
@@ -4770,7 +4770,7 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2798 #-#-# translate crowdin quest_kate_desire_spanking_52fac1a5:
 msgid "[_mc_] P-please..."
-msgstr ""
+msgstr "[S'il vous plaît..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2799 #-#-# translate crowdin quest_kate_desire_spanking_8ffd9a94:
 msgid "[_kate_s_spanking_tomato_lacey2_] That's not really it, but I'll take it."
@@ -4798,7 +4798,7 @@ msgstr "Mes couilles ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2822 #-#-# translate crowdin quest_kate_desire_spanking_2fbff0c2:
 msgid "I think I might throw up..."
-msgstr ""
+msgstr "Je crois que je vais vomir..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2823 #-#-# translate crowdin quest_kate_desire_spanking_a20cefa7_1:
 msgid "..."
@@ -4898,7 +4898,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2876 #-#-# translate crowdin quest_kate_desire_spanking_3626e44b:
 msgid "Maybe I should pull up my pants... Save what little dignity I have left.{space=-10}"
-msgstr ""
+msgstr "Je devrais peut-être remonter mon pantalon... Sauver le peu de dignité qu'il me reste.{space=-10}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2886 #-#-# translate crowdin quest_kate_desire_nurse_interact_aa85a011:
 msgid "[_nurse_s_smile_] Hello, [mc]! How are you feeling today?"
@@ -4998,7 +4998,7 @@ msgstr "[_nurse_s_thinking_] Oh, c'est mon boulot !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2915 #-#-# translate crowdin quest_kate_desire_nurse_interact_df652470:
 msgid "[_nurse_s_thinking_] Speaking of which, I better get back..."
-msgstr ""
+msgstr "[En parlant de ça, je ferais mieux de rentrer..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2916 #-#-# translate crowdin quest_kate_desire_nurse_interact_cf65e3b7:
 msgid "[_nurse_s_blush_] Thanks again, [mc]."
@@ -5094,7 +5094,7 @@ msgstr "[_mc_] Oh, j'ai tellement d'idées pour les jeux que nous pourrions joue
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2944 #-#-# translate crowdin quest_kate_desire_nurse_interact_d07dc42d:
 msgid "[_nurse_s_thinking_] Games...?"
-msgstr ""
+msgstr "[Jeux... ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2945 #-#-# translate crowdin quest_kate_desire_nurse_interact_1893224e:
 msgid "[_mc_] Yeah, I don't just plan on taking your clothes."
@@ -5166,7 +5166,7 @@ msgstr "J'ai battu [kate] et j'ai eu un nouveau jouet le même jour."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2967 #-#-# translate crowdin quest_kate_desire_nurse_interact_753ba723:
 msgid "Great work me!"
-msgstr ""
+msgstr "Bon travail !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2978 #-#-# translate crowdin quest_kate_desire_loser_end_e57059d5:
 msgid "[_stacy_s_neutral_] Back already? Are you done with the challenge?"
@@ -5210,7 +5210,7 @@ msgstr "[_stacy_s_confident_] La mentalité loser."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2990 #-#-# translate crowdin quest_kate_desire_loser_end_1a65cabf:
 msgid "[_casey_s_confident_s_flip_] Truly!"
-msgstr ""
+msgstr "[Vraiment !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2991 #-#-# translate crowdin quest_kate_desire_loser_end_9ed5c688:
 msgid "[_kate_s_neutral_] All right, get on your knees while I decide your fate, [mc]."
@@ -5270,7 +5270,7 @@ msgstr "Ils ont vraiment fait un certain nombre sur moi ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3024 #-#-# translate crowdin quest_kate_desire_nude_encounter_3d608f56:
 msgid "Hopefully, a cold glass of strawberry juice will ease—"
-msgstr ""
+msgstr "Avec un peu de chance, un verre de jus de fraise froid soulagera..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3030 #-#-# translate crowdin quest_kate_desire_nude_encounter_1e7d8068:
 msgid "[_kate_s_confident_] How is your ass feeling?"
@@ -5282,7 +5282,7 @@ msgstr "[_mc_]..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3032 #-#-# translate crowdin quest_kate_desire_nude_encounter_26ccf1d6:
 msgid "[_kate_s_confident_] Pretty sore, I imagine."
-msgstr ""
+msgstr "[J'imagine que c'est assez douloureux."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3033 #-#-# translate crowdin quest_kate_desire_nude_encounter_716ef11b:
 msgid "[_kate_s_confident_] How about your balls?"
@@ -5306,7 +5306,7 @@ msgstr "[_mc_] Avez-vous pris au sérieux le pessimisme ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3038 #-#-# translate crowdin quest_kate_desire_nude_encounter_71810593:
 msgid "[_kate_s_neutral_] Gloat? I would never."
-msgstr ""
+msgstr "[Se réjouir ? Je ne le ferais jamais."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3039 #-#-# translate crowdin quest_kate_desire_nude_encounter_4fe0483a:
 msgid "[_kate_s_confident_] In fact, I'm here to collect my winnings of our little side wager."
@@ -5438,7 +5438,7 @@ msgstr "Mon Dieu, je suis si stupide. Pourquoi ai-je pensé que je pouvais battr
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3087 #-#-# translate crowdin quest_kate_desire_nude_encounter_49af7922:
 msgid "Hopefully, [maxine] doesn't find out that it was me who sold her out..."
-msgstr ""
+msgstr "Espérons que [maxine] ne découvre pas que c'est moi qui l'ai vendue..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3088 #-#-# translate crowdin quest_kate_desire_nude_encounter_b8fde312:
 msgid "Oh, who am I kidding? She probably knew it before I did."
@@ -5490,7 +5490,7 @@ msgstr "Hmm ... Attends une seconde ..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3105 #-#-# translate crowdin quest_kate_desire_nude_encounter_dc953942:
 msgid "The backside has a scribbled message that reads: \"dark chamber.\""
-msgstr ""
+msgstr "Le verso porte un message griffonné qui se lit comme suit : \"chambre noire\"."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3106 #-#-# translate crowdin quest_kate_desire_nude_encounter_9bb57538:
 msgid "Knowing her, it must have some sort of hidden meaning."
@@ -5510,7 +5510,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3117 #-#-# translate crowdin quest_kate_desire_nude_computer_f9976d47:
 msgid "Oh, it wasn't as cryptic as I thought — it's the latin word for camera!{space=-10}"
-msgstr ""
+msgstr "Oh, ce n'était pas aussi énigmatique que je le pensais - c'est le mot latin pour caméra!{space=-10}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3118 #-#-# translate crowdin quest_kate_desire_nude_computer_a20cefa7_1:
 msgid "..."
@@ -5558,7 +5558,7 @@ msgstr "Phew ! C'est un problème de moins pour moi."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3136 #-#-# translate crowdin quest_kate_desire_nude_delivery_49af7922:
 msgid "Hopefully, [maxine] doesn't find out that it was me who sold her out..."
-msgstr ""
+msgstr "Espérons que [maxine] ne découvre pas que c'est moi qui l'ai vendue..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:3137 #-#-# translate crowdin quest_kate_desire_nude_delivery_b8fde312:
 msgid "Oh, who am I kidding? She probably knew it before I did."
@@ -5566,7 +5566,7 @@ msgstr "Oh, qui suis-je en blague ? Elle le savait probablement avant moi."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:78
 msgid "\"Sorry, but the truth is that successful and attractive people get away with things others don't.\""
-msgstr ""
+msgstr "\"Désolé, mais la vérité est que les personnes qui réussissent et qui sont attirantes s'en sortent avec des choses que les autres n'ont pas.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:78
 msgid "\"I know it's not, but [kate] does have the entire school behind her. You only have me.\"{space=-25}"
@@ -5630,7 +5630,7 @@ msgstr "\"Qui dit que je vais faire n'importe quoi ?\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:484
 msgid "\"I want you to release her.\""
-msgstr ""
+msgstr "\"Je veux que vous la relâchiez.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:484
 msgid "\"I want the dirt you have on her.\""
@@ -5716,7 +5716,7 @@ msgstr "?mc.intellect>=8 and mc.check_phone_contact('isabelle')@[mc.intellect]/8
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1110
 msgid "\"I want you to volunteer for the art class.\""
-msgstr ""
+msgstr "\"Je veux que tu te portes volontaire pour le cours d'art.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1110
 msgid "\"I want a blowjob.\""
@@ -5724,7 +5724,7 @@ msgstr "\"Je veux une pipe.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1110
 msgid "\"I want you to donate to a charity.\""
-msgstr ""
+msgstr "\"Je veux que vous fassiez un don à une association caritative\"."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1231
 msgid "\"Yes, I do!\""
@@ -5764,11 +5764,11 @@ msgstr "\"Baiser ma bite.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1440
 msgid "\"Lick my dick.\""
-msgstr ""
+msgstr "\"Lèche ma bite.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1440
 msgid "\"Stop wasting time and put it in your mouth, bitch!\""
-msgstr ""
+msgstr "\"Arrête de perdre ton temps et mets-le dans ta bouche, salope !\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2187
 msgid "\"Please, ma'am, can I have some more?\""
