@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:04\n"
+"PO-Revision-Date: 2024-03-14 11:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:49 #-#-# translate crowdin home_bathroom_sink_use_socks_fe062c18:
 msgid "I wonder what [kate] will think when I return her socks perfectly clean...{space=-45}"
@@ -46,15 +46,15 @@ msgstr "Mieux suivre les instructions cette fois ..."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:80 #-#-# translate crowdin home_bathroom_sink_use_mrsl_HOT_49fedf9a:
 msgid "Washy."
-msgstr ""
+msgstr "Washy."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:81 #-#-# translate crowdin home_bathroom_sink_use_mrsl_HOT_2dccf5ae:
 msgid "Washy, washy."
-msgstr ""
+msgstr "Laitue, laitue, laitue."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:82 #-#-# translate crowdin home_bathroom_sink_use_mrsl_HOT_b73fa2ae:
 msgid "Washy, washy, washy. There. Probably done."
-msgstr ""
+msgstr "Lave, lave, lave. Voilà. Probablement terminé."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:85 #-#-# translate crowdin home_bathroom_sink_use_mrsl_HOT_5973d048_1:
 msgid "Great, I ruined it. The apocalypse draws nigh."
@@ -66,11 +66,11 @@ msgstr "Il vaut mieux suivre les instructions cette fois."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:89 #-#-# translate crowdin home_bathroom_sink_use_mrsl_HOT_d5a60174:
 msgid "My [item.title_lower] is already pretty clean. I don't think it needs a scrubbing."
-msgstr ""
+msgstr "Mon [item.title_lower] est déjà assez propre. Je ne pense pas qu'il ait besoin d'être nettoyé."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:90 #-#-# translate crowdin home_bathroom_sink_use_mrsl_HOT_8e5e8200:
 msgid "Errr... or at least this is as clean as it will ever get."
-msgstr ""
+msgstr "Errr... ou du moins, c'est aussi propre qu'il le sera jamais."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:101 #-#-# translate crowdin home_bathroom_sink_interact_mrsl_HOT_laundry_cd89f2da:
 msgid "Nice and hot. Need to add laundry detergent now."
@@ -98,7 +98,7 @@ msgstr "Est-ce que c'est masochiste de chercher cette douleur chaque matin, ou j
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:114 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_8dd7c977:
 msgid "Either way, it's better than looking at the dried boogers on the porcelain."
-msgstr ""
+msgstr "Quoi qu'il en soit, c'est mieux que de regarder les crottes de nez séchées sur la porcelaine."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:115 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_a20cefa7:
 msgid "..."
@@ -114,11 +114,11 @@ msgstr "Tiens sur ..."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:118 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_21e05b88:
 msgid "The face of a true loser stares back from the mirror. Pale with a moonscape of zits and acne."
-msgstr ""
+msgstr "Le visage d'un vrai perdant se reflète dans le miroir. Pâle, avec un paysage lunaire de boutons et d'acné."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:119 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_5fb6f838:
 msgid "Vulture neck, dark eye-rings, weak jawline..."
-msgstr ""
+msgstr "Cou de vautour, cernes sombres, mâchoire faible..."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:120 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_53452575:
 msgid "But something doesn't seem quite right."
@@ -142,19 +142,19 @@ msgstr "La cicatrice au-dessus de mon œil de tomber sur la scène à l'obtentio
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:125 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_d9da181d:
 msgid "What the hell...?"
-msgstr ""
+msgstr "Qu'est-ce que... ?"
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:126 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_4a588dc0:
 msgid "The nerd in the mirror is definitely younger — high school age, perhaps."
-msgstr ""
+msgstr "L'intello dans le miroir est certainement plus jeune - l'âge du lycée, peut-être."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:127 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_0465cd8c:
 msgid "It's like the late nights in front of the computer haven't caught up with him yet."
-msgstr ""
+msgstr "C'est comme si les nuits passées devant l'ordinateur ne l'avaient pas encore rattrapé."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:128 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_3a7eed56:
 msgid "Like the fast food and soft drinks haven't left their mark on his body."
-msgstr ""
+msgstr "Comme si les fast-foods et les sodas n'avaient pas laissé de traces sur son corps."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:129 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_095a0983:
 msgid "He's still me — the nervous eyes, the bad posture, the lack of confidence — but, somehow, a less broken version."
@@ -234,7 +234,7 @@ msgstr "[_jo_] Ne me testez pas, jeune homme ! Vous serez ici dans cinq minutes,
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:154 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_d62ef693:
 msgid "She sounds serious. Better not antagonize her any further."
-msgstr ""
+msgstr "Elle a l'air sérieuse. Mieux vaut ne pas la contrarier davantage."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:160 #-#-# translate crowdin home_bathroom_sink_interact_dress_to_the_nine_c41b0f95:
 msgid "Oh shit! Splashed water all over my boxers. "
@@ -250,7 +250,7 @@ msgstr "Quelle honte."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:166 #-#-# translate crowdin home_bathroom_sink_interact_flora_jacklyn_introduction_c25f4023:
 msgid "What do you call it when you're sent back through the years and given another chance at life, but spend it washing your hands?"
-msgstr ""
+msgstr "Comment appelle-t-on cela le fait d'être renvoyé à travers les années et de se voir offrir une nouvelle chance de vivre, mais de passer son temps à se laver les mains ?"
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:167 #-#-# translate crowdin home_bathroom_sink_interact_flora_jacklyn_introduction_f1c99632:
 msgid "A time sink."
@@ -258,7 +258,7 @@ msgstr "Un évier de temps."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:171 #-#-# translate crowdin home_bathroom_sink_interact_flora_cooking_chilli_f9dff10f:
 msgid "God, I wish I never stroke. Now I gotta wash my hand out with soap."
-msgstr ""
+msgstr "Mon Dieu, j'aimerais n'avoir jamais fait d'accident vasculaire cérébral. Maintenant, je dois me laver la main avec du savon."
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:175 #-#-# translate crowdin home_bathroom_sink_interact_f3387f13:
 msgid "For years, my goal has been to wash off the filth, but I'm starting to think it's part of my personality."
