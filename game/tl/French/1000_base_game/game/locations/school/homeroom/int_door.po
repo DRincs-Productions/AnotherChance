@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:07\n"
+"PO-Revision-Date: 2024-03-14 11:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:48 #-#-# translate crowdin school_homeroom_door_isabelle_pass_d9a725f6:
 msgid "[_isabelle_s_blush_] Hi! Sorry to bother you."
@@ -78,7 +78,7 @@ msgstr "[_isabelle_s_Souriez_] Fine. Diriger la voie, alors."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:80 #-#-# translate crowdin isabelle_show_more_than_school_58766fcc:
 msgid "She did seem to like that, but maybe she's just polite."
-msgstr ""
+msgstr "Elle a eu l'air d'aimer ça, mais peut-être qu'elle est juste polie."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:81 #-#-# translate crowdin isabelle_show_more_than_school_51d2e65c:
 msgid "Damn it! Girls are so hard to read."
@@ -154,7 +154,7 @@ msgstr "[_mrsl_s_thinking_] Ok, alors ..."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:115 #-#-# translate crowdin isabelle_show_more_than_school_d11f0cbb:
 msgid "[_mrsl_s_excited_] [mc] is still here. He'll take you."
-msgstr ""
+msgstr "[mrsl_s_excited_] [mc] est toujours là. Il vous emmènera."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:116 #-#-# translate crowdin isabelle_show_more_than_school_e4f5117d:
 msgid "[_isabelle_s_annoyed_] I already asked him, and he said no."
@@ -162,7 +162,7 @@ msgstr "[_isabelle_s_annoyed_] Je lui ai déjà demandé, et il a dit non."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:117 #-#-# translate crowdin isabelle_show_more_than_school_4bafe573:
 msgid "[_mrsl_s_confident_] Nonsense! He'll take you, and that's final."
-msgstr ""
+msgstr "[C'est absurde ! Il vous prendra, et c'est tout."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:120 #-#-# translate crowdin isabelle_show_more_than_school_58f9d51e:
 msgid "[_mc_] Fine, I guess."
@@ -194,7 +194,7 @@ msgstr "[_isabelle_s_excited_] Très bien !"
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:140 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_26668033:
 msgid "It's strange talking to someone who doesn't look like they want to spit me in the face."
-msgstr ""
+msgstr "C'est étrange de parler à quelqu'un qui n'a pas l'air de vouloir me cracher au visage."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:141 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_2aab08fb:
 msgid "Just got to keep my head cool and the spaghetti in my pockets now."
@@ -250,7 +250,7 @@ msgstr "[_mc_] Je suis désolé."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:171 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_dd85e4e4:
 msgid "[_mrsl_s_smile_] Glad we got that resolved."
-msgstr ""
+msgstr "[_mrsl_s_smile_] Heureux que nous ayons résolu ce problème."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:177 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_f793f4fd:
 msgid "[_mc_] Err, this is all a misunderstanding."
@@ -274,7 +274,7 @@ msgstr "[_mc_] Je suis désolé. Je vais vous montrer."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:182 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_dd85e4e4_1:
 msgid "[_mrsl_s_smile_] Glad we got that resolved."
-msgstr ""
+msgstr "[_mrsl_s_smile_] Heureux que nous ayons résolu ce problème."
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:185 #-#-# translate crowdin school_homeroom_door_isabelle_volunteer_325e5d2c:
 msgid "[_isabelle_s_annoyed_] Fine. Let's just go."
@@ -302,7 +302,7 @@ msgstr "\" Tu m'as vu faire du bénévolat ? Non. \""
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:70
 msgid "\"My dic...tionary. I heard English girls like big words.\""
-msgstr ""
+msgstr "\"Mon dic...tionnaire. J'ai entendu dire que les Anglaises aimaient les grands mots.\""
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:70
 msgid "\"Err, I just know the grounds really well. Follow me!\""
