@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-13 16:05\n"
+"PO-Revision-Date: 2024-03-14 11:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:28 #-#-# translate crowdin school_bathroom_locker1_take_405b7ad3:
 msgid "Any itsy bitsy spiders here?"
@@ -30,7 +30,7 @@ msgstr "Surtout s'il y a une soudaine apocalypse de zombies de baseball ... ou s
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:43 #-#-# translate crowdin school_bathroom_locker1_interact_ee92243d:
 msgid "Not even a trace of cobwebs here. A+ janitor work."
-msgstr ""
+msgstr "Pas la moindre trace de toiles d'araignées ici. Un travail de concierge de premier ordre."
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:72 #-#-# translate crowdin school_bathroom_locker2_interact_367cb867:
 msgid "Any spiders here?"
@@ -74,7 +74,7 @@ msgstr "Qui sait, vraiment ?"
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:131 #-#-# translate crowdin school_bathroom_locker3_interact_10c22ebd:
 msgid "Maybe it would've been smart to look up what spider eggs actually look like?"
-msgstr ""
+msgstr "Il aurait peut-être été plus judicieux de chercher à savoir à quoi ressemblent les œufs d'araignée ?"
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:132 #-#-# translate crowdin school_bathroom_locker3_interact_1702319f:
 msgid "Nothing here."
@@ -82,7 +82,7 @@ msgstr "Rien ici."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:76
 msgid "Loot it"
-msgstr ""
+msgstr "Le piller"
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:76
 msgid "Leave it be"
