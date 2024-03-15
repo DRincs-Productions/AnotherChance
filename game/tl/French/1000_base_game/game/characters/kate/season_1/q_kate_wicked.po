@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:08\n"
+"PO-Revision-Date: 2024-03-15 15:30\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:20 #-#-# translate crowdin quest_kate_wicked_start_ccd3f5c7:
 msgid "[_kate_s_confident_] I thought I heard someone being noisy over here."
@@ -550,7 +550,7 @@ msgstr "[_mc_] J'aimerais rester après l'école et travailler ici, si c'est bon
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:242 #-#-# translate crowdin quest_kate_wicked_phone_call_5255266c:
 msgid "[_jo_s_confident_] Very diligent! Okay, I'll let the [guard] know that you're staying late."
-msgstr "[_jo_s_confident_] Très assidu ! D'accord, je vais prévenir le [gardien] que vous restez tard."
+msgstr "[_jo_s_confident_] Très assidu ! D'accord, je vais prévenir le [guard] que vous restez tard."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:243 #-#-# translate crowdin quest_kate_wicked_phone_call_d7192c2a:
 msgid "[_jo_s_confident_] Here's the key to the classroom. You know we lock them up\n"
@@ -3492,7 +3492,7 @@ msgstr "Ces draps vont bien faire, j'ai juste besoin de trouver un moyen de fair
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1449 #-#-# translate crowdin quest_kate_wicked_costume_nurse_room_bed_cd61510a:
 msgid "Surely, the [nurse]'s office has a pair of scissors or something?"
-msgstr "Le bureau de l'[infirmière] a sûrement une paire de ciseaux ou quelque chose comme ça ?"
+msgstr "Le bureau de l'[nurse] a sûrement une paire de ciseaux ou quelque chose comme ça ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1450 #-#-# translate crowdin quest_kate_wicked_costume_nurse_room_bed_a20cefa7:
 msgid "..."
