@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:01\n"
+"PO-Revision-Date: 2024-03-15 15:29\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6 #-#-# translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
 msgid "[_mc_] Hey, how are you holding up?"
@@ -1058,7 +1058,7 @@ msgstr "Eh bien, merde."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:421 #-#-# translate crowdin quest_isabelle_hurricane_short_circuit_fuse_box2_01b3401d:
 msgid "How am I supposed to find my way to the [guard]'s booth now?"
-msgstr "Comment puis-je trouver mon chemin jusqu'à la cabine du [gardien] maintenant ?"
+msgstr "Comment puis-je trouver mon chemin jusqu'à la cabine du [guard] maintenant ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:427 #-#-# translate crowdin quest_isabelle_hurricane_short_circuit_phone_4eb74401:
 msgid "Thank god we're living in the future... I have a phone flashlight and I'm not afraid to use it."
@@ -1070,7 +1070,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:429 #-#-# translate crowdin quest_isabelle_hurricane_short_circuit_phone_3c99f5b3:
 msgid "Now, I just have to hurry to the [guard]'s booth before the lights get fixed."
-msgstr "Maintenant, je dois me dépêcher d'aller à la cabine du [gardien] avant que les lumières ne soient réparées."
+msgstr "Maintenant, je dois me dépêcher d'aller à la cabine du [guard] avant que les lumières ne soient réparées."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:430 #-#-# translate crowdin quest_isabelle_hurricane_short_circuit_phone_4ca93293:
 msgid "Down the stairs... One step, two steps... Now is not the time to break{space=-15}\n"
