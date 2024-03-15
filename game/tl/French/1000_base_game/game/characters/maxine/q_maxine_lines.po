@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:02\n"
+"PO-Revision-Date: 2024-03-15 15:30\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:3 #-#-# translate crowdin quest_maxine_lines_start_81141839:
 msgid "[maxine] always seems to be investigating something, and it's usually best not to ask any questions..."
@@ -1066,7 +1066,7 @@ msgstr "[_maxine_s_skeptical_] Ne pas trop chipper. Il reste encore beaucoup de 
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:343 #-#-# translate crowdin maxine_lines_reward_interact_maxine_bcca0cbf:
 msgid "Well, time to find out why [lindsey] keeps tripping..."
-msgstr "Il est temps de découvrir pourquoi [Lindsey] ne cesse de trébucher..."
+msgstr "Il est temps de découvrir pourquoi [lindsey] ne cesse de trébucher..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:350 #-#-# translate crowdin quest_maxine_lines_insight_9dcd3a10:
 msgid "[_maxine_s_concerned_] Have you seen my cat?"
@@ -1970,7 +1970,7 @@ msgstr "[_maxine_s_afraid_] Vous l'avez amenée ici sans précautions ?!"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:761 #-#-# translate crowdin quest_maxine_lines_seemaxine_886a6856:
 msgid "[_maxine_s_afraid_] What's wrong with you?!"
-msgstr "[Qu'est-ce qui ne va pas chez toi ? !"
+msgstr "[Qu'est-ce qui ne va pas chez toi ?!"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:762 #-#-# translate crowdin quest_maxine_lines_seemaxine_51d4ee8d:
 msgid "[_mc_] Sorry?"
