@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 12:21\n"
+"PO-Revision-Date: 2024-03-15 16:39\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:5 #-#-# translate crowdin isabelle_quest_haggis_deliver_c4773099:
 msgid "[_isabelle_s_excited_] What is this?"
@@ -586,7 +586,7 @@ msgstr "[_mc_] Une image vaut mille mots !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:298 #-#-# translate crowdin isabelle_quest_haggis_detention_start_da0ad39f:
 msgid "[_flora_s_sarcastic_s_flip_] And you're worth one word — \"clown.\""
-msgstr "[Et vous ne valez qu'un mot : \"clown\"."
+msgstr "[_flora_s_sarcastic_s_flip_] Et vous ne valez qu'un mot : \"clown\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:299 #-#-# translate crowdin isabelle_quest_haggis_detention_start_102b099f:
 msgid "[_isabelle_s_confident_] Hey, maybe we should get this done?"
@@ -714,7 +714,7 @@ msgstr "[_isabelle_s_laughing_] Oh, arrête ! Tu es aussi digne que n'importe qu
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:361 #-#-# translate crowdin isabelle_quest_haggis_isabelle_detention_9b93a4ad:
 msgid "[_isabelle_s_confident_] Let's wait for [mrsl] now."
-msgstr "[Attendons [mrsl] maintenant."
+msgstr "[_isabelle_s_confident_] Attendons [mrsl] maintenant."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:367 #-#-# translate crowdin isabelle_quest_haggis_isabelle_detention_59eff82f:
 msgid "[_mc_] I brought you a meal. I was trying to be nice."
@@ -1462,7 +1462,7 @@ msgstr "Hot !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:894 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_4431b4ea:
 msgid "[_isabelle_s_afraid_] What the hell?!"
-msgstr "[Qu'est-ce que c'est que ce bordel ? !"
+msgstr "[Qu'est-ce que c'est que ce bordel ?!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:895 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_cd951486:
 msgid "[_flora_s_embarrassed_] Oh, I'm so sorry! I tripped!"
@@ -1570,7 +1570,7 @@ msgstr "Crap."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:971 #-#-# translate crowdin isabelle_quest_haggis_give_flora_3c50dbfc:
 msgid "[_flora_s_angry_] Did you just wipe off the grease from that bolt on my shirt...?"
-msgstr "[Est-ce que tu viens d'essuyer la graisse du boulon sur ma chemise... ?"
+msgstr "[_flora_s_angry_] Est-ce que tu viens d'essuyer la graisse du boulon sur ma chemise...?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:972 #-#-# translate crowdin isabelle_quest_haggis_give_flora_6ddddd1f:
 msgid "[_mc_] Maybe..."
@@ -1654,7 +1654,7 @@ msgstr "[_isabelle_s_cringe_] Très ... ugh ... savoureux ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1014 #-#-# translate crowdin isabelle_quest_haggis_give_seconds_isabelle_e008b55e:
 msgid "[isabelle] looks like she's about to throw up."
-msgstr "[On dirait qu'elle va vomir."
+msgstr "[isabelle] regarde on dirait qu'elle va vomir."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1015 #-#-# translate crowdin isabelle_quest_haggis_give_seconds_isabelle_53c65f21_1:
 msgid "[_isabelle_s_thinking_] ..."
