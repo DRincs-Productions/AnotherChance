@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 12:21\n"
+"PO-Revision-Date: 2024-03-15 15:29\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:8 #-#-# translate crowdin quest_isabelle_dethroning_start_f602badf:
 msgid "[_mc_] Hi, [isabelle]! I managed to score a meeting with [maxine]."
@@ -5167,7 +5167,7 @@ msgstr "Et comme ça, le piège est fixé !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3266 #-#-# translate crowdin quest_isabelle_dethroning_trap_red_paint_6e60813a:
 msgid "Now, I'll just have to wait for—"
-msgstr "Maintenant, je n'ai plus qu'à attendre..."
+msgstr "Maintenant, je n'ai plus qu'à attendre-"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3267 #-#-# translate crowdin quest_isabelle_dethroning_trap_red_paint_b493a66f:
 msgid "[_kate_] Aeeeyeeeee!"
@@ -7275,7 +7275,7 @@ msgstr "La piscine ne s'ouvre pas avant plus tard, de toute façon. Il n'y a auc
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4851 #-#-# translate crowdin quest_isabelle_dethroning_revenge_done_roof_landing_d9da181d:
 msgid "What the hell...?"
-msgstr "Qu'est-ce que... ?"
+msgstr "Qu'est-ce que...?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4856 #-#-# translate crowdin quest_isabelle_dethroning_revenge_done_roof_landing_door_0de4f787:
 msgid "It's locked, as expected..."
@@ -7399,7 +7399,7 @@ msgstr "Saint-merde."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4933 #-#-# translate crowdin quest_isabelle_dethroning_panik_outside_e12f3f50:
 msgid "[_mc_] [lindsey]!!"
-msgstr "[_mc_] [lindsey] !!!"
+msgstr "[_mc_] [lindsey] !!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4934 #-#-# translate crowdin quest_isabelle_dethroning_panik_outside_da1dc0c2:
 msgid "[_mc_] Get away from the edge!!"
@@ -7532,7 +7532,7 @@ msgstr "Non, non, non, non"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4999 #-#-# translate crowdin quest_isabelle_dethroning_panik_outside_022098ae:
 msgid "[lindsey], what are you—"
-msgstr "[Qu'est-ce que tu..."
+msgstr "[lindsey] Qu'est-ce que tu-"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:5003 #-#-# translate crowdin quest_isabelle_dethroning_panik_outside_c139aed7:
 msgid "And then it just happens."
@@ -7698,7 +7698,7 @@ msgstr "Qu'est ce qu'elle fait ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:5103 #-#-# translate crowdin quest_isabelle_dethroning_fly_to_the_moon_roof_door_7c1a5a23:
 msgid "[_mc_] [lindsey]!! Listen to me!!"
-msgstr "[Mc] [Lindsey] ! !! Ecoutez-moi !"
+msgstr "[Mc] [lindsey] ! !! Ecoutez-moi !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:5104 #-#-# translate crowdin quest_isabelle_dethroning_fly_to_the_moon_roof_door_65a0b8e9:
 msgid "For a moment, she looks back at me, but her gaze is empty."
@@ -7714,7 +7714,7 @@ msgstr "Puis elle s'en retourne."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:5107 #-#-# translate crowdin quest_isabelle_dethroning_fly_to_the_moon_roof_door_a51b7a63:
 msgid "[_lindsey_s_roof_door_wings_] Fly!"
-msgstr "[Volez !"
+msgstr "[_lindsey_s_roof_door_wings_] Volez !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:5108 #-#-# translate crowdin quest_isabelle_dethroning_fly_to_the_moon_roof_door_83d78c29:
 msgid "[_mc_] No!! Stop!!"
