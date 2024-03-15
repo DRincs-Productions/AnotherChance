@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:01\n"
+"PO-Revision-Date: 2024-03-15 15:30\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3 #-#-# translate crowdin isabelle_quest_isabelle_tour_86544d5e:
 msgid "[_isabelle_s_laughing_] I just wanted to say that I appreciate you showing me around."
@@ -642,7 +642,7 @@ msgstr "Le contour de ses lèvres contre sa culotte... oh, mec... "
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:279 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_71e48944:
 msgid "[_lindsey_s_lindseypose01_] Who put a wall there...?"
-msgstr "[_lindsey_s_lindseypose01_] Qui a mis un mur là... ?"
+msgstr "[_lindsey_s_lindseypose01_] Qui a mis un mur là...?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:281 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_390af975:
 msgid "[_isabelle_s_thinking_] Hey, are you okay?"
@@ -694,7 +694,7 @@ msgstr "[_lindsey_s_lindseypose01_] M-peut-être ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:310 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_a2b56227:
 msgid "[_isabelle_s_neutral_] Okay, put one arm around each of our necks... we'll take you to the [nurse]."
-msgstr "[Ok, mettez un bras autour de notre cou à chacun... on va vous emmener à l'[infirmière]."
+msgstr "[Ok, mettez un bras autour de notre cou à chacun... on va vous emmener à l'[nurse]."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:321 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_af825413:
 msgid "[_mc_] She should've paid more attention."
@@ -774,7 +774,7 @@ msgstr "[_isabelle_s_neutral_] Ok, mettez votre bras autour de mon cou ... Je va
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:377 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_b2e8d821:
 msgid "[_lindsey_s_LindseyPose02a_] W-what happened...?"
-msgstr "[_lindsey_s_LindseyPose02a_] Qu'est-ce qui s'est passé... ?"
+msgstr "[_lindsey_s_LindseyPose02a_] Qu'est-ce qui s'est passé...?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:378 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_35a4e13a:
 msgid "[_mc_] You had an accident. I'm taking you to the [nurse]."
@@ -866,7 +866,7 @@ msgstr "[_mc_] N'a jamais vu quelqu'un courir si vite !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:407 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_ae1ff952:
 msgid "[_lindsey_s_LindseyPose02a_] Chivalry and flattery...? What's next...?"
-msgstr "[_lindsey_s_LindseyPose02a_] Chevalerie et flatterie... ? Qu'est-ce qu'il y a après... ?"
+msgstr "[_lindsey_s_LindseyPose02a_] Chevalerie et flatterie...? Qu'est-ce qu'il y a après...?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:408 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_c80f042e:
 msgid "[_mc_] Hopefully, the [nurse] saying that it's a mild concussion and you'll be okay in a couple of days."
@@ -1094,7 +1094,7 @@ msgstr "Le [nurse] semble soulagé, mais il y a autre chose dans ses yeux."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:513 #-#-# translate crowdin quest_nurse_photogenic_second_chance_31ee6f86:
 msgid "Disappointment...? Nah, that can't be — must be my imagination."
-msgstr "Déception... ? Non, ce n'est pas possible, c'est mon imagination."
+msgstr "Déception...? Non, ce n'est pas possible, c'est mon imagination."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:516 #-#-# translate crowdin quest_nurse_photogenic_second_chance_dfea45f6:
 msgid "[_mc_] I'm so sorry! I should've knocked!"
@@ -1142,7 +1142,7 @@ msgstr "[_mc_] Souriez pour la caméra !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:534 #-#-# translate crowdin quest_nurse_photogenic_second_chance_10c58b1d:
 msgid "[_nurse_s_surprised_] D-did you just...?"
-msgstr "[Vous venez de... ?"
+msgstr "[Vous venez de...?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:535 #-#-# translate crowdin quest_nurse_photogenic_second_chance_0eb889e7:
 msgid "[_mc_] You have a lot to lose, don't you?"
@@ -1158,7 +1158,7 @@ msgstr "[_mc_] Si vous suivez mes instructions, ce ne sera pas le cas."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:538 #-#-# translate crowdin quest_nurse_photogenic_second_chance_a17b649e:
 msgid "[_nurse_s_afraid_] Y-you're going to blackmail me?!"
-msgstr "[Vous allez me faire chanter ? !"
+msgstr "[Vous allez me faire chanter ?!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:539 #-#-# translate crowdin quest_nurse_photogenic_second_chance_f99c1b9f:
 msgid "[_mc_] We'll see, I guess..."
@@ -1258,7 +1258,7 @@ msgstr "Le [nurse] semble soulagé, mais il y a autre chose dans ses yeux ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:567 #-#-# translate crowdin quest_nurse_photogenic_second_chance_31ee6f86_1:
 msgid "Disappointment...? Nah, that can't be — must be my imagination."
-msgstr "Déception... ? Non, ce n'est pas possible, c'est mon imagination."
+msgstr "Déception...? Non, ce n'est pas possible, c'est mon imagination."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:574 #-#-# translate crowdin quest_nurse_photogenic_second_chance_0ac7f64d:
 msgid "[_mc_] ...Hello?"
@@ -1430,7 +1430,7 @@ msgstr "[J'espère qu'elle va bien."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:675 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_b6d69ea6:
 msgid "[_nurse_s_concerned_] Goodness gracious, [lindsey]!"
-msgstr "[Bonté divine, [Lindsey] !]"
+msgstr "[_nurse_s_concerned_] Bonté divine, [lindsey] !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:676 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_6557406e:
 msgid "[_lindsey_s_lindseypose01_] It's not the knee this time, I think..."
@@ -1458,7 +1458,7 @@ msgstr "[_isabelle_s_neutral_] Bien sûr !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:683 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_41ccc872:
 msgid "[_lindsey_s_skeptical_] Why is the floor moving...?"
-msgstr "[Pourquoi le sol bouge-t-il... ?"
+msgstr "[Pourquoi le sol bouge-t-il...?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:684 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_053492dd:
 msgid "[_nurse_s_thinking_] I think you have a concussion, but I'll need to take you to my office for more tests."
@@ -1838,7 +1838,7 @@ msgstr "La peau blanche comme neige, sans tache, offre un contraste saisissant m
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:897 #-#-# translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_091b28dc:
 msgid "Some girls sunbathe to get an even tan, but [lindsey] clearly doesn't care about that."
-msgstr "Certaines filles prennent des bains de soleil pour obtenir un bronzage uniforme, mais [Lindsey] n'en a manifestement rien à faire."
+msgstr "Certaines filles prennent des bains de soleil pour obtenir un bronzage uniforme, mais [lindsey] n'en a manifestement rien à faire."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:898 #-#-# translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_0a463193:
 msgid "As long as her sports bra keeps her boobs from bouncing!"
@@ -2766,7 +2766,7 @@ msgstr "[_isabelle_s_neutral_] Si vous voulez, je peux mettre mon numéro dans v
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1240 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_71ae6572:
 msgid "Her number... in my phone?!"
-msgstr "Son numéro... dans mon téléphone ? !"
+msgstr "Son numéro... dans mon téléphone ?!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1241 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_1d1c9e25:
 msgid "Is there a replay function in this version of the Matrix because this doesn't seem like real life..."
