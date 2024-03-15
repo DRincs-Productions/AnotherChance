@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:02\n"
+"PO-Revision-Date: 2024-03-15 15:29\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/65_lindsey_flight.rpy:6 #-#-# translate crowdin replay_lindsey_flight_7d6b1e76:
 msgid "Oh, wow. Half the school is still here."
@@ -26,7 +26,7 @@ msgstr "Saint-merde."
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:17 #-#-# translate crowdin replay_lindsey_flight_e12f3f50:
 msgid "[_mc_] [lindsey]!!"
-msgstr "[_mc_] [lindsey] !!!"
+msgstr "[_mc_] [lindsey] !!"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:18 #-#-# translate crowdin replay_lindsey_flight_da1dc0c2:
 msgid "[_mc_] Get away from the edge!!"
@@ -123,7 +123,7 @@ msgstr "Elle semble être dans une transe complète. Elle ne réalise probableme
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:61 #-#-# translate crowdin replay_lindsey_flight_e12f3f50_1:
 msgid "[_mc_] [lindsey]!!"
-msgstr "[_mc_] [lindsey] !!!"
+msgstr "[_mc_] [lindsey] !!"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:62 #-#-# translate crowdin replay_lindsey_flight_8a954103:
 msgid "[_lindsey_s_roof_door_still_] Run! Run!"
@@ -159,7 +159,7 @@ msgstr "Qu'est ce qu'elle fait ?"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:73 #-#-# translate crowdin replay_lindsey_flight_7c1a5a23:
 msgid "[_mc_] [lindsey]!! Listen to me!!"
-msgstr "[Mc] [Lindsey] ! !! Ecoutez-moi !"
+msgstr "[Mc] [lindsey] ! !! Ecoutez-moi !"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:74 #-#-# translate crowdin replay_lindsey_flight_65a0b8e9:
 msgid "For a moment, she looks back at me, but her gaze is empty."
@@ -175,7 +175,7 @@ msgstr "Puis elle s'en retourne."
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:77 #-#-# translate crowdin replay_lindsey_flight_a51b7a63:
 msgid "[_lindsey_s_roof_door_wings_] Fly!"
-msgstr "[Volez !"
+msgstr "[_lindsey_s_roof_door_wings_] Volez !"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:78 #-#-# translate crowdin replay_lindsey_flight_83d78c29:
 msgid "[_mc_] No!! Stop!!"
@@ -329,7 +329,7 @@ msgstr "Non, non, non, non"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:151 #-#-# translate crowdin replay_lindsey_flight_022098ae:
 msgid "[lindsey], what are you—"
-msgstr "[Qu'est-ce que tu..."
+msgstr "[lindsey] Qu'est-ce que tu-"
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:155 #-#-# translate crowdin replay_lindsey_flight_c139aed7:
 msgid "And then it just happens."
@@ -395,7 +395,7 @@ msgstr "... et elle tombe."
 msgid "\"Fuck it, I'm not waiting\n"
 "for [lindsey] to fall down!\""
 msgstr "\"Putain, je ne vais pas attendre\n"
-"que [Lindsey] tombe !\""
+"que [lindsey] tombe !\""
 
 # game/1000_base_game/game/replays/65_lindsey_flight.rpy:48
 msgid "\"Oh, well. I've done what I could.\""
