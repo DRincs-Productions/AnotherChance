@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:08\n"
+"PO-Revision-Date: 2024-03-15 16:39\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:3 #-#-# translate crowdin quest_kate_stepping_start_b9e60c75:
 msgid "[_kate_s_skeptical_] What have I told you about looking at me?"
@@ -2148,7 +2148,7 @@ msgstr "[_isabelle_s_confident_] Qui n'aime pas un bon roman de fantaisie ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:849 #-#-# translate crowdin quest_kate_stepping_isabelle_d57826ec:
 msgid "[_isabelle_s_confident_] Have you read \"Loss of the Rings?\""
-msgstr "[Avez-vous lu \"La perte des anneaux\" ?"
+msgstr "[_isabelle_s_confident_] Avez-vous lu \"La perte des anneaux?\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:850 #-#-# translate crowdin quest_kate_stepping_isabelle_f64b40df:
 msgid "[_mc_] I don't think so..."
@@ -2184,7 +2184,7 @@ msgstr "[_mc_] Oui, je pense que j'ai, en fait."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:861 #-#-# translate crowdin quest_kate_stepping_isabelle_ecf6c948:
 msgid "[_isabelle_s_confident_] Oh, okay! What about \"The Hootbook?\""
-msgstr "[_isabelle_s_confident_] Oh, d'accord ! Et \"The Hootbook\" ?"
+msgstr "[_isabelle_s_confident_] Oh, d'accord ! Et \"The Hootbook?\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:862 #-#-# translate crowdin quest_kate_stepping_isabelle_31c16f50:
 msgid "[_isabelle_s_confident_] It's about an old owl couple on the roof of a hospital, having a hoot at the expense of dementia patients."
