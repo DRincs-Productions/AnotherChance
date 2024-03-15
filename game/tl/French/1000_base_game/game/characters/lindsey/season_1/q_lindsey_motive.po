@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:01\n"
+"PO-Revision-Date: 2024-03-15 15:30\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:9 #-#-# translate crowdin quest_lindsey_motive_start_10b530a7:
 msgid "There's something about [lindsey]..."
@@ -832,7 +832,7 @@ msgstr "[_maxine_s_skeptical_] Absolument. La science n'est rien pour plaisanter
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:282 #-#-# translate crowdin quest_lindsey_motive_maxine_68aeb16c:
 msgid "[lindsey] didn't remember the shoe incident or stealing [isabelle]'s chocolate hearts..."
-msgstr "[Lindsey] ne se souvient pas de l'incident des chaussures ou du vol des cœurs en chocolat d'[Isabelle]..."
+msgstr "[lindsey] ne se souvient pas de l'incident des chaussures ou du vol des cœurs en chocolat d'[isabelle]..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:283 #-#-# translate crowdin quest_lindsey_motive_maxine_9e6a0048:
 msgid "But what the hell does hypno-somnambulism mean?"
@@ -1352,7 +1352,7 @@ msgstr "[_mc_] [lindsey] ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:459 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_ed8efada:
 msgid "[_lindsey_s_painting_date_blank_] What...?"
-msgstr "[_lindsey_s_painting_date_blank_] Quoi... ?"
+msgstr "[_lindsey_s_painting_date_blank_] Quoi...?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:460 #-#-# translate crowdin quest_lindsey_motive_date_lindsey_95c7633a:
 msgid "[_mc_] Are you okay?"
@@ -3338,7 +3338,7 @@ msgstr "On dirait que la côte est claire."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1362 #-#-# translate crowdin quest_lindsey_motive_steal_bf56f1d6:
 msgid "Hmm... it's a bit hard to see in the dark, but [lindsey]'s bag should be in one of the lockers..."
-msgstr "Hmm... c'est un peu difficile à voir dans l'obscurité, mais le sac de [Lindsey] devrait être dans l'un des casiers..."
+msgstr "Hmm... c'est un peu difficile à voir dans l'obscurité, mais le sac de [lindsey] devrait être dans l'un des casiers..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1366 #-#-# translate crowdin quest_lindsey_motive_steal_door_51181d0b:
 msgid "I can't leave before I've found [lindsey]'s phone. This might be my only shot."
@@ -3750,7 +3750,7 @@ msgstr "Il n'y a aucun moyen qu'elle admette qu'il y a un étudiant sous son bur
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1616 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_3a660092:
 msgid "Right...?"
-msgstr "C'est vrai... ?"
+msgstr "C'est vrai...?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1620 #-#-# translate crowdin quest_lindsey_motive_hide_teacher_desk_94f421be:
 msgid "[_mrsl_s_under_desk_tongue6_] ..."
@@ -4231,7 +4231,7 @@ msgstr "?mrsl.lust>=5@[mrsl.lust]/5|{image=mrsl contact_icon}|{image=stats lust_
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1185
 msgid "\"[lindsey] keeps tripping, and I think\n"
 "it's due to the heat.\""
-msgstr "\"[Lindsey] n'arrête pas de trébucher, et je pense\n"
+msgstr "\"[lindsey] n'arrête pas de trébucher, et je pense\n"
 "que c'est dû à la chaleur.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1185
