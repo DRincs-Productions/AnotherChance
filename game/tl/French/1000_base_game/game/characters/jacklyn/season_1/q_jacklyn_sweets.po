@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:08\n"
+"PO-Revision-Date: 2024-03-15 15:30\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:2 #-#-# translate crowdin quest_jacklyn_sweets_start_9efa726c:
 msgid "[_guard_] ZzzZzzzzZzz..."
@@ -282,7 +282,7 @@ msgstr "Eh bien, merde. C'est ce que je suis pour mentir ..."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:111 #-#-# translate crowdin quest_jacklyn_sweets_feed_560677a9:
 msgid "Waking the [guard] up with my [item.title_lower] sounds like a blast."
-msgstr "Réveiller le [gardien] avec mon [item.title_lower], ça a l'air sympa."
+msgstr "Réveiller le [guard] avec mon [item.title_lower], ça a l'air sympa."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:112 #-#-# translate crowdin quest_jacklyn_sweets_feed_99d88ee6:
 msgid "A blast that would lead to a year in detention."
@@ -1354,7 +1354,7 @@ msgstr "[_mc_] Aimeriez-vous goûter le Roi des Suédois ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:600 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_a6c06394:
 msgid "[_jacklyn_s_king_of_sweets_lip_bite_] How could I possibly refuse...?"
-msgstr "[Comment pourrais-je refuser... ?"
+msgstr "[Comment pourrais-je refuser...?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:601 #-#-# translate crowdin quest_jacklyn_sweets_finaltouches_ab3e1d83:
 msgid "[_mc_] All right, then — dig in."
