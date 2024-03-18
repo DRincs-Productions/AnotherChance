@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-15 15:30\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3 #-#-# translate crowdin isabelle_quest_isabelle_tour_86544d5e:
 msgid "[_isabelle_s_laughing_] I just wanted to say that I appreciate you showing me around."
@@ -970,7 +970,7 @@ msgstr "[_mc_] Huh ! On dirait que vous avez un rêve de jour très pluvieux à 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:468 #-#-# translate crowdin quest_nurse_photogenic_second_chance_1c5009b5:
 msgid "[_nurse_s_annoyed_] I... I..."
-msgstr "[Je... I..."
+msgstr "[_nurse_s_annoyed_] Je... je..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:469 #-#-# translate crowdin quest_nurse_photogenic_second_chance_213dcb4d:
 msgid "[_mc_] Don't worry, I won't tell anyone."
@@ -2278,7 +2278,7 @@ msgstr "[_isabelle_s_flirty_] Tu as oublié ton smoking et tes gants blancs à l
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1062 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_8bb13514:
 msgid "[_mc_] I said \"previous life.\" You don't keep your clothes... unless you were buried with them."
-msgstr "[_mc_] J'ai dit \"la vie antérieure\". Vous ne gardez pas vos vêtements ... à moins que vous n'y étiez enterré."
+msgstr "[_mc_] J'ai dit \"la vie antérieure.\" Vous ne gardez pas vos vêtements ... à moins que vous n'y étiez enterré."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1063 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_70239f34:
 msgid "[_isabelle_s_afraid_] Don't tell me you were buried, err..."
@@ -2510,7 +2510,7 @@ msgstr "[_isabelle_s_eyeroll_] Vraiement, maintenant ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1147 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_960ec06c:
 msgid "[_mc_] I meant \"rough.\" Some girls like it rough."
-msgstr "[_mc_] Je voulais dire \"rugueuse\". Certaines filles aiment ça."
+msgstr "[_mc_] Je voulais dire \"rugueuse.\" Certaines filles aiment ça."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1149 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_54b2b2ae:
 msgid "[_isabelle_s_eyeroll_] Way to ruin a joke."
@@ -2976,7 +2976,7 @@ msgstr "\"Désolé d'empiéter, mais [lindsey] a eu un accident dans la salle de
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:689
 msgid "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"I'll be in touch.\""
-msgstr "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"Je vous contacterai\"."
+msgstr "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"Je vous contacterai.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:689
 msgid "\"I've always wanted to help out those\n"
@@ -3080,7 +3080,7 @@ msgstr "?mc.charisma>=4@[mc.charisma]/4|{image=stats cha}|\"Je croyais que vous 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1074
 msgid "\"Only the posh ones.\""
-msgstr "\"Seulement les plus chics\"."
+msgstr "\"Seulement les plus chics.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1074
 msgid "\"I've seen the movies!\""
@@ -3096,7 +3096,7 @@ msgstr "?mc.charisma>=4@[mc.charisma]/4|{image=stats cha}|\"'C'est ainsi que je 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1113
 msgid "\"Remind me to be ruder.\""
-msgstr "\"Rappelez-moi d'être plus grossier\"."
+msgstr "\"Rappelez-moi d'être plus grossier.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1163
 msgid "\"Sorry... I overreacted...\""
