@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:04\n"
+"PO-Revision-Date: 2024-03-18 15:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:42 #-#-# translate crowdin school_art_class_supply_closet_interact_95047015:
 msgid "This is where all the pranksters find their equipment."
@@ -358,11 +358,11 @@ msgstr "[Peu importe. Stupide chat."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:194 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_force_open_abc74a1e:
 msgid "[_kate_s_excited_] Anyway, let me know if you find the [nurse]."
-msgstr "[Quoi qu'il en soit, faites-moi savoir si vous trouvez l'[infirmière]."
+msgstr "[Quoi qu'il en soit, faites-moi savoir si vous trouvez l'[nurse]."
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:205 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_b689cc56:
 msgid "It... worked...?"
-msgstr "Cela... a fonctionné... ?"
+msgstr "Cela... a fonctionné...?"
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:206 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_pick_open_bff41a56:
 msgid "What are all these emotions I'm feeling?"
