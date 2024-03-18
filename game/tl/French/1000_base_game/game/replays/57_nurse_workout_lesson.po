@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:07\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/57_nurse_workout_lesson.rpy:6 #-#-# translate crowdin replay_nurse_workout_lesson_42e01911:
 msgid "[_nurse_s_gym_sex_explanation_] So, the gastrocnemius muscle... just above the knee to the heel... meaning \"stomach of the leg...\""
-msgstr "[Donc, le muscle gastrocnémien... juste au-dessus du genou jusqu'au talon... ce qui signifie \"ventre de la jambe\"..."
+msgstr "[_nurse_s_gym_sex_explanation_] Donc, le muscle gastrocnémien... juste au-dessus du genou jusqu'au talon... ce qui signifie \"ventre de la jambe...\""
 
 # game/1000_base_game/game/replays/57_nurse_workout_lesson.rpy:7 #-#-# translate crowdin replay_nurse_workout_lesson_b834c02c:
 msgid "[_nurse_s_gym_sex_explanation_] ...and the soleus muscle... just below the knee to the heel... meaning \"sandal...\""
@@ -272,7 +272,7 @@ msgstr "[_nurse_] Mmmmuuhhhh ..."
 
 # game/1000_base_game/game/replays/57_nurse_workout_lesson.rpy:105 #-#-# translate crowdin replay_nurse_workout_lesson_d657632f:
 msgid "The [nurse] is trying her best not to scream out, to let the words leave her lips."
-msgstr "L'[infirmière] fait de son mieux pour ne pas crier, pour ne pas laisser les mots quitter ses lèvres."
+msgstr "L'[nurse] fait de son mieux pour ne pas crier, pour ne pas laisser les mots quitter ses lèvres."
 
 # game/1000_base_game/game/replays/57_nurse_workout_lesson.rpy:106 #-#-# translate crowdin replay_nurse_workout_lesson_bb95a398:
 msgid "She just continues to kneel there on all fours, taking whatever I choose to give her."
