@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 16:13\n"
+"PO-Revision-Date: 2024-03-18 17:11\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:3 #-#-# translate crowdin isabelle_quest_stolen_start_d518eb58:
 msgid "[_isabelle_s_angry_] Can you bloody believe it?!"
@@ -926,7 +926,7 @@ msgstr "Eh bien, faites-moi !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:338 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_9eb65506:
 msgid "All right! Got away with theft... screwed the [guard] over... and got [jacklyn] into my fictional art project."
-msgstr "D'accord ! J'ai réussi à voler... j'ai trompé le [garde]... et j'ai fait entrer [Jacklyn] dans mon projet artistique fictif."
+msgstr "D'accord ! J'ai réussi à voler... j'ai trompé le [guard]... et j'ai fait entrer [jacklyn] dans mon projet artistique fictif."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:339 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_488a20c9_1:
 msgid "Well done me!"
@@ -938,7 +938,7 @@ msgstr "Espérons juste-"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:347 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jo_930b85dc:
 msgid "[_jo_s_embarrassed_] What do you think you're doing?!"
-msgstr "[Qu'est-ce que tu crois faire ?!"
+msgstr "[_jo_s_embarrassed_] Qu'est-ce que tu crois faire ?!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:348 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jo_c33b515c:
 msgid "[_mc_] Err..."
@@ -1162,7 +1162,7 @@ msgstr "[_mc_] Vous pouvez échanger l'écrou pour une grève dans votre petit l
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:448 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_d2d10063:
 msgid "[_nurse_s_annoyed_] Err... just keep the doughnut..."
-msgstr "[Err... gardez le beignet..."
+msgstr "[_nurse_s_annoyed_] Err... gardez le beignet..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:449 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_cfce055e:
 msgid "[_mc_] Are you sure?"
@@ -1290,7 +1290,7 @@ msgstr "Et comme ça, il se dirige vers les pâtisseries de la cafétéria."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:500 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_outnuts_01a3160e:
 msgid "The [guard]'s hand is shaking, his face flushed red."
-msgstr "La main du [garde] tremble, son visage rougit."
+msgstr "La main du [guard] tremble, son visage rougit."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:501 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_outnuts_f617b464:
 msgid "The sudden lack of doughnuts has sent his nervous system into overdrive."
@@ -2050,7 +2050,7 @@ msgstr "[_isabelle_s_angry_] Je m'en fiche si vous êtes désolé. Juste pisser 
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:772 #-#-# translate crowdin isabelle_quest_stolen_slap_4435eea6:
 msgid "[_lindsey_s_skeptical_slap_s_flip_] Whaat?"
-msgstr "[Quoi ?"
+msgstr "[_lindsey_s_skeptical_slap_s_flip_] Quoi ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:773 #-#-# translate crowdin isabelle_quest_stolen_slap_2facd882:
 msgid "[_isabelle_s_skeptical_] Don't try to act innocent."
@@ -2434,7 +2434,7 @@ msgstr "[_kate_s_gushing_] Avec ces petits bras t-rex ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:955 #-#-# translate crowdin isabelle_quest_stolen_warnkate_1e43e426:
 msgid "[_kate_s_gushing_] Rawr! Rawr!"
-msgstr "[Rawr ! Rawr !"
+msgstr "[_kate_s_gushing_] Rawr ! Rawr !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:956 #-#-# translate crowdin isabelle_quest_stolen_warnkate_f8af4140:
 msgid "[_kate_s_laughing_] You're the worst combination of ridiculous and pathetic."
@@ -3070,7 +3070,7 @@ msgstr "[_jacklyn_s_excited_] Oh ! C'est avec une orthographe française, n'est-
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1227 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_jacklyn_82be23b9:
 msgid "[_jacklyn_s_annoyed_] Like \"Honk\" or something? Honk, honk, honk? Wait, no... that's the Canadian spelling."
-msgstr "[Comme \"Honk\" ou quelque chose comme ça ? Honk, honk, honk ? Attends, non... c'est l'orthographe canadienne."
+msgstr "[_jacklyn_s_annoyed_] Comme \"Honk\" ou quelque chose comme ça ? Honk, honk, honk ? Attends, non... c'est l'orthographe canadienne."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1230 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_jacklyn_8fd4a71d:
 msgid "[_jacklyn_s_thinking_] So it is. I'm still trying to memorize the names here."
@@ -3090,7 +3090,7 @@ msgstr "[_mc_] Papiers ! J'ai besoin de papiers !"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1239 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_jacklyn_art_a2a87c90:
 msgid "[_jacklyn_s_smile_] Sure looks like it."
-msgstr "[On dirait bien."
+msgstr "[_jacklyn_s_smile_] On dirait bien."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1240 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_jacklyn_art_76f62719:
 msgid "[_jacklyn_s_smile_] Well, let me get one for you."
@@ -3130,7 +3130,7 @@ msgstr "[_jacklyn_s_annoyed_] Il semble que nous sommes sortis ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1251 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_jacklyn_art_94349297:
 msgid "[_jacklyn_s_annoyed_] Got to speak to the principal about this."
-msgstr "[Il faut que j'en parle au principal."
+msgstr "[_jacklyn_s_annoyed_] Il faut que j'en parle au principal."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1252 #-#-# translate crowdin isabelle_quest_stolen_askmaxine_jacklyn_art_55310c42:
 msgid "[_mc_] Seriously?"
@@ -3330,7 +3330,7 @@ msgstr "Eh bien, ce n'est pas exactement ce que j'espérais pour ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1314 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_a1777e77:
 msgid "Although, the thought of [kate] fucking [isabelle] in the ass with a massive strap-on is definitely a turn on."
-msgstr "Cependant, l'idée que [kate] baise [Isabelle] dans le cul avec une énorme sangle est définitivement excitante."
+msgstr "Cependant, l'idée que [kate] baise [isabelle] dans le cul avec une énorme sangle est définitivement excitante."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1315 #-#-# translate crowdin isabelle_quest_stolen_eavesdrop_143ff819:
 msgid "Mmm..."
@@ -3610,7 +3610,7 @@ msgstr "\"Très bien, écoutez attentivement.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1025
 msgid "\"No, [kate]'s littering.\""
-msgstr "\"Non, [kate] jette des ordures\"."
+msgstr "\"Non, [kate] jette des ordures.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1025
 msgid "\"Yeah, it's my stuff... [kate] was just telling me to pick up after myself.\""
