@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:02\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
 msgid "[_mc_] I don't believe what I'm seeing."
@@ -3509,7 +3509,7 @@ msgstr "\"Gauche.\""
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:487
 msgid "\"Straight.\""
-msgstr "\"Droit\"."
+msgstr "\"Droit.\""
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:487
 msgid "\"Right.\""
