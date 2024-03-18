@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-15 15:30\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:2 #-#-# translate crowdin quest_maxine_eggs_start_7b81f9fd:
 msgid "[_maxine_] You have to schedule an appointment. I'm a very busy woman."
@@ -1414,7 +1414,7 @@ msgstr "[_mc_] Pas vraiment, non."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:512 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_1996aa4a:
 msgid "[_lindsey_s_cringe_] So, it's something creepy..."
-msgstr "[Donc, c'est quelque chose d'effrayant..."
+msgstr "[_lindsey_s_cringe_] Donc, c'est quelque chose d'effrayant..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:513 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_7bb1d54b:
 msgid "[_mc_] No! It's... it's just hard to explain, that's all."
@@ -1786,7 +1786,7 @@ msgstr "Le [guard] est toujours à l'angle."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:634 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_68103b63:
 msgid "[_lindsey_s_excited_keyring_] Okay, don't laugh! I've had this keyring since kindergarten."
-msgstr "[Ok, ne riez pas ! J'ai ce porte-clés depuis la maternelle."
+msgstr "[_lindsey_s_excited_keyring_] Ok, ne riez pas ! J'ai ce porte-clés depuis la maternelle."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:635 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_6663ccf7:
 msgid "[_lindsey_s_confident_keyring_] It was the prize in the first running contest I ever won..."
@@ -2106,7 +2106,7 @@ msgstr "Merde, merde, merde ..."
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:735 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_2bcbfd1a:
 msgid "[_lindsey_s_toilet_scream_] What's wrong with you?!"
-msgstr "[Qu'est-ce qui ne va pas chez toi ?!"
+msgstr "[_lindsey_s_toilet_scream_] Qu'est-ce qui ne va pas chez toi ?!"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:736 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_f0f72809:
 msgid "[_mc_] I'm so sorry!"
@@ -2118,7 +2118,7 @@ msgstr "[_lindsey_s_toilet_scream_] Sortez !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:738 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_dcf0480d:
 msgid "[_lindsey_s_toilet_scream_] You sicko! Get out!"
-msgstr "[Espèce de malade ! Sors de là !"
+msgstr "[_lindsey_s_toilet_scream_] Espèce de malade ! Sors de là !"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:742 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_e4f73b05:
 msgid "God, I'm in so much trouble..."
