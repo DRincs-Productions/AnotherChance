@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-15 16:39\n"
+"PO-Revision-Date: 2024-03-18 16:13\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:47 #-#-# translate crowdin quest_isabelle_piano_start_af63ac0e:
 msgid "[_isabelle_s_excited_] I had no idea you play the piano!"
@@ -772,7 +772,7 @@ msgstr "[_mc_] Merci ! Je suis content."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:398 #-#-# translate crowdin quest_isabelle_piano_score_interact_ae41bfab:
 msgid "[isabelle]'s eyes glow in adoration. She has no idea that she's walking right into a trap."
-msgstr "Les yeux d'[isabelle] brillent d'adoration. Elle ne se doute pas qu'elle tombe dans un piège."
+msgstr "Les yeux de [isabelle] brillent d'adoration. Elle ne se doute pas qu'elle tombe dans un piège."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:399 #-#-# translate crowdin quest_isabelle_piano_score_interact_d8b2e3dc:
 msgid "She has no idea I'm not who she thinks I am."
@@ -1106,7 +1106,7 @@ msgstr "[_isabelle_s_laughing_] Vous n'êtes pas seulement un grand pianiste, ma
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:584 #-#-# translate crowdin quest_isabelle_piano_score_use_item_ae41bfab:
 msgid "[isabelle]'s eyes glow in adoration. She has no idea that she's walking right into a trap."
-msgstr "Les yeux d'[isabelle] brillent d'adoration. Elle ne se doute pas qu'elle tombe dans un piège."
+msgstr "Les yeux de [isabelle] brillent d'adoration. Elle ne se doute pas qu'elle tombe dans un piège."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:585 #-#-# translate crowdin quest_isabelle_piano_score_use_item_d8b2e3dc:
 msgid "She has no idea I'm not who she thinks I am."
@@ -1326,7 +1326,7 @@ msgstr "Mais se faire prendre serait un tueur d'humeur. Nous devons être pruden
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:681 #-#-# translate crowdin quest_isabelle_piano_sex_73ee46c4:
 msgid "[_isabelle_s_piano_sex_anticipation_] P-please..."
-msgstr "[_isabelle_s_piano_sex_anticipation_] P-s'il vous plaît."
+msgstr "[_isabelle_s_piano_sex_anticipation_] S-s'il vous plaît..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:682 #-#-# translate crowdin quest_isabelle_piano_sex_9d03153e:
 msgid "I know what she needs."
