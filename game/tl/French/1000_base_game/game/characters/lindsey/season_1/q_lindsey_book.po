@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-15 15:30\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:3 #-#-# translate crowdin quest_lindsey_book_start_c7688f55:
 msgid "[_mc_] Hey, [lindsey]! Your, err... your hair looks nice today!"
@@ -34,7 +34,7 @@ msgstr "[_lindsey_s_angry_] Ça ne va pas le couper."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:9 #-#-# translate crowdin quest_lindsey_book_start_b33f3173:
 msgid "[_lindsey_s_angry_] You treated me like shit!"
-msgstr "[Tu m'as traitée comme de la merde !"
+msgstr "[_lindsey_s_angry_] Tu m'as traitée comme de la merde !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:12 #-#-# translate crowdin quest_lindsey_book_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -390,7 +390,7 @@ msgstr "[_mc_] Quitter les jeux et être plus reconnaissant."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:162 #-#-# translate crowdin quest_lindsey_book_apology_gift_two_339dc110:
 msgid "[_lindsey_s_cringe_] Seems like you haven't learned a thing..."
-msgstr "[On dirait que tu n'as rien appris..."
+msgstr "[_lindsey_s_cringe_] On dirait que tu n'as rien appris..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:163 #-#-# translate crowdin quest_lindsey_book_apology_gift_two_de268f52:
 msgid "[_lindsey_s_cringe_] Hopefully, you'll figure out how to be a decent person before everyone stops talking to you."
