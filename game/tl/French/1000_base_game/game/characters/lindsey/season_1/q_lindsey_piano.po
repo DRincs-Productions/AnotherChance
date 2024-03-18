@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-15 15:30\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:6 #-#-# translate crowdin quest_lindsey_piano_start_c8d9e68a:
 msgid "[_mc_] Hey, [lindsey]!"
@@ -1546,7 +1546,7 @@ msgstr "[_isabelle_s_annoyed_] Non, vous n'êtes pas."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:671 #-#-# translate crowdin quest_lindsey_piano_play_374d675e:
 msgid "[_isabelle_s_annoyed_] To quote the great Edmund Burke, {i}\"All that is necessary for the triumph of evil is that good men do nothing.\"{/}"
-msgstr "[_isabelle_s_annoyed_] Pour citer le grand Edmund Burke, {i}\"Tout ce qui est nécessaire au triomphe du mal, c'est que les hommes de bien ne fassent rien\"."
+msgstr "[_isabelle_s_annoyed_] Pour citer le grand Edmund Burke, {i}\"Tout ce qui est nécessaire au triomphe du mal, c'est que les hommes de bien ne fassent rien.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:672 #-#-# translate crowdin quest_lindsey_piano_play_6c4859da:
 msgid "[_isabelle_s_annoyed_] I don't think enablers aren't much better than the culprits."
@@ -3390,7 +3390,7 @@ msgstr "[_lindsey_s_excited_album_] Oh, mon dieu, ces détails ! Je l'adore !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1594 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_4ea5108e:
 msgid "[_lindsey_s_excited_album_] And Morgan Leeman's signature is just like his drum solos — flashy and intense!"
-msgstr "[Et la signature de Morgan Leeman est à l'image de ses solos de batterie : flashy et intense !"
+msgstr "[_lindsey_s_excited_album_] Et la signature de Morgan Leeman est à l'image de ses solos de batterie : flashy et intense !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1595 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_eec1c299:
 msgid "[_mc_] Yeah, he's just like that in person, too. Wore his shades over his helmet while playing."
@@ -3402,7 +3402,7 @@ msgstr "[_lindsey_s_confident_album_] Bon sang, c'est tellement cool ! Je n'arri
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1597 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_07530f2e:
 msgid "[_lindsey_s_confident_album_] Let's play it!"
-msgstr "[Jouons-y !"
+msgstr "[_lindsey_s_excited_album_] Jouons-y !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1598 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_efc8b5f4:
 msgid "[_mc_] Okay, just put it in my computer."
@@ -3550,7 +3550,7 @@ msgstr "[lindsey] sent si bien près ... Les bonbons de coton et le printemps. S
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1698 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_cfa295b7:
 msgid "[_lindsey_s_dancing_with_the_mc_smile_] Take it slow! Lead me around the room to the music."
-msgstr "[Allez-y doucement ! Fais-moi faire le tour de la pièce au son de la musique."
+msgstr "[_lindsey_s_dancing_with_the_mc_smile_] Allez-y doucement ! Fais-moi faire le tour de la pièce au son de la musique."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1704 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_b0affa10:
 msgid "Okay, this isn't too hard. As long as I don't step on her toes..."
@@ -3702,7 +3702,7 @@ msgstr "[_lindsey_s_dancing_with_the_mc_admiring_] C'est si gentille ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1924 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_ef68f173:
 msgid "[_lindsey_s_dancing_with_the_mc_admiring_] My mom would like you."
-msgstr "[Ma mère t'aimerait bien."
+msgstr "[_lindsey_s_dancing_with_the_mc_admiring_] Ma mère t'aimerait bien."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1931 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_9493c4d1:
 msgid "[_mc_] Maybe you should start deciding things for yourself?"
@@ -3874,11 +3874,11 @@ msgstr "[_mc_] J'ai encore quelques mois pour trouver quelque chose ..."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:2109 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_1017b3b4:
 msgid "[_lindsey_s_excited_album_] Noo! This is enough for the next five Christmases!"
-msgstr "[_lindsey_s_excited_album_] Noo ! C'est suffisant pour les cinq prochains Noëls !"
+msgstr "[_lindsey_s_excited_album_] Noon ! C'est suffisant pour les cinq prochains Noëls !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:2110 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_cced5011:
 msgid "[_lindsey_s_excited_album_] It is I who have to come up with something!"
-msgstr "[C'est moi qui dois trouver quelque chose !"
+msgstr "[_lindsey_s_excited_album_] C'est moi qui dois trouver quelque chose !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:2111 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_00aa7b6e:
 msgid "[_mc_] I'll just settle for a stolen moment under the mistletoe."
