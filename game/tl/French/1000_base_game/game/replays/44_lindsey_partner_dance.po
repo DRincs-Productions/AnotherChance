@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:07\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/44_lindsey_partner_dance.rpy:11 #-#-# translate crowdin replay_lindsey_partner_dance_eb07dd0c:
 msgid "[_lindsey_s_dancing_with_the_mc_smile_] Good, just like that!"
@@ -22,7 +22,7 @@ msgstr "[lindsey] sent si bien près ... Les bonbons de coton et le printemps. S
 
 # game/1000_base_game/game/replays/44_lindsey_partner_dance.rpy:23 #-#-# translate crowdin replay_lindsey_partner_dance_cfa295b7:
 msgid "[_lindsey_s_dancing_with_the_mc_smile_] Take it slow! Lead me around the room to the music."
-msgstr "[Allez-y doucement ! Fais-moi faire le tour de la pièce au son de la musique."
+msgstr "[_lindsey_s_dancing_with_the_mc_smile_] Allez-y doucement ! Fais-moi faire le tour de la pièce au son de la musique."
 
 # game/1000_base_game/game/replays/44_lindsey_partner_dance.rpy:29 #-#-# translate crowdin replay_lindsey_partner_dance_b0affa10:
 msgid "Okay, this isn't too hard. As long as I don't step on her toes..."
@@ -174,7 +174,7 @@ msgstr "[_lindsey_s_dancing_with_the_mc_admiring_] C'est si gentille ..."
 
 # game/1000_base_game/game/replays/44_lindsey_partner_dance.rpy:248 #-#-# translate crowdin replay_lindsey_partner_dance_ef68f173:
 msgid "[_lindsey_s_dancing_with_the_mc_admiring_] My mom would like you."
-msgstr "[Ma mère t'aimerait bien."
+msgstr "[_lindsey_s_dancing_with_the_mc_admiring_] Ma mère t'aimerait bien."
 
 # game/1000_base_game/game/replays/44_lindsey_partner_dance.rpy:255 #-#-# translate crowdin replay_lindsey_partner_dance_9493c4d1:
 msgid "[_mc_] Maybe you should start deciding things for yourself?"
