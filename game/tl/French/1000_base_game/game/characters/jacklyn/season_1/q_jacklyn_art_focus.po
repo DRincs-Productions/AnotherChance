@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:07\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:3 #-#-# translate crowdin jacklyn_quest_art_focus_start_c48426d3:
 msgid "[_mc_] I'd like to sign up for your class, please."
@@ -330,7 +330,7 @@ msgstr "Utiliser mon [item.title_lower] au lieu d'une brosse est totalement avan
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:123 #-#-# translate crowdin jacklyn_art_focus_easel_use_aa382e53:
 msgid "The strokes of a brush wouldn't impress anyone. Least of all an art connoisseur like [jacklyn]."
-msgstr "Les coups de pinceau n'impressionneraient personne. Encore moins un connaisseur d'art comme [Jacklyn]."
+msgstr "Les coups de pinceau n'impressionneraient personne. Encore moins un connaisseur d'art comme [jacklyn]."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:124 #-#-# translate crowdin jacklyn_art_focus_easel_use_1a0f1a88:
 msgid "True art requires finesse..."
@@ -754,7 +754,7 @@ msgstr "[_jacklyn_] [flora] ? Déjà serrer tes cuisses pour moi ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:291 #-#-# translate crowdin jacklyn_contact_second_chance_8fbf17b4:
 msgid "Oh shit. It's [jacklyn]. I guess [flora] is still trying to impress her."
-msgstr "Oh, merde. C'est [Jacklyn]. Je suppose que [Flora] essaie toujours de l'impressionner."
+msgstr "Oh, merde. C'est [jacklyn]. Je suppose que [Flora] essaie toujours de l'impressionner."
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:293 #-#-# translate crowdin jacklyn_contact_second_chance_59eaa331:
 msgid "[_mc_] Err, no... this is [mc]. [flora] just used my phone."
