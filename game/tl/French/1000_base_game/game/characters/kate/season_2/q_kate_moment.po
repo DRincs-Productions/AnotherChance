@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-15 15:30\n"
+"PO-Revision-Date: 2024-03-18 16:13\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2 #-#-# translate crowdin quest_kate_moment_start_d812283f:
 msgid "Huh? This is an odd sight..."
@@ -1620,7 +1620,7 @@ msgstr "Hmm... il y a un e-mail d'un médecin... adressé à [jo]."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:624 #-#-# translate crowdin quest_kate_moment_principal_office_d09a5f4d:
 msgid "{i}\"As we discussed earlier over the phone, I've scheduled one appointment per week for [kate].\"{/}"
-msgstr "{i}\"Comme nous en avons discuté au téléphone, j'ai programmé un rendez-vous par semaine pour [Kate]."
+msgstr "{i}\"Comme nous en avons discuté au téléphone, j'ai programmé un rendez-vous par semaine pour [kate]."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:625 #-#-# translate crowdin quest_kate_moment_principal_office_273e4d8a:
 msgid "{i}\"This appointment will be during school hours for privacy reasons, as per her request.\"{/}"
@@ -2770,7 +2770,7 @@ msgstr "\"Tout va bien ?\""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:432
 msgid "\"I like [kate].\""
-msgstr "\"J'aime bien [Kate]\"."
+msgstr "\"J'aime bien [kate]\"."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:432
 msgid "\"What if there's something\n"
@@ -2806,7 +2806,7 @@ msgstr "\"J'essaie juste de donner un sens au monde\n"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:660
 msgid "\"[kate] is going to be missing school one day per week.\""
-msgstr "\"[Kate] va manquer l'école un jour par semaine\"."
+msgstr "\"[kate] va manquer l'école un jour par semaine\"."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:660
 msgid "?quest.isabelle_locker.actually_finished and (not quest.isabelle_locker['time_for_a_change'] or quest.isabelle_hurricane.actually_finished) and isabelle.lust>=10@|{image=isabelle_hurricane_sex}|{color=#000}+{/}|[isabelle.lust]/10|{image=isabelle contact_icon}|{image=stats lust_3}|\"I'll tell you in person if{space=-20}\n"
