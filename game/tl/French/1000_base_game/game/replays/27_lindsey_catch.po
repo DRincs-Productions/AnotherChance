@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:07\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/27_lindsey_catch.rpy:10 #-#-# translate crowdin replay_lindsey_catch_3a5b2e50:
 msgid "[_lindsey_s_lindseyfall_] Eeep!"
@@ -46,7 +46,7 @@ msgstr "[_mc_] Peut-être que si vous ralentissez, vous remarqueriez les gens qu
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:28 #-#-# translate crowdin replay_lindsey_catch_e58da0a1:
 msgid "[_lindsey_s_lindseycatch_look_] I'm late for practice... thanks for catching me, though!"
-msgstr "[Je suis en retard pour l'entraînement... mais merci de m'avoir rattrapée !"
+msgstr "[[_lindsey_s_lindseycatch_look_] Je suis en retard pour l'entraînement... mais merci de m'avoir rattrapée !"
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:29 #-#-# translate crowdin replay_lindsey_catch_550ac48d:
 msgid "[_mc_] You're going to hurt yourself if you keep being careless."
