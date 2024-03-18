@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:07\n"
+"PO-Revision-Date: 2024-03-18 15:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:17 #-#-# translate crowdin replay_nurse_first_strike_04de358e:
 msgid "[_nurse_s_neutral_] Gosh, I'm not sure you should be looking through that book\n"
@@ -228,7 +228,7 @@ msgstr "[_nurse_s_annoyed_]..."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:106 #-#-# translate crowdin replay_nurse_first_strike_fd65bb4f:
 msgid "[maxine] doesn't seem fazed by the [nurse]'s nudity at all."
-msgstr "[La nudité de l'[infirmière] n'a pas l'air de l'effrayer."
+msgstr "[La nudité de l'[nurse] n'a pas l'air de l'effrayer."
 
 # game/1000_base_game/game/replays/15_nurse_first_strike.rpy:107 #-#-# translate crowdin replay_nurse_first_strike_9195312a:
 msgid "The [nurse], on the other hand, is sweating and squirming."
