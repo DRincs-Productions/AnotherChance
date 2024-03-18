@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 16:13\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:17 #-#-# translate crowdin quest_kate_fate_start_ec93e813:
 msgid "[_kate_s_neutral_] Excuse me. What do you think you're doing?"
@@ -1682,7 +1682,7 @@ msgstr "Oh, merde. Quelqu'un vient !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:914 #-#-# translate crowdin quest_kate_fate_conversation_f83faf51:
 msgid "Please not the [guard]..."
-msgstr "S'il vous plaît, pas le [garde]..."
+msgstr "S'il vous plaît, pas le [guard]..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:915 #-#-# translate crowdin quest_kate_fate_conversation_dad0ba1c:
 msgid "Please not [flora]..."
@@ -2058,7 +2058,7 @@ msgstr "[_mc_]  _mc_ ] Blegh ! [_mc_]  withvpunch ]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1096 #-#-# translate crowdin quest_kate_fate_conversation_c24253d9:
 msgid "Not sure why, but I feel like [isabelle] would've exploded if she learned about the socks..."
-msgstr "Je ne sais pas trop pourquoi, mais j'ai l'impression qu'[Isabelle] aurait explosé si elle avait appris pour les chaussettes..."
+msgstr "Je ne sais pas trop pourquoi, mais j'ai l'impression qu'[isabelle] aurait explosé si elle avait appris pour les chaussettes..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1098 #-#-# translate crowdin quest_kate_fate_conversation_3a722b16:
 msgid "Some things are best kept from her."
@@ -2266,7 +2266,7 @@ msgstr "[_mc_] {i}Mmmph. {/}"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1181 #-#-# translate crowdin quest_kate_fate_conversation_02fa810b:
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_neutral_phoneground_] I hope that means \"thank you.\""
-msgstr "[_kate_s_cheerleader_feet_nofeet_kate_neutral_phoneground_] J'espère que ça veut dire \"merci\"."
+msgstr "[_kate_s_cheerleader_feet_nofeet_kate_neutral_phoneground_] J'espère que ça veut dire \"merci.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1182 #-#-# translate crowdin quest_kate_fate_conversation_9af4d77f:
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_neutral_phoneground_] If it's not, then the next words that come out of your mouth better be.{space=-40}"
@@ -2934,7 +2934,7 @@ msgstr "\"Elle t'a bien fait.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1383
 msgid "\"Survival of the Fittest.\""
-msgstr "\"La survie du plus fort\"."
+msgstr "\"La survie du plus fort.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1383
 msgid "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|\"The Taming of the Shrew.\""
