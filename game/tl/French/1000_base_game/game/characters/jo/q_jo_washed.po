@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-15 15:30\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:43 #-#-# translate crowdin quest_jo_washed_start_0d7bce5a:
 msgid "Sometimes when life gets rough, it's easier to just escape."
@@ -474,7 +474,7 @@ msgstr "Et puis je suis allé au foyer."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:231 #-#-# translate crowdin quest_jo_washed_supplies_homeroom_69ba0e76:
 msgid "And I remember thinking, \"If only [mrsl] would get out of her cardigan and help with the car wash...\""
-msgstr "Et je me souviens avoir pensé : \"Si seulement [mrsl] sortait de son gilet et aidait à laver la voiture...\"."
+msgstr "Et je me souviens avoir pensé : \"Si seulement [mrsl] sortait de son gilet et aidait à laver la voiture....\""
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:235 #-#-# translate crowdin quest_jo_washed_supplies_first_hall_8926ceb6:
 msgid "And then I went and looked out the window for a moment, imagining{space=-10}\n"
@@ -1118,11 +1118,11 @@ msgstr "[_kate_s_blush_marker_] {i}\"Propriété ...\" {/}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:512 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_21b36b9a:
 msgid "[_kate_s_blush_marker_] {i}\"...of...\"{/}"
-msgstr "[_kate_s_blush_marker_] {i}\"... de ...\" {/}"
+msgstr "[_kate_s_blush_marker_] {i}.\".. de ...\" {/}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:514 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_9752890c:
 msgid "[_kate_s_blush_marker_] {i}\"...[kate].\"{/}"
-msgstr "[_kate_s_blush_marker_] {i}\"...[kate].\" {/}"
+msgstr "[_kate_s_blush_marker_] {i}.\"..[kate].\" {/}"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:515 #-#-# translate crowdin quest_jo_washed_supplies_car_wash_signs_ef0c6957:
 msgid "[_kate_s_blush_marker_] There! All done."
@@ -1740,7 +1740,7 @@ msgstr "[_mc_] Sur elle."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:829 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_88c6f876:
 msgid "This is such a weird fantasy. Rubbing [jacklyn] with sponges."
-msgstr "C'est un fantasme tellement bizarre. Frotter [Jacklyn] avec des éponges."
+msgstr "C'est un fantasme tellement bizarre. Frotter [jacklyn] avec des éponges."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:830 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_f78d5f6f:
 msgid "Although... I wonder how she would react to a rougher one?"
