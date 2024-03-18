@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-15 15:29\n"
+"PO-Revision-Date: 2024-03-18 15:02\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6 #-#-# translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
 msgid "[_mc_] Hey, how are you holding up?"
@@ -1780,7 +1780,7 @@ msgstr "Fils d'une salope."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:735 #-#-# translate crowdin quest_isabelle_hurricane_forest_creepy_hut_0791b797:
 msgid "It's [isabelle]'s locker. It's just lying here in the grass."
-msgstr "C'est le casier d'Isabelle. Il est juste là, dans l'herbe."
+msgstr "C'est le casier de [isabelle]. Il est juste là, dans l'herbe."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:736 #-#-# translate crowdin quest_isabelle_hurricane_forest_creepy_hut_a20cefa7_2:
 msgid "..."
@@ -2948,7 +2948,7 @@ msgstr "[Avez-vous lu \"Les mensonges de Locke Lamora\" ?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1419 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_isabelle_ef5fe360:
 msgid "[_isabelle_s_annoyed_left_] I don't have access to horse piss, but I reckon we'll figure something out."
-msgstr "[Je n'ai pas accès à de la pisse de cheval, mais je pense que nous trouverons quelque chose."
+msgstr "[_isabelle_s_annoyed_left_] Je n'ai pas accès à de la pisse de cheval, mais je pense que nous trouverons quelque chose."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1424 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_locker_c32a7469:
 msgid "How did [maxine] even get this here?"
