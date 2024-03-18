@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-15 15:30\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:5 #-#-# translate crowdin quest_lindsey_wrong_start_c5a1334f:
 msgid "[_lindsey_s_concerned_] ..."
@@ -402,7 +402,7 @@ msgstr "[_mc_] Peut-être que si vous ralentissez, vous remarqueriez les gens qu
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:145 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_e58da0a1:
 msgid "[_lindsey_s_lindseycatch_look_] I'm late for practice... thanks for catching me, though!"
-msgstr "[Je suis en retard pour l'entraînement... mais merci de m'avoir rattrapée !"
+msgstr "[[_lindsey_s_lindseycatch_look_] Je suis en retard pour l'entraînement... mais merci de m'avoir rattrapée !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:146 #-#-# translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_550ac48d:
 msgid "[_mc_] You're going to hurt yourself if you keep being careless."
@@ -1546,7 +1546,7 @@ msgstr "[_lindsey_s_soaked_blush_] Aw, merci d'être gentil à ce sujet."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:615 #-#-# translate crowdin lindsey_wrong_puddle_use_mop_appear_6a46288e:
 msgid "[_lindsey_s_soaked_blush_] I should've realized something was wrong when I saw the hoodie."
-msgstr "[J'aurais dû me rendre compte que quelque chose n'allait pas quand j'ai vu le sweat à capuche."
+msgstr "[_lindsey_s_soaked_blush_] J'aurais dû me rendre compte que quelque chose n'allait pas quand j'ai vu le sweat à capuche."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:617 #-#-# translate crowdin lindsey_wrong_puddle_use_mop_appear_9ac8afa0:
 msgid "[_mc_] You look super cute right now."
@@ -2478,7 +2478,7 @@ msgstr "[_lindsey_s_Souriez_] Merci. Et merci d'être si gentille avec moi."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:998 #-#-# translate crowdin quest_lindsey_wrong_lindseyclothes_60e7255e:
 msgid "[_mc_] You're one of the first people I think of when I hear the phrase \"good people.\""
-msgstr "[Vous êtes l'une des premières personnes auxquelles je pense lorsque j'entends l'expression \"bonnes personnes\"."
+msgstr "[Vous êtes l'une des premières personnes auxquelles je pense lorsque j'entends l'expression \"bonnes personnes.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:999 #-#-# translate crowdin quest_lindsey_wrong_lindseyclothes_a9d99a9f:
 msgid "[_mc_] And this year, I've decided to be better as well."
@@ -2838,7 +2838,7 @@ msgstr "[_mc_] Hmm ... ok !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:1130 #-#-# translate crowdin lindsey_wrong_school_gym_lindseybottle_enter_aa388ff8:
 msgid "[_lindsey_s_excited_] Okay, great! Gotta run! Thanks for the water again!"
-msgstr "[Ok, super ! Je dois courir ! Merci encore pour l'eau !"
+msgstr "[_lindsey_s_excited_] Ok, super ! Je dois courir ! Merci encore pour l'eau !"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:1139 #-#-# translate crowdin lindsey_wrong_school_first_hall_splash_enter_6229fffe:
 msgid "Crap. Totally forgot about the surveillance camera."
@@ -3250,7 +3250,7 @@ msgstr "Je n'arrive pas à croire que c'est arrivé."
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:1303 #-#-# translate crowdin kate_quest_lindsey_wrong_cleanforkate_d1d064d0:
 msgid "Why do I feel such an urge to kneel down, kiss [kate]'s shoes, and thank her?"
-msgstr "Pourquoi ai-je tellement envie de m'agenouiller, d'embrasser les chaussures de [Kate] et de la remercier ?"
+msgstr "Pourquoi ai-je tellement envie de m'agenouiller, d'embrasser les chaussures de [kate] et de la remercier ?"
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:1304 #-#-# translate crowdin kate_quest_lindsey_wrong_cleanforkate_99810823:
 msgid "She's messing with my head."
@@ -3326,7 +3326,7 @@ msgstr "?not lindsey ['romance_disabled'] and lindsey.love>=4 @|{image=lindsey_i
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:140
 msgid "?not lindsey['romance_disabled'] and lindsey.love>=4@[lindsey.love]/4|{image=lindsey contact_icon}|{image=stats love_3}|\"We have to stop meeting like this.\""
-msgstr "?not lindsey['romance_disabled'] and lindsey.love>=4@[lindsey.love]/4|{image=lindsey contact_icon}|{image=stats love_3}|\"Il faut qu'on arrête de se voir comme ça\"."
+msgstr "?not lindsey['romance_disabled'] and lindsey.love>=4@[lindsey.love]/4|{image=lindsey contact_icon}|{image=stats love_3}|\"Il faut qu'on arrête de se voir comme ça.\""
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:235
 msgid "?lindsey['romance_disabled']@|{image=lindsey contact_icon_evil}|Start filming her"
