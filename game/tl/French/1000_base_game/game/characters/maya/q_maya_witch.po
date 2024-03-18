@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:02\n"
+"PO-Revision-Date: 2024-03-18 17:12\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2 #-#-# translate crowdin quest_maya_witch_start_7c4911ec:
 msgid "Oh, man. There's [maya] again."
@@ -1542,7 +1542,7 @@ msgstr "[_mc_] Quoi ? Non ! Juste, err ... devoirs ..."
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:659 #-#-# translate crowdin quest_maya_witch_computer_class_7336dd2a:
 msgid "[_maya_s_flirty_] Sure, \"homework.\" Can't get through the whole day without busting a nut, huh?"
-msgstr "[_maya_s_flirty_] Sure, \"devoirs\". On ne peut pas passer toute la journée sans avoir un écrou, hein ?"
+msgstr "[_maya_s_flirty_] Sure, \"devoirs.\" On ne peut pas passer toute la journée sans avoir un écrou, hein ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:660 #-#-# translate crowdin quest_maya_witch_computer_class_dd09008e:
 msgid "[_maya_s_kiss_] Maybe I could help bust it for you?"
@@ -2048,7 +2048,7 @@ msgstr "[_jo_] ... nous ?"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:822 #-#-# translate crowdin quest_maya_witch_phone_call_5b61e0e5:
 msgid "She didn't even react to the word \"survive.\" That just goes to show...{space=-20}"
-msgstr "Elle n'a même pas réagi au mot \"survivre\". Cela va juste à show... {space=-20}"
+msgstr "Elle n'a même pas réagi au mot \"survivre.\" Cela va juste à show... {space=-20}"
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:825 #-#-# translate crowdin quest_maya_witch_phone_call_a2458e8a:
 msgid "[_mc_] [maya] is locked\n"
