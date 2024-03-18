@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:06\n"
+"PO-Revision-Date: 2024-03-18 15:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:41 #-#-# translate crowdin quest_flora_bonsai_pads_interact_ac24309d:
 msgid "Better not keep [isabelle] waiting, else she might burst in."
@@ -66,7 +66,7 @@ msgstr "[_nurse_s_annoyed_]..."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:95 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_fd65bb4f:
 msgid "[maxine] doesn't seem fazed by the [nurse]'s nudity at all."
-msgstr "[La nudité de l'[infirmière] n'a pas l'air de l'effrayer."
+msgstr "[La nudité de l'[nurse] n'a pas l'air de l'effrayer."
 
 # game/1000_base_game/game/locations/school/nurse_room/int_door.rpy:96 #-#-# translate crowdin quest_nurse_strike_nude_office_maxine_visitor_9195312a:
 msgid "The [nurse], on the other hand, is sweating and squirming."
