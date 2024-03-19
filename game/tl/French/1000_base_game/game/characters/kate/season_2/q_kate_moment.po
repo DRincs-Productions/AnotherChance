@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 16:13\n"
+"PO-Revision-Date: 2024-03-19 15:09\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2 #-#-# translate crowdin quest_kate_moment_start_d812283f:
 msgid "Huh? This is an odd sight..."
@@ -552,7 +552,7 @@ msgstr "Pas sûr."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:223 #-#-# translate crowdin quest_kate_moment_jacklyn_art_class_3ca5dc6d:
 msgid "Either way, [jacklyn] might know something as a teacher's aide."
-msgstr "Quoi qu'il en soit, [Jacklyn] pourrait savoir quelque chose en tant qu'aide-enseignante."
+msgstr "Quoi qu'il en soit, [jacklyn] pourrait savoir quelque chose en tant qu'aide-enseignante."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:229 #-#-# translate crowdin quest_kate_moment_jacklyn_b3614bc3:
 msgid "[_jacklyn_s_excited_] 'Sup, brochacho?"
@@ -1664,7 +1664,7 @@ msgstr "En tout cas, c'est un jour de moins de [kate] par semaine. Cela mérite 
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:636 #-#-# translate crowdin quest_kate_moment_principal_office_69c806aa:
 msgid "[isabelle] will be thrilled. I better send her a te—"
-msgstr "[Isabelle] sera ravie. Je ferais mieux de lui envoyer un te-"
+msgstr "[isabelle] sera ravie. Je ferais mieux de lui envoyer un te-"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:637 #-#-# translate crowdin quest_kate_moment_principal_office_a20cefa7_3:
 msgid "..."
@@ -1672,7 +1672,7 @@ msgstr "..."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:638 #-#-# translate crowdin quest_kate_moment_principal_office_9c315fd9:
 msgid "Right, [isabelle] still isn't talking to me after I fucked [kate]."
-msgstr "C'est vrai, [Isabelle] ne me parle toujours pas après que j'ai baisé [Kate]."
+msgstr "C'est vrai, [isabelle] ne me parle toujours pas après que j'ai baisé [Kate]."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:639 #-#-# translate crowdin quest_kate_moment_principal_office_2c11f865:
 msgid "I should probably try to patch that up first..."
@@ -1680,7 +1680,7 @@ msgstr "Je devrais probablement essayer de réparer cela d'abord..."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:651 #-#-# translate crowdin quest_kate_moment_principal_office_cdcf9f8f:
 msgid "[isabelle] will be thrilled. I better send her a text."
-msgstr "[Isabelle] sera ravie. Je ferais mieux de lui envoyer un message."
+msgstr "[isabelle] sera ravie. Je ferais mieux de lui envoyer un message."
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:657 #-#-# translate crowdin quest_kate_moment_text_b8a3e710:
 msgid "[_mc_] Hey! I have some good news."
@@ -2770,7 +2770,7 @@ msgstr "\"Tout va bien ?\""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:432
 msgid "\"I like [kate].\""
-msgstr "\"J'aime bien [kate]\"."
+msgstr "\"J'aime bien [kate].\""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:432
 msgid "\"What if there's something\n"
@@ -2796,7 +2796,7 @@ msgstr " ?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|\"Je ne suis qu'un 
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:550
 msgid "\"The meaning of love.\""
-msgstr "\"Le sens de l'amour\"."
+msgstr "\"Le sens de l'amour.\""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:550
 msgid "\"I'm just trying to make\n"
@@ -2806,7 +2806,7 @@ msgstr "\"J'essaie juste de donner un sens au monde\n"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:660
 msgid "\"[kate] is going to be missing school one day per week.\""
-msgstr "\"[kate] va manquer l'école un jour par semaine\"."
+msgstr "\"[kate] va manquer l'école un jour par semaine.\""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:660
 msgid "?quest.isabelle_locker.actually_finished and (not quest.isabelle_locker['time_for_a_change'] or quest.isabelle_hurricane.actually_finished) and isabelle.lust>=10@|{image=isabelle_hurricane_sex}|{color=#000}+{/}|[isabelle.lust]/10|{image=isabelle contact_icon}|{image=stats lust_3}|\"I'll tell you in person if{space=-20}\n"
