@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 13:33\n"
+"PO-Revision-Date: 2024-03-19 15:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:43 #-#-# translate crowdin quest_jo_washed_start_0d7bce5a:
 msgid "Sometimes when life gets rough, it's easier to just escape."
@@ -1816,7 +1816,7 @@ msgstr "[_jacklyn_s_laughing_sponges_] Oooh ..."
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:863 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_0ffc3d46:
 msgid "[_jacklyn_s_laughing_sponges_] Rub me raw, [mc]!"
-msgstr "[Frotte-moi à vif, [mc] !]"
+msgstr "[_jacklyn_s_annoyed_sponges_] Frotte-moi à vif, [mc] !"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:868 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_62a5ec96:
 msgid "[_jacklyn_s_laughing_sponges_] Mmm! It hurts so good!"
@@ -1888,7 +1888,7 @@ msgstr "[_mc_] Ne pouvons-nous pas continuer ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:893 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_b8886706:
 msgid "[_jacklyn_s_laughing_sponges_] Would you like to see how many sponges I can fit in my ass?"
-msgstr "[Voulez-vous voir combien d'éponges je peux mettre dans mon cul ?"
+msgstr "[_jacklyn_s_annoyed_sponges_] Voulez-vous voir combien d'éponges je peux mettre dans mon cul ?"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:894 #-#-# translate crowdin quest_jo_washed_supplies_jacklyn_4ba707fa:
 msgid "Okay, now it's turning into a wet dream rather than a daydream."
@@ -2930,7 +2930,7 @@ msgstr "[_jo_] Juste, euh... quelques trucs administratifs dont je devais m'occu
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1273 #-#-# translate crowdin quest_jo_washed_fundraiser_1d8133ee:
 msgid "[_flora_s_car_wash_s_flora_s_surprised_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_jo_s_smile_s_hose_dripping_s_wet_s_new_cars_] What the hell are—"
-msgstr "[_flora_s_car_wash_s_flora_s_surpris_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_jo_smile_s_hose_dripping_s_wet_s_new_cars_] Qu'est-ce que..."
+msgstr "[_flora_s_car_wash_s_flora_s_surprised_s_maxine_s_smile_s_kate_s_neutral_s_isabelle_s_neutral_s_jacklyn_s_smile_s_jo_s_smile_s_hose_dripping_s_wet_s_new_cars_] Qu'est-ce que—"
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1274 #-#-# translate crowdin quest_jo_washed_fundraiser_4a699106:
 msgid "[_mc_] ...we doing just standing around?!"
