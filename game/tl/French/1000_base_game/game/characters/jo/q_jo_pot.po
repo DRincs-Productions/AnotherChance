@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:01\n"
+"PO-Revision-Date: 2024-03-19 15:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:3 #-#-# translate crowdin quest_jo_pot_start_a253a57b:
 msgid "[_jo_] How's it going, honey?"
@@ -978,7 +978,7 @@ msgstr "[_mc_] Heureux que cela fonctionne."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:375 #-#-# translate crowdin quest_jo_pot_tea_home_8d0e4c53:
 msgid "[_jo_s_skeptical_s_flip_] Gosh, I'm already getting sleepy... it's been such a long day..."
-msgstr "[Bon sang, j'ai déjà sommeil... la journée a été si longue..."
+msgstr "[_jo_s_skeptical_s_flip_] Bon sang, j'ai déjà sommeil... la journée a été si longue..."
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:376 #-#-# translate crowdin quest_jo_pot_tea_home_011b8a85:
 msgid "[_jo_s_skeptical_s_flip_] Thanks for the tea, honey. I think I'm going to head upstairs before I pass out on the floor. Have a good night!"
