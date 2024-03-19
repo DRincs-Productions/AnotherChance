@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:08\n"
+"PO-Revision-Date: 2024-03-19 15:08\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:23 #-#-# translate crowdin kate_blowjob_dream_random_interact_locked_location_ea5ea154:
 msgid "Everytime I go inside, I end up where I started."
@@ -526,7 +526,7 @@ msgstr "En attendant son jugement. Prêt à envelopper ses lèvres autour de moi
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:229 #-#-# translate crowdin kate_quest_kate_blowjob_dream_school_9676ad85:
 msgid "The guilt must've caught up with her at long last. Maybe seeing me together with [isabelle] earlier made her realize her mistakes."
-msgstr "La culpabilité a dû finir par la rattraper. Peut-être qu'en me voyant avec [Isabelle], elle s'est rendu compte de ses erreurs."
+msgstr "La culpabilité a dû finir par la rattraper. Peut-être qu'en me voyant avec [isabelle], elle s'est rendu compte de ses erreurs."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:230 #-#-# translate crowdin kate_quest_kate_blowjob_dream_school_c7146f00:
 msgid "Maybe her looking like this is all I need to move on from the past? But let's be honest, who would say no to a blowjob from [kate]?"
@@ -1422,7 +1422,7 @@ msgstr "Hmm ... soit comme ça."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:36
 msgid "\"Apart from [isabelle] and [kate] almost ripping each other's heads off, pretty good.\""
-msgstr "\"A part [Isabelle] et [Kate] qui ont failli s'arracher la tête, c'est plutôt bien.\""
+msgstr "\"A part [isabelle] et [kate] qui ont failli s'arracher la tête, c'est plutôt bien.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:36
 msgid "\"[lindsey] had an accident.\""
@@ -1438,11 +1438,11 @@ msgstr "\" Le[kate] a été choisi le [isabelle]. \""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:45
 msgid "\"[isabelle] was rude.\""
-msgstr "\"[isabelle] a été impolie\"."
+msgstr "\"[isabelle] a été impolie.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:45
 msgid "\"They were both being catty.\""
-msgstr "\"Elles étaient toutes les deux méchantes\"."
+msgstr "\"Elles étaient toutes les deux méchantes.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:196
 msgid "?mc.strength>=1@[mc.strength]/1|{image=stats str}|\"There's no one else here.\n"
