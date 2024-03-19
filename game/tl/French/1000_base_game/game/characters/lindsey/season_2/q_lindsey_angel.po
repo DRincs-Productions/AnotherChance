@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 15:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4 #-#-# translate crowdin quest_lindsey_angel_start_9b346f38:
 msgid "[_guard_] Good morning, Newfall High. This is your administrator speaking."
@@ -194,7 +194,7 @@ msgstr "[_jo_s_blush_bag_] Vous savez, je suis très fier de l'homme que vous ê
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:75 #-#-# translate crowdin quest_lindsey_angel_good_news_34095a57:
 msgid "[_jo_s_blush_bag_] Kind and thoughtful, anxious to be there for your friends."
-msgstr "[Gentil et attentionné, soucieux d'être là pour ses amis."
+msgstr "[_jo_s_blush_bag_] Gentil et attentionné, soucieux d'être là pour ses amis."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:76 #-#-# translate crowdin quest_lindsey_angel_good_news_befb484d:
 msgid "[_jo_s_blush_bag_] I'm sorry I didn't tell you sooner."
@@ -834,7 +834,7 @@ msgstr "Vas-y. Fais ton travail pour une fois."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:412 #-#-# translate crowdin quest_lindsey_angel_lab_coat_school_ground_floor_1ca34785:
 msgid "[_guard_s_angry_phone_] Is nobody going to answer that...?"
-msgstr "[Personne ne va répondre...?"
+msgstr "[_guard_s_angry_phone_] Personne ne va répondre...?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:413 #-#-# translate crowdin quest_lindsey_angel_lab_coat_school_ground_floor_a293e1f7:
 msgid "[_guard_s_angry_phone_] Ugh, extra work..."
