@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:02\n"
+"PO-Revision-Date: 2024-03-19 15:04\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/spinach/spinach.rpy:224 #-#-# translate crowdin spinach_talk_hide_ff1922d5:
 msgid "[_spinach_] ..."
@@ -118,11 +118,11 @@ msgstr "Donner à une chatte mon [item.title_lower] est un fantasme excitant, ma
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:290 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_interact_ffca8880:
 msgid "[spinach] is almost as smart as [maxine] herself. And from the looks of it, the [nurse] put her in the supply closet as a decoy."
-msgstr "[Les épinards sont presque aussi intelligents que Maxine elle-même. Et d'après ce qu'il semble, l'[infirmière] l'a mise dans le placard à fournitures comme un leurre."
+msgstr "[Les épinards sont presque aussi intelligents que Maxine elle-même. Et d'après ce qu'il semble, l'[nurse] l'a mise dans le placard à fournitures comme un leurre."
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:291 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_interact_e8aa2b9e:
 msgid "Perhaps this little furball will lead me to the [nurse]'s real hiding spot. She's like a bloodhound once she gets a whiff of her prey."
-msgstr "Peut-être que cette petite boule de poils me conduira à la véritable cachette de l'[infirmière]. Elle est comme un limier dès qu'elle sent sa proie."
+msgstr "Peut-être que cette petite boule de poils me conduira à la véritable cachette de l'[nurse]. Elle est comme un limier dès qu'elle sent sa proie."
 
 # game/1000_base_game/game/characters/spinach/spinach.rpy:297 #-#-# translate crowdin spinach_quest_kate_search_for_nurse_interact_3a0cae08:
 msgid "[_mc_] Heeere, kitty kitty!"
