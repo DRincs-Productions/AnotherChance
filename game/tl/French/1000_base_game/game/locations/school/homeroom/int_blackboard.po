@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:06\n"
+"PO-Revision-Date: 2024-03-19 15:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:37 #-#-# translate crowdin school_homeroom_blackboard_interact_3970b336:
 msgid "{i}\"Seniors, sign up for your focus classes. Three in total. Sign-up lists available in each classroom.\"{/}"
@@ -26,7 +26,7 @@ msgstr "{i}\" Brûle ou planté ? C'est toujours une question de perspective. \"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:51 #-#-# translate crowdin school_homeroom_blackboard_interact_write_64f204de:
 msgid "{i}\"There's a reason 'bitch' rhymes with 'sandwich.' Get me one.\"{/}"
-msgstr "{i}\"Il y a une raison\" salope \"avec\" sandwich \". Laisse-moi un. \" {/}"
+msgstr "{i}\"Il y a une raison\" salope \"avec\" sandwich .\" Laisse-moi un. \" {/}"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:56 #-#-# translate crowdin school_homeroom_blackboard_interact_write_8188af96:
 msgid "{i}\"Roses are red. Violets are blue. [mrsl], you're a 10, and I'm thinking of you.\"{/}"
@@ -86,5 +86,5 @@ msgstr "Écrire quelque chose pour [isabelle]"
 
 # game/1000_base_game/game/locations/school/homeroom/int_blackboard.rpy:71
 msgid "Write something for [flora]"
-msgstr "Écrire quelque chose pour [flore]"
+msgstr "Écrire quelque chose pour [flora]"
 
