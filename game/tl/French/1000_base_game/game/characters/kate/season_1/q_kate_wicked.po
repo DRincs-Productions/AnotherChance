@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 15:08\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:20 #-#-# translate crowdin quest_kate_wicked_start_ccd3f5c7:
 msgid "[_kate_s_confident_] I thought I heard someone being noisy over here."
@@ -486,7 +486,7 @@ msgstr "[_mc_] Elle est, euh... elle était timide ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:213 #-#-# translate crowdin quest_kate_wicked_phone_call_1f7514f4:
 msgid "[_jo_s_laughing_] Shy? She's never struck me as the shy type!"
-msgstr "[Timide ? Elle ne m'a jamais semblé être du genre timide !"
+msgstr "[_jo_s_laughing_] Timide ? Elle ne m'a jamais semblé être du genre timide !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:216 #-#-# translate crowdin quest_kate_wicked_phone_call_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -530,11 +530,11 @@ msgstr "[_mc_] Quand il s'agit du [kate], je vous assure que c'est le cas."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:234 #-#-# translate crowdin quest_kate_wicked_phone_call_dadbe443:
 msgid "[_jo_s_flirty_hands_to_the_side_] Okay. Give her the key to the music classroom, and tell her that she can stop by my office next time. I don't bite!"
-msgstr "[D'accord. Donnez-lui la clé de la salle de musique, et dites-lui qu'elle peut passer dans mon bureau la prochaine fois. Je ne mords pas !"
+msgstr "[_jo_s_flirty_hands_to_the_side_] D'accord. Donnez-lui la clé de la salle de musique, et dites-lui qu'elle peut passer dans mon bureau la prochaine fois. Je ne mords pas !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:236 #-#-# translate crowdin quest_kate_wicked_phone_call_7b055eb8:
 msgid "[_jo_s_flirty_hands_to_the_side_] I have to get back now. Let me know how it went with [kate]!"
-msgstr "[Je dois y retourner maintenant. Tenez-moi au courant de ce qui s'est passé avec [kate] !"
+msgstr "[_jo_s_flirty_hands_to_the_side_] Je dois y retourner maintenant. Tenez-moi au courant de ce qui s'est passé avec [kate] !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:238 #-#-# translate crowdin quest_kate_wicked_phone_call_671f1895:
 msgid "That went easier than expected. Sometimes you just have to tell the truth..."
@@ -994,7 +994,7 @@ msgstr "[_guard_s_suspicious_flashlight_] Je fais mes derniers tours maintenant.
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:431 #-#-# translate crowdin quest_kate_wicked_school_guard_5c23ce4f:
 msgid "[_guard_s_suspicious_flashlight_] I want you out of here when I return."
-msgstr "[Je veux que vous sortiez d'ici à mon retour."
+msgstr "[_guard_s_suspicious_flashlight_] Je veux que vous sortiez d'ici à mon retour."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:433 #-#-# translate crowdin quest_kate_wicked_school_guard_fdc47ccf:
 msgid "Whatever, dude."
@@ -3716,7 +3716,7 @@ msgstr "Le [kate] semble complètement bouffé."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1535 #-#-# translate crowdin quest_kate_wicked_party_97ebd77a:
 msgid "[_kate_s_embarrassed_] That's..."
-msgstr "[C'est..."
+msgstr "[_kate_s_embarrassed_] C'est..."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1536 #-#-# translate crowdin quest_kate_wicked_party_70aa90b5:
 msgid "I've never seen her blush like this before."
