@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:02\n"
+"PO-Revision-Date: 2024-03-19 13:33\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:3 #-#-# translate crowdin mrsl_quest_poolside_story_start_9deed393:
 msgid "[_mrsl_s_smile_] Hi, [mc]! How can I help you today?"
@@ -1550,7 +1550,7 @@ msgstr "\"J'ai manqué de chemises et la machine à laver est cassée.\""
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:171
 msgid "\"I call it 'Mustard Skies Over Gray Chapels.'\""
-msgstr "Je l'appelle \"Le ciel moutarde au-dessus des chapelles grises\"."
+msgstr "Je l'appelle \"Le ciel moutarde au-dessus des chapelles grises.\""
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:171
 msgid "?mc.intellect>=2@[mc.intellect]/2|{image=stats int}|\"It's a work in progress. Do you have any ideas?\""
