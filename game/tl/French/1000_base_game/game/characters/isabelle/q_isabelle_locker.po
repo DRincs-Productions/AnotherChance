@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 15:02\n"
+"PO-Revision-Date: 2024-03-19 15:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:8 #-#-# translate crowdin quest_isabelle_locker_start_95c7633a:
 msgid "[_mc_] Are you okay?"
@@ -3242,7 +3242,7 @@ msgstr "\"[spinach]. \""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:193
 msgid "\"The Inconspicuous Group.\""
-msgstr "\"Le groupe discret\"."
+msgstr "\"Le groupe discret.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:291
 msgid "?mc.owned_item('sugar_cube')@[item_count]/1|{image= sugar_cube_small}|\"All information has a price. I'm willing to pay.\""
