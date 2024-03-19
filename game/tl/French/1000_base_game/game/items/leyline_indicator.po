@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:02\n"
+"PO-Revision-Date: 2024-03-19 15:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/leyline_indicator.rpy:50 #-#-# translate crowdin int_leyline_locator_charge_bb60e552:
 msgid "This thing is dead. It does seem to run on electricity, though... perhaps there's a way to charge it?"
@@ -138,7 +138,7 @@ msgstr "Si seulement ces lignes pouvaient me pointer dans la direction des meill
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:317 #-#-# translate crowdin locator_screen_school_cafeteria_c4ad2b30:
 msgid "On second thought, that direction is the [guard]'s booth. Don't need no magic lines to tell me!"
-msgstr "A bien y réfléchir, c'est la direction de la cabine du [garde]. Pas besoin de lignes magiques pour me le dire !"
+msgstr "A bien y réfléchir, c'est la direction de la cabine du [guard]. Pas besoin de lignes magiques pour me le dire !"
 
 # game/1000_base_game/game/items/leyline_indicator.rpy:321 #-#-# translate crowdin locator_screen_school_english_class_e34c05a1:
 msgid "That looks a bit like an inverted gastrohedron, but without the hexatropinac flexpod..."
