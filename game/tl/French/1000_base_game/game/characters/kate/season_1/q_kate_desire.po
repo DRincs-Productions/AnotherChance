@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 15:08\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:4 #-#-# translate crowdin quest_kate_desire_start_e8823701:
 msgid "Whenever I see [kate] in the gym, my heart starts beating a little faster..."
@@ -478,7 +478,7 @@ msgstr "[_kate_s_skeptical_] Soyez reconnaissants que j'ai même démis de l'exa
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:178 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_9d4be6c8:
 msgid "[_casey_s_confident_s_flip_] Katie with the vocab smackdown!"
-msgstr "[_casey_s_confident_s_flip_] Katie avec le smackdown de vocabulaire !"
+msgstr "[_casey_s_confident_s_flip_] Katie avec les écart de languages !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:179 #-#-# translate crowdin quest_kate_desire_kate_quest_gym_dcfa0e1b:
 msgid "[_casey_s_confident_s_flip_] [mc], you're lucky the challenge isn't an English test, because she would wreck you."
@@ -2358,7 +2358,7 @@ msgstr "[_kate_s_eyeroll_] Êtes-vous sérieux ? Acceptes juste ta défaite."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:993 #-#-# translate crowdin quest_kate_desire_conclusion_one_87982d1c:
 msgid "[_casey_s_neutral_s_flip_] Yeah, dude. Don't be a bad sport."
-msgstr "[Ouais, mec. Ne sois pas mauvais joueur."
+msgstr "[_casey_s_neutral_s_flip_] Ouais, mec. Ne sois pas mauvais joueur."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:994 #-#-# translate crowdin quest_kate_desire_conclusion_one_003eb614:
 msgid "[_kate_s_eyeroll_] Sore losers are the worst."
@@ -5210,7 +5210,7 @@ msgstr "[_stacy_s_confident_] La mentalité loser."
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2990 #-#-# translate crowdin quest_kate_desire_loser_end_1a65cabf:
 msgid "[_casey_s_confident_s_flip_] Truly!"
-msgstr "[Vraiment !"
+msgstr "[_casey_s_confident_s_flip_] Vraiment !"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2991 #-#-# translate crowdin quest_kate_desire_loser_end_9ed5c688:
 msgid "[_kate_s_neutral_] All right, get on your knees while I decide your fate, [mc]."
