@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:02\n"
+"PO-Revision-Date: 2024-03-19 15:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
@@ -930,7 +930,7 @@ msgstr "[_mc_] On aurait dit qu'un animal sauvage était entré là-dedans !"
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:512 #-#-# translate crowdin quest_mrsl_table_flora_c0e6765e:
 msgid "[_flora_s_cringe_] Don't call me \"dude.\""
-msgstr "[Ne m'appelez pas \"mec\"."
+msgstr "[_flora_s_cringe_] Ne m'appelez pas \"mec.\""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:513 #-#-# translate crowdin quest_mrsl_table_flora_f4c68166:
 msgid "[_mc_] Maybe I should go and have a word with her..."
@@ -2262,7 +2262,7 @@ msgstr "\"Je suis désolé, j'ai trébuché dessus... Je vais le réparer.\""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:471
 msgid "\"Not until you thank me for cleaning up your mess.\""
-msgstr "\"Pas avant que vous ne me remerciez d'avoir nettoyé votre désordre\"."
+msgstr "\"Pas avant que vous ne me remerciez d'avoir nettoyé votre désordre.\""
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:471
 msgid "\"I actually didn't mean to scare you, but I'm sorry if I did.\""
