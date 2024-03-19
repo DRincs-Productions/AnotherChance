@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 13:33\n"
+"PO-Revision-Date: 2024-03-19 15:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:3 #-#-# translate crowdin mrsl_quest_poolside_story_start_9deed393:
 msgid "[_mrsl_s_smile_] Hi, [mc]! How can I help you today?"
@@ -1510,7 +1510,7 @@ msgstr "[_mc_] Quelque chose de bizarre s'est produit."
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:687 #-#-# translate crowdin poolside_story_enter_sports_text2_884dc5e1:
 msgid "[_hidden_number_] Weird in what way?"
-msgstr "[Bizarre de quelle manière ?"
+msgstr "[_hidden_number_] Bizarre de quelle manière ?"
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:689 #-#-# translate crowdin poolside_story_enter_sports_text2_ed397dc0:
 msgid "Fuck. How do I even explain this?"
