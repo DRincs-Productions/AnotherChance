@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 15:08\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:5 #-#-# translate crowdin quest_kate_trick_start_6cb5dee0:
 msgid "Uh-oh. Did I just step into the Colosseum?"
@@ -1152,7 +1152,7 @@ msgstr "[_mc_] J'ai essayé de prendre des cours de gym, mais le gymnase semble 
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:571 #-#-# translate crowdin quest_kate_trick_jo_c4fc4c10:
 msgid "[_jo_s_cringe_] Off-limits? That doesn't sound good. "
-msgstr "[Hors limites ? Ça n'a pas l'air bon. "
+msgstr "[_jo_s_cringe_] Hors limites ? Ça n'a pas l'air bon. "
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:572 #-#-# translate crowdin quest_kate_trick_jo_b61f50c8:
 msgid "[_jo_s_laughing_] I'm glad you're finally starting to think of your health, though!"
@@ -1228,7 +1228,7 @@ msgstr "[_jo_s_sarcastic_] Et si vous êtes sérieux pour vous améliorer, la sa
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:598 #-#-# translate crowdin quest_kate_trick_jo_0cc7770c:
 msgid "[_jo_s_flirty_hands_to_the_side_] How does that sound?"
-msgstr "[Qu'est-ce que ça donne ?"
+msgstr "[_jo_s_flirty_hands_to_the_side_] Qu'est-ce que ça donne ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:599 #-#-# translate crowdin quest_kate_trick_jo_fa568567:
 msgid "[_mc_] I guess that's fine."
@@ -1264,7 +1264,7 @@ msgstr "[_jo_s_flirty_] Et si vous êtes sérieux pour vous améliorer, la salle
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:609 #-#-# translate crowdin quest_kate_trick_jo_2f171b0b:
 msgid "[_jo_s_sarcastic_hands_to_the_side_] How does that sound?"
-msgstr "[Qu'est-ce que ça donne ?"
+msgstr "[_jo_s_sarcastic_hands_to_the_side_] Qu'est-ce que ça donne ?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:610 #-#-# translate crowdin quest_kate_trick_jo_fa568567_1:
 msgid "[_mc_] I guess that's fine."
@@ -2986,8 +2986,7 @@ msgstr "[jo] n'aime pas discuter des questions scolaires à la maison. Je devrai
 msgid "\"As the class president and the head cheerleader, it's [kate]'s job to ensure\n"
 "that the sports teams get their\n"
 "allotted time at the gym.\""
-msgstr "\n"
-"\"En tant que présidente de la classe et chef des pom-pom girls, c'est à [kate] qu'il incombe de s'assurer\n"
+msgstr "\"En tant que présidente de la classe et chef des pom-pom girls, c'est à [kate] qu'il incombe de s'assurer\n"
 "que les équipes sportives disposent du temps qui leur est imparti dans le gymnase.\""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:22
