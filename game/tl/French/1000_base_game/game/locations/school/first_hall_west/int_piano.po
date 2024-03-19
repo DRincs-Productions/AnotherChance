@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:05\n"
+"PO-Revision-Date: 2024-03-19 15:06\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/first_hall_west/int_piano.rpy:40 #-#-# translate crowdin school_first_hall_west_piano_interact_0bd11f0c:
 msgid "Allegedly, some girls like it rough, but the abuse of this fine lady has only left her sad and untuned."
@@ -90,7 +90,7 @@ msgstr "Mais régler ce piano nécessite un marteau de réglage et une fourchett
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/school/first_hall_west/int_piano.rpy:78
 msgid "?quest.isabelle_tour.finished and (quest.isabelle_over_kate.started and not quest.isabelle_over_kate.failed) and quest.isabelle_stolen.finished and quest.isabelle_buried.finished and (quest.isabelle_locker.finished and (not quest.isabelle_locker['time_for_a_change'] or quest.isabelle_hurricane.finished)) and (not quest.isabelle_piano.started or quest.isabelle_piano == 'piano' or quest.isabelle_piano.finished)|Play something sweet and romantic"
-msgstr "?quest.isabelle_tour.terminé et (quest.isabelle_over_kate.commencé et non quest.isabelle_over_kate.échoué) et quest.isabelle_stolen.terminé et quest.isabelle_buried.terminé et (quest.isabelle_locker.terminé et (non quest.isabelle_locker['time_for_a_change'] ou quest.isabelle_hurricane.finished)) et (not quest.isabelle_piano.started or quest.isabelle_piano == 'piano' or quest.isabelle_piano.finished)|Jouer quelque chose de doux et romantique"
+msgstr "?quest.isabelle_tour.finished and (quest.isabelle_over_kate.started and not quest.isabelle_over_kate.failed) and quest.isabelle_stolen.finished and quest.isabelle_buried.finished and (quest.isabelle_locker.finished and (not quest.isabelle_locker['time_for_a_change'] or quest.isabelle_hurricane.finished)) and (not quest.isabelle_piano.started or quest.isabelle_piano == 'piano' or quest.isabelle_piano.finished)|Jouer quelque chose de doux et de romantique"
 
 # game/1000_base_game/game/locations/school/first_hall_west/int_piano.rpy:78
 msgid "?quest.isabelle_tour.finished and (quest.kate_over_isabelle.started and not quest.kate_over_isabelle.failed) and (not quest.isabelle_piano.started or quest.isabelle_piano == 'piano')|Play something sweet and romantic"
