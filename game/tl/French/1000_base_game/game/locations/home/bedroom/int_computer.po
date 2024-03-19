@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:03\n"
+"PO-Revision-Date: 2024-03-19 15:05\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:106 #-#-# translate crowdin home_bedroom_computer_interact_smash_or_pass_eb6d8658:
 msgid "This machine is one of the few things that brings me happiness. Fourteen hours a day has to be enough, though."
@@ -378,11 +378,11 @@ msgstr "Ah, il y a [mrsl]!"
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:284 #-#-# translate crowdin home_bedroom_computer_interact_isabelle_stolen_5ed6e96b:
 msgid "As usual, flirting with the poor [guard]. Teasing him with her body."
-msgstr "Comme d'habitude, elle flirte avec le pauvre [gardien]. Elle le taquine avec son corps."
+msgstr "Comme d'habitude, elle flirte avec le pauvre [guard]. Elle le taquine avec son corps."
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:285 #-#-# translate crowdin home_bedroom_computer_interact_isabelle_stolen_0bfeb02f:
 msgid "Looks like the glass to the [guard]'s booth is getting all steamy."
-msgstr "On dirait que la vitre de la cabine du [gardien] est en train de s'embuer."
+msgstr "On dirait que la vitre de la cabine du [guard] est en train de s'embuer."
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:286 #-#-# translate crowdin home_bedroom_computer_interact_isabelle_stolen_1d2cdcf5:
 msgid "She drew something on the glass. A heart? A pair of luscious lips?"
@@ -410,7 +410,7 @@ msgstr "Pourquoi, bonjour là encore, [mrsl]!"
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:297 #-#-# translate crowdin home_bedroom_computer_interact_isabelle_stolen_537cdac0:
 msgid "It's late in the day and you're still over there, bothering the [guard]."
-msgstr "Il est tard dans la journée et vous êtes toujours là, à déranger le [garde]."
+msgstr "Il est tard dans la journée et vous êtes toujours là, à déranger le [guard]."
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:298 #-#-# translate crowdin home_bedroom_computer_interact_isabelle_stolen_83298420:
 msgid "He probably likes the attention, though. I know I would."
@@ -614,7 +614,7 @@ msgstr "Quoi qu'il en soit, elle voudra probablement que la bande soit détruite
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:391 #-#-# translate crowdin home_bedroom_computer_interact_isabelle_stolen_0cb8a302:
 msgid "[kate]'s vendetta is against [isabelle], and she'd probably prefer her to keep wondering and growing frustrated."
-msgstr "La vendetta de [Kate] est contre [Isabelle], et elle préférerait probablement qu'elle continue à se poser des questions et à se sentir frustrée."
+msgstr "La vendetta de [kate] est contre [isabelle], et elle préférerait probablement qu'elle continue à se poser des questions et à se sentir frustrée."
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:392 #-#-# translate crowdin home_bedroom_computer_interact_isabelle_stolen_21f0ccc2:
 msgid "Maybe it's still worth asking [lindsey] about it. If nothing else, to sate my own curiosity."
