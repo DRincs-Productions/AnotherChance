@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 15:08\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:17 #-#-# translate crowdin quest_kate_fate_start_ec93e813:
 msgid "[_kate_s_neutral_] Excuse me. What do you think you're doing?"
@@ -2898,7 +2898,7 @@ msgstr "?quest.isabelle_over_kate.started and not quest.isabelle_over_kate.faile
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1053
 msgid "Spit out [kate]'s socks"
-msgstr "Cracher les chaussettes de [kate]."
+msgstr "Enlever les chaussettes de [kate]"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1154
 msgid "\"Yes, ma'am... I'm sorry for stepping out of line.\""
