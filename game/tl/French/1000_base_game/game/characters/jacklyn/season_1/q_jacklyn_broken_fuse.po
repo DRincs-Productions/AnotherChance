@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 13:33\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:3 #-#-# translate crowdin jacklyn_quest_jacklyn_broken_fuse_start_a0d205f9:
 msgid "[_jacklyn_s_thinking_] The definition of HD trash!"
@@ -22,7 +22,7 @@ msgstr "[_mc_] Excusez-moi ?"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:5 #-#-# translate crowdin jacklyn_quest_jacklyn_broken_fuse_start_047f31fa:
 msgid "[_jacklyn_s_angry_] The lightswitch, bro. It's not working!"
-msgstr "[L'interrupteur, mec. Il ne fonctionne pas !"
+msgstr "[_jacklyn_s_angry_] L'interrupteur, mec. Il ne fonctionne pas !"
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:6 #-#-# translate crowdin jacklyn_quest_jacklyn_broken_fuse_start_3e9db417:
 msgid "For a moment there, I thought she was talking to me. Well, it wouldn't have been the first time someone called me trash."
