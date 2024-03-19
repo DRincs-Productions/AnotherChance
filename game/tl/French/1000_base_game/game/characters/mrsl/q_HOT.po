@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 17:12\n"
+"PO-Revision-Date: 2024-03-19 15:04\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3 #-#-# translate crowdin mrsl_quest_HOT_start_9598f0ee:
 msgid "[mrsl] seems lost in thought. Her eyes wander slowly over the gym."
@@ -330,7 +330,7 @@ msgstr "[_mrsl_] Je viens de parler de mon entreprise."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:129 #-#-# translate crowdin mrsl_quest_HOT_eavesdrop_5331888a:
 msgid "??? [special_delimiter] And we both know what your business is..."
-msgstr "? ?? [special_delimiter] Et nous savons tous les deux quelle est votre activité..."
+msgstr "??? [special_delimiter] Et nous savons tous les deux quelle est votre activité..."
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:130 #-#-# translate crowdin mrsl_quest_HOT_eavesdrop_9a31e5da:
 msgid "[_mrsl_] It's not my fault if he's interested in me."
