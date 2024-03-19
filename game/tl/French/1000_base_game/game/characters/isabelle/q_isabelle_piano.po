@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-18 16:13\n"
+"PO-Revision-Date: 2024-03-19 15:03\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:47 #-#-# translate crowdin quest_isabelle_piano_start_af63ac0e:
 msgid "[_isabelle_s_excited_] I had no idea you play the piano!"
@@ -1566,7 +1566,7 @@ msgstr "\"Radio pop fans.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:86
 msgid "\"Bagpipe fans.\""
-msgstr "\"Les amateurs de cornemuse\"."
+msgstr "\"Les amateurs de cornemuse.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:181
 msgid "Take the {color=#C86055}red{/} cable"
