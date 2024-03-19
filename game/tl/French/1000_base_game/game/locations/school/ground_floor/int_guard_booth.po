@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:05\n"
+"PO-Revision-Date: 2024-03-19 15:07\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:88 #-#-# translate crowdin school_ground_floor_guard_booth_interact_default_c0f68e65:
 msgid "The [guard] seems to be asleep. "
@@ -66,7 +66,7 @@ msgstr "[_guard_] J'ai mon regard sur toi."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:116 #-#-# translate crowdin school_ground_floor_guard_booth_interact_isabelle_stolen_febb3bc1:
 msgid "The [guard]'s booth is empty save for a few crumbs of aged doughnuts."
-msgstr "La cabine du [garde] est vide, à l'exception de quelques miettes de beignets vieillis."
+msgstr "La cabine du [guard] est vide, à l'exception de quelques miettes de beignets vieillis."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:117 #-#-# translate crowdin school_ground_floor_guard_booth_interact_isabelle_stolen_30a02c41:
 msgid "The [guard] left his post to embark on a journey for sustenance."
@@ -142,7 +142,7 @@ msgstr "[_guard_] ZzzZzz."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:157 #-#-# translate crowdin school_ground_floor_guard_booth_interact_two_bceefa18:
 msgid "The [guard] is out cold. Probably some sort of doughnut induced coma."
-msgstr "Le [garde] est dans les vapes. Probablement une sorte de coma induit par les beignets."
+msgstr "Le [guard] est dans les vapes. Probablement une sorte de coma induit par les beignets."
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:161 #-#-# translate crowdin school_ground_floor_guard_booth_lindsey_wrong_mop_598c484a:
 msgid "[_mc_] Hey, I need a mop."
