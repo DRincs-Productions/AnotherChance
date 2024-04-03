@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-09 19:58\n"
+"PO-Revision-Date: 2024-04-03 12:09\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
@@ -70,11 +70,11 @@ msgstr ""
 
 # game/1000_base_game/screens.rpy:335
 msgid "Quit"
-msgstr ""
+msgstr "Выход"
 
 # game/1000_base_game/screens.rpy:560
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "Версия [config.version!t]\n"
 
 # game/1000_base_game/screens.rpy:566
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
