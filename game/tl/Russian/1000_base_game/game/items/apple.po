@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-04-03 16:23\n"
+"PO-Revision-Date: 2024-04-03 17:54\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/apple.rpy:16 #-#-# translate crowdin apple_interact_b8c7b10c:
 msgid "Earbuds not included. Charger not included. Battery not included."
-msgstr "В данный набор не входят: наушники, зарядное устройство, батарея."
+msgstr "Ни наушников, ни зарядного устройства, ни аккумулятора."
 
 # game/1000_base_game/game/items/apple.rpy:17 #-#-# translate crowdin apple_interact_878a0f83:
 msgid "Goes bad after a short while."
-msgstr ""
+msgstr "Через некоторое время портится."
 
 # game/1000_base_game/game/items/apple.rpy:18 #-#-# translate crowdin apple_interact_964d080b:
 msgid "In other words, a classic apple."
-msgstr ""
+msgstr "Другими словами, обычное яблоко."
 
 # game/1000_base_game/game/items/apple.rpy:19 #-#-# translate crowdin apple_interact_0c300a56:
 msgid "Luckily, you can always get a new and fresh one."
-msgstr ""
+msgstr "К счастью, вы всегда можете взять новее и свежее."
 
