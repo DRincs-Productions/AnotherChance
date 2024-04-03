@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-09 19:23\n"
+"PO-Revision-Date: 2024-04-03 17:54\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/english_class/int_quote_04.rpy:27 #-#-# translate crowdin school_english_class_quote_04_interact_30e6fd43:
 msgid "{i}\"All that glitters is not gold.\" — William Shakespeare{/}"
-msgstr ""
+msgstr "{i}\"Не все то золото, что блестит.\" — Уильям Шекспир {/}"
 
 # game/1000_base_game/game/locations/school/english_class/int_quote_04.rpy:32 #-#-# translate crowdin school_english_class_quote_use_9df6112a:
 msgid "Let's see what's behind here. Must be a letter of timeless love or something otherwise important."
