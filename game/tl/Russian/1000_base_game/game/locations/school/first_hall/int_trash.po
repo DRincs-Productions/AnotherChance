@@ -10,19 +10,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-02-09 16:45\n"
+"PO-Revision-Date: 2024-04-03 15:25\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/school/first_hall/int_trash.rpy:42 #-#-# translate crowdin school_first_hall_bin_interact_138b2b3b:
 msgid "One man's trash, another man's treasure. "
-msgstr ""
+msgstr "Для кого-то мусор, а для кого-то сокровище."
 
 # game/1000_base_game/game/locations/school/first_hall/int_trash.rpy:43 #-#-# translate crowdin school_first_hall_bin_interact_bc925e16:
 msgid "Not sure if that's true for this banana peel, though."
-msgstr ""
+msgstr "Не уверен, что эта поговорка относится к банановой кожуре, но всё же."
 
 # game/1000_base_game/game/locations/school/first_hall/int_trash.rpy:47 #-#-# translate crowdin school_first_hall_bin_interact_first_56e3e05d:
 msgid "Looking through the trash is always really popular. It makes you seem both hygienic and sound of mind."
-msgstr ""
+msgstr "Копаться в мусорном ведре это так круто. Это заставляет выглядеть как гигиенично, так и  душевно."
 
 # game/1000_base_game/game/locations/school/first_hall/int_trash.rpy:48 #-#-# translate crowdin school_first_hall_bin_interact_first_8da58776:
 msgid "Prejudice by people who don't have this..."
@@ -38,7 +38,7 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/first_hall/int_trash.rpy:59 #-#-# translate crowdin isabelle_quest_stolen_maxine_paper_first_hall_bin_a43a870e:
 msgid "No paper here."
-msgstr ""
+msgstr "Здесь нет бумаги."
 
 # game/1000_base_game/game/locations/school/first_hall/int_trash.rpy:63 #-#-# translate crowdin isabelle_quest_buried_boxhunt_first_hall_bin_7986a60f:
 msgid "Any heart-shaped boxes in here? Or well, any box really."
@@ -66,5 +66,5 @@ msgstr ""
 
 # game/1000_base_game/game/locations/school/first_hall/int_trash.rpy:69 #-#-# translate crowdin isabelle_quest_buried_boxhunt_first_hall_bin_6c153415:
 msgid "[maxine]."
-msgstr ""
+msgstr "[maxine]."
 
