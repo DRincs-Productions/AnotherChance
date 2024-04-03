@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-09 18:43\n"
+"PO-Revision-Date: 2024-04-03 16:23\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/items/apple.rpy:16 #-#-# translate crowdin apple_interact_b8c7b10c:
 msgid "Earbuds not included. Charger not included. Battery not included."
-msgstr ""
+msgstr "В данный набор не входят: наушники, зарядное устройство, батарея."
 
 # game/1000_base_game/game/items/apple.rpy:17 #-#-# translate crowdin apple_interact_878a0f83:
 msgid "Goes bad after a short while."
