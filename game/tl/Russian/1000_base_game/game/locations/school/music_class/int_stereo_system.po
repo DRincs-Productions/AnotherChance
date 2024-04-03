@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-09 19:40\n"
+"PO-Revision-Date: 2024-04-03 16:23\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:29 #-#-# translate crowdin school_music_class_stereo_system_interact_e0820c32:
 msgid "[_guard_] Welcome to music class, dear Newfall student."
-msgstr ""
+msgstr "[_guard_] Добро пожаловать в музыкальный класс, дорогой Ньюфоллский студент."
 
 # game/1000_base_game/game/locations/school/music_class/int_stereo_system.rpy:30 #-#-# translate crowdin school_music_class_stereo_system_interact_31801b67:
 msgid "[_guard_] As you may know, the changes to the curriculum are now in full effect.{space=-55}"
