@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-09 19:07\n"
+"PO-Revision-Date: 2024-04-03 13:36\n"
 
 # TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:86 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_b3662912:
 msgid "What should I do with this thing?"
-msgstr ""
+msgstr "Что мне делать с этой штукой?"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:88 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -22,15 +22,15 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:97 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_b9c32f7b:
 msgid "Ding-dong, the watch is dead! [withvpunch]"
-msgstr ""
+msgstr "Всё, дозвенелись, часики.  [withvpunch]"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:98 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_fb02c09d:
 msgid "Who knew a proper smashing would feel so good? The testosterone! The sheer power!"
-msgstr ""
+msgstr "Кто ж знал, что разбивать так прикольно? Тестостерон! Самая сила!"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:99 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_188953e0:
 msgid "Ugh, I'm pathetic."
-msgstr ""
+msgstr "Я так жалок."
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:100 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_251bbc0a:
 msgid "There's no need to be up for several more hours. Why the hell did my alarm go off so early?"
@@ -50,11 +50,11 @@ msgstr ""
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:116 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_smashed_31360bc0:
 msgid "You tell me, \"All I've done is create more despair and destruction in my environment.\""
-msgstr ""
+msgstr "Вы скажете мне, \"всё что ты совершаешь - отчаяние и разрушения.\""
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:117 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_smashed_8f055e01:
 msgid "I ask you, \"Why did it feel so good then?\""
-msgstr ""
+msgstr "А я спрошу вас, \"Тогда почему мне было так хорошо?\""
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:121 #-#-# translate crowdin home_bedroom_alarm_interact_smash_or_pass_off_8261505a:
 msgid "Those deprived of sympathy can still break the circle of abuse. Jesus turned the other cheek and so can I."
@@ -114,19 +114,19 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:87
 msgid "Smash it"
-msgstr ""
+msgstr "Разбить"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:87
 msgid "Turn it off"
-msgstr ""
+msgstr "Отключить"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:87
 msgid "Leave it"
-msgstr ""
+msgstr "Оставить"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:173
 msgid "Smash it again!"
-msgstr ""
+msgstr "Разбить его снова!"
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:173
 msgid "Let the new clock live... for now"
