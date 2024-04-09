@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-24 09:33\n"
+"PO-Revision-Date: 2024-04-09 10:27\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:106 #-#-# translate crowdin home_bedroom_computer_interact_smash_or_pass_eb6d8658:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:106 #-#-# translate crowdin home_bedroom_computer_interact_smash_or_pass_eb6d8658:
 msgid "This machine is one of the few things that brings me happiness. Fourteen hours a day has to be enough, though."
 msgstr "Questa macchina è una delle poche cose che mi porta felicità, ma quattordici ore al giorno devono essere sufficienti."
 
@@ -272,7 +272,7 @@ msgstr "{i}\"Deposita $50 nel conto qui sotto, e il primo videotape sarà conseg
 msgid "Hmm, fifty bucks for a videotape... it feels like a scam, but..."
 msgstr "Hmm, cinquanta dollari per una videocassetta... si sente come una truffa, ma..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:221 #-#-# translate crowdin home_bedroom_computer_interact_mrsl_HOT_reply_11fdb519:
+# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:220 #-#-# translate crowdin home_bedroom_computer_interact_mrsl_HOT_reply_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -964,7 +964,7 @@ msgstr "{i}\"Cresci tu stesso. Più forte del piatto. Più rilassante che tranqu
 msgid "This sounds like the stuff I need."
 msgstr "Questo suona come la roba di cui ho bisogno."
 
-# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:571 #-#-# translate crowdin jo_quest_potted_internet_buy_11fdb519:
+# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:570 #-#-# translate crowdin jo_quest_potted_internet_buy_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1000,7 +1000,7 @@ msgstr "Hmm... shopping online è ancora abbastanza sottosviluppato..."
 msgid "There's only one place that sells magnets, and they only have one in stock."
 msgstr "C'è solo un posto che vende magneti, e ne hanno solo uno in magazzino."
 
-# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:599 #-#-# translate crowdin home_bedroom_computer_interact_maxine_lines_take_magnet_11fdb519:
+# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:598 #-#-# translate crowdin home_bedroom_computer_interact_maxine_lines_take_magnet_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
