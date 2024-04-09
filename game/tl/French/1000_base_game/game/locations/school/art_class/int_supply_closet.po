@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 15:06\n"
+"PO-Revision-Date: 2024-04-09 10:10\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:42 #-#-# translate crowdin school_art_class_supply_closet_interact_95047015:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:42 #-#-# translate crowdin school_art_class_supply_closet_interact_95047015:
 msgid "This is where all the pranksters find their equipment."
 msgstr "C'est là que tous les farceurs trouvent leur matériel."
 
@@ -108,7 +108,7 @@ msgstr "C'est risqué de se mettre en travers du chemin de [kate], donc le choix
 msgid "But then, I would be devastated if someone gave me up to [kate]."
 msgstr "Mais alors, je serais dévastée si quelqu'un me donnait le [kate]."
 
-# game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:86 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_11fdb519:
+# game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:85 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -148,7 +148,7 @@ msgstr "[_mc_] Elle est verrouillée."
 msgid "[_kate_s_thinking_] Hmm..."
 msgstr "[_kate_s_thinking_] Hmm ..."
 
-# game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:103 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_11fdb519_1:
+# game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:102 #-#-# translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
