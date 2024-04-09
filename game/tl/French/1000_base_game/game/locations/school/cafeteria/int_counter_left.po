@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:04\n"
+"PO-Revision-Date: 2024-04-09 10:11\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:55 #-#-# translate crowdin school_cafeteria_counter_left_interact_two_0aaef48c:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:55 #-#-# translate crowdin school_cafeteria_counter_left_interact_two_0aaef48c:
 msgid "Entering the kitchen is against school regulations."
 msgstr "Entrer dans la cuisine est contraire aux règlements de l'école."
 
@@ -68,7 +68,7 @@ msgstr "[_mc_] Bonjour ? Puis-je avoir de l'ail, s'il vous plaît ?"
 msgid "They're all busy stirring their pots."
 msgstr "Ils sont tous occupés à remuer leurs pots."
 
-# game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:90 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_11fdb519:
+# game/1000_base_game/game/locations/school/cafeteria/int_counter_left.rpy:89 #-#-# translate crowdin school_cafeteria_counter_left_jacklyn_statement_ingredients_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
