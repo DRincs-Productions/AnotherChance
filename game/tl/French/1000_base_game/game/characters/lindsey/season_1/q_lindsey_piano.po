@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 15:04\n"
+"PO-Revision-Date: 2024-04-09 10:07\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:6 #-#-# translate crowdin quest_lindsey_piano_start_c8d9e68a:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:6 #-#-# translate crowdin quest_lindsey_piano_start_c8d9e68a:
 msgid "[_mc_] Hey, [lindsey]!"
 msgstr "[_mc_] Hé, [lindsey]!"
 
@@ -52,7 +52,7 @@ msgstr "Hmm ... elle a répondu ... peut-être ?"
 msgid "She's in some kind of trance."
 msgstr "Elle est dans une sorte de transe."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:20 #-#-# translate crowdin quest_lindsey_piano_start_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:19 #-#-# translate crowdin quest_lindsey_piano_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -316,7 +316,7 @@ msgstr "A-t-elle l'air plus détendue que d'habitude ? Hmm ... difficile à dire
 msgid "[_lindsey_s_smile_] I never took you for the musical type, but this tune gives me this feeling..."
 msgstr "[_lindsey_s_Souriez_] Je ne t'ai jamais pris pour le type musical, mais cet air me donne ce sentiment ..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:153 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:152 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -344,7 +344,7 @@ msgstr "[_mc_] Voulez-vous en entendre un autre ?"
 msgid "[_lindsey_s_laughing_] I'd love to!"
 msgstr "[_lindsey_s_laughing_] J'adorerais !"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:164 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_1:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:163 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -376,7 +376,7 @@ msgstr "[_kate_s_excited_] Les pauses entre les notes."
 msgid "[_lindsey_s_skeptical_] I don't think it was that bad!"
 msgstr "[_lindsey_s_skeptical_] Je ne pense pas que c'était aussi mauvais !"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:192 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_2:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:191 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -544,7 +544,7 @@ msgstr "[_kate_s_laughing_] Vous avez un bon enfant d'été."
 msgid "[_kate_s_smile_] Guys like him only have one thing on their mind."
 msgstr "[_kate_s_Souriez_] Les gars comme lui n'ont qu'une seule chose à l'esprit."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:267 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_3:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:266 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -584,7 +584,7 @@ msgstr "[_lindsey_s_Souriez_] C'est ce que je me dis avant de monter sur la pist
 msgid "[_lindsey_s_smile_] I know my best is really good, but it's okay to fall short of it as long as I try!"
 msgstr "[_lindsey_s_Souriez_] Je sais que mon meilleur est vraiment bien, mais c'est bien d'en tomber aussi longtemps que j'essaierai !"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:286 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_4:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:285 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_4:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -656,7 +656,7 @@ msgstr "[_mc_] Quelqu'un fort."
 msgid "[_lindsey_s_flirty_] I suppose that wouldn't be so bad!"
 msgstr "[_lindsey_s_flirty_] Je suppose que ce ne serait pas si mal !"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:312 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_5:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:311 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_5:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -788,7 +788,7 @@ msgstr "[_lindsey_s_laughing_] Oh, mon dieu !"
 msgid "[_kate_s_laughing_] I bet he'd sniff them too like the weirdo he is."
 msgstr "[_kate_s_laughing_] Je parie qu'il les renierait trop comme le weirdo qu'il est."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:369 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_6:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:368 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_6:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1008,7 +1008,7 @@ msgstr "Est-ce la même que maintenant ? Est-ce différent ?"
 msgid "Do they even like each other, or is this just the default niceness?"
 msgstr "S'apprécient-ils au moins l'un l'autre, ou s'agit-il simplement d'une gentillesse par défaut ?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:478 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_7:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:477 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_7:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1088,7 +1088,7 @@ msgstr "[_mc_] Peut-être un peu trop réel."
 msgid "[_lindsey_s_laughing_] You don't like her?"
 msgstr "[_lindsey_s_laughing_] Vous ne l'aimez pas ?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:508 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_8:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:507 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_8:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1248,7 +1248,7 @@ msgstr "[_isabelle_s_confident_] Je dois venir la voir participer à la compéti
 msgid "[_lindsey_s_laughing_] You guys..."
 msgstr "[_lindsey_s_laughing_] Vous ..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:565 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_9:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:564 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_9:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1456,7 +1456,7 @@ msgstr "[_mc_] Je suppose."
 msgid "[_isabelle_s_concerned_] You don't think so?"
 msgstr "[_isabelle_s_concerned_] Vous ne pensez pas ?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:642 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_10:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:641 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_10:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1688,7 +1688,7 @@ msgstr "[_mc_] Je ne vous ai jamais pris pour quelqu'un qui apprécie un bon air
 msgid "[_lindsey_s_skeptical_] What's that supposed to mean?"
 msgstr "[_lindsey_s_skeptical_] Qu'est-ce que c'est censé vouloir dire ?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:736 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_11:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:735 #-#-# translate crowdin quest_lindsey_piano_play_11fdb519_11:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1828,7 +1828,7 @@ msgstr "[_lindsey_s_blush_] Whoa ! C'est incroyable !"
 msgid "[_lindsey_s_blush_] I'm so jealous!"
 msgstr "[_lindsey_s_blush_] Je suis si jaloux !"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:792 #-#-# translate crowdin quest_lindsey_piano_play_gym_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:791 #-#-# translate crowdin quest_lindsey_piano_play_gym_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2016,7 +2016,7 @@ msgstr "[_mc_] Il a un crâne et une épée-guitare sur la couverture avant, si 
 msgid "[_jo_s_smile_] I can go look for it later. What do you need it for?"
 msgstr "[_jo_s_Souriez_] Je peux y aller plus tard. De quoi avez-vous besoin ?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:859 #-#-# translate crowdin quest_lindsey_piano_jo_talk_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:858 #-#-# translate crowdin quest_lindsey_piano_jo_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2064,7 +2064,7 @@ msgstr "Ça a du sens, je suppose ..."
 msgid "[_jo_s_flirty_] Does she have a name?"
 msgstr "[_jo_s_flirty_] Est-ce qu'elle a un nom ?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:882 #-#-# translate crowdin quest_lindsey_piano_jo_talk_11fdb519_1:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:881 #-#-# translate crowdin quest_lindsey_piano_jo_talk_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2156,7 +2156,7 @@ msgstr "[_jo_s_eyeroll_] C'est beaucoup avec l'école maintenant ..."
 msgid "[_jo_s_eyeroll_] The new curriculum is hard for some teachers to accept."
 msgstr "[_jo_s_eyeroll_] Le nouveau programme d'études est difficile à accepter pour certains enseignants."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:924 #-#-# translate crowdin quest_lindsey_piano_album_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:923 #-#-# translate crowdin quest_lindsey_piano_album_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2212,7 +2212,7 @@ msgstr "[_jo_s_Souriez_] Quoi qu'il en soit, j'ai trouvé cet album que tu cherc
 msgid "Oh, crap."
 msgstr "Oh, merde."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:946 #-#-# translate crowdin quest_lindsey_piano_album_11fdb519_1:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:945 #-#-# translate crowdin quest_lindsey_piano_album_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2566,7 +2566,7 @@ msgstr "..."
 msgid "She probably wouldn't like it if I took a picture of her, but this is a once in a lifetime moment..."
 msgstr "Elle n'aimerait probablement pas si j'ai pris une photo d'elle, mais c'est une fois dans un moment de vie ..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1135 #-#-# translate crowdin quest_lindsey_piano_listen_music_class_lindsey_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1134 #-#-# translate crowdin quest_lindsey_piano_listen_music_class_lindsey_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2708,7 +2708,7 @@ msgid "[_lindsey_] So, do you still want me\n"
 msgstr "[_lindsey_] Alors, voulez-vous que je suis\n"
 "pour venir ?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1229 #-#-# translate crowdin quest_lindsey_piano_phone_call_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1228 #-#-# translate crowdin quest_lindsey_piano_phone_call_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2868,7 +2868,7 @@ msgstr "[_lindsey_s_excited_album_] J'adore ! Les signatures... oh, whoa... L'é
 msgid "[_lindsey_s_excited_album_] This is the coolest thing ever! Thank you so much!"
 msgstr "[_lindsey_s_excited_album_] C'est la chose la plus cool jamais ! Merci beaucoup !"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1326 #-#-# translate crowdin quest_lindsey_piano_pick_up_lindsey_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1325 #-#-# translate crowdin quest_lindsey_piano_pick_up_lindsey_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2896,7 +2896,7 @@ msgstr "[_lindsey_s_laughing_] Hé, [flora]! Comment ça va ?"
 msgid "[_flora_s_blush_] Oh, you know. Same old."
 msgstr "[_flora_s_blush_] Oh, vous savez. Même vieux."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1342 #-#-# translate crowdin quest_lindsey_piano_pick_up_lindsey_11fdb519_1:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1341 #-#-# translate crowdin quest_lindsey_piano_pick_up_lindsey_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3260,7 +3260,7 @@ msgstr "Si seulement j'avais gardé mon dossier mème, je serais roi."
 msgid "Meeting [lindsey] after school is a big deal. I need to pick out something to wear..."
 msgstr "La réunion [lindsey] après l'école est un gros problème. Je dois choisir quelque chose à porter ..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1525 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_closet_first_time_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1524 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_closet_first_time_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3464,7 +3464,7 @@ msgstr "[_lindsey_s_blush_] Viens, [mc]! Ne me fais pas danser seule !"
 msgid "Hmm... not the best idea for me. Last time I tried to dance was at a school disco. Everyone laughed."
 msgstr "Hmm ... pas la meilleure idée pour moi. La dernière fois que j'ai essayé de danser était dans une discothèque. Tout le monde rit."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1652 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1651 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3676,7 +3676,7 @@ msgstr "[_mc_] Assez religieux ?"
 msgid "[_lindsey_s_dancing_with_the_mc_smile_] Yeah..."
 msgstr "[_lindsey_s_dancing_with_the_mc_Souriez_] Oui ..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1886 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_11fdb519_1:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1885 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3828,7 +3828,7 @@ msgstr "[_lindsey_s_thinking_] Quoi qu'il en soit, il est en retard et je devrai
 msgid "[_lindsey_s_blush_] Thanks again for inviting me over!"
 msgstr "[_lindsey_s_blush_] Merci encore de m'avoir invité !"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:2095 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_11fdb519_2:
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:2094 #-#-# translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
