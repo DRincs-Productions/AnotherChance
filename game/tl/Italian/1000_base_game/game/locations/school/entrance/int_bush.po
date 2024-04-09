@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-24 09:45\n"
+"PO-Revision-Date: 2024-04-09 10:29\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:48 #-#-# translate crowdin school_entrance_bush_interact_a31a7204:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:48 #-#-# translate crowdin school_entrance_bush_interact_a31a7204:
 msgid "Always be sure to check your local bush for a certain Italian assassin."
 msgstr "Assicurati sempre di controllare il tuo cespuglio locale per un certo assassino italiano."
 
@@ -48,7 +48,7 @@ msgstr "[_nurse_s_surprised_] Bontà, sono quasi caduto nella paura."
 msgid "[_nurse_s_surprised_] Please, don't sneak up on people like that!"
 msgstr "[_nurse_s_surprised_] Per favore, non intrufolatevi su persone del genere!"
 
-# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:67 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519:
+# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:66 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -288,7 +288,7 @@ msgstr "[_mc_] Mi ha chiesto di aiutarla a trovarti."
 msgid "[_nurse_s_afraid_] ..."
 msgstr "[_nurse_s_afraid_] ..."
 
-# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:139 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_1:
+# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:138 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -348,7 +348,7 @@ msgstr "[_nurse_s_blush_] Questo è un sollievo. Vorrei che tu avessi una di que
 msgid "[_nurse_s_blush_] They're both perfect for brews."
 msgstr "[_nurse_s_blush_] Sono entrambi perfetti per le birre."
 
-# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:175 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_2:
+# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:174 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
