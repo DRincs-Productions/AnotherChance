@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-09 17:17\n"
+"PO-Revision-Date: 2024-04-09 10:32\n"
 
-# TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:5 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_aeb844b7:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:5 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_aeb844b7:
 msgid "[_isabelle_s_laughing_] Hi, [kate]. Do you have a minute?"
 msgstr "[_isabelle_s_laughing_] Hi, [kate]. Hai un minuto?"
 
@@ -40,7 +40,7 @@ msgstr "Crap. Questo non finirà bene..."
 msgid "Old me would've jumped ship a long time ago, but this is going to turn into scratching and hair-pulling at any moment."
 msgstr "Vecchio avrei saltato la nave molto tempo fa, ma questo sta per trasformarsi in graffi e tirare i capelli in qualsiasi momento."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:15 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:14 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -84,7 +84,7 @@ msgstr "[_kate_s_smile_] L'unica tragedia qui è l'azienda."
 msgid "[_isabelle_s_annoyed_] You know what? I'm over it... come on, [mc], let's go."
 msgstr "[_isabelle_s_annoyed_] Sai cosa? Ho finito... vieni, [mc], andiamo."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:37 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:36 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -212,7 +212,7 @@ msgstr "Non è sicuro che cosa è andato giù qui, ma [isabelle] sembra molto ar
 msgid "You daydream for a little while, and then suddenly you've lost sight of everything. If only there was a rewind button..."
 msgstr "Sogno di giorno per un po ', e poi improvvisamente hai perso di vista di tutto. Se solo c'è stato un pulsante di riavvolgimento..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:99 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519_2:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:98 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -396,7 +396,7 @@ msgstr "[_kate_s_smile_] L'unica tragedia qui è l'azienda."
 msgid "[_isabelle_s_annoyed_] You know what? I'm over it... come on, [mc], let's go."
 msgstr "[_isabelle_s_annoyed_] Sai cosa? Ho finito... vieni, [mc], andiamo."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:200 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519_3:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:199 #-#-# translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -504,7 +504,7 @@ msgstr "[_mc_] ..."
 msgid "[_kate_s_neutral_] Why are you still here?"
 msgstr "[_kate_s_neutral_] Perché sei ancora qui?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:261 #-#-# translate crowdin kate_over_isabelle_choosing_kate_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:260 #-#-# translate crowdin kate_over_isabelle_choosing_kate_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -540,7 +540,7 @@ msgstr "Questo potrebbe essere il mio biglietto nei circoli più popolari della 
 msgid "But on the other hand, she's new here and [kate]'s probably going to ruin her..."
 msgstr "Ma d'altra parte, lei è nuovo qui e [kate]sta probabilmente andando a rovinarla..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:274 #-#-# translate crowdin kate_over_isabelle_choosing_kate_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:273 #-#-# translate crowdin kate_over_isabelle_choosing_kate_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -644,7 +644,7 @@ msgstr "[_kate_s_neutral_] Che cosa intendi? Per una volta nella tua vita, fai p
 msgid "[_kate_s_laughing_] Or do you prefer being a lonely loser for the rest of your life?"
 msgstr "[_kate_s_laughing_] O preferisci essere un perdente solitario per il resto della tua vita?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:318 #-#-# translate crowdin kate_over_isabelle_choosing_kate_11fdb519_2:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:317 #-#-# translate crowdin kate_over_isabelle_choosing_kate_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -728,7 +728,7 @@ msgstr "[_kate_s_neutral_] ... Forse hai un punto per una volta."
 msgid "[_kate_s_neutral_] Okay, what do you want?"
 msgstr "[_kate_s_neutral_] Okay, cosa vuoi?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:352 #-#-# translate crowdin kate_over_isabelle_choosing_kate_11fdb519_3:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:351 #-#-# translate crowdin kate_over_isabelle_choosing_kate_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1080,7 +1080,7 @@ msgstr "[_mc_] Ho le informazioni che hai chiesto..."
 msgid "[_kate_s_confident_] Really? That went faster than expected."
 msgstr "[_kate_s_confident_] Davvero? È andato più veloce del previsto."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:480 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:479 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1160,7 +1160,7 @@ msgstr "[_kate_s_cringe_] La tua ricompensa è essere in mia presenza, preoccupa
 msgid "[_kate_s_cringe_] That's enough, isn't it?"
 msgstr "[_kate_s_cringe_] È abbastanza, vero?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:507 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:506 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1228,7 +1228,7 @@ msgstr "[_kate_s_confident_] Vedi? Penso che tu sia colui che dovrebbe trattarmi
 msgid "[_kate_s_neutral_] Show me some goddamn respect!"
 msgstr "[_kate_s_neutral_] Mostrami un po' di rispetto duro!"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:534 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_11fdb519_2:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:533 #-#-# translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1352,7 +1352,7 @@ msgstr "Spero che non avrò più a che fare con lei dopo aver fatto con [isabell
 msgid "[_kate_s_neutral_] Okay. Get lost now."
 msgstr "[_kate_s_neutral_] Okay. Persi adesso."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:581 #-#-# translate crowdin kate_kiss_shoe_scene_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:580 #-#-# translate crowdin kate_kiss_shoe_scene_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1416,7 +1416,7 @@ msgstr "Dio, il profumo quasi impercettibile dei suoi piedi fa nuotare la testa!
 msgid "I just need to experience it fully..."
 msgstr "Ho solo bisogno di sperimentarlo completamente..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:602 #-#-# translate crowdin kate_kiss_shoe_scene_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:601 #-#-# translate crowdin kate_kiss_shoe_scene_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
