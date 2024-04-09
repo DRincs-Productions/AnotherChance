@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-18 16:27\n"
+"PO-Revision-Date: 2024-04-09 10:25\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3 #-#-# translate crowdin isabelle_quest_isabelle_tour_86544d5e:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3 #-#-# translate crowdin isabelle_quest_isabelle_tour_86544d5e:
 msgid "[_isabelle_s_laughing_] I just wanted to say that I appreciate you showing me around."
 msgstr "[_isabelle_s_laughing_] Volevo solo dire che apprezzo che mi mostri intorno."
 
@@ -64,7 +64,7 @@ msgstr "[_isabelle_s_annoyed_left_] ho visto [kate] sulla strada in alto."
 msgid "[_isabelle_s_annoyed_left_] She gave me this smug look... as if she took some kind of twisted pleasure in ditching me earlier."
 msgstr "[_isabelle_s_annoyed_left_] Lei mi ha dato questo sguardo di tazza... come se lei ha preso una sorta di piacere contorto ad ammorbidirmi prima."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:28 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:27 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -128,7 +128,7 @@ msgstr "[_isabelle_s_sad_] Mi dispiace per aver giudicato erroneamente il tuo pe
 msgid "The old me was too much of a loser to even look at [kate]... has anything really changed?"
 msgstr "Il vecchio sono stato troppo perdente per persino guardare [kate]... qualcosa è davvero cambiato?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:59 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:58 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -188,7 +188,7 @@ msgstr "[_isabelle_s_annoyed_] Ignorarlo? Perché?"
 msgid "Crap. How do you tell someone that you're everyone's punching bag?"
 msgstr "Crap. Come dici a qualcuno che sei la borsa da pugno di tutti?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:89 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:88 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -244,7 +244,7 @@ msgstr "[_isabelle_s_blush_] Aw, è così dolce!"
 msgid "[_isabelle_s_annoyed_left_] But her behavior is unacceptable! I'm going to have a word with her."
 msgstr "[_isabelle_s_annoyed_left_] Ma il suo comportamento è inaccettabile! Ho una parola con lei."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:117 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_3:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:116 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -300,7 +300,7 @@ msgstr "[_isabelle_s_angry_] Ma con le persone come lei, devi spezzare quell'att
 msgid "[_isabelle_s_angry_] I'm going to have a word with her. Are you coming or not?"
 msgstr "[_isabelle_s_angry_] Ho intenzione di avere una parola con lei. Stai venendo o no?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:146 #-#-# translate crowdin isabelle_tour_first_hall_ending_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:145 #-#-# translate crowdin isabelle_tour_first_hall_ending_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -352,7 +352,7 @@ msgstr "[_isabelle_s_angry_] Un sistema corrotto! È sempre così che le persone
 msgid "[_isabelle_s_sad_] If we can't trust the authorities to do their job, we'll have to take justice into our own hands..."
 msgstr "[_isabelle_s_sad_] Se non possiamo fidarci delle autorità per fare il loro lavoro, dovremo prendere giustizia nelle nostre mani..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:173 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:172 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -656,7 +656,7 @@ msgstr "[_lindsey_s_lindseypose01_] M-my head..."
 msgid "[_isabelle_s_afraid_] [mc], she looks really hurt!"
 msgstr "[_isabelle_s_afraid_] [mc], sembra davvero ferita!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:285 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:284 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -720,7 +720,7 @@ msgstr "[_mc_] Probabilmente avrebbe riso se mi fosse imbattuto in un giocatore 
 msgid "[_isabelle_s_angry_] Here's your chance to set things right, then! Be the bigger person!"
 msgstr "[_isabelle_s_angry_] Ecco la tua possibilità di impostare le cose giuste, allora! Sii la persona più grande!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:329 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:328 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -816,7 +816,7 @@ msgstr "Forse, questo è quello che questo sentimento è — un assaggio di eroi
 msgid "[_lindsey_s_LindseyPose02b_] Everything's spinning..."
 msgstr "[_lindsey_s_LindseyPose02b_] Filatura di tutto..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:391 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:390 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -908,7 +908,7 @@ msgstr "[_nurse_] Oh! Oh, mio... {i}Mr. Brown!{/}"
 msgid "[_nurse_] You can't let anyone know! My reputation! My job!"
 msgstr "[_nurse_] Non puoi far sapere a nessuno! La mia reputazione! Il mio lavoro!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:441 #-#-# translate crowdin quest_nurse_photogenic_second_chance_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:440 #-#-# translate crowdin quest_nurse_photogenic_second_chance_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -960,7 +960,7 @@ msgstr "La perdita di potere... l'esposizione... entrambi lo sentiamo."
 msgid "[_nurse_s_afraid_] This is not what it looks like!"
 msgstr "[_nurse_s_afraid_] Questo non è quello che sembra!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:464 #-#-# translate crowdin quest_nurse_photogenic_second_chance_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:463 #-#-# translate crowdin quest_nurse_photogenic_second_chance_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -992,7 +992,7 @@ msgstr "[_nurse_s_smile_] Grazie... Non posso perdere questo lavoro..."
 msgid "[_mc_] You're welcome!"
 msgstr "[_mc_] Sei il benvenuto!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:476 #-#-# translate crowdin quest_nurse_photogenic_second_chance_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:475 #-#-# translate crowdin quest_nurse_photogenic_second_chance_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1280,7 +1280,7 @@ msgstr "[_nurse_] ..."
 msgid "[_nurse_] How can I help?"
 msgstr "[_nurse_] Come posso aiutare?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:584 #-#-# translate crowdin quest_nurse_photogenic_second_chance_11fdb519_3:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:583 #-#-# translate crowdin quest_nurse_photogenic_second_chance_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1476,7 +1476,7 @@ msgstr "[_nurse_s_blush_] Suppongo che potrebbe essere organizzato..."
 msgid "[_nurse_s_blush_] Thank you, [mc]. I've got it from here."
 msgstr "[_nurse_s_blush_] Grazie, [mc]. Lo ho da qui."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:690 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:689 #-#-# translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1648,7 +1648,7 @@ msgstr "[_lindsey_s_clinic_lindsey_annoyed_] D-vertigini... la mia testa fa male
 msgid "[_nurse_s_clinic_nurse_angry_] How did this happen?"
 msgstr "[_nurse_s_clinic_nurse_angry_] Come è successo questo?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:804 #-#-# translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:803 #-#-# translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1704,7 +1704,7 @@ msgstr "[_mc_] Stava facendo giri in palestra e accidentalmente corse in me... h
 msgid "[_nurse_s_clinic_nurse_confused_] Accidents happen. Good job bringing her here so fast."
 msgstr "[_nurse_s_clinic_nurse_confused_] Gli incidenti accadono. Buon lavoro portarla qui così velocemente."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:831 #-#-# translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:830 #-#-# translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1796,7 +1796,7 @@ msgstr "Questa potrebbe essere la mia unica possibilità di vedere un paio di te
 msgid "But it might ruin my chances with [lindsey] for good... and I'd likely get detention..."
 msgstr "Ma potrebbe rovinare le mie probabilità con [lindsey] per bene... e probabilmente ottengo la detenzione..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:881 #-#-# translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:880 #-#-# translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1864,7 +1864,7 @@ msgstr "Così morbido e morbido — così proibito — la perfezione di joysize!
 msgid "[_nurse_s_clinic_nurse_surprised_] What in god's name?!"
 msgstr "[_nurse_s_clinic_nurse_surprised_] Che cosa nel nome di Dio?!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:906 #-#-# translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:905 #-#-# translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2044,7 +2044,7 @@ msgstr "[_isabelle_s_skeptical_] Le insegneremo una lezione, una volta per tutte
 msgid "[_isabelle_s_neutral_] Do you trust me?"
 msgstr "[_isabelle_s_neutral_] Ti fidi di me?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:986 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:985 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2264,7 +2264,7 @@ msgstr "[_mc_] Una scelta molto bella!"
 msgid "[_isabelle_s_excited_] Why do you talk like that sometimes?"
 msgstr "[_isabelle_s_excited_] Perché a volte parli così?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1056 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1055 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2312,7 +2312,7 @@ msgstr "[_mc_] Cercando solo di farti sentire a casa."
 msgid "[_isabelle_s_excited_] Because all English people have a personal butler?"
 msgstr "[_isabelle_s_excited_] Perché tutti gli inglesi hanno un maggiordomo personale?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1075 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1074 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2408,7 +2408,7 @@ msgstr "[_mc_] Ti piace cosa?"
 msgid "[_isabelle_s_neutral_] Overly polite and old-fashioned."
 msgstr "[_isabelle_s_neutral_] eccessivamente educato e vecchio stile."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1114 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_3:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1113 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2552,7 +2552,7 @@ msgstr "Forse è stato un po' stravagante..."
 msgid "But when you're used to people poking fun at every little thing you do..."
 msgstr "Ma quando sei abituato alle persone che si divertono ad ogni piccola cosa che fa..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1164 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_4:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1163 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_4:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2652,7 +2652,7 @@ msgstr "Sembra che [isabelle] stia cercando di sbarazzarmi di me, che non è cos
 msgid "Staying relevant might be the play here, but nobody likes a clinger..."
 msgstr "Rimanere rilevante potrebbe essere il gioco qui, ma a nessuno piace un..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1202 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_5:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1201 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_5:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
