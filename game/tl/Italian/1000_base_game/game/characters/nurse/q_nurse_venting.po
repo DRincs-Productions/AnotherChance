@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-24 10:52\n"
+"PO-Revision-Date: 2024-04-09 10:25\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
 msgid "[_mc_] I don't believe what I'm seeing."
 msgstr "[_mc_] Non credo a quello che sto vedendo."
 
@@ -128,7 +128,7 @@ msgstr "[_maxine_s_angry_fishing_] Non è depositato da nessuna parte! È un gra
 msgid "[_maxine_s_angry_fishing_] Help me pull!"
 msgstr "[_maxine_s_angry_fishing_] Aiutami a tirare!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:84 #-#-# translate crowdin quest_nurse_venting_start_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:83 #-#-# translate crowdin quest_nurse_venting_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -392,7 +392,7 @@ msgstr "[_mc_] Aspetta, ho bisogno del tuo aiuto con qualcosa!"
 msgid "[_nurse_s_neutral_] What is it?"
 msgstr "[_nurse_s_neutral_] Cosa c'è?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:217 #-#-# translate crowdin quest_nurse_venting_help_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:216 #-#-# translate crowdin quest_nurse_venting_help_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -746,7 +746,7 @@ msgstr "Sì, nessun grazie."
 msgid "[_nurse_s_concerned_] Is it time? Into the vent?"
 msgstr "[_nurse_s_concerned_] È il tempo? In vento?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:341 #-#-# translate crowdin quest_nurse_venting_ready_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:340 #-#-# translate crowdin quest_nurse_venting_ready_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2464,7 +2464,7 @@ msgstr "[_mc_] Sei in palestra. Devi girarti."
 msgid "[_nurse_s_vent_crawling_s_video_] There's an intersection. Which way should I go?"
 msgstr "[_nurse_s_vent_crawling_s_video_] C'è un'intersezione. In che modo dovrei andare?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:908 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:907 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2564,7 +2564,7 @@ msgstr "[_mc_] Comunque continuate ad andare."
 msgid "[_nurse_s_vent_crawling_s_video_] Which way should I go?"
 msgstr "[_nurse_s_vent_crawling_s_video_] In che modo dovrei andare?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:943 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_1:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:942 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2644,7 +2644,7 @@ msgstr "[_nurse_s_vent_crawling_s_video_] Farò del mio meglio!"
 msgid "[_mc_] Okay, let's pick a direction for you."
 msgstr "[_mc_] Okay, scegliamo una direzione per te."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:971 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_2:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:970 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2736,7 +2736,7 @@ msgstr "[_nurse_s_vent_crawling_s_video_] Okay. Mi fido di te."
 msgid "[_nurse_s_vent_crawling_s_video_] Where to next?"
 msgstr "[_nurse_s_vent_crawling_s_video_] Dove seguire?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1002 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_3:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1001 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3062,7 +3062,7 @@ msgstr "[_nurse_] Io... Penso che se mi aiuti a pareggiare, potrebbe aiutare..."
 msgid "[_mc_] You bet. Let's get you wiggling."
 msgstr "[_mc_] Scommetti. Facciamo in modo che si muoia."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1166 #-#-# translate crowdin quest_nurse_venting_stuck_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1165 #-#-# translate crowdin quest_nurse_venting_stuck_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
