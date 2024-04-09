@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-24 09:11\n"
+"PO-Revision-Date: 2024-04-09 10:25\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:8 #-#-# translate crowdin isabelle_quest_buried_start_ef126006:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:8 #-#-# translate crowdin isabelle_quest_buried_start_ef126006:
 msgid "[_isabelle_s_neutral_] Thanks for the ice tea idea. It always helps me cool down."
 msgstr "[_isabelle_s_neutral_] Grazie per l'idea del tè al ghiaccio. Mi aiuta sempre a rinfrescarmi."
 
@@ -52,7 +52,7 @@ msgstr "[_mc_] Forse tua sorella? Com'era lei?"
 msgid "[_isabelle_s_neutral_] She was... a lot like you, actually."
 msgstr "[_isabelle_s_neutral_] Lei erava... molto come te, in realtà."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:20 #-#-# translate crowdin isabelle_quest_buried_start_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:19 #-#-# translate crowdin isabelle_quest_buried_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -488,7 +488,7 @@ msgstr "[_mc_] Quanto è conveniente."
 msgid "[_lindsey_s_cringe_] I swear I have no memory of even going to her locker!"
 msgstr "[_lindsey_s_cringe_] Giuro che non ho alcun ricordo di andare anche al suo armadietto!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:186 #-#-# translate crowdin isabelle_quest_buried_lindsey_missed_scene_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:185 #-#-# translate crowdin isabelle_quest_buried_lindsey_missed_scene_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -528,7 +528,7 @@ msgstr "[_mc_] In questo momento, [isabelle] pensa che [kate] rubasse la scatola
 msgid "[_lindsey_s_thinking_] What are you saying?"
 msgstr "[_lindsey_s_thinking_] Che cosa stai dicendo?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:201 #-#-# translate crowdin isabelle_quest_buried_lindsey_missed_scene_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:200 #-#-# translate crowdin isabelle_quest_buried_lindsey_missed_scene_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -688,7 +688,7 @@ msgstr "Ugh. Dovrei chiederlo a lei."
 msgid "[_jacklyn_s_excited_] So, how's the art coming along?"
 msgstr "[_jacklyn_s_excited_] Allora, come viene l'arte?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:261 #-#-# translate crowdin isabelle_quest_buried_jacklyn_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:260 #-#-# translate crowdin isabelle_quest_buried_jacklyn_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -744,7 +744,7 @@ msgstr "[_mc_] Il mio nuovo hobby più grande è la pittura."
 msgid "[_jacklyn_s_neutral_] Flex. What sort? If you say pastel, I'll cut a bitch."
 msgstr "[_jacklyn_s_neutral_] Flex. Che specie? Se dici pastello, taglierò una cagna."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:285 #-#-# translate crowdin isabelle_quest_buried_jacklyn_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:284 #-#-# translate crowdin isabelle_quest_buried_jacklyn_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -932,7 +932,7 @@ msgstr "[_maxine_s_annoyed_] Vedi, ora non sono sicuro di essere più in grado d
 msgid "Oh, shit. She's about to walk off. Think fast... [maxine] loves mysteries."
 msgstr "Oh, merda. Sta per camminare. Pensate velocemente... [maxine] ama i misteri."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:355 #-#-# translate crowdin quest_isabelle_buried_maxine_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:354 #-#-# translate crowdin quest_isabelle_buried_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1564,7 +1564,7 @@ msgstr "[_isabelle_s_sad_] Sì..."
 msgid "[_isabelle_s_sad_] I feel like I've failed her."
 msgstr "[_isabelle_s_sad_] Mi sento come se l'avessi fallita."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:575 #-#-# translate crowdin isabelle_quest_buried_isabelle_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:574 #-#-# translate crowdin isabelle_quest_buried_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1996,7 +1996,7 @@ msgstr "[_isabelle_s_sad_] Mangio i cuori di cioccolato, e con ognuno penso a un
 msgid "[_isabelle_s_sad_] But... the box is empty now."
 msgstr "[_isabelle_s_sad_] Ma... la casella è vuota ora."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:768 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:767 #-#-# translate crowdin isabelle_quest_buried_isabelle_funeral_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2636,7 +2636,7 @@ msgstr "[_isabelle_s_angry_] Riesci a immaginare?!"
 msgid "Uh, this doesn't look good at all. [isabelle]'s about to explode."
 msgstr "Uh, questo non sembra affatto buono. [isabelle]sta per esplodere."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:984 #-#-# translate crowdin school_ground_floor_missing_locker_interact_isabelle_bury_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:983 #-#-# translate crowdin school_ground_floor_missing_locker_interact_isabelle_bury_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
