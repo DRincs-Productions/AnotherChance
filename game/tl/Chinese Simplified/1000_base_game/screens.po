@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-09 17:16\n"
+"PO-Revision-Date: 2024-04-09 11:49\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
 msgstr "返回"
 
@@ -122,6 +122,10 @@ msgstr "全屏"
 msgid "Rollback Side"
 msgstr "回滚一侧"
 
+# game/1000_base_game/screens.rpy:741
+msgid "Disable"
+msgstr ""
+
 # game/1000_base_game/screens.rpy:748
 msgid "Unseen Text"
 msgstr "未读文本"
@@ -153,6 +157,10 @@ msgstr "音效音量"
 # game/1000_base_game/screens.rpy:787
 msgid "Test"
 msgstr "测试"
+
+# game/1000_base_game/screens.rpy:791
+msgid "Voice Volume"
+msgstr ""
 
 # game/1000_base_game/screens.rpy:802
 msgid "Mute All"
@@ -303,6 +311,14 @@ msgstr "Y/顶部按键"
 # game/1000_base_game/screens.rpy:1102
 msgid "Calibrate"
 msgstr "校准"
+
+# game/1000_base_game/screens.rpy:1167
+msgid "Yes"
+msgstr ""
+
+# game/1000_base_game/screens.rpy:1168
+msgid "No"
+msgstr ""
 
 # game/1000_base_game/screens.rpy:1214
 msgid "Skipping"
