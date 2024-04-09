@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-02-09 16:34\n"
+"PO-Revision-Date: 2024-04-09 11:53\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:35 #-#-# translate crowdin home_kitchen_stove_interact_327b112f:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:35 #-#-# translate crowdin home_kitchen_stove_interact_327b112f:
 msgid "Right. After the last incident, [jo] put safety locks on the stove."
 msgstr ""
 
@@ -92,7 +92,7 @@ msgstr ""
 msgid "But let's be honest, you probably don't need every ingredient to make a good salad."
 msgstr ""
 
-# game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:104 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_11fdb519:
+# game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:103 #-#-# translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
