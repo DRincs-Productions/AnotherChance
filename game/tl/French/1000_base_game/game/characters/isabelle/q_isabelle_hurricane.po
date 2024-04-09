@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 15:03\n"
+"PO-Revision-Date: 2024-04-09 10:06\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6 #-#-# translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6 #-#-# translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
 msgid "[_mc_] Hey, how are you holding up?"
 msgstr "[_mc_] Hé, comment tu es en attente ?"
 
@@ -80,7 +80,7 @@ msgstr "[_mc_] Et vous n'êtes pas en colère maintenant ?"
 msgid "[_isabelle_s_sad_] I'm not exactly happy, but I currently don't see red."
 msgstr "[_isabelle_s_sad_] Je ne suis pas vraiment heureuse, mais je ne vois pas le rouge."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:25 #-#-# translate crowdin quest_isabelle_hurricane_start_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:24 #-#-# translate crowdin quest_isabelle_hurricane_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -268,7 +268,7 @@ msgstr "..."
 msgid "[_maxine_s_skeptical_] Why are you snooping around in my office?"
 msgstr "[_maxine_s_skeptical_] Pourquoi vous saurez-vous dans mon bureau ?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:94 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:93 #-#-# translate crowdin quest_isabelle_hurricane_maxine_office_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -582,7 +582,7 @@ msgstr "[_kate_s_excited_] Pourquoi as-tu l'air si rusé, hm ?"
 msgid "Ugh, am I really that easy to read?"
 msgstr "Je suis vraiment si facile à lire ?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:221 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:220 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -598,7 +598,7 @@ msgstr "[_kate_s_skeptical_] Hé, ne pas être grossier maintenant."
 msgid "[_kate_s_skeptical_] Apologize."
 msgstr "[_kate_s_skeptical_] S'excuser."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:229 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:228 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -698,7 +698,7 @@ msgstr "[_mc_] Je voulais dire si tu pouvais m'aider à le distraire ..."
 msgid "[_kate_s_smile_] Now, why would I do that?"
 msgstr "[_kate_s_Souriez_] Maintenant, pourquoi je ferais ça ?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:262 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:261 #-#-# translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1958,7 +1958,7 @@ msgid "[_isabelle_s_angry_] [mc], would you please ring her up? I'm too pissed o
 msgstr "[_isabelle_s_angry_] [mc], pourriez-vous la sonner s'il vous plaît ? Je suis trop énervée pour parler\n"
 "en ce moment."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:811 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:810 #-#-# translate crowdin quest_isabelle_hurricane_call_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2092,7 +2092,7 @@ msgstr "[_mc_] Quoi qu'il en soit, j'ai besoin que vous veniez à\n"
 msgid "[_maxine_] Nope. Busy."
 msgstr "[_maxine_] Non. Occupé."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:865 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:864 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2622,7 +2622,7 @@ msgstr "Notre petit prisonnier."
 msgid "[_mc_] F-fuck! I'm going to—"
 msgstr "[_mc_] Putain de merde ! Je vais -"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1252 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1251 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2666,7 +2666,7 @@ msgstr "[_mc_] Elle le mérite."
 msgid "[_isabelle_s_locker_cum_outside2_] You're absolutely right."
 msgstr "[_isabelle_s_locker_cum_outside2_] Vous avez absolument raison."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1276 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1275 #-#-# translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
