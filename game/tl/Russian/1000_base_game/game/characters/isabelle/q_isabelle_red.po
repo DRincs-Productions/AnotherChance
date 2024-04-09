@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2023-11-09 18:37\n"
+"PO-Revision-Date: 2024-04-09 10:42\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:3 #-#-# translate crowdin quest_isabelle_red_start_5f580138:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:3 #-#-# translate crowdin quest_isabelle_red_start_5f580138:
 msgid "[_mc_] Hi, do you know where I could find a bucket of red paint?"
 msgstr ""
 
@@ -24,7 +24,7 @@ msgstr ""
 msgid "Err... what? She must mean what it's for."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:8 #-#-# translate crowdin quest_isabelle_red_start_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:7 #-#-# translate crowdin quest_isabelle_red_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -424,7 +424,7 @@ msgstr ""
 msgid "Damn, they locked the door."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:150 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:149 #-#-# translate crowdin quest_isabelle_red_black_note_english_door_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1164,7 +1164,7 @@ msgstr ""
 msgid "[_maxine_s_thinking_] Now, if there's nothing else..."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:438 #-#-# translate crowdin quest_isabelle_red_cabinet_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:437 #-#-# translate crowdin quest_isabelle_red_cabinet_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
