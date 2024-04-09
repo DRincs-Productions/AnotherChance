@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-02-25 22:30\n"
+"PO-Revision-Date: 2024-04-09 11:00\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:49 #-#-# translate crowdin home_bathroom_sink_use_socks_fe062c18:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:49 #-#-# translate crowdin home_bathroom_sink_use_socks_fe062c18:
 msgid "I wonder what [kate] will think when I return her socks perfectly clean...{space=-45}"
 msgstr "Цікаво, що подумає [kate], коли я поверну їй шкарпетки чистими...{space=-45}"
 
@@ -204,7 +204,7 @@ msgstr "О, боже. Що, якщо мені доведеться пережи�
 msgid "[_jo_] [mc]! Answer me!"
 msgstr "[_jo_] [mc]! Відповідай!"
 
-# game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:142 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_11fdb519:
+# game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:141 #-#-# translate crowdin home_bathroom_sink_interact_wash_hands_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
