@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-14 11:05\n"
+"PO-Revision-Date: 2024-04-09 10:12\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:26 #-#-# translate crowdin school_forest_glade_river_lv3_interact_d93dab85:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:26 #-#-# translate crowdin school_forest_glade_river_lv3_interact_d93dab85:
 msgid "No life can live in this place anymore. The pollution and unhallowed soil make sure of that."
 msgstr "Aucune vie ne peut plus vivre dans cet endroit. La pollution et le sol non halé en sont sûrs."
 
@@ -32,7 +32,15 @@ msgstr "À l'avenir, cet incident sera connu sous le nom de Deadwater Horizon."
 msgid "Like an oil spill, the foul chemicals seep into the echo system, poisoning everything in their path."
 msgstr "Comme un déversement de pétrole, les produits chimiques foules s'infiltrés dans le système d'écho, empoisonnent tout dans leur chemin."
 
-# game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:94 #-#-# translate crowdin school_forest_glade_river_lv0_interact_83dcc02b:
+# game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:100 #-#-# translate crowdin school_forest_glade_river_lv0_interact_83dcc02b:
 msgid "A once tranquil forest stream, now ruined by the sheer presence of the bark lord."
 msgstr "Un ruisseau autrefois tranquille, ruiné par la présence même du seigneur de l'écorce."
+
+# game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:104 #-#-# translate crowdin school_forest_glade_river_lv0_interact_flora_walk_e7a05bca:
+msgid "I wonder how many mutants the toxic spill caused?"
+msgstr ""
+
+# game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:105 #-#-# translate crowdin school_forest_glade_river_lv0_interact_flora_walk_dc07a1be:
+msgid "Probably enough for at least three X-Men movies..."
+msgstr ""
 
