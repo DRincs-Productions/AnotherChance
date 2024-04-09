@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-24 09:15\n"
+"PO-Revision-Date: 2024-04-09 10:25\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3 #-#-# translate crowdin mrsl_quest_HOT_start_9598f0ee:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3 #-#-# translate crowdin mrsl_quest_HOT_start_9598f0ee:
 msgid "[mrsl] seems lost in thought. Her eyes wander slowly over the gym."
 msgstr "[mrsl] sembra perso nel pensiero. I suoi occhi vagano lentamente sopra la palestra."
 
@@ -44,7 +44,7 @@ msgstr "[_mrsl_s_confident_] Ciao lì, [mc]! Non ti ho visto entrare."
 msgid "[_mrsl_s_flirty_] I'm afraid my thoughts are pricier than that."
 msgstr "[_mrsl_s_flirty_] Temo che i miei pensieri siano più cari di quello."
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:13 #-#-# translate crowdin mrsl_quest_HOT_start_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:12 #-#-# translate crowdin mrsl_quest_HOT_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -156,7 +156,7 @@ msgstr "Certamente ciò deve essere contrario ad una regolamentazione scolastica
 msgid "On the other hand, [mrsl] is a total babe. Is any other logic really needed?"
 msgstr "D'altra parte, [mrsl] è una babe totale. È davvero necessaria un'altra logica?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:59 #-#-# translate crowdin mrsl_quest_HOT_start_deal_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:58 #-#-# translate crowdin mrsl_quest_HOT_start_deal_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -416,7 +416,7 @@ msgstr "[_mc_] Sembri stanco."
 msgid "[_lindsey_s_eyeroll_] Gee, thanks."
 msgstr "[_lindsey_s_eyeroll_] Gee, grazie."
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:158 #-#-# translate crowdin mrsl_quest_lindsey_talk_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:157 #-#-# translate crowdin mrsl_quest_lindsey_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -528,7 +528,7 @@ msgstr "[_mc_] Io... Stavo arrivando."
 msgid "[_flora_s_eyeroll_] Sure you were."
 msgstr "[_flora_s_eyeroll_] Sicuro che eravi."
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:201 #-#-# translate crowdin mrsl_quest_lindsey_talk_11fdb519_1:
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:200 #-#-# translate crowdin mrsl_quest_lindsey_talk_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -568,7 +568,7 @@ msgstr "[_flora_s_excited_] In qualsiasi momento!"
 msgid "[_flora_s_confident_] Should I tell her about the time you skipped school to sneak into my room?"
 msgstr "[_flora_s_confident_] Dovrei dirle il tempo che hai saltato la scuola per intrufolarsi nella mia stanza?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:221 #-#-# translate crowdin mrsl_quest_lindsey_talk_11fdb519_2:
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:220 #-#-# translate crowdin mrsl_quest_lindsey_talk_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -680,7 +680,7 @@ msgstr "[_jo_s_sad_] Non ricordo i nomi. Dovrei andare lì e controllare."
 msgid "[_jo_s_sad_] Can you take care of the laundry in the meantime?"
 msgstr "[_jo_s_sad_] Nel frattempo puoi prenderti cura della lavanderia?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:270 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:269 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -996,7 +996,7 @@ msgstr "[_jo_s_worried_] Forse potresti chiederle qualche punto?"
 msgid "Ugh, [flora] this, [flora] that. The perfect little angel. Why does she have to be such a tryhard?"
 msgstr "Ugh, [flora] questo, [flora] quello. Il piccolo angelo perfetto. Perché deve essere un tale tentativo?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:407 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:406 #-#-# translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1240,7 +1240,7 @@ msgstr "[_jo_s_smile_] Molto bene."
 msgid "[_flora_s_flirty_] Is [mc] in trouble again?"
 msgstr "[_flora_s_flirty_] È [mc] di nuovo in difficoltà?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:492 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:491 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1452,7 +1452,7 @@ msgstr "[_mc_] Sto cercando una scheda di acquisizione per VHS."
 msgid "[_flora_s_confused_] What for?"
 msgstr "[_flora_s_confused_] Per quale motivo?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:566 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_11fdb519_1:
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:565 #-#-# translate crowdin mrsl_quest_HOT_jo_talk_capture_card_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
