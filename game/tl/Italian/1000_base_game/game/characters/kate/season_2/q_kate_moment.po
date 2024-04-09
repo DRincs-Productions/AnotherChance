@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-02-09 19:39\n"
+"PO-Revision-Date: 2024-04-09 10:32\n"
 
-# TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2 #-#-# translate crowdin quest_kate_moment_start_d812283f:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2 #-#-# translate crowdin quest_kate_moment_start_d812283f:
 msgid "Huh? This is an odd sight..."
 msgstr "Eh? Questa è una strana vista..."
 
@@ -68,7 +68,7 @@ msgstr "I suoi occhi sono sparati di sangue e sembra confusa."
 msgid "Maybe she grew a conscience, and it's keeping her up at night?"
 msgstr "Forse è cresciuta una coscienza, ed è tenerla alzata di notte?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:36 #-#-# translate crowdin quest_kate_moment_start_11fdb519:
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:35 #-#-# translate crowdin quest_kate_moment_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -740,7 +740,7 @@ msgstr "[_mc_] Siamo spiacenti, è rilevante?"
 msgid "[_maxine_s_annoyed_] Don't interrupt me."
 msgstr "[_maxine_s_annoyed_] Non interrompermi."
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:285 #-#-# translate crowdin quest_kate_moment_maxine_11fdb519:
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:284 #-#-# translate crowdin quest_kate_moment_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -946,7 +946,7 @@ msgstr "[_mc_] Ma lo fai, vero?"
 msgid "[_nurse_s_annoyed_] I, um... I don't know..."
 msgstr "[_nurse_s_annoyed_] Io, um... Non lo so..."
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:357 #-#-# translate crowdin quest_kate_moment_nurse_11fdb519:
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:356 #-#-# translate crowdin quest_kate_moment_nurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1170,7 +1170,7 @@ msgstr "[_mc_] E immagino che potresti dire che sono cresciuto preoccupato."
 msgid "[_jo_s_thinking_] Why are you concerned?"
 msgstr "[_jo_s_thinking_] Perché sei preoccupato?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:433 #-#-# translate crowdin quest_kate_moment_jo_11fdb519:
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:432 #-#-# translate crowdin quest_kate_moment_jo_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1382,7 +1382,7 @@ msgstr "[_maxine_s_annoyed_] doveva essere fatto. Troppi snoops da queste parti.
 msgid "[_maxine_s_skeptical_] You're not one of them, are you?"
 msgstr "[_maxine_s_skeptical_] Non sei uno di loro, vero?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:525 #-#-# translate crowdin quest_kate_moment_break_in_11fdb519:
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:524 #-#-# translate crowdin quest_kate_moment_break_in_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1442,7 +1442,7 @@ msgstr "[_mc_] Sono solo un uomo alla ricerca della verità."
 msgid "[_maxine_s_flirty_] Which truth?"
 msgstr "[_maxine_s_flirty_] Quale verità?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:551 #-#-# translate crowdin quest_kate_moment_break_in_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:550 #-#-# translate crowdin quest_kate_moment_break_in_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2436,7 +2436,7 @@ msgstr "[_isabelle_s_bed_after_s_smile_] probabilmente hai ragione."
 msgid "[_isabelle_s_bed_after_s_smile_] What exactly are you thinking, then?"
 msgstr "[_isabelle_s_bed_after_s_smile_] Che cosa state pensando esattamente?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1237 #-#-# translate crowdin quest_kate_moment_fun_isabelle_11fdb519:
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1236 #-#-# translate crowdin quest_kate_moment_fun_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
