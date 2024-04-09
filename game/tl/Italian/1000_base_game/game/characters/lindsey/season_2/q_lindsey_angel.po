@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-11-24 10:51\n"
+"PO-Revision-Date: 2024-04-09 10:25\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4 #-#-# translate crowdin quest_lindsey_angel_start_9b346f38:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4 #-#-# translate crowdin quest_lindsey_angel_start_9b346f38:
 msgid "[_guard_] Good morning, Newfall High. This is your administrator speaking."
 msgstr "[_guard_] Buongiorno, Notizia alta. Questo è il tuo amministratore che parlava."
 
@@ -358,7 +358,7 @@ msgstr "[_mc_] Sì, non scherzare. Ecco perché ho bisogno del vostro aiuto."
 msgid "[_nurse_s_surprised_] Oh, no! I can't help with that! It's against the rules!"
 msgstr "[_nurse_s_surprised_] Oh, no! Non posso aiutarlo! È contro le regole!"
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:135 #-#-# translate crowdin quest_lindsey_angel_nurse_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:134 #-#-# translate crowdin quest_lindsey_angel_nurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -660,7 +660,7 @@ msgstr "Lui è completamente immerso nel suo telefono, però."
 msgid "Maybe I can use that to my advantage?"
 msgstr "Forse posso usarlo a mio vantaggio?"
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:312 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:311 #-#-# translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1537,7 +1537,7 @@ msgstr "[_mc_] Qual è l'ultima cosa che ricordate?"
 msgid "[_lindsey_s_hospital_bed_s_sad_] I... don't want to think about that day..."
 msgstr "[_lindsey_s_hospital_bed_s_sad_] I... non voglio pensare a quel giorno..."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:688 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_11fdb519:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:687 #-#-# translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
