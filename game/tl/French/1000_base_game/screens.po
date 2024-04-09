@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-19 11:09\n"
+"PO-Revision-Date: 2024-04-09 10:14\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
 msgstr "Précédent"
 
@@ -122,6 +122,10 @@ msgstr "Plein écran"
 msgid "Rollback Side"
 msgstr "Côté du retour"
 
+# game/1000_base_game/screens.rpy:741
+msgid "Disable"
+msgstr ""
+
 # game/1000_base_game/screens.rpy:748
 msgid "Unseen Text"
 msgstr "Texte invisible"
@@ -153,6 +157,10 @@ msgstr "Volume du son"
 # game/1000_base_game/screens.rpy:787
 msgid "Test"
 msgstr "Test"
+
+# game/1000_base_game/screens.rpy:791
+msgid "Voice Volume"
+msgstr ""
 
 # game/1000_base_game/screens.rpy:802
 msgid "Mute All"
@@ -303,6 +311,14 @@ msgstr "Y/Bouton du haut"
 # game/1000_base_game/screens.rpy:1102
 msgid "Calibrate"
 msgstr "Calibrer"
+
+# game/1000_base_game/screens.rpy:1167
+msgid "Yes"
+msgstr ""
+
+# game/1000_base_game/screens.rpy:1168
+msgid "No"
+msgstr ""
 
 # game/1000_base_game/screens.rpy:1214
 msgid "Skipping"
