@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-09 16:43\n"
+"PO-Revision-Date: 2024-04-09 11:10\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:48 #-#-# translate crowdin school_entrance_bush_interact_a31a7204:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:48 #-#-# translate crowdin school_entrance_bush_interact_a31a7204:
 msgid "Always be sure to check your local bush for a certain Italian assassin."
 msgstr ""
 
@@ -48,7 +48,7 @@ msgstr ""
 msgid "[_nurse_s_surprised_] Please, don't sneak up on people like that!"
 msgstr ""
 
-# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:67 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519:
+# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:66 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -288,7 +288,7 @@ msgstr ""
 msgid "[_nurse_s_afraid_] ..."
 msgstr ""
 
-# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:139 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_1:
+# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:138 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -348,7 +348,7 @@ msgstr ""
 msgid "[_nurse_s_blush_] They're both perfect for brews."
 msgstr ""
 
-# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:175 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_2:
+# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:174 #-#-# translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
