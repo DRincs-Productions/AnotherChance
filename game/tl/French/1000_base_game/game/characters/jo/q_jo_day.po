@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 15:04\n"
+"PO-Revision-Date: 2024-04-09 10:07\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/jo/q_jo_day.rpy:3 #-#-# translate crowdin quest_jo_day_start_9e2bc76f:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/jo/q_jo_day.rpy:3 #-#-# translate crowdin quest_jo_day_start_9e2bc76f:
 msgid "[_jo_s_displeased_cup_] Ugh... who uses bold text in a professional email? Who does she think she's talking to—"
 msgstr "[_jo_s_displeased_cup_] Ugh ... qui utilise du texte en gras dans un courriel professionnel ? Qui pense-t-elle qu'elle parle à-"
 
@@ -220,7 +220,7 @@ msgstr "[_flora_s_sarcastic_] Je le savais ! Tu veux seulement mon aide quand tu
 msgid "[_flora_s_sarcastic_] So, what did you do now?"
 msgstr "[_flora_s_sarcastic_] Alors, qu'avez-vous fait maintenant ?"
 
-# game/1000_base_game/game/characters/jo/q_jo_day.rpy:83 #-#-# translate crowdin quest_jo_day_flora_11fdb519:
+# game/1000_base_game/game/characters/jo/q_jo_day.rpy:82 #-#-# translate crowdin quest_jo_day_flora_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -466,7 +466,7 @@ msgstr "[_mc_] Priez pour moi..."
 msgid "[_mc_] Unless... you want to help me?"
 msgstr "[_mc_] A moins que ... vous voulez m'aider ?"
 
-# game/1000_base_game/game/characters/jo/q_jo_day.rpy:158 #-#-# translate crowdin quest_jo_day_flora_11fdb519_1:
+# game/1000_base_game/game/characters/jo/q_jo_day.rpy:157 #-#-# translate crowdin quest_jo_day_flora_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -558,7 +558,7 @@ msgstr "[_mc_] Combien ?"
 msgid "[_flora_s_neutral_] Two-hundred bucks. That's my final offer."
 msgstr "[_flora_s_neutral_] Deux cents dollars. C'est ma dernière offre."
 
-# game/1000_base_game/game/characters/jo/q_jo_day.rpy:195 #-#-# translate crowdin quest_jo_day_flora_11fdb519_2:
+# game/1000_base_game/game/characters/jo/q_jo_day.rpy:194 #-#-# translate crowdin quest_jo_day_flora_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1080,7 +1080,7 @@ msgstr "[_nurse_s_smile_] Elle prépare des barres énergétiques adaptées au r
 msgid "[_nurse_s_smile_] I had to go a really long way to get all of those. Quite a workout!"
 msgstr "[_nurse_s_Souriez_] J'ai dû faire un très long chemin pour obtenir toutes ces personnes. Une séance de travail !"
 
-# game/1000_base_game/game/characters/jo/q_jo_day.rpy:496 #-#-# translate crowdin quest_jo_day_nurse_harvest_11fdb519:
+# game/1000_base_game/game/characters/jo/q_jo_day.rpy:495 #-#-# translate crowdin quest_jo_day_nurse_harvest_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
