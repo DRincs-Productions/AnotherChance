@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2023-11-09 18:42\n"
+"PO-Revision-Date: 2024-04-09 10:34\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
 msgid "[_mc_] I don't believe what I'm seeing."
 msgstr ""
 
@@ -128,7 +128,7 @@ msgstr ""
 msgid "[_maxine_s_angry_fishing_] Help me pull!"
 msgstr ""
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:84 #-#-# translate crowdin quest_nurse_venting_start_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:83 #-#-# translate crowdin quest_nurse_venting_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -390,7 +390,7 @@ msgstr ""
 msgid "[_nurse_s_neutral_] What is it?"
 msgstr ""
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:217 #-#-# translate crowdin quest_nurse_venting_help_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:216 #-#-# translate crowdin quest_nurse_venting_help_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -741,7 +741,7 @@ msgstr ""
 msgid "[_nurse_s_concerned_] Is it time? Into the vent?"
 msgstr ""
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:341 #-#-# translate crowdin quest_nurse_venting_ready_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:340 #-#-# translate crowdin quest_nurse_venting_ready_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -2296,7 +2296,7 @@ msgstr ""
 msgid "[_nurse_s_vent_crawling_s_video_] There's an intersection. Which way should I go?"
 msgstr ""
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:908 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:907 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -2396,7 +2396,7 @@ msgstr ""
 msgid "[_nurse_s_vent_crawling_s_video_] Which way should I go?"
 msgstr ""
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:943 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_1:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:942 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -2476,7 +2476,7 @@ msgstr ""
 msgid "[_mc_] Okay, let's pick a direction for you."
 msgstr ""
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:971 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_2:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:970 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -2568,7 +2568,7 @@ msgstr ""
 msgid "[_nurse_s_vent_crawling_s_video_] Where to next?"
 msgstr ""
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1002 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_3:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1001 #-#-# translate crowdin quest_nurse_venting_maxine_camera_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -2881,7 +2881,7 @@ msgstr ""
 msgid "[_mc_] You bet. Let's get you wiggling."
 msgstr ""
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1166 #-#-# translate crowdin quest_nurse_venting_stuck_11fdb519:
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1165 #-#-# translate crowdin quest_nurse_venting_stuck_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
