@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2023-11-09 18:36\n"
+"PO-Revision-Date: 2024-04-09 10:33\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:5 #-#-# translate crowdin isabelle_quest_haggis_deliver_c4773099:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:5 #-#-# translate crowdin isabelle_quest_haggis_deliver_c4773099:
 msgid "[_isabelle_s_excited_] What is this?"
 msgstr ""
 
@@ -32,7 +32,7 @@ msgstr ""
 msgid "[_isabelle_s_afraid_] Dear god! What in the blooming hell is that?!"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:12 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:11 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -108,7 +108,7 @@ msgstr ""
 msgid "[_isabelle_s_laughing_] Thanks for bringing it!"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:39 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:38 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -184,7 +184,7 @@ msgstr ""
 msgid "Always trust [flora] to be the contrarian."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:70 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:69 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -224,7 +224,7 @@ msgstr ""
 msgid "[_flora_s_laughing_] It's not as bad as it sounds!"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:86 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_3:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:85 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -340,7 +340,7 @@ msgstr ""
 msgid "[_flora_s_confident_] Would you visit my grave?"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:147 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_4:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:146 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_4:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -396,7 +396,7 @@ msgstr ""
 msgid "[_mrsl_s_thinking_] What's that smell?"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:182 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_5:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:181 #-#-# translate crowdin isabelle_quest_haggis_deliver_11fdb519_5:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -624,7 +624,7 @@ msgstr ""
 msgid "[_isabelle_s_concerned_] What do you think?"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:317 #-#-# translate crowdin isabelle_quest_haggis_isabelle_detention_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:316 #-#-# translate crowdin isabelle_quest_haggis_isabelle_detention_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -760,7 +760,7 @@ msgstr ""
 msgid "[_mc_] Ugh."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:387 #-#-# translate crowdin isabelle_quest_haggis_flora_detention_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:386 #-#-# translate crowdin isabelle_quest_haggis_flora_detention_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1112,7 +1112,7 @@ msgstr ""
 msgid "Okay, under which cup should the eraser go?"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:538 #-#-# translate crowdin isabelle_quest_haggis_cup_game_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:537 #-#-# translate crowdin isabelle_quest_haggis_cup_game_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1184,7 +1184,7 @@ msgstr ""
 msgid "[_flora_s_annoyed_] Bullshit. Let's play again. Best of three!"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:708 #-#-# translate crowdin isabelle_quest_haggis_cup_game_again_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:707 #-#-# translate crowdin isabelle_quest_haggis_cup_game_again_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1232,7 +1232,7 @@ msgstr ""
 msgid "Under which cup should the eraser go this time?"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:726 #-#-# translate crowdin isabelle_quest_haggis_cup_game_again_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:725 #-#-# translate crowdin isabelle_quest_haggis_cup_game_again_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1308,7 +1308,7 @@ msgstr ""
 msgid "[_flora_s_eyeroll_] Not happening."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:836 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:835 #-#-# translate crowdin isabelle_quest_haggis_cup_game_round_2_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1492,7 +1492,7 @@ msgstr ""
 msgid "[_flora_s_skeptical_] Gross."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:911 #-#-# translate crowdin isabelle_quest_haggis_flora_endorse_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:910 #-#-# translate crowdin isabelle_quest_haggis_flora_endorse_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1604,7 +1604,7 @@ msgstr ""
 msgid "[_isabelle_s_sad_] All right..."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:992 #-#-# translate crowdin isabelle_quest_haggis_give_seconds_isabelle_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:991 #-#-# translate crowdin isabelle_quest_haggis_give_seconds_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1668,7 +1668,7 @@ msgstr ""
 msgid "[_isabelle_s_cringe_] Do you have anything to wash my mouth out with?"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1021 #-#-# translate crowdin isabelle_quest_haggis_give_seconds_isabelle_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1020 #-#-# translate crowdin isabelle_quest_haggis_give_seconds_isabelle_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1812,7 +1812,7 @@ msgstr ""
 msgid "[_isabelle_s_concerned_] Hm, all right. I'll save it for later... I'm sorry if I offended you with my dislike for haggis."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1100 #-#-# translate crowdin isabelle_quest_haggis_give_bayonets_etiquettes_isabelle_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1099 #-#-# translate crowdin isabelle_quest_haggis_give_bayonets_etiquettes_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1892,7 +1892,7 @@ msgstr ""
 msgid "Shit... better come up with a good excuse fast."
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1137 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1136 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1924,7 +1924,7 @@ msgstr ""
 msgid "[_mrsl_s_excited_] Since you're no longer part of the challenge, you can be the judge of it instead!"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1149 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1148 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -2048,7 +2048,7 @@ msgstr ""
 msgid "[_mrsl_s_blush_] Who did you decide on for the reward?"
 msgstr ""
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1190 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1189 #-#-# translate crowdin isabelle_quest_haggis_mrsl_caught_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
