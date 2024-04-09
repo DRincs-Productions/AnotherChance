@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 15:07\n"
+"PO-Revision-Date: 2024-04-09 10:13\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:20 #-#-# translate crowdin school_nurse_room_flora_torso_vine_interact_fail_407d867b:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:20 #-#-# translate crowdin school_nurse_room_flora_torso_vine_interact_fail_407d867b:
 msgid "This little vine... is more like a hurdle of vines and roots that supports most of [flora]'s weight."
 msgstr "Cette petite vigne ... est plus un obstacle de la vigne et des racines qui supporte la plus grande partie du poids de [flora]."
 
@@ -102,7 +102,7 @@ msgstr "Réveiller cette vigne avec mon [item.title_lower] serait considéré co
 msgid "This little vine has no friends and a massive Steam library."
 msgstr "Cette petite vigne n'a pas d'amis et une énorme bibliothèque Steam."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:173 #-#-# translate crowdin school_nurse_room_laptop_vine_interact_11fdb519:
+# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:172 #-#-# translate crowdin school_nurse_room_laptop_vine_interact_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -123,7 +123,7 @@ msgstr ""
 msgid "This little vine seems to need a cuddle. It's using the teddy bear as a substitute for real affection."
 msgstr "Cette petite vigne semble avoir besoin d'un câlin. Il utilise l'ours en peluche comme substitut à l'affection réelle."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:235 #-#-# translate crowdin school_nurse_room_teddy_vine_interact_11fdb519:
+# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:234 #-#-# translate crowdin school_nurse_room_teddy_vine_interact_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -159,7 +159,7 @@ msgstr "Il mangerait probablement mon [item.title_lower] et en chercherait d'aut
 msgid "This little vine seems to be getting its rocks off to the medical poster."
 msgstr "Cette petite vigne semble s'être remise de ses pierres sur l'affiche médicale."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:296 #-#-# translate crowdin school_nurse_room_poster_vine_interact_11fdb519:
+# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:295 #-#-# translate crowdin school_nurse_room_poster_vine_interact_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -204,7 +204,7 @@ msgstr "Mon [item.title_lower] peut couper une armure, mais cette vigne opère s
 msgid "This little vine is trying to drag [flora] out the window."
 msgstr "Cette petite vigne essaie de faire glisser la fenêtre [flora]."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:377 #-#-# translate crowdin school_nurse_room_flora_leftarm_vine_interact_11fdb519:
+# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:376 #-#-# translate crowdin school_nurse_room_flora_leftarm_vine_interact_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
