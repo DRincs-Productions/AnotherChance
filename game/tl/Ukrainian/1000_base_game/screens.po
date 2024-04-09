@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2023-12-25 13:08\n"
+"PO-Revision-Date: 2024-04-09 11:05\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
 msgstr "Назад"
 
@@ -122,6 +122,10 @@ msgstr "На весь екран"
 msgid "Rollback Side"
 msgstr "Сторона відкоту"
 
+# game/1000_base_game/screens.rpy:741
+msgid "Disable"
+msgstr ""
+
 # game/1000_base_game/screens.rpy:748
 msgid "Unseen Text"
 msgstr "Непрочитаний текст"
@@ -153,6 +157,10 @@ msgstr "Гучність ефектів"
 # game/1000_base_game/screens.rpy:787
 msgid "Test"
 msgstr "Тест"
+
+# game/1000_base_game/screens.rpy:791
+msgid "Voice Volume"
+msgstr ""
 
 # game/1000_base_game/screens.rpy:802
 msgid "Mute All"
@@ -303,6 +311,14 @@ msgstr "Кнопка Y/Top"
 # game/1000_base_game/screens.rpy:1102
 msgid "Calibrate"
 msgstr "Відкалібрувати"
+
+# game/1000_base_game/screens.rpy:1167
+msgid "Yes"
+msgstr ""
+
+# game/1000_base_game/screens.rpy:1168
+msgid "No"
+msgstr ""
 
 # game/1000_base_game/screens.rpy:1214
 msgid "Skipping"
