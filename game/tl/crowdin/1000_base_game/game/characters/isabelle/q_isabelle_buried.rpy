@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:8
 translate crowdin isabelle_quest_buried_start_ef126006:
@@ -60,7 +60,7 @@ translate crowdin isabelle_quest_buried_start_ba318264:
     # isabelle neutral "She was... a lot like you, actually."
     isabelle neutral "She was... a lot like you, actually."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:20
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:19
 translate crowdin isabelle_quest_buried_start_11fdb519:
 
     # extend "" nointeract
@@ -714,7 +714,7 @@ translate crowdin isabelle_quest_buried_lindsey_missed_scene_9a37359b:
     # lindsey cringe "I swear I have no memory of even going to her locker!"
     lindsey cringe "I swear I have no memory of even going to her locker!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:186
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:185
 translate crowdin isabelle_quest_buried_lindsey_missed_scene_11fdb519:
 
     # extend "" nointeract
@@ -774,7 +774,7 @@ translate crowdin isabelle_quest_buried_lindsey_missed_scene_8954ba78:
     # lindsey thinking "What are you saying?"
     lindsey thinking "What are you saying?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:201
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:200
 translate crowdin isabelle_quest_buried_lindsey_missed_scene_11fdb519_1:
 
     # extend "" nointeract
@@ -1014,7 +1014,7 @@ translate crowdin isabelle_quest_buried_jacklyn_be51ae11:
     # jacklyn excited "So, how's the art coming along?"
     jacklyn excited "So, how's the art coming along?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:261
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:260
 translate crowdin isabelle_quest_buried_jacklyn_11fdb519:
 
     # extend "" nointeract
@@ -1098,7 +1098,7 @@ translate crowdin isabelle_quest_buried_jacklyn_7311a61d:
     # jacklyn neutral "Flex. What sort? If you say pastel, I'll cut a bitch."
     jacklyn neutral "Flex. What sort? If you say pastel, I'll cut a bitch."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:285
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:284
 translate crowdin isabelle_quest_buried_jacklyn_11fdb519_1:
 
     # extend "" nointeract
@@ -1380,7 +1380,7 @@ translate crowdin quest_isabelle_buried_maxine_d3d80b6a:
     # "Oh, shit. She's about to walk off. Think fast... [maxine] loves mysteries."
     "Oh, shit. She's about to walk off. Think fast... [maxine] loves mysteries."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:355
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:354
 translate crowdin quest_isabelle_buried_maxine_11fdb519:
 
     # extend "" nointeract
@@ -2328,7 +2328,7 @@ translate crowdin isabelle_quest_buried_isabelle_28f86d17:
     # isabelle sad "I feel like I've failed her."
     isabelle sad "I feel like I've failed her."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:575
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:574
 translate crowdin isabelle_quest_buried_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -2976,7 +2976,7 @@ translate crowdin isabelle_quest_buried_isabelle_funeral_83b370de:
     # isabelle sad "But... the box is empty now."
     isabelle sad "But... the box is empty now."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:768
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:767
 translate crowdin isabelle_quest_buried_isabelle_funeral_11fdb519:
 
     # extend "" nointeract
@@ -3936,7 +3936,7 @@ translate crowdin school_ground_floor_missing_locker_interact_isabelle_bury_b691
     # "Uh, this doesn't look good at all. [isabelle]'s about to explode."
     "Uh, this doesn't look good at all. [isabelle]'s about to explode."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:984
+# game/1000_base_game/game/characters/isabelle/q_isabelle_buried.rpy:983
 translate crowdin school_ground_floor_missing_locker_interact_isabelle_bury_11fdb519:
 
     # extend "" nointeract

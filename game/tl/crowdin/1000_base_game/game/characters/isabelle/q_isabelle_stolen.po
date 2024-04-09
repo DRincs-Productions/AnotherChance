@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:3 #-#-# translate crowdin isabelle_quest_stolen_start_d518eb58:
+﻿# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:3 #-#-# translate crowdin isabelle_quest_stolen_start_d518eb58:
 msgid "[_isabelle_s_angry_] Can you bloody believe it?!"
 msgstr "[_isabelle_s_angry_] Can you bloody believe it?!"
 
@@ -6,7 +6,7 @@ msgstr "[_isabelle_s_angry_] Can you bloody believe it?!"
 msgid "[_isabelle_s_angry_] Someone broke into my locker!"
 msgstr "[_isabelle_s_angry_] Someone broke into my locker!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:7 #-#-# translate crowdin isabelle_quest_stolen_start_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:6 #-#-# translate crowdin isabelle_quest_stolen_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -158,7 +158,7 @@ msgstr "[_isabelle_s_angry_] That's exactly what the [guard] said! And the answe
 msgid "[_mc_] Well, someone must've seen something..."
 msgstr "[_mc_] Well, someone must've seen something..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:53 #-#-# translate crowdin isabelle_quest_stolen_start_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:52 #-#-# translate crowdin isabelle_quest_stolen_start_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -186,7 +186,7 @@ msgstr "[_mc_] That's the point — you asking around might not work."
 msgid "[_isabelle_s_cringe_] So, I'm supposed to just sit here?"
 msgstr "[_isabelle_s_cringe_] So, I'm supposed to just sit here?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:67 #-#-# translate crowdin isabelle_quest_stolen_start_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:66 #-#-# translate crowdin isabelle_quest_stolen_start_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -302,7 +302,7 @@ msgstr "[_isabelle_s_concerned_left_] Someone must've seen her fiddle with my lo
 msgid "[_isabelle_s_concerned_] It's not like she goes unnoticed... the spotlight always seems to fall on her."
 msgstr "[_isabelle_s_concerned_] It's not like she goes unnoticed... the spotlight always seems to fall on her."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:110 #-#-# translate crowdin isabelle_quest_stolen_start_11fdb519_3:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:109 #-#-# translate crowdin isabelle_quest_stolen_start_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -746,7 +746,7 @@ msgstr "There's currently ten doughnuts available, which will last him the rest 
 msgid "However... if the cafeteria were to run out..."
 msgstr "However... if the cafeteria were to run out..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:265 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:264 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -774,7 +774,7 @@ msgstr "[_jacklyn_s_angry_] Hold your horse dick! What's going on here?"
 msgid "Shit."
 msgstr "Shit."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:285 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:284 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -866,7 +866,7 @@ msgstr "[_mc_] Hey, thanks! That's so nice."
 msgid "[_jacklyn_s_excited_] I got you, bro."
 msgstr "[_jacklyn_s_excited_] I got you, bro."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:318 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:317 #-#-# translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1010,7 +1010,7 @@ msgstr "[_nurse_s_concerned_] I'm really craving something sweet right now."
 msgid "[_nurse_s_blush_] Would you mind selling me one?"
 msgstr "[_nurse_s_blush_] Would you mind selling me one?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:386 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:385 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1046,7 +1046,7 @@ msgstr "[_mc_] Sure, I don't need all of these!"
 msgid "[_nurse_s_smile_] Oh, great! Here's two dollars..."
 msgstr "[_nurse_s_smile_] Oh, great! Here's two dollars..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:404 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:403 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1086,7 +1086,7 @@ msgstr "[_nurse_s_neutral_] Oh..."
 msgid "[_nurse_s_neutral_] How much are they now?"
 msgstr "[_nurse_s_neutral_] How much are they now?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:423 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:422 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1298,7 +1298,7 @@ msgstr "[_guard_] This fucking place..."
 msgid "His only joy in life, stolen."
 msgstr "His only joy in life, stolen."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:507 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_outnuts_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:506 #-#-# translate crowdin isabelle_quest_stolen_cafeteria_outnuts_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1394,7 +1394,7 @@ msgstr "It's hard to believe that someone like her would do this..."
 msgid "On the other hand, the surveillance footage doesn't lie."
 msgstr "On the other hand, the surveillance footage doesn't lie."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:545 #-#-# translate crowdin isabelle_quest_stolen_dilemma_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:544 #-#-# translate crowdin isabelle_quest_stolen_dilemma_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1422,7 +1422,7 @@ msgstr "Saying it was [kate] could probably work without evidence, but what woul
 msgid "[isabelle]'s going to go after someone hard. She has that fire in her eyes..."
 msgstr "[isabelle]'s going to go after someone hard. She has that fire in her eyes..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:556 #-#-# translate crowdin isabelle_quest_stolen_dilemma_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:555 #-#-# translate crowdin isabelle_quest_stolen_dilemma_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1814,7 +1814,7 @@ msgstr "[_mc_] How convenient."
 msgid "[_lindsey_s_cringe_] I swear I have no memory of even going to her locker!"
 msgstr "[_lindsey_s_cringe_] I swear I have no memory of even going to her locker!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:691 #-#-# translate crowdin isabelle_quest_stolen_lindsey_dilemma_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:690 #-#-# translate crowdin isabelle_quest_stolen_lindsey_dilemma_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2150,7 +2150,7 @@ msgstr "[_kate_s_eyeroll_] You can't seem to get enough of me, can you?"
 msgid "[_kate_s_skeptical_] What is it this time?"
 msgstr "[_kate_s_skeptical_] What is it this time?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:813 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:812 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2210,7 +2210,7 @@ msgstr "Ugh..."
 msgid "[_kate_s_laughing_] Fun, right?"
 msgstr "[_kate_s_laughing_] Fun, right?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:841 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:840 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2246,7 +2246,7 @@ msgstr "[_kate_s_confident_] That's great. I'll just put it right here."
 msgid "Damn... I really treasured that [ritem.title_lower]."
 msgstr "Damn... I really treasured that [ritem.title_lower]."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:859 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_2:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:858 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2274,7 +2274,7 @@ msgstr "[_kate_s_laughing_] Poof!"
 msgid "My life savings..."
 msgstr "My life savings..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:875 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_3:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:874 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2298,7 +2298,7 @@ msgstr "[_kate_s_laughing_] Gone!"
 msgid "Never going to see that again..."
 msgstr "Never going to see that again..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:890 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_4:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:889 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_4:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2366,7 +2366,7 @@ msgstr "[_kate_s_confident_] I'm nothing if not civil."
 msgid "[_kate_s_neutral_] Now, stop wasting my time."
 msgstr "[_kate_s_neutral_] Now, stop wasting my time."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:933 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_5:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:932 #-#-# translate crowdin isabelle_quest_stolen_warnkate_11fdb519_5:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2586,7 +2586,7 @@ msgstr "[_mc_] Err..."
 msgid "[_jo_s_concerned_] Are those your things, [mc]?"
 msgstr "[_jo_s_concerned_] Are those your things, [mc]?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1026 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1025 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2718,7 +2718,7 @@ msgstr "[_isabelle_s_concerned_left_] But that's not what happened."
 msgid "[_jo_s_thinking_] [isabelle]?"
 msgstr "[_jo_s_thinking_] [isabelle]?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1082 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1081 #-#-# translate crowdin isabelle_quest_stolen_warnkate_joentrance_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3350,7 +3350,7 @@ msgstr "It probably wouldn't help to tell her about the strap-on."
 msgid "Honestly, that would probably give her anxiety."
 msgstr "Honestly, that would probably give her anxiety."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1330 #-#-# translate crowdin isabelle_quest_stolen_tellisabelle_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1329 #-#-# translate crowdin isabelle_quest_stolen_tellisabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 

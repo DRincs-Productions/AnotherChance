@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:3
 translate crowdin quest_kate_stepping_start_b9e60c75:
@@ -42,7 +42,7 @@ translate crowdin quest_kate_stepping_start_1e72eaf1:
     # kate eyeroll "What is it, [mc]?"
     kate eyeroll "What is it, [mc]?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:12
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:11
 translate crowdin quest_kate_stepping_start_11fdb519:
 
     # extend "" nointeract
@@ -72,7 +72,7 @@ translate crowdin quest_kate_stepping_start_55f8df63:
     # kate excited "Your compliments are useless, anyway. Why should I care about your opinion?"
     kate excited "Your compliments are useless, anyway. Why should I care about your opinion?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:21
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:20
 translate crowdin quest_kate_stepping_start_11fdb519_1:
 
     # extend "" nointeract
@@ -246,7 +246,7 @@ translate crowdin quest_kate_stepping_start_16eddc3e:
     # kate skeptical "Don't give me attitude. I don't care for it one bit."
     kate skeptical "Don't give me attitude. I don't care for it one bit."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:88
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:87
 translate crowdin quest_kate_stepping_start_11fdb519_2:
 
     # extend "" nointeract
@@ -336,7 +336,7 @@ translate crowdin quest_kate_stepping_start_b01bc87d:
     # kate angry "Are you going to keep arguing?"
     kate angry "Are you going to keep arguing?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:112
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:111
 translate crowdin quest_kate_stepping_start_11fdb519_3:
 
     # extend "" nointeract
@@ -486,7 +486,7 @@ translate crowdin quest_kate_stepping_start_30eb2914:
     # kate excited "What do you want, then?"
     kate excited "What do you want, then?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:148
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:147
 translate crowdin quest_kate_stepping_start_11fdb519_4:
 
     # extend "" nointeract
@@ -888,7 +888,7 @@ translate crowdin quest_kate_stepping_magazine_9eff7650:
     # flora concerned_cop "Now, why is your hand on this doorknob?"
     flora concerned_cop "Now, why is your hand on this doorknob?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:264
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:263
 translate crowdin quest_kate_stepping_magazine_11fdb519:
 
     # extend "" nointeract
@@ -2190,7 +2190,7 @@ translate crowdin quest_kate_stepping_meeting_80e24280:
     # maxine skeptical "What about you, [mc]?"
     maxine skeptical "What about you, [mc]?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:581
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:580
 translate crowdin quest_kate_stepping_meeting_11fdb519:
 
     # extend "" nointeract
@@ -2322,7 +2322,7 @@ translate crowdin quest_kate_stepping_meeting_006b85b3:
     # kate eyeroll "Why are you asking him...?"
     kate eyeroll "Why are you asking him...?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:614
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:613
 translate crowdin quest_kate_stepping_meeting_11fdb519_1:
 
     # extend "" nointeract
@@ -2766,7 +2766,7 @@ translate crowdin quest_kate_stepping_gym_68b94bfc:
     # kate skeptical "Well, what do you want, then?"
     kate skeptical "Well, what do you want, then?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:741
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:740
 translate crowdin quest_kate_stepping_gym_11fdb519:
 
     # extend "" nointeract
@@ -2946,7 +2946,7 @@ translate crowdin quest_kate_stepping_isabelle_1c0d4323:
     # mc "Not much. I was just wondering..."
     mc "Not much. I was just wondering..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:796
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:795
 translate crowdin quest_kate_stepping_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -2982,7 +2982,7 @@ translate crowdin quest_kate_stepping_isabelle_43d9a472:
     # isabelle sad "Wait, is this the bottle I gave you?"
     isabelle sad "Wait, is this the bottle I gave you?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:807
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:806
 translate crowdin quest_kate_stepping_isabelle_11fdb519_1:
 
     # extend "" nointeract
@@ -3132,7 +3132,7 @@ translate crowdin quest_kate_stepping_isabelle_623ac2fd:
     # isabelle laughing "Okay! What sorts of things do you like?"
     isabelle laughing "Okay! What sorts of things do you like?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:843
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:842
 translate crowdin quest_kate_stepping_isabelle_11fdb519_2:
 
     # extend "" nointeract
@@ -3864,7 +3864,7 @@ translate crowdin quest_kate_stepping_party_bfd2e7a2:
     # kate paddling_arrival_isabelle_defiant_ballgag "Was that a \"thank you,\" or a \"fuck you?\""
     kate paddling_arrival_isabelle_defiant_ballgag "Was that a \"thank you,\" or a \"fuck you?\""
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1056
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1055
 translate crowdin quest_kate_stepping_party_11fdb519:
 
     # extend "" nointeract
@@ -4458,7 +4458,7 @@ translate crowdin quest_kate_stepping_party_74f399f5:
     # kate paddling_lacey_paddle1_red_isabelle_blush "But since you're so eager, perhaps we should give you more than five? What do you think, [mc]?"
     kate paddling_lacey_paddle1_red_isabelle_blush "But since you're so eager, perhaps we should give you more than five? What do you think, [mc]?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1306
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1305
 translate crowdin quest_kate_stepping_party_11fdb519_1:
 
     # extend "" nointeract

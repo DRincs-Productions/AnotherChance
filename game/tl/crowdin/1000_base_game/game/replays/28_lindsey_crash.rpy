@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/28_lindsey_crash.rpy:10
 translate crowdin replay_lindsey_crash_3a5b2e50:
@@ -48,7 +48,7 @@ translate crowdin replay_lindsey_crash_d97b5b85:
     # lindsey lindseycrashed_waking "Ouch..."
     lindsey lindseycrashed_waking "Ouch..."
 
-# game/1000_base_game/game/replays/28_lindsey_crash.rpy:27
+# game/1000_base_game/game/replays/28_lindsey_crash.rpy:26
 translate crowdin replay_lindsey_crash_11fdb519:
 
     # extend "" nointeract

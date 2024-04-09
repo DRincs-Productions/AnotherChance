@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:10
 translate crowdin quest_nurse_photogenic_strawberry_juice_69d25e76:
@@ -66,7 +66,7 @@ translate crowdin quest_nurse_photogenic_start_0ed7cc14:
     # "What's happening...?"
     "What's happening...?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:39
+# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:38
 translate crowdin quest_nurse_photogenic_start_11fdb519:
 
     # extend "" nointeract
@@ -168,7 +168,7 @@ translate crowdin quest_nurse_photogenic_start_7224dbbc:
     # flora eyeroll "Whatever. Next time don't ask me for help."
     flora eyeroll "Whatever. Next time don't ask me for help."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:71
+# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:70
 translate crowdin quest_nurse_photogenic_start_11fdb519_1:
 
     # extend "" nointeract
@@ -282,7 +282,7 @@ translate crowdin quest_nurse_photogenic_start_71ab9ce9:
     # flora afraid "You would not!"
     flora afraid "You would not!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:101
+# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:100
 translate crowdin quest_nurse_photogenic_start_11fdb519_2:
 
     # extend "" nointeract
@@ -576,7 +576,7 @@ translate crowdin quest_nurse_photogenic_start_5b04caaf:
     # lindsey laughing "I'm quite strong, but no. [maxine] helped."
     lindsey laughing "I'm quite strong, but no. [maxine] helped."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:192
+# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:191
 translate crowdin quest_nurse_photogenic_start_11fdb519_3:
 
     # extend "" nointeract
@@ -618,7 +618,7 @@ translate crowdin quest_nurse_photogenic_start_e7636365:
     # lindsey flirty "You know how she is."
     lindsey flirty "You know how she is."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:204
+# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:203
 translate crowdin quest_nurse_photogenic_start_11fdb519_4:
 
     # extend "" nointeract
@@ -672,7 +672,7 @@ translate crowdin quest_nurse_photogenic_start_80e35f96:
     # lindsey annoyed "I wish there was something I could do."
     lindsey annoyed "I wish there was something I could do."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:218
+# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:217
 translate crowdin quest_nurse_photogenic_start_11fdb519_5:
 
     # extend "" nointeract
@@ -882,7 +882,7 @@ translate crowdin quest_nurse_photogenic_start_80b52e30:
     # lindsey sad "I don't want to waste her time. You know how she is."
     lindsey sad "I don't want to waste her time. You know how she is."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:272
+# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:271
 translate crowdin quest_nurse_photogenic_start_11fdb519_6:
 
     # extend "" nointeract
@@ -942,7 +942,7 @@ translate crowdin quest_nurse_photogenic_start_3ad30320:
     # lindsey flirty "Now we're even!"
     lindsey flirty "Now we're even!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:292
+# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:291
 translate crowdin quest_nurse_photogenic_start_11fdb519_7:
 
     # extend "" nointeract
@@ -1338,7 +1338,7 @@ translate crowdin quest_nurse_photogenic_curtain_3226a955:
     # "I'm not sure what's going on behind there, but it sounds serious..."
     "I'm not sure what's going on behind there, but it sounds serious..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:384
+# game/1000_base_game/game/characters/nurse/q_nurse_photogenic.rpy:383
 translate crowdin quest_nurse_photogenic_curtain_11fdb519:
 
     # extend "" nointeract

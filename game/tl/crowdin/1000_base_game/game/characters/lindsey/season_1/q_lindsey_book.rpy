@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:3
 translate crowdin quest_lindsey_book_start_c7688f55:
@@ -36,7 +36,7 @@ translate crowdin quest_lindsey_book_start_b33f3173:
     # lindsey angry "You treated me like shit!"
     lindsey angry "You treated me like shit!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:12
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:11
 translate crowdin quest_lindsey_book_start_11fdb519:
 
     # extend "" nointeract
@@ -174,7 +174,7 @@ translate crowdin quest_lindsey_book_start_mid_3742fb27:
     # lindsey cringe "The library is closed, so I can't go for my usual favorites."
     lindsey cringe "The library is closed, so I can't go for my usual favorites."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:54
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:53
 translate crowdin quest_lindsey_book_start_mid_11fdb519:
 
     # extend "" nointeract
@@ -522,7 +522,7 @@ translate crowdin quest_lindsey_book_apology_gift_two_b62d644d:
     # lindsey skeptical "This is a slow process. You could ask me how I'm doing, but you have to mean it."
     lindsey skeptical "This is a slow process. You could ask me how I'm doing, but you have to mean it."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:144
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:143
 translate crowdin quest_lindsey_book_apology_gift_two_11fdb519:
 
     # extend "" nointeract
@@ -630,7 +630,7 @@ translate crowdin quest_lindsey_book_suggest_bb3f5c60:
     # lindsey skeptical "It's not exactly what I had in mind..."
     lindsey skeptical "It's not exactly what I had in mind..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:189
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:188
 translate crowdin quest_lindsey_book_suggest_11fdb519:
 
     # extend "" nointeract
@@ -786,7 +786,7 @@ translate crowdin quest_lindsey_book_feedback_385ac866:
     # "[lindsey] painting in the shadow of a tree, the summer breeze gently tugging at her hair — it's a nice picture."
     "[lindsey] painting in the shadow of a tree, the summer breeze gently tugging at her hair — it's a nice picture."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:246
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:245
 translate crowdin quest_lindsey_book_feedback_11fdb519:
 
     # extend "" nointeract
@@ -834,7 +834,7 @@ translate crowdin quest_lindsey_book_feedback_c14b7f25:
     # lindsey smile "It's not that good, and I don't like to be judged."
     lindsey smile "It's not that good, and I don't like to be judged."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:262
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:261
 translate crowdin quest_lindsey_book_feedback_11fdb519_1:
 
     # extend "" nointeract
@@ -1158,7 +1158,7 @@ translate crowdin quest_lindsey_book_easel_28fa21dc:
     # lindsey cringe "Hey! It stole the easel!"
     lindsey cringe "Hey! It stole the easel!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:381
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_book.rpy:380
 translate crowdin quest_lindsey_book_easel_11fdb519:
 
     # extend "" nointeract

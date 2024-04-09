@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/home/hall/int_door_bathroom.rpy:43
 translate crowdin home_hall_door_bathroom_interact_flora_cooking_chilli_return_phone_c824e642:
@@ -36,7 +36,7 @@ translate crowdin home_hall_door_bathroom_interact_flora_cooking_chilli_return_p
     # flora "Owie! Owie!"
     flora "Owie! Owie!"
 
-# game/1000_base_game/game/locations/home/hall/int_door_bathroom.rpy:50
+# game/1000_base_game/game/locations/home/hall/int_door_bathroom.rpy:49
 translate crowdin home_hall_door_bathroom_interact_flora_cooking_chilli_return_phone_11fdb519:
 
     # extend "" nointeract

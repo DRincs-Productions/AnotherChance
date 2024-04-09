@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/maya/q_maya_witch.rpy:2
 translate crowdin quest_maya_witch_start_7c4911ec:
@@ -666,7 +666,7 @@ translate crowdin quest_maya_witch_english_class_0a0aaab8:
     # "Hmm... I need a good place to hide so I can observe uninterrupted..."
     "Hmm... I need a good place to hide so I can observe uninterrupted..."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:201
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:200
 translate crowdin quest_maya_witch_english_class_11fdb519:
 
     # extend "" nointeract
@@ -702,7 +702,7 @@ translate crowdin quest_maya_witch_english_class_6608e527:
     # jacklyn thinking "Lumpy and sad. Hard to vibe with that."
     jacklyn thinking "Lumpy and sad. Hard to vibe with that."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:212
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:211
 translate crowdin quest_maya_witch_english_class_11fdb519_1:
 
     # extend "" nointeract
@@ -1572,7 +1572,7 @@ translate crowdin quest_maya_witch_gym_class_769fc8f5:
     # kate excited "Now, what do you think about that?"
     kate excited "Now, what do you think about that?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:445
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:444
 translate crowdin quest_maya_witch_gym_class_11fdb519:
 
     # extend "" nointeract
@@ -2034,7 +2034,7 @@ translate crowdin quest_maya_witch_computer_class_db36426a:
     # maya annoyed "Why?"
     maya annoyed "Why?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:615
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:614
 translate crowdin quest_maya_witch_computer_class_11fdb519:
 
     # extend "" nointeract
@@ -2550,7 +2550,7 @@ translate crowdin quest_maya_witch_locked_4cb4c9ed:
     # maya concerned "Be honest, were you the one who locked it? Is this the part where you{space=-40}\nmurder me and wear my skin?"
     maya concerned "Be honest, were you the one who locked it? Is this the part where you{space=-40}\nmurder me and wear my skin?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:721
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:720
 translate crowdin quest_maya_witch_locked_11fdb519:
 
     # extend "" nointeract
@@ -2766,7 +2766,7 @@ translate crowdin quest_maya_witch_phone_call_ae257739:
     # jo "Why would you\ngo and do that?"
     jo "Why would you\ngo and do that?"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:784
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:783
 translate crowdin quest_maya_witch_phone_call_11fdb519:
 
     # extend "" nointeract
@@ -3324,7 +3324,7 @@ translate crowdin quest_maya_witch_wait_4909514f:
     # maya afraid "Do something!"
     maya afraid "Do something!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:930
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:929
 translate crowdin quest_maya_witch_wait_11fdb519:
 
     # extend "" nointeract
@@ -4008,7 +4008,7 @@ translate crowdin quest_maya_witch_help_2263801b:
     # maxine concerned "It's your funeral."
     maxine concerned "It's your funeral."
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1265
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1264
 translate crowdin quest_maya_witch_help_11fdb519:
 
     # extend "" nointeract
@@ -4500,7 +4500,7 @@ translate crowdin quest_maya_witch_meet_up_68c62b45:
     # maxine laughing "Excellent!"
     maxine laughing "Excellent!"
 
-# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1393
+# game/1000_base_game/game/characters/maya/q_maya_witch.rpy:1392
 translate crowdin quest_maya_witch_meet_up_11fdb519:
 
     # extend "" nointeract

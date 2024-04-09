@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/58_isabelle_punishment.rpy:6
 translate crowdin replay_isabelle_punishment_d82d3aa1:
@@ -198,7 +198,7 @@ translate crowdin replay_isabelle_punishment_bfd2e7a2:
     # kate paddling_arrival_isabelle_defiant_ballgag "Was that a \"thank you,\" or a \"fuck you?\""
     kate paddling_arrival_isabelle_defiant_ballgag "Was that a \"thank you,\" or a \"fuck you?\""
 
-# game/1000_base_game/game/replays/58_isabelle_punishment.rpy:40
+# game/1000_base_game/game/replays/58_isabelle_punishment.rpy:39
 translate crowdin replay_isabelle_punishment_11fdb519:
 
     # extend "" nointeract
@@ -792,7 +792,7 @@ translate crowdin replay_isabelle_punishment_74f399f5:
     # kate paddling_lacey_paddle1_red_isabelle_blush "But since you're so eager, perhaps we should give you more than five? What do you think, [mc]?"
     kate paddling_lacey_paddle1_red_isabelle_blush "But since you're so eager, perhaps we should give you more than five? What do you think, [mc]?"
 
-# game/1000_base_game/game/replays/58_isabelle_punishment.rpy:289
+# game/1000_base_game/game/replays/58_isabelle_punishment.rpy:288
 translate crowdin replay_isabelle_punishment_11fdb519_1:
 
     # extend "" nointeract

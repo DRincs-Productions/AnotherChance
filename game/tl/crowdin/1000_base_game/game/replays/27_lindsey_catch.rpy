@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/27_lindsey_catch.rpy:10
 translate crowdin replay_lindsey_catch_3a5b2e50:
@@ -30,7 +30,7 @@ translate crowdin replay_lindsey_catch_6b263823:
     # lindsey lindseycatch_look "[mc]? Where did you come from?"
     lindsey lindseycatch_look "[mc]? Where did you come from?"
 
-# game/1000_base_game/game/replays/27_lindsey_catch.rpy:24
+# game/1000_base_game/game/replays/27_lindsey_catch.rpy:23
 translate crowdin replay_lindsey_catch_11fdb519:
 
     # extend "" nointeract

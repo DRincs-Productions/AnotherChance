@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:5
 translate crowdin quest_lindsey_wrong_start_c5a1334f:
@@ -192,7 +192,7 @@ translate crowdin quest_lindsey_wrong_follow_c8e26e8b:
     # "Can't tell if she's joking or not. Doesn't seem like her to gaslight someone for fun."
     "Can't tell if she's joking or not. Doesn't seem like her to gaslight someone for fun."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:47
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:46
 translate crowdin quest_lindsey_wrong_follow_11fdb519:
 
     # extend "" nointeract
@@ -528,7 +528,7 @@ translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_07023dec:
     # "Oh, shit. She's about to crash again..."
     "Oh, shit. She's about to crash again..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:124
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:123
 translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_11fdb519:
 
     # extend "" nointeract
@@ -564,7 +564,7 @@ translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_6b263823:
     # lindsey lindseycatch_look "[mc]? Where did you come from?"
     lindsey lindseycatch_look "[mc]? Where did you come from?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:141
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:140
 translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_11fdb519_1:
 
     # extend "" nointeract
@@ -984,7 +984,7 @@ translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_d97b5b85:
     # lindsey lindseycrashed_waking "Ouch..."
     lindsey lindseycrashed_waking "Ouch..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:236
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:235
 translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_11fdb519_2:
 
     # extend "" nointeract
@@ -1248,7 +1248,7 @@ translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_maxine_sce
     # maxine thinking "I believe the disturbance is caused by the saucer-eyed doll."
     maxine thinking "I believe the disturbance is caused by the saucer-eyed doll."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:310
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:309
 translate crowdin school_ground_floor_stairs_quest_lindsey_wrong_fall_maxine_scene_11fdb519:
 
     # extend "" nointeract
@@ -1698,7 +1698,7 @@ translate crowdin quest_lindsey_wrong_gym_9f0e97ce:
     # lindsey neutral "Are you okay? You seem a bit out of breath."
     lindsey neutral "Are you okay? You seem a bit out of breath."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:435
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:434
 translate crowdin quest_lindsey_wrong_gym_11fdb519:
 
     # extend "" nointeract
@@ -2448,7 +2448,7 @@ translate crowdin lindsey_wrong_puddle_use_mop_appear_533aadb9:
     # kate confident "What are you hiding?"
     kate confident "What are you hiding?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:658
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:657
 translate crowdin lindsey_wrong_puddle_use_mop_appear_11fdb519:
 
     # extend "" nointeract
@@ -2574,7 +2574,7 @@ translate crowdin quest_lindsey_wrong_lindseyart_4446cbdd:
     # lindsey afraid "Stop looking!"
     lindsey afraid "Stop looking!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:708
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:707
 translate crowdin quest_lindsey_wrong_lindseyart_11fdb519:
 
     # extend "" nointeract
@@ -2610,7 +2610,7 @@ translate crowdin quest_lindsey_wrong_lindseyart_b6d06a7b:
     # lindsey "Um... I need you to get my clothes from the women's locker room..."
     lindsey "Um... I need you to get my clothes from the women's locker room..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:721
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:720
 translate crowdin quest_lindsey_wrong_lindseyart_11fdb519_1:
 
     # extend "" nointeract
@@ -3246,7 +3246,7 @@ translate crowdin flora_quest_lindsey_wrong_florahelp_a0283875:
     # flora concerned "Yeah, but knowing you, it's probably something gross."
     flora concerned "Yeah, but knowing you, it's probably something gross."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:878
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:877
 translate crowdin flora_quest_lindsey_wrong_florahelp_11fdb519:
 
     # extend "" nointeract
@@ -3558,7 +3558,7 @@ translate crowdin quest_lindsey_wrong_lindseyclothes_10f2e4be:
     # lindsey smile "Oh, nice! You found it!"
     lindsey smile "Oh, nice! You found it!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:967
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_wrong.rpy:966
 translate crowdin quest_lindsey_wrong_lindseyclothes_11fdb519:
 
     # extend "" nointeract

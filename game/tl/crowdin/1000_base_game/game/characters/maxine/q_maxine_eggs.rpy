@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:2
 translate crowdin quest_maxine_eggs_start_7b81f9fd:
@@ -30,7 +30,7 @@ translate crowdin quest_maxine_eggs_start_b60ecc84:
     # maxine smile "Anyway, how can I help you?"
     maxine smile "Anyway, how can I help you?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:10
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:9
 translate crowdin quest_maxine_eggs_start_11fdb519:
 
     # extend "" nointeract
@@ -72,7 +72,7 @@ translate crowdin quest_maxine_eggs_start_bae6a1cb:
     # "Being a let down this early in the year is not how you capitalize on a second chance."
     "Being a let down this early in the year is not how you capitalize on a second chance."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:21
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:20
 translate crowdin quest_maxine_eggs_start_11fdb519_1:
 
     # extend "" nointeract
@@ -156,7 +156,7 @@ translate crowdin quest_maxine_eggs_start_d76faf91:
     # "The only problem is that she's really good at sniffing out lies."
     "The only problem is that she's really good at sniffing out lies."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:44
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:43
 translate crowdin quest_maxine_eggs_start_11fdb519_2:
 
     # extend "" nointeract
@@ -474,7 +474,7 @@ translate crowdin quest_maxine_eggs_start_04105990_1:
     # maxine smile "These are busy times."
     maxine smile "These are busy times."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:122
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:121
 translate crowdin quest_maxine_eggs_start_11fdb519_3:
 
     # extend "" nointeract
@@ -516,7 +516,7 @@ translate crowdin quest_maxine_eggs_start_journalist_2446911d:
     # "If she means looking at photos of scantily clad women, then few people have my experience."
     "If she means looking at photos of scantily clad women, then few people have my experience."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:139
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:138
 translate crowdin quest_maxine_eggs_start_journalist_11fdb519:
 
     # extend "" nointeract
@@ -1026,7 +1026,7 @@ translate crowdin quest_maxine_eggs_computer_801985ce:
     # cyberia "The email detailing your crimes is now ready to be dispatched."
     cyberia "The email detailing your crimes is now ready to be dispatched."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:256
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:255
 translate crowdin quest_maxine_eggs_computer_11fdb519:
 
     # extend "" nointeract
@@ -1374,7 +1374,7 @@ translate crowdin quest_maxine_eggs_deliver_880ad176:
     # maxine thinking "Time is important... but so is safety..."
     maxine thinking "Time is important... but so is safety..."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:336
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:335
 translate crowdin quest_maxine_eggs_deliver_11fdb519:
 
     # extend "" nointeract
@@ -1962,7 +1962,7 @@ translate crowdin quest_maxine_eggs_bathroom_encounter_f495eff3:
     # lindsey cringe "[mc]? Why are you all silvery?"
     lindsey cringe "[mc]? Why are you all silvery?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:474
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:473
 translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519:
 
     # extend "" nointeract
@@ -2088,7 +2088,7 @@ translate crowdin quest_maxine_eggs_bathroom_encounter_f66c9ad4:
     # lindsey skeptical "Mhm? Care to share?"
     lindsey skeptical "Mhm? Care to share?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:507
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:506
 translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_1:
 
     # extend "" nointeract
@@ -2370,7 +2370,7 @@ translate crowdin quest_maxine_eggs_bathroom_encounter_652c0635:
     # lindsey angry "So, what exactly are you doing in the women's bathroom after dark?"
     lindsey angry "So, what exactly are you doing in the women's bathroom after dark?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:574
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:573
 translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_2:
 
     # extend "" nointeract
@@ -2814,7 +2814,7 @@ translate crowdin quest_maxine_eggs_bathroom_encounter_27c87662:
     # "Hmm... maybe there's another photo to be had?"
     "Hmm... maybe there's another photo to be had?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:666
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:665
 translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_3:
 
     # extend "" nointeract
@@ -3324,7 +3324,7 @@ translate crowdin quest_maxine_eggs_meeting_soon_ddeab1e8:
     # maxine concerned "Very good! It'll make a thought-provoking headline."
     maxine concerned "Very good! It'll make a thought-provoking headline."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:790
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:789
 translate crowdin quest_maxine_eggs_meeting_soon_11fdb519:
 
     # extend "" nointeract

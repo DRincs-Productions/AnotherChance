@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:8
 translate crowdin quest_isabelle_locker_start_95c7633a:
@@ -72,7 +72,7 @@ translate crowdin quest_isabelle_locker_start_3094ddd9:
     # isabelle concerned "Do you have a plan?"
     isabelle concerned "Do you have a plan?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:22
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:21
 translate crowdin quest_isabelle_locker_start_11fdb519:
 
     # extend "" nointeract
@@ -426,7 +426,7 @@ translate crowdin quest_isabelle_locker_interrogate_jo_20ffd203:
     # jo smile "The basement needs a good cleaning."
     jo smile "The basement needs a good cleaning."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:105
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:104
 translate crowdin quest_isabelle_locker_interrogate_jo_11fdb519:
 
     # extend "" nointeract
@@ -750,7 +750,7 @@ translate crowdin quest_isabelle_locker_interrogate_maxine_04f07955:
     # mc "It was, err..."
     mc "It was, err..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:194
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:193
 translate crowdin quest_isabelle_locker_interrogate_maxine_11fdb519:
 
     # extend "" nointeract
@@ -1116,7 +1116,7 @@ translate crowdin quest_isabelle_locker_interrogate_maxine_brb_156d8600:
     # maxine smile "If I were part of a secret esoteric group, do you think I would tell you?"
     maxine smile "If I were part of a secret esoteric group, do you think I would tell you?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:292
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:291
 translate crowdin quest_isabelle_locker_interrogate_maxine_brb_11fdb519:
 
     # extend "" nointeract
@@ -1914,7 +1914,7 @@ translate crowdin quest_isabelle_locker_talk_2f068911:
     # mc "I do."
     mc "I do."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:453
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:452
 translate crowdin quest_isabelle_locker_talk_11fdb519:
 
     # extend "" nointeract
@@ -2130,7 +2130,7 @@ translate crowdin quest_isabelle_locker_catnap_maxine_back_06a04cf9:
     # "Hmm... I need to come up with something that catches her interest..."
     "Hmm... I need to come up with something that catches her interest..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:516
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:515
 translate crowdin quest_isabelle_locker_catnap_maxine_back_11fdb519:
 
     # extend "" nointeract
@@ -3048,7 +3048,7 @@ translate crowdin quest_isabelle_locker_email_c9fbb616:
     # "What should be the handle?"
     "What should be the handle?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:818
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:817
 translate crowdin quest_isabelle_locker_email_11fdb519:
 
     # extend "" nointeract
@@ -3096,7 +3096,7 @@ translate crowdin quest_isabelle_locker_email_a24227c5:
     # isabelle confident "Let's get started."
     isabelle confident "Let's get started."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:835
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:834
 translate crowdin quest_isabelle_locker_email_11fdb519_1:
 
     # extend "" nointeract
@@ -3420,7 +3420,7 @@ translate crowdin quest_isabelle_locker_wait_d1e6c237:
     # isabelle angry "Let's see if [maxine] still says no when I send her the cat's bloody head..."
     isabelle angry "Let's see if [maxine] still says no when I send her the cat's bloody head..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:926
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:925
 translate crowdin quest_isabelle_locker_wait_11fdb519:
 
     # extend "" nointeract
@@ -4572,7 +4572,7 @@ translate crowdin quest_isabelle_locker_wait_4f09a4ea:
     # "I can't hold it back any longer..."
     "I can't hold it back any longer..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1652
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1651
 translate crowdin quest_isabelle_locker_wait_11fdb519_1:
 
     # extend "" nointeract
@@ -4901,8 +4901,4 @@ translate crowdin strings:
     # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:925
     old "{image=stats lust}|\"You're right — negotiations are over.\nIt's time for justice.\""
     new "{image=stats lust}|\"You're right — negotiations are over.\nIt's time for justice.\""
-
-    # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1651
-    old "Cum inside"
-    new "Cum inside"
 

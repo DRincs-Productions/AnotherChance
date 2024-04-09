@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/35_kate_punishment.rpy:6
 translate crowdin replay_kate_punishment_eedc76f6:
@@ -54,7 +54,7 @@ translate crowdin replay_kate_punishment_e587e445:
     # kate cheerleader_feet "No, what?"
     kate cheerleader_feet "No, what?"
 
-# game/1000_base_game/game/replays/35_kate_punishment.rpy:16
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:15
 translate crowdin replay_kate_punishment_11fdb519:
 
     # extend "" nointeract
@@ -216,7 +216,7 @@ translate crowdin replay_kate_punishment_e78ba8fe:
     # "There's no winning here, only different levels of losing."
     "There's no winning here, only different levels of losing."
 
-# game/1000_base_game/game/replays/35_kate_punishment.rpy:52
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:51
 translate crowdin replay_kate_punishment_11fdb519_1:
 
     # extend "" nointeract
@@ -576,7 +576,7 @@ translate crowdin replay_kate_punishment_d3e1ee04:
     # "Maybe certain things should be left unsaid."
     "Maybe certain things should be left unsaid."
 
-# game/1000_base_game/game/replays/35_kate_punishment.rpy:144
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:143
 translate crowdin replay_kate_punishment_11fdb519_2:
 
     # extend "" nointeract
@@ -918,7 +918,7 @@ translate crowdin replay_kate_punishment_817371e5:
     # kate cheerleader_feet_nofeet_kate_phoneground_neutral "Nod if you understand."
     kate cheerleader_feet_nofeet_kate_phoneground_neutral "Nod if you understand."
 
-# game/1000_base_game/game/replays/35_kate_punishment.rpy:244
+# game/1000_base_game/game/replays/35_kate_punishment.rpy:243
 translate crowdin replay_kate_punishment_11fdb519_3:
 
     # extend "" nointeract

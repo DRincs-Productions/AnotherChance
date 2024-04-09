@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/school/english_class/int_teachers_desk.rpy:29
 translate crowdin school_english_class_desk_interact_d0a7bf89:
@@ -18,7 +18,7 @@ translate crowdin school_english_class_desk_interact_16313fde:
     # "On the other hand, lame."
     "On the other hand, lame."
 
-# game/1000_base_game/game/locations/school/english_class/int_teachers_desk.rpy:33
+# game/1000_base_game/game/locations/school/english_class/int_teachers_desk.rpy:32
 translate crowdin school_english_class_desk_interact_11fdb519:
 
     # extend "" nointeract

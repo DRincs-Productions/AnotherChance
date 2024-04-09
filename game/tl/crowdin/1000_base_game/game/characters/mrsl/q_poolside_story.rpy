@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:3
 translate crowdin mrsl_quest_poolside_story_start_9deed393:
@@ -192,7 +192,7 @@ translate crowdin poolside_story_isabelle_petition_4790cd7a:
     # isabelle concerned "Sad? Why sad?"
     isabelle concerned "Sad? Why sad?"
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:53
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:52
 translate crowdin poolside_story_isabelle_petition_11fdb519:
 
     # extend "" nointeract
@@ -714,7 +714,7 @@ translate crowdin poolside_story_jacklyn_decoarations_6ab2d456:
     # "Crap. I forgot I spilled mustard on myself last night."
     "Crap. I forgot I spilled mustard on myself last night."
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:172
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:171
 translate crowdin poolside_story_jacklyn_decoarations_11fdb519:
 
     # extend "" nointeract
@@ -1116,7 +1116,7 @@ translate crowdin mrsl_quest_poolside_story_convince_61bcb16b:
     # mc "Random question but..."
     mc "Random question but..."
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:294
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:293
 translate crowdin mrsl_quest_poolside_story_convince_11fdb519:
 
     # extend "" nointeract
@@ -1590,7 +1590,7 @@ translate crowdin mrsl_quest_poolside_story_tryout_41e22446:
     # mrsl flirty "Ready to get started?"
     mrsl flirty "Ready to get started?"
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:418
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:417
 translate crowdin mrsl_quest_poolside_story_tryout_11fdb519:
 
     # extend "" nointeract
@@ -1656,7 +1656,7 @@ translate crowdin mrsl_quest_poolside_story_tryout_b2038c55:
     # mrsl excited "It is a little unorthodox, but I promise you it'll be fine!"
     mrsl excited "It is a little unorthodox, but I promise you it'll be fine!"
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:437
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:436
 translate crowdin mrsl_quest_poolside_story_tryout_11fdb519_1:
 
     # extend "" nointeract

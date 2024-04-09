@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:23
 translate crowdin kate_blowjob_dream_random_interact_locked_location_ea5ea154:
@@ -24,7 +24,7 @@ translate crowdin quest_kate_blowjob_dream_mrsl_e4a76cb0:
     # mrsl thinking "How did the tour go?"
     mrsl thinking "How did the tour go?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:37
+# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:36
 translate crowdin quest_kate_blowjob_dream_mrsl_11fdb519:
 
     # extend "" nointeract
@@ -54,7 +54,7 @@ translate crowdin quest_kate_blowjob_dream_mrsl_42453acb:
     # mrsl skeptical "Can you tell me what happened?"
     mrsl skeptical "Can you tell me what happened?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:46
+# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:45
 translate crowdin quest_kate_blowjob_dream_mrsl_11fdb519_1:
 
     # extend "" nointeract
@@ -618,7 +618,7 @@ translate crowdin kate_quest_kate_blowjob_dream_school_ea0c1a85:
     # mc "You've insulted me for the last time..."
     mc "You've insulted me for the last time..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:197
+# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:196
 translate crowdin kate_quest_kate_blowjob_dream_school_11fdb519:
 
     # extend "" nointeract
@@ -780,7 +780,7 @@ translate crowdin kate_quest_kate_blowjob_dream_school_c7146f00:
     # "Maybe her looking like this is all I need to move on from the past? But let's be honest, who would say no to a blowjob from [kate]?"
     "Maybe her looking like this is all I need to move on from the past? But let's be honest, who would say no to a blowjob from [kate]?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:232
+# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:231
 translate crowdin kate_quest_kate_blowjob_dream_school_11fdb519_1:
 
     # extend "" nointeract
@@ -1122,7 +1122,7 @@ translate crowdin kate_quest_kate_blowjob_dream_school_68ff5e27:
     # "Fuck, I can't... I'm going to..."
     "Fuck, I can't... I'm going to..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:325
+# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:324
 translate crowdin kate_quest_kate_blowjob_dream_school_11fdb519_2:
 
     # extend "" nointeract
@@ -1914,7 +1914,7 @@ translate crowdin kate_quest_kate_blowjob_dream_school_rough_bj_c2a00c5f_1:
     # "I'm going to..."
     "I'm going to..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:500
+# game/1000_base_game/game/characters/kate/season_1/q_kate_blowjob_dream.rpy:499
 translate crowdin kate_quest_kate_blowjob_dream_school_rough_bj_11fdb519:
 
     # extend "" nointeract

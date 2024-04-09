@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:3
 translate crowdin isabelle_quest_stolen_start_d518eb58:
@@ -12,7 +12,7 @@ translate crowdin isabelle_quest_stolen_start_dc1e5fed:
     # isabelle angry "Someone broke into my locker!"
     isabelle angry "Someone broke into my locker!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:7
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:6
 translate crowdin isabelle_quest_stolen_start_11fdb519:
 
     # extend "" nointeract
@@ -240,7 +240,7 @@ translate crowdin isabelle_quest_stolen_start_7a082c95:
     # mc "Well, someone must've seen something..."
     mc "Well, someone must've seen something..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:53
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:52
 translate crowdin isabelle_quest_stolen_start_11fdb519_1:
 
     # extend "" nointeract
@@ -282,7 +282,7 @@ translate crowdin isabelle_quest_stolen_start_8f8e2042:
     # isabelle cringe "So, I'm supposed to just sit here?"
     isabelle cringe "So, I'm supposed to just sit here?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:67
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:66
 translate crowdin isabelle_quest_stolen_start_11fdb519_2:
 
     # extend "" nointeract
@@ -456,7 +456,7 @@ translate crowdin isabelle_quest_stolen_start_38bdcd97:
     # isabelle concerned "It's not like she goes unnoticed... the spotlight always seems to fall on her."
     isabelle concerned "It's not like she goes unnoticed... the spotlight always seems to fall on her."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:110
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:109
 translate crowdin isabelle_quest_stolen_start_11fdb519_3:
 
     # extend "" nointeract
@@ -1122,7 +1122,7 @@ translate crowdin isabelle_quest_stolen_cafeteria_donut_4d04c7b1:
     # "However... if the cafeteria were to run out..."
     "However... if the cafeteria were to run out..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:265
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:264
 translate crowdin isabelle_quest_stolen_cafeteria_donut_11fdb519:
 
     # extend "" nointeract
@@ -1164,7 +1164,7 @@ translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_fb6e33a2:
     # "Shit."
     "Shit."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:285
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:284
 translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_11fdb519:
 
     # extend "" nointeract
@@ -1302,7 +1302,7 @@ translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_a0c9aada:
     # jacklyn excited "I got you, bro."
     jacklyn excited "I got you, bro."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:318
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:317
 translate crowdin quest_jacklyn_sweets_doughnuts_jacklyn_11fdb519_1:
 
     # extend "" nointeract
@@ -1518,7 +1518,7 @@ translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_de200a43:
     # nurse blush "Would you mind selling me one?"
     nurse blush "Would you mind selling me one?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:386
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:385
 translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_11fdb519:
 
     # extend "" nointeract
@@ -1572,7 +1572,7 @@ translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_8a16acfb:
     # nurse smile "Oh, great! Here's two dollars..."
     nurse smile "Oh, great! Here's two dollars..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:404
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:403
 translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_11fdb519_1:
 
     # extend "" nointeract
@@ -1632,7 +1632,7 @@ translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_067e5033:
     # nurse neutral "How much are they now?"
     nurse neutral "How much are they now?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:423
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:422
 translate crowdin isabelle_quest_stolen_cafeteria_donut_nurse_11fdb519_2:
 
     # extend "" nointeract
@@ -1950,7 +1950,7 @@ translate crowdin isabelle_quest_stolen_cafeteria_outnuts_623d3dbb:
     # "His only joy in life, stolen."
     "His only joy in life, stolen."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:507
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:506
 translate crowdin isabelle_quest_stolen_cafeteria_outnuts_11fdb519:
 
     # extend "" nointeract
@@ -2094,7 +2094,7 @@ translate crowdin isabelle_quest_stolen_dilemma_bdcbaae5:
     # "On the other hand, the surveillance footage doesn't lie."
     "On the other hand, the surveillance footage doesn't lie."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:545
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:544
 translate crowdin isabelle_quest_stolen_dilemma_11fdb519:
 
     # extend "" nointeract
@@ -2136,7 +2136,7 @@ translate crowdin isabelle_quest_stolen_dilemma_58b2a876:
     # "[isabelle]'s going to go after someone hard. She has that fire in her eyes..."
     "[isabelle]'s going to go after someone hard. She has that fire in her eyes..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:556
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:555
 translate crowdin isabelle_quest_stolen_dilemma_11fdb519_1:
 
     # extend "" nointeract
@@ -2724,7 +2724,7 @@ translate crowdin isabelle_quest_stolen_lindsey_dilemma_9a37359b:
     # lindsey cringe "I swear I have no memory of even going to her locker!"
     lindsey cringe "I swear I have no memory of even going to her locker!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:691
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:690
 translate crowdin isabelle_quest_stolen_lindsey_dilemma_11fdb519:
 
     # extend "" nointeract
@@ -3228,7 +3228,7 @@ translate crowdin isabelle_quest_stolen_warnkate_5241f8fe:
     # kate skeptical "What is it this time?"
     kate skeptical "What is it this time?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:813
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:812
 translate crowdin isabelle_quest_stolen_warnkate_11fdb519:
 
     # extend "" nointeract
@@ -3318,7 +3318,7 @@ translate crowdin isabelle_quest_stolen_warnkate_86f7584d:
     # kate laughing "Fun, right?"
     kate laughing "Fun, right?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:841
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:840
 translate crowdin isabelle_quest_stolen_warnkate_11fdb519_1:
 
     # extend "" nointeract
@@ -3372,7 +3372,7 @@ translate crowdin isabelle_quest_stolen_warnkate_9440fcf4:
     # "Damn... I really treasured that [ritem.title_lower]."
     "Damn... I really treasured that [ritem.title_lower]."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:859
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:858
 translate crowdin isabelle_quest_stolen_warnkate_11fdb519_2:
 
     # extend "" nointeract
@@ -3414,7 +3414,7 @@ translate crowdin isabelle_quest_stolen_warnkate_7c17dfcd:
     # "My life savings..."
     "My life savings..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:875
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:874
 translate crowdin isabelle_quest_stolen_warnkate_11fdb519_3:
 
     # extend "" nointeract
@@ -3450,7 +3450,7 @@ translate crowdin isabelle_quest_stolen_warnkate_f1551b05:
     # "Never going to see that again..."
     "Never going to see that again..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:890
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:889
 translate crowdin isabelle_quest_stolen_warnkate_11fdb519_4:
 
     # extend "" nointeract
@@ -3552,7 +3552,7 @@ translate crowdin isabelle_quest_stolen_warnkate_91904693:
     # kate neutral "Now, stop wasting my time."
     kate neutral "Now, stop wasting my time."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:933
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:932
 translate crowdin isabelle_quest_stolen_warnkate_11fdb519_5:
 
     # extend "" nointeract
@@ -3882,7 +3882,7 @@ translate crowdin isabelle_quest_stolen_warnkate_joentrance_e8c63705:
     # jo concerned "Are those your things, [mc]?"
     jo concerned "Are those your things, [mc]?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1026
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1025
 translate crowdin isabelle_quest_stolen_warnkate_joentrance_11fdb519:
 
     # extend "" nointeract
@@ -4080,7 +4080,7 @@ translate crowdin isabelle_quest_stolen_warnkate_joentrance_0ea7cc40:
     # jo thinking "[isabelle]?"
     jo thinking "[isabelle]?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1082
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1081
 translate crowdin isabelle_quest_stolen_warnkate_joentrance_11fdb519_1:
 
     # extend "" nointeract
@@ -5028,7 +5028,7 @@ translate crowdin isabelle_quest_stolen_tellisabelle_2e0f350e:
     # "Honestly, that would probably give her anxiety."
     "Honestly, that would probably give her anxiety."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1330
+# game/1000_base_game/game/characters/isabelle/q_isabelle_stolen.rpy:1329
 translate crowdin isabelle_quest_stolen_tellisabelle_11fdb519:
 
     # extend "" nointeract

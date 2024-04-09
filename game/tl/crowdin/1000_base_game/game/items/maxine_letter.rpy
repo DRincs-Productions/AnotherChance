@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/items/maxine_letter.rpy:21
 translate crowdin maxine_letter_combine_c405c6b3:
@@ -12,7 +12,7 @@ translate crowdin maxine_letter_combine_efde4c49:
     # "Writing to her requires a special touch. A certain skill. Hmm..."
     "Writing to her requires a special touch. A certain skill. Hmm..."
 
-# game/1000_base_game/game/items/maxine_letter.rpy:24
+# game/1000_base_game/game/items/maxine_letter.rpy:23
 translate crowdin maxine_letter_combine_11fdb519:
 
     # extend "" nointeract
@@ -48,7 +48,7 @@ translate crowdin maxine_letter_combine_9fc3646a:
     # "{i}\"Sorry about the ending, I ran out of cool words.\"{/}"
     "{i}\"Sorry about the ending, I ran out of cool words.\"{/}"
 
-# game/1000_base_game/game/items/maxine_letter.rpy:43
+# game/1000_base_game/game/items/maxine_letter.rpy:42
 translate crowdin maxine_letter_combine_11fdb519_1:
 
     # extend "" nointeract

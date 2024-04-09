@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:89
 translate crowdin quest_fall_in_newfall_not_started_home_bedroom_bed_7b854a1e:
@@ -522,7 +522,7 @@ translate crowdin quest_fall_in_newfall_break_over_home_bedroom_door_fe3661a5:
     # flora eyeroll "Which, by the way, you'll be late for if you don't hurry up."
     flora eyeroll "Which, by the way, you'll be late for if you don't hurry up."
 
-# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:428
+# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:427
 translate crowdin quest_fall_in_newfall_break_over_home_bedroom_door_11fdb519:
 
     # extend "" nointeract
@@ -852,7 +852,7 @@ translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_fc1f8d5c:
     # maya sarcastic "But I'll settle for a ball of yarn."
     maya sarcastic "But I'll settle for a ball of yarn."
 
-# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:528
+# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:527
 translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_11fdb519:
 
     # extend "" nointeract
@@ -918,7 +918,7 @@ translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_1f8ee323:
     # maya afraid "It's smaller than I remember it..."
     maya afraid "It's smaller than I remember it..."
 
-# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:548
+# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:547
 translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_11fdb519_1:
 
     # extend "" nointeract
@@ -1062,7 +1062,7 @@ translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_675db9a9:
     # "Huh... I guess I used to be the quiet kind..."
     "Huh... I guess I used to be the quiet kind..."
 
-# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:578
+# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:577
 translate crowdin quest_fall_in_newfall_late_school_homeroom_maya_11fdb519_2:
 
     # extend "" nointeract
@@ -1596,7 +1596,7 @@ translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_ed4f4363:
     # isabelle confident "I've been trying to call you."
     isabelle confident "I've been trying to call you."
 
-# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:717
+# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:716
 translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -1686,7 +1686,7 @@ translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_0216b545:
     # isabelle cringe "What about us?"
     isabelle cringe "What about us?"
 
-# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:738
+# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:737
 translate crowdin quest_fall_in_newfall_late_school_homeroom_isabelle_11fdb519_1:
 
     # extend "" nointeract
@@ -2172,7 +2172,7 @@ translate crowdin quest_fall_in_newfall_late_school_homeroom_flora_2ef06667:
     # flora annoyed "The only gift you have is being effortlessly obnoxious."
     flora annoyed "The only gift you have is being effortlessly obnoxious."
 
-# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:856
+# game/1000_base_game/game/quests/season_2/fall_in_newfall.rpy:855
 translate crowdin quest_fall_in_newfall_late_school_homeroom_flora_11fdb519:
 
     # extend "" nointeract

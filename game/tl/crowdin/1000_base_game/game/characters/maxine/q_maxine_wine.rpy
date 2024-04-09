@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:2
 translate crowdin quest_maxine_wine_start_4c8369be:
@@ -162,7 +162,7 @@ translate crowdin quest_maxine_wine_jacklyn_deal_b205c70a:
     # jacklyn smile "And I wouldn't normally."
     jacklyn smile "And I wouldn't normally."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:38
+# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:37
 translate crowdin quest_maxine_wine_jacklyn_deal_11fdb519:
 
     # extend "" nointeract
@@ -402,7 +402,7 @@ translate crowdin quest_maxine_wine_flora_deal_ebafd15c:
     # flora eyeroll "You're not off the hook!"
     flora eyeroll "You're not off the hook!"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:92
+# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:91
 translate crowdin quest_maxine_wine_flora_deal_11fdb519:
 
     # extend "" nointeract
@@ -762,7 +762,7 @@ translate crowdin quest_maxine_wine_flora_pin_56d5edfd:
     # flora annoyed "None of your business."
     flora annoyed "None of your business."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:169
+# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:168
 translate crowdin quest_maxine_wine_flora_pin_11fdb519:
 
     # extend "" nointeract
@@ -1218,7 +1218,7 @@ translate crowdin quest_maxine_wine_jacklyn_pin_de73f9fa:
     # mc "Not exactly! But I do have another question."
     mc "Not exactly! But I do have another question."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:264
+# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:263
 translate crowdin quest_maxine_wine_jacklyn_pin_11fdb519:
 
     # extend "" nointeract
@@ -1572,7 +1572,7 @@ translate crowdin quest_maxine_wine_make_a_move_f2ba445d:
     # "Okay, better make this one count..."
     "Okay, better make this one count..."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:342
+# game/1000_base_game/game/characters/maxine/q_maxine_wine.rpy:341
 translate crowdin quest_maxine_wine_make_a_move_11fdb519:
 
     # extend "" nointeract

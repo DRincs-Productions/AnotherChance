@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/64_kate_terror.rpy:10
 translate crowdin replay_kate_terror_b6686524:
@@ -60,7 +60,7 @@ translate crowdin replay_kate_terror_3c62c3c6:
     # "Or maybe..."
     "Or maybe..."
 
-# game/1000_base_game/game/replays/64_kate_terror.rpy:23
+# game/1000_base_game/game/replays/64_kate_terror.rpy:22
 translate crowdin replay_kate_terror_11fdb519:
 
     # extend "" nointeract
@@ -198,7 +198,7 @@ translate crowdin replay_kate_terror_4ce8464b:
     # "But maybe I can use this to my advantage?"
     "But maybe I can use this to my advantage?"
 
-# game/1000_base_game/game/replays/64_kate_terror.rpy:50
+# game/1000_base_game/game/replays/64_kate_terror.rpy:49
 translate crowdin replay_kate_terror_11fdb519_1:
 
     # extend "" nointeract
@@ -330,7 +330,7 @@ translate crowdin replay_kate_terror_6b1ac35e:
     # kate hate_sex_spanking1 "You're really strong, you know?"
     kate hate_sex_spanking1 "You're really strong, you know?"
 
-# game/1000_base_game/game/replays/64_kate_terror.rpy:118
+# game/1000_base_game/game/replays/64_kate_terror.rpy:117
 translate crowdin replay_kate_terror_11fdb519_2:
 
     # extend "" nointeract
@@ -360,7 +360,7 @@ translate crowdin replay_kate_terror_cb1489a3:
     # kate hate_sex_tearing_up_spanking1 "Owwww! Stop! That's way too hard!"
     kate hate_sex_tearing_up_spanking1 "Owwww! Stop! That's way too hard!"
 
-# game/1000_base_game/game/replays/64_kate_terror.rpy:160
+# game/1000_base_game/game/replays/64_kate_terror.rpy:159
 translate crowdin replay_kate_terror_11fdb519_3:
 
     # extend "" nointeract
@@ -432,7 +432,7 @@ translate crowdin replay_kate_terror_5145fb6a:
     # "You torment people for fun, but can't take a little spanking? Pathetic.{space=-20}"
     "You torment people for fun, but can't take a little spanking? Pathetic.{space=-20}"
 
-# game/1000_base_game/game/replays/64_kate_terror.rpy:202
+# game/1000_base_game/game/replays/64_kate_terror.rpy:201
 translate crowdin replay_kate_terror_11fdb519_4:
 
     # extend "" nointeract
@@ -486,7 +486,7 @@ translate crowdin replay_kate_terror_4e178dfe:
     # "Either way, now it's time to claim my prize."
     "Either way, now it's time to claim my prize."
 
-# game/1000_base_game/game/replays/64_kate_terror.rpy:239
+# game/1000_base_game/game/replays/64_kate_terror.rpy:238
 translate crowdin replay_kate_terror_11fdb519_5:
 
     # extend "" nointeract
@@ -1176,7 +1176,7 @@ translate crowdin replay_kate_terror_04bee59a:
     # "I'm going to come!"
     "I'm going to come!"
 
-# game/1000_base_game/game/replays/64_kate_terror.rpy:900
+# game/1000_base_game/game/replays/64_kate_terror.rpy:899
 translate crowdin replay_kate_terror_11fdb519_6:
 
     # extend "" nointeract
@@ -1308,7 +1308,7 @@ translate crowdin replay_kate_terror_0a94cc5e:
     # "And now it's time to..."
     "And now it's time to..."
 
-# game/1000_base_game/game/replays/64_kate_terror.rpy:937
+# game/1000_base_game/game/replays/64_kate_terror.rpy:936
 translate crowdin replay_kate_terror_11fdb519_7:
 
     # extend "" nointeract

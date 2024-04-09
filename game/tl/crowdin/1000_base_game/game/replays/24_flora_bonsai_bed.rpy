@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/24_flora_bonsai_bed.rpy:6
 translate crowdin replay_flora_bonsai_bed_24a731e0:
@@ -120,7 +120,7 @@ translate crowdin replay_flora_bonsai_bed_97abf7a0:
     # flora bed sad "I'm burning the recipe tomorrow."
     flora bed sad "I'm burning the recipe tomorrow."
 
-# game/1000_base_game/game/replays/24_flora_bonsai_bed.rpy:28
+# game/1000_base_game/game/replays/24_flora_bonsai_bed.rpy:27
 translate crowdin replay_flora_bonsai_bed_11fdb519:
 
     # extend "" nointeract

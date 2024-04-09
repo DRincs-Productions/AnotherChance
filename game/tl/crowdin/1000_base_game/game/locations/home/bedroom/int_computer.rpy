@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:106
 translate crowdin home_bedroom_computer_interact_smash_or_pass_eb6d8658:
@@ -390,7 +390,7 @@ translate crowdin home_bedroom_computer_interact_mrsl_HOT_reply_7b98b385:
     # "Hmm, fifty bucks for a videotape... it feels like a scam, but..."
     "Hmm, fifty bucks for a videotape... it feels like a scam, but..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:221
+# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:220
 translate crowdin home_bedroom_computer_interact_mrsl_HOT_reply_11fdb519:
 
     # extend "" nointeract
@@ -1428,7 +1428,7 @@ translate crowdin jo_quest_potted_internet_897c6b17:
     # "This sounds like the stuff I need."
     "This sounds like the stuff I need."
 
-# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:571
+# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:570
 translate crowdin jo_quest_potted_internet_buy_11fdb519:
 
     # extend "" nointeract
@@ -1482,7 +1482,7 @@ translate crowdin home_bedroom_computer_interact_maxine_lines_take_magnet_e10673
     # "There's only one place that sells magnets, and they only have one in stock."
     "There's only one place that sells magnets, and they only have one in stock."
 
-# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:599
+# game/1000_base_game/game/locations/home/bedroom/int_computer.rpy:598
 translate crowdin home_bedroom_computer_interact_maxine_lines_take_magnet_11fdb519:
 
     # extend "" nointeract

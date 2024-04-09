@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/38_kate_forfeit.rpy:6
 translate crowdin replay_kate_forfeit_23f08730:
@@ -174,7 +174,7 @@ translate crowdin replay_kate_forfeit_d7c487ce:
     # kate "Give her an order, [mc]. She likes that."
     kate "Give her an order, [mc]. She likes that."
 
-# game/1000_base_game/game/replays/38_kate_forfeit.rpy:42
+# game/1000_base_game/game/replays/38_kate_forfeit.rpy:41
 translate crowdin replay_kate_forfeit_11fdb519:
 
     # extend "" nointeract

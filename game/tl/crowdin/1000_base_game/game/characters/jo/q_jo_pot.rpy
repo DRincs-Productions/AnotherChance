@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:3
 translate crowdin quest_jo_pot_start_a253a57b:
@@ -84,7 +84,7 @@ translate crowdin quest_jo_pot_start_e91bd97f:
     # flora neutral flip "So, who is [jo] talking to?"
     flora neutral flip "So, who is [jo] talking to?"
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:22
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:21
 translate crowdin quest_jo_pot_start_11fdb519:
 
     # extend "" nointeract
@@ -438,7 +438,7 @@ translate crowdin quest_jo_pot_getnurse_d5d6b7c2:
     # nurse thinking "I suppose that's true, but I'm very short on time and have to get back to work..."
     nurse thinking "I suppose that's true, but I'm very short on time and have to get back to work..."
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:107
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:106
 translate crowdin quest_jo_pot_getnurse_11fdb519:
 
     # extend "" nointeract
@@ -516,7 +516,7 @@ translate crowdin quest_jo_pot_getnurse_b9ab7aa6:
     # nurse blush "I have a break now... I could probably help you out."
     nurse blush "I have a break now... I could probably help you out."
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:133
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:132
 translate crowdin quest_jo_pot_getnurse_11fdb519_1:
 
     # extend "" nointeract
@@ -1302,7 +1302,7 @@ translate crowdin quest_jo_pot_tea_home_e4ea390b:
     # jo concerned_cup "What's in this?"
     jo concerned_cup "What's in this?"
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:342
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:341
 translate crowdin quest_jo_pot_tea_home_11fdb519:
 
     # extend "" nointeract
@@ -1626,7 +1626,7 @@ translate crowdin quest_jo_pot_tea_home_3bce826b:
     # jo "zZzz... itchy... zZz... it's itchy..."
     jo "zZzz... itchy... zZz... it's itchy..."
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:415
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:414
 translate crowdin quest_jo_pot_tea_home_11fdb519_1:
 
     # extend "" nointeract
@@ -2598,7 +2598,7 @@ translate crowdin quest_jo_pot_meadow_e59fd4c5:
     # "This seems like a lot of work. Maybe I could get someone else to do it for me?"
     "This seems like a lot of work. Maybe I could get someone else to do it for me?"
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:755
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:754
 translate crowdin quest_jo_pot_meadow_11fdb519:
 
     # extend "" nointeract

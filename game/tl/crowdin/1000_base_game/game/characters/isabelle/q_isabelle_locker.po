@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:8 #-#-# translate crowdin quest_isabelle_locker_start_95c7633a:
+﻿# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:8 #-#-# translate crowdin quest_isabelle_locker_start_95c7633a:
 msgid "[_mc_] Are you okay?"
 msgstr "[_mc_] Are you okay?"
 
@@ -46,7 +46,7 @@ msgstr "[_isabelle_s_concerned_] Thank you, [mc]."
 msgid "[_isabelle_s_concerned_] Do you have a plan?"
 msgstr "[_isabelle_s_concerned_] Do you have a plan?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:22 #-#-# translate crowdin quest_isabelle_locker_start_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:21 #-#-# translate crowdin quest_isabelle_locker_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -282,7 +282,7 @@ msgstr "[_jo_s_smile_] I know, I know! But since you're all grown up now, I figu
 msgid "[_jo_s_smile_] The basement needs a good cleaning."
 msgstr "[_jo_s_smile_] The basement needs a good cleaning."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:105 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:104 #-#-# translate crowdin quest_isabelle_locker_interrogate_jo_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -498,7 +498,7 @@ msgstr "[_maxine_s_cringe_] Who told you about my plans...?"
 msgid "[_mc_] It was, err..."
 msgstr "[_mc_] It was, err..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:194 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:193 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -742,7 +742,7 @@ msgstr "[_mc_] Well, the Inconspicuous Group did. Are you telling me you're not 
 msgid "[_maxine_s_smile_] If I were part of a secret esoteric group, do you think I would tell you?"
 msgstr "[_maxine_s_smile_] If I were part of a secret esoteric group, do you think I would tell you?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:292 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_brb_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:291 #-#-# translate crowdin quest_isabelle_locker_interrogate_maxine_brb_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1274,7 +1274,7 @@ msgstr "[_isabelle_s_thinking_] That's fascinating. Not sure how it'll help us s
 msgid "[_mc_] I do."
 msgstr "[_mc_] I do."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:453 #-#-# translate crowdin quest_isabelle_locker_talk_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:452 #-#-# translate crowdin quest_isabelle_locker_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1418,7 +1418,7 @@ msgstr "[_maxine_s_concerned_binoculars_] What did I just tell you? Go away."
 msgid "Hmm... I need to come up with something that catches her interest..."
 msgstr "Hmm... I need to come up with something that catches her interest..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:516 #-#-# translate crowdin quest_isabelle_locker_catnap_maxine_back_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:515 #-#-# translate crowdin quest_isabelle_locker_catnap_maxine_back_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2030,7 +2030,7 @@ msgstr "All right, let's create a new email account..."
 msgid "What should be the handle?"
 msgstr "What should be the handle?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:818 #-#-# translate crowdin quest_isabelle_locker_email_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:817 #-#-# translate crowdin quest_isabelle_locker_email_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2062,7 +2062,7 @@ msgstr "[_mc_] I'm a man of utmost swiftness."
 msgid "[_isabelle_s_confident_] Let's get started."
 msgstr "[_isabelle_s_confident_] Let's get started."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:835 #-#-# translate crowdin quest_isabelle_locker_email_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:834 #-#-# translate crowdin quest_isabelle_locker_email_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2278,7 +2278,7 @@ msgstr "[_isabelle_s_angry_] If they want to keep playing games, I'm going to br
 msgid "[_isabelle_s_angry_] Let's see if [maxine] still says no when I send her the cat's bloody head..."
 msgstr "[_isabelle_s_angry_] Let's see if [maxine] still says no when I send her the cat's bloody head..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:926 #-#-# translate crowdin quest_isabelle_locker_wait_11fdb519:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:925 #-#-# translate crowdin quest_isabelle_locker_wait_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3046,7 +3046,7 @@ msgstr "[_mc_] Fuck!"
 msgid "I can't hold it back any longer..."
 msgstr "I can't hold it back any longer..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1652 #-#-# translate crowdin quest_isabelle_locker_wait_11fdb519_1:
+# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1651 #-#-# translate crowdin quest_isabelle_locker_wait_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3297,8 +3297,4 @@ msgstr "{image=stats love}|\"That's enough, [isabelle].\""
 # game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:925
 msgid "{image=stats lust}|\"You're right — negotiations are over.\nIt's time for justice.\""
 msgstr "{image=stats lust}|\"You're right — negotiations are over.\nIt's time for justice.\""
-
-# game/1000_base_game/game/characters/isabelle/q_isabelle_locker.rpy:1651
-msgid "Cum inside"
-msgstr "Cum inside"
 

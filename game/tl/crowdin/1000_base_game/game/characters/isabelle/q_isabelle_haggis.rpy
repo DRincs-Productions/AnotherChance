@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:5
 translate crowdin isabelle_quest_haggis_deliver_c4773099:
@@ -30,7 +30,7 @@ translate crowdin isabelle_quest_haggis_deliver_88bacd37:
     # isabelle afraid "Dear god! What in the blooming hell is that?!"
     isabelle afraid "Dear god! What in the blooming hell is that?!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:12
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:11
 translate crowdin isabelle_quest_haggis_deliver_11fdb519:
 
     # extend "" nointeract
@@ -144,7 +144,7 @@ translate crowdin isabelle_quest_haggis_deliver_cb1386d5:
     # isabelle laughing "Thanks for bringing it!"
     isabelle laughing "Thanks for bringing it!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:39
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:38
 translate crowdin isabelle_quest_haggis_deliver_11fdb519_1:
 
     # extend "" nointeract
@@ -258,7 +258,7 @@ translate crowdin isabelle_quest_haggis_deliver_e0cd0488:
     # "Always trust [flora] to be the contrarian."
     "Always trust [flora] to be the contrarian."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:70
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:69
 translate crowdin isabelle_quest_haggis_deliver_11fdb519_2:
 
     # extend "" nointeract
@@ -318,7 +318,7 @@ translate crowdin isabelle_quest_haggis_deliver_12df97e3:
     # flora laughing "It's not as bad as it sounds!"
     flora laughing "It's not as bad as it sounds!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:86
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:85
 translate crowdin isabelle_quest_haggis_deliver_11fdb519_3:
 
     # extend "" nointeract
@@ -492,7 +492,7 @@ translate crowdin isabelle_quest_haggis_deliver_c076bcfb:
     # flora confident "Would you visit my grave?"
     flora confident "Would you visit my grave?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:147
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:146
 translate crowdin isabelle_quest_haggis_deliver_11fdb519_4:
 
     # extend "" nointeract
@@ -576,7 +576,7 @@ translate crowdin isabelle_quest_haggis_deliver_26ac8ab6:
     # mrsl thinking "What's that smell?"
     mrsl thinking "What's that smell?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:182
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:181
 translate crowdin isabelle_quest_haggis_deliver_11fdb519_5:
 
     # extend "" nointeract
@@ -918,7 +918,7 @@ translate crowdin isabelle_quest_haggis_isabelle_detention_71172698:
     # isabelle concerned "What do you think?"
     isabelle concerned "What do you think?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:317
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:316
 translate crowdin isabelle_quest_haggis_isabelle_detention_11fdb519:
 
     # extend "" nointeract
@@ -1122,7 +1122,7 @@ translate crowdin isabelle_quest_haggis_flora_detention_f7baf8b4:
     # mc "Ugh."
     mc "Ugh."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:387
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:386
 translate crowdin isabelle_quest_haggis_flora_detention_11fdb519:
 
     # extend "" nointeract
@@ -1650,7 +1650,7 @@ translate crowdin isabelle_quest_haggis_cup_game_e1b6e96d:
     # "Okay, under which cup should the eraser go?"
     "Okay, under which cup should the eraser go?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:538
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:537
 translate crowdin isabelle_quest_haggis_cup_game_11fdb519:
 
     # extend "" nointeract
@@ -1758,7 +1758,7 @@ translate crowdin isabelle_quest_haggis_cup_game_again_9498829c:
     # flora annoyed "Bullshit. Let's play again. Best of three!"
     flora annoyed "Bullshit. Let's play again. Best of three!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:708
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:707
 translate crowdin isabelle_quest_haggis_cup_game_again_11fdb519:
 
     # extend "" nointeract
@@ -1830,7 +1830,7 @@ translate crowdin isabelle_quest_haggis_cup_game_again_1d9eff25:
     # "Under which cup should the eraser go this time?"
     "Under which cup should the eraser go this time?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:726
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:725
 translate crowdin isabelle_quest_haggis_cup_game_again_11fdb519_1:
 
     # extend "" nointeract
@@ -1944,7 +1944,7 @@ translate crowdin isabelle_quest_haggis_cup_game_round_2_323e05ba:
     # flora eyeroll "Not happening."
     flora eyeroll "Not happening."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:836
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:835
 translate crowdin isabelle_quest_haggis_cup_game_round_2_11fdb519:
 
     # extend "" nointeract
@@ -2220,7 +2220,7 @@ translate crowdin isabelle_quest_haggis_cup_game_round_2_2dfc26ba:
     # flora skeptical "Gross."
     flora skeptical "Gross."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:911
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:910
 translate crowdin isabelle_quest_haggis_flora_endorse_11fdb519:
 
     # extend "" nointeract
@@ -2388,7 +2388,7 @@ translate crowdin isabelle_quest_haggis_give_seconds_isabelle_bac766d7:
     # isabelle sad "All right..."
     isabelle sad "All right..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:992
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:991
 translate crowdin isabelle_quest_haggis_give_seconds_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -2484,7 +2484,7 @@ translate crowdin isabelle_quest_haggis_give_seconds_isabelle_99df2a0e:
     # isabelle cringe "Do you have anything to wash my mouth out with?"
     isabelle cringe "Do you have anything to wash my mouth out with?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1021
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1020
 translate crowdin isabelle_quest_haggis_give_seconds_isabelle_11fdb519_1:
 
     # extend "" nointeract
@@ -2700,7 +2700,7 @@ translate crowdin isabelle_quest_haggis_give_bayonets_etiquettes_isabelle_dd86aa
     # isabelle concerned "Hm, all right. I'll save it for later... I'm sorry if I offended you with my dislike for haggis."
     isabelle concerned "Hm, all right. I'll save it for later... I'm sorry if I offended you with my dislike for haggis."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1100
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1099
 translate crowdin isabelle_quest_haggis_give_bayonets_etiquettes_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -2820,7 +2820,7 @@ translate crowdin isabelle_quest_haggis_mrsl_caught_dec6a5e9:
     # "Shit... better come up with a good excuse fast."
     "Shit... better come up with a good excuse fast."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1137
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1136
 translate crowdin isabelle_quest_haggis_mrsl_caught_11fdb519:
 
     # extend "" nointeract
@@ -2868,7 +2868,7 @@ translate crowdin isabelle_quest_haggis_mrsl_caught_a218c296:
     # mrsl excited "Since you're no longer part of the challenge, you can be the judge of it instead!"
     mrsl excited "Since you're no longer part of the challenge, you can be the judge of it instead!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1149
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1148
 translate crowdin isabelle_quest_haggis_mrsl_caught_11fdb519_1:
 
     # extend "" nointeract
@@ -3054,7 +3054,7 @@ translate crowdin isabelle_quest_haggis_mrsl_caught_96902c73:
     # mrsl blush "Who did you decide on for the reward?"
     mrsl blush "Who did you decide on for the reward?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1190
+# game/1000_base_game/game/characters/isabelle/q_isabelle_haggis.rpy:1189
 translate crowdin isabelle_quest_haggis_mrsl_caught_11fdb519_2:
 
     # extend "" nointeract

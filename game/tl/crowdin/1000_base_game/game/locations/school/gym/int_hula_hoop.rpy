@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/school/gym/int_hula_hoop.rpy:35
 translate crowdin school_gym_hula_hoop_lindsey_nurse_7680f8f3:
@@ -42,7 +42,7 @@ translate crowdin school_gym_hula_hoop_interact_mrsl_hot_84118634:
     # "The best girl at hula hooping is probably..."
     "The best girl at hula hooping is probably..."
 
-# game/1000_base_game/game/locations/school/gym/int_hula_hoop.rpy:49
+# game/1000_base_game/game/locations/school/gym/int_hula_hoop.rpy:48
 translate crowdin school_gym_hula_hoop_interact_mrsl_hot_11fdb519:
 
     # extend "" nointeract

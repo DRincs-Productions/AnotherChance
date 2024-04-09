@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3
 translate crowdin isabelle_quest_isabelle_tour_86544d5e:
@@ -78,7 +78,7 @@ translate crowdin isabelle_quest_isabelle_tour_first_hall_c101541e:
     # isabelle annoyed_left "She gave me this smug look... as if she took some kind of twisted pleasure in ditching me earlier."
     isabelle annoyed_left "She gave me this smug look... as if she took some kind of twisted pleasure in ditching me earlier."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:28
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:27
 translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519:
 
     # extend "" nointeract
@@ -174,7 +174,7 @@ translate crowdin isabelle_quest_isabelle_tour_first_hall_9327ed9c:
     # "The old me was too much of a loser to even look at [kate]... has anything really changed?"
     "The old me was too much of a loser to even look at [kate]... has anything really changed?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:59
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:58
 translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_1:
 
     # extend "" nointeract
@@ -264,7 +264,7 @@ translate crowdin isabelle_quest_isabelle_tour_first_hall_01dd6ea3:
     # "Crap. How do you tell someone that you're everyone's punching bag?"
     "Crap. How do you tell someone that you're everyone's punching bag?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:89
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:88
 translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_2:
 
     # extend "" nointeract
@@ -348,7 +348,7 @@ translate crowdin isabelle_quest_isabelle_tour_first_hall_d447b715:
     # isabelle annoyed_left "But her behavior is unacceptable! I'm going to have a word with her."
     isabelle annoyed_left "But her behavior is unacceptable! I'm going to have a word with her."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:117
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:116
 translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_3:
 
     # extend "" nointeract
@@ -432,7 +432,7 @@ translate crowdin isabelle_quest_isabelle_tour_first_hall_a91d3f6b_1:
     # isabelle angry "I'm going to have a word with her. Are you coming or not?"
     isabelle angry "I'm going to have a word with her. Are you coming or not?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:146
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:145
 translate crowdin isabelle_tour_first_hall_ending_11fdb519:
 
     # extend "" nointeract
@@ -510,7 +510,7 @@ translate crowdin isabelle_quest_isabelle_tour_english_class_ec062ef9:
     # isabelle sad "If we can't trust the authorities to do their job, we'll have to take justice into our own hands..."
     isabelle sad "If we can't trust the authorities to do their job, we'll have to take justice into our own hands..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:173
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:172
 translate crowdin isabelle_quest_isabelle_tour_english_class_11fdb519:
 
     # extend "" nointeract
@@ -966,7 +966,7 @@ translate crowdin isabelle_quest_isabelle_tour_gym_9e114a3a:
     # isabelle afraid "[mc], she looks really hurt!"
     isabelle afraid "[mc], she looks really hurt!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:285
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:284
 translate crowdin isabelle_quest_isabelle_tour_gym_11fdb519:
 
     # extend "" nointeract
@@ -1062,7 +1062,7 @@ translate crowdin isabelle_quest_isabelle_tour_gym_bd892a0d:
     # isabelle angry "Here's your chance to set things right, then! Be the bigger person!"
     isabelle angry "Here's your chance to set things right, then! Be the bigger person!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:329
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:328
 translate crowdin isabelle_quest_isabelle_tour_gym_11fdb519_1:
 
     # extend "" nointeract
@@ -1206,7 +1206,7 @@ translate crowdin isabelle_quest_isabelle_tour_gym_a5933c9a:
     # lindsey LindseyPose02b "Everything's spinning..."
     lindsey LindseyPose02b "Everything's spinning..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:391
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:390
 translate crowdin isabelle_quest_isabelle_tour_gym_11fdb519_2:
 
     # extend "" nointeract
@@ -1344,7 +1344,7 @@ translate crowdin isabelle_quest_isabelle_tour_fetch_nurse_4a2bd1b1:
     # nurse "You can't let anyone know! My reputation! My job!"
     nurse "You can't let anyone know! My reputation! My job!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:441
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:440
 translate crowdin quest_nurse_photogenic_second_chance_11fdb519:
 
     # extend "" nointeract
@@ -1422,7 +1422,7 @@ translate crowdin quest_nurse_photogenic_second_chance_15330b0d:
     # nurse afraid "This is not what it looks like!"
     nurse afraid "This is not what it looks like!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:464
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:463
 translate crowdin quest_nurse_photogenic_second_chance_11fdb519_1:
 
     # extend "" nointeract
@@ -1470,7 +1470,7 @@ translate crowdin quest_nurse_photogenic_second_chance_8765b4cb:
     # mc "You're welcome!"
     mc "You're welcome!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:476
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:475
 translate crowdin quest_nurse_photogenic_second_chance_11fdb519_2:
 
     # extend "" nointeract
@@ -1902,7 +1902,7 @@ translate crowdin quest_nurse_photogenic_second_chance_a1d7bbd5:
     # nurse "How can I help?"
     nurse "How can I help?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:584
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:583
 translate crowdin quest_nurse_photogenic_second_chance_11fdb519_3:
 
     # extend "" nointeract
@@ -2196,7 +2196,7 @@ translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_3e63b36
     # nurse blush "Thank you, [mc]. I've got it from here."
     nurse blush "Thank you, [mc]. I've got it from here."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:690
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:689
 translate crowdin isabelle_quest_isabelle_tour_nurse_lets_go_immediately_11fdb519:
 
     # extend "" nointeract
@@ -2454,7 +2454,7 @@ translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_a6a61bdc:
     # nurse clinic_nurse_angry "How did this happen?"
     nurse clinic_nurse_angry "How did this happen?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:804
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:803
 translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_11fdb519:
 
     # extend "" nointeract
@@ -2538,7 +2538,7 @@ translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_0e2fa220:
     # nurse clinic_nurse_confused "Accidents happen. Good job bringing her here so fast."
     nurse clinic_nurse_confused "Accidents happen. Good job bringing her here so fast."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:831
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:830
 translate crowdin isabelle_quest_isabelle_tour_carry_to_nurse_11fdb519_1:
 
     # extend "" nointeract
@@ -2676,7 +2676,7 @@ translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_064ca7e0:
     # "But it might ruin my chances with [lindsey] for good... and I'd likely get detention..."
     "But it might ruin my chances with [lindsey] for good... and I'd likely get detention..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:881
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:880
 translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_11fdb519:
 
     # extend "" nointeract
@@ -2778,7 +2778,7 @@ translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_b3cd71ee:
     # nurse clinic_nurse_surprised "What in god's name?!"
     nurse clinic_nurse_surprised "What in god's name?!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:906
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:905
 translate crowdin isabelle_quest_isabelle_tour_peak_lindsey_11fdb519_1:
 
     # extend "" nointeract
@@ -3048,7 +3048,7 @@ translate crowdin isabelle_quest_isabelle_tour_cafeteria_0dbde27b:
     # isabelle neutral "Do you trust me?"
     isabelle neutral "Do you trust me?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:986
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:985
 translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519:
 
     # extend "" nointeract
@@ -3378,7 +3378,7 @@ translate crowdin isabelle_quest_isabelle_tour_cafeteria_6f4ce7ad:
     # isabelle excited "Why do you talk like that sometimes?"
     isabelle excited "Why do you talk like that sometimes?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1056
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1055
 translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_1:
 
     # extend "" nointeract
@@ -3450,7 +3450,7 @@ translate crowdin isabelle_quest_isabelle_tour_cafeteria_cd9a16f7:
     # isabelle excited "Because all English people have a personal butler?"
     isabelle excited "Because all English people have a personal butler?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1075
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1074
 translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_2:
 
     # extend "" nointeract
@@ -3594,7 +3594,7 @@ translate crowdin isabelle_quest_isabelle_tour_cafeteria_f3750e9b:
     # isabelle neutral "Overly polite and old-fashioned."
     isabelle neutral "Overly polite and old-fashioned."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1114
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1113
 translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_3:
 
     # extend "" nointeract
@@ -3810,7 +3810,7 @@ translate crowdin isabelle_quest_isabelle_tour_cafeteria_c38c168a:
     # "But when you're used to people poking fun at every little thing you do..."
     "But when you're used to people poking fun at every little thing you do..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1164
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1163
 translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_4:
 
     # extend "" nointeract
@@ -3960,7 +3960,7 @@ translate crowdin isabelle_quest_isabelle_tour_cafeteria_c5d2de98:
     # "Staying relevant might be the play here, but nobody likes a clinger..."
     "Staying relevant might be the play here, but nobody likes a clinger..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1202
+# game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1201
 translate crowdin isabelle_quest_isabelle_tour_cafeteria_11fdb519_5:
 
     # extend "" nointeract

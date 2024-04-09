@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/home/hall/int_hole.rpy:38
 translate crowdin home_hall_hole_use_dc9867cb:
@@ -54,7 +54,7 @@ translate crowdin home_hall_hole_use_c6267157:
     # "It's [catch[0]]!"
     "It's [catch[0]]!"
 
-# game/1000_base_game/game/locations/home/hall/int_hole.rpy:61
+# game/1000_base_game/game/locations/home/hall/int_hole.rpy:60
 translate crowdin home_hall_hole_use_11fdb519:
 
     # extend "" nointeract

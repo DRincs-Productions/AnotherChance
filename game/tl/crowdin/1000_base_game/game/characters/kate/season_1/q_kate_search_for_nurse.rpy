@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:3
 translate crowdin kate_quest_search_for_nurse_start_54d5c121:
@@ -6,7 +6,7 @@ translate crowdin kate_quest_search_for_nurse_start_54d5c121:
     # kate neutral "Excuse you. Why are you standing so near me?"
     kate neutral "Excuse you. Why are you standing so near me?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:6
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:5
 translate crowdin kate_quest_search_for_nurse_start_11fdb519:
 
     # extend "" nointeract
@@ -270,7 +270,7 @@ translate crowdin kate_quest_search_for_nurse_flora_talk_4a98665b:
     # flora neutral "It was part of the original questionnaire, I just forgot to ask you."
     flora neutral "It was part of the original questionnaire, I just forgot to ask you."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:73
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:72
 translate crowdin kate_quest_search_for_nurse_flora_talk_11fdb519:
 
     # extend "" nointeract
@@ -528,7 +528,7 @@ translate crowdin kate_quest_search_for_nurse_isabelle_talk_1d36de19:
     # isabelle concerned "Are you quite all right?"
     isabelle concerned "Are you quite all right?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:140
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:139
 translate crowdin kate_quest_search_for_nurse_isabelle_talk_11fdb519:
 
     # extend "" nointeract
@@ -564,7 +564,7 @@ translate crowdin kate_quest_search_for_nurse_isabelle_talk_fcc5704b:
     # isabelle sad "I should probably get myself a checkup soon... I've been feeling a bit tired lately."
     isabelle sad "I should probably get myself a checkup soon... I've been feeling a bit tired lately."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:150
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:149
 translate crowdin kate_quest_search_for_nurse_isabelle_talk_11fdb519_1:
 
     # extend "" nointeract
@@ -744,7 +744,7 @@ translate crowdin kate_quest_search_for_nurse_meet_kate_68995096:
     # kate excited "What do you think? Should we believe her?"
     kate excited "What do you think? Should we believe her?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:206
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:205
 translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519:
 
     # extend "" nointeract
@@ -1128,7 +1128,7 @@ translate crowdin kate_quest_search_for_nurse_meet_kate_f30697a5:
     # kate AnalExam02b "[mc], do you think we should give her a rectal examination or a vaginal one?"
     kate AnalExam02b "[mc], do you think we should give her a rectal examination or a vaginal one?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:303
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:302
 translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519_1:
 
     # extend "" nointeract
@@ -1446,7 +1446,7 @@ translate crowdin kate_quest_search_for_nurse_meet_kate_28a4336a:
     # kate AnalExam04b "Okay, let's get a second opinion."
     kate AnalExam04b "Okay, let's get a second opinion."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:370
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:369
 translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519_2:
 
     # extend "" nointeract

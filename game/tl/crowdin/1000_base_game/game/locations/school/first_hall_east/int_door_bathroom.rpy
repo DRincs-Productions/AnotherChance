@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:76
 translate crowdin school_first_hall_east_door_bathroom_interact_9deb3421:
@@ -78,7 +78,7 @@ translate crowdin quest_maxine_eggs_bathroom_interact_recon_11bedf1c:
     # "Hmm..."
     "Hmm..."
 
-# game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:98
+# game/1000_base_game/game/locations/school/first_hall_east/int_door_bathroom.rpy:97
 translate crowdin quest_maxine_eggs_bathroom_interact_recon_11fdb519:
 
     # extend "" nointeract

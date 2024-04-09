@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:6
 translate crowdin quest_lindsey_piano_start_c8d9e68a:
@@ -60,7 +60,7 @@ translate crowdin quest_lindsey_piano_start_d437e848:
     # "She's in some kind of trance."
     "She's in some kind of trance."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:20
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:19
 translate crowdin quest_lindsey_piano_start_11fdb519:
 
     # extend "" nointeract
@@ -456,7 +456,7 @@ translate crowdin quest_lindsey_piano_play_e695f363:
     # lindsey smile "I never took you for the musical type, but this tune gives me this feeling..."
     lindsey smile "I never took you for the musical type, but this tune gives me this feeling..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:153
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:152
 translate crowdin quest_lindsey_piano_play_11fdb519:
 
     # extend "" nointeract
@@ -498,7 +498,7 @@ translate crowdin quest_lindsey_piano_play_bf74997e:
     # lindsey laughing "I'd love to!"
     lindsey laughing "I'd love to!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:164
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:163
 translate crowdin quest_lindsey_piano_play_11fdb519_1:
 
     # extend "" nointeract
@@ -546,7 +546,7 @@ translate crowdin quest_lindsey_piano_play_6c1833ab:
     # lindsey skeptical "I don't think it was that bad!"
     lindsey skeptical "I don't think it was that bad!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:192
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:191
 translate crowdin quest_lindsey_piano_play_11fdb519_2:
 
     # extend "" nointeract
@@ -798,7 +798,7 @@ translate crowdin quest_lindsey_piano_play_b4abf1f5:
     # kate smile "Guys like him only have one thing on their mind."
     kate smile "Guys like him only have one thing on their mind."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:267
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:266
 translate crowdin quest_lindsey_piano_play_11fdb519_3:
 
     # extend "" nointeract
@@ -858,7 +858,7 @@ translate crowdin quest_lindsey_piano_play_feb91c4c:
     # lindsey smile "I know my best is really good, but it's okay to fall short of it as long as I try!"
     lindsey smile "I know my best is really good, but it's okay to fall short of it as long as I try!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:286
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:285
 translate crowdin quest_lindsey_piano_play_11fdb519_4:
 
     # extend "" nointeract
@@ -966,7 +966,7 @@ translate crowdin quest_lindsey_piano_play_11a43454:
     # lindsey flirty "I suppose that wouldn't be so bad!"
     lindsey flirty "I suppose that wouldn't be so bad!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:312
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:311
 translate crowdin quest_lindsey_piano_play_11fdb519_5:
 
     # extend "" nointeract
@@ -1164,7 +1164,7 @@ translate crowdin quest_lindsey_piano_play_bb9f5983:
     # kate laughing "I bet he'd sniff them too like the weirdo he is."
     kate laughing "I bet he'd sniff them too like the weirdo he is."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:369
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:368
 translate crowdin quest_lindsey_piano_play_11fdb519_6:
 
     # extend "" nointeract
@@ -1494,7 +1494,7 @@ translate crowdin quest_lindsey_piano_play_b09672b2:
     # "Do they even like each other, or is this just the default niceness?"
     "Do they even like each other, or is this just the default niceness?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:478
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:477
 translate crowdin quest_lindsey_piano_play_11fdb519_7:
 
     # extend "" nointeract
@@ -1614,7 +1614,7 @@ translate crowdin quest_lindsey_piano_play_e4422668:
     # lindsey laughing "You don't like her?"
     lindsey laughing "You don't like her?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:508
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:507
 translate crowdin quest_lindsey_piano_play_11fdb519_8:
 
     # extend "" nointeract
@@ -1854,7 +1854,7 @@ translate crowdin quest_lindsey_piano_play_ad7184af:
     # lindsey laughing "You guys..."
     lindsey laughing "You guys..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:565
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:564
 translate crowdin quest_lindsey_piano_play_11fdb519_9:
 
     # extend "" nointeract
@@ -2166,7 +2166,7 @@ translate crowdin quest_lindsey_piano_play_39f3a872:
     # isabelle concerned "You don't think so?"
     isabelle concerned "You don't think so?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:642
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:641
 translate crowdin quest_lindsey_piano_play_11fdb519_10:
 
     # extend "" nointeract
@@ -2514,7 +2514,7 @@ translate crowdin quest_lindsey_piano_play_02705e66:
     # lindsey skeptical "What's that supposed to mean?"
     lindsey skeptical "What's that supposed to mean?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:736
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:735
 translate crowdin quest_lindsey_piano_play_11fdb519_11:
 
     # extend "" nointeract
@@ -2724,7 +2724,7 @@ translate crowdin quest_lindsey_piano_play_gym_37752858:
     # lindsey blush "I'm so jealous!"
     lindsey blush "I'm so jealous!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:792
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:791
 translate crowdin quest_lindsey_piano_play_gym_11fdb519:
 
     # extend "" nointeract
@@ -3006,7 +3006,7 @@ translate crowdin quest_lindsey_piano_jo_talk_4ef0cdf3:
     # jo smile "I can go look for it later. What do you need it for?"
     jo smile "I can go look for it later. What do you need it for?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:859
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:858
 translate crowdin quest_lindsey_piano_jo_talk_11fdb519:
 
     # extend "" nointeract
@@ -3078,7 +3078,7 @@ translate crowdin quest_lindsey_piano_jo_talk_4fec2e16:
     # jo flirty "Does she have a name?"
     jo flirty "Does she have a name?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:882
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:881
 translate crowdin quest_lindsey_piano_jo_talk_11fdb519_1:
 
     # extend "" nointeract
@@ -3216,7 +3216,7 @@ translate crowdin quest_lindsey_piano_album_add6d60e:
     # jo eyeroll "The new curriculum is hard for some teachers to accept."
     jo eyeroll "The new curriculum is hard for some teachers to accept."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:924
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:923
 translate crowdin quest_lindsey_piano_album_11fdb519:
 
     # extend "" nointeract
@@ -3300,7 +3300,7 @@ translate crowdin quest_lindsey_piano_album_bba456df:
     # "Oh, crap."
     "Oh, crap."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:946
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:945
 translate crowdin quest_lindsey_piano_album_11fdb519_1:
 
     # extend "" nointeract
@@ -3828,7 +3828,7 @@ translate crowdin quest_lindsey_piano_listen_music_class_lindsey_c1649283:
     # "She probably wouldn't like it if I took a picture of her, but this is a once in a lifetime moment..."
     "She probably wouldn't like it if I took a picture of her, but this is a once in a lifetime moment..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1135
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1134
 translate crowdin quest_lindsey_piano_listen_music_class_lindsey_11fdb519:
 
     # extend "" nointeract
@@ -4032,7 +4032,7 @@ translate crowdin quest_lindsey_piano_phone_call_17a23b5b:
     # lindsey "So, do you still want me\nto come over?"
     lindsey "So, do you still want me\nto come over?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1229
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1228
 translate crowdin quest_lindsey_piano_phone_call_11fdb519:
 
     # extend "" nointeract
@@ -4266,7 +4266,7 @@ translate crowdin quest_lindsey_piano_pick_up_lindsey_50676556:
     # lindsey excited_album "This is the coolest thing ever! Thank you so much!"
     lindsey excited_album "This is the coolest thing ever! Thank you so much!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1326
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1325
 translate crowdin quest_lindsey_piano_pick_up_lindsey_11fdb519:
 
     # extend "" nointeract
@@ -4308,7 +4308,7 @@ translate crowdin quest_lindsey_piano_pick_up_lindsey_8c4e5632:
     # flora blush "Oh, you know. Same old."
     flora blush "Oh, you know. Same old."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1342
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1341
 translate crowdin quest_lindsey_piano_pick_up_lindsey_11fdb519_1:
 
     # extend "" nointeract
@@ -4854,7 +4854,7 @@ translate crowdin quest_lindsey_piano_listen_bedroom_closet_first_time_bd5237bc:
     # "Meeting [lindsey] after school is a big deal. I need to pick out something to wear..."
     "Meeting [lindsey] after school is a big deal. I need to pick out something to wear..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1525
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1524
 translate crowdin quest_lindsey_piano_listen_bedroom_closet_first_time_11fdb519:
 
     # extend "" nointeract
@@ -5160,7 +5160,7 @@ translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_fa9a9bf0:
     # "Hmm... not the best idea for me. Last time I tried to dance was at a school disco. Everyone laughed."
     "Hmm... not the best idea for me. Last time I tried to dance was at a school disco. Everyone laughed."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1652
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1651
 translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_11fdb519:
 
     # extend "" nointeract
@@ -5478,7 +5478,7 @@ translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_4f79ba70:
     # lindsey dancing_with_the_mc_smile "Yeah..."
     lindsey dancing_with_the_mc_smile "Yeah..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1886
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:1885
 translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_11fdb519_1:
 
     # extend "" nointeract
@@ -5706,7 +5706,7 @@ translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_83be5f5b:
     # lindsey blush "Thanks again for inviting me over!"
     lindsey blush "Thanks again for inviting me over!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:2095
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_piano.rpy:2094
 translate crowdin quest_lindsey_piano_listen_bedroom_lindsey_11fdb519_2:
 
     # extend "" nointeract

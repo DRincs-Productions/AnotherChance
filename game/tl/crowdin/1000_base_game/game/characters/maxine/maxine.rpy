@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/maxine/maxine.rpy:1622
 translate crowdin maxine_talk_one_e47f2210:
@@ -66,7 +66,7 @@ translate crowdin maxine_flirt_one_b68a2eef:
     # maxine skeptical "What is the most dangerous thing in the school?"
     maxine skeptical "What is the most dangerous thing in the school?"
 
-# game/1000_base_game/game/characters/maxine/maxine.rpy:1667
+# game/1000_base_game/game/characters/maxine/maxine.rpy:1666
 translate crowdin maxine_flirt_one_11fdb519:
 
     # extend "" nointeract
@@ -156,7 +156,7 @@ translate crowdin maxine_flirt_two_11992a49:
     # maxine skeptical "That's not what it looked like to me."
     maxine skeptical "That's not what it looked like to me."
 
-# game/1000_base_game/game/characters/maxine/maxine.rpy:1702
+# game/1000_base_game/game/characters/maxine/maxine.rpy:1701
 translate crowdin maxine_flirt_two_11fdb519:
 
     # extend "" nointeract
@@ -264,7 +264,7 @@ translate crowdin maxine_flirt_three_4308d1e6:
     # mc "I just wanted to tell you that..."
     mc "I just wanted to tell you that..."
 
-# game/1000_base_game/game/characters/maxine/maxine.rpy:1736
+# game/1000_base_game/game/characters/maxine/maxine.rpy:1735
 translate crowdin maxine_flirt_three_11fdb519:
 
     # extend "" nointeract

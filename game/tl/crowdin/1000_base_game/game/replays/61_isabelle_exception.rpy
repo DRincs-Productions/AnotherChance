@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/61_isabelle_exception.rpy:6
 translate crowdin replay_isabelle_exception_e97090bf:
@@ -390,7 +390,7 @@ translate crowdin replay_isabelle_exception_566bedd4:
     # mc "Get it well and ready, because..."
     mc "Get it well and ready, because..."
 
-# game/1000_base_game/game/replays/61_isabelle_exception.rpy:312
+# game/1000_base_game/game/replays/61_isabelle_exception.rpy:311
 translate crowdin replay_isabelle_exception_11fdb519:
 
     # extend "" nointeract
@@ -744,7 +744,7 @@ translate crowdin replay_isabelle_exception_aba8f438:
     # mc "Fuck, here it comes!"
     mc "Fuck, here it comes!"
 
-# game/1000_base_game/game/replays/61_isabelle_exception.rpy:800
+# game/1000_base_game/game/replays/61_isabelle_exception.rpy:799
 translate crowdin replay_isabelle_exception_11fdb519_1:
 
     # extend "" nointeract
@@ -1044,7 +1044,7 @@ translate crowdin replay_isabelle_exception_e07b5935:
     # "Fuck, I'm about to explode!"
     "Fuck, I'm about to explode!"
 
-# game/1000_base_game/game/replays/61_isabelle_exception.rpy:1074
+# game/1000_base_game/game/replays/61_isabelle_exception.rpy:1073
 translate crowdin replay_isabelle_exception_11fdb519_2:
 
     # extend "" nointeract
@@ -1158,7 +1158,7 @@ translate crowdin replay_isabelle_exception_95e787ed:
     # isabelle "Well, I... would've liked to have an orgasm."
     isabelle "Well, I... would've liked to have an orgasm."
 
-# game/1000_base_game/game/replays/61_isabelle_exception.rpy:1104
+# game/1000_base_game/game/replays/61_isabelle_exception.rpy:1103
 translate crowdin replay_isabelle_exception_11fdb519_3:
 
     # extend "" nointeract

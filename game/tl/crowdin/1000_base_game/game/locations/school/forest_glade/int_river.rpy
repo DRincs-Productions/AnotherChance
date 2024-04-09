@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:26
 translate crowdin school_forest_glade_river_lv3_interact_d93dab85:
@@ -30,9 +30,21 @@ translate crowdin school_forest_glade_river_lv1_interact_e8b7f58f:
     # "Like an oil spill, the foul chemicals seep into the echo system, poisoning everything in their path."
     "Like an oil spill, the foul chemicals seep into the echo system, poisoning everything in their path."
 
-# game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:94
+# game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:100
 translate crowdin school_forest_glade_river_lv0_interact_83dcc02b:
 
     # "A once tranquil forest stream, now ruined by the sheer presence of the bark lord."
     "A once tranquil forest stream, now ruined by the sheer presence of the bark lord."
+
+# game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:104
+translate crowdin school_forest_glade_river_lv0_interact_flora_walk_e7a05bca:
+
+    # "I wonder how many mutants the toxic spill caused?"
+    "I wonder how many mutants the toxic spill caused?"
+
+# game/1000_base_game/game/locations/school/forest_glade/int_river.rpy:105
+translate crowdin school_forest_glade_river_lv0_interact_flora_walk_dc07a1be:
+
+    # "Probably enough for at least three X-Men movies..."
+    "Probably enough for at least three X-Men movies..."
 

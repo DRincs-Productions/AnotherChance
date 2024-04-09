@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:76
 translate crowdin home_bedroom_closet_kate_fate_dress_ebc2c219:
@@ -6,7 +6,7 @@ translate crowdin home_bedroom_closet_kate_fate_dress_ebc2c219:
     # "Okay, time to pick my outfit for this endeavor..."
     "Okay, time to pick my outfit for this endeavor..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:78
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:77
 translate crowdin home_bedroom_closet_kate_fate_dress_11fdb519:
 
     # extend "" nointeract
@@ -60,7 +60,7 @@ translate crowdin home_bedroom_closet_interact_dress_to_the_nine_902a1c4c:
     # "Wouldn't hurt to put some more thought into it this time."
     "Wouldn't hurt to put some more thought into it this time."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:98
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:97
 translate crowdin home_bedroom_closet_interact_dress_to_the_nine_11fdb519:
 
     # extend "" nointeract
@@ -102,7 +102,7 @@ translate crowdin home_bedroom_closet_interact_kate_blowjob_dream_get_dressed_52
     # "Okay, quickly. What would be a good outfit today? There aren't many good options."
     "Okay, quickly. What would be a good outfit today? There aren't many good options."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:123
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:122
 translate crowdin home_bedroom_closet_interact_kate_blowjob_dream_get_dressed_11fdb519:
 
     # extend "" nointeract
@@ -258,7 +258,7 @@ translate crowdin home_bedroom_closet_jacklyn_statement_clothes_76034314:
     # "Well, no other option than picking something."
     "Well, no other option than picking something."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:184
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:183
 translate crowdin home_bedroom_closet_jacklyn_statement_clothes_11fdb519:
 
     # extend "" nointeract
@@ -306,103 +306,103 @@ translate crowdin home_bedroom_closet_jacklyn_statement_clothes_98fb5ce5:
     # "Sweat and testosterone, baby."
     "Sweat and testosterone, baby."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:206
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:207
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_4cbe89e4:
 
     # "Huh?"
     "Huh?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:208
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:209
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_74a2ffb2:
 
     # flora afraid "Aaah!" with hpunch
     flora afraid "Aaah!" with hpunch
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:209
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:210
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_fa94b5ee:
 
     # mc "[flora]?! What the hell?"
     mc "[flora]?! What the hell?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:210
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:211
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_228df983:
 
     # flora embarrassed "Sorry, but..."
     flora embarrassed "Sorry, but..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:211
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:212
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_392fe730:
 
     # mc "But what?"
     mc "But what?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:212
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:213
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_8362f474:
 
     # flora sad "Nothing."
     flora sad "Nothing."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:213
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:214
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_3bf5fb17:
 
     # mc "Why aren't you at the internship?"
     mc "Why aren't you at the internship?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:214
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:215
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_49f90252:
 
     # flora sad "It's... stupid."
     flora sad "It's... stupid."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:215
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:216
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_3a8e6b30:
 
     # mc "Why were you hiding in my closet?"
     mc "Why were you hiding in my closet?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:216
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:217
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_733ac504:
 
     # flora confused "I heard you coming up the stairs and panicked!"
     flora confused "I heard you coming up the stairs and panicked!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:217
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:218
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_8c26cb31:
 
     # mc "What's going on?"
     mc "What's going on?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:218
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:219
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_455ec658:
 
     # flora annoyed "It's nothing. I'm just gonna go."
     flora annoyed "It's nothing. I'm just gonna go."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:219
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:220
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_e5eea46e:
 
     # mc "Not until you explain why you were spying on us."
     mc "Not until you explain why you were spying on us."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:220
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:221
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_46e7b6ed:
 
     # flora eyeroll "I wasn't spying, okay?"
     flora eyeroll "I wasn't spying, okay?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:221
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:222
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_b2d0e267:
 
     # mc "What were you doing then?"
     mc "What were you doing then?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:222
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:223
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_756df26d:
 
     # flora annoyed "Just... keeping an eye on you two."
     flora annoyed "Just... keeping an eye on you two."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:223
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:224
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_1b7dae81:
 
     # mc "That sounds like spying to me."
@@ -414,500 +414,506 @@ translate crowdin home_bedroom_closet_jacklyn_statement_intruder_11fdb519:
     # extend "" nointeract
     extend "" nointeract
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:231
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_42e158fb:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:235
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_42e158fb:
 
     # mc "[flora], what's really going on?"
     mc "[flora], what's really going on?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:232
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_23ca2689:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:236
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_23ca2689:
 
     # flora cringe "Well, I don't think she's good for you."
     flora cringe "Well, I don't think she's good for you."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:233
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_7b29c635:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:237
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_7b29c635:
 
     # mc "Why didn't you say something?"
     mc "Why didn't you say something?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:234
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_f9ccd660:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:238
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_f9ccd660:
 
     # flora annoyed "I did!"
     flora annoyed "I did!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:235
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_42402dbc:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:239
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_42402dbc:
 
     # flora annoyed "I did when you first told me about the date!"
     flora annoyed "I did when you first told me about the date!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:236
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_226d58f7:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:240
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_226d58f7:
 
     # mc "You said it was fine."
     mc "You said it was fine."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:237
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_e49756c9:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:241
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_e49756c9:
 
     # flora angry "Yeah, after you showed me those stupid texts!"
     flora angry "Yeah, after you showed me those stupid texts!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:238
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_ced51767:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:242
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_ced51767:
 
     # "Hmm... she's on the verge of tears..."
     "Hmm... she's on the verge of tears..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:239
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_4b1038da:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:243
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_4b1038da:
 
     # "What could be so bad about dating [jacklyn]?"
     "What could be so bad about dating [jacklyn]?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:240
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_bbe8c401:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:244
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_bbe8c401:
 
     # mc "Can you tell me why you're so upset?"
     mc "Can you tell me why you're so upset?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:241
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_77fd808a:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:245
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_77fd808a:
 
     # flora sad "I... just don't think you should date her."
     flora sad "I... just don't think you should date her."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:242
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_2779ad83:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:246
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_2779ad83:
 
     # mc "That's my choice."
     mc "That's my choice."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:243
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_7ac48d12:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:248
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_7ac48d12:
 
     # flora crying "Then why the hell did you hold my hand?!"
     flora crying "Then why the hell did you hold my hand?!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:248
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_f52b322f:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:250
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_4279e970:
 
-    # "Well, shit... that took an unexpected turn."
-    "Well, shit... that took an unexpected turn."
+    # flora crying "Then why the hell did you help me bake?!"
+    flora crying "Then why the hell did you help me bake?!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:249
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_9787caa1:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:257
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_41f624d9:
+
+    # "Well, shit. That took an unexpected turn."
+    "Well, shit. That took an unexpected turn."
+
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:258
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_9787caa1:
 
     # "It seems like that moment meant a lot to her..."
     "It seems like that moment meant a lot to her..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:253
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_53b4a247:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:264
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_53b4a247:
 
     # jacklyn thinking "Everything baller? I heard a door slam."
     jacklyn thinking "Everything baller? I heard a door slam."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:254
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_34e13582:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:265
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_34e13582:
 
     # mc "Hmm... yeah. I think [flora] forgot we had a date tonight and didn't want to intrude."
     mc "Hmm... yeah. I think [flora] forgot we had a date tonight and didn't want to intrude."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:255
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_6efc0963:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:266
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_6efc0963:
 
     # jacklyn smile "Wicked. Wanna get out of here? I know a good way to make a statement."
     jacklyn smile "Wicked. Wanna get out of here? I know a good way to make a statement."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:258
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_11fdb519_1:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:268
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:261
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_092e3fc1:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:272
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_092e3fc1:
 
     # mc "Yeah, I'll talk to her later or something."
     mc "Yeah, I'll talk to her later or something."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:262
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_b1005f44:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:273
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_b1005f44:
 
     # "Knowing [flora], she'll probably hate me now."
     "Knowing [flora], she'll probably hate me now."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:263
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_bcf8eadd:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:274
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_bcf8eadd:
 
     # "It's a bit weird that she felt so strongly about the hand holding... I was just trying to be nice."
     "It's a bit weird that she felt so strongly about the hand holding... I was just trying to be nice."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:264
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_a022df3a:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:275
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_a022df3a:
 
     # "Besides, we can't really date or have a normal relationship. She knows that."
     "Besides, we can't really date or have a normal relationship. She knows that."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:265
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_cc512488:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:276
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_cc512488:
 
     # jacklyn excited "Let's go. I've got paint in my car."
     jacklyn excited "Let's go. I've got paint in my car."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:270
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_f6554688:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:281
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_f6554688:
 
     # "This is a shitty situation. That moment with [flora] meant a lot to me as well..."
     "This is a shitty situation. That moment with [flora] meant a lot to me as well..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:271
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_a17a7f0b:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:282
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_a17a7f0b:
 
     # "Not sure if we can ever have a real relationship, but maybe she has an idea?"
     "Not sure if we can ever have a real relationship, but maybe she has an idea?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:272
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_e20fb3c4:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:283
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_e20fb3c4:
 
     # "It was really stupid of me to go on a date with [jacklyn] when [flora] is the one I really care about."
     "It was really stupid of me to go on a date with [jacklyn] when [flora] is the one I really care about."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:273
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_2cc337b7:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:284
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_2cc337b7:
 
     # mc "Sorry, [jacklyn], but I have to go talk to her."
     mc "Sorry, [jacklyn], but I have to go talk to her."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:274
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_481052be:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:285
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_481052be:
 
     # mc "It's probably best you go. Sorry for wasting your time..."
     mc "It's probably best you go. Sorry for wasting your time..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:275
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_547d6b3d:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:286
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_547d6b3d:
 
     # jacklyn laughing "The sweatshop is clean, brother."
     jacklyn laughing "The sweatshop is clean, brother."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:276
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_55bef1ed:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:287
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_55bef1ed:
 
     # jacklyn laughing "I got a decent dinner out of it. Nothing fucked in my panties."
     jacklyn laughing "I got a decent dinner out of it. Nothing fucked in my panties."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:277
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_34ce3c73:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:288
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_34ce3c73:
 
     # mc "Thanks for being cool about it."
     mc "Thanks for being cool about it."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:278
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_d6392707:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:289
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_d6392707:
 
     # jacklyn smile "No problemo. I'll see myself out."
     jacklyn smile "No problemo. I'll see myself out."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:280
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_0d8ebf87:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:291
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_0d8ebf87:
 
     # "All right, better go find [flora] before she does something stupid."
     "All right, better go find [flora] before she does something stupid."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:284
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_3986b376:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:296
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_3986b376:
 
     # mc "You, me, and [jo] — you know all three of us are terrible liars."
     mc "You, me, and [jo] — you know all three of us are terrible liars."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:285
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_5d59ecba:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:297
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_5d59ecba:
 
     # flora eyeroll "Fine. I was spying on you."
     flora eyeroll "Fine. I was spying on you."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:286
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_2876efd9:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:298
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_2876efd9:
 
     # mc "Why?"
     mc "Why?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:287
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_72808749:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:299
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_72808749:
 
     # flora annoyed "Because [jacklyn] is a liar!"
     flora annoyed "Because [jacklyn] is a liar!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:288
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_b2b9e19d:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:300
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_b2b9e19d:
 
     # mc "What do you mean?"
     mc "What do you mean?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:289
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_4146ebf9:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:301
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_4146ebf9:
 
     # flora angry "We went to have cake and she was being really flirty."
     flora angry "We went to have cake and she was being really flirty."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:290
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_d0fe0233:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:302
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_d0fe0233:
 
     # flora angry "She said she wanted to paint me and stuff."
     flora angry "She said she wanted to paint me and stuff."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:291
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_196a1e26:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:303
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_196a1e26:
 
     # flora angry "And now she's here on a date with you!"
     flora angry "And now she's here on a date with you!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:292
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_253dbc14:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:304
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_253dbc14:
 
     # mc "Are you sure you didn't misinterpret her advances?"
     mc "Are you sure you didn't misinterpret her advances?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:293
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_6eeba30c:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:305
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_6eeba30c:
 
     # mc "She's pretty flirty with everyone."
     mc "She's pretty flirty with everyone."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:294
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_61a73b01:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:306
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_61a73b01:
 
     # mc "She's also said many times that she doesn't dabble, which I think means she's not into girls."
     mc "She's also said many times that she doesn't dabble, which I think means she's not into girls."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:295
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_fcb004f4:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:307
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_fcb004f4:
 
     # flora annoyed "That's bullshit."
     flora annoyed "That's bullshit."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:296
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_e9b431b4:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:308
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_e9b431b4:
 
     # mc "Why didn't you speak up earlier?"
     mc "Why didn't you speak up earlier?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:297
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_1340f31d:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:309
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_1340f31d:
 
     # flora annoyed "I did! I just didn't think it was true!"
     flora annoyed "I did! I just didn't think it was true!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:298
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_4786597e:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:310
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_4786597e:
 
     # flora annoyed "Why do you always try to ruin things for me?"
     flora annoyed "Why do you always try to ruin things for me?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:303
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_247eb2af:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:315
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_247eb2af:
 
     # jacklyn thinking "What's balling? I heard a scream."
     jacklyn thinking "What's balling? I heard a scream."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:304
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_2b35b6fe:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:316
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_2b35b6fe:
 
     # mc "..."
     mc "..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:305
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_f1ee3813:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:317
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_f1ee3813:
 
     # flora laughing flip "Sorry, that was me."
     flora laughing flip "Sorry, that was me."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:306
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_83ea855c:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:318
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_83ea855c:
 
     # flora worried flip "Why are you dating [mc]?"
     flora worried flip "Why are you dating [mc]?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:307
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_c7319aa4:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:319
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_c7319aa4:
 
     # jacklyn smile_right "I was hungry, mostly."
     jacklyn smile_right "I was hungry, mostly."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:308
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_993e34d9:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:320
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_993e34d9:
 
     # "Ouch. That's rough."
     "Ouch. That's rough."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:309
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_314342e0:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:321
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_314342e0:
 
     # flora annoyed "Why did you tell me those things during our picnic?"
     flora annoyed "Why did you tell me those things during our picnic?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:310
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_8025ec2a:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:322
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_8025ec2a:
 
     # jacklyn thinking "What things?"
     jacklyn thinking "What things?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:311
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_99eacc0e:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:323
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_99eacc0e:
 
     # flora annoyed "That you liked my hair and my smile, and that you wanted to paint me without clothes!"
     flora annoyed "That you liked my hair and my smile, and that you wanted to paint me without clothes!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:312
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_6681757e:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:324
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_6681757e:
 
     # jacklyn smile_right "Well, I think that, and I'd like to do that."
     jacklyn smile_right "Well, I think that, and I'd like to do that."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:313
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_9f63a719:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:325
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_9f63a719:
 
     # flora concerned flip "So you're just trying to make me jealous?"
     flora concerned flip "So you're just trying to make me jealous?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:314
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_e53a03ac:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:326
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_e53a03ac:
 
     # jacklyn smile_right "Are you jealous?"
     jacklyn smile_right "Are you jealous?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:315
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_bb704398:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:327
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_bb704398:
 
     # flora angry flip "What do you think?!"
     flora angry flip "What do you think?!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:322
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_21b5b553:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:334
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_21b5b553:
 
     # jacklyn cringe "Drama llama."
     jacklyn cringe "Drama llama."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:323
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_ac67d282:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:335
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_ac67d282:
 
     # mc "Did you really just go on a date with me to make her jealous?"
     mc "Did you really just go on a date with me to make her jealous?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:324
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_2aa34879:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:336
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_2aa34879:
 
     # jacklyn smile "Obviously not."
     jacklyn smile "Obviously not."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:325
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_cd1fd443:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:337
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_cd1fd443:
 
     # jacklyn smile "I also did it for the free meal."
     jacklyn smile "I also did it for the free meal."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:326
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_e9448d92:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:338
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_e9448d92:
 
     # "Ugh."
     "Ugh."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:327
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_23ed79ff:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:339
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_23ed79ff:
 
     # mc "So, you care about her?"
     mc "So, you care about her?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:328
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_2d1f3f17:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:340
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_2d1f3f17:
 
     # jacklyn thinking "I mean, it is a known fact that I don't dabble. Is that what you're asking?"
     jacklyn thinking "I mean, it is a known fact that I don't dabble. Is that what you're asking?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:329
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_574ecb64:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:341
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_574ecb64:
 
     # mc "I don't really know..."
     mc "I don't really know..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:332
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_11fdb519_2:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:343
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_11fdb519_1:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:335
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_66e81ce7:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:347
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_66e81ce7:
 
     # mc "I think you should go after her. She looked heartbroken."
     mc "I think you should go after her. She looked heartbroken."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:336
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_b49e7114:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:348
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_b49e7114:
 
     # jacklyn neutral "You're probably right. Can't have damsels weeping over me."
     jacklyn neutral "You're probably right. Can't have damsels weeping over me."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:337
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_d75832c9:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:349
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_d75832c9:
 
     # jacklyn smile "Thanks for the dinner."
     jacklyn smile "Thanks for the dinner."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:340
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_8d9b2ff5:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:352
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_8d9b2ff5:
 
     # "Not really sure what's gotten into me, but it felt like the right thing to do."
     "Not really sure what's gotten into me, but it felt like the right thing to do."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:341
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_5644d889:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:353
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_5644d889:
 
     # "[flora] deserves an explanation from [jacklyn]."
     "[flora] deserves an explanation from [jacklyn]."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:342
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_88c837f6:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:354
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_88c837f6:
 
     # "Besides, we can make a statement later."
     "Besides, we can make a statement later."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:343
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_169c4026:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:355
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_169c4026:
 
     # "There's always another chance... right?"
     "There's always another chance... right?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:347
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_754f152d:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:359
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_754f152d:
 
     # mc "Wanna get out of here and make a statement?"
     mc "Wanna get out of here and make a statement?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:348
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_478cf44b:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:360
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_478cf44b:
 
     # jacklyn excited "You know it!"
     jacklyn excited "You know it!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:349
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_2c82e5ac:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:361
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_2c82e5ac:
 
     # jacklyn annoyed "Can't stand people tripping over their feelings."
     jacklyn annoyed "Can't stand people tripping over their feelings."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:350
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_9df9923f:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:362
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_9df9923f:
 
     # jacklyn laughing "Let's go."
     jacklyn laughing "Let's go."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:352
-translate crowdin home_bedroom_closet_jacklyn_statement_intruder_958c9496:
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:364
+translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_958c9496:
 
     # "Not sure where we're going, but this should be interesting if nothing else."
     "Not sure where we're going, but this should be interesting if nothing else."
@@ -962,27 +968,31 @@ translate crowdin strings:
     old "Wear yesterday's outfit"
     new "Wear yesterday's outfit"
 
-    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:225
-    old "?quest.flora_bonsai['love_route']@|{image=flora_bonsai_hand_holding}|\"[flora], what's really going on?\""
-    new "?quest.flora_bonsai['love_route']@|{image=flora_bonsai_hand_holding}|\"[flora], what's really going on?\""
+    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:226
+    old "{image=flora_bonsai_baking}|\"[flora], what's\nreally going on?\""
+    new "{image=flora_bonsai_baking}|\"[flora], what's\nreally going on?\""
 
-    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:225
-    old "\"You, me, and [jo] — you know all three of us are terrible liars.\""
-    new "\"You, me, and [jo] — you know all three of us are terrible liars.\""
+    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:226
+    old "?quest.flora_bonsai['handholding']@|{image=flora_bonsai_handholding}|\"[flora], what's really going on?\""
+    new "?quest.flora_bonsai['handholding']@|{image=flora_bonsai_handholding}|\"[flora], what's really going on?\""
 
-    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:257
+    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:226
+    old "\"You, me, and [jo] — you know\nall three of us are terrible liars.\""
+    new "\"You, me, and [jo] — you know\nall three of us are terrible liars.\""
+
+    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:268
     old "Go with [jacklyn]"
     new "Go with [jacklyn]"
 
-    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:257
+    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:268
     old "Go look for [flora]"
     new "Go look for [flora]"
 
-    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:331
+    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:343
     old "\"I think you should go after her. She looked heartbroken.\""
     new "\"I think you should go after her. She looked heartbroken.\""
 
-    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:331
+    # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:343
     old "\"Wanna get out of here and make a statement?\""
     new "\"Wanna get out of here and make a statement?\""
 

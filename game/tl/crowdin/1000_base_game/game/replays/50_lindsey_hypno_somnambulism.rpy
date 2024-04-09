@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/50_lindsey_hypno_somnambulism.rpy:6
 translate crowdin replay_lindsey_hypno_somnambulism_743427a1:
@@ -30,7 +30,7 @@ translate crowdin replay_lindsey_hypno_somnambulism_154b3348:
     # "Crap. That's not the question I was hoping for."
     "Crap. That's not the question I was hoping for."
 
-# game/1000_base_game/game/replays/50_lindsey_hypno_somnambulism.rpy:12
+# game/1000_base_game/game/replays/50_lindsey_hypno_somnambulism.rpy:11
 translate crowdin replay_lindsey_hypno_somnambulism_11fdb519:
 
     # extend "" nointeract
@@ -360,7 +360,7 @@ translate crowdin replay_lindsey_hypno_somnambulism_4a6ed975:
     # mc "[lindsey]..."
     mc "[lindsey]..."
 
-# game/1000_base_game/game/replays/50_lindsey_hypno_somnambulism.rpy:72
+# game/1000_base_game/game/replays/50_lindsey_hypno_somnambulism.rpy:71
 translate crowdin replay_lindsey_hypno_somnambulism_11fdb519_1:
 
     # extend "" nointeract
@@ -450,7 +450,7 @@ translate crowdin replay_lindsey_hypno_somnambulism_4a6ed975_1:
     # mc "[lindsey]..."
     mc "[lindsey]..."
 
-# game/1000_base_game/game/replays/50_lindsey_hypno_somnambulism.rpy:99
+# game/1000_base_game/game/replays/50_lindsey_hypno_somnambulism.rpy:98
 translate crowdin replay_lindsey_hypno_somnambulism_11fdb519_2:
 
     # extend "" nointeract
@@ -1254,7 +1254,7 @@ translate crowdin replay_lindsey_hypno_somnambulism_1d92d3c1:
     # "But her muffled moaning says it all."
     "But her muffled moaning says it all."
 
-# game/1000_base_game/game/replays/50_lindsey_hypno_somnambulism.rpy:301
+# game/1000_base_game/game/replays/50_lindsey_hypno_somnambulism.rpy:300
 translate crowdin replay_lindsey_hypno_somnambulism_11fdb519_3:
 
     # extend "" nointeract

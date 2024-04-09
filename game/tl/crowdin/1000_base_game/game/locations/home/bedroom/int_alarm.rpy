@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:86
 translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_b3662912:
@@ -6,7 +6,7 @@ translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_b3662912:
     # "What should I do with this thing?"
     "What should I do with this thing?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:88
+# game/1000_base_game/game/locations/home/bedroom/int_alarm.rpy:87
 translate crowdin home_bedroom_alarm_interact_smash_or_pass_beeping_11fdb519:
 
     # extend "" nointeract

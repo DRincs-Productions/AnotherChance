@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:47
 translate crowdin quest_isabelle_piano_start_af63ac0e:
@@ -6,7 +6,7 @@ translate crowdin quest_isabelle_piano_start_af63ac0e:
     # isabelle excited "I had no idea you play the piano!"
     isabelle excited "I had no idea you play the piano!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:50
+# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:49
 translate crowdin quest_isabelle_piano_start_11fdb519:
 
     # extend "" nointeract
@@ -168,7 +168,7 @@ translate crowdin quest_isabelle_piano_start_3b40fe14:
     # isabelle skeptical "Who doesn't like music?"
     isabelle skeptical "Who doesn't like music?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:87
+# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:86
 translate crowdin quest_isabelle_piano_start_11fdb519_1:
 
     # extend "" nointeract
@@ -534,7 +534,7 @@ translate crowdin quest_isabelle_piano_printer_cable_box_take_7d518bc7:
     # "But hey, at least they're color-coded..."
     "But hey, at least they're color-coded..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:182
+# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:181
 translate crowdin quest_isabelle_piano_printer_cable_box_take_11fdb519:
 
     # extend "" nointeract
@@ -642,7 +642,7 @@ translate crowdin quest_isabelle_piano_isabelle_02e91621:
     # mc "I was just wondering..."
     mc "I was just wondering..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:238
+# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:237
 translate crowdin quest_isabelle_piano_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -924,7 +924,7 @@ translate crowdin quest_isabelle_piano_score_interact_49ff58a4:
     # "...or do I? Maybe [isabelle] will appreciate the spontaneity of a scoreless jam?"
     "...or do I? Maybe [isabelle] will appreciate the spontaneity of a scoreless jam?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:326
+# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:325
 translate crowdin quest_isabelle_piano_score_interact_11fdb519:
 
     # extend "" nointeract
@@ -1020,7 +1020,7 @@ translate crowdin quest_isabelle_piano_score_interact_b3de5140:
     # isabelle confident "We both know that wasn't Chopin..."
     isabelle confident "We both know that wasn't Chopin..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:369
+# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:368
 translate crowdin quest_isabelle_piano_score_interact_11fdb519_1:
 
     # extend "" nointeract
@@ -1302,7 +1302,7 @@ translate crowdin quest_isabelle_piano_score_interact_5b086ef7:
     # isabelle sad "I'm sorry... It was the crowd, wasn't it?"
     isabelle sad "I'm sorry... It was the crowd, wasn't it?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:462
+# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:461
 translate crowdin quest_isabelle_piano_score_interact_11fdb519_2:
 
     # extend "" nointeract
@@ -1566,7 +1566,7 @@ translate crowdin quest_isabelle_piano_score_use_item_fdbd1bd9:
     # isabelle blush "That was fantastic! I'm so impressed!"
     isabelle blush "That was fantastic! I'm so impressed!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:562
+# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:561
 translate crowdin quest_isabelle_piano_score_use_item_11fdb519:
 
     # extend "" nointeract
@@ -2088,7 +2088,7 @@ translate crowdin quest_isabelle_piano_sex_7dd93b39:
     # "And that's what finally makes me lose control."
     "And that's what finally makes me lose control."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:880
+# game/1000_base_game/game/characters/isabelle/q_isabelle_piano.rpy:879
 translate crowdin quest_isabelle_piano_sex_11fdb519:
 
     # extend "" nointeract

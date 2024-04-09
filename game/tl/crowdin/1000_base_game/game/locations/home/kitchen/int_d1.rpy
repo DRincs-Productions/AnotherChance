@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/home/kitchen/int_d1.rpy:56
 translate crowdin home_kitchen_d1_interact_flora_bonsai_d6cedc54:
@@ -48,7 +48,7 @@ translate crowdin flora_quest_flora_cooking_chilli_d1_distraction_7a21bb09:
     # "I can probably use something in here to make a distraction."
     "I can probably use something in here to make a distraction."
 
-# game/1000_base_game/game/locations/home/kitchen/int_d1.rpy:92
+# game/1000_base_game/game/locations/home/kitchen/int_d1.rpy:91
 translate crowdin flora_quest_flora_cooking_chilli_d1_distraction_11fdb519:
 
     # extend "" nointeract

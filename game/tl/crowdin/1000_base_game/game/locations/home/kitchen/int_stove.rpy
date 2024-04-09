@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:35
 translate crowdin home_kitchen_stove_interact_327b112f:
@@ -120,7 +120,7 @@ translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_28d51
     # "But let's be honest, you probably don't need every ingredient to make a good salad."
     "But let's be honest, you probably don't need every ingredient to make a good salad."
 
-# game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:104
+# game/1000_base_game/game/locations/home/kitchen/int_stove.rpy:103
 translate crowdin home_kitchen_stove_jacklyn_statement_ingredients_missing_11fdb519:
 
     # extend "" nointeract

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:2
 translate crowdin jacklyn_statement_text_same_room_9bf66073:
@@ -360,7 +360,7 @@ translate crowdin jacklyn_statement_remove_jo_5c969ae9:
     # jo concerned_cup "[jacklyn]? The teacher assistant? That's against school regulations."
     jo concerned_cup "[jacklyn]? The teacher assistant? That's against school regulations."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:99
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:98
 translate crowdin jacklyn_statement_remove_jo_11fdb519:
 
     # extend "" nointeract
@@ -462,7 +462,7 @@ translate crowdin jacklyn_statement_remove_jo_eb04d488:
     # jo neutral_cup "Isn't she a bit... you know?"
     jo neutral_cup "Isn't she a bit... you know?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:123
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:122
 translate crowdin jacklyn_statement_remove_jo_11fdb519_1:
 
     # extend "" nointeract
@@ -498,7 +498,7 @@ translate crowdin jacklyn_statement_remove_jo_4db28373:
     # jo smile_cup "Her wardrobe is something else entirely."
     jo smile_cup "Her wardrobe is something else entirely."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:133
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:132
 translate crowdin jacklyn_statement_remove_jo_11fdb519_2:
 
     # extend "" nointeract
@@ -942,7 +942,7 @@ translate crowdin jacklyn_statement_meetjacklyn_109c213f:
     # "Fuck. What does she mean?"
     "Fuck. What does she mean?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:243
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:242
 translate crowdin jacklyn_statement_meetjacklyn_11fdb519:
 
     # extend "" nointeract
@@ -1188,7 +1188,7 @@ translate crowdin jacklyn_statement_meetjacklyn_e83f9d49:
     # jacklyn neutral "Still need that blowjob?"
     jacklyn neutral "Still need that blowjob?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:295
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:294
 translate crowdin jacklyn_statement_meetjacklyn_11fdb519_1:
 
     # extend "" nointeract
@@ -1224,7 +1224,7 @@ translate crowdin jacklyn_statement_meetjacklyn_597fd004:
     # jacklyn smile "You've also got that creative spark!"
     jacklyn smile "You've also got that creative spark!"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:305
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:304
 translate crowdin jacklyn_statement_meetjacklyn_11fdb519_2:
 
     # extend "" nointeract
@@ -1470,7 +1470,7 @@ translate crowdin jacklyn_statement_home_kitchen_cook_e6b1136c:
     # "Maybe a salad?"
     "Maybe a salad?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:363
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:362
 translate crowdin jacklyn_statement_home_kitchen_cook_11fdb519:
 
     # extend "" nointeract
@@ -1560,7 +1560,7 @@ translate crowdin jacklyn_statement_flora_ingredients_49acae0c:
     # flora annoyed "That'll be $20."
     flora annoyed "That'll be $20."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:393
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:392
 translate crowdin jacklyn_statement_flora_ingredients_11fdb519:
 
     # extend "" nointeract
@@ -1662,7 +1662,7 @@ translate crowdin jacklyn_statement_flora_ingredients_c66ac976:
     # flora confident "How about the freaking store?"
     flora confident "How about the freaking store?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:424
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:423
 translate crowdin jacklyn_statement_flora_ingredients_11fdb519_1:
 
     # extend "" nointeract
@@ -1686,7 +1686,7 @@ translate crowdin jacklyn_statement_flora_ingredients_76262217:
     # flora laughing "How do you think you'll ever get a girl with that attitude?"
     flora laughing "How do you think you'll ever get a girl with that attitude?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:432
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:431
 translate crowdin jacklyn_statement_flora_ingredients_11fdb519_2:
 
     # extend "" nointeract
@@ -2154,7 +2154,7 @@ translate crowdin jacklyn_statement_flora_chef_ede0df25:
     # flora sarcastic "I will do it for $50, though."
     flora sarcastic "I will do it for $50, though."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:554
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:553
 translate crowdin jacklyn_statement_flora_chef_11fdb519:
 
     # extend "" nointeract
@@ -2340,7 +2340,7 @@ translate crowdin jacklyn_statement_jackdate_231e7d34:
     # jacklyn smile "So, did you really cook for me? I'm starving."
     jacklyn smile "So, did you really cook for me? I'm starving."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:625
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:624
 translate crowdin jacklyn_statement_jackdate_11fdb519:
 
     # extend "" nointeract
@@ -2436,7 +2436,7 @@ translate crowdin jacklyn_statement_jackdate_483e3284:
     # jacklyn excited "Like, that would shatter so many social expectations in one big bang."
     jacklyn excited "Like, that would shatter so many social expectations in one big bang."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:649
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:648
 translate crowdin jacklyn_statement_jackdate_11fdb519_1:
 
     # extend "" nointeract
@@ -2676,7 +2676,7 @@ translate crowdin jacklyn_statement_jackdate_47188350:
     # "Hmm... I need to think of a good topic..."
     "Hmm... I need to think of a good topic..."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:710
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:709
 translate crowdin jacklyn_statement_jackdate_11fdb519_2:
 
     # extend "" nointeract
@@ -3090,7 +3090,7 @@ translate crowdin jacklyn_statement_statement_856c895b:
     # jacklyn neutral_mask "What kind of statement should we make?"
     jacklyn neutral_mask "What kind of statement should we make?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:814
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:813
 translate crowdin jacklyn_statement_statement_11fdb519:
 
     # extend "" nointeract
@@ -3282,7 +3282,7 @@ translate crowdin jacklyn_statement_statement_54af0866:
     # "She's the type that only cares about directness... no real point beating around the bush with her."
     "She's the type that only cares about directness... no real point beating around the bush with her."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:866
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:865
 translate crowdin jacklyn_statement_statement_11fdb519_1:
 
     # extend "" nointeract
@@ -3804,7 +3804,7 @@ translate crowdin jacklyn_statement_statement_a0ff92f1:
     # mc "Fuck, I'm so close..."
     mc "Fuck, I'm so close..."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1087
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_statement.rpy:1086
 translate crowdin jacklyn_statement_statement_11fdb519_2:
 
     # extend "" nointeract

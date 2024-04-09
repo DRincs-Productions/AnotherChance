@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4
 translate crowdin quest_lindsey_angel_start_9b346f38:
@@ -516,7 +516,7 @@ translate crowdin quest_lindsey_angel_nurse_14361222:
     # nurse surprised "Oh, no! I can't help with that! It's against the rules!"
     nurse surprised "Oh, no! I can't help with that! It's against the rules!"
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:135
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:134
 translate crowdin quest_lindsey_angel_nurse_11fdb519:
 
     # extend "" nointeract
@@ -966,7 +966,7 @@ translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_4d7cdf41:
     # "Maybe I can use that to my advantage?"
     "Maybe I can use that to my advantage?"
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:312
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:311
 translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_11fdb519:
 
     # extend "" nointeract
@@ -2160,7 +2160,7 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f8cb1eb5:
     # lindsey hospital_bed sad "I... don't want to think about that day..."
     lindsey hospital_bed sad "I... don't want to think about that day..."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:688
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:687
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_11fdb519:
 
     # extend "" nointeract

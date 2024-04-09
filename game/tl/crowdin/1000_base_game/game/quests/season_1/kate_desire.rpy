@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/quests/season_1/kate_desire.rpy:207
 translate crowdin quest_kate_desire_holdup_leave_ba4c3ae0:
@@ -90,7 +90,7 @@ translate crowdin quest_kate_desire_nude_model_d25cdb75:
     # kate blush "...not what you had in mind?"
     kate blush "...not what you had in mind?"
 
-# game/1000_base_game/game/quests/season_1/kate_desire.rpy:240
+# game/1000_base_game/game/quests/season_1/kate_desire.rpy:239
 translate crowdin quest_kate_desire_nude_model_11fdb519:
 
     # extend "" nointeract

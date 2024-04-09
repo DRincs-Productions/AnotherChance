@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
+﻿# TODO: Translation updated at 2024-03-29 11:55 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
 msgstr "Back"
 
@@ -106,6 +106,10 @@ msgstr "Fullscreen"
 msgid "Rollback Side"
 msgstr "Rollback Side"
 
+# game/1000_base_game/screens.rpy:741
+msgid "Disable"
+msgstr "Disable"
+
 # game/1000_base_game/screens.rpy:748
 msgid "Unseen Text"
 msgstr "Unseen Text"
@@ -137,6 +141,10 @@ msgstr "Sound Volume"
 # game/1000_base_game/screens.rpy:787
 msgid "Test"
 msgstr "Test"
+
+# game/1000_base_game/screens.rpy:791
+msgid "Voice Volume"
+msgstr "Voice Volume"
 
 # game/1000_base_game/screens.rpy:802
 msgid "Mute All"
@@ -281,6 +289,14 @@ msgstr "Y/Top Button"
 # game/1000_base_game/screens.rpy:1102
 msgid "Calibrate"
 msgstr "Calibrate"
+
+# game/1000_base_game/screens.rpy:1167
+msgid "Yes"
+msgstr "Yes"
+
+# game/1000_base_game/screens.rpy:1168
+msgid "No"
+msgstr "No"
 
 # game/1000_base_game/screens.rpy:1214
 msgid "Skipping"

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:3
 translate crowdin quest_maya_spell_start_d75d1eb1:
@@ -90,7 +90,7 @@ translate crowdin quest_maya_spell_start_69ba74b1:
     # maya dramatic "My days seem to be numbered."
     maya dramatic "My days seem to be numbered."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:20
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:19
 translate crowdin quest_maya_spell_start_11fdb519:
 
     # extend "" nointeract
@@ -576,7 +576,7 @@ translate crowdin quest_maya_spell_hair_kate_f50763a9:
     # kate skeptical "What the hell are you staring at?"
     kate skeptical "What the hell are you staring at?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:146
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:145
 translate crowdin quest_maya_spell_hair_kate_11fdb519:
 
     # extend "" nointeract
@@ -912,7 +912,7 @@ translate crowdin quest_maya_spell_hair_kate_dea2cd36:
     # kate eyeroll "What do you even want?"
     kate eyeroll "What do you even want?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:242
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:241
 translate crowdin quest_maya_spell_hair_kate_11fdb519_1:
 
     # extend "" nointeract
@@ -1320,7 +1320,7 @@ translate crowdin quest_maya_spell_hair_isabelle_a36718ce:
     # isabelle skeptical "And what could that possibly be?"
     isabelle skeptical "And what could that possibly be?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:385
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:384
 translate crowdin quest_maya_spell_hair_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -1758,7 +1758,7 @@ translate crowdin quest_maya_spell_sweat_bd20e3ff:
     # jacklyn neutral "Tell me what's blending your dots."
     jacklyn neutral "Tell me what's blending your dots."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:518
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:517
 translate crowdin quest_maya_spell_sweat_11fdb519:
 
     # extend "" nointeract
@@ -2550,7 +2550,7 @@ translate crowdin quest_maya_spell_sweat_sex_84184da8:
     # jacklyn paint_shelf_aftermath smile "Help a girl out and clean up after yourself?"
     jacklyn paint_shelf_aftermath smile "Help a girl out and clean up after yourself?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1018
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1017
 translate crowdin quest_maya_spell_sweat_sex_11fdb519:
 
     # extend "" nointeract
@@ -3042,7 +3042,7 @@ translate crowdin quest_maya_spell_maya_1e14e148:
     # "Hmm... as tempting as that actually is..."
     "Hmm... as tempting as that actually is..."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1208
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1207
 translate crowdin quest_maya_spell_maya_11fdb519:
 
     # extend "" nointeract
@@ -3552,7 +3552,7 @@ translate crowdin quest_maya_spell_midnight_upon_entering_11bedf1c:
     # "Hmm..."
     "Hmm..."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1502
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1501
 translate crowdin quest_maya_spell_midnight_upon_entering_11fdb519:
 
     # extend "" nointeract
@@ -4272,7 +4272,7 @@ translate crowdin quest_maya_spell_spell_b3f140b8:
     # maya dramatic "Anyway, are we lighting this joint up or what?"
     maya dramatic "Anyway, are we lighting this joint up or what?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1821
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1820
 translate crowdin quest_maya_spell_spell_11fdb519:
 
     # extend "" nointeract
@@ -4566,7 +4566,7 @@ translate crowdin quest_maya_spell_spell_e48869cf:
     # maya thinking "Do I want to know how you got these things?"
     maya thinking "Do I want to know how you got these things?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1887
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1886
 translate crowdin quest_maya_spell_spell_11fdb519_1:
 
     # extend "" nointeract
@@ -5010,79 +5010,79 @@ translate crowdin quest_maya_spell_spell_2e48de2a:
     # guard "Until next time, and stay out of trouble."
     guard "Until next time, and stay out of trouble."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2065
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2064
 translate crowdin quest_maya_spell_spell_709ea3b0:
 
     # mc "Well, that was weird."
     mc "Well, that was weird."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2066
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2065
 translate crowdin quest_maya_spell_spell_fac5fd75:
 
     # maya dramatic "Which part?"
     maya dramatic "Which part?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2067
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2066
 translate crowdin quest_maya_spell_spell_5ec44d74:
 
     # mc "I mean, all of it, really."
     mc "I mean, all of it, really."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2068
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2067
 translate crowdin quest_maya_spell_spell_1312398f:
 
     # maya confident "Witchcraft I can get behind."
     maya confident "Witchcraft I can get behind."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2069
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2068
 translate crowdin quest_maya_spell_spell_fdda3c25:
 
     # maya skeptical "But [cyberia] taking over is a bit odd, I guess..."
     maya skeptical "But [cyberia] taking over is a bit odd, I guess..."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2070
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2069
 translate crowdin quest_maya_spell_spell_69c25b65:
 
     # mc "Yeah..."
     mc "Yeah..."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2071
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2070
 translate crowdin quest_maya_spell_spell_6033b1e5:
 
     # mc "So, do you—"
     mc "So, do you—"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2072
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2071
 translate crowdin quest_maya_spell_spell_9a29e2e9:
 
     # maya bored "Anyway, thanks for the help."
     maya bored "Anyway, thanks for the help."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2073
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2072
 translate crowdin quest_maya_spell_spell_22a5c6f7:
 
     # maya bored "I guess we'll see what happens next."
     maya bored "I guess we'll see what happens next."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2078
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2077
 translate crowdin quest_maya_spell_spell_7c1cbd3a:
 
     # "And just like that, all the magic drains out of the air."
     "And just like that, all the magic drains out of the air."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2079
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2078
 translate crowdin quest_maya_spell_spell_34086473:
 
     # "The cauldron stops bubbling, the witching hour ends, and all the mystique, wonder, and anticipation dissipates."
     "The cauldron stops bubbling, the witching hour ends, and all the mystique, wonder, and anticipation dissipates."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2081
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2080
 translate crowdin quest_maya_spell_spell_4a87f8e1:
 
     # "Reality returns to its old mundane form... and me, I'm just a student{space=-5}\nwho might have a crush on an unusually unlucky redhead."
     "Reality returns to its old mundane form... and me, I'm just a student{space=-5}\nwho might have a crush on an unusually unlucky redhead."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2088
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:2087
 translate crowdin quest_maya_spell_spell_0ee8a040:
 
     # "It's getting late. I can't wait to get home."

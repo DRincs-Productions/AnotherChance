@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/51_mrsl_modeling.rpy:6
 translate crowdin replay_mrsl_modeling_61e1f5f1:
@@ -126,7 +126,7 @@ translate crowdin replay_mrsl_modeling_77ae67d5:
     # mc "[mrsl]..."
     mc "[mrsl]..."
 
-# game/1000_base_game/game/replays/51_mrsl_modeling.rpy:36
+# game/1000_base_game/game/replays/51_mrsl_modeling.rpy:35
 translate crowdin replay_mrsl_modeling_11fdb519:
 
     # extend "" nointeract

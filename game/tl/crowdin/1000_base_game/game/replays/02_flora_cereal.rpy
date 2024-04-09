@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/02_flora_cereal.rpy:6
 translate crowdin replay_flora_cereal_5eca7afb:
@@ -54,7 +54,7 @@ translate crowdin replay_flora_cereal_f4f9e94e:
     # "Huh? Crap..."
     "Huh? Crap..."
 
-# game/1000_base_game/game/replays/02_flora_cereal.rpy:17
+# game/1000_base_game/game/replays/02_flora_cereal.rpy:16
 translate crowdin replay_flora_cereal_11fdb519:
 
     # extend "" nointeract

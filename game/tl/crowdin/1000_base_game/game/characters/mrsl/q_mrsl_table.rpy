@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5
 translate crowdin quest_mrsl_table_start_a8e97ccd:
@@ -36,7 +36,7 @@ translate crowdin quest_mrsl_table_start_88360f48:
     # mrsl confident "Hello there, [mc]! How's it going?"
     mrsl confident "Hello there, [mc]! How's it going?"
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:14
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:13
 translate crowdin quest_mrsl_table_start_11fdb519:
 
     # extend "" nointeract
@@ -144,7 +144,7 @@ translate crowdin quest_mrsl_table_start_122ba425:
     # mrsl afraid "I'm sorry, but it goes without saying that the members of the swim team need to be able to swim."
     mrsl afraid "I'm sorry, but it goes without saying that the members of the swim team need to be able to swim."
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:38
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:37
 translate crowdin quest_mrsl_table_start_11fdb519_1:
 
     # extend "" nointeract
@@ -582,7 +582,7 @@ translate crowdin quest_mrsl_table_letter_f9ecc11b:
     # "What the hell? I didn't even touch it..."
     "What the hell? I didn't even touch it..."
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:136
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:135
 translate crowdin quest_mrsl_table_letter_11fdb519:
 
     # extend "" nointeract
@@ -1170,7 +1170,7 @@ translate crowdin quest_mrsl_table_flora_e5ade9f3:
     # flora annoyed "Apologize."
     flora annoyed "Apologize."
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:472
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:471
 translate crowdin quest_mrsl_table_flora_11fdb519:
 
     # extend "" nointeract
@@ -1692,7 +1692,7 @@ translate crowdin quest_mrsl_table_morning_4c23a610:
     # "Oh, god. Don't listen to their siren song."
     "Oh, god. Don't listen to their siren song."
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:622
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:621
 translate crowdin quest_mrsl_table_morning_11fdb519:
 
     # extend "" nointeract
@@ -1866,7 +1866,7 @@ translate crowdin quest_mrsl_table_school_homeroom_door_talk_30d33206:
     # mc "Hey, [lacey]..."
     mc "Hey, [lacey]..."
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:668
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:667
 translate crowdin quest_mrsl_table_school_homeroom_door_talk_11fdb519:
 
     # extend "" nointeract
@@ -2106,7 +2106,7 @@ translate crowdin quest_mrsl_table_school_homeroom_globe_interact_9dee258b:
     # "There's at least two grand here..."
     "There's at least two grand here..."
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:722
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:721
 translate crowdin quest_mrsl_table_school_homeroom_globe_interact_11fdb519:
 
     # extend "" nointeract
@@ -2190,7 +2190,7 @@ translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_211668f
     # "It's a bit cramped, but it might be my best shot."
     "It's a bit cramped, but it might be my best shot."
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:756
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:755
 translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_11fdb519:
 
     # extend "" nointeract
@@ -2538,7 +2538,7 @@ translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_decc597
     # "Okay, this is getting out of hand!"
     "Okay, this is getting out of hand!"
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:836
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:835
 translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_11fdb519_1:
 
     # extend "" nointeract

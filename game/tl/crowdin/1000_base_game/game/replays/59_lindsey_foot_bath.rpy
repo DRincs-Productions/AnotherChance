@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/59_lindsey_foot_bath.rpy:9
 translate crowdin replay_lindsey_foot_bath_53e108be:
@@ -132,7 +132,7 @@ translate crowdin replay_lindsey_foot_bath_d56bef4f:
     # "On the other hand, it might be my only chance to touch her beautiful feet..."
     "On the other hand, it might be my only chance to touch her beautiful feet..."
 
-# game/1000_base_game/game/replays/59_lindsey_foot_bath.rpy:48
+# game/1000_base_game/game/replays/59_lindsey_foot_bath.rpy:47
 translate crowdin replay_lindsey_foot_bath_11fdb519:
 
     # extend "" nointeract

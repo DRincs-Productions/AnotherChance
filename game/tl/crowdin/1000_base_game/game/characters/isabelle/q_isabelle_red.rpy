@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:3
 translate crowdin quest_isabelle_red_start_5f580138:
@@ -18,7 +18,7 @@ translate crowdin quest_isabelle_red_start_466299f9:
     # "Err... what? She must mean what it's for."
     "Err... what? She must mean what it's for."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:8
+# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:7
 translate crowdin quest_isabelle_red_start_11fdb519:
 
     # extend "" nointeract
@@ -618,7 +618,7 @@ translate crowdin quest_isabelle_red_black_note_english_door_2c71b1a6:
     # "Damn, they locked the door."
     "Damn, they locked the door."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:150
+# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:149
 translate crowdin quest_isabelle_red_black_note_english_door_11fdb519:
 
     # extend "" nointeract
@@ -1728,7 +1728,7 @@ translate crowdin quest_isabelle_red_cabinet_4f0ef1aa:
     # maxine thinking "Now, if there's nothing else..."
     maxine thinking "Now, if there's nothing else..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:438
+# game/1000_base_game/game/characters/isabelle/q_isabelle_red.rpy:437
 translate crowdin quest_isabelle_red_cabinet_11fdb519:
 
     # extend "" nointeract

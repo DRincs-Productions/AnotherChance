@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/mrsl/mrsl.rpy:1207
 translate crowdin mrsl_talk_day1_take2_ffe543b6:
@@ -6,7 +6,7 @@ translate crowdin mrsl_talk_day1_take2_ffe543b6:
     # mrsl smile "Hi, [mc]!"
     mrsl smile "Hi, [mc]!"
 
-# game/1000_base_game/game/characters/mrsl/mrsl.rpy:1210
+# game/1000_base_game/game/characters/mrsl/mrsl.rpy:1209
 translate crowdin mrsl_talk_day1_take2_11fdb519:
 
     # extend "" nointeract
@@ -198,7 +198,7 @@ translate crowdin mrsl_flirt_one_8be7b9d8:
     # mrsl sad "Everyone's going through their own struggles. Do you know what fuels me to keep going every day?"
     mrsl sad "Everyone's going through their own struggles. Do you know what fuels me to keep going every day?"
 
-# game/1000_base_game/game/characters/mrsl/mrsl.rpy:1293
+# game/1000_base_game/game/characters/mrsl/mrsl.rpy:1292
 translate crowdin mrsl_flirt_one_11fdb519:
 
     # extend "" nointeract
@@ -282,7 +282,7 @@ translate crowdin mrsl_flirt_two_bc02ed46:
     # mrsl cringe "There's one thing that always sours my mood. Do you know what?"
     mrsl cringe "There's one thing that always sours my mood. Do you know what?"
 
-# game/1000_base_game/game/characters/mrsl/mrsl.rpy:1327
+# game/1000_base_game/game/characters/mrsl/mrsl.rpy:1326
 translate crowdin mrsl_flirt_two_11fdb519:
 
     # extend "" nointeract
@@ -348,7 +348,7 @@ translate crowdin mrsl_flirt_three_98f06b24:
     # mrsl neutral "What's something I consider important in order to get through life?"
     mrsl neutral "What's something I consider important in order to get through life?"
 
-# game/1000_base_game/game/characters/mrsl/mrsl.rpy:1358
+# game/1000_base_game/game/characters/mrsl/mrsl.rpy:1357
 translate crowdin mrsl_flirt_three_11fdb519:
 
     # extend "" nointeract

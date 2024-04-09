@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/12_nurse_excavation.rpy:6
 translate crowdin replay_nurse_excavation_d0c830ab:
@@ -90,7 +90,7 @@ translate crowdin replay_nurse_excavation_75ad3146:
     # kate "[mc], do you think we should give her a rectal examination or a vaginal one?"
     kate "[mc], do you think we should give her a rectal examination or a vaginal one?"
 
-# game/1000_base_game/game/replays/12_nurse_excavation.rpy:24
+# game/1000_base_game/game/replays/12_nurse_excavation.rpy:23
 translate crowdin replay_nurse_excavation_11fdb519:
 
     # extend "" nointeract
@@ -408,7 +408,7 @@ translate crowdin replay_nurse_excavation_fd2733a7:
     # kate "Okay, let's get a second opinion."
     kate "Okay, let's get a second opinion."
 
-# game/1000_base_game/game/replays/12_nurse_excavation.rpy:97
+# game/1000_base_game/game/replays/12_nurse_excavation.rpy:96
 translate crowdin replay_nurse_excavation_11fdb519_1:
 
     # extend "" nointeract

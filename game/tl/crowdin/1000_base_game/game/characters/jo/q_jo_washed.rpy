@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/jo/q_jo_washed.rpy:43
 translate crowdin quest_jo_washed_start_0d7bce5a:
@@ -918,7 +918,7 @@ translate crowdin quest_jo_washed_supplies_garden_hose_942daa7d:
     # maxine neutral "Then, we require the garden hose if we are to stop this blight from spreading."
     maxine neutral "Then, we require the garden hose if we are to stop this blight from spreading."
 
-# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:295
+# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:294
 translate crowdin quest_jo_washed_supplies_garden_hose_11fdb519:
 
     # extend "" nointeract
@@ -1422,7 +1422,7 @@ translate crowdin quest_jo_washed_supplies_car_wash_signs_76e1f08c:
     # kate confident "So, what's it going to be?"
     kate confident "So, what's it going to be?"
 
-# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:432
+# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:431
 translate crowdin quest_jo_washed_supplies_car_wash_signs_11fdb519:
 
     # extend "" nointeract
@@ -1968,7 +1968,7 @@ translate crowdin quest_jo_washed_supplies_janitor_closet_3562f19f:
     # lindsey blush "But maybe I can help if it's locked?"
     lindsey blush "But maybe I can help if it's locked?"
 
-# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:638
+# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:637
 translate crowdin quest_jo_washed_supplies_janitor_closet_11fdb519:
 
     # extend "" nointeract
@@ -2400,7 +2400,7 @@ translate crowdin quest_jo_washed_supplies_jacklyn_4a0fb8e6:
     # jacklyn annoyed_sponges "Do you want to know the truth, or do you want to feel it?"
     jacklyn annoyed_sponges "Do you want to know the truth, or do you want to feel it?"
 
-# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:774
+# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:773
 translate crowdin quest_jo_washed_supplies_jacklyn_11fdb519:
 
     # extend "" nointeract
@@ -3882,7 +3882,7 @@ translate crowdin quest_jo_washed_insecure_bathroom_98bc8e40:
     # "And maybe it was my mind filling up with dopamine, but..."
     "And maybe it was my mind filling up with dopamine, but..."
 
-# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1168
+# game/1000_base_game/game/characters/jo/q_jo_washed.rpy:1167
 translate crowdin quest_jo_washed_insecure_bathroom_11fdb519:
 
     # extend "" nointeract

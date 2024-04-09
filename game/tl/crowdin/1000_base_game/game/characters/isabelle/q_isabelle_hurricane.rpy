@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:6
 translate crowdin quest_isabelle_hurricane_start_2ea29b8d:
@@ -102,7 +102,7 @@ translate crowdin quest_isabelle_hurricane_start_01922518:
     # isabelle sad "I'm not exactly happy, but I currently don't see red."
     isabelle sad "I'm not exactly happy, but I currently don't see red."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:25
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:24
 translate crowdin quest_isabelle_hurricane_start_11fdb519:
 
     # extend "" nointeract
@@ -384,7 +384,7 @@ translate crowdin quest_isabelle_hurricane_maxine_office_155b33ec:
     # maxine skeptical "Why are you snooping around in my office?"
     maxine skeptical "Why are you snooping around in my office?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:94
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:93
 translate crowdin quest_isabelle_hurricane_maxine_office_11fdb519:
 
     # extend "" nointeract
@@ -840,7 +840,7 @@ translate crowdin quest_isabelle_hurricane_guard_booth_f8581c27:
     # "Ugh, am I really that easy to read?"
     "Ugh, am I really that easy to read?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:221
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:220
 translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519:
 
     # extend "" nointeract
@@ -864,7 +864,7 @@ translate crowdin quest_isabelle_hurricane_guard_booth_fa5be798:
     # kate skeptical "Apologize."
     kate skeptical "Apologize."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:229
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:228
 translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519_1:
 
     # extend "" nointeract
@@ -1014,7 +1014,7 @@ translate crowdin quest_isabelle_hurricane_guard_booth_b97aa4e4:
     # kate smile "Now, why would I do that?"
     kate smile "Now, why would I do that?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:262
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:261
 translate crowdin quest_isabelle_hurricane_guard_booth_11fdb519_2:
 
     # extend "" nointeract
@@ -2886,7 +2886,7 @@ translate crowdin quest_isabelle_hurricane_call_isabelle_8616bfd3:
     # isabelle angry "[mc], would you please ring her up? I'm too pissed off to talk\nright now."
     isabelle angry "[mc], would you please ring her up? I'm too pissed off to talk\nright now."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:811
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:810
 translate crowdin quest_isabelle_hurricane_call_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -3072,7 +3072,7 @@ translate crowdin quest_isabelle_hurricane_call_maxine_2500ad19:
     # maxine "Nope. Busy."
     maxine "Nope. Busy."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:865
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:864
 translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519:
 
     # extend "" nointeract
@@ -3804,7 +3804,7 @@ translate crowdin quest_isabelle_hurricane_call_maxine_03f86545:
     # mc "F-fuck! I'm going to—"
     mc "F-fuck! I'm going to—"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1252
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1251
 translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519_1:
 
     # extend "" nointeract
@@ -3870,7 +3870,7 @@ translate crowdin quest_isabelle_hurricane_call_maxine_2d865a14:
     # isabelle locker_cum_outside2 "You're absolutely right."
     isabelle locker_cum_outside2 "You're absolutely right."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1276
+# game/1000_base_game/game/characters/isabelle/q_isabelle_hurricane.rpy:1275
 translate crowdin quest_isabelle_hurricane_call_maxine_11fdb519_2:
 
     # extend "" nointeract

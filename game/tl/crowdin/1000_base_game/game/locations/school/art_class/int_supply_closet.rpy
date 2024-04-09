@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:42
 translate crowdin school_art_class_supply_closet_interact_95047015:
@@ -144,7 +144,7 @@ translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_cd4
     # "But then, I would be devastated if someone gave me up to [kate]."
     "But then, I would be devastated if someone gave me up to [kate]."
 
-# game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:86
+# game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:85
 translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_11fdb519:
 
     # extend "" nointeract
@@ -204,7 +204,7 @@ translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_6cd
     # kate thinking "Hmm..."
     kate thinking "Hmm..."
 
-# game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:103
+# game/1000_base_game/game/locations/school/art_class/int_supply_closet.rpy:102
 translate crowdin school_art_class_supply_closet_kate_quest_search_for_nurse_11fdb519_1:
 
     # extend "" nointeract

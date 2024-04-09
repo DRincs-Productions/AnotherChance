@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2
 translate crowdin quest_kate_moment_start_d812283f:
@@ -84,7 +84,7 @@ translate crowdin quest_kate_moment_start_746ac2b0:
     # "Maybe she grew a conscience, and it's keeping her up at night?"
     "Maybe she grew a conscience, and it's keeping her up at night?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:36
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:35
 translate crowdin quest_kate_moment_start_11fdb519:
 
     # extend "" nointeract
@@ -1080,7 +1080,7 @@ translate crowdin quest_kate_moment_maxine_f5ffbc30:
     # maxine annoyed "Don't interrupt me."
     maxine annoyed "Don't interrupt me."
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:285
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:284
 translate crowdin quest_kate_moment_maxine_11fdb519:
 
     # extend "" nointeract
@@ -1386,7 +1386,7 @@ translate crowdin quest_kate_moment_nurse_00ac805d:
     # nurse annoyed "I, um... I don't know..."
     nurse annoyed "I, um... I don't know..."
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:357
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:356
 translate crowdin quest_kate_moment_nurse_11fdb519:
 
     # extend "" nointeract
@@ -1722,7 +1722,7 @@ translate crowdin quest_kate_moment_jo_ed251d56:
     # jo thinking "Why are you concerned?"
     jo thinking "Why are you concerned?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:433
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:432
 translate crowdin quest_kate_moment_jo_11fdb519:
 
     # extend "" nointeract
@@ -2040,7 +2040,7 @@ translate crowdin quest_kate_moment_break_in_7ce5d710:
     # maxine skeptical "You're not one of them, are you?"
     maxine skeptical "You're not one of them, are you?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:525
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:524
 translate crowdin quest_kate_moment_break_in_11fdb519:
 
     # extend "" nointeract
@@ -2130,7 +2130,7 @@ translate crowdin quest_kate_moment_break_in_e6341502:
     # maxine flirty "Which truth?"
     maxine flirty "Which truth?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:551
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:550
 translate crowdin quest_kate_moment_break_in_11fdb519_1:
 
     # extend "" nointeract
@@ -3600,7 +3600,7 @@ translate crowdin quest_kate_moment_fun_isabelle_69b223ef:
     # isabelle bed_after smile "What exactly are you thinking, then?"
     isabelle bed_after smile "What exactly are you thinking, then?"
 
-# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1237
+# game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1236
 translate crowdin quest_kate_moment_fun_isabelle_11fdb519:
 
     # extend "" nointeract

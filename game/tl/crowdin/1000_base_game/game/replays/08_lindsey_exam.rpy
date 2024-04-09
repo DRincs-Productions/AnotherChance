@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/08_lindsey_exam.rpy:8
 translate crowdin replay_lindsey_exam_a0eb59fc:
@@ -96,7 +96,7 @@ translate crowdin replay_lindsey_exam_2385dc2d:
     # nurse "What in god's name?!"
     nurse "What in god's name?!"
 
-# game/1000_base_game/game/replays/08_lindsey_exam.rpy:28
+# game/1000_base_game/game/replays/08_lindsey_exam.rpy:27
 translate crowdin replay_lindsey_exam_11fdb519:
 
     # extend "" nointeract

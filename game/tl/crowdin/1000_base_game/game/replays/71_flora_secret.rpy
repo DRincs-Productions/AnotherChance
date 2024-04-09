@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/71_flora_secret.rpy:6
 translate crowdin replay_flora_secret_a91dc660:
@@ -192,7 +192,7 @@ translate crowdin replay_flora_secret_4a7d4c23:
     # flora bedroom_hug concerned "We should lock the door..."
     flora bedroom_hug concerned "We should lock the door..."
 
-# game/1000_base_game/game/replays/71_flora_secret.rpy:56
+# game/1000_base_game/game/replays/71_flora_secret.rpy:55
 translate crowdin replay_flora_secret_11fdb519:
 
     # extend "" nointeract
@@ -540,7 +540,7 @@ translate crowdin replay_flora_secret_8661e45f:
     # "The sound of her pleading for my cum, my semen, my hard cock, finally unravels me."
     "The sound of her pleading for my cum, my semen, my hard cock, finally unravels me."
 
-# game/1000_base_game/game/replays/71_flora_secret.rpy:355
+# game/1000_base_game/game/replays/71_flora_secret.rpy:354
 translate crowdin replay_flora_secret_11fdb519_1:
 
     # extend "" nointeract

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11
 translate crowdin quest_nurse_venting_start_c9c79ca7:
@@ -174,7 +174,7 @@ translate crowdin quest_nurse_venting_start_9ffec099:
     # maxine angry_fishing "Help me pull!"
     maxine angry_fishing "Help me pull!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:84
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:83
 translate crowdin quest_nurse_venting_start_11fdb519:
 
     # extend "" nointeract
@@ -564,7 +564,7 @@ translate crowdin quest_nurse_venting_help_c09fb81a:
     # nurse neutral "What is it?"
     nurse neutral "What is it?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:217
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:216
 translate crowdin quest_nurse_venting_help_11fdb519:
 
     # extend "" nointeract
@@ -1086,7 +1086,7 @@ translate crowdin quest_nurse_venting_ready_f96f67db:
     # nurse concerned "Is it time? Into the vent?"
     nurse concerned "Is it time? Into the vent?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:341
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:340
 translate crowdin quest_nurse_venting_ready_11fdb519:
 
     # extend "" nointeract
@@ -3174,7 +3174,7 @@ translate crowdin quest_nurse_venting_maxine_camera_62ca5f4c:
     # nurse vent_crawling video "There's an intersection. Which way should I go?"
     nurse vent_crawling video "There's an intersection. Which way should I go?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:908
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:907
 translate crowdin quest_nurse_venting_maxine_camera_11fdb519:
 
     # extend "" nointeract
@@ -3324,7 +3324,7 @@ translate crowdin quest_nurse_venting_maxine_camera_3428a32e:
     # nurse vent_crawling video "Which way should I go?"
     nurse vent_crawling video "Which way should I go?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:943
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:942
 translate crowdin quest_nurse_venting_maxine_camera_11fdb519_1:
 
     # extend "" nointeract
@@ -3444,7 +3444,7 @@ translate crowdin quest_nurse_venting_maxine_camera_973951a3:
     # mc "Okay, let's pick a direction for you."
     mc "Okay, let's pick a direction for you."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:971
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:970
 translate crowdin quest_nurse_venting_maxine_camera_11fdb519_2:
 
     # extend "" nointeract
@@ -3582,7 +3582,7 @@ translate crowdin quest_nurse_venting_maxine_camera_581582b0:
     # nurse vent_crawling video "Where to next?"
     nurse vent_crawling video "Where to next?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1002
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1001
 translate crowdin quest_nurse_venting_maxine_camera_11fdb519_3:
 
     # extend "" nointeract
@@ -4032,7 +4032,7 @@ translate crowdin quest_nurse_venting_stuck_dc8c8596:
     # mc "You bet. Let's get you wiggling."
     mc "You bet. Let's get you wiggling."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1166
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1165
 translate crowdin quest_nurse_venting_stuck_11fdb519:
 
     # extend "" nointeract

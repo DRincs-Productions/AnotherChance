@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:17
 translate crowdin school_clubroom_doll_interact_42443d95:
@@ -48,7 +48,7 @@ translate crowdin maxine_lines_doll_prison_48a2035d:
     # maxine thinking "There are bigger dangers than the saucer-eyed doll still lurking in the shadows."
     maxine thinking "There are bigger dangers than the saucer-eyed doll still lurking in the shadows."
 
-# game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:35
+# game/1000_base_game/game/locations/school/clubroom/int_doll.rpy:34
 translate crowdin maxine_lines_doll_prison_11fdb519:
 
     # extend "" nointeract

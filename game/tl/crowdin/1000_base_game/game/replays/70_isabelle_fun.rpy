@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/70_isabelle_fun.rpy:13
 translate crowdin replay_isabelle_fun_751e00dd:
@@ -696,7 +696,7 @@ translate crowdin replay_isabelle_fun_69b223ef:
     # isabelle bed_after smile "What exactly are you thinking, then?"
     isabelle bed_after smile "What exactly are you thinking, then?"
 
-# game/1000_base_game/game/replays/70_isabelle_fun.rpy:450
+# game/1000_base_game/game/replays/70_isabelle_fun.rpy:449
 translate crowdin replay_isabelle_fun_11fdb519:
 
     # extend "" nointeract

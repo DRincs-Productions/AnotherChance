@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/replays/52_mrsl_argument.rpy:6
 translate crowdin replay_mrsl_argument_0d65fe83:
@@ -270,7 +270,7 @@ translate crowdin replay_mrsl_argument_b5c97644:
     # "Her pussy is inches away from my face... I can almost taste it..."
     "Her pussy is inches away from my face... I can almost taste it..."
 
-# game/1000_base_game/game/replays/52_mrsl_argument.rpy:75
+# game/1000_base_game/game/replays/52_mrsl_argument.rpy:74
 translate crowdin replay_mrsl_argument_11fdb519:
 
     # extend "" nointeract

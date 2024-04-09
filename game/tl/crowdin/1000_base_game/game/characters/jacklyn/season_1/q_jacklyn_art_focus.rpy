@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:3
 translate crowdin jacklyn_quest_art_focus_start_c48426d3:
@@ -120,7 +120,7 @@ translate crowdin jacklyn_quest_art_focus_start_9accfdf8:
     # jacklyn thinking "Your past art is nothing but petty theft and shop-lifting. I want murder in my class."
     jacklyn thinking "Your past art is nothing but petty theft and shop-lifting. I want murder in my class."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:27
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:26
 translate crowdin jacklyn_quest_art_focus_start_11fdb519:
 
     # extend "" nointeract
@@ -636,7 +636,7 @@ translate crowdin jacklyn_quest_art_focus_jacklyn_14274d2a:
     # jacklyn smile "You've upped your bang from last year. You're welcome to join my special class."
     jacklyn smile "You've upped your bang from last year. You're welcome to join my special class."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:167
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:166
 translate crowdin jacklyn_quest_art_focus_jacklyn_11fdb519:
 
     # extend "" nointeract
@@ -702,7 +702,7 @@ translate crowdin jacklyn_contact_second_chance_4613f5e2:
     # flora eyeroll "My battery is dead and I need to make a call."
     flora eyeroll "My battery is dead and I need to make a call."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:197
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_art_focus.rpy:196
 translate crowdin jacklyn_contact_second_chance_11fdb519:
 
     # extend "" nointeract

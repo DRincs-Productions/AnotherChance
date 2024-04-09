@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:20
 translate crowdin school_nurse_room_flora_torso_vine_interact_fail_407d867b:
@@ -132,7 +132,7 @@ translate crowdin school_nurse_room_laptop_vine_interact_4a0b4f52:
     # "This little vine has no friends and a massive Steam library."
     "This little vine has no friends and a massive Steam library."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:173
+# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:172
 translate crowdin school_nurse_room_laptop_vine_interact_11fdb519:
 
     # extend "" nointeract
@@ -162,7 +162,7 @@ translate crowdin school_nurse_room_teddy_vine_interact_f5bfcd6c:
     # "This little vine seems to need a cuddle. It's using the teddy bear as a substitute for real affection."
     "This little vine seems to need a cuddle. It's using the teddy bear as a substitute for real affection."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:235
+# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:234
 translate crowdin school_nurse_room_teddy_vine_interact_11fdb519:
 
     # extend "" nointeract
@@ -216,7 +216,7 @@ translate crowdin school_nurse_room_poster_vine_interact_49a78599:
     # "This little vine seems to be getting its rocks off to the medical poster."
     "This little vine seems to be getting its rocks off to the medical poster."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:296
+# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:295
 translate crowdin school_nurse_room_poster_vine_interact_11fdb519:
 
     # extend "" nointeract
@@ -282,7 +282,7 @@ translate crowdin school_nurse_room_flora_leftarm_vine_interact_3a315bd7:
     # "This little vine is trying to drag [flora] out the window."
     "This little vine is trying to drag [flora] out the window."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:377
+# game/1000_base_game/game/locations/school/nurse_room/int_vines.rpy:376
 translate crowdin school_nurse_room_flora_leftarm_vine_interact_11fdb519:
 
     # extend "" nointeract

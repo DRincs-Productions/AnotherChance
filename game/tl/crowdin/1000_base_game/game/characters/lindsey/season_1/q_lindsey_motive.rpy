@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:9
 translate crowdin quest_lindsey_motive_start_10b530a7:
@@ -126,7 +126,7 @@ translate crowdin quest_lindsey_motive_start_58cce5bb:
     # lindsey laughing "I'd say so!"
     lindsey laughing "I'd say so!"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:35
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:34
 translate crowdin quest_lindsey_motive_start_11fdb519:
 
     # extend "" nointeract
@@ -360,7 +360,7 @@ translate crowdin quest_lindsey_motive_start_ac335848:
     # "Hmm... feels like less of a date than I expected, but if it helps her..."
     "Hmm... feels like less of a date than I expected, but if it helps her..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:86
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:85
 translate crowdin quest_lindsey_motive_start_11fdb519_1:
 
     # extend "" nointeract
@@ -1716,7 +1716,7 @@ translate crowdin quest_lindsey_motive_date_lindsey_154b3348:
     # "Crap. That's not the question I was hoping for."
     "Crap. That's not the question I was hoping for."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:406
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:405
 translate crowdin quest_lindsey_motive_date_lindsey_11fdb519:
 
     # extend "" nointeract
@@ -2046,7 +2046,7 @@ translate crowdin quest_lindsey_motive_date_lindsey_4a6ed975:
     # mc "[lindsey]..."
     mc "[lindsey]..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:469
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:468
 translate crowdin quest_lindsey_motive_date_lindsey_11fdb519_1:
 
     # extend "" nointeract
@@ -2136,7 +2136,7 @@ translate crowdin quest_lindsey_motive_date_lindsey_4a6ed975_1:
     # mc "[lindsey]..."
     mc "[lindsey]..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:497
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:496
 translate crowdin quest_lindsey_motive_date_lindsey_11fdb519_2:
 
     # extend "" nointeract
@@ -2952,7 +2952,7 @@ translate crowdin quest_lindsey_motive_date_lindsey_1d92d3c1:
     # "But her muffled moaning says it all."
     "But her muffled moaning says it all."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:718
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:717
 translate crowdin quest_lindsey_motive_date_lindsey_11fdb519_3:
 
     # extend "" nointeract
@@ -3216,7 +3216,7 @@ translate crowdin quest_lindsey_motive_date_lindsey_d8785c0b:
     # lindsey flirty "If you ask me the right question now, I might just say yes."
     lindsey flirty "If you ask me the right question now, I might just say yes."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:783
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:782
 translate crowdin quest_lindsey_motive_date_lindsey_11fdb519_4:
 
     # extend "" nointeract
@@ -3402,7 +3402,7 @@ translate crowdin quest_lindsey_motive_date_mrsl_5e9c6f3a:
     # mrsl laughing "That's good to hear. You've really been stepping it up this year."
     mrsl laughing "That's good to hear. You've really been stepping it up this year."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:833
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:832
 translate crowdin quest_lindsey_motive_date_mrsl_11fdb519:
 
     # extend "" nointeract
@@ -3570,7 +3570,7 @@ translate crowdin quest_lindsey_motive_date_mrsl_d08819a2:
     # "Whoa! That's so unlike her... so aggressive and demanding."
     "Whoa! That's so unlike her... so aggressive and demanding."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:878
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:877
 translate crowdin quest_lindsey_motive_date_mrsl_11fdb519_1:
 
     # extend "" nointeract
@@ -3870,7 +3870,7 @@ translate crowdin quest_lindsey_motive_date_mrsl_77ae67d5:
     # mc "[mrsl]..."
     mc "[mrsl]..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:976
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:975
 translate crowdin quest_lindsey_motive_date_mrsl_11fdb519_2:
 
     # extend "" nointeract
@@ -4620,7 +4620,7 @@ translate crowdin quest_lindsey_motive_keys_jo_4de7c485:
     # jo smile "Why do you want it opened?"
     jo smile "Why do you want it opened?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1186
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1185
 translate crowdin quest_lindsey_motive_keys_jo_11fdb519:
 
     # extend "" nointeract
@@ -4674,7 +4674,7 @@ translate crowdin quest_lindsey_motive_keys_guard_ab4bc795:
     # guard "What for?"
     guard "What for?"
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1213
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1212
 translate crowdin quest_lindsey_motive_keys_guard_11fdb519:
 
     # extend "" nointeract
@@ -5136,6 +5136,12 @@ translate crowdin quest_lindsey_motive_steal_locker2_out_of_loop_21713ae2:
     # "Well, there it is. I knew [lindsey] was innocent!{nw}"
     "Well, there it is. I knew [lindsey] was innocent!{nw}"
 
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1453
+translate crowdin quest_lindsey_motive_steal_locker2_out_of_loop_e1f385a7:
+
+    # extend ""
+    extend ""
+
 # game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1454
 translate crowdin quest_lindsey_motive_steal_locker2_out_of_loop_f4e1e949:
 
@@ -5562,7 +5568,7 @@ translate crowdin quest_lindsey_motive_hide_teacher_desk_b5c97644:
     # "Her pussy is inches away from my face... I can almost taste it..."
     "Her pussy is inches away from my face... I can almost taste it..."
 
-# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1611
+# game/1000_base_game/game/characters/lindsey/season_1/q_lindsey_motive.rpy:1610
 translate crowdin quest_lindsey_motive_hide_teacher_desk_11fdb519:
 
     # extend "" nointeract

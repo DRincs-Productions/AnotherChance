@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:17
 translate crowdin school_nurse_room_strikebook_interact_331c5bce:
@@ -18,7 +18,7 @@ translate crowdin school_nurse_room_strikebook_interact_00a9b742:
     # "The [nurse] currently has [nurse_strikes_text] strikes."
     "The [nurse] currently has [nurse_strikes_text] strikes."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:23
+# game/1000_base_game/game/locations/school/nurse_room/int_strikebook.rpy:22
 translate crowdin school_nurse_room_strikebook_interact_11fdb519:
 
     # extend "" nointeract

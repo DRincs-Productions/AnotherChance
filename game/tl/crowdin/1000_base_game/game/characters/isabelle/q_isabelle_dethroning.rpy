@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:8
 translate crowdin quest_isabelle_dethroning_start_f602badf:
@@ -84,7 +84,7 @@ translate crowdin quest_isabelle_dethroning_start_acd7b6c7:
     # isabelle excited "Great! Put on the pig mask, please, and I'll take a blurry photo\nto bring along as evidence."
     isabelle excited "Great! Put on the pig mask, please, and I'll take a blurry photo\nto bring along as evidence."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:24
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:23
 translate crowdin quest_isabelle_dethroning_start_11fdb519:
 
     # extend "" nointeract
@@ -204,7 +204,7 @@ translate crowdin quest_isabelle_dethroning_start_36d8f401:
     # isabelle concerned "Why?"
     isabelle concerned "Why?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:77
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:76
 translate crowdin quest_isabelle_dethroning_start_11fdb519_1:
 
     # extend "" nointeract
@@ -222,7 +222,7 @@ translate crowdin quest_isabelle_dethroning_start_5dc7d42d:
     # isabelle skeptical "What's that supposed to mean?"
     isabelle skeptical "What's that supposed to mean?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:84
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:83
 translate crowdin quest_isabelle_dethroning_start_11fdb519_2:
 
     # extend "" nointeract
@@ -624,7 +624,7 @@ translate crowdin quest_isabelle_dethroning_start_da10e175:
     # isabelle skeptical "Why should {i}I{/} wear it, then?"
     isabelle skeptical "Why should {i}I{/} wear it, then?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:282
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:281
 translate crowdin quest_isabelle_dethroning_start_11fdb519_3:
 
     # extend "" nointeract
@@ -1140,7 +1140,7 @@ translate crowdin quest_isabelle_dethroning_climb_down_742a6387:
     # isabelle laughing "Fair enough!"
     isabelle laughing "Fair enough!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:483
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:482
 translate crowdin quest_isabelle_dethroning_climb_down_11fdb519:
 
     # extend "" nointeract
@@ -1206,7 +1206,7 @@ translate crowdin quest_isabelle_dethroning_climb_down_c310a54c:
     # isabelle excited "Anything specific you have in mind?"
     isabelle excited "Anything specific you have in mind?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:501
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:500
 translate crowdin quest_isabelle_dethroning_climb_down_11fdb519_1:
 
     # extend "" nointeract
@@ -1572,7 +1572,7 @@ translate crowdin quest_isabelle_dethroning_homeroom_sex_63c80949:
     # isabelle confident "And I can wait all day for you to make me."
     isabelle confident "And I can wait all day for you to make me."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:583
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:582
 translate crowdin quest_isabelle_dethroning_homeroom_sex_11fdb519:
 
     # extend "" nointeract
@@ -2058,7 +2058,7 @@ translate crowdin quest_isabelle_dethroning_homeroom_sex_566bedd4:
     # mc "Get it well and ready, because..."
     mc "Get it well and ready, because..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:922
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:921
 translate crowdin quest_isabelle_dethroning_homeroom_sex_11fdb519_1:
 
     # extend "" nointeract
@@ -2412,7 +2412,7 @@ translate crowdin quest_isabelle_dethroning_homeroom_sex_aba8f438:
     # mc "Fuck, here it comes!"
     mc "Fuck, here it comes!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1410
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1409
 translate crowdin quest_isabelle_dethroning_homeroom_sex_11fdb519_2:
 
     # extend "" nointeract
@@ -2712,7 +2712,7 @@ translate crowdin quest_isabelle_dethroning_homeroom_sex_e07b5935:
     # "Fuck, I'm about to explode!"
     "Fuck, I'm about to explode!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1687
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1686
 translate crowdin quest_isabelle_dethroning_homeroom_sex_11fdb519_3:
 
     # extend "" nointeract
@@ -2826,7 +2826,7 @@ translate crowdin quest_isabelle_dethroning_homeroom_sex_95e787ed:
     # isabelle "Well, I... would've liked to have an orgasm."
     isabelle "Well, I... would've liked to have an orgasm."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1718
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1717
 translate crowdin quest_isabelle_dethroning_homeroom_sex_11fdb519_4:
 
     # extend "" nointeract
@@ -3342,7 +3342,7 @@ translate crowdin quest_isabelle_dethroning_key_8c263991:
     # jo skeptical "That doesn't sound good."
     jo skeptical "That doesn't sound good."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1879
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1878
 translate crowdin quest_isabelle_dethroning_key_11fdb519:
 
     # extend "" nointeract
@@ -3720,7 +3720,7 @@ translate crowdin quest_isabelle_dethroning_announcement_84d3a30f:
     # "Thanks a lot, jocks."
     "Thanks a lot, jocks."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1992
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1991
 translate crowdin quest_isabelle_dethroning_announcement_11fdb519:
 
     # extend "" nointeract
@@ -4128,7 +4128,7 @@ translate crowdin quest_isabelle_dethroning_principal_173b4a84:
     # jo sad "Still, rules are rules, I'm afraid."
     jo sad "Still, rules are rules, I'm afraid."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2122
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2121
 translate crowdin quest_isabelle_dethroning_principal_11fdb519:
 
     # extend "" nointeract
@@ -4278,7 +4278,7 @@ translate crowdin quest_isabelle_dethroning_poem_blackboard_42145ce5:
     # "{i}\"This week's assignment is to write a poem about love.\"{/}"
     "{i}\"This week's assignment is to write a poem about love.\"{/}"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2171
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2170
 translate crowdin quest_isabelle_dethroning_poem_blackboard_11fdb519:
 
     # extend "" nointeract
@@ -4416,7 +4416,7 @@ translate crowdin quest_isabelle_dethroning_good_news_1bc0f061:
     # "Hmm... me asking could potentially scare people off... but on the other hand, isn't this what a second chance is all about?"
     "Hmm... me asking could potentially scare people off... but on the other hand, isn't this what a second chance is all about?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2281
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2280
 translate crowdin quest_isabelle_dethroning_good_news_11fdb519:
 
     # extend "" nointeract
@@ -4596,7 +4596,7 @@ translate crowdin quest_isabelle_dethroning_invitations_flora_79ae15d5:
     # flora annoyed "Well, what do you want?"
     flora annoyed "Well, what do you want?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2325
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2324
 translate crowdin quest_isabelle_dethroning_invitations_flora_11fdb519:
 
     # extend "" nointeract
@@ -4662,7 +4662,7 @@ translate crowdin quest_isabelle_dethroning_invitations_flora_b5d818e0:
     # flora angry "What?! How dare you?"
     flora angry "What?! How dare you?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2345
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2344
 translate crowdin quest_isabelle_dethroning_invitations_flora_11fdb519_1:
 
     # extend "" nointeract
@@ -4800,7 +4800,7 @@ translate crowdin quest_isabelle_dethroning_invitations_kate_2b35b6fe:
     # mc "..."
     mc "..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2386
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2385
 translate crowdin quest_isabelle_dethroning_invitations_kate_11fdb519:
 
     # extend "" nointeract
@@ -4968,7 +4968,7 @@ translate crowdin quest_isabelle_dethroning_invitations_lindsey_492b74a9:
     # "Crap. Why is it so hard to talk to cute girls? It always gets awkward."
     "Crap. Why is it so hard to talk to cute girls? It always gets awkward."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2428
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2427
 translate crowdin quest_isabelle_dethroning_invitations_lindsey_11fdb519:
 
     # extend "" nointeract
@@ -5106,7 +5106,7 @@ translate crowdin quest_isabelle_dethroning_invitations_maxine_a55d9762:
     # maxine skeptical "It's out of character for [isabelle] to entrust you with this responsibility."
     maxine skeptical "It's out of character for [isabelle] to entrust you with this responsibility."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2469
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2468
 translate crowdin quest_isabelle_dethroning_invitations_maxine_11fdb519:
 
     # extend "" nointeract
@@ -5154,7 +5154,7 @@ translate crowdin quest_isabelle_dethroning_invitations_maxine_38cf08e9:
     # maxine concerned "Can I trust you to keep a secret?"
     maxine concerned "Can I trust you to keep a secret?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2481
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2480
 translate crowdin quest_isabelle_dethroning_invitations_maxine_11fdb519_1:
 
     # extend "" nointeract
@@ -5520,7 +5520,7 @@ translate crowdin quest_isabelle_dethroning_dinner_b7a25320:
     # isabelle neutral "I'm glad to hear that. This is the first time I've organized something like this, so I'm a bit nervous."
     isabelle neutral "I'm glad to hear that. This is the first time I've organized something like this, so I'm a bit nervous."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2583
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2582
 translate crowdin quest_isabelle_dethroning_dinner_11fdb519:
 
     # extend "" nointeract
@@ -5736,7 +5736,7 @@ translate crowdin quest_isabelle_dethroning_dinner_isabelle_dc33f672:
     # "I need to come up with something to say before it gets awkward..."
     "I need to come up with something to say before it gets awkward..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2643
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2642
 translate crowdin quest_isabelle_dethroning_dinner_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -5886,7 +5886,7 @@ translate crowdin quest_isabelle_dethroning_dinner_isabelle_2100dc2e:
     # "Maybe questions aren't even the right way?"
     "Maybe questions aren't even the right way?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2672
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2671
 translate crowdin quest_isabelle_dethroning_dinner_isabelle_11fdb519_1:
 
     # extend "" nointeract
@@ -6354,7 +6354,7 @@ translate crowdin quest_isabelle_dethroning_dinner_maxine_651ab811:
     # maxine thinking "Now, for your part in this endeavor."
     maxine thinking "Now, for your part in this endeavor."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2786
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2785
 translate crowdin quest_isabelle_dethroning_dinner_maxine_11fdb519:
 
     # extend "" nointeract
@@ -6438,7 +6438,7 @@ translate crowdin quest_isabelle_dethroning_dinner_maxine_2b35b6fe_1:
     # mc "..."
     mc "..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2809
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2808
 translate crowdin quest_isabelle_dethroning_dinner_maxine_11fdb519_1:
 
     # extend "" nointeract
@@ -6762,7 +6762,7 @@ translate crowdin quest_isabelle_dethroning_dinner_picture_kitchen_62211236:
     # "I wonder who the unfortunate soul is..."
     "I wonder who the unfortunate soul is..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2947
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:2946
 translate crowdin quest_isabelle_dethroning_dinner_picture_kitchen_11fdb519:
 
     # extend "" nointeract
@@ -7026,7 +7026,7 @@ translate crowdin quest_isabelle_dethroning_dinner_picture_lindsey_ee8d8d11:
     # lindsey excited "Oh! Exciting! Do you need any help?"
     lindsey excited "Oh! Exciting! Do you need any help?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3036
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3035
 translate crowdin quest_isabelle_dethroning_dinner_picture_lindsey_11fdb519:
 
     # extend "" nointeract
@@ -7638,7 +7638,7 @@ translate crowdin quest_isabelle_dethroning_trap_red_paint_e253d509:
     # isabelle annoyed_left_pig "Do you have the key?"
     isabelle annoyed_left_pig "Do you have the key?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3299
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3298
 translate crowdin quest_isabelle_dethroning_trap_red_paint_11fdb519:
 
     # extend "" nointeract
@@ -7782,7 +7782,7 @@ translate crowdin quest_isabelle_dethroning_trap_red_paint_1fb70144:
     # isabelle annoyed_pigless "And then my dad will wreck them in court."
     isabelle annoyed_pigless "And then my dad will wreck them in court."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3339
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3338
 translate crowdin quest_isabelle_dethroning_trap_red_paint_11fdb519_1:
 
     # extend "" nointeract
@@ -8028,7 +8028,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_door_6e4c42d3:
     # "Hmm... maybe chasing her down is taking things too far?"
     "Hmm... maybe chasing her down is taking things too far?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3467
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3466
 translate crowdin quest_isabelle_dethroning_revenge_art_class_door_11fdb519:
 
     # extend "" nointeract
@@ -8070,7 +8070,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_e9aa
     # "Poetic justice that she's now the one hiding."
     "Poetic justice that she's now the one hiding."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3489
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3488
 translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_11fdb519:
 
     # extend "" nointeract
@@ -8196,7 +8196,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_3c62
     # "Or maybe..."
     "Or maybe..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3529
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3528
 translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_11fdb519_1:
 
     # extend "" nointeract
@@ -8334,7 +8334,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_4ce8
     # "But maybe I can use this to my advantage?"
     "But maybe I can use this to my advantage?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3556
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3555
 translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_11fdb519_2:
 
     # extend "" nointeract
@@ -8466,7 +8466,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_6b1a
     # kate hate_sex_spanking1 "You're really strong, you know?"
     kate hate_sex_spanking1 "You're really strong, you know?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3624
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3623
 translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_11fdb519_3:
 
     # extend "" nointeract
@@ -8496,7 +8496,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_cb14
     # kate hate_sex_tearing_up_spanking1 "Owwww! Stop! That's way too hard!"
     kate hate_sex_tearing_up_spanking1 "Owwww! Stop! That's way too hard!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3666
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3665
 translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_11fdb519_4:
 
     # extend "" nointeract
@@ -8568,7 +8568,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_5145
     # "You torment people for fun, but can't take a little spanking? Pathetic.{space=-20}"
     "You torment people for fun, but can't take a little spanking? Pathetic.{space=-20}"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3708
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3707
 translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_11fdb519_5:
 
     # extend "" nointeract
@@ -8622,7 +8622,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_4e17
     # "Either way, now it's time to claim my prize."
     "Either way, now it's time to claim my prize."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3746
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:3745
 translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_11fdb519_6:
 
     # extend "" nointeract
@@ -9312,7 +9312,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_04be
     # "I'm going to come!"
     "I'm going to come!"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4407
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4406
 translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_11fdb519_7:
 
     # extend "" nointeract
@@ -9606,7 +9606,7 @@ translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_0a94
     # "And now it's time to..."
     "And now it's time to..."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4503
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4502
 translate crowdin quest_isabelle_dethroning_revenge_art_class_supply_closet_11fdb519_8:
 
     # extend "" nointeract
@@ -9882,7 +9882,7 @@ translate crowdin quest_isabelle_dethroning_revenge_done_d9b246e0:
     # isabelle sad "You just threw everything we had away for a quick shag with the bitch queen?"
     isabelle sad "You just threw everything we had away for a quick shag with the bitch queen?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4595
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4594
 translate crowdin quest_isabelle_dethroning_revenge_done_11fdb519:
 
     # extend "" nointeract
@@ -10014,7 +10014,7 @@ translate crowdin quest_isabelle_dethroning_revenge_done_85aca7e7:
     # isabelle annoyed_left "Don't even talk to me. I don't want to hear it."
     isabelle annoyed_left "Don't even talk to me. I don't want to hear it."
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4625
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4624
 translate crowdin quest_isabelle_dethroning_revenge_done_11fdb519_1:
 
     # extend "" nointeract
@@ -10542,7 +10542,7 @@ translate crowdin quest_isabelle_dethroning_revenge_done_arts_wing_exit_337deace
     # mrsl surprised_blowtorch "[mc]? What are you doing here?"
     mrsl surprised_blowtorch "[mc]? What are you doing here?"
 
-# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4806
+# game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:4805
 translate crowdin quest_isabelle_dethroning_revenge_done_arts_wing_exit_11fdb519:
 
     # extend "" nointeract
@@ -11695,10 +11695,6 @@ translate crowdin strings:
     # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1409
     old "Fill her up"
     new "Fill her up"
-
-    # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1409
-    old "Pull out"
-    new "Pull out"
 
     # game/1000_base_game/game/characters/isabelle/q_isabelle_dethroning.rpy:1686
     old "Anal creampie"

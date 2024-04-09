@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-03-29 11:55
 
 # game/1000_base_game/game/locations/school/music_class/int_statue.rpy:26
 translate crowdin school_music_class_statue_interact_dc80c697:
@@ -450,7 +450,7 @@ translate crowdin school_music_class_statue_flirt_03f86545:
     # mc "F-fuck! I'm going to—"
     mc "F-fuck! I'm going to—"
 
-# game/1000_base_game/game/locations/school/music_class/int_statue.rpy:399
+# game/1000_base_game/game/locations/school/music_class/int_statue.rpy:398
 translate crowdin school_music_class_statue_flirt_11fdb519:
 
     # extend "" nointeract
