@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-11-09 19:12\n"
+"PO-Revision-Date: 2024-04-09 10:52\n"
 
-# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:50 #-#-# translate crowdin home_kitchen_mf_interact_flora_bonsai_d6cedc54:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:50 #-#-# translate crowdin home_kitchen_mf_interact_flora_bonsai_d6cedc54:
 msgid "I already got enough items. I should give them to [flora]."
 msgstr ""
 
@@ -36,7 +36,7 @@ msgstr ""
 msgid "What should I grab?"
 msgstr ""
 
-# game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:69 #-#-# translate crowdin home_kitchen_mf_interact_flora_cooking_chilli_distracted_11fdb519:
+# game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:68 #-#-# translate crowdin home_kitchen_mf_interact_flora_cooking_chilli_distracted_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
