@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-19 15:04\n"
+"PO-Revision-Date: 2024-04-09 10:07\n"
 
-# TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/maxine/maxine.rpy:1622 #-#-# translate crowdin maxine_talk_one_e47f2210:
+# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/maxine/maxine.rpy:1622 #-#-# translate crowdin maxine_talk_one_e47f2210:
 msgid "[_maxine_s_afraid_] Not now, the Vending Corporation is trying to pull the wool over my eyes!"
 msgstr "[Pas maintenant, la société de distribution automatique essaie de me faire marcher sur les pieds !"
 
@@ -56,7 +56,7 @@ msgstr "[_maxine_s_skeptical_] Il s'agit d'un exercice de sécurité de routine,
 msgid "[_maxine_s_skeptical_] What is the most dangerous thing in the school?"
 msgstr "[_maxine_s_skeptical_] Quelle est la chose la plus dangereuse dans l'école ?"
 
-# game/1000_base_game/game/characters/maxine/maxine.rpy:1667 #-#-# translate crowdin maxine_flirt_one_11fdb519:
+# game/1000_base_game/game/characters/maxine/maxine.rpy:1666 #-#-# translate crowdin maxine_flirt_one_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -116,7 +116,7 @@ msgstr "[_mc_] Je ne crois pas ?"
 msgid "[_maxine_s_skeptical_] That's not what it looked like to me."
 msgstr "[_maxine_s_skeptical_] Ce n'est pas ce que ça ressembla à moi."
 
-# game/1000_base_game/game/characters/maxine/maxine.rpy:1702 #-#-# translate crowdin maxine_flirt_two_11fdb519:
+# game/1000_base_game/game/characters/maxine/maxine.rpy:1701 #-#-# translate crowdin maxine_flirt_two_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -188,7 +188,7 @@ msgstr "[_maxine_s_smile_] Salutations, camarade Newfaller."
 msgid "[_mc_] I just wanted to tell you that..."
 msgstr "[_mc_] Je voulais juste te dire que ..."
 
-# game/1000_base_game/game/characters/maxine/maxine.rpy:1736 #-#-# translate crowdin maxine_flirt_three_11fdb519:
+# game/1000_base_game/game/characters/maxine/maxine.rpy:1735 #-#-# translate crowdin maxine_flirt_three_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
