@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-04-09 11:05\n"
+"PO-Revision-Date: 2024-04-10 19:51\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # §translate crowdin strings: #|#|# # game/1000_base_game/screens.rpy:256
 msgid "Back"
@@ -124,7 +124,7 @@ msgstr "Сторона відкоту"
 
 # game/1000_base_game/screens.rpy:741
 msgid "Disable"
-msgstr ""
+msgstr "Вимкнути"
 
 # game/1000_base_game/screens.rpy:748
 msgid "Unseen Text"
@@ -160,7 +160,7 @@ msgstr "Тест"
 
 # game/1000_base_game/screens.rpy:791
 msgid "Voice Volume"
-msgstr ""
+msgstr "Гучність озвучення"
 
 # game/1000_base_game/screens.rpy:802
 msgid "Mute All"
@@ -314,11 +314,11 @@ msgstr "Відкалібрувати"
 
 # game/1000_base_game/screens.rpy:1167
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 # game/1000_base_game/screens.rpy:1168
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 # game/1000_base_game/screens.rpy:1214
 msgid "Skipping"
