@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-09 10:15\n"
+"PO-Revision-Date: 2024-04-11 08:33\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:13 #-#-# translate crowdin quest_flora_squid_start_3779c151:
 msgid "[_mc_] Hey, [flora]? Have you seen my electric toothbrush?"
@@ -3582,7 +3582,7 @@ msgstr "\"Tu vas bien ?\""
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1083
 msgid "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|Pull her into a hug"
-msgstr ""
+msgstr "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|Enfoncez-la dans un câlin"
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1083
 msgid "?flora.lust>=10@[flora.lust]/10|{image=flora contact_icon}|{image=stats lust_3}|Touch her ass"
