@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-09 10:09\n"
+"PO-Revision-Date: 2024-04-11 08:28\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:76 #-#-# translate crowdin home_bedroom_closet_kate_fate_dress_ebc2c219:
 msgid "Okay, time to pick my outfit for this endeavor..."
@@ -342,11 +342,11 @@ msgstr "[_flora_s_crying_] Alors pourquoi diable m'as-tu tenu la main ?!"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:250 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_4279e970:
 msgid "[_flora_s_crying_] Then why the hell did you help me bake?!"
-msgstr ""
+msgstr "[_flora_s_crying_] Alors pourquoi l'enfer m'a-t-il aidé à cuire ?!"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:257 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_41f624d9:
 msgid "Well, shit. That took an unexpected turn."
-msgstr ""
+msgstr "« Eh bien, merde, ça a pris une tournure inattendue.»"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:258 #-#-# translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_9787caa1:
 msgid "It seems like that moment meant a lot to her..."
@@ -677,16 +677,18 @@ msgstr "Porter la tenue d'hier"
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:226
 msgid "{image=flora_bonsai_baking}|\"[flora], what's\n"
 "really going on?\""
-msgstr ""
+msgstr "{image=flora_bonsai_baking}|\"[flora], qu'est-ce que\n"
+"se passe vraiment ?"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:226
 msgid "?quest.flora_bonsai['handholding']@|{image=flora_bonsai_handholding}|\"[flora], what's really going on?\""
-msgstr ""
+msgstr "?quest.flora_bonsai['handholding']@|{image=flora_bonsai_handholding}|\"[flora], que se passe-t-il vraiment ?"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:226
 msgid "\"You, me, and [jo] — you know\n"
 "all three of us are terrible liars.\""
-msgstr ""
+msgstr "« Vous, moi, et [jo] — vous savez\n"
+"que nous sommes tous trois de terribles menteurs.»"
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:268
 msgid "Go with [jacklyn]"
