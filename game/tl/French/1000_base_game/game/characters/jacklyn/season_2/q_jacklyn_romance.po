@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-09 10:15\n"
+"PO-Revision-Date: 2024-04-11 08:32\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:3 #-#-# translate crowdin quest_jacklyn_romance_start_05c9661d:
 msgid "[_jacklyn_s_excited_] There he is! Mister art deco himself."
@@ -3201,7 +3201,9 @@ msgstr "\"Je préfère le garder pour moi.\""
 msgid "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|\"I didn't realize it\n"
 "upset you so much.\n"
 "I won't go.\""
-msgstr ""
+msgstr "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|\"Je ne me suis pas rendu compte que\n"
+"vous a beaucoup bouleversé.\n"
+"Je ne vais pas.\""
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:785
 msgid "?flora.lust>=10@[flora.lust]/10|{image=flora contact_icon}|{image=stats lust_3}|\"Hey, [jacklyn] and I\n"
