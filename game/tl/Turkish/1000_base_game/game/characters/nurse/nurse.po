@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-02-09 16:05\n"
+"PO-Revision-Date: 2024-04-17 15:35\n"
 
 # TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/characters/nurse/nurse.rpy:991 #-#-# translate crowdin nurse_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
-msgstr ""
+msgstr "Muhtemelen bugünlük bu kadar gevezelik yeter."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:997 #-#-# translate crowdin nurse_talk_one_b2a06cf4:
 msgid "[_nurse_s_sad_] I studied to become a doctor in med school, but had to change my focus."
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1035 #-#-# translate crowdin nurse_flirt_over_7d6bfd23:
 msgid "She must be sick of my poor attempts at flirting by now..."
-msgstr ""
+msgstr "Şimdiye kadar flört etme çabalarımdan bıkmış olmalı..."
 
 # game/1000_base_game/game/characters/nurse/nurse.rpy:1041 #-#-# translate crowdin nurse_flirt_one_707cd6f6:
 msgid "[_nurse_s_smile_] I am a bit of a stress-eater, not going to lie."
