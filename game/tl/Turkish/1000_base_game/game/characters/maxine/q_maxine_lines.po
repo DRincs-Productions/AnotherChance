@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-04-17 15:35\n"
+"PO-Revision-Date: 2024-04-17 17:07\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:3 #-#-# translate crowdin quest_maxine_lines_start_81141839:
 msgid "[maxine] always seems to be investigating something, and it's usually best not to ask any questions..."
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:20 #-#-# translate crowdin quest_maxine_lines_start_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Ne?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:21 #-#-# translate crowdin quest_maxine_lines_start_c3ce82ca_1:
 msgid "[_maxine_s_skeptical_] How many lamps are there in the ceiling?"
@@ -1238,7 +1238,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:405 #-#-# translate crowdin quest_maxine_lines_insight_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Ne?"
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:406 #-#-# translate crowdin quest_maxine_lines_insight_fa8511b6:
 msgid "[_maxine_s_blush_] Nothing. The experiment is over."
