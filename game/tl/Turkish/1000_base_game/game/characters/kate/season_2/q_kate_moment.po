@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-04-09 10:57\n"
+"PO-Revision-Date: 2024-04-17 09:38\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:2 #-#-# translate crowdin quest_kate_moment_start_d812283f:
 msgid "Huh? This is an odd sight..."
@@ -70,7 +70,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:35 #-#-# translate crowdin quest_kate_moment_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:39 #-#-# translate crowdin quest_kate_moment_start_f686a3cc:
 msgid "[_mc_] That chair doesn't look very comfortable."
@@ -738,7 +738,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:284 #-#-# translate crowdin quest_kate_moment_maxine_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:288 #-#-# translate crowdin quest_kate_moment_maxine_d718a894:
 msgid "[_mc_] I don't have time for this, [maxine]."
@@ -943,7 +943,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:356 #-#-# translate crowdin quest_kate_moment_nurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:360 #-#-# translate crowdin quest_kate_moment_nurse_8f510185:
 msgid "[_mc_] Yes, you do."
@@ -1167,7 +1167,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:432 #-#-# translate crowdin quest_kate_moment_jo_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:436 #-#-# translate crowdin quest_kate_moment_jo_6f76ef61:
 msgid "[_mc_] I like [kate]."
@@ -1379,7 +1379,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:524 #-#-# translate crowdin quest_kate_moment_break_in_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:528 #-#-# translate crowdin quest_kate_moment_break_in_468bdefb:
 msgid "[_mc_] Would a snoop bang on the door with a rock?"
@@ -1439,7 +1439,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:550 #-#-# translate crowdin quest_kate_moment_break_in_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:555 #-#-# translate crowdin quest_kate_moment_break_in_cd7a2f3c:
 msgid "[_mc_] The meaning of love."
@@ -2426,7 +2426,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1236 #-#-# translate crowdin quest_kate_moment_fun_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
-msgstr ""
+msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/kate/season_2/q_kate_moment.rpy:1239 #-#-# translate crowdin quest_kate_moment_fun_isabelle_9ef80e50:
 msgid "[_mc_] I bet it's because she's developed a split personality."
