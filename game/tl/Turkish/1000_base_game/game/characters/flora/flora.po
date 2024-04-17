@@ -10,35 +10,35 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-04-17 09:36\n"
+"PO-Revision-Date: 2024-04-17 15:34\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/flora.rpy:2614 #-#-# translate crowdin flora_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
-msgstr ""
+msgstr "Muhtemelen bugünlük bu kadar gevezelik yeter."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2618 #-#-# translate crowdin flora_flirt_over_7d6bfd23:
 msgid "She must be sick of my poor attempts at flirting by now..."
-msgstr ""
+msgstr "Şimdiye kadar flört etme çabalarımdan bıkmış olmalı..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2623 #-#-# translate crowdin flora_talk_one_07382af7:
 msgid "[_flora_s_annoyed_] I'm watching you, [mc]."
-msgstr ""
+msgstr "[_flora_s_annoyed_] Seni izliyorum, [mc]."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2624 #-#-# translate crowdin flora_talk_one_cb9b6d33:
 msgid "[_flora_s_annoyed_] And just so we're clear, that does not mean you have to do a silly dance."
-msgstr ""
+msgstr "[_flora_s_annoyed_] Açık olalım, bu aptalca bir dans yapmanız gerektiği anlamına gelmiyor."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2625 #-#-# translate crowdin flora_talk_one_03b3189a:
 msgid "[_mc_] You mean like this?"
-msgstr ""
+msgstr "[_mc_] Böyle mi demek istiyorsun?"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2626 #-#-# translate crowdin flora_talk_one_fdfd1f8f:
 msgid "[_flora_s_embarrassed_] ..."
-msgstr ""
+msgstr "[_flora_s_embarrassed_] ..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2627 #-#-# translate crowdin flora_talk_one_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2628 #-#-# translate crowdin flora_talk_one_deb24e58:
 msgid "[_flora_s_confused_] You didn't even move!"
@@ -254,7 +254,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2779 #-#-# translate crowdin flora_flirt_four_0b9983b5:
 msgid "[_flora_s_annoyed_] Tell me something that's true."
-msgstr ""
+msgstr "[_flora_s_annoyed_] Bana doğru olan bir şeyi söyle."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2781 #-#-# translate crowdin flora_flirt_four_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -262,51 +262,51 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2785 #-#-# translate crowdin flora_flirt_four_f3902881:
 msgid "[_mc_] You've banned me from your room indefinitely, but you secretly regret it."
-msgstr ""
+msgstr "[_mc_] Beni odanızdan süresiz olarak yasakladınız, ama içten içe pişmanlık duyuyorsunuz."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2786 #-#-# translate crowdin flora_flirt_four_36531987:
 msgid "[_flora_s_laughing_] I told you to stop telling lies!"
-msgstr ""
+msgstr "[_flora_s_laughing_] Sana yalan söylemekten vazgeçmeni söylemiştim!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2789 #-#-# translate crowdin flora_flirt_four_3e8bd182:
 msgid "[_mc_] You like watching me dance."
-msgstr ""
+msgstr "[_mc_] Beni dans ederken izlemek hoşuna gidiyor."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2790 #-#-# translate crowdin flora_flirt_four_e94bb921:
 msgid "[_flora_s_embarrassed_] I don't think anyone on this planet likes your moves..."
-msgstr ""
+msgstr "[_flora_s_embarrassed_] Bu gezegendeki kimsenin senin hareketlerini beğenmediğini düşünüyorum..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2793 #-#-# translate crowdin flora_flirt_four_a15f14cc:
 msgid "[_mc_] You secretly wish you could dress more provocatively."
-msgstr ""
+msgstr "[_mc_] İçten içe daha kışkırtıcı giyinmek istiyorsunuz."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2794 #-#-# translate crowdin flora_flirt_four_127d5294:
 msgid "[_flora_s_laughing_] I don't know about that!"
-msgstr ""
+msgstr "[_flora_s_laughing_] Bundan emin değilim!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2795 #-#-# translate crowdin flora_flirt_four_854c82e7:
 msgid "[_mc_] I meant punk-provocative. Not slutty-provocative."
-msgstr ""
+msgstr "[_mc_] [Punk kışkırtıcılığını kastetmiştim. Sürtük-kışkırtıcı değil."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2798 #-#-# translate crowdin flora_flirt_four_e393b9e4:
 msgid "[_flora_s_neutral_] Oh. Yeah... I'd like to try, at least."
-msgstr ""
+msgstr "[_flora_s_neutral_] Oh. Evet... En azından denemek isterim."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2801 #-#-# translate crowdin flora_flirt_four_ba29fbac:
 msgid "[_mc_] You'd like to cuddle with me in a cottage up north."
-msgstr ""
+msgstr "[_mc_] [Benimle kuzeydeki bir kulübede kucaklaşmak ister misin."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2802 #-#-# translate crowdin flora_flirt_four_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr ""
+msgstr "[_flora_s_cringe_] İğrenç."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2809 #-#-# translate crowdin flora_flirt_five_4151ddcf:
 msgid "[_flora_s_concerned_] Since you enjoy embarrassing me so much..."
-msgstr ""
+msgstr "[_flora_s_concerned_] [Beni utandırmaktan bu kadar keyif aldığınıza göre..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2810 #-#-# translate crowdin flora_flirt_five_567edf05:
 msgid "[_flora_s_concerned_] Tell me something about me that is wholesome but embarrassing."
-msgstr ""
+msgstr "[_flora_s_concerned_] Bana hakkımda sağlıklı ama utanç verici bir şey söyleyin."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2812 #-#-# translate crowdin flora_flirt_five_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -314,117 +314,117 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2816 #-#-# translate crowdin flora_flirt_five_ff9832b6:
 msgid "[_mc_] You're eighteen and still have an army of plushies guarding your bed."
-msgstr ""
+msgstr "[_mc_] [On sekiz yaşındasın ve hâlâ yatağını koruyan bir peluş ordusu var."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2819 #-#-# translate crowdin flora_flirt_five_44c2224b:
 msgid "[_flora_s_laughing_] I guess that's true."
-msgstr ""
+msgstr "[_flora_s_laughing_] [Sanırım bu doğru."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2822 #-#-# translate crowdin flora_flirt_five_efe63277:
 msgid "[_mc_] You sometimes leave the door to the bathroom unlocked on purpose."
-msgstr ""
+msgstr "[_mc_] [Bazen banyonun kapısını bilerek açık bırakıyorsun."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2823 #-#-# translate crowdin flora_flirt_five_b9faea14:
 msgid "[_flora_s_angry_] Even if that wasn't a complete lie, how is it wholesome in any way?"
-msgstr ""
+msgstr "[_flora_s_angry_] Bu tamamen yalan olmasa bile, nasıl sağlıklı olabilir ki?"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2824 #-#-# translate crowdin flora_flirt_five_ec6968fc:
 msgid "[_mc_] Charity work is wholesome, [flora]."
-msgstr ""
+msgstr "[_mc_] [Hayır işleri sağlıklıdır, [flora]."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2827 #-#-# translate crowdin flora_flirt_five_410f5f13:
 msgid "[_mc_] You always give me a hard time because you secretly like me."
-msgstr ""
+msgstr "[_mc_] [Gizliden gizliye benden hoşlandığın için bana hep zorluk çıkarıyorsun."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2828 #-#-# translate crowdin flora_flirt_five_34425ff9:
 msgid "[_flora_s_eyeroll_] Don't flatter yourself."
-msgstr ""
+msgstr "[_flora_s_eyeroll_] [Kendini övme."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2831 #-#-# translate crowdin flora_flirt_five_9f07f6f7:
 msgid "[_mc_] You act all prim and proper around [jo] to get her on my ass."
-msgstr ""
+msgstr "[_mc_] Onu kıçıma getirmek için [jo]'nun yanında çok nazik ve düzgün davranıyorsun."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2832 #-#-# translate crowdin flora_flirt_five_49434ec0:
 msgid "[_flora_s_excited_] That's just war strategy."
-msgstr ""
+msgstr "[_flora_s_excited_] [Bu sadece savaş stratejisi."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/flora/flora.rpy:2685
 msgid "\"Calamari.\""
-msgstr ""
+msgstr "\"Kalamar.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2685
 msgid "\"French snails.\""
-msgstr ""
+msgstr "\"Fransız salyangozları.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2685
 msgid "\"Haggis.\""
-msgstr ""
+msgstr "\"Haggis.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2685
 msgid "\"Chili con carne!\""
-msgstr ""
+msgstr "\"Chili con carne!\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2724
 msgid "\"Ants!\""
-msgstr ""
+msgstr "\"Karıncalar!\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2724
 msgid "\"Giant squids.\""
-msgstr ""
+msgstr "\"Dev mürekkep balıkları.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2724
 msgid "\"Cats.\""
-msgstr ""
+msgstr "\"Kediler.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2724
 msgid "\"Badgers.\""
-msgstr ""
+msgstr "\"Porsuklar.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2752
 msgid "\"A dinner at a fancy restaurant.\""
-msgstr ""
+msgstr "\"Şık bir restoranda akşam yemeği.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2752
 msgid "\"A walk on a beach at sunset.\""
-msgstr ""
+msgstr "\"Gün batımında sahilde bir yürüyüş.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2752
 msgid "\"A hike through an ancient forest.\""
-msgstr ""
+msgstr "\"Eski bir ormanda yürüyüş.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2752
 msgid "\"Video games and pizza at home.\""
-msgstr ""
+msgstr "\"Video oyunları ve evde pizza.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2781
 msgid "\"You've banned me from your room indefinitely, but you secretly regret it.\""
-msgstr ""
+msgstr "\"Beni odanızdan süresiz olarak men ettiniz ama içten içe pişmanlık duyuyorsunuz.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2781
 msgid "\"You like watching me dance.\""
-msgstr ""
+msgstr "\"Beni dans ederken izlemeyi seviyorsun.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2781
 msgid "\"You secretly wish you could dress more provocatively.\""
-msgstr ""
+msgstr "\"İçten içe daha kışkırtıcı giyinmek istiyorsunuz.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2781
 msgid "\"You'd like to cuddle with me in a cottage up north.\""
-msgstr ""
+msgstr "\"Benimle kuzeydeki bir kulübede kucaklaşmak ister misin?\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2812
 msgid "\"You're eighteen and still have an army of plushies guarding your bed.\""
-msgstr ""
+msgstr "\"On sekiz yaşındasın ve hâlâ yatağını koruyan bir peluş ordusu var.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2812
 msgid "\"You sometimes leave the door to the bathroom unlocked on purpose.\""
-msgstr ""
+msgstr "\"Bazen banyonun kapısını bilerek açık bırakıyorsun.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2812
 msgid "\"You always give me a hard time because you secretly like me.\""
-msgstr ""
+msgstr "\"Bana hep zorluk çıkarıyorsun çünkü gizliden gizliye benden hoşlanıyorsun.\""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2812
 msgid "\"You act all prim and proper around [jo] to get her on my ass.\""
-msgstr ""
+msgstr "\"Onu kıçımın üstüne oturtmak için [jo]'nun yanında çok nazik ve düzgün davranıyorsun.\""
 
