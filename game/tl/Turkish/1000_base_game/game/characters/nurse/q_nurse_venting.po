@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-04-17 15:35\n"
+"PO-Revision-Date: 2024-04-17 17:07\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11 #-#-# translate crowdin quest_nurse_venting_start_c9c79ca7:
 msgid "[_mc_] I don't believe what I'm seeing."
@@ -2851,7 +2851,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1157 #-#-# translate crowdin quest_nurse_venting_stuck_11455b53:
 msgid "[_mc_] What?"
-msgstr ""
+msgstr "[_mc_] Ne?"
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1158 #-#-# translate crowdin quest_nurse_venting_stuck_46b1618d:
 msgid "[_nurse_] That's a bit inappropriate..."
