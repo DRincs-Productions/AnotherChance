@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-04-17 09:36\n"
+"PO-Revision-Date: 2024-04-17 11:05\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:4 #-#-# translate crowdin berb_quest_fight_start_325436f1:
 msgid "Huh? I thought I killed that beaver."
@@ -58,7 +58,7 @@ msgstr "{i}*Kunduz sesleri*{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:59 #-#-# translate crowdin berb_quest_fight_roof_1261243a:
 msgid "Okay, let's see what he's saying now..."
-msgstr ""
+msgstr "Tamam, bakalım şimdi ne diyor..."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:60 #-#-# translate crowdin berb_quest_fight_roof_d661131d:
 msgid "[_berb_] You yellow-bellied hockerspock! You're lucky I'm up here!"
@@ -66,23 +66,23 @@ msgstr "[_berb_] Seni sarı göbekli hockerspock! Burada olduğum için şanslı
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:61 #-#-# translate crowdin berb_quest_fight_roof_2ca475d5:
 msgid "[_mc_] What are you going to do? Splash water on me?"
-msgstr ""
+msgstr "[_mc_] Ne yapacaksın? Üzerime su mu sıçratacaksın?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:62 #-#-# translate crowdin berb_quest_fight_roof_f9eb2f18:
 msgid "[_berb_] I'll gnaw off your fingers and clog your toilet with the bones!"
-msgstr ""
+msgstr "[_berb_] Parmaklarını kemirip kemikleriyle tuvaletini tıkacağım!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:63 #-#-# translate crowdin berb_quest_fight_roof_bf63c373:
 msgid "Holy crap. This creature is vile."
-msgstr ""
+msgstr "Vay anasını. Bu yaratık iğrenç."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:65 #-#-# translate crowdin berb_quest_fight_roof_2fedddb3:
 msgid "[_berb_] Your kneecaps will decorate the walls of my nest!"
-msgstr ""
+msgstr "[_berb_] Diz kapakların yuvamın duvarlarını süsleyecek!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:68 #-#-# translate crowdin berb_quest_fight_roof_2c1ab83e:
 msgid "[_lindsey_s_skeptical_] What's that noise?"
-msgstr ""
+msgstr "[_lindsey_s_skeptical_] Bu ses de ne?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:70 #-#-# translate crowdin berb_quest_fight_roof_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -90,87 +90,87 @@ msgstr "[_extend_]  [nointeract]"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:74 #-#-# translate crowdin berb_quest_fight_roof_237fe62f:
 msgid "[_mc_] It's that fucking beaver."
-msgstr ""
+msgstr "[_mc_] Bu o lanet kunduz."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:75 #-#-# translate crowdin berb_quest_fight_roof_25cf143e:
 msgid "[_lindsey_s_cringe_] Language, please!"
-msgstr ""
+msgstr "[_lindsey_s_cringe_] Dil, lütfen!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:76 #-#-# translate crowdin berb_quest_fight_roof_55133a71:
 msgid "[_mc_] You should tell him that..."
-msgstr ""
+msgstr "[_mc_] Bunu ona söylemelisin..."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:77 #-#-# translate crowdin berb_quest_fight_roof_4b18577f:
 msgid "[_lindsey_s_thinking_] He looks fine to me."
-msgstr ""
+msgstr "[_lindsey_s_thinking_] Bana iyi göründü."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:79 #-#-# translate crowdin berb_quest_fight_roof_9babfc96:
 msgid "[_mc_] He just called you a spoiled princess and said he has a bucket of peas ready."
-msgstr ""
+msgstr "[_mc_] Az önce sana şımarık bir prenses dedi ve bir kova bezelye hazırladığını söyledi."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:80 #-#-# translate crowdin berb_quest_fight_roof_6c5b7c97:
 msgid "[_lindsey_s_cringe_] Is that supposed to be funny?"
-msgstr ""
+msgstr "[_lindsey_s_cringe_] Bunun komik olması mı gerekiyor?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:81 #-#-# translate crowdin berb_quest_fight_roof_f9c9e764:
 msgid "[_mc_] No! It was rude as hell!"
-msgstr ""
+msgstr "[_mc_] Hayır! Çok kabaydı!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:83 #-#-# translate crowdin berb_quest_fight_roof_4e2ae96b:
 msgid "[_lindsey_s_angry_] If I'm the princess, I need to find myself a new court jester. Your jokes are lame."
-msgstr ""
+msgstr "[_lindsey_s_angry_] Eğer prenses bensem, kendime yeni bir saray soytarısı bulmam lazım. Şakaların berbat."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:87 #-#-# translate crowdin berb_quest_fight_roof_8198040f:
 msgid "[_mc_] What noise? I didn't hear anything."
-msgstr ""
+msgstr "[_mc_] Ne sesi? Ben bir şey duymadım."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:88 #-#-# translate crowdin berb_quest_fight_roof_843f5cf4:
 msgid "[_lindsey_s_afraid_] Look! There's a beaver on the roof!"
-msgstr ""
+msgstr "[_lindye_s_afraid_] Bak! Çatıda bir kunduz var!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:89 #-#-# translate crowdin berb_quest_fight_roof_a42ad403:
 msgid "[_mc_] Yeah, I guess you're right."
-msgstr ""
+msgstr "[_mc_] Evet, sanırım haklısın."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:90 #-#-# translate crowdin berb_quest_fight_roof_d7ba4e99:
 msgid "[_lindsey_s_blush_] Aren't you going to save him?"
-msgstr ""
+msgstr "[_lindsey_s_blush_] Onu kurtarmayacak mısın?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:91 #-#-# translate crowdin berb_quest_fight_roof_44c6b31c:
 msgid "[_mc_] Hell no! That furry devil just cursed at me."
-msgstr ""
+msgstr "[_mc_] -Hayır! O tüylü şeytan beni lanetledi."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:92 #-#-# translate crowdin berb_quest_fight_roof_a9c895f9:
 msgid "[_lindsey_s_thinking_] Really? What if he falls?"
-msgstr ""
+msgstr "[_lindsey_s_thinking_] -Gerçekten mi? Ya düşerse?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:93 #-#-# translate crowdin berb_quest_fight_roof_bd3c079a:
 msgid "[_mc_] I'd celebrate his demise."
-msgstr ""
+msgstr "[_mc_] Onun ölümünü kutlarım."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:95 #-#-# translate crowdin berb_quest_fight_roof_6565dec3:
 msgid "[_lindsey_s_cringe_] That's not cool. Where is your sense of heroics?"
-msgstr ""
+msgstr "[_lindsey_s_cringe_] Bu hiç hoş değil. Kahramanlık duygun nerede?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:97 #-#-# translate crowdin berb_quest_fight_roof_a7fd50e3:
 msgid "Ugh, she looked really disappointed."
-msgstr ""
+msgstr "Gerçekten hayal kırıklığına uğramış görünüyordu."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:98 #-#-# translate crowdin berb_quest_fight_roof_02024507:
 msgid "And it's all that beaver's fault. He tricked me."
-msgstr ""
+msgstr "Ve hepsi o kunduzun suçu. Beni kandırdı."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:100 #-#-# translate crowdin berb_quest_fight_roof_253a1245:
 msgid "That cocksucker is mocking me now. There are few things that rile me up as much as that noise."
-msgstr ""
+msgstr "O ibne şimdi benimle alay ediyor. Beni bu ses kadar sinirlendiren çok az şey vardır."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:101 #-#-# translate crowdin berb_quest_fight_roof_5ab10d6b:
 msgid "My vengeance will be swift... as soon as I figure out how to get him down..."
-msgstr ""
+msgstr "İntikamım hızlı olacak... Onu nasıl indireceğimi bulur bulmaz..."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:104 #-#-# translate crowdin berb_quest_fight_roof_42b2d35b:
 msgid "[_mc_] Let's be friends, little buddy."
-msgstr ""
+msgstr "[_mc_] Arkadaş olalım, küçük dostum."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:114 #-#-# translate crowdin berb_quest_fight_roof_b5785acb_3:
 msgid "{i}*Beaver noises*{/}"
@@ -178,43 +178,43 @@ msgstr "{i}*Kunduz sesleri*{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:117 #-#-# translate crowdin berb_quest_fight_roof_1261243a_1:
 msgid "Okay, let's see what he's saying now..."
-msgstr ""
+msgstr "Tamam, bakalım şimdi ne diyor..."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:118 #-#-# translate crowdin berb_quest_fight_roof_51d162db:
 msgid "[_berb_] Your bones will make great additions to my dam!"
-msgstr ""
+msgstr "[Kemikleriniz barajıma harika katkılar sağlayacak!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:119 #-#-# translate crowdin berb_quest_fight_roof_d3ec48b3:
 msgid "[_mc_] What the hell?"
-msgstr ""
+msgstr "[_mc_] Bu da ne?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:120 #-#-# translate crowdin berb_quest_fight_roof_cf82ce69:
 msgid "[_berb_] I'll fill your skull with seaweed and smoke it like pot!"
-msgstr ""
+msgstr "[_berb_] Kafatasını deniz yosunu ile doldurup ot gibi içeceğim!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:121 #-#-# translate crowdin berb_quest_fight_roof_3149c5ef:
 msgid "[_mc_] That's messed up."
-msgstr ""
+msgstr "[_mc_] Bu berbat bir şey."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:122 #-#-# translate crowdin berb_quest_fight_roof_1d31ab26:
 msgid "[_berb_] I'll spank your sister with my paddle tail and make her gnaw my log!"
-msgstr ""
+msgstr "[_berb_] Kız kardeşinizi kürek kuyruğumdan şaplak atarım ve günlüğümü kemireceğim!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:123 #-#-# translate crowdin berb_quest_fight_roof_f6b04fed:
 msgid "[_mc_] Seriously? Don't talk about my sister!"
-msgstr ""
+msgstr "[_mc_] Cidden mi? Ablam hakkında konuşma!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:126 #-#-# translate crowdin berb_quest_fight_roof_4301053e:
 msgid "[_flora_s_skeptical_s_flip_] Why are you yelling?"
-msgstr ""
+msgstr "[_flora_s_skeptical_s_flip_] Neden bağırıyorsun?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:127 #-#-# translate crowdin berb_quest_fight_roof_5e22f4a9:
 msgid "[_mc_] Err... hi there, [flora]."
-msgstr ""
+msgstr "[_mc_] Err... merhaba, [flora]."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:128 #-#-# translate crowdin berb_quest_fight_roof_c9062852:
 msgid "[_mc_] There's a foul-mouthed beaver on the roof!"
-msgstr ""
+msgstr "[_mc_] Çatıda, ağzı bozuk bir kunduz var!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:129 #-#-# translate crowdin berb_quest_fight_roof_045a3b85:
 msgid "[_flora_s_afraid_s_flip_] What?"
@@ -426,27 +426,27 @@ msgstr ""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:215 #-#-# translate crowdin berb_quest_fight_ground_16adb1e7:
 msgid "I'm sure that bastard will be back here gloating in no time."
-msgstr ""
+msgstr "Eminim o piç kurusu kısa sürede buraya dönüp kına yakacaktır."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:224 #-#-# translate crowdin berb_quest_items_52ecb5a5:
 msgid "{i}\"The common beaver (Latin: Beavus Pestus) belongs to a family of large rodents that infests the world's forests.\"{/}"
-msgstr ""
+msgstr "{i}\"Adi kunduz (Latince: Beavus Pestus), dünya ormanlarını istila eden büyük bir kemirgen ailesine aittir.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:225 #-#-# translate crowdin berb_quest_items_4bc654e9:
 msgid "{i}\"Throughout history, their distinct sounds and ways of communication have attracted the interests of many scientists and nature experts.\"{/}"
-msgstr ""
+msgstr "{i}\"Tarih boyunca, farklı sesleri ve iletişim biçimleri birçok bilim insanı ve doğa uzmanının ilgisini çekmiştir.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:226 #-#-# translate crowdin berb_quest_items_221844cd:
 msgid "{i}\"In 1997, the naturologist and famous hunter J. J. Timberlake decoded the language of the beavers.\"{/}"
-msgstr ""
+msgstr "{i}\"1997 yılında doğa bilimci ve ünlü avcı J. J. Timberlake kunduzların dilini çözdü.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:227 #-#-# translate crowdin berb_quest_items_cb4ba479:
 msgid "{i}\"This instantly worsened human-beaver relationships across the globe, and started what can only be described as a cold war.\"{/}"
-msgstr ""
+msgstr "{i}\"Bu, dünya genelinde insan-kunduz ilişkilerini anında kötüleştirdi ve ancak soğuk savaş olarak tanımlanabilecek bir süreci başlattı.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:228 #-#-# translate crowdin berb_quest_items_2967bd8a:
 msgid "{i}\"This encyclopedia contains the full translations of beaver tongue — a language so foul that the consensus among linguists is that it should join Latin, Coptic, Summerian, and Sanskrit on the list of dead languages.\"{/}"
-msgstr ""
+msgstr "{i}\"Bu ansiklopedi, dilbilimciler arasında ölü diller listesinde Latince, Koptça, Sümerce ve Sanskritçe'ye katılması gerektiği konusunda fikir birliğine varılacak kadar kötü bir dil olan kunduz dilinin tam çevirilerini içermektedir.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:229 #-#-# translate crowdin berb_quest_items_883fcfbe:
 msgid "Okay, let's see what that critter is actually saying. This book seems to have the translations."
