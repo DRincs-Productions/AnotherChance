@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-04-17 11:05\n"
+"PO-Revision-Date: 2024-04-17 12:55\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:4 #-#-# translate crowdin berb_quest_fight_start_325436f1:
 msgid "Huh? I thought I killed that beaver."
@@ -450,131 +450,131 @@ msgstr "{i}\"Bu ansiklopedi, dilbilimciler arasında ölü diller listesinde Lat
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:229 #-#-# translate crowdin berb_quest_items_883fcfbe:
 msgid "Okay, let's see what that critter is actually saying. This book seems to have the translations."
-msgstr ""
+msgstr "Tamam, bakalım bu yaratık gerçekte ne diyor. Bu kitapta çeviriler var gibi görünüyor."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:232 #-#-# translate crowdin berb_quest_items_63f8c586:
 msgid "Throwing my [item.title_lower] at it would attract the scorn of all local beavers. Not risking my life this early in the week."
-msgstr ""
+msgstr "[item.title_lower]'ımı ona fırlatmak tüm yerel kunduzların aşağılamasını çekecektir. Haftanın bu erken saatinde hayatımı riske atamam."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:236 #-#-# translate crowdin berb_quest_items_71e96454:
 msgid "{i}\"A beaver's natural habitat consists of wooded areas with streams of water.\"{/}"
-msgstr ""
+msgstr "{i}\"Bir kunduzun doğal yaşam alanı, su akıntıları olan ormanlık alanlardan oluşur.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:237 #-#-# translate crowdin berb_quest_items_2f5e1805:
 msgid "{i}\"They use their sharp teeth to gnaw down trees to build their dams.\"{/}"
-msgstr ""
+msgstr "{i}\"Barajlarını inşa etmek için keskin dişlerini ağaçları kemirmek için kullanırlar.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:238 #-#-# translate crowdin berb_quest_items_f93756b3:
 msgid "{i}\"They use their sharp tongues to spit insults at predators (or really, anyone else who happens to cross their path).\"{/}"
-msgstr ""
+msgstr "{i}\"Keskin dillerini yırtıcılara (ya da gerçekten yollarına çıkan herkese) hakaretler savurmak için kullanırlar.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:239 #-#-# translate crowdin berb_quest_items_dd4c2dc7:
 msgid "{i}\"They slap their tails against the surface of the water for attention. These rodents are known for their egocentric worldview.\"{/}"
-msgstr ""
+msgstr "{i}\"Dikkat çekmek için kuyruklarını suyun yüzeyine vururlar. Bu kemirgenler benmerkezci dünya görüşleriyle tanınırlar.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:240 #-#-# translate crowdin berb_quest_items_df182414:
 msgid "{i}\"In the 1980s, there used to be over 60 million beavers in North America. Thankfully, most have been hunted down today.\"{/}"
-msgstr ""
+msgstr "{i}\"1980'lerde Kuzey Amerika'da 60 milyondan fazla kunduz vardı. Neyse ki bugün çoğu avlanmış durumda.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:243 #-#-# translate crowdin berb_quest_items_4aae112c:
 msgid "He escaped again, but perhaps I can track him into the forest this time."
-msgstr ""
+msgstr "Yine kaçtı ama belki bu sefer ormanda izini sürebilirim."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:246 #-#-# translate crowdin berb_quest_items_69c02627:
 msgid "{i}\"Also known as 'floaters,' these pieces of nocturnal shit clog up most streams if left unchecked.\"{/}"
-msgstr ""
+msgstr "{i}\"'Yüzenler' olarak da bilinen bu gece pislikleri, kontrol edilmedikleri takdirde çoğu akarsuyu tıkar.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:247 #-#-# translate crowdin berb_quest_items_9d8f063f:
 msgid "{i}\"The beavers' merciless deforestation of nature reserves and ecological systems is a danger to all wildlife.\"{/}"
-msgstr ""
+msgstr "{i}\"Kunduzların doğa rezervlerini ve ekolojik sistemleri acımasızca tahrip etmesi tüm vahşi yaşam için bir tehlikedir.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:248 #-#-# translate crowdin berb_quest_items_5c07fb73:
 msgid "{i}\"No forests means no oxygen, which makes their intent quite clear — suffocating the planet.\"{/}"
-msgstr ""
+msgstr "{i}\"Ormanların olmaması oksijenin de olmaması anlamına geliyor ki bu da niyetlerini açıkça ortaya koyuyor: gezegeni boğmak.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:249 #-#-# translate crowdin berb_quest_items_f9d05617:
 msgid "{i}\"Polluting a body of water is the simplest way of getting a beaver out of its fortified bunker (sometimes referred to as a 'dam').\"{/}"
-msgstr ""
+msgstr "{i}\"Bir su kütlesini kirletmek, bir kunduzu tahkim edilmiş sığınağından (bazen 'baraj' olarak da adlandırılır) çıkarmanın en basit yoludur.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:250 #-#-# translate crowdin berb_quest_items_6c0cd87e:
 msgid "That pretty much sums up my thoughts on beavers, as well."
-msgstr ""
+msgstr "Bu benim kunduzlar hakkındaki düşüncelerimi de özetliyor."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:251 #-#-# translate crowdin berb_quest_items_acff2155:
 msgid "According to that book, the only way of getting that vermin out of the water is polluting the stream."
-msgstr ""
+msgstr "Bu kitaba göre, bu haşereyi sudan çıkarmanın tek yolu dereyi kirletmektir."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:252 #-#-# translate crowdin berb_quest_items_12ff1055:
 msgid "Single-use plastics and toxic liquids are the go-to polluters."
-msgstr ""
+msgstr "Tek kullanımlık plastikler ve zehirli sıvılar çevreyi en çok kirleten maddelerdir."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:256 #-#-# translate crowdin berb_quest_items_d41be82e:
 msgid "{i}\"The beaver's deceitfully cuddly appearance is used to hide its malicious intentions from its victims.\"{/}"
-msgstr ""
+msgstr "{i}\"Kunduzun aldatıcı ve sevimli görünümü, kötü niyetlerini kurbanlarından gizlemek için kullanılır.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:257 #-#-# translate crowdin berb_quest_items_91e31826:
 msgid "{i}\"With the ability to fell trees with its powerful bite, the beaver is literally armed to the teeth.\"{/}"
-msgstr ""
+msgstr "{i}\"Güçlü ısırığıyla ağaçları devirebilen kunduz, kelimenin tam anlamıyla tepeden tırnağa silahlıdır.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:258 #-#-# translate crowdin berb_quest_items_d4144de4:
 msgid "{i}\"Often unprovoked, these creatures maul and slaughter without mercy or respite.\"{/}"
-msgstr ""
+msgstr "{i}\"Genellikle kışkırtılmamış olan bu yaratıklar, merhamet ya da soluklanma olmaksızın parçalayıp katlederler.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:259 #-#-# translate crowdin berb_quest_items_70ba4a98:
 msgid "{i}\"Survivors of beaver attacks are often left with a mental trauma to go along with the physical one.\"{/}"
-msgstr ""
+msgstr "{i}\"Kunduz saldırılarından kurtulanlar genellikle fiziksel travmanın yanı sıra zihinsel bir travma da yaşarlar.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:260 #-#-# translate crowdin berb_quest_items_ffc599a8:
 msgid "{i}\"Even a solitary beaver should be treated with extreme caution.\"{/}"
-msgstr ""
+msgstr "{i}\"Yalnız bir kunduza bile son derece dikkatli davranılmalıdır.\"{/}"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:264 #-#-# translate crowdin berb_quest_items_d6fa9417:
 msgid "While I'd like nothing more than to shove my [item.title_lower] down his furry throat, more research is required."
-msgstr ""
+msgstr "[item.title_lower]'ımı onun tüylü boğazına sokmaktan başka bir şey istemesem de, daha fazla araştırma yapılması gerekiyor."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:266 #-#-# translate crowdin berb_quest_items_8c22b932:
 msgid "Hitting that river slug with my [item.title_lower] would be satisfying, but it could also cost me my left nut."
-msgstr ""
+msgstr "[item.title_lower] ile o nehir sümüklüböceğini vurmak tatmin edici olurdu, ama aynı zamanda sol cevizime de mal olabilirdi."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:267 #-#-# translate crowdin berb_quest_items_7dcb38a6:
 msgid "First, I need to learn more about his evil ways."
-msgstr ""
+msgstr "Öncelikle, onun şeytani yöntemleri hakkında daha fazla şey öğrenmeliyim."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:269 #-#-# translate crowdin berb_quest_items_317b73cb:
 msgid "Charging into battle with my [item.title_lower] drawn would make for a powerful image."
-msgstr ""
+msgstr " [item.title_lower] çizilmiş halimle savaşa atılmak güçlü bir görüntü oluşturacaktır."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:270 #-#-# translate crowdin berb_quest_items_c5493e48:
 msgid "However, recklessness is how you lose wars."
-msgstr ""
+msgstr "Ancak, pervasızlık yüzünden savaşlar kaybedilir."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:271 #-#-# translate crowdin berb_quest_items_71e85c3e:
 msgid "Acquiring more information is the next logical step."
-msgstr ""
+msgstr "Daha fazla bilgi edinmek bir sonraki mantıklı adımdır."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:272 #-#-# translate crowdin berb_quest_items_f96da790:
 msgid "The Art of War says to first know your enemy."
-msgstr ""
+msgstr "Savaş Sanatı önce düşmanını tanımanı söyler."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:273 #-#-# translate crowdin berb_quest_items_9333868d:
 msgid "Assessment before assassination."
-msgstr ""
+msgstr "Suikast öncesi değerlendirme."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:287 #-#-# translate crowdin berb_quest_items_cccc2fde:
 msgid "Got him!"
-msgstr ""
+msgstr "Yakaladım onu!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:291 #-#-# translate crowdin berb_quest_items_3cf77b68:
 msgid "You're mine now, you little bastard!"
-msgstr ""
+msgstr "Artık benimsin, seni küçük piç!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:296 #-#-# translate crowdin berb_quest_items_63f8c586_1:
 msgid "Throwing my [item.title_lower] at it would attract the scorn of all local beavers. Not risking my life this early in the week."
-msgstr ""
+msgstr "[item.title_lower]'ımı ona fırlatmak tüm yerel kunduzların aşağılamasını çekecektir. Haftanın bu erken saatinde hayatımı riske atamam."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:302 #-#-# translate crowdin berb_quest_items_df552c81:
 msgid "[_mc_] I've spent many hours at the dojo practicing the art of wooden sword fighting!"
-msgstr ""
+msgstr "[_mc_] Tahta kılıç dövüşü sanatını pratik yaparak dojo ' da çok vakit geçirdim!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:303 #-#-# translate crowdin berb_quest_items_d775965a:
 msgid "[_mc_] Time to meet your maker, fur-fuck!"
@@ -582,67 +582,67 @@ msgstr ""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:306 #-#-# translate crowdin berb_quest_items_94e29d56:
 msgid "[_berb_] Foolish human! You are no match for—"
-msgstr ""
+msgstr "[_berb_] Aptal insan! Sen denk değilsin-"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:308 #-#-# translate crowdin berb_quest_items_83322472:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr ""
+msgstr "[_berb_] Aptal insan! Beni öldürdüğünü sandın, değil mi?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:309 #-#-# translate crowdin berb_quest_items_2e7696b9:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
-msgstr ""
+msgstr "[_berb_] Şövaleni çalan ve kız arkadaşını beceren kunduz sadece benim daha küçük bir klonumdu!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:310 #-#-# translate crowdin berb_quest_items_24802099:
 msgid "[_berb_] You are no match for—"
-msgstr ""
+msgstr "[_berb_] Sen daha fazla bunu-"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:336 #-#-# translate crowdin berb_quest_items_fe936348:
 msgid "[_mc_] On the fields of crimson glory, the hero stood in triumph."
-msgstr ""
+msgstr "[_mc_] Kıpkırmızı zafer alanlarında, kahraman zafer içinde duruyordu."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:337 #-#-# translate crowdin berb_quest_items_f6406a16:
 msgid "[_mc_] On this blessed day, he'd managed to defeat his lifelong rival... nay, Evil itself!"
-msgstr ""
+msgstr "[_mc_] Bu mübarek günde, hayat boyu rakibini yenmeyi başarmıştı... hatta Şeytan'ın kendisini!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:338 #-#-# translate crowdin berb_quest_items_acd56d78:
 msgid "[_mc_] And for that the realm would forever be in debt."
-msgstr ""
+msgstr "[_mc_] Ve bunun için krallık sonsuza dek borçlu kalacaktı.\n"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:339 #-#-# translate crowdin berb_quest_items_cc40fe3c:
 msgid "Hmm... it sounded way cooler in my head."
-msgstr ""
+msgstr "Hmm... kafamda çok daha havalı duruyordu."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:343 #-#-# translate crowdin berb_quest_items_e74d2f39:
 msgid "[_mc_] Are you ready for survival of the fittest?"
-msgstr ""
+msgstr "[_mc_] En güçlü olanın hayatta kalmasına hazır mısınız?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:346 #-#-# translate crowdin berb_quest_items_2871c4cc:
 msgid "[_berb_] Look at your double-chin, pussy. Do you call that fit?"
-msgstr ""
+msgstr "[_berb_] Şu çifte çenene bak, amcık. Buna fit mi diyorsun?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:348 #-#-# translate crowdin berb_quest_items_83322472_1:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr ""
+msgstr "[_berb_] Aptal insan! Beni öldürdüğünü sandın, değil mi?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:349 #-#-# translate crowdin berb_quest_items_2e7696b9_1:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
-msgstr ""
+msgstr "[_berb_] Şövaleni çalan ve kız arkadaşını beceren kunduz sadece benim daha küçük bir klonumdu!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:350 #-#-# translate crowdin berb_quest_items_24802099_1:
 msgid "[_berb_] You are no match for—"
-msgstr ""
+msgstr "[_berb_] Sen daha fazla bunu-"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:376 #-#-# translate crowdin berb_quest_items_187ef7b5:
 msgid "[_mc_] Welcome to the Stone Age."
-msgstr ""
+msgstr "[_mc_] Taş Devri'ne hoş geldiniz."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:377 #-#-# translate crowdin berb_quest_items_5839a71a:
 msgid "He's not moving anymore, and his unholy mouth is finally silenced."
-msgstr ""
+msgstr "Artık hareket etmiyor ve o uğursuz ağzı sonunda susturuldu."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:378 #-#-# translate crowdin berb_quest_items_9e28d971:
 msgid "This is a victory for all of humanity. A victory for freedom. And a first step toward world peace."
-msgstr ""
+msgstr "Bu tüm insanlık için bir zaferdir. Özgürlük için bir zafer. Ve dünya barışına doğru atılan ilk adım."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:379 #-#-# translate crowdin berb_quest_items_6add9040:
 msgid "In the future, this will probably become a national holiday."
@@ -662,15 +662,15 @@ msgstr ""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:387 #-#-# translate crowdin berb_quest_items_83322472_2:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr ""
+msgstr "[_berb_] Aptal insan! Beni öldürdüğünü sandın, değil mi?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:388 #-#-# translate crowdin berb_quest_items_2e7696b9_2:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
-msgstr ""
+msgstr "[_berb_] Şövaleni çalan ve kız arkadaşını beceren kunduz sadece benim daha küçük bir klonumdu!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:389 #-#-# translate crowdin berb_quest_items_24802099_2:
 msgid "[_berb_] You are no match for—"
-msgstr ""
+msgstr "[_berb_] Sen daha fazla bunu-"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:390 #-#-# translate crowdin berb_quest_items_351b3cf1:
 msgid "[_mc_] Eat this!"
@@ -830,15 +830,15 @@ msgstr ""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:521 #-#-# translate crowdin quest_berb_fight_glade_fight_83322472:
 msgid "[_berb_] Foolish human! You thought you'd killed me, didn't you?"
-msgstr ""
+msgstr "[_berb_] Aptal insan! Beni öldürdüğünü sandın, değil mi?"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:522 #-#-# translate crowdin quest_berb_fight_glade_fight_2e7696b9:
 msgid "[_berb_] The beaver that stole your easel and fucked your girlfriend was just my lesser clone!"
-msgstr ""
+msgstr "[_berb_] Şövaleni çalan ve kız arkadaşını beceren kunduz sadece benim daha küçük bir klonumdu!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:523 #-#-# translate crowdin quest_berb_fight_glade_fight_24802099:
 msgid "[_berb_] You are no match for—"
-msgstr ""
+msgstr "[_berb_] Sen daha fazla bunu-"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:549 #-#-# translate crowdin quest_berb_fight_glade_fight_7156b9bc:
 msgid "Like Hercules slew the Nemean lion, so have I completed this arduous but glorious task."
@@ -894,49 +894,49 @@ msgstr ""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:593 #-#-# translate crowdin quest_berb_fight_glade_fight_20d5e2d2:
 msgid "That creature bit me! It probably has all sorts of diseases."
-msgstr ""
+msgstr "O yaratık beni ısırdı! Muhtemelen her türlü hastalığı vardır."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:594 #-#-# translate crowdin quest_berb_fight_glade_fight_b39a9b76:
 msgid "Sure hope there's a cure..."
-msgstr ""
+msgstr "Umarım bir tedavisi vardır..."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:599 #-#-# translate crowdin quest_berb_fight_glade_fight_d892d226:
 msgid "That thing is scary up close!"
-msgstr ""
+msgstr "Bu şey yakından korkutucu!"
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:42
 msgid "\"Try saying that to my face!\""
-msgstr ""
+msgstr "\"Bunu yüzüme karşı söylemeyi dene!\""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:42
 msgid "\"Let's be friends, little buddy.\""
-msgstr ""
+msgstr "\"Hadi arkadaş olalım, küçük dostum.\""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:42
 msgid "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|Don't fall for the beaver's tricks"
-msgstr ""
+msgstr "?mc.intellect>=6@[mc.intellect]/6|{image=stats int}|Kunduzun hilelerine kanma"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:70
 msgid "\"It's that fucking beaver.\""
-msgstr ""
+msgstr "\"O lanet kunduz yüzünden.\""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:70
 msgid "\"What noise? I didn't hear anything.\""
-msgstr ""
+msgstr "\"Ne gürültüsü? Ben bir şey duymadım.\""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:135
 msgid "\"He said all sorts of nasty things.\""
-msgstr ""
+msgstr "\"Her türlü kötü şeyi söyledi.\""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:135
 msgid "\"I wouldn't mind seeing that.\""
-msgstr ""
+msgstr "\"Bunu görmeyi umursamazdım.\""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:515
 msgid "Fight the beaver with your bare hands"
-msgstr ""
+msgstr "Kunduzla çıplak ellerinle savaş"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:515
 msgid "Run away"
-msgstr ""
+msgstr "Koş"
 
