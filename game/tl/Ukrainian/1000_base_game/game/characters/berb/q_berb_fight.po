@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-04-09 10:57\n"
+"PO-Revision-Date: 2024-05-28 22:28\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:4 #-#-# translate crowdin berb_quest_fight_start_325436f1:
 msgid "Huh? I thought I killed that beaver."
-msgstr ""
+msgstr "А? Я думав, що вбив того бобра."
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:5 #-#-# translate crowdin berb_quest_fight_start_c23e747d:
 msgid "I guess there's more than one beaver in the forest, but it does look awfully similar."
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:46 #-#-# translate crowdin berb_quest_fight_roof_99f3bf5e:
 msgid "[_mc_] Try saying that to my face!"
-msgstr ""
+msgstr "[_mc_] Спробуй сказати це мені в обличчя!"
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:56 #-#-# translate crowdin berb_quest_fight_roof_b5785acb_2:
 msgid "{i}*Beaver noises*{/}"
