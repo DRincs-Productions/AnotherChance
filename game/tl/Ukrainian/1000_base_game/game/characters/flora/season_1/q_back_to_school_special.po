@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-05-28 19:27\n"
+"PO-Revision-Date: 2024-05-28 21:33\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:3 #-#-# translate crowdin flora_quest_back_to_school_special_190f85fb:
 msgid "[_flora_s_angry_] Breakfast!"
@@ -30,23 +30,23 @@ msgstr "[_mc_] Привіт,  [flora]! Як ся маєш?"
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:7 #-#-# translate crowdin flora_quest_back_to_school_special_96edd643:
 msgid "[_flora_s_annoyed_] What? Since last night? Someone made a lot of noise again. What were you even doing up that late?"
-msgstr ""
+msgstr "[_flora_s_annoyed_] Що? З минулої ночі? Хтось знову сильно шумів. Що ти взагалі робив настільки пізно?"
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:8 #-#-# translate crowdin flora_quest_back_to_school_special_f97b1833:
 msgid "Things that no woman should ever know about. Least of all, [flora]."
-msgstr ""
+msgstr "Те, про що жодна дівчина не повинна знати. Принаймні [flora]."
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:9 #-#-# translate crowdin flora_quest_back_to_school_special_a7d0722b:
 msgid "[_flora_s_angry_] Anyway, where's the breakfast?"
-msgstr ""
+msgstr "[_flora_s_angry_] У будь-якому випадку, де сніданок?"
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:10 #-#-# translate crowdin flora_quest_back_to_school_special_7a8ecbcc:
 msgid "[_mc_] The breakfast?"
-msgstr ""
+msgstr "[_mc_] Сніданок?"
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:11 #-#-# translate crowdin flora_quest_back_to_school_special_fd448c57:
 msgid "[_flora_s_angry_] Yes! Did you make the breakfast yet?"
-msgstr ""
+msgstr "[_flora_s_angry_] Так! Ти вже приготував його?"
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:13 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -54,35 +54,35 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:17 #-#-# translate crowdin flora_quest_back_to_school_special_3577c09a:
 msgid "[_mc_] Me? I just got down here."
-msgstr ""
+msgstr "[_mc_] Я? Я тільки-но спустився сюди."
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:19 #-#-# translate crowdin flora_quest_back_to_school_special_285ba7f6:
 msgid "[_flora_s_eyeroll_] Typical."
-msgstr ""
+msgstr "[_flora_s_eyeroll_] Як завжди."
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:22 #-#-# translate crowdin flora_quest_back_to_school_special_d9b210c2:
 msgid "[_mc_] Make your own breakfast!"
-msgstr ""
+msgstr "[_mc_] Роби собі сніданок сама!"
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:24 #-#-# translate crowdin flora_quest_back_to_school_special_3e87bf8d:
 msgid "[_flora_s_concerned_] Selfish as always. Whatever, fine."
-msgstr ""
+msgstr "[_flora_s_concerned_] Егоїстично як завжди. Ок, забудь."
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:29 #-#-# translate crowdin flora_quest_back_to_school_special_8a6955c3:
 msgid "[_mc_] [jo] said that you should do it from now on."
-msgstr ""
+msgstr "[_mc_] [jo] сказала що відтепер ти будеш його робити."
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:30 #-#-# translate crowdin flora_quest_back_to_school_special_54c43426:
 msgid "[_flora_s_skeptical_] What? You're lying."
-msgstr ""
+msgstr "[_flora_s_skeptical_] Що? Та ти брешеш."
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:31 #-#-# translate crowdin flora_quest_back_to_school_special_06212304:
 msgid "[_mc_] Ask her."
-msgstr ""
+msgstr "[_mc_] Сама можеш в неї спитати."
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:32 #-#-# translate crowdin flora_quest_back_to_school_special_dabc0dca:
 msgid "[_flora_s_angry_] Typical of her to give me all the responsibility!"
-msgstr ""
+msgstr "[_flora_s_angry_] Як завжди перекладає всю відповідальність на мене!"
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:33 #-#-# translate crowdin flora_quest_back_to_school_special_9e74cbd9:
 msgid "She seems entirely unaware. It must just be me, then."
