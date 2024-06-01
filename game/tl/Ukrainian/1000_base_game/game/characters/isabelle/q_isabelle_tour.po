@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-05-31 23:36\n"
+"PO-Revision-Date: 2024-06-01 00:41\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3 #-#-# translate crowdin isabelle_quest_isabelle_tour_86544d5e:
 msgid "[_isabelle_s_laughing_] I just wanted to say that I appreciate you showing me around."
@@ -82,7 +82,7 @@ msgstr "[_mc_] Повір, ти не захочеш на неї тиснути."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:36 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_c7064fd8:
 msgid "[_isabelle_s_angry_] Bullies make me sick! I'm going to have a word with her... are you coming or not?"
-msgstr ""
+msgstr "[_isabelle_s_angry_] Мене бісять хулігани! Я з нею поговорю... Ти йдеш чи ні?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:40 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_a66f7229:
 msgid "[_mc_] She probably doesn't understand what a great opportunity it is."
@@ -114,19 +114,19 @@ msgstr "[_isabelle_s_blush_] Це так мило!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:53 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_104a920a:
 msgid "And probably so stupid... sometimes the need to impress flushes my wits down the toilet."
-msgstr ""
+msgstr "І, напевно, тупо... іноді потреба справити враження спускає мій розум в унітаз."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:54 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_5282d05e:
 msgid "[_isabelle_s_blush_] I didn't think you would do something like that..."
-msgstr ""
+msgstr "[_isabelle_s_blush_] Я не думала, що ти зробиш щось подібне..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:55 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_7417e1ec:
 msgid "[_isabelle_s_sad_] I'm sorry for misjudging your character. You're more than meets the eye."
-msgstr ""
+msgstr "[_isabelle_s_sad_] Вибач, що я неправильно оцінила твій характер. Ти не такий, як здається на перший погляд."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:56 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_9327ed9c:
 msgid "The old me was too much of a loser to even look at [kate]... has anything really changed?"
-msgstr ""
+msgstr "Колишній я був занадто великим невдахою, щоб навіть дивитися на [kate]... чи дійсно щось змінилося?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:58 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
@@ -134,59 +134,59 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:62 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_b4166330:
 msgid "[_mc_] On second thought, that's a terrible idea..."
-msgstr ""
+msgstr "[_mc_] Якщо подумати, то це була жахлива ідея..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:64 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_b9ebd7b9:
 msgid "[_isabelle_s_annoyed_] Really? Did your spine turn to rubber all of a sudden?"
-msgstr ""
+msgstr "[_isabelle_s_annoyed_] Реально? Ти в моменті став м'якотілим?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:65 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_3ad1373c:
 msgid "[_mc_] I mean... it's not like that. It's just..."
-msgstr ""
+msgstr "[_mc_] Типу... це не так. Просто..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:66 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_c7064fd8_1:
 msgid "[_isabelle_s_angry_] Bullies make me sick! I'm going to have a word with her... are you coming or not?"
-msgstr ""
+msgstr "[_isabelle_s_angry_] Мене бісять хулігани! Я з нею поговорю... Ти йдеш чи ні?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:70 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_e1b55e25:
 msgid "[_mc_] I've always wanted to set her straight. It's about damn time!"
-msgstr ""
+msgstr "[_mc_] Я завжди хотів поставити її на місце. Давно пора було це зробити, чорт забирай!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:73 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_66188a7d:
 msgid "[_isabelle_s_blush_] Definitely! Let's go!"
-msgstr ""
+msgstr "[_isabelle_s_blush_] Точно! Ходімо!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:74 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_1a07b3f4:
 msgid "Things are different now. At least, on the paper... hopefully?"
-msgstr ""
+msgstr "Зараз все інакше. Принаймні, на папері... сподіваюсь?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:75 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_93abb552:
 msgid "Shit... this might just be the worst idea ever."
-msgstr ""
+msgstr "Бляха... це, мабуть, найгірша ідея у світі."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:81 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_ad71ea67:
 msgid "[_isabelle_s_annoyed_left_] Who is the bored-looking blonde over there?"
-msgstr ""
+msgstr "[_isabelle_s_annoyed_left_] Хто та нудьгуюча блондинка?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:82 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_26b2f450:
 msgid "[_mc_] That's [kate]. She's the head cheerleader, mean-bean extraordinaire, and future prom queen."
-msgstr ""
+msgstr "[_mc_] Це [kate]. Вона - головна черлідерка, надзвичайна злюка і майбутня королева випускного балу."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:83 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_8f64563d:
 msgid "[_isabelle_s_annoyed_] On the way up the stairs, I overheard her calling you all sorts of nasty things for volunteering."
-msgstr ""
+msgstr "[_isabelle_s_annoyed_] Піднімаючись сходами, я почула, як вона обзивала тебе всілякими образливими словами за те, що ти визвався допомогти."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:84 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_0d8d23b6:
 msgid "[_mc_] That's... let's just ignore that..."
-msgstr ""
+msgstr "[_mc_] Ну... давай просто не будемо звертати увагу..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:85 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_06f0b5e6:
 msgid "[_isabelle_s_annoyed_] Ignore it? Why?"
-msgstr ""
+msgstr "[_isabelle_s_annoyed_] Не звертати уваги? Чому?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:86 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_01dd6ea3:
 msgid "Crap. How do you tell someone that you're everyone's punching bag?"
-msgstr ""
+msgstr "Дідько. Як сказати комусь, що ти для всіх боксерська груша?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:88 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
@@ -194,23 +194,23 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:93 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_b2dc1cc0:
 msgid "[_mc_] You're new here... some things just aren't worth it."
-msgstr ""
+msgstr "[_mc_] Ти тут новенька... деякі речі просто не варті того."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:94 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_9046fbb7:
 msgid "[_isabelle_s_angry_] And some things are absolutely worth it!"
-msgstr ""
+msgstr "[_isabelle_s_angry_] А деякі речі абсолютно того варті!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:95 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_25e46ee1:
 msgid "[_isabelle_s_angry_] I've seen this all before, and it makes everyone miserable... even her."
-msgstr ""
+msgstr "[_isabelle_s_angry_] Я все це вже бачила, і від цього усі стають нещасними... навіть вона."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:96 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_76f8a9fa:
 msgid "[_mc_] I think you're wrong. [kate] takes great pleasure in this."
-msgstr ""
+msgstr "[_mc_] Думаю, ти помиляєшся. [kate] отримує від цього величезне задоволення."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:97 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_afcabd6e:
 msgid "[_isabelle_s_annoyed_left_] ..."
-msgstr ""
+msgstr "[_isabelle_s_annoyed_left_] ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:98 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_a91d3f6b:
 msgid "[_isabelle_s_angry_] I'm going to have a word with her. Are you coming or not?"
@@ -218,31 +218,31 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:102 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_daa83dbe:
 msgid "[_mc_] I'm used to it."
-msgstr ""
+msgstr "[_mc_] Я вже звик до цього."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:104 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_f0c72103:
 msgid "[_isabelle_s_sad_] That's one of the saddest things I've heard. You need to stand up for yourself..."
-msgstr ""
+msgstr "[_isabelle_s_sad_] Це одна із найсумніших речей, які я чула. Ти повинен за себе постояти..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:105 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_5565cfb3:
 msgid "Right... because that's such an easy thing to do."
-msgstr ""
+msgstr "Авжеж... бо це ж так просто зробити."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:106 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_c7064fd8_2:
 msgid "[_isabelle_s_angry_] Bullies make me sick! I'm going to have a word with her... are you coming or not?"
-msgstr ""
+msgstr "[_isabelle_s_angry_] Мене бісять хулігани! Я з нею поговорю... Ти йдеш чи ні?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:111 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_2c566670:
 msgid "[_mc_] She's probably just jealous that I got to hang out with the cute new girl first."
-msgstr ""
+msgstr "[_mc_] Вона, мабуть, просто заздрить, що я перший познайомився з новою симпатичною дівчиною."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:113 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_bf6eb50a:
 msgid "[_isabelle_s_blush_] Aw, that's so sweet!"
-msgstr ""
+msgstr "[_isabelle_s_blush_] Оу, це так мило!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:114 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_d447b715:
 msgid "[_isabelle_s_annoyed_left_] But her behavior is unacceptable! I'm going to have a word with her."
-msgstr ""
+msgstr "[_isabelle_s_annoyed_left_] Але її поведінка неприпустима! Я поговорю з нею."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:116 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
@@ -250,51 +250,51 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:120 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_22debc8a:
 msgid "[_mc_] I've always wanted to set her straight... it's about damn time."
-msgstr ""
+msgstr "[_mc_] Я завжди хотіла поставити її на місце... Цей клятий момент настав."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:123 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_66188a7d_1:
 msgid "[_isabelle_s_blush_] Definitely! Let's go!"
-msgstr ""
+msgstr "[_isabelle_s_blush_] Точно! Ходімо!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:124 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_4d63eb1b:
 msgid "Things are different now. At least, on paper... hopefully?"
-msgstr ""
+msgstr "Зараз все інакше. Принаймні, на папері... сподіваюсь?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:125 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_93abb552_1:
 msgid "Shit... this might just be the worst idea ever."
-msgstr ""
+msgstr "Бляха... це, мабуть, найгірша ідея у світі."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:131 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_6d480c01:
 msgid "[_mc_] That's not a good idea."
-msgstr ""
+msgstr "[_mc_] Це погана ідея."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:132 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_4f3508e4:
 msgid "[_isabelle_s_angry_] I think it's a perfect idea! We can't allow this type of behavior."
-msgstr ""
+msgstr "[_isabelle_s_angry_] Я думаю, що це прекрасна ідея! Ми не можемо допустити такої поведінки."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:133 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_e82e8678:
 msgid "[_mc_] This is how you end up in a dumpster. Don't try to break the status quo."
-msgstr ""
+msgstr "[_mc_] Так ти опинишся на смітнику. Не намагайся зламати статус-кво."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:134 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_0eae1ed0:
 msgid "[_isabelle_s_angry_] Sorry, but that's what I'm all about."
-msgstr ""
+msgstr "[_isabelle_s_angry_] Вибач, але я така."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:135 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_e8f09d37:
 msgid "[_isabelle_s_angry_] I'm going to have a word with her... are you coming or not?"
-msgstr ""
+msgstr "[_isabelle_s_angry_] Я поговорю з нею... ти йдеш чи ні?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:138 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_1cc096d5:
 msgid "[_mc_] Is making enemies really the best way to start off the year?"
-msgstr ""
+msgstr "[_mc_] Наживати ворогів в перший же день це справді найкращий спосіб розпочати навчальний рік?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:139 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_25df898e:
 msgid "[_isabelle_s_sad_] I suppose it's not..."
-msgstr ""
+msgstr "[_isabelle_s_sad_] Гадаю, що ні..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:140 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_c78f1337:
 msgid "[_isabelle_s_angry_] But with people like her, you have to nip that attitude in the bud! Otherwise, they'll just keep doing it..."
-msgstr ""
+msgstr "[_isabelle_s_angry_] Але з такими людьми, наче вона, ти маєш присікати таке відношення в зародку! Інакше вони будуть продовжувати це робити..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:141 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_a91d3f6b_1:
 msgid "[_isabelle_s_angry_] I'm going to have a word with her. Are you coming or not?"
