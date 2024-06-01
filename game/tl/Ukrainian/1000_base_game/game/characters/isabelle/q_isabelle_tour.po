@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-06-01 00:41\n"
+"PO-Revision-Date: 2024-06-01 02:09\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3 #-#-# translate crowdin isabelle_quest_isabelle_tour_86544d5e:
 msgid "[_isabelle_s_laughing_] I just wanted to say that I appreciate you showing me around."
@@ -214,7 +214,7 @@ msgstr "[_isabelle_s_annoyed_left_] ..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:98 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_a91d3f6b:
 msgid "[_isabelle_s_angry_] I'm going to have a word with her. Are you coming or not?"
-msgstr ""
+msgstr "[_isabelle_s_angry_] Я поговорю з нею. Ти йдеш чи ні?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:102 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_daa83dbe:
 msgid "[_mc_] I'm used to it."
@@ -298,7 +298,7 @@ msgstr "[_isabelle_s_angry_] Але з такими людьми, наче во�
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:141 #-#-# translate crowdin isabelle_quest_isabelle_tour_first_hall_a91d3f6b_1:
 msgid "[_isabelle_s_angry_] I'm going to have a word with her. Are you coming or not?"
-msgstr ""
+msgstr "[_isabelle_s_angry_] Я поговорю з нею. Ти йдеш чи ні?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:145 #-#-# translate crowdin isabelle_tour_first_hall_ending_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -306,51 +306,51 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:149 #-#-# translate crowdin isabelle_tour_first_hall_ending_bec06bee:
 msgid "[_mc_] Ugh, I guess..."
-msgstr ""
+msgstr "[_mc_] Ох, напевно..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:150 #-#-# translate crowdin isabelle_tour_first_hall_ending_5003be8c:
 msgid "[_isabelle_s_angry_] Let's go!"
-msgstr ""
+msgstr "[_isabelle_s_angry_] Ходімо!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:153 #-#-# translate crowdin isabelle_tour_first_hall_ending_eefec9c8:
 msgid "[_mc_] No, I've made that mistake before..."
-msgstr ""
+msgstr "[_mc_] Ні, я вже робив цю помилку раніше..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:154 #-#-# translate crowdin isabelle_tour_first_hall_ending_5179de17:
 msgid "[_isabelle_s_sad_] Why did I expect more?"
-msgstr ""
+msgstr "[_isabelle_s_sad_] Чому я очікувала більшого?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:157 #-#-# translate crowdin isabelle_tour_first_hall_ending_c89c5bd7:
 msgid "[_isabelle_s_sad_] I'll go alone."
-msgstr ""
+msgstr "[_isabelle_s_sad_] Я піду сама."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:164 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_9b78bcef:
 msgid "[_isabelle_s_annoyed_left_] I can't believe people like [kate] are allowed to walk around the school..."
-msgstr ""
+msgstr "[_isabelle_s_annoyed_left_] Не можу повірити, що людям, як [kate] дозволяють ходити по школі..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:165 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_9c9d9c71:
 msgid "[_isabelle_s_annoyed_left_] It's stark raving bonkers!"
-msgstr ""
+msgstr "[_isabelle_s_annoyed_left_] Це просто якесь божевілля!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:166 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_bbb994d6:
 msgid "[_mc_] She's always been like that, and she never gets detention or any other form of discipline."
-msgstr ""
+msgstr "[_mc_] Вона завжди була такою, і її ніколи не залишали після уроків або піддавали будь-яким іншим дисциплінарним покаранням."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:167 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_843f8f07:
 msgid "[_isabelle_s_annoyed_] How come?"
-msgstr ""
+msgstr "[_isabelle_s_annoyed_] Як так?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:168 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_d9ef7a3f:
 msgid "[_mc_] Her dad knows the people on the board... at least, that's what I've heard."
-msgstr ""
+msgstr "[_mc_] Її батько знає людей у раді директорів... принаймні, це те, що я чув. "
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:169 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_21127026:
 msgid "[_isabelle_s_angry_] A corrupt system! That's always how bad people get away with things."
-msgstr ""
+msgstr "[_isabelle_s_angry_] Корумпована система! Саме так погані люди і виходять сухими з води."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:170 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_ec062ef9:
 msgid "[_isabelle_s_sad_] If we can't trust the authorities to do their job, we'll have to take justice into our own hands..."
-msgstr ""
+msgstr "[_isabelle_s_sad_] Якщо ми не можемо довіряти шкільній владі у виконанні їхніх обов'язків, нам доведеться взяти правосуддя у свої руки..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:172 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -362,67 +362,67 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:177 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_a26c7e28:
 msgid "[_isabelle_s_concerned_left_] I don't know yet, but I'm sure I'll come up with something..."
-msgstr ""
+msgstr "[_isabelle_s_concerned_left_] Я ще не знаю, але впевнена, що щось придумаю..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:178 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_c5ecd7b0:
 msgid "[_isabelle_s_skeptical_] Someone needs to show her that her behavior isn't acceptable."
-msgstr ""
+msgstr "[_isabelle_s_skeptical_] Хтось має показати їй, що її поведінка неприйнятна."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:179 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_e0e4d0cc:
 msgid "[_mc_] And I guess that someone is you?"
-msgstr ""
+msgstr "[_mc_] І я припускаю, що цей хтось - ти?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:180 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_c6bb25ab:
 msgid "[_isabelle_s_neutral_] And you, I hope? You saw how she acted..."
-msgstr ""
+msgstr "[_isabelle_s_neutral_] І ти, я сподіваюся, теж? Ти бачив, як вона поводилася..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:181 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_d10a12be:
 msgid "[_mc_] I mean, it's a bit risky, but I've got your back."
-msgstr ""
+msgstr "[_mc_] Це трохи ризиковано, але можеш на мене розраховувати."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:182 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_3f2bab7c:
 msgid "[_isabelle_s_excited_] Thanks! I knew you weren't all bad."
-msgstr ""
+msgstr "[_isabelle_s_excited_] Дякую! Я знала, що ти не такий вже й поганий."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:183 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_0cca1111:
 msgid "That's funny... might be the first time I've heard those words within these walls."
-msgstr ""
+msgstr "Кумедно... мабуть, я вперше чую такі слова в цих стінах."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:184 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_bce782b6:
 msgid "[_isabelle_s_excited_] I've signed up for English. Can you take me to the art classroom next?"
-msgstr ""
+msgstr "[_isabelle_s_excited_]  Я записалась на англійську. Можеш провести мене до класу малювання?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:185 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_db00316a:
 msgid "[_mc_] Sure thing, it's right next door."
-msgstr ""
+msgstr "[_mc_] Звісно, це зовсім поруч."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:188 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_04b0687b:
 msgid "[_mc_] I think we should start by signing up for our focus classes. Have you decided on yours yet?"
-msgstr ""
+msgstr "[_mc_] Думаю, варто почати з того, щоб записатися на наші профільні заняття. Ти вже визначилася зі своїми?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:189 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_c3431294:
 msgid "[_isabelle_s_skeptical_] You're right... revenge and malice can wait."
-msgstr ""
+msgstr "[_isabelle_s_skeptical_] Ти маєш рацію... помста і злість можуть почекати."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:190 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_b8d0ab64:
 msgid "[_isabelle_s_excited_] So, I've signed up for English now. I think art would be fun as well!"
-msgstr ""
+msgstr "[_isabelle_s_excited_] Так, я записалася на англійську мову. Думаю, мистецтво теж було б цікавим!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:191 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_b65c3fc4:
 msgid "[_isabelle_s_neutral_] I'll have to think a bit more on my third pick."
-msgstr ""
+msgstr "[_isabelle_s_neutral_] Треба буде ще трохи подумати над третім вибором."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:192 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_f3ba6b44:
 msgid "[_mc_] Okay, let's meet in the art classroom? It's right next door."
-msgstr ""
+msgstr "[_mc_] Гаразд, зустрінемося в художньому класі? Це поруч."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:193 #-#-# translate crowdin isabelle_quest_isabelle_tour_english_class_1c352c0f:
 msgid "[_isabelle_s_excited_] Sure. Meet you there!"
-msgstr ""
+msgstr "[_isabelle_s_excited_] Звичайно. Побачимося там!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:201 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_1f3142b6:
 msgid "[_isabelle_s_excited_] [jacklyn] seems nice! I'm really looking forward to taking her classes."
-msgstr ""
+msgstr "[_isabelle_s_excited_] [jacklyn] здається милою! Я з нетерпінням чекаю на її заняття."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:202 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_8fea2db2:
 msgid "[_mc_] Hmm..."
@@ -430,7 +430,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:203 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_f2f63028:
 msgid "[_isabelle_s_concerned_] What? You don't think so?"
-msgstr ""
+msgstr "[_isabelle_s_concerned_] Що? Ти так не думаєш?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:204 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_8fea2db2_1:
 msgid "[_mc_] Hmm..."
@@ -438,35 +438,35 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:205 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_c975fc31:
 msgid "[_isabelle_s_concerned_] You seem distracted..."
-msgstr ""
+msgstr "[_isabelle_s_concerned_] Ти виглядаєш розгубленим..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:206 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_79b9cf17:
 msgid "[_mc_] I have a lot on my mind right now."
-msgstr ""
+msgstr "[_mc_] Зараз я багато про що думаю."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:207 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_89d27c23:
 msgid "And a hot teacher's assistant is just one of them."
-msgstr ""
+msgstr "Як мінімум про гарячу асистентку вчителя."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:208 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_8d9c9325:
 msgid "The whole [kate] drama is making me nervous. [isabelle] is acting like nothing happened... does she often run into trouble like that?"
-msgstr ""
+msgstr "А ще вся ця драма з [Кейт] мене нервує. [isabelle] поводиться так, ніби нічого не сталося... вона часто потрапляє в такі неприємності?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:209 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_c89b4f91:
 msgid "Also, going back in time still has me off balance."
-msgstr ""
+msgstr "Крім того, повернення в минуле досі вибиває мене з колії."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:210 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_b7429773:
 msgid "Those texts... I really need to find out who sent them... they might be the only one with answers."
-msgstr ""
+msgstr "Ці повідомлення... Мені дуже потрібно дізнатися, хто їх надіслав... можливо, він єдиний, хто має відповіді."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:211 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_1f4f9e76:
 msgid "[_isabelle_s_neutral_] I think I need to balance out my schedule with something physical."
-msgstr ""
+msgstr "[_isabelle_s_neutral_] Думаю, мені потрібно збалансувати свій розпорядок дня чимось фізичним."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:212 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_ff4c3af7:
 msgid "[_isabelle_s_excited_] I'm going to take gym classes as my last focus!"
-msgstr ""
+msgstr "[_isabelle_s_excited_] Я збираюся взяти заняття в спортзалі як останній предмет!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:213 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_2876efd9:
 msgid "[_mc_] Why?"
@@ -474,119 +474,119 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:214 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_f4a410ba:
 msgid "[_isabelle_s_concerned_] Why what?"
-msgstr ""
+msgstr "[_isabelle_s_concerned_] Що \"чому\"?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:215 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_fae4b358:
 msgid "[_mc_] Why gym? There are all sorts of other classes upstairs."
-msgstr ""
+msgstr "[_mc_] Чому саме спортзал? Нагорі є багато інших класів."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:216 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_2a2a9936:
 msgid "[_isabelle_s_excited_] I just told you why... I need something physical."
-msgstr ""
+msgstr "[_isabelle_s_excited_] Я щойно пояснила тобі, чому... Мені потрібна фізична активність."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:217 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_f5530178:
 msgid "[_mc_] ...Can't you just ride a bike to school?"
-msgstr ""
+msgstr "[_mc_] ...А хіба ти не можеш просто їздити до школи на велосипеді?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:218 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_cfca0a0c:
 msgid "[_isabelle_s_skeptical_] What's wrong, [mc]? Why the shifty eyes?"
-msgstr ""
+msgstr "[_isabelle_s_skeptical_] Щось не так, [mc]? Чому ти так дивишся?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:219 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_4b9600ea:
 msgid "If only she knew what a toll gym class took on me... the pushy teachers, the nasty classmates, crowded locker rooms and showers..."
-msgstr ""
+msgstr "Якби вона тільки знала, як важко мені давалися уроки фізкультури... настирливі вчителі, неприємні однокласники, переповнені роздягальні та душові..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:220 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_99dcec3a:
 msgid "[_mc_] Bad things always happen in the east wing..."
-msgstr ""
+msgstr "[_mc_] У східному крилі завжди трапляються погані речі..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:221 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_4ce8ec77:
 msgid "[_isabelle_s_skeptical_] What kind of bad things?"
-msgstr ""
+msgstr "[_isabelle_s_skeptical_] Які саме погані речі?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:222 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_4470344d:
 msgid "[_mc_] I... I always end up getting hurt..."
-msgstr ""
+msgstr "[_mc_] Я... Я завжди закінчую тим, що отримую травми..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:223 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_6e00259c:
 msgid "Physically, but also psychologically. That place is cursed."
-msgstr ""
+msgstr "Фізично, ну і психологічно теж. Це місце прокляте."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:224 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_d2f815b4:
 msgid "[_isabelle_s_confident_] It's all right... I'll look after you."
-msgstr ""
+msgstr "[_isabelle_s_confident_] Все гаразд... Я подбаю про тебе."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:225 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_d95a8ca3:
 msgid "Ugh, she's too nice for this place."
-msgstr ""
+msgstr "Гм, вона занадто мила для цього місця."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:226 #-#-# translate crowdin isabelle_quest_isabelle_tour_art_class_f2fc69fd:
 msgid "[_isabelle_s_laughing_] Come on, let's get it over with!"
-msgstr ""
+msgstr "[_isabelle_s_laughing_] Ну ж бо, давай покінчимо з цим!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:234 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_353661f2:
 msgid "[_isabelle_s_smile_] Thanks for showing me around, [mc]!"
-msgstr ""
+msgstr "[_isabelle_s_smile_] Дякую, що показав мені тут все, [mc]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:235 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_08cb5adb:
 msgid "[_isabelle_s_laughing_] Apart from the run-in with [kate], this was quite the pleasant tour."
-msgstr ""
+msgstr "[_isabelle_s_laughing_] За винятком сутички з [kate], це була досить приємна екскурсія."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:236 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_8488f58e:
 msgid "[_mc_] No problem!"
-msgstr ""
+msgstr "[_mc_] Без проблем!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:238 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_c3f9934f:
 msgid "The story with [kate] is, however, far from over..."
-msgstr ""
+msgstr "Історія з [kate] ще далека від завершення..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:239 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_7d890e90:
 msgid "[isabelle] has no idea what's coming. It feels a little bad, but such is life."
-msgstr ""
+msgstr "[isabelle] не має жодного уявлення про те, що буде далі. Це трохи неприємно, але таке життя."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:240 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_716d1db8:
 msgid "The first part of [kate]'s request was finding out [isabelle]'s focus classes... with that out of the way, the next thing is her favorite drink."
-msgstr ""
+msgstr "Першою частиною завдання [kate] було з'ясувати профільні заняття [isabelle]... з цим ми розібралися, наступним пунктом був її улюблений напій."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:241 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_5e4b170c:
 msgid "[_mc_] Hey, would you like me to show you the cafeteria as well?"
-msgstr ""
+msgstr "[_mc_] Ей, хочеш, я покажу тобі ще й кафетерій?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:242 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_d6b04ae7:
 msgid "[_isabelle_s_confident_] Oh, sure! If you have time..."
-msgstr ""
+msgstr "[_isabelle_s_confident_] О, звісно! Якщо маєш час..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:243 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_14580aa0:
 msgid "[_mc_] Yeah, no worries. The food isn't amazing, but the strawberry juice is the best!"
-msgstr ""
+msgstr "[_mc_] Так, не хвилюйся. Їжа там не дивовижна, але полуничний сік просто супер!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:244 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_f7a991bb:
 msgid "[_isabelle_s_confident_] Cool, let's meet up there."
-msgstr ""
+msgstr "[_isabelle_s_confident_] Круто, зустрінемося там."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:247 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_c3f9934f_1:
 msgid "The story with [kate] is, however, far from over..."
-msgstr ""
+msgstr "Історія з [kate] ще далека від завершення..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:248 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_9c370f27:
 msgid "[isabelle] has no idea what's coming. I need to make sure she's safe."
-msgstr ""
+msgstr "[isabelle] не має жодного уявлення про те, що буде далі. Я маю переконатися, що вона в безпеці."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:249 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_16beac93:
 msgid "[_mc_] Have you thought about the [kate] problem?"
-msgstr ""
+msgstr "[_mc_] Ти вже думав про ситуацію з [kate]?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:250 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_bd206fbd:
 msgid "[_isabelle_s_eyeroll_] Yeah, we need to do something about her..."
-msgstr ""
+msgstr "[_isabelle_s_eyeroll_] Так, з нею треба щось робити..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:251 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_866a238e:
 msgid "[_isabelle_s_eyeroll_] Meet me in the cafeteria and we'll come up with a plan."
-msgstr ""
+msgstr "[_isabelle_s_eyeroll_] Давай зустрінемося в кафетерії, і разом розробимо план."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:252 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_f661beb5:
 msgid "[_mc_] Sounds good."
-msgstr ""
+msgstr "[_mc_] Звучить непогано."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:254 #-#-# translate crowdin isabelle_quest_isabelle_tour_gym_88fdcd04:
 msgid "[_isabelle_s_flirty_] By the way, have you—"
