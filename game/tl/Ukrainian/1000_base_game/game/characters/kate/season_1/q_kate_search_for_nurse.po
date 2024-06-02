@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-06-02 16:55\n"
+"PO-Revision-Date: 2024-06-02 17:51\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:3 #-#-# translate crowdin kate_quest_search_for_nurse_start_54d5c121:
 msgid "[_kate_s_neutral_] Excuse you. Why are you standing so near me?"
@@ -630,7 +630,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:253 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_c0e2324d:
 msgid "[_nurse_s_afraid_] W-what?"
-msgstr ""
+msgstr "[_nurse_s_afraid_] Щ-що?"
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:254 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_b34f3718:
 msgid "[_kate_s_eyeroll_] You heard me loud and clear. Do it. Let's give [mc] a reward for helping out."
