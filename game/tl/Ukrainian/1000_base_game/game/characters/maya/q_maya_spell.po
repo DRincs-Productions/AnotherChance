@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-04-09 11:05\n"
+"PO-Revision-Date: 2024-06-02 20:03\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:3 #-#-# translate crowdin quest_maya_spell_start_d75d1eb1:
 msgid "[_mc_] Hey, [maya]! Guess what?"
@@ -3009,7 +3009,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1861 #-#-# translate crowdin quest_maya_spell_spell_57184c13:
 msgid "[_mc_] You're welcome."
-msgstr ""
+msgstr "[_mc_] Можеш не дякувати."
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1864 #-#-# translate crowdin quest_maya_spell_spell_e6146602:
 msgid "[_mc_] Yes, and afterwards I can share a nice taco recipe I found while looking through the book."
