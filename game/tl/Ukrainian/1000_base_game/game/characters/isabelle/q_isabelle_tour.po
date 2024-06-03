@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-06-03 12:19\n"
+"PO-Revision-Date: 2024-06-03 13:39\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:3 #-#-# translate crowdin isabelle_quest_isabelle_tour_86544d5e:
 msgid "[_isabelle_s_laughing_] I just wanted to say that I appreciate you showing me around."
@@ -306,7 +306,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:149 #-#-# translate crowdin isabelle_tour_first_hall_ending_bec06bee:
 msgid "[_mc_] Ugh, I guess..."
-msgstr "[_mc_] Ох, напевно..."
+msgstr "[_mc_] Хм, напевно..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:150 #-#-# translate crowdin isabelle_tour_first_hall_ending_5003be8c:
 msgid "[_isabelle_s_angry_] Let's go!"
@@ -1074,7 +1074,7 @@ msgstr "Просто треба бути розумним з цього прив
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:506 #-#-# translate crowdin quest_nurse_photogenic_second_chance_a154c19f:
 msgid "[_mc_] It's okay, I know how hard you work."
-msgstr "[_mc_] Все гаразд, я знаю, як важко ти працюєш."
+msgstr "[_mc_] Все гаразд, я знаю, як важко ви працюєте."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:509 #-#-# translate crowdin quest_nurse_photogenic_second_chance_200d1f08:
 msgid "[_nurse_s_smile_] I appreciate that. It won't happen again!"
@@ -1222,7 +1222,7 @@ msgstr "Просто треба бути розумним з цього прив
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:556 #-#-# translate crowdin quest_nurse_photogenic_second_chance_217f6c55:
 msgid "[_mc_] Relax... there's no shame in this, and I won't tell anyone."
-msgstr "[_mc_] Розслабся... в цьому немає нічого соромного, і я нікому не скажу."
+msgstr "[_mc_] Розслабтесь... в цьому немає нічого соромного, і я нікому не скажу."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:557 #-#-# translate crowdin quest_nurse_photogenic_second_chance_a593cfd1_1:
 msgid "[_nurse_s_neutral_] Really?"
@@ -2318,7 +2318,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1078 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_5e14f3a5:
 msgid "[_mc_] I thought you were Scottish?"
-msgstr "[_mc_] Я ти хіба не шотландка?"
+msgstr "[_mc_] А ти хіба не шотландка?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1079 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_cb2a8d2b:
 msgid "[_isabelle_s_blush_] I wish..."
@@ -2718,23 +2718,23 @@ msgstr "[_isabelle_s_confident_] Окей, давай сюди!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1221 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_49a443a2:
 msgid "Even though it means very little, watching her fingers tapping away at the screen is a dream come true..."
-msgstr ""
+msgstr "Навіть якщо це означає зовсім небагато, спостерігати за тим, як її пальці вводять ці цифри, - це мрія, що здійснилася..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1222 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_36b3db9a:
 msgid "It doesn't mean that we'll sleep together or that she has a crush on me, but it does mean that I'm not repulsive to her."
-msgstr ""
+msgstr "Звичайно це не означає, що ми тепер будемо спати разом чи що вона закохана в мене, але як мінімум це знак, що я не викликаю в неї антипатії."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1223 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_4a005889:
 msgid "That's a victory in my book."
-msgstr ""
+msgstr "Для мене це перемога."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1225 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_07002ca7:
 msgid "[_isabelle_s_neutral_] Okay, done!"
-msgstr ""
+msgstr "[_isabelle_s_neutral_] Ось, готово!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1226 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_ea0efc3e:
 msgid "[_isabelle_s_excited_] See you around, [mc]!"
-msgstr ""
+msgstr "[_isabelle_s_excited_] Ще побачимось, [mc]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1229 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_f8eac138:
 msgid "[_isabelle_s_excited_] Okay, see you around, [mc]!"
@@ -2762,348 +2762,348 @@ msgstr "[_mc_] Так, я розумію..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1239 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_93893628:
 msgid "[_isabelle_s_neutral_] If you want, I can put my number in your phone?"
-msgstr ""
+msgstr "[_isabelle_s_neutral_] Якщо хочеш, я можу дати тобі свій номер телефону?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1240 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_71ae6572:
 msgid "Her number... in my phone?!"
-msgstr ""
+msgstr "Її номер... в моєму телефоні?!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1241 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_1d1c9e25:
 msgid "Is there a replay function in this version of the Matrix because this doesn't seem like real life..."
-msgstr ""
+msgstr "Чи є в цій версії матриці функція повтору, бо це не схоже на реальне життя..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1242 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_0c8e4995:
 msgid "[_mc_] W-what?"
-msgstr ""
+msgstr "[_mc_] Щ-що?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1243 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_3171cd72:
 msgid "[_isabelle_s_blush_] You know, if you want to hang out?"
-msgstr ""
+msgstr "[_isabelle_s_blush_] Ну, знаєш, якщо захочеш потусуватися?"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1244 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_2c45073f:
 msgid "It's a hundred percent platonic. No reason to freak out."
-msgstr ""
+msgstr "Це на сто відсотків щиро платонічно. Немає причин хвилюватися."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1245 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_28a64611:
 msgid "No need to throw your hand up in triumph or run a victory lap around the school."
-msgstr ""
+msgstr "Не потрібно тріумфально піднімати руку догори або бігти переможне коло навколо школи."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1246 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_4c94fa4b:
 msgid "[_mc_] R-right! Sounds good! Here you go..."
-msgstr ""
+msgstr "[_mc_] Г-гаразд! Звучить непогано! Ось тримай..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1247 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_49a443a2_1:
 msgid "Even though it means very little, watching her fingers tapping away at the screen is a dream come true..."
-msgstr ""
+msgstr "Навіть якщо це означає зовсім небагато, спостерігати за тим, як її пальці вводять ці цифри, - це мрія, що здійснилася..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1248 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_36b3db9a_1:
 msgid "It doesn't mean that we'll sleep together or that she has a crush on me, but it does mean that I'm not repulsive to her."
-msgstr ""
+msgstr "Звичайно це не означає, що ми тепер будемо спати разом чи що вона закохана в мене, але як мінімум це знак, що я не викликаю в неї антипатії."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1249 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_4a005889_1:
 msgid "That's a victory in my book."
-msgstr ""
+msgstr "Для мене це перемога."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1251 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_07002ca7_1:
 msgid "[_isabelle_s_neutral_] Okay, done!"
-msgstr ""
+msgstr "[_isabelle_s_neutral_] Ось, готово!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1252 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_ea0efc3e_1:
 msgid "[_isabelle_s_excited_] See you around, [mc]!"
-msgstr ""
+msgstr "[_isabelle_s_excited_] Ще побачимось, [mc]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1255 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_3ce2de5a:
 msgid "[_mc_] I could show you the top floor too, and the computer room!"
-msgstr ""
+msgstr "[_mc_] Я можу показати тобі і верхній поверх, і комп'ютерний зал!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1256 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_6933e968:
 msgid "[_mc_] The computers are program-locked so you can't install anything, but I know a way around it..."
-msgstr ""
+msgstr "[_mc_] Комп'ютери мають програмне блокування, тому ви нічого не можна встановити, але я знаю, як це обійти..."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1257 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_bcb77a46:
 msgid "[_isabelle_s_neutral_] Thanks, but I think I can find my way around on my own now."
-msgstr ""
+msgstr "[_isabelle_s_neutral_] Спасибі, але гадаю, що тепер я зможу зорієнтуватися самостійно."
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1258 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_ea0efc3e_2:
 msgid "[_isabelle_s_excited_] See you around, [mc]!"
-msgstr ""
+msgstr "[_isabelle_s_excited_] Ще побачимось, [mc]!"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1260 #-#-# translate crowdin isabelle_quest_isabelle_tour_cafeteria_fa9e4036:
 msgid "God, that was stupid... she's way out of my league, and now she thinks I'm desperate..."
-msgstr ""
+msgstr "Боже, це було нерозумно... вона не з мого рівня, і тепер напевно думає, що я у відчаї..."
 
 # §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:27
 msgid "\"Best you can do is keep your head down.\""
-msgstr ""
+msgstr "\"Найкраще, що ти можеш робити, це не висовуватися.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:27
 msgid "\"She probably doesn't understand what a great opportunity it is.\""
-msgstr ""
+msgstr "\"Вона, мабуть, не розуміє, яка це чудова можливість.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:27
 msgid "\"I'll go talk to her and make sure she apologizes.\""
-msgstr ""
+msgstr "\"Піду поговорю з нею і переконаюся, щоб вона вибачилася.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:58
 msgid "\"On second thought, that's a terrible idea...\""
-msgstr ""
+msgstr "\"Якщо подумати, то це була жахлива ідея...\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:58
 msgid "\"I've always wanted to set her straight. It's about damn time!\""
-msgstr ""
+msgstr "\"Я завжди хотів поставити її на місце. Давно пора було це зробити, чорт забирай!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:88
 msgid "\"You're new here... some things just aren't worth it.\""
-msgstr ""
+msgstr "\"Ти тут новенька... деякі речі просто не варті того.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:88
 msgid "\"I'm used to it.\""
-msgstr ""
+msgstr "\"Я вже звик до цього.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:88
 msgid "\"She's probably just jealous that I got to hang out with the cute new girl first.\""
-msgstr ""
+msgstr "\"Вона, мабуть, просто заздрить, що я перший познайомився з новою симпатичною дівчиною.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:116
 msgid "\"I've always wanted to set her straight... it's about damn time.\""
-msgstr ""
+msgstr "\"Я завжди хотіла поставити її на місце... Цей клятий момент настав.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:116
 msgid "\"That's not a good idea.\""
-msgstr ""
+msgstr "\"Це погана ідея.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:116
 msgid "\"Is making enemies really the best way to start off the year?\""
-msgstr ""
+msgstr "\"Наживати ворогів в перший же день це справді найкращий спосіб розпочати навчальний рік?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:145
 msgid "\"Ugh, I guess...\""
-msgstr ""
+msgstr "\"Хм, напевно...\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:145
 msgid "\"No, I've made that mistake before...\""
-msgstr ""
+msgstr "\"Ні, я вже робив цю помилку раніше...\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:172
 msgid "\"What are you planning to do?\""
-msgstr ""
+msgstr "\"Що ти плануєш робити?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:172
 msgid "\"I think we should start by signing up for our focus classes. Have you decided on yours yet?\""
-msgstr ""
+msgstr "\"Думаю, варто почати з того, щоб записатися на наші профільні заняття. Ти вже визначилася зі своїми?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:284
 msgid "\"Wait here, I'll go get the [nurse]!\""
-msgstr ""
+msgstr "\"Зачекайте тут, я піду за [nurse]!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:284
 msgid "\"Help me get her to the [nurse]'s office!\""
-msgstr ""
+msgstr "\"Допоможи мені відвести її до кабінету [nurse]!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:284
 msgid "\"She should've paid more attention.\""
-msgstr ""
+msgstr "\"Їй слід було бути уважнішою.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:284
 msgid "?mc.strength>=3@[mc.strength]/3|{image=stats str}|Carry [lindsey]"
-msgstr ""
+msgstr "?mc.strength>=3@[mc.strength]/3|{image=stats str}|Віднести [lindsey]"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:328
 msgid "Help"
-msgstr ""
+msgstr "Допомогти"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:328
 msgid "Pass"
-msgstr ""
+msgstr "Відмовитись"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:390
 msgid "\"Don't worry, I've got you.\""
-msgstr ""
+msgstr "\"Не хвилюйся, я тебе тримаю.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:390
 msgid "\"Never seen anyone run so fast!\""
-msgstr ""
+msgstr "\"Ніколи не бачив, щоб хтось так швидко бігав!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:440
 msgid "Pull back the curtain"
-msgstr ""
+msgstr "Підняти занавісу"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:440
 msgid "Make your presence known"
-msgstr ""
+msgstr "Зробити свою присутність помітною"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:463
 msgid "\"Huh! It looks exactly like you were\n"
 "having a very wet daydream about\n"
 "the English teacher!\""
-msgstr ""
+msgstr "\"Ага! Виглядає так, ніби у вас була дуже волога мрія про вчителя англійської мови!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:463
 msgid "\"I'm so sorry! I should've knocked!\""
-msgstr ""
+msgstr "\"Вибачте! Треба було постукати!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:463
 msgid "\"Smile for the camera!\""
-msgstr ""
+msgstr "\"Посміхніться в камеру!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:463
 msgid "\"Relax... there's no shame in this,\n"
 "and I won't tell anyone.\""
-msgstr ""
+msgstr "\"Розслабтесь... в цьому немає нічого соромного, і я нікому не скажу.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:475
 msgid "\"Just one for the yearbook, okay?\""
-msgstr ""
+msgstr "\"Лише фото для випускного альбому, гаразд?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:475
 msgid "\"It's okay, I know how hard you work.\""
-msgstr ""
+msgstr "\"Все гаразд, я знаю, як важко ви працюєте.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:583
 msgid "\"Where is Mr. Brown?\""
-msgstr ""
+msgstr "\"Де містер Браун?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:583
 msgid "\"What were you doing behind there?\""
-msgstr ""
+msgstr "\"Що ви там робили?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:583
 msgid "\"Sorry to intrude, but [lindsey] had an accident in the gym...\""
-msgstr ""
+msgstr "\"Вибачте, що відволікаю, але з [lindsey] стався нещасний випадок у спортзалі...\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:689
 msgid "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"I'll be in touch.\""
-msgstr ""
+msgstr "?mc.owned_item('compromising_photo')@|{image=items compromising_photo}|\"Я буду на зв'язку.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:689
 msgid "\"I've always wanted to help out those\n"
 "in need. Glad I got the chance!\""
-msgstr ""
+msgstr "\"Я завжди хотів допомагати тим, хто цього потребує. Радий, що у мене з'явилася така можливість!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:689
 msgid "\"I demand a kiss as payment!\n"
 "That's what all heroes get!\""
-msgstr ""
+msgstr "\"Я вимагаю поцілунок як плату! Це те, що отримують всі герої!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:689
 msgid "\"It's my fault she's hurt... fetching you\n"
 "was the least I could do.\""
-msgstr ""
+msgstr "\"Це моя провина, що їй боляче... Покликати вас - це найменше, що я міг зробити.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:803
 msgid "\"She tried to mow me down, but\n"
 "didn't realize I'm made of steel.\""
-msgstr ""
+msgstr "\"Вона намагалася мене скосити, але не зрозуміла, що я зроблений зі сталі.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:803
 msgid "\"Frontal collision at about\n"
 "eighty miles an hour.\""
-msgstr ""
+msgstr "\"Лобове зіткнення на швидкості близько вісімдесяти миль на годину.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:803
 msgid "\"She was doing laps in the gym and accidentally ran into me... she hit\n"
 "her head quite hard.\""
-msgstr ""
+msgstr "\"Вона намотувала кола в спортзалі і випадково зіткнулася зі мною... досить сильно вдарилася головою.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:830
 msgid "\"It's my duty to keep the people safe!\""
-msgstr ""
+msgstr "\"Це мій обов'язок - захищати людей!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:830
 msgid "\"It was my fault... and she looked like\n"
 "she needed my help getting here.\""
-msgstr ""
+msgstr "\"Це була моя провина... і вона виглядала так, ніби їй потрібна була моя допомога, щоб дістатися сюди.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:830
 msgid "Let [isabelle] explain"
-msgstr ""
+msgstr "Нехай [isabelle] пояснить"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:880
 msgid "Don't be a creep"
-msgstr ""
+msgstr "Не будь дурнем"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:905
 msgid "\"Just claiming my reward for helping you.\""
-msgstr ""
+msgstr "\"Просто отримую винагороду за те, що допоміг тобі.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:905
 msgid "\"I'm sorry, but I figured I'd only have one chance at seeing an angel the way god made her...\""
-msgstr ""
+msgstr "\"Вибач, але я подумав, що у мене буде лише один шанс побачити ангела таким, яким його створив Бог...\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:905
 msgid "?mc.charisma>=3@[mc.charisma]/3|{image=stats cha}|\"I was going to see them\n"
 "sooner or later, anyway.\""
-msgstr ""
+msgstr "?mc.charisma>=3@[mc.charisma]/3|{image=stats cha}|\"Я все одно планував побачити їх рано чи пізно.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:985
 msgid "\"Wholeheartedly!\""
-msgstr ""
+msgstr "\"Всім серцем і душею!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:985
 msgid "\"Maybe, I don't know...\""
-msgstr ""
+msgstr "\"Можливо, я не знаю...\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:985
 msgid "\"Not really, no.\""
-msgstr ""
+msgstr "\"Не зовсім.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1055
 msgid "\"I must've been a butler in a previous life.\""
-msgstr ""
+msgstr "\"У минулому житті я, мабуть, був лакеєм.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1055
 msgid "\"Just trying to make you feel at home.\""
-msgstr ""
+msgstr "\"Просто хочу, щоб ти почувалася як вдома.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1055
 msgid "\"Like what?\""
-msgstr ""
+msgstr "\"Наприклад?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1055
 msgid "\"Why do you talk like you do all the time?\""
-msgstr ""
+msgstr "\"Чому ти завжди говориш так, як говориш?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1074
 msgid "?mc.charisma>=4@[mc.charisma]/4|{image=stats cha}|\"I thought you were Scottish?\""
-msgstr ""
+msgstr "?mc.charisma>=4@[mc.charisma]/4|{image=stats cha}|\"А ти хіба не шотландка?\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1074
 msgid "\"Only the posh ones.\""
-msgstr ""
+msgstr "\"Тільки шикарні.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1074
 msgid "\"I've seen the movies!\""
-msgstr ""
+msgstr "\"Я бачив це в фільмах!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1113
 msgid "\"I thought you liked polite...\""
-msgstr ""
+msgstr "\"Я думав, тобі подобаються ввічливі...\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1113
 msgid "?mc.charisma>=4@[mc.charisma]/4|{image=stats cha}|\"'Tis but how I prattle!\""
-msgstr ""
+msgstr "?mc.charisma>=4@[mc.charisma]/4|{image=stats cha}|\"Сказати щось з акцентом\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1113
 msgid "\"Remind me to be ruder.\""
-msgstr ""
+msgstr "\"Нагадай мені бути грубішим.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1163
 msgid "\"Sorry... I overreacted...\""
-msgstr ""
+msgstr "\"Вибач... Я трохи переборщив...\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1163
 msgid "?mc.intellect>=4@[mc.intellect]/4|{image=stats int}|\"That's actually incorrect!\""
-msgstr ""
+msgstr "?mc.intellect>=4@[mc.intellect]/4|{image=stats int}|\"Насправді це неправда!\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1163
 msgid "\"Don't sass me, woman. I could snap you like a twig.\""
-msgstr ""
+msgstr "\"Не задирайся, жінко. Я можу зламати тебе, як гілку.\""
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1201
 msgid "Play it cool"
-msgstr ""
+msgstr "Розслабся"
 
 # game/1000_base_game/game/characters/isabelle/q_isabelle_tour.rpy:1201
 msgid "Don't let her slip away"
-msgstr ""
+msgstr "Не дай їй піти"
 
