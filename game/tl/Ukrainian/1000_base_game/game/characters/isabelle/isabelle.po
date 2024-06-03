@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-04-09 10:57\n"
+"PO-Revision-Date: 2024-06-03 17:54\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2378 #-#-# translate crowdin isabelle_talk_romance_disabled_fa619cce:
 msgid "I don't think [isabelle] wants to talk to me after what I did to her..."
@@ -18,11 +18,11 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2382 #-#-# translate crowdin isabelle_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
-msgstr ""
+msgstr "Напевно, з неї вже досить моєї балаканини на сьогодні."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2386 #-#-# translate crowdin isabelle_flirt_over_7d6bfd23:
 msgid "She must be sick of my poor attempts at flirting by now..."
-msgstr ""
+msgstr "Їй, мабуть, вже набридли мої невдалі спроби флірту..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2391 #-#-# translate crowdin isabelle_talk_one_ec55b3bd:
 msgid "[_isabelle_s_smile_] When I was little, Dad used to take me on vacation to Scotland."
@@ -1048,7 +1048,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2907 #-#-# translate crowdin isabelle_flirt_sunset_2b35b6fe:
 msgid "[_mc_] ..."
-msgstr ""
+msgstr "[_mc_] ..."
 
 # game/1000_base_game/game/characters/isabelle/isabelle.rpy:2908 #-#-# translate crowdin isabelle_flirt_sunset_f34ec202:
 msgid "[_isabelle_s_roof_sunset_hug_skeptical_] Come on, I was taking the piss!"
