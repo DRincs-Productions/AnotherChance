@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-06-04 20:49\n"
+"PO-Revision-Date: 2024-06-04 21:54\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/flora.rpy:2614 #-#-# translate crowdin flora_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
@@ -170,7 +170,7 @@ msgstr "[_flora_s_blush_] Ммм, так!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2722 #-#-# translate crowdin flora_flirt_two_591ac8c9:
 msgid "[_flora_s_smile_] Do you know what my favorite animals are?"
-msgstr ""
+msgstr "[_flora_s_smile_] Знаєш, які мої улюблені тварини?"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2724 #-#-# translate crowdin flora_flirt_two_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -178,39 +178,39 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2728 #-#-# translate crowdin flora_flirt_two_dcdb7025:
 msgid "[_mc_] Ants!"
-msgstr ""
+msgstr "[_mc_] Мурахи!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2729 #-#-# translate crowdin flora_flirt_two_80e87e15:
 msgid "[_flora_s_neutral_] Close, but no!"
-msgstr ""
+msgstr "[_flora_s_neutral_] Близько, але ні!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2732 #-#-# translate crowdin flora_flirt_two_57f0b40f:
 msgid "[_mc_] Giant squids."
-msgstr ""
+msgstr "[_mc_] Гігантські кальмари."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2735 #-#-# translate crowdin flora_flirt_two_26110630:
 msgid "[_flora_s_laughing_] What? No! That's not true at all... heh!"
-msgstr ""
+msgstr "[_flora_s_laughing_] Що? Ні! Це зовсім не так... хех!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2738 #-#-# translate crowdin flora_flirt_two_fd63bd49:
 msgid "[_mc_] Cats."
-msgstr ""
+msgstr "[_mc_] Коти."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2739 #-#-# translate crowdin flora_flirt_two_459eba06:
 msgid "[_flora_s_neutral_] They're cute, but no."
-msgstr ""
+msgstr "[_flora_s_neutral_] Вони милі, але ні."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2742 #-#-# translate crowdin flora_flirt_two_9ff19176:
 msgid "[_mc_] Badgers."
-msgstr ""
+msgstr "[_mc_] Борсуки."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2743 #-#-# translate crowdin flora_flirt_two_f5d34e0c:
 msgid "[_flora_s_neutral_] I am a Hufflepuff, but no, not badgers."
-msgstr ""
+msgstr "[_flora_s_neutral_] Я гафелпафка, але ні, не борсуки."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2750 #-#-# translate crowdin flora_flirt_three_57c8a557:
 msgid "[_flora_s_neutral_] What kind of date do you think I'd like the most?"
-msgstr ""
+msgstr "[_flora_s_neutral_] Як ти думаєш, яке побачення мені сподобається найбільше?"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2752 #-#-# translate crowdin flora_flirt_three_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -218,43 +218,43 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2756 #-#-# translate crowdin flora_flirt_three_e6bc9976:
 msgid "[_mc_] A dinner at a fancy restaurant."
-msgstr ""
+msgstr "[_mc_] Вечеря у фешенебельному ресторані."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2757 #-#-# translate crowdin flora_flirt_three_266a79c7:
 msgid "[_flora_s_annoyed_] I don't even own a fancy dress..."
-msgstr ""
+msgstr "[_flora_s_annoyed_] У мене навіть немає модної сукні..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2760 #-#-# translate crowdin flora_flirt_three_6d5c0945:
 msgid "[_mc_] A walk on a beach at sunset."
-msgstr ""
+msgstr "[_mc_] Прогулянка пляжем на заході сонця."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2761 #-#-# translate crowdin flora_flirt_three_efd4b3f4:
 msgid "[_flora_s_confused_] I mean, I do like the ocean a lot, but beaches are a bit gross."
-msgstr ""
+msgstr "[_flora_s_confused_] Типу, мені подобається океан, але пляжі трохи огидні."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2764 #-#-# translate crowdin flora_flirt_three_8cdea404:
 msgid "[_mc_] A hike through an ancient forest."
-msgstr ""
+msgstr "[_mc_] Похід древнім лісом."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2767 #-#-# translate crowdin flora_flirt_three_25760a0f:
 msgid "[_flora_s_excited_] Yes! I love traveling the unbeaten path!"
-msgstr ""
+msgstr "[_flora_s_excited_] Так! Я люблю мандрувати неходженими шляхами!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2770 #-#-# translate crowdin flora_flirt_three_bfbb943a:
 msgid "[_mc_] Video games and pizza at home."
-msgstr ""
+msgstr "[_mc_] Відеоігри та піца вдома."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2771 #-#-# translate crowdin flora_flirt_three_915a376d:
 msgid "[_flora_s_angry_] No, that's your ideal date!"
-msgstr ""
+msgstr "[_flora_s_angry_] Ні, це твоє ідеальне побачення!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2778 #-#-# translate crowdin flora_flirt_four_ac3f0623:
 msgid "[_flora_s_annoyed_] So, you're used to telling lies about me..."
-msgstr ""
+msgstr "[_flora_s_annoyed_] Отже, ти звик брехати про мене..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2779 #-#-# translate crowdin flora_flirt_four_0b9983b5:
 msgid "[_flora_s_annoyed_] Tell me something that's true."
-msgstr ""
+msgstr "[_flora_s_annoyed_] Скажи мені щось правдиве."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2781 #-#-# translate crowdin flora_flirt_four_11fdb519:
 msgid "[_extend_]  [nointeract]"
@@ -262,35 +262,35 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2785 #-#-# translate crowdin flora_flirt_four_f3902881:
 msgid "[_mc_] You've banned me from your room indefinitely, but you secretly regret it."
-msgstr ""
+msgstr "[_mc_] Ти заборонила мені з'являтися у своїй кімнаті на невизначений час, але потай шкодуєш про це."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2786 #-#-# translate crowdin flora_flirt_four_36531987:
 msgid "[_flora_s_laughing_] I told you to stop telling lies!"
-msgstr ""
+msgstr "[_flora_s_laughing_] Я ж казала тобі припинити брехати!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2789 #-#-# translate crowdin flora_flirt_four_3e8bd182:
 msgid "[_mc_] You like watching me dance."
-msgstr ""
+msgstr "[_mc_] Тобі подобається дивитися, як я танцюю."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2790 #-#-# translate crowdin flora_flirt_four_e94bb921:
 msgid "[_flora_s_embarrassed_] I don't think anyone on this planet likes your moves..."
-msgstr ""
+msgstr "[_flora_s_embarrassed_] Не думаю, що комусь на цій планеті подобаються твої рухи..."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2793 #-#-# translate crowdin flora_flirt_four_a15f14cc:
 msgid "[_mc_] You secretly wish you could dress more provocatively."
-msgstr ""
+msgstr "[_mc_] Ти потай бажаєш одягатися більш провокаційно."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2794 #-#-# translate crowdin flora_flirt_four_127d5294:
 msgid "[_flora_s_laughing_] I don't know about that!"
-msgstr ""
+msgstr "[_flora_s_laughing_] А я про це і не знала!"
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2795 #-#-# translate crowdin flora_flirt_four_854c82e7:
 msgid "[_mc_] I meant punk-provocative. Not slutty-provocative."
-msgstr ""
+msgstr "[_mc_] Я мав на увазі панк-провокативно. А не розпусто як шльондри."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2798 #-#-# translate crowdin flora_flirt_four_e393b9e4:
 msgid "[_flora_s_neutral_] Oh. Yeah... I'd like to try, at least."
-msgstr ""
+msgstr "[_flora_s_neutral_] Ох. Так... Я хотіла б спробувати, принаймні."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2801 #-#-# translate crowdin flora_flirt_four_ba29fbac:
 msgid "[_mc_] You'd like to cuddle with me in a cottage up north."
