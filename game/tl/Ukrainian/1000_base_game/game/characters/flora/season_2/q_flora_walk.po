@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-06-03 17:55\n"
+"PO-Revision-Date: 2024-06-04 20:49\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:6 #-#-# translate crowdin quest_flora_walk_start_fa9725cf:
 msgid "After everything that happened before the break, I never had the chance to talk to [flora]."
@@ -182,7 +182,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:57 #-#-# translate crowdin quest_flora_walk_start_1b9e82e9:
 msgid "[_mc_] I don't know what you're talking about."
-msgstr ""
+msgstr "[_mc_] Не знаю, про що ти говориш."
 
 # game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:58 #-#-# translate crowdin quest_flora_walk_start_f114c79c:
 msgid "Smirk."
@@ -3460,7 +3460,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:2411 #-#-# translate crowdin quest_flora_walk_forest_glade_upon_cleaning_2b025403:
 msgid "[_flora_s_thinking_] What's that?"
-msgstr ""
+msgstr "[_flora_s_thinking_] Що це?"
 
 # game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:2412 #-#-# translate crowdin quest_flora_walk_forest_glade_upon_cleaning_fdb8e084:
 msgid "[_isabelle_s_cringe_grimy_] The pond. There's a rare species of frogs living there."
