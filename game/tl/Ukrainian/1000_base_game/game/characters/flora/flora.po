@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-06-04 21:54\n"
+"PO-Revision-Date: 2024-06-21 01:07\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/flora.rpy:2614 #-#-# translate crowdin flora_talk_over_9fc4d629:
 msgid "She's probably had enough of my chitchat for today."
@@ -294,11 +294,11 @@ msgstr "[_flora_s_neutral_] Ох. Так... Я хотіла б спробува�
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2801 #-#-# translate crowdin flora_flirt_four_ba29fbac:
 msgid "[_mc_] You'd like to cuddle with me in a cottage up north."
-msgstr ""
+msgstr "[_mc_] Ти хотіла б обійнятися зі мною в котеджі на півночі."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2802 #-#-# translate crowdin flora_flirt_four_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr ""
+msgstr "[_flora_s_cringe_] Гидота."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2809 #-#-# translate crowdin flora_flirt_five_4151ddcf:
 msgid "[_flora_s_concerned_] Since you enjoy embarrassing me so much..."
@@ -306,7 +306,7 @@ msgstr ""
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2810 #-#-# translate crowdin flora_flirt_five_567edf05:
 msgid "[_flora_s_concerned_] Tell me something about me that is wholesome but embarrassing."
-msgstr ""
+msgstr "[_flora_s_concerned_] Розкажи про мене щось корисне, але водночас сором'язливе."
 
 # game/1000_base_game/game/characters/flora/flora.rpy:2812 #-#-# translate crowdin flora_flirt_five_11fdb519:
 msgid "[_extend_]  [nointeract]"
