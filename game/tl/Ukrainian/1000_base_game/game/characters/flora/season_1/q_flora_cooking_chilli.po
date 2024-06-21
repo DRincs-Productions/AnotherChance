@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-06-03 17:54\n"
+"PO-Revision-Date: 2024-06-21 01:07\n"
 
 # TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
 msgid "You picked up a cooking item. Is it the right one? No one knows."
@@ -62,7 +62,7 @@ msgstr "[_mc_] Що я ще не робив?"
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:95 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr ""
+msgstr "[_flora_s_cringe_] Гидота."
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:96 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_23cf38a6:
 msgid "I'd love to know what images just popped up in her head."
@@ -466,7 +466,7 @@ msgstr "[_mc_] Я подумав, що це додасть особливого 
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:280 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c56e37fe:
 msgid "[_flora_s_cringe_] Gross."
-msgstr ""
+msgstr "[_flora_s_cringe_] Гидота."
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:281 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_b5f0123a:
 msgid "[_flora_s_cringe_] I'll have to wash it now."
