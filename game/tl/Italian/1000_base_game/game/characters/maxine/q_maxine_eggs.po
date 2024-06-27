@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-09 10:25\n"
+"PO-Revision-Date: 2024-06-27 19:49\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:2 #-#-# translate crowdin quest_maxine_eggs_start_7b81f9fd:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:2 #-#-# translate crowdin quest_maxine_eggs_start_7b81f9fd:
 msgid "[_maxine_] You have to schedule an appointment. I'm a very busy woman."
 msgstr "[_maxine_] Devi programmare un appuntamento. Sono una donna molto impegnata."
 
@@ -32,7 +32,7 @@ msgstr "[_maxine_] Questo ridurrebbe drasticamente il tempo che devo spendere gl
 msgid "[_maxine_s_smile_] Anyway, how can I help you?"
 msgstr "[_maxine_s_smile_] Comunque, come posso aiutarti?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:9 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:10 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -60,7 +60,7 @@ msgstr "Fuck... Ho bisogno di quell'appuntamento male."
 msgid "Being a let down this early in the year is not how you capitalize on a second chance."
 msgstr "Essere un deluso questo all'inizio dell'anno non è come si capitalizza di una seconda possibilità."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:20 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519_1:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:21 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -116,7 +116,7 @@ msgstr "Per uno, mi metterei in cima alla lista degli appuntamenti, ma [maxine] 
 msgid "The only problem is that she's really good at sniffing out lies."
 msgstr "L'unico problema è che lei è davvero bravo a sniffing fuori menzogne."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:43 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519_2:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:44 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -328,7 +328,7 @@ msgstr "[_mc_] Cosa? Tra quasi un anno!"
 msgid "[_maxine_s_smile_] These are busy times."
 msgstr "[_maxine_s_smile_] Questi sono tempi occupati."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:121 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519_3:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:122 #-#-# translate crowdin quest_maxine_eggs_start_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -356,7 +356,7 @@ msgstr "[_maxine_s_thinking_] Come sei con una macchina fotografica?"
 msgid "If she means looking at photos of scantily clad women, then few people have my experience."
 msgstr "Se lei significa guardare le foto di donne scarsamente rivestite, allora poche persone hanno la mia esperienza."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:138 #-#-# translate crowdin quest_maxine_eggs_start_journalist_11fdb519:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:139 #-#-# translate crowdin quest_maxine_eggs_start_journalist_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -696,7 +696,7 @@ msgstr "[_mc_] Huh..."
 msgid "[_cyberia_] The email detailing your crimes is now ready to be dispatched."
 msgstr "[_cyberia_] L'email che descrive i tuoi crimini è ora pronta per essere inviata."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:255 #-#-# translate crowdin quest_maxine_eggs_computer_11fdb519:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:256 #-#-# translate crowdin quest_maxine_eggs_computer_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -928,7 +928,7 @@ msgstr "[_mc_] Ti prometto che è innocuo. È un sistema davvero semplice che ti
 msgid "[_maxine_s_thinking_] Time is important... but so is safety..."
 msgstr "[_maxine_s_thinking_] Il tempo è importante... ma così è la sicurezza..."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:335 #-#-# translate crowdin quest_maxine_eggs_deliver_11fdb519:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:336 #-#-# translate crowdin quest_maxine_eggs_deliver_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1320,7 +1320,7 @@ msgstr "[_mc_] Hey, [lindsey]! Sono io, [mc]. Posso spiegare..."
 msgid "[_lindsey_s_cringe_] [mc]? Why are you all silvery?"
 msgstr "[_lindsey_s_cringe_] [mc]? Perché siete tutti argentati?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:473 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:474 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1404,7 +1404,7 @@ msgstr "[_mc_] È una storia lunga."
 msgid "[_lindsey_s_skeptical_] Mhm? Care to share?"
 msgstr "[_lindsey_s_skeptical_] Mhm? Vuoi condividere?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:506 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_1:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:507 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1592,7 +1592,7 @@ msgstr "[_mc_] Non pensavo che nessuno sarebbe stato qui..."
 msgid "[_lindsey_s_angry_] So, what exactly are you doing in the women's bathroom after dark?"
 msgstr "[_lindsey_s_angry_] Quindi, cosa stai facendo esattamente nel bagno delle donne dopo il buio?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:573 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_2:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:574 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1888,7 +1888,7 @@ msgstr "Lei è gentile e perdonata, ma forse un po' ingenua. È entrata nella ba
 msgid "Hmm... maybe there's another photo to be had?"
 msgstr "Hmm... forse c'è un'altra foto da avere?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:665 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_3:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:666 #-#-# translate crowdin quest_maxine_eggs_bathroom_encounter_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2228,7 +2228,7 @@ msgstr "[_mc_] Ecco la tua fotocamera. Il negativo è ancora in esso."
 msgid "[_maxine_s_concerned_] Very good! It'll make a thought-provoking headline."
 msgstr "[_maxine_s_concerned_] Molto buono! Farà un titolo stimolante."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:789 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_11fdb519:
+# game/1000_base_game/game/characters/maxine/q_maxine_eggs.rpy:790 #-#-# translate crowdin quest_maxine_eggs_meeting_soon_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
