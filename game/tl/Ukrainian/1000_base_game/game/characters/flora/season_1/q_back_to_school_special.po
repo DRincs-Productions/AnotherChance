@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-06-03 17:54\n"
+"PO-Revision-Date: 2024-06-27 19:59\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:3 #-#-# translate crowdin flora_quest_back_to_school_special_190f85fb:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:3 #-#-# translate crowdin flora_quest_back_to_school_special_190f85fb:
 msgid "[_flora_s_angry_] Breakfast!"
 msgstr "[_flora_s_angry_] Сніданок!"
 
@@ -48,7 +48,7 @@ msgstr "[_mc_] Сніданок?"
 msgid "[_flora_s_angry_] Yes! Did you make the breakfast yet?"
 msgstr "[_flora_s_angry_] Так! Ти вже приготував його?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:13 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:14 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -140,7 +140,7 @@ msgstr "[_flora_s_kitchen_cereals_2_] На що ти дивишся?"
 msgid "Huh? Crap..."
 msgstr ""
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:48 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_1:
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:49 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -216,7 +216,7 @@ msgstr "[_flora_s_neutral_] Окей, відповідай на ці запит�
 msgid "[_flora_s_neutral_] First question. You're stuck in a room. What's the first thing you do?"
 msgstr "[_flora_s_neutral_] Перше запитання. Ти застряг у кімнаті. Що будеш робити в першу чергу?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:77 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_2:
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:78 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -292,7 +292,7 @@ msgstr "[_flora_s_neutral_] Твій бос йде сюди, та кричить
 msgid "[_flora_s_neutral_] What's your response?"
 msgstr "[_flora_s_neutral_] Яка твоя відповідь?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:108 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_3:
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:109 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -372,7 +372,7 @@ msgstr "[_flora_s_confident_] Ти також знаєш, що якщо піти
 msgid "[_flora_s_confident_] What do you do?"
 msgstr "[_flora_s_confident_] Що ти зробиш?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:145 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_4:
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:146 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_4:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -400,7 +400,7 @@ msgstr "[_mc_] Окей! Розслабся. Можеш повторити за�
 msgid "[_flora_s_annoyed_] No. What do you do?"
 msgstr "[_flora_s_annoyed_] Ні. Що ти зробиш?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:158 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_5:
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:159 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_5:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -512,7 +512,7 @@ msgstr "[_flora_s_annoyed_] Ти в Антарктиді, намагаєшся �
 msgid "[_flora_s_annoyed_] What do you do?"
 msgstr "[_flora_s_annoyed_] Що ти зробиш?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:198 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_6:
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:199 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_6:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -560,7 +560,7 @@ msgstr "[_flora_s_thinking_] Окей, останнє питання."
 msgid "[_flora_s_flirty_] Who's your ideal lover?"
 msgstr "[_flora_s_flirty_] Хто для тебе ідеальний партнер?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:225 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_7:
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:226 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_7:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -584,7 +584,7 @@ msgstr "[_flora_s_annoyed_] Припини робити це дивним! Ти 
 msgid "[_flora_s_annoyed_] It's the last question. Can we just get this over with?"
 msgstr "[_flora_s_annoyed_] Це останнє питання. Ми можемо просто покінчити з цим?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:237 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_8:
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:238 #-#-# translate crowdin flora_quest_back_to_school_special_11fdb519_8:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
