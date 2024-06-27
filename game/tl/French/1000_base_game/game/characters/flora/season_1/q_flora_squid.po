@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-11 08:33\n"
+"PO-Revision-Date: 2024-06-27 19:46\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:13 #-#-# translate crowdin quest_flora_squid_start_3779c151:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:13 #-#-# translate crowdin quest_flora_squid_start_3779c151:
 msgid "[_mc_] Hey, [flora]? Have you seen my electric toothbrush?"
 msgstr "[_mc_] Hé, [flora] ? Avez-vous vu ma brosse à dents électrique ?"
 
@@ -104,7 +104,7 @@ msgstr "[_mc_] [flora], êtes-vous ... jaloux ?"
 msgid "[_flora_] N-no! Not even a little bit!"
 msgstr "[_flora_] N-no ! Pas même un peu !"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:40 #-#-# translate crowdin quest_flora_squid_start_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:41 #-#-# translate crowdin quest_flora_squid_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -528,7 +528,7 @@ msgstr "[_mc_] Tout va bien ?"
 msgid "[_flora_s_sad_wet_] No! Nothing is okay."
 msgstr "[_flora_s_sad_wet_] Non ! Rien ne va bien."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:195 #-#-# translate crowdin quest_flora_squid_trail_flora_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:196 #-#-# translate crowdin quest_flora_squid_trail_flora_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -948,7 +948,7 @@ msgstr "[_mc_] Je ne peux pas y aller. Je serai en détention."
 msgid "[_flora_s_afraid_] Detention?! This is [cuthbert]'s life we're talking about!"
 msgstr "[_flora_s_afraid_] Détention ?! C'est la vie de [cuthbert]dont nous parlons !"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:346 #-#-# translate crowdin quest_flora_squid_choice_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:347 #-#-# translate crowdin quest_flora_squid_choice_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1044,7 +1044,7 @@ msgstr "[_mc_] Que faites-vous ?"
 msgid "[_mrsl_s_surprised_] [mc]! Don't sneak up on an old lady like that! [withvpunch]"
 msgstr "[_mrsl_s_surprised_] [mc]! Ne pas éternuement sur une vieille dame comme ça ! [withvpunch]"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:399 #-#-# translate crowdin quest_flora_squid_wait_mrsl_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:400 #-#-# translate crowdin quest_flora_squid_wait_mrsl_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1236,7 +1236,7 @@ msgstr "[_flora_s_cringe_] Je vous ai dit de ne pas m'appeler ça !"
 msgid "[_flora_s_cringe_] But no, still no sign of poor [cuthbert]..."
 msgstr "[_flora_s_cringe_] Mais non, toujours pas de signe de pauvre [cuthbert]..."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:467 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:468 #-#-# translate crowdin quest_flora_squid_wait_trophy_case_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1764,7 +1764,7 @@ msgstr "[_mc_] Oui, je l'ai fait !"
 msgid "[_flora_s_skeptical_] Where did you look?"
 msgstr "[_flora_s_skeptical_] Où as-tu eu l'air ?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:668 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:669 #-#-# translate crowdin quest_flora_squid_bathroom_flora2_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2076,7 +2076,7 @@ msgstr "[_flora_] Aide-moi !"
 msgid "[cuthbert] might very well be in these murky waters. It's hard to know for sure."
 msgstr "Le [cuthbert] pourrait très bien se trouver dans ces eaux troubles. C'est difficile de savoir avec certitude."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:806 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:807 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_bottom_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2328,7 +2328,7 @@ msgstr "La vasectomie dans toute sa splendeur !"
 msgid "[_flora_s_smile_] Oh, my god! [cuthbert], you saved me!"
 msgstr "[_flora_s_Souriez_] Oh, mon dieu ! [cuthbert], tu m'as sauvé !"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:972 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:973 #-#-# translate crowdin quest_flora_squid_forest_glade_stream_middle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2584,7 +2584,7 @@ msgstr "[_flora_] Non !"
 msgid "[_mc_] ..."
 msgstr "[_mc_]..."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1083 #-#-# translate crowdin quest_flora_squid_shower_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1084 #-#-# translate crowdin quest_flora_squid_shower_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3581,8 +3581,8 @@ msgid "\"Are you okay?\""
 msgstr "\"Tu vas bien ?\""
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1083
-msgid "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|Pull her into a hug"
-msgstr "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|Enfoncez-la dans un câlin"
+msgid "?flora.love>=15@[flora.love]/15|{image=flora contact_icon}|{image=stats love_3}|Pull her into a hug"
+msgstr ""
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1083
 msgid "?flora.lust>=10@[flora.lust]/10|{image=flora contact_icon}|{image=stats lust_3}|Touch her ass"
