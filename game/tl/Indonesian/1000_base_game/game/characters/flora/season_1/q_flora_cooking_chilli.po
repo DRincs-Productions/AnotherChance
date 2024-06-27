@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-04-09 11:58\n"
+"PO-Revision-Date: 2024-06-27 20:04\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
 msgid "You picked up a cooking item. Is it the right one? No one knows."
 msgstr ""
 
@@ -128,7 +128,7 @@ msgstr ""
 msgid "[_flora_] Did you at least bring the pot?"
 msgstr ""
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:125 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:126 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -364,7 +364,7 @@ msgstr ""
 msgid "[_flora_s_excited_] Want to have a taste?"
 msgstr ""
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:228 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:229 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -700,7 +700,7 @@ msgstr ""
 msgid "It went to voicemail."
 msgstr ""
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:415 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:416 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -756,7 +756,7 @@ msgstr ""
 msgid "[_mc_] Oh, I see."
 msgstr ""
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:447 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:448 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -792,7 +792,7 @@ msgstr ""
 msgid "[_flora_s_embarrassed_] Aaaah!"
 msgstr ""
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:461 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519_1:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:462 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1072,7 +1072,7 @@ msgstr ""
 msgid "[flora] being naked is nothing new to me, but this feels wrong and inappropriate. But she is suffering..."
 msgstr ""
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:578 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:579 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1544,7 +1544,7 @@ msgstr ""
 msgid "She didn't even care to check if I left."
 msgstr ""
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:817 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:818 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
