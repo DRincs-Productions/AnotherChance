@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-09 11:06\n"
+"PO-Revision-Date: 2024-06-27 20:00\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:5 #-#-# translate crowdin quest_mrsl_table_start_a8e97ccd:
 msgid "God, I can't believe it."
 msgstr ""
 
@@ -36,7 +36,7 @@ msgstr ""
 msgid "[_mrsl_s_confident_] Hello there, [mc]! How's it going?"
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:13 #-#-# translate crowdin quest_mrsl_table_start_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:14 #-#-# translate crowdin quest_mrsl_table_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -108,7 +108,7 @@ msgstr ""
 msgid "[_mrsl_s_afraid_] I'm sorry, but it goes without saying that the members of the swim team need to be able to swim."
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:37 #-#-# translate crowdin quest_mrsl_table_start_11fdb519_1:
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:38 #-#-# translate crowdin quest_mrsl_table_start_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -400,7 +400,7 @@ msgstr ""
 msgid "What the hell? I didn't even touch it..."
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:135 #-#-# translate crowdin quest_mrsl_table_letter_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:136 #-#-# translate crowdin quest_mrsl_table_letter_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -792,7 +792,7 @@ msgstr ""
 msgid "[_flora_s_annoyed_] Apologize."
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:471 #-#-# translate crowdin quest_mrsl_table_flora_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:472 #-#-# translate crowdin quest_mrsl_table_flora_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1140,7 +1140,7 @@ msgstr ""
 msgid "Oh, god. Don't listen to their siren song."
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:621 #-#-# translate crowdin quest_mrsl_table_morning_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:622 #-#-# translate crowdin quest_mrsl_table_morning_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1256,7 +1256,7 @@ msgstr ""
 msgid "[_mc_] Hey, [lacey]..."
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:667 #-#-# translate crowdin quest_mrsl_table_school_homeroom_door_talk_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:668 #-#-# translate crowdin quest_mrsl_table_school_homeroom_door_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1416,7 +1416,7 @@ msgstr ""
 msgid "There's at least two grand here..."
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:721 #-#-# translate crowdin quest_mrsl_table_school_homeroom_globe_interact_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:722 #-#-# translate crowdin quest_mrsl_table_school_homeroom_globe_interact_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1472,7 +1472,7 @@ msgstr ""
 msgid "It's a bit cramped, but it might be my best shot."
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:755 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:756 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1704,7 +1704,7 @@ msgstr ""
 msgid "Okay, this is getting out of hand!"
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:835 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_11fdb519_1:
+# game/1000_base_game/game/characters/mrsl/q_mrsl_table.rpy:836 #-#-# translate crowdin quest_mrsl_table_school_homeroom_teacher_desk_interact_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
