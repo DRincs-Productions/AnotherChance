@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-09 10:15\n"
+"PO-Revision-Date: 2024-06-27 19:46\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:3 #-#-# translate crowdin kate_quest_search_for_nurse_start_54d5c121:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:3 #-#-# translate crowdin kate_quest_search_for_nurse_start_54d5c121:
 msgid "[_kate_s_neutral_] Excuse you. Why are you standing so near me?"
 msgstr "[Excusez-vous. Pourquoi vous tenez-vous si près de moi ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:5 #-#-# translate crowdin kate_quest_search_for_nurse_start_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:6 #-#-# translate crowdin kate_quest_search_for_nurse_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -192,7 +192,7 @@ msgstr "[_mc_] Pourquoi me demanderiez-vous cela ?"
 msgid "[_flora_s_neutral_] It was part of the original questionnaire, I just forgot to ask you."
 msgstr "[_flora_s_neutral_] Il faisait partie du questionnaire original, j'ai juste oublié de vous le demander."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:72 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:73 #-#-# translate crowdin kate_quest_search_for_nurse_flora_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -364,7 +364,7 @@ msgstr "[_mc_] Excusez-moi, avez-vous vu l'infirmière de l'école ?"
 msgid "[_isabelle_s_concerned_] Are you quite all right?"
 msgstr "[_isabelle_s_concerned_] Vous avez tout à fait raison ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:139 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:140 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -388,7 +388,7 @@ msgstr "[_mc_] Ok, pas de soucis."
 msgid "[_isabelle_s_sad_] I should probably get myself a checkup soon... I've been feeling a bit tired lately."
 msgstr "[_isabelle_s_sad_] Je devrais probablement me faire un examen bientôt ... J'ai été un peu fatigué ces derniers temps."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:149 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:150 #-#-# translate crowdin kate_quest_search_for_nurse_isabelle_talk_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -508,7 +508,7 @@ msgstr "[_nurse_s_afraid_] Non ! J'ai sorti des herbes !"
 msgid "[_kate_s_excited_] What do you think? Should we believe her?"
 msgstr "[_kate_s_excited_] Que pensez-vous ? Devrions-nous la croire ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:205 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:206 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -764,7 +764,7 @@ msgstr "Les [nurse] se moque de l'humiliation, senteurs que la chaleur s'est gli
 msgid "[_kate_s_AnalExam02b_] [mc], do you think we should give her a rectal examination or a vaginal one?"
 msgstr "[_kate_s_AnalExam02b_] [mc], pensez-vous que nous devrions lui donner un examen rectal ou un examen vaginal ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:302 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:303 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -976,7 +976,7 @@ msgstr "[_nurse_] Je. .. umm ... Je ne sais pas ..."
 msgid "[_kate_s_AnalExam04b_] Okay, let's get a second opinion."
 msgstr "[_kate_s_AnalExam04b_] Ok, allons avoir un deuxième avis."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:369 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519_2:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_search_for_nurse.rpy:370 #-#-# translate crowdin kate_quest_search_for_nurse_meet_kate_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
