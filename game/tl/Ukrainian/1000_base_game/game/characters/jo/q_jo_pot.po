@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Ukrainian\n"
 "Language: uk_UA\n"
-"PO-Revision-Date: 2024-06-03 17:54\n"
+"PO-Revision-Date: 2024-06-27 19:58\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:3 #-#-# translate crowdin quest_jo_pot_start_a253a57b:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/jo/q_jo_pot.rpy:3 #-#-# translate crowdin quest_jo_pot_start_a253a57b:
 msgid "[_jo_] How's it going, honey?"
 msgstr ""
 
@@ -68,7 +68,7 @@ msgstr "[_mc_] ..."
 msgid "[_flora_s_neutral_s_flip_] So, who is [jo] talking to?"
 msgstr ""
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:21 #-#-# translate crowdin quest_jo_pot_start_11fdb519:
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:22 #-#-# translate crowdin quest_jo_pot_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -304,7 +304,7 @@ msgstr ""
 msgid "[_nurse_s_thinking_] I suppose that's true, but I'm very short on time and have to get back to work..."
 msgstr ""
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:106 #-#-# translate crowdin quest_jo_pot_getnurse_11fdb519:
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:107 #-#-# translate crowdin quest_jo_pot_getnurse_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -356,7 +356,7 @@ msgstr ""
 msgid "[_nurse_s_blush_] I have a break now... I could probably help you out."
 msgstr ""
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:132 #-#-# translate crowdin quest_jo_pot_getnurse_11fdb519_1:
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:133 #-#-# translate crowdin quest_jo_pot_getnurse_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -880,7 +880,7 @@ msgstr ""
 msgid "[_jo_s_concerned_cup_] What's in this?"
 msgstr ""
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:341 #-#-# translate crowdin quest_jo_pot_tea_home_11fdb519:
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:342 #-#-# translate crowdin quest_jo_pot_tea_home_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1096,7 +1096,7 @@ msgstr ""
 msgid "[_jo_] zZzz... itchy... zZz... it's itchy..."
 msgstr ""
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:414 #-#-# translate crowdin quest_jo_pot_tea_home_11fdb519_1:
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:415 #-#-# translate crowdin quest_jo_pot_tea_home_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1744,7 +1744,7 @@ msgstr ""
 msgid "This seems like a lot of work. Maybe I could get someone else to do it for me?"
 msgstr ""
 
-# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:754 #-#-# translate crowdin quest_jo_pot_meadow_11fdb519:
+# game/1000_base_game/game/characters/jo/q_jo_pot.rpy:755 #-#-# translate crowdin quest_jo_pot_meadow_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
