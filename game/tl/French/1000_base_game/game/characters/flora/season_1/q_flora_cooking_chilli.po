@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-09 10:15\n"
+"PO-Revision-Date: 2024-06-27 19:46\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
 msgid "You picked up a cooking item. Is it the right one? No one knows."
 msgstr "Tu as ramassé un article de cuisine. C'est la bonne ? Personne ne le sait."
 
@@ -128,7 +128,7 @@ msgstr "[_flora_] Cela a pris du temps."
 msgid "[_flora_] Did you at least bring the pot?"
 msgstr "[_flora_] Avez-vous au moins fait venir le pot ?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:125 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:126 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -364,7 +364,7 @@ msgstr "[_flora_s_neutral_] Les gens de mon stage vont l'aimer !"
 msgid "[_flora_s_excited_] Want to have a taste?"
 msgstr "[_flora_s_excited_] Vous voulez avoir un goût ?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:228 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:229 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -700,7 +700,7 @@ msgstr "..."
 msgid "It went to voicemail."
 msgstr "Il est allé à la messagerie vocale."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:415 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:416 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -756,7 +756,7 @@ msgstr "[_flora_s_embarrassed_]..."
 msgid "[_mc_] Oh, I see."
 msgstr "[_mc_] Oh, je vois."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:447 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:448 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -792,7 +792,7 @@ msgstr "[_flora_s_skeptical_] Vous ..."
 msgid "[_flora_s_embarrassed_] Aaaah!"
 msgstr "[_flora_s_embarrassed_] Aaaah !"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:461 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519_1:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:462 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1072,7 +1072,7 @@ msgstr "Elle a trop de mal à penser droit."
 msgid "[flora] being naked is nothing new to me, but this feels wrong and inappropriate. But she is suffering..."
 msgstr "[flora] être nu n'est rien de nouveau pour moi, mais cela se sent mal et inapproprié. Mais elle souffre ..."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:578 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:579 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1544,7 +1544,7 @@ msgstr "Elle est totalement hors de lui. Sa main se déplace entre ses jambes."
 msgid "She didn't even care to check if I left."
 msgstr "Elle n'a même pas pris soin de vérifier si je suis partie."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:817 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_11fdb519:
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:818 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
