@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-04-09 10:32\n"
+"PO-Revision-Date: 2024-06-27 19:51\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:3 #-#-# translate crowdin quest_kate_stepping_start_b9e60c75:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:3 #-#-# translate crowdin quest_kate_stepping_start_b9e60c75:
 msgid "[_kate_s_skeptical_] What have I told you about looking at me?"
 msgstr "[_kate_s_skeptical_] Che cosa ti ho detto di guardarmi?"
 
@@ -40,7 +40,7 @@ msgstr "[_mc_] ..."
 msgid "[_kate_s_eyeroll_] What is it, [mc]?"
 msgstr "[_kate_s_eyeroll_] Che cos'è, [mc]?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:11 #-#-# translate crowdin quest_kate_stepping_start_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:12 #-#-# translate crowdin quest_kate_stepping_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -60,7 +60,7 @@ msgstr "[_mc_] Sì, ma'am..."
 msgid "[_kate_s_excited_] Your compliments are useless, anyway. Why should I care about your opinion?"
 msgstr "[_kate_s_excited_] I tuoi complimenti sono inutili, comunque. Perché dovrei preoccuparmi della tua opinione?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:20 #-#-# translate crowdin quest_kate_stepping_start_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:21 #-#-# translate crowdin quest_kate_stepping_start_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -182,7 +182,7 @@ msgstr "[_mc_] stavo solo cercando di essere gentile!"
 msgid "[_kate_s_skeptical_] Don't give me attitude. I don't care for it one bit."
 msgstr "[_kate_s_skeptical_] Non mi dia atteggiamento. Non mi importa un po'."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:87 #-#-# translate crowdin quest_kate_stepping_start_11fdb519_2:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:88 #-#-# translate crowdin quest_kate_stepping_start_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -242,7 +242,7 @@ msgstr "[_mc_] Avresti potuto dire: \"Grazie\"."
 msgid "[_kate_s_angry_] Are you going to keep arguing?"
 msgstr "[_kate_s_angry_] Continuerai a litigare?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:111 #-#-# translate crowdin quest_kate_stepping_start_11fdb519_3:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:112 #-#-# translate crowdin quest_kate_stepping_start_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -342,7 +342,7 @@ msgstr "[_kate_s_excited_] Bene. Suppongo che tu sia stato abbastanza buono."
 msgid "[_kate_s_excited_] What do you want, then?"
 msgstr "[_kate_s_excited_] Che cosa vuoi, allora?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:147 #-#-# translate crowdin quest_kate_stepping_start_11fdb519_4:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:148 #-#-# translate crowdin quest_kate_stepping_start_11fdb519_4:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -610,7 +610,7 @@ msgstr "[_flora_s_concerned_cop_] sto facendo le domande qui, punk."
 msgid "[_flora_s_concerned_cop_] Now, why is your hand on this doorknob?"
 msgstr "[_flora_s_concerned_cop_] Ora, perché è la tua mano su questa manopola di porta?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:263 #-#-# translate crowdin quest_kate_stepping_magazine_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:264 #-#-# translate crowdin quest_kate_stepping_magazine_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1496,7 +1496,7 @@ msgstr "[_maxine_s_skeptical_] Hmm... Non posso dire di avere."
 msgid "[_maxine_s_skeptical_] What about you, [mc]?"
 msgstr "[_maxine_s_skeptical_] Che ne dici di te, [mc]?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:580 #-#-# translate crowdin quest_kate_stepping_meeting_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:581 #-#-# translate crowdin quest_kate_stepping_meeting_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1590,7 +1590,7 @@ msgstr "[_maxine_s_thinking_] Pensi che sia più grande della storia del sapone 
 msgid "[_kate_s_eyeroll_] Why are you asking him...?"
 msgstr "[_kate_s_eyeroll_] Perché gli stai chiedendo...?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:613 #-#-# translate crowdin quest_kate_stepping_meeting_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:614 #-#-# translate crowdin quest_kate_stepping_meeting_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1888,7 +1888,7 @@ msgstr "[_mc_] Non prenderò tutti questi rischi per niente."
 msgid "[_kate_s_skeptical_] Well, what do you want, then?"
 msgstr "[_kate_s_skeptical_] Beh, che cosa vuoi, allora?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:740 #-#-# translate crowdin quest_kate_stepping_gym_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:741 #-#-# translate crowdin quest_kate_stepping_gym_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2008,7 +2008,7 @@ msgstr "[_isabelle_s_neutral_] Allora, che cosa stai facendo?"
 msgid "[_mc_] Not much. I was just wondering..."
 msgstr "[_mc_] Non molto. Mi stavo solo chiedendo..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:795 #-#-# translate crowdin quest_kate_stepping_isabelle_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:796 #-#-# translate crowdin quest_kate_stepping_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2032,7 +2032,7 @@ msgstr "[_isabelle_s_blush_] È così bello da voi!"
 msgid "[_isabelle_s_sad_] Wait, is this the bottle I gave you?"
 msgstr "[_isabelle_s_sad_] Aspetta, questa è la bottiglia che ti ho dato?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:806 #-#-# translate crowdin quest_kate_stepping_isabelle_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:807 #-#-# translate crowdin quest_kate_stepping_isabelle_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2132,7 +2132,7 @@ msgstr "[_mc_] La mia mente affamata è nelle tue mani."
 msgid "[_isabelle_s_laughing_] Okay! What sorts of things do you like?"
 msgstr "[_isabelle_s_laughing_] Okay! Che tipi di cose ti piacciono?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:842 #-#-# translate crowdin quest_kate_stepping_isabelle_11fdb519_2:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:843 #-#-# translate crowdin quest_kate_stepping_isabelle_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2626,7 +2626,7 @@ msgstr "[_isabelle_] Maammk-uuuh."
 msgid "[_kate_s_paddling_arrival_isabelle_defiant_ballgag_] Was that a \"thank you,\" or a \"fuck you?\""
 msgstr "[_kate_s_paddling_arrival_isabelle_defiant_ballgag_] È stato un \"grazie\", o un \"cazzo tu?\""
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1055 #-#-# translate crowdin quest_kate_stepping_party_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1056 #-#-# translate crowdin quest_kate_stepping_party_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -3022,7 +3022,7 @@ msgstr "[_kate_s_paddling_lacey_paddle1_red_isabelle_blush_] Haha! Sicuramente p
 msgid "[_kate_s_paddling_lacey_paddle1_red_isabelle_blush_] But since you're so eager, perhaps we should give you more than five? What do you think, [mc]?"
 msgstr "[_kate_s_paddling_lacey_paddle1_red_isabelle_blush_] Ma dato che sei così ansioso, forse dovremmo darti più di cinque? Cosa ne pensi, [mc]?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1305 #-#-# translate crowdin quest_kate_stepping_party_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_stepping.rpy:1306 #-#-# translate crowdin quest_kate_stepping_party_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
