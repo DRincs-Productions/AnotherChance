@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-09 11:06\n"
+"PO-Revision-Date: 2024-06-27 20:00\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:3 #-#-# translate crowdin mrsl_quest_poolside_story_start_9deed393:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:3 #-#-# translate crowdin mrsl_quest_poolside_story_start_9deed393:
 msgid "[_mrsl_s_smile_] Hi, [mc]! How can I help you today?"
 msgstr ""
 
@@ -140,7 +140,7 @@ msgstr ""
 msgid "[_isabelle_s_concerned_] Sad? Why sad?"
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:52 #-#-# translate crowdin poolside_story_isabelle_petition_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:53 #-#-# translate crowdin poolside_story_isabelle_petition_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -488,7 +488,7 @@ msgstr ""
 msgid "Crap. I forgot I spilled mustard on myself last night."
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:171 #-#-# translate crowdin poolside_story_jacklyn_decoarations_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:172 #-#-# translate crowdin poolside_story_jacklyn_decoarations_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -756,7 +756,7 @@ msgstr ""
 msgid "[_mc_] Random question but..."
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:293 #-#-# translate crowdin mrsl_quest_poolside_story_convince_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:294 #-#-# translate crowdin mrsl_quest_poolside_story_convince_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1072,7 +1072,7 @@ msgstr ""
 msgid "[_mrsl_s_flirty_] Ready to get started?"
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:417 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_11fdb519:
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:418 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1116,7 +1116,7 @@ msgstr ""
 msgid "[_mrsl_s_excited_] It is a little unorthodox, but I promise you it'll be fine!"
 msgstr ""
 
-# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:436 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_11fdb519_1:
+# game/1000_base_game/game/characters/mrsl/q_poolside_story.rpy:437 #-#-# translate crowdin mrsl_quest_poolside_story_tryout_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
