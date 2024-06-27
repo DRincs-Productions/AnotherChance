@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/berb/q_berb_fight.rpy:4
 translate crowdin berb_quest_fight_start_325436f1:
@@ -48,7 +48,7 @@ translate crowdin berb_quest_fight_roof_b5785acb_1:
     # "{i}*Beaver noises*{/}"
     "{i}*Beaver noises*{/}"
 
-# game/1000_base_game/game/characters/berb/q_berb_fight.rpy:42
+# game/1000_base_game/game/characters/berb/q_berb_fight.rpy:43
 translate crowdin berb_quest_fight_roof_11fdb519:
 
     # extend "" nointeract
@@ -108,7 +108,7 @@ translate crowdin berb_quest_fight_roof_2c1ab83e:
     # lindsey skeptical "What's that noise?"
     lindsey skeptical "What's that noise?"
 
-# game/1000_base_game/game/characters/berb/q_berb_fight.rpy:70
+# game/1000_base_game/game/characters/berb/q_berb_fight.rpy:71
 translate crowdin berb_quest_fight_roof_11fdb519_1:
 
     # extend "" nointeract
@@ -336,7 +336,7 @@ translate crowdin berb_quest_fight_roof_a7e8135e:
     # flora worried flip "I hope he doesn't fall."
     flora worried flip "I hope he doesn't fall."
 
-# game/1000_base_game/game/characters/berb/q_berb_fight.rpy:135
+# game/1000_base_game/game/characters/berb/q_berb_fight.rpy:136
 translate crowdin berb_quest_fight_roof_11fdb519_2:
 
     # extend "" nointeract

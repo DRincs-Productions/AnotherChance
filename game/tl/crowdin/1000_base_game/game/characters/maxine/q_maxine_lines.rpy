@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:3
 translate crowdin quest_maxine_lines_start_81141839:
@@ -120,7 +120,7 @@ translate crowdin quest_maxine_lines_start_80a5c16f:
     # mc "Umm..."
     mc "Umm..."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:24
+# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:25
 translate crowdin quest_maxine_lines_start_11fdb519:
 
     # extend "" nointeract
@@ -576,7 +576,7 @@ translate crowdin maxine_lines_locator_ac29a40e:
     # maxine skeptical "I don't remember inviting you to a meeting, [mc]."
     maxine skeptical "I don't remember inviting you to a meeting, [mc]."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:121
+# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:122
 translate crowdin maxine_lines_locator_11fdb519:
 
     # extend "" nointeract
@@ -810,7 +810,7 @@ translate crowdin maxine_lines_locator_2d5e636f:
     # "This shit again?"
     "This shit again?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:177
+# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:178
 translate crowdin maxine_lines_locator_11fdb519_1:
 
     # extend "" nointeract
@@ -1212,7 +1212,7 @@ translate crowdin maxine_lines_reward_interact_maxine_27dc556d:
     # maxine concerned "Well, did you hit the shot?"
     maxine concerned "Well, did you hit the shot?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:264
+# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:265
 translate crowdin maxine_lines_reward_interact_maxine_11fdb519:
 
     # extend "" nointeract
@@ -1638,7 +1638,7 @@ translate crowdin quest_maxine_lines_insight_9c3979b7:
     # maxine skeptical "Did I say you could borrow it?"
     maxine skeptical "Did I say you could borrow it?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:362
+# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:363
 translate crowdin quest_maxine_lines_insight_11fdb519:
 
     # extend "" nointeract
@@ -1698,7 +1698,7 @@ translate crowdin quest_maxine_lines_insight_ad5abc84:
     # maxine concerned "We've barely started."
     maxine concerned "We've barely started."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:376
+# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:377
 translate crowdin quest_maxine_lines_insight_11fdb519_1:
 
     # extend "" nointeract
@@ -2418,7 +2418,7 @@ translate crowdin quest_maxine_lines_unscrew_29207d3e:
     # jacklyn laughing "Straight to the point, eh?"
     jacklyn laughing "Straight to the point, eh?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:523
+# game/1000_base_game/game/characters/maxine/q_maxine_lines.rpy:524
 translate crowdin quest_maxine_lines_unscrew_11fdb519:
 
     # extend "" nointeract

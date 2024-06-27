@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/home/bedroom/int_door.rpy:99
 translate crowdin home_bedroom_door_kate_desire_clothes_d0183685:
@@ -126,7 +126,7 @@ translate crowdin home_bedroom_door_interact_kate_blowjob_dream_open_door_9e9223
     # flora annoyed "I'm done with my morning routine and I want to play video games!"
     flora annoyed "I'm done with my morning routine and I want to play video games!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_door.rpy:149
+# game/1000_base_game/game/locations/home/bedroom/int_door.rpy:150
 translate crowdin home_bedroom_door_interact_kate_blowjob_dream_open_door_11fdb519:
 
     # extend "" nointeract

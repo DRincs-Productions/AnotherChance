@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/homeroom/int_door.rpy:48
 translate crowdin school_homeroom_door_isabelle_pass_d9a725f6:
@@ -36,7 +36,7 @@ translate crowdin school_homeroom_door_isabelle_pass_dca1f792:
     # isabelle sad "Everyone else left. Would you mind showing me around?"
     isabelle sad "Everyone else left. Would you mind showing me around?"
 
-# game/1000_base_game/game/locations/school/homeroom/int_door.rpy:55
+# game/1000_base_game/game/locations/school/homeroom/int_door.rpy:56
 translate crowdin school_homeroom_door_isabelle_pass_11fdb519:
 
     # extend "" nointeract
@@ -66,7 +66,7 @@ translate crowdin isabelle_show_more_than_school_052f08d0:
     # isabelle skeptical "And what would that be?"
     isabelle skeptical "And what would that be?"
 
-# game/1000_base_game/game/locations/school/homeroom/int_door.rpy:70
+# game/1000_base_game/game/locations/school/homeroom/int_door.rpy:71
 translate crowdin isabelle_show_more_than_school_11fdb519:
 
     # extend "" nointeract
@@ -252,7 +252,7 @@ translate crowdin school_homeroom_door_isabelle_volunteer_91383f85:
     # isabelle smile "This school is pretty big. I almost got lost on the way here. Thanks for taking me!"
     isabelle smile "This school is pretty big. I almost got lost on the way here. Thanks for taking me!"
 
-# game/1000_base_game/game/locations/school/homeroom/int_door.rpy:133
+# game/1000_base_game/game/locations/school/homeroom/int_door.rpy:134
 translate crowdin school_homeroom_door_isabelle_volunteer_11fdb519:
 
     # extend "" nointeract
@@ -324,7 +324,7 @@ translate crowdin school_homeroom_door_isabelle_volunteer_7b2700da:
     # mrsl surprised "Huh! That's not very nice. How come?"
     mrsl surprised "Huh! That's not very nice. How come?"
 
-# game/1000_base_game/game/locations/school/homeroom/int_door.rpy:162
+# game/1000_base_game/game/locations/school/homeroom/int_door.rpy:163
 translate crowdin school_homeroom_door_isabelle_volunteer_11fdb519_1:
 
     # extend "" nointeract

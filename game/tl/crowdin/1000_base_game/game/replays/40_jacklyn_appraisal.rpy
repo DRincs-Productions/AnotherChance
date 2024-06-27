@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/40_jacklyn_appraisal.rpy:6
 translate crowdin replay_jacklyn_appraisal_2b35b6fe:
@@ -102,7 +102,7 @@ translate crowdin replay_jacklyn_appraisal_cfc6fb68:
     # jacklyn king_of_sweets_lip_bite "Of course! All the junk food in the world got nothing on the old king!{space=-15}"
     jacklyn king_of_sweets_lip_bite "Of course! All the junk food in the world got nothing on the old king!{space=-15}"
 
-# game/1000_base_game/game/replays/40_jacklyn_appraisal.rpy:26
+# game/1000_base_game/game/replays/40_jacklyn_appraisal.rpy:27
 translate crowdin replay_jacklyn_appraisal_11fdb519:
 
     # extend "" nointeract
@@ -696,7 +696,7 @@ translate crowdin replay_jacklyn_appraisal_3dc889ae:
     # jacklyn king_of_sweets_cum_on_face1 "You're the artist now — tell me where you want the final splash of color!{space=-85}"
     jacklyn king_of_sweets_cum_on_face1 "You're the artist now — tell me where you want the final splash of color!{space=-85}"
 
-# game/1000_base_game/game/replays/40_jacklyn_appraisal.rpy:455
+# game/1000_base_game/game/replays/40_jacklyn_appraisal.rpy:456
 translate crowdin replay_jacklyn_appraisal_11fdb519_1:
 
     # extend "" nointeract

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/home/kitchen/int_whoo_sauce.rpy:12
 translate crowdin home_kitchen_sauce_left_interact_c637c0a8:

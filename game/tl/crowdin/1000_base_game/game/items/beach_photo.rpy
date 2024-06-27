@@ -1,50 +1,56 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/items/beach_photo.rpy:18
-translate crowdin beach_photo_interact_7e305248:
+translate crowdin beach_photo_interact_f03c35a1:
 
-    # "I'd forgotten how cute they looked that day."
-    "I'd forgotten how cute they looked that day."
+    # "I had forgotten how cute they looked that day."
+    "I had forgotten how cute they looked that day."
 
 # game/1000_base_game/game/items/beach_photo.rpy:19
-translate crowdin beach_photo_interact_6c689162:
+translate crowdin beach_photo_interact_ef5bc53b:
 
-    # "Well, [flora]'s cute. [jo] is more... sexy. Is that weird to think?"
-    "Well, [flora]'s cute. [jo] is more... sexy. Is that weird to think?"
+    # "Well, [flora] is cute. [jo] is more... sexy? Is that weird to think?"
+    "Well, [flora] is cute. [jo] is more... sexy? Is that weird to think?"
 
 # game/1000_base_game/game/items/beach_photo.rpy:20
-translate crowdin beach_photo_interact_56994717:
+translate crowdin beach_photo_interact_a20cefa7:
 
-    # "The smell of sand and ocean water, bodies sweating in the sun."
-    "The smell of sand and ocean water, bodies sweating in the sun."
+    # "..."
+    "..."
 
 # game/1000_base_game/game/items/beach_photo.rpy:21
-translate crowdin beach_photo_interact_91df8e35:
+translate crowdin beach_photo_interact_ffdbf52c:
 
-    # "[flora] doing that little shimmy towel dance to get out of her clothes."
-    "[flora] doing that little shimmy towel dance to get out of her clothes."
-
-# game/1000_base_game/game/items/beach_photo.rpy:22
-translate crowdin beach_photo_interact_78f82795:
-
-    # "[jo] wrapping her lips tight around a popsicle."
-    "[jo] wrapping her lips tight around a popsicle."
+    # "The smell of sand and ocean water, bodies sweating in the sun..."
+    "The smell of sand and ocean water, bodies sweating in the sun..."
 
 # game/1000_base_game/game/items/beach_photo.rpy:23
-translate crowdin beach_photo_interact_79380792:
+translate crowdin beach_photo_interact_66f2dd5d:
 
-    # "Me trying to hide my raging erection by lying on my stomach."
-    "Me trying to hide my raging erection by lying on my stomach."
+    # "[flora] doing that little shimmy towel dance to get out of her clothes...{space=-15}"
+    "[flora] doing that little shimmy towel dance to get out of her clothes...{space=-15}"
 
 # game/1000_base_game/game/items/beach_photo.rpy:24
-translate crowdin beach_photo_interact_4e66aa01:
+translate crowdin beach_photo_interact_677521bf:
 
-    # "[jo] rubbing sunscreen on my back and legs."
-    "[jo] rubbing sunscreen on my back and legs."
+    # "[jo] wrapping her lips tight around a popsicle..."
+    "[jo] wrapping her lips tight around a popsicle..."
 
 # game/1000_base_game/game/items/beach_photo.rpy:25
-translate crowdin beach_photo_interact_d27b5cd4:
+translate crowdin beach_photo_interact_5ba42d21:
 
-    # "What a time to be alive..."
-    "What a time to be alive..."
+    # "Me trying to hide my raging erection by lying on my stomach..."
+    "Me trying to hide my raging erection by lying on my stomach..."
+
+# game/1000_base_game/game/items/beach_photo.rpy:26
+translate crowdin beach_photo_interact_89428f12:
+
+    # "[jo] rubbing sunscreen on my back and legs..."
+    "[jo] rubbing sunscreen on my back and legs..."
+
+# game/1000_base_game/game/items/beach_photo.rpy:27
+translate crowdin beach_photo_interact_133ccd73:
+
+    # "Man, what a time to be alive."
+    "Man, what a time to be alive."
 

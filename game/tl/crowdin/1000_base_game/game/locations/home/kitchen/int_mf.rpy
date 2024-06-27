@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:50
 translate crowdin home_kitchen_mf_interact_flora_bonsai_d6cedc54:
@@ -36,7 +36,7 @@ translate crowdin home_kitchen_mf_interact_flora_cooking_chilli_distracted_06b85
     # "What should I grab?"
     "What should I grab?"
 
-# game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:68
+# game/1000_base_game/game/locations/home/kitchen/int_mf.rpy:69
 translate crowdin home_kitchen_mf_interact_flora_cooking_chilli_distracted_11fdb519:
 
     # extend "" nointeract

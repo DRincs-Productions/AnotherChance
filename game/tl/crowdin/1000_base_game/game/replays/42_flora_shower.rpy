@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/42_flora_shower.rpy:9
 translate crowdin replay_flora_shower_ee601bed:
@@ -48,7 +48,7 @@ translate crowdin replay_flora_shower_2b35b6fe:
     # mc "..."
     mc "..."
 
-# game/1000_base_game/game/replays/42_flora_shower.rpy:19
+# game/1000_base_game/game/replays/42_flora_shower.rpy:20
 translate crowdin replay_flora_shower_11fdb519:
 
     # extend "" nointeract

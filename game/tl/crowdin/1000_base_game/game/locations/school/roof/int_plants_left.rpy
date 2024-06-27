@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/roof/int_plants_left.rpy:25
 translate crowdin school_roof_plants_left_interact_a889e5c2:

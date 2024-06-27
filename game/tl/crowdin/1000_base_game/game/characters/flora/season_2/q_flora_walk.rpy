@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:6
 translate crowdin quest_flora_walk_start_fa9725cf:
@@ -138,7 +138,7 @@ translate crowdin quest_flora_walk_start_750f7202:
     # flora concerned "What did you want, anyway?"
     flora concerned "What did you want, anyway?"
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:33
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:34
 translate crowdin quest_flora_walk_start_11fdb519:
 
     # extend "" nointeract
@@ -756,7 +756,7 @@ translate crowdin quest_flora_walk_xcube_bed9666d:
     # flora annoyed "Well, it's a bad fantasy."
     flora annoyed "Well, it's a bad fantasy."
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:178
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:179
 translate crowdin quest_flora_walk_xcube_11fdb519:
 
     # extend "" nointeract
@@ -1230,7 +1230,7 @@ translate crowdin quest_flora_walk_park_upon_entering_def58731:
     # flora thinking "What?"
     flora thinking "What?"
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:301
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:302
 translate crowdin quest_flora_walk_park_upon_entering_11fdb519:
 
     # extend "" nointeract
@@ -1692,7 +1692,7 @@ translate crowdin quest_flora_walk_park_upon_entering_8c8f081b:
     # flora mushroom_kiss blush "I want to... try something."
     flora mushroom_kiss blush "I want to... try something."
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:432
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:433
 translate crowdin quest_flora_walk_park_upon_entering_11fdb519_1:
 
     # extend "" nointeract
@@ -2112,7 +2112,7 @@ translate crowdin quest_flora_walk_park_upon_entering_c11e5405:
     # flora mushroom_anal_sex pleasure penetration4 "Oh, my god!"
     flora mushroom_anal_sex pleasure penetration4 "Oh, my god!"
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:596
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:597
 translate crowdin quest_flora_walk_park_upon_entering_11fdb519_2:
 
     # extend "" nointeract
@@ -2880,7 +2880,7 @@ translate crowdin quest_flora_walk_park_upon_entering_13e76c82:
     # "Seconds later, I..."
     "Seconds later, I..."
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:1648
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:1649
 translate crowdin quest_flora_walk_park_upon_entering_11fdb519_3:
 
     # extend "" nointeract
@@ -3432,7 +3432,7 @@ translate crowdin quest_flora_walk_confrontation_e95bd17d:
     # isabelle cringe "This is not okay. And frankly, I'm disgusted."
     isabelle cringe "This is not okay. And frankly, I'm disgusted."
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:1859
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:1860
 translate crowdin quest_flora_walk_confrontation_11fdb519:
 
     # extend "" nointeract
@@ -3828,7 +3828,7 @@ translate crowdin quest_flora_walk_caught_34fd2683:
     # flora crying "What if [jo] finds out?"
     flora crying "What if [jo] finds out?"
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:1952
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:1953
 translate crowdin quest_flora_walk_caught_11fdb519:
 
     # extend "" nointeract
@@ -4200,7 +4200,7 @@ translate crowdin quest_flora_walk_forest_glade_93ba7d88:
     # isabelle concerned "You two seem awfully quiet. What's the matter?"
     isabelle concerned "You two seem awfully quiet. What's the matter?"
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:2050
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:2051
 translate crowdin quest_flora_walk_forest_glade_11fdb519:
 
     # extend "" nointeract
@@ -4692,7 +4692,7 @@ translate crowdin quest_flora_walk_forest_glade_a8247737:
     # "Especially since it's my fault the stream looks like this..."
     "Especially since it's my fault the stream looks like this..."
 
-# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:2191
+# game/1000_base_game/game/characters/flora/season_2/q_flora_walk.rpy:2192
 translate crowdin quest_flora_walk_forest_glade_11fdb519_1:
 
     # extend "" nointeract

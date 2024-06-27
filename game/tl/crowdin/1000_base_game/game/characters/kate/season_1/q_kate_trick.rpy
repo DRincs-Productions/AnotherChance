@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:5
 translate crowdin quest_kate_trick_start_6cb5dee0:
@@ -84,7 +84,7 @@ translate crowdin quest_kate_trick_start_f7d1402c:
     # isabelle annoyed "[mc], [jo] is the principal, right? Can you help put an end to this nonsense?"
     isabelle annoyed "[mc], [jo] is the principal, right? Can you help put an end to this nonsense?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:22
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:23
 translate crowdin quest_kate_trick_start_11fdb519:
 
     # extend "" nointeract
@@ -120,7 +120,7 @@ translate crowdin quest_kate_trick_start_dff8f044:
     # "[isabelle] underestimates how little [jo] cares about my opinion on school matters..."
     "[isabelle] underestimates how little [jo] cares about my opinion on school matters..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:35
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:36
 translate crowdin quest_kate_trick_start_11fdb519_1:
 
     # extend "" nointeract
@@ -246,7 +246,7 @@ translate crowdin quest_kate_trick_start_7925eb55:
     # "Oh, shit. Talking so openly about the plan to humiliate [isabelle]. It's hard not to admire [kate]'s confidence."
     "Oh, shit. Talking so openly about the plan to humiliate [isabelle]. It's hard not to admire [kate]'s confidence."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:86
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:87
 translate crowdin quest_kate_trick_start_11fdb519_2:
 
     # extend "" nointeract
@@ -282,7 +282,7 @@ translate crowdin quest_kate_trick_start_0bb61387:
     # isabelle cringe "[mc], you know you don't have to do what she says, right?"
     isabelle cringe "[mc], you know you don't have to do what she says, right?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:98
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:99
 translate crowdin quest_kate_trick_start_11fdb519_3:
 
     # extend "" nointeract
@@ -306,7 +306,7 @@ translate crowdin quest_kate_trick_start_8035a069:
     # kate smile_right "Words of a true loser."
     kate smile_right "Words of a true loser."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:108
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:109
 translate crowdin quest_kate_trick_start_11fdb519_4:
 
     # extend "" nointeract
@@ -342,7 +342,7 @@ translate crowdin quest_kate_trick_start_526d2382:
     # isabelle cringe "What did you mean, [mc]?"
     isabelle cringe "What did you mean, [mc]?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:123
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:124
 translate crowdin quest_kate_trick_start_11fdb519_5:
 
     # extend "" nointeract
@@ -498,7 +498,7 @@ translate crowdin quest_kate_trick_start_6b1dd37b:
     # kate flirty "Did you like that, hm?"
     kate flirty "Did you like that, hm?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:185
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:186
 translate crowdin quest_kate_trick_start_11fdb519_6:
 
     # extend "" nointeract
@@ -618,7 +618,7 @@ translate crowdin quest_kate_trick_start_ebb65340:
     # isabelle neutral "Ignore her. You'll help a lot of people to get the education they deserve."
     isabelle neutral "Ignore her. You'll help a lot of people to get the education they deserve."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:230
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:231
 translate crowdin quest_kate_trick_start_11fdb519_7:
 
     # extend "" nointeract
@@ -720,7 +720,7 @@ translate crowdin quest_kate_trick_start_ab6db8e1:
     # isabelle annoyed "What about your own dignity, [mc]?"
     isabelle annoyed "What about your own dignity, [mc]?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:279
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:280
 translate crowdin quest_kate_trick_start_11fdb519_8:
 
     # extend "" nointeract
@@ -972,7 +972,7 @@ translate crowdin quest_kate_trick_start_one_60ccfd59:
     # kate excited "And if anyone gives me trouble, you'll act as my witness."
     kate excited "And if anyone gives me trouble, you'll act as my witness."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:361
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:362
 translate crowdin quest_kate_trick_start_one_11fdb519:
 
     # extend "" nointeract
@@ -1050,7 +1050,7 @@ translate crowdin quest_kate_trick_start_two_ea91b019:
     # kate neutral "Am I making myself clear?"
     kate neutral "Am I making myself clear?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:385
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:386
 translate crowdin quest_kate_trick_start_two_11fdb519:
 
     # extend "" nointeract
@@ -1104,7 +1104,7 @@ translate crowdin quest_kate_trick_start_two_6a2d50b5:
     # kate neutral "If I hear you've talked to [jo], I'll have your balls. That's a promise."
     kate neutral "If I hear you've talked to [jo], I'll have your balls. That's a promise."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:402
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:403
 translate crowdin quest_kate_trick_start_two_11fdb519_1:
 
     # extend "" nointeract
@@ -1200,7 +1200,7 @@ translate crowdin quest_kate_trick_start_two_d5c578e5:
     # "Maybe this is my chance to prove her wrong..."
     "Maybe this is my chance to prove her wrong..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:429
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:430
 translate crowdin quest_kate_trick_start_two_11fdb519_2:
 
     # extend "" nointeract
@@ -1368,7 +1368,7 @@ translate crowdin quest_kate_trick_start_three_2c2ab0c3:
     # kate neutral "Just break it open when she's not in the room."
     kate neutral "Just break it open when she's not in the room."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:470
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:471
 translate crowdin quest_kate_trick_start_three_11fdb519:
 
     # extend "" nointeract
@@ -1602,7 +1602,7 @@ translate crowdin quest_kate_trick_jo_3512a8cb:
     # jo neutral "I have a vague memory of something like that crossing my desk, why?{space=-45}"
     jo neutral "I have a vague memory of something like that crossing my desk, why?{space=-45}"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:549
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:550
 translate crowdin quest_kate_trick_jo_11fdb519:
 
     # extend "" nointeract
@@ -1758,7 +1758,7 @@ translate crowdin quest_kate_trick_jo_5cf721ef:
     # jo thinking "Anything else on your mind?"
     jo thinking "Anything else on your mind?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:588
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:589
 translate crowdin quest_kate_trick_jo_11fdb519_1:
 
     # extend "" nointeract
@@ -2118,7 +2118,7 @@ translate crowdin quest_kate_trick_maxine_9d4b1269:
     # "Or maybe... I could ask someone to be my dog. Someone who's full of obedience."
     "Or maybe... I could ask someone to be my dog. Someone who's full of obedience."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:671
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:672
 translate crowdin quest_kate_trick_maxine_11fdb519:
 
     # extend "" nointeract
@@ -2262,7 +2262,7 @@ translate crowdin quest_kate_trick_flora_404b2908:
     # flora sarcastic "So, what do I get in return?"
     flora sarcastic "So, what do I get in return?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:714
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:715
 translate crowdin quest_kate_trick_flora_11fdb519:
 
     # extend "" nointeract
@@ -2292,7 +2292,7 @@ translate crowdin quest_kate_trick_flora_eae4595b:
     # flora confident "Can't put that in the piggy bank."
     flora confident "Can't put that in the piggy bank."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:724
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:725
 translate crowdin quest_kate_trick_flora_11fdb519_1:
 
     # extend "" nointeract
@@ -2412,7 +2412,7 @@ translate crowdin quest_kate_trick_flora_084a029f:
     # flora angry "Beggars can't be choosers."
     flora angry "Beggars can't be choosers."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:759
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:760
 translate crowdin quest_kate_trick_flora_deal_11fdb519:
 
     # extend "" nointeract
@@ -3114,7 +3114,7 @@ translate crowdin quest_kate_trick_gym_679660c7:
     # kate "What the hell is this?"
     kate "What the hell is this?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:965
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:966
 translate crowdin quest_kate_trick_gym_11fdb519:
 
     # extend "" nointeract
@@ -3762,7 +3762,7 @@ translate crowdin quest_kate_trick_workout_19e610a4:
     # mc "That's too bad. You just keep obeying."
     mc "That's too bad. You just keep obeying."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1191
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1192
 translate crowdin quest_kate_trick_workout_11fdb519:
 
     # extend "" nointeract
@@ -4206,7 +4206,7 @@ translate crowdin quest_kate_trick_report_35d036ca:
     # jo flirty_hands_to_the_side "Oh, darling, you always look handsome to me."
     jo flirty_hands_to_the_side "Oh, darling, you always look handsome to me."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1333
+# game/1000_base_game/game/characters/kate/season_1/q_kate_trick.rpy:1334
 translate crowdin quest_kate_trick_report_11fdb519:
 
     # extend "" nointeract

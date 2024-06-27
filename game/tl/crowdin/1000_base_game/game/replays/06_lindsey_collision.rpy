@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/06_lindsey_collision.rpy:6
 translate crowdin replay_lindsey_collision_c33b6557:
@@ -90,7 +90,7 @@ translate crowdin replay_lindsey_collision_9e114a3a:
     # isabelle afraid "[mc], she looks really hurt!"
     isabelle afraid "[mc], she looks really hurt!"
 
-# game/1000_base_game/game/replays/06_lindsey_collision.rpy:22
+# game/1000_base_game/game/replays/06_lindsey_collision.rpy:23
 translate crowdin replay_lindsey_collision_11fdb519:
 
     # extend "" nointeract
@@ -252,7 +252,7 @@ translate crowdin replay_lindsey_collision_a5933c9a:
     # lindsey LindseyPose02b "Everything's spinning..."
     lindsey LindseyPose02b "Everything's spinning..."
 
-# game/1000_base_game/game/replays/06_lindsey_collision.rpy:56
+# game/1000_base_game/game/replays/06_lindsey_collision.rpy:57
 translate crowdin replay_lindsey_collision_11fdb519_1:
 
     # extend "" nointeract

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:3
 translate crowdin quest_jacklyn_romance_start_05c9661d:
@@ -126,7 +126,7 @@ translate crowdin quest_jacklyn_romance_start_cffdd668:
     # jacklyn laughing "Sickness overload, right?"
     jacklyn laughing "Sickness overload, right?"
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:34
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:35
 translate crowdin quest_jacklyn_romance_start_11fdb519:
 
     # extend "" nointeract
@@ -228,7 +228,7 @@ translate crowdin quest_jacklyn_romance_start_38b2698c:
     # jacklyn smile "There's this art gallery showing next weekend. Are you down to join me in shooting up some muse-juice?"
     jacklyn smile "There's this art gallery showing next weekend. Are you down to join me in shooting up some muse-juice?"
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:59
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:60
 translate crowdin quest_jacklyn_romance_start_11fdb519_1:
 
     # extend "" nointeract
@@ -786,7 +786,7 @@ translate crowdin quest_jacklyn_romance_flora_8b15c6f4:
     # flora skeptical "What has you all peacocky, anyway?"
     flora skeptical "What has you all peacocky, anyway?"
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:187
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:188
 translate crowdin quest_jacklyn_romance_flora_11fdb519:
 
     # extend "" nointeract
@@ -1212,7 +1212,7 @@ translate crowdin quest_jacklyn_romance_maya_86340e29:
     # maya smile "I can die happily in my bathtub now."
     maya smile "I can die happily in my bathtub now."
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:279
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:280
 translate crowdin quest_jacklyn_romance_maya_11fdb519:
 
     # extend "" nointeract
@@ -1458,7 +1458,7 @@ translate crowdin quest_jacklyn_romance_maya_9ce3ae63:
     # maya confident "I would do it. For a price."
     maya confident "I would do it. For a price."
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:336
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:337
 translate crowdin quest_jacklyn_romance_maya_11fdb519_1:
 
     # extend "" nointeract
@@ -1938,7 +1938,7 @@ translate crowdin quest_jacklyn_romance_hide_and_seek_school_clubroom_spinach_b9
     # maxine "Have you come to us as a friend?"
     maxine "Have you come to us as a friend?"
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:479
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:480
 translate crowdin quest_jacklyn_romance_hide_and_seek_school_clubroom_spinach_11fdb519:
 
     # extend "" nointeract
@@ -2340,7 +2340,7 @@ translate crowdin quest_jacklyn_romance_hide_and_seek_school_ground_floor_west_u
     # jo thinking "And what is that?"
     jo thinking "And what is that?"
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:592
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:593
 translate crowdin quest_jacklyn_romance_hide_and_seek_school_ground_floor_west_upon_leaving_11fdb519:
 
     # extend "" nointeract
@@ -3090,7 +3090,7 @@ translate crowdin quest_jacklyn_romance_suit_done_bac9587f:
     # flora sad "If you go with her, I won't ever forgive you."
     flora sad "If you go with her, I won't ever forgive you."
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:785
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:786
 translate crowdin quest_jacklyn_romance_suit_done_11fdb519:
 
     # extend "" nointeract
@@ -3774,7 +3774,7 @@ translate crowdin quest_jacklyn_romance_suit_done_4a7d4c23:
     # flora bedroom_hug concerned "We should lock the door..."
     flora bedroom_hug concerned "We should lock the door..."
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:958
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:959
 translate crowdin quest_jacklyn_romance_suit_done_11fdb519_1:
 
     # extend "" nointeract
@@ -4122,7 +4122,7 @@ translate crowdin quest_jacklyn_romance_suit_done_8661e45f:
     # "The sound of her pleading for my cum, my semen, my hard cock, finally unravels me."
     "The sound of her pleading for my cum, my semen, my hard cock, finally unravels me."
 
-# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:1260
+# game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:1261
 translate crowdin quest_jacklyn_romance_suit_done_11fdb519_2:
 
     # extend "" nointeract
@@ -4697,8 +4697,8 @@ translate crowdin strings:
     new "\"I'd rather keep it to myself.\""
 
     # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:785
-    old "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|\"I didn't realize it\nupset you so much.\nI won't go.\""
-    new "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|\"I didn't realize it\nupset you so much.\nI won't go.\""
+    old "?flora.love>=15@[flora.love]/15|{image=flora contact_icon}|{image=stats love_3}|\"I didn't realize it\nupset you so much.\nI won't go.\""
+    new "?flora.love>=15@[flora.love]/15|{image=flora contact_icon}|{image=stats love_3}|\"I didn't realize it\nupset you so much.\nI won't go.\""
 
     # game/1000_base_game/game/characters/jacklyn/season_2/q_jacklyn_romance.rpy:785
     old "?flora.lust>=10@[flora.lust]/10|{image=flora contact_icon}|{image=stats lust_3}|\"Hey, [jacklyn] and I\nare strictly platonic,\nokay? I'm just going\nfor the art.\""

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/items/strawberry_juice.rpy:29
 translate crowdin int_strawberry_juice_c40c1153:

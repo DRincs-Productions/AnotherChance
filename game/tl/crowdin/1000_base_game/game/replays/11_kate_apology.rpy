@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/11_kate_apology.rpy:11
 translate crowdin replay_kate_apology_2d2d947c:
@@ -24,7 +24,7 @@ translate crowdin replay_kate_apology_ea0c1a85:
     # mc "You've insulted me for the last time..."
     mc "You've insulted me for the last time..."
 
-# game/1000_base_game/game/replays/11_kate_apology.rpy:16
+# game/1000_base_game/game/replays/11_kate_apology.rpy:17
 translate crowdin replay_kate_apology_11fdb519:
 
     # extend "" nointeract
@@ -780,7 +780,7 @@ translate crowdin replay_kate_apology_c2a00c5f_1:
     # "I'm going to..."
     "I'm going to..."
 
-# game/1000_base_game/game/replays/11_kate_apology.rpy:180
+# game/1000_base_game/game/replays/11_kate_apology.rpy:181
 translate crowdin replay_kate_apology_11fdb519_1:
 
     # extend "" nointeract
@@ -930,7 +930,7 @@ translate crowdin replay_kate_apology_c7146f00:
     # "Maybe her looking like this is all I need to move on from the past? But let's be honest, who would say no to a blowjob from [kate]?"
     "Maybe her looking like this is all I need to move on from the past? But let's be honest, who would say no to a blowjob from [kate]?"
 
-# game/1000_base_game/game/replays/11_kate_apology.rpy:216
+# game/1000_base_game/game/replays/11_kate_apology.rpy:217
 translate crowdin replay_kate_apology_11fdb519_2:
 
     # extend "" nointeract

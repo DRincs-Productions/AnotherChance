@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 translate crowdin strings:
 
@@ -110,10 +110,6 @@ translate crowdin strings:
     old "Rollback Side"
     new "Rollback Side"
 
-    # game/1000_base_game/screens.rpy:741
-    old "Disable"
-    new "Disable"
-
     # game/1000_base_game/screens.rpy:748
     old "Unseen Text"
     new "Unseen Text"
@@ -145,10 +141,6 @@ translate crowdin strings:
     # game/1000_base_game/screens.rpy:787
     old "Test"
     new "Test"
-
-    # game/1000_base_game/screens.rpy:791
-    old "Voice Volume"
-    new "Voice Volume"
 
     # game/1000_base_game/screens.rpy:802
     old "Mute All"
@@ -293,14 +285,6 @@ translate crowdin strings:
     # game/1000_base_game/screens.rpy:1102
     old "Calibrate"
     new "Calibrate"
-
-    # game/1000_base_game/screens.rpy:1167
-    old "Yes"
-    new "Yes"
-
-    # game/1000_base_game/screens.rpy:1168
-    old "No"
-    new "No"
 
     # game/1000_base_game/screens.rpy:1214
     old "Skipping"

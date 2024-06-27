@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:3
 translate crowdin jacklyn_quest_jacklyn_broken_fuse_start_a0d205f9:
@@ -96,7 +96,7 @@ translate crowdin jacklyn_quest_jacklyn_broken_fuse_end_6b6fc7a6:
     # jacklyn excited "If you did this — sick."
     jacklyn excited "If you did this — sick."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:27
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:28
 translate crowdin jacklyn_quest_jacklyn_broken_fuse_end_11fdb519:
 
     # extend "" nointeract
@@ -204,7 +204,7 @@ translate crowdin jacklyn_quest_jacklyn_broken_fuse_end_1c9264f7:
     # jacklyn smile "I need a nude model for some of the senior classes this year. Who would you recommend for it?"
     jacklyn smile "I need a nude model for some of the senior classes this year. Who would you recommend for it?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:62
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:63
 translate crowdin jacklyn_quest_jacklyn_broken_fuse_end_choice_11fdb519:
 
     # extend "" nointeract
@@ -336,7 +336,7 @@ translate crowdin jacklyn_quest_jacklyn_broken_fuse_model_mrsl_1bdda8a4:
     # mrsl confident "Are you here for me?"
     mrsl confident "Are you here for me?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:120
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:121
 translate crowdin jacklyn_quest_jacklyn_broken_fuse_model_mrsl_11fdb519:
 
     # extend "" nointeract
@@ -498,7 +498,7 @@ translate crowdin jacklyn_quest_jacklyn_broken_fuse_model_nurse_fd389f2a:
     # nurse concerned "Why did you make me sign up?"
     nurse concerned "Why did you make me sign up?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:170
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:171
 translate crowdin jacklyn_quest_jacklyn_broken_fuse_model_nurse_11fdb519:
 
     # extend "" nointeract
@@ -678,7 +678,7 @@ translate crowdin jacklyn_quest_jacklyn_broken_fuse_model_nurse_end_33212a37:
     # nurse concerned "What kind of pose would you like me to do?"
     nurse concerned "What kind of pose would you like me to do?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:217
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:218
 translate crowdin jacklyn_quest_jacklyn_broken_fuse_model_nurse_end_11fdb519:
 
     # extend "" nointeract
@@ -888,7 +888,7 @@ translate crowdin jacklyn_quest_jacklyn_broken_fuse_model_jacklyn_ef8fc5af:
     # jacklyn laughing "Which one do you like the best?"
     jacklyn laughing "Which one do you like the best?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:274
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:275
 translate crowdin jacklyn_quest_jacklyn_broken_fuse_model_jacklyn_end_11fdb519:
 
     # extend "" nointeract

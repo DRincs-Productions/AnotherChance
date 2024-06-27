@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/mrsl/q_HOT.rpy:3
 translate crowdin mrsl_quest_HOT_start_9598f0ee:
@@ -48,7 +48,7 @@ translate crowdin mrsl_quest_HOT_start_f642d79a:
     # mrsl flirty "I'm afraid my thoughts are pricier than that."
     mrsl flirty "I'm afraid my thoughts are pricier than that."
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:12
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:13
 translate crowdin mrsl_quest_HOT_start_11fdb519:
 
     # extend "" nointeract
@@ -216,7 +216,7 @@ translate crowdin mrsl_quest_HOT_start_deal_8c145d0b:
     # "On the other hand, [mrsl] is a total babe. Is any other logic really needed?"
     "On the other hand, [mrsl] is a total babe. Is any other logic really needed?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:58
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:59
 translate crowdin mrsl_quest_HOT_start_deal_11fdb519:
 
     # extend "" nointeract
@@ -606,7 +606,7 @@ translate crowdin mrsl_quest_lindsey_talk_2aee464d:
     # lindsey eyeroll "Gee, thanks."
     lindsey eyeroll "Gee, thanks."
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:157
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:158
 translate crowdin mrsl_quest_lindsey_talk_11fdb519:
 
     # extend "" nointeract
@@ -774,7 +774,7 @@ translate crowdin mrsl_quest_lindsey_talk_83e2cdc2:
     # flora eyeroll "Sure you were."
     flora eyeroll "Sure you were."
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:200
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:201
 translate crowdin mrsl_quest_lindsey_talk_11fdb519_1:
 
     # extend "" nointeract
@@ -834,7 +834,7 @@ translate crowdin mrsl_quest_lindsey_talk_7c552673:
     # flora confident "Should I tell her about the time you skipped school to sneak into my room?"
     flora confident "Should I tell her about the time you skipped school to sneak into my room?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:220
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:221
 translate crowdin mrsl_quest_lindsey_talk_11fdb519_2:
 
     # extend "" nointeract
@@ -1002,7 +1002,7 @@ translate crowdin mrsl_quest_HOT_jo_talk_5dec50fb:
     # jo sad "Can you take care of the laundry in the meantime?"
     jo sad "Can you take care of the laundry in the meantime?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:269
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:270
 translate crowdin mrsl_quest_HOT_jo_talk_11fdb519:
 
     # extend "" nointeract
@@ -1476,7 +1476,7 @@ translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_3ad9b562:
     # "Ugh, [flora] this, [flora] that. The perfect little angel. Why does she have to be such a tryhard?"
     "Ugh, [flora] this, [flora] that. The perfect little angel. Why does she have to be such a tryhard?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:406
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:407
 translate crowdin mrsl_quest_HOT_delivery_arrive_talk_jo_11fdb519:
 
     # extend "" nointeract
@@ -1842,7 +1842,7 @@ translate crowdin mrsl_quest_HOT_jo_talk_capture_card_23210bef:
     # flora flirty "Is [mc] in trouble again?"
     flora flirty "Is [mc] in trouble again?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:491
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:492
 translate crowdin mrsl_quest_HOT_jo_talk_capture_card_11fdb519:
 
     # extend "" nointeract
@@ -2160,7 +2160,7 @@ translate crowdin mrsl_quest_HOT_jo_talk_capture_card_9f32e381:
     # flora confused "What for?"
     flora confused "What for?"
 
-# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:565
+# game/1000_base_game/game/characters/mrsl/q_HOT.rpy:566
 translate crowdin mrsl_quest_HOT_jo_talk_capture_card_11fdb519_1:
 
     # extend "" nointeract

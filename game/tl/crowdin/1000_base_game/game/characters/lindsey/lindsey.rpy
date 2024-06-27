@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/lindsey/lindsey.rpy:1540
 translate crowdin lindsey_talk_romance_disabled_82074987:
@@ -102,7 +102,7 @@ translate crowdin lindsey_flirt_one_a007dd39:
     # lindsey excited "Do you know why?"
     lindsey excited "Do you know why?"
 
-# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1610
+# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1611
 translate crowdin lindsey_flirt_one_11fdb519:
 
     # extend "" nointeract
@@ -174,7 +174,7 @@ translate crowdin lindsey_flirt_two_9a2fb095:
     # lindsey smile "Do you know what my favorite venues are?"
     lindsey smile "Do you know what my favorite venues are?"
 
-# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1640
+# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1641
 translate crowdin lindsey_flirt_two_11fdb519:
 
     # extend "" nointeract
@@ -240,7 +240,7 @@ translate crowdin lindsey_flirt_three_0fea6b8e:
     # lindsey smile "Did you know I've never been on a real date with a guy? Do you know why?"
     lindsey smile "Did you know I've never been on a real date with a guy? Do you know why?"
 
-# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1669
+# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1670
 translate crowdin lindsey_flirt_three_11fdb519:
 
     # extend "" nointeract
@@ -306,7 +306,7 @@ translate crowdin lindsey_flirt_four_298dba89:
     # lindsey sad "I used to be best friends with another student here. Do you know who?"
     lindsey sad "I used to be best friends with another student here. Do you know who?"
 
-# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1704
+# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1705
 translate crowdin lindsey_flirt_four_11fdb519:
 
     # extend "" nointeract
@@ -408,7 +408,7 @@ translate crowdin lindsey_flirt_five_81beffc6:
     # lindsey smile "Okay! Do you know how many trophies I have outside the gym?"
     lindsey smile "Okay! Do you know how many trophies I have outside the gym?"
 
-# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1741
+# game/1000_base_game/game/characters/lindsey/lindsey.rpy:1742
 translate crowdin lindsey_flirt_five_11fdb519:
 
     # extend "" nointeract

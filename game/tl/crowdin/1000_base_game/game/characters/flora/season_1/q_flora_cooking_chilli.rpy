@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:8
 translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
@@ -174,7 +174,7 @@ translate crowdin flora_quest_flora_cooking_chilli_give_pot_b791aa27:
     # flora "Did you at least bring the pot?"
     flora "Did you at least bring the pot?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:125
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:126
 translate crowdin flora_quest_flora_cooking_chilli_give_pot_11fdb519:
 
     # extend "" nointeract
@@ -528,7 +528,7 @@ translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_3984ef90:
     # flora excited "Want to have a taste?"
     flora excited "Want to have a taste?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:228
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:229
 translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_11fdb519:
 
     # extend "" nointeract
@@ -1032,7 +1032,7 @@ translate crowdin flora_quest_flora_cooking_chilli_call_flora_4e0daab7:
     # "It went to voicemail."
     "It went to voicemail."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:415
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:416
 translate crowdin flora_quest_flora_cooking_chilli_call_flora_11fdb519:
 
     # extend "" nointeract
@@ -1116,7 +1116,7 @@ translate crowdin flora_quest_flora_cooking_return_phone_70aac4cb:
     # mc "Oh, I see."
     mc "Oh, I see."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:447
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:448
 translate crowdin flora_quest_flora_cooking_return_phone_11fdb519:
 
     # extend "" nointeract
@@ -1170,7 +1170,7 @@ translate crowdin flora_quest_flora_cooking_return_phone_8c3f401a:
     # flora embarrassed "Aaaah!"
     flora embarrassed "Aaaah!"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:461
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:462
 translate crowdin flora_quest_flora_cooking_return_phone_11fdb519_1:
 
     # extend "" nointeract
@@ -1590,7 +1590,7 @@ translate crowdin flora_quest_flora_cooking_enter_bathroom_608cc3d9:
     # "[flora] being naked is nothing new to me, but this feels wrong and inappropriate. But she is suffering..."
     "[flora] being naked is nothing new to me, but this feels wrong and inappropriate. But she is suffering..."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:578
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:579
 translate crowdin flora_quest_flora_cooking_enter_bathroom_11fdb519:
 
     # extend "" nointeract
@@ -2298,7 +2298,7 @@ translate crowdin flora_quest_flora_cooking_got_liquid_03c33b00:
     # "She didn't even care to check if I left."
     "She didn't even care to check if I left."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:817
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:818
 translate crowdin flora_quest_flora_cooking_got_liquid_11fdb519:
 
     # extend "" nointeract

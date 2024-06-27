@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/56_nurse_walk.rpy:6
 translate crowdin replay_nurse_walk_52fd14c8:
@@ -18,7 +18,7 @@ translate crowdin replay_nurse_walk_679660c7:
     # kate "What the hell is this?"
     kate "What the hell is this?"
 
-# game/1000_base_game/game/replays/56_nurse_walk.rpy:10
+# game/1000_base_game/game/replays/56_nurse_walk.rpy:11
 translate crowdin replay_nurse_walk_11fdb519:
 
     # extend "" nointeract

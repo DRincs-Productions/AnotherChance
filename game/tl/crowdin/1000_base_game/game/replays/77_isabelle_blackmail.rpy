@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/77_isabelle_blackmail.rpy:7
 translate crowdin replay_isabelle_blackmail_66ca2c83:

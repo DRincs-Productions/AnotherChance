@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:28
 translate crowdin school_bathroom_locker1_take_405b7ad3:
@@ -48,7 +48,7 @@ translate crowdin school_bathroom_locker2_interact_3b09ea91:
     # "Just this wallet..."
     "Just this wallet..."
 
-# game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:76
+# game/1000_base_game/game/locations/school/bathroom/int_lockers.rpy:77
 translate crowdin school_bathroom_locker2_interact_11fdb519:
 
     # extend "" nointeract

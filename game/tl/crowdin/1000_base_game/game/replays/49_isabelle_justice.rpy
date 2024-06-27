@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/49_isabelle_justice.rpy:8
 translate crowdin replay_isabelle_justice_2283acd4:
@@ -384,7 +384,7 @@ translate crowdin replay_isabelle_justice_03f86545:
     # mc "F-fuck! I'm going to—"
     mc "F-fuck! I'm going to—"
 
-# game/1000_base_game/game/replays/49_isabelle_justice.rpy:288
+# game/1000_base_game/game/replays/49_isabelle_justice.rpy:289
 translate crowdin replay_isabelle_justice_11fdb519:
 
     # extend "" nointeract
@@ -450,7 +450,7 @@ translate crowdin replay_isabelle_justice_2d865a14:
     # isabelle locker_cum_outside2 "You're absolutely right."
     isabelle locker_cum_outside2 "You're absolutely right."
 
-# game/1000_base_game/game/replays/49_isabelle_justice.rpy:308
+# game/1000_base_game/game/replays/49_isabelle_justice.rpy:309
 translate crowdin replay_isabelle_justice_11fdb519_1:
 
     # extend "" nointeract

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/53_jacklyn_interruption.rpy:6
 translate crowdin replay_jacklyn_interruption_3d172432:
@@ -336,7 +336,7 @@ translate crowdin replay_jacklyn_interruption_03f86545:
     # mc "F-fuck! I'm going to—"
     mc "F-fuck! I'm going to—"
 
-# game/1000_base_game/game/replays/53_jacklyn_interruption.rpy:345
+# game/1000_base_game/game/replays/53_jacklyn_interruption.rpy:346
 translate crowdin replay_jacklyn_interruption_11fdb519:
 
     # extend "" nointeract

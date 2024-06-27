@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/home/kitchen/int_cooking_pot.rpy:34
 translate crowdin home_kitchen_cooking_pot_interact_f3ddf965:

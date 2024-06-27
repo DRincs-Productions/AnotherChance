@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/home/hall/int_water_trails.rpy:15
 translate crowdin home_hall_trail_down_interact_563cc06a:

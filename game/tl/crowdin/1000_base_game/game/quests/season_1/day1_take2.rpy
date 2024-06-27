@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/quests/season_1/day1_take2.rpy:46
 translate crowdin quest_day1_take2_arrived_914a9ae0:
@@ -462,7 +462,7 @@ translate crowdin quest_day1_take2_homeroom_4f223175:
     # mrsl neutral "Any questions?"
     mrsl neutral "Any questions?"
 
-# game/1000_base_game/game/quests/season_1/day1_take2.rpy:173
+# game/1000_base_game/game/quests/season_1/day1_take2.rpy:174
 translate crowdin quest_day1_take2_homeroom_11fdb519:
 
     # extend "" nointeract
@@ -474,7 +474,7 @@ translate crowdin quest_day1_take2_homeroom_f4e0eda1:
     # mrsl surprised "Yes? [mc]."
     mrsl surprised "Yes? [mc]."
 
-# game/1000_base_game/game/quests/season_1/day1_take2.rpy:181
+# game/1000_base_game/game/quests/season_1/day1_take2.rpy:182
 translate crowdin quest_day1_take2_homeroom_11fdb519_1:
 
     # extend "" nointeract
@@ -642,7 +642,7 @@ translate crowdin quest_day1_take2_homeroom_e96478c6:
     # mrsl excited "Okay! Any volunteers?"
     mrsl excited "Okay! Any volunteers?"
 
-# game/1000_base_game/game/quests/season_1/day1_take2.rpy:224
+# game/1000_base_game/game/quests/season_1/day1_take2.rpy:225
 translate crowdin quest_day1_take2_homeroom_11fdb519_2:
 
     # extend "" nointeract

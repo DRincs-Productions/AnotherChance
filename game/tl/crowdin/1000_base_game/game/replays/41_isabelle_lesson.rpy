@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/41_isabelle_lesson.rpy:6
 translate crowdin replay_isabelle_lesson_e23347ab:
@@ -354,7 +354,7 @@ translate crowdin replay_isabelle_lesson_7dd93b39:
     # "And that's what finally makes me lose control."
     "And that's what finally makes me lose control."
 
-# game/1000_base_game/game/replays/41_isabelle_lesson.rpy:250
+# game/1000_base_game/game/replays/41_isabelle_lesson.rpy:251
 translate crowdin replay_isabelle_lesson_11fdb519:
 
     # extend "" nointeract

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/74_flora_experimentation.rpy:14
 translate crowdin replay_flora_experimentation_1bc47233:
@@ -468,7 +468,7 @@ translate crowdin replay_flora_experimentation_c11e5405:
     # flora mushroom_anal_sex pleasure penetration4 "Oh, my god!"
     flora mushroom_anal_sex pleasure penetration4 "Oh, my god!"
 
-# game/1000_base_game/game/replays/74_flora_experimentation.rpy:192
+# game/1000_base_game/game/replays/74_flora_experimentation.rpy:193
 translate crowdin replay_flora_experimentation_11fdb519:
 
     # extend "" nointeract

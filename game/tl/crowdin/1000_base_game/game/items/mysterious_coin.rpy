@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/items/mysterious_coin.rpy:15
 translate crowdin int_mysterious_coin_706c4b8c:
@@ -6,7 +6,7 @@ translate crowdin int_mysterious_coin_706c4b8c:
     # "A coin of mystical powers. Flipping it could have astronomical consequences."
     "A coin of mystical powers. Flipping it could have astronomical consequences."
 
-# game/1000_base_game/game/items/mysterious_coin.rpy:16
+# game/1000_base_game/game/items/mysterious_coin.rpy:17
 translate crowdin int_mysterious_coin_11fdb519:
 
     # extend "" nointeract

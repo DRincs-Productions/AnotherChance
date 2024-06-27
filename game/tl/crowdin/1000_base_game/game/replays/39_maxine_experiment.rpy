@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/39_maxine_experiment.rpy:13
 translate crowdin replay_maxine_experiment_39fad868:
@@ -36,7 +36,7 @@ translate crowdin replay_maxine_experiment_881115c8:
     # maxine hooking_up_replay_smile "And with the help of the equipment here, we're going to hook me up to the internet."
     maxine hooking_up_replay_smile "And with the help of the equipment here, we're going to hook me up to the internet."
 
-# game/1000_base_game/game/replays/39_maxine_experiment.rpy:19
+# game/1000_base_game/game/replays/39_maxine_experiment.rpy:20
 translate crowdin replay_maxine_experiment_11fdb519:
 
     # extend "" nointeract
@@ -570,7 +570,7 @@ translate crowdin replay_maxine_experiment_e7a68319:
     # "I have no idea what she's saying..."
     "I have no idea what she's saying..."
 
-# game/1000_base_game/game/replays/39_maxine_experiment.rpy:143
+# game/1000_base_game/game/replays/39_maxine_experiment.rpy:144
 translate crowdin replay_maxine_experiment_11fdb519_1:
 
     # extend "" nointeract

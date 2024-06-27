@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:3
 translate crowdin quest_flora_handcuffs_start_baf5498f:
@@ -138,7 +138,7 @@ translate crowdin quest_flora_handcuffs_start_5c94f4eb:
     # flora afraid "Also, why were you reading my magazine?"
     flora afraid "Also, why were you reading my magazine?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:27
+# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:28
 translate crowdin quest_flora_handcuffs_start_11fdb519:
 
     # extend "" nointeract
@@ -522,7 +522,7 @@ translate crowdin quest_flora_handcuffs_package_cb20c7f3:
     # flora eyeroll "Why do you think?"
     flora eyeroll "Why do you think?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:119
+# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:120
 translate crowdin quest_flora_handcuffs_package_11fdb519:
 
     # extend "" nointeract
@@ -672,7 +672,7 @@ translate crowdin quest_flora_handcuffs_package_1eced4c9:
     # "She's right, but to me it feels like a lifetime ago..."
     "She's right, but to me it feels like a lifetime ago..."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:154
+# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:155
 translate crowdin quest_flora_handcuffs_package_11fdb519_1:
 
     # extend "" nointeract
@@ -1302,7 +1302,7 @@ translate crowdin quest_flora_handcuffs_phone_call_cc57f07d:
     # flora confused "Distract how?"
     flora confused "Distract how?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:353
+# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:354
 translate crowdin quest_flora_handcuffs_phone_call_distractions_11fdb519:
 
     # extend "" nointeract
@@ -1332,7 +1332,7 @@ translate crowdin quest_flora_handcuffs_phone_call_distractions_9da9dae4:
     # flora embarrassed "Are you being serious right now?"
     flora embarrassed "Are you being serious right now?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:365
+# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:366
 translate crowdin quest_flora_handcuffs_phone_call_distractions_11fdb519_1:
 
     # extend "" nointeract
@@ -1458,7 +1458,7 @@ translate crowdin quest_flora_handcuffs_phone_call_distractions_2613b4ef:
     # flora annoyed "..."
     flora annoyed "..."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:394
+# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:395
 translate crowdin quest_flora_handcuffs_phone_call_distractions_11fdb519_2:
 
     # extend "" nointeract
@@ -2016,7 +2016,7 @@ translate crowdin quest_flora_handcuffs_phone_call_distractions_8cdd9b4f:
     # flora annoyed "Only if you pay for a new lock."
     flora annoyed "Only if you pay for a new lock."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:569
+# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:570
 translate crowdin quest_flora_handcuffs_phone_call_distractions_11fdb519_3:
 
     # extend "" nointeract
@@ -2286,7 +2286,7 @@ translate crowdin quest_flora_handcuffs_phone_call_distractions_900bfabe:
     # flora cringe "Gross!"
     flora cringe "Gross!"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:688
+# game/1000_base_game/game/characters/flora/season_1/q_flora_handcuffs.rpy:689
 translate crowdin quest_flora_handcuffs_phone_call_distractions_11fdb519_4:
 
     # extend "" nointeract

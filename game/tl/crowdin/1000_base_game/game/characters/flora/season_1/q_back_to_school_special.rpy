@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:3
 translate crowdin flora_quest_back_to_school_special_190f85fb:
@@ -54,7 +54,7 @@ translate crowdin flora_quest_back_to_school_special_fd448c57:
     # flora angry "Yes! Did you make the breakfast yet?"
     flora angry "Yes! Did you make the breakfast yet?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:13
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:14
 translate crowdin flora_quest_back_to_school_special_11fdb519:
 
     # extend "" nointeract
@@ -192,7 +192,7 @@ translate crowdin flora_quest_back_to_school_special_f4f9e94e:
     # "Huh? Crap..."
     "Huh? Crap..."
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:48
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:49
 translate crowdin flora_quest_back_to_school_special_11fdb519_1:
 
     # extend "" nointeract
@@ -306,7 +306,7 @@ translate crowdin flora_quest_back_to_school_special_fd06ddf0:
     # flora neutral "First question. You're stuck in a room. What's the first thing you do?"
     flora neutral "First question. You're stuck in a room. What's the first thing you do?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:77
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:78
 translate crowdin flora_quest_back_to_school_special_11fdb519_2:
 
     # extend "" nointeract
@@ -420,7 +420,7 @@ translate crowdin flora_quest_back_to_school_special_e5e423c8:
     # flora neutral "What's your response?"
     flora neutral "What's your response?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:108
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:109
 translate crowdin flora_quest_back_to_school_special_11fdb519_3:
 
     # extend "" nointeract
@@ -540,7 +540,7 @@ translate crowdin flora_quest_back_to_school_special_760a2f81:
     # flora confident "What do you do?"
     flora confident "What do you do?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:145
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:146
 translate crowdin flora_quest_back_to_school_special_11fdb519_4:
 
     # extend "" nointeract
@@ -582,7 +582,7 @@ translate crowdin flora_quest_back_to_school_special_e7444079:
     # flora annoyed "No. What do you do?"
     flora annoyed "No. What do you do?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:158
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:159
 translate crowdin flora_quest_back_to_school_special_11fdb519_5:
 
     # extend "" nointeract
@@ -750,7 +750,7 @@ translate crowdin flora_quest_back_to_school_special_430fb7d2:
     # flora annoyed "What do you do?"
     flora annoyed "What do you do?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:198
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:199
 translate crowdin flora_quest_back_to_school_special_11fdb519_6:
 
     # extend "" nointeract
@@ -822,7 +822,7 @@ translate crowdin flora_quest_back_to_school_special_7dfefc3e:
     # flora flirty "Who's your ideal lover?"
     flora flirty "Who's your ideal lover?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:225
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:226
 translate crowdin flora_quest_back_to_school_special_11fdb519_7:
 
     # extend "" nointeract
@@ -858,7 +858,7 @@ translate crowdin flora_quest_back_to_school_special_dea4620b:
     # flora annoyed "It's the last question. Can we just get this over with?"
     flora annoyed "It's the last question. Can we just get this over with?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:237
+# game/1000_base_game/game/characters/flora/season_1/q_back_to_school_special.rpy:238
 translate crowdin flora_quest_back_to_school_special_11fdb519_8:
 
     # extend "" nointeract

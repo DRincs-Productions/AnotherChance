@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:13
 translate crowdin quest_flora_squid_start_3779c151:
@@ -138,7 +138,7 @@ translate crowdin quest_flora_squid_start_2064a854:
     # flora "N-no! Not even a little bit!"
     flora "N-no! Not even a little bit!"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:40
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:41
 translate crowdin quest_flora_squid_start_11fdb519:
 
     # extend "" nointeract
@@ -774,7 +774,7 @@ translate crowdin quest_flora_squid_trail_flora_d7af9e32:
     # flora sad_wet "No! Nothing is okay."
     flora sad_wet "No! Nothing is okay."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:195
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:196
 translate crowdin quest_flora_squid_trail_flora_11fdb519:
 
     # extend "" nointeract
@@ -1404,7 +1404,7 @@ translate crowdin quest_flora_squid_choice_bca79b7e:
     # flora afraid "Detention?! This is [cuthbert]'s life we're talking about!"
     flora afraid "Detention?! This is [cuthbert]'s life we're talking about!"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:346
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:347
 translate crowdin quest_flora_squid_choice_11fdb519:
 
     # extend "" nointeract
@@ -1548,7 +1548,7 @@ translate crowdin quest_flora_squid_wait_mrsl_bbc5294a:
     # mrsl surprised "[mc]! Don't sneak up on an old lady like that!" with vpunch
     mrsl surprised "[mc]! Don't sneak up on an old lady like that!" with vpunch
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:399
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:400
 translate crowdin quest_flora_squid_wait_mrsl_11fdb519:
 
     # extend "" nointeract
@@ -1836,7 +1836,7 @@ translate crowdin quest_flora_squid_wait_trophy_case_42c3e423:
     # flora cringe "But no, still no sign of poor [cuthbert]..."
     flora cringe "But no, still no sign of poor [cuthbert]..."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:467
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:468
 translate crowdin quest_flora_squid_wait_trophy_case_11fdb519:
 
     # extend "" nointeract
@@ -2628,7 +2628,7 @@ translate crowdin quest_flora_squid_bathroom_flora2_094669e2:
     # flora skeptical "Where did you look?"
     flora skeptical "Where did you look?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:668
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:669
 translate crowdin quest_flora_squid_bathroom_flora2_11fdb519:
 
     # extend "" nointeract
@@ -3096,7 +3096,7 @@ translate crowdin quest_flora_squid_forest_glade_stream_bottom_eeb3713b:
     # "[cuthbert] might very well be in these murky waters. It's hard to know for sure."
     "[cuthbert] might very well be in these murky waters. It's hard to know for sure."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:806
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:807
 translate crowdin quest_flora_squid_forest_glade_stream_bottom_11fdb519:
 
     # extend "" nointeract
@@ -3474,7 +3474,7 @@ translate crowdin quest_flora_squid_forest_glade_stream_middle_a1c9eeab:
     # flora smile "Oh, my god! [cuthbert], you saved me!"
     flora smile "Oh, my god! [cuthbert], you saved me!"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:972
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:973
 translate crowdin quest_flora_squid_forest_glade_stream_middle_11fdb519:
 
     # extend "" nointeract
@@ -3858,7 +3858,7 @@ translate crowdin quest_flora_squid_shower_2b35b6fe_1:
     # mc "..."
     mc "..."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1083
+# game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1084
 translate crowdin quest_flora_squid_shower_11fdb519:
 
     # extend "" nointeract
@@ -5299,8 +5299,8 @@ translate crowdin strings:
     new "\"Are you okay?\""
 
     # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1083
-    old "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|Pull her into a hug"
-    new "?flora.love>=15@[flora.love]/25|{image=flora contact_icon}|{image=stats love_3}|Pull her into a hug"
+    old "?flora.love>=15@[flora.love]/15|{image=flora contact_icon}|{image=stats love_3}|Pull her into a hug"
+    new "?flora.love>=15@[flora.love]/15|{image=flora contact_icon}|{image=stats love_3}|Pull her into a hug"
 
     # game/1000_base_game/game/characters/flora/season_1/q_flora_squid.rpy:1083
     old "?flora.lust>=10@[flora.lust]/10|{image=flora contact_icon}|{image=stats lust_3}|Touch her ass"

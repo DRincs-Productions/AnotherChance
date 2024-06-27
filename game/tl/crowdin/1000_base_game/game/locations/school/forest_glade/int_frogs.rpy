@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/forest_glade/int_frogs.rpy:20
 translate crowdin school_forest_glade_frog1_take_104f9f9e:

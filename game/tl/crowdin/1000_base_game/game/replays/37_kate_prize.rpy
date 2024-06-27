@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/37_kate_prize.rpy:6
 translate crowdin replay_kate_prize_f7f62621:
@@ -408,7 +408,7 @@ translate crowdin replay_kate_prize_8a8137bc:
     # "Oh, god..."
     "Oh, god..."
 
-# game/1000_base_game/game/replays/37_kate_prize.rpy:189
+# game/1000_base_game/game/replays/37_kate_prize.rpy:190
 translate crowdin replay_kate_prize_11fdb519:
 
     # extend "" nointeract
@@ -582,7 +582,7 @@ translate crowdin replay_kate_prize_f1dd1fc5:
     # kate spanking_redder_casey_up_next "Now, ask [casey] for more."
     kate spanking_redder_casey_up_next "Now, ask [casey] for more."
 
-# game/1000_base_game/game/replays/37_kate_prize.rpy:360
+# game/1000_base_game/game/replays/37_kate_prize.rpy:361
 translate crowdin replay_kate_prize_11fdb519_1:
 
     # extend "" nointeract
@@ -738,7 +738,7 @@ translate crowdin replay_kate_prize_b353bb3b:
     # kate spanking_reddest_lacey_up_next "[mc], ask [lacey] for more."
     kate spanking_reddest_lacey_up_next "[mc], ask [lacey] for more."
 
-# game/1000_base_game/game/replays/37_kate_prize.rpy:498
+# game/1000_base_game/game/replays/37_kate_prize.rpy:499
 translate crowdin replay_kate_prize_11fdb519_2:
 
     # extend "" nointeract
@@ -1020,7 +1020,7 @@ translate crowdin replay_kate_prize_977076ec:
     # kate spanking_tomato_lacey2 "Show me you're a true bitch — beg me to bust your balls."
     kate spanking_tomato_lacey2 "Show me you're a true bitch — beg me to bust your balls."
 
-# game/1000_base_game/game/replays/37_kate_prize.rpy:789
+# game/1000_base_game/game/replays/37_kate_prize.rpy:790
 translate crowdin replay_kate_prize_11fdb519_3:
 
     # extend "" nointeract

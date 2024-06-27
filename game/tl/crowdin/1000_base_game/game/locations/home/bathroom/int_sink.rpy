@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:49
 translate crowdin home_bathroom_sink_use_socks_fe062c18:
@@ -288,7 +288,7 @@ translate crowdin home_bathroom_sink_interact_wash_hands_94b81fe3:
     # jo "[mc]! Answer me!"
     jo "[mc]! Answer me!"
 
-# game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:141
+# game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:142
 translate crowdin home_bathroom_sink_interact_wash_hands_11fdb519:
 
     # extend "" nointeract

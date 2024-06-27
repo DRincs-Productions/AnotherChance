@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:11
 translate crowdin quest_nurse_venting_start_c9c79ca7:
@@ -174,7 +174,7 @@ translate crowdin quest_nurse_venting_start_9ffec099:
     # maxine angry_fishing "Help me pull!"
     maxine angry_fishing "Help me pull!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:83
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:84
 translate crowdin quest_nurse_venting_start_11fdb519:
 
     # extend "" nointeract
@@ -564,7 +564,7 @@ translate crowdin quest_nurse_venting_help_c09fb81a:
     # nurse neutral "What is it?"
     nurse neutral "What is it?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:216
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:217
 translate crowdin quest_nurse_venting_help_11fdb519:
 
     # extend "" nointeract
@@ -1086,7 +1086,7 @@ translate crowdin quest_nurse_venting_ready_f96f67db:
     # nurse concerned "Is it time? Into the vent?"
     nurse concerned "Is it time? Into the vent?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:340
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:341
 translate crowdin quest_nurse_venting_ready_11fdb519:
 
     # extend "" nointeract
@@ -3174,7 +3174,7 @@ translate crowdin quest_nurse_venting_maxine_camera_62ca5f4c:
     # nurse vent_crawling video "There's an intersection. Which way should I go?"
     nurse vent_crawling video "There's an intersection. Which way should I go?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:907
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:908
 translate crowdin quest_nurse_venting_maxine_camera_11fdb519:
 
     # extend "" nointeract
@@ -3324,7 +3324,7 @@ translate crowdin quest_nurse_venting_maxine_camera_3428a32e:
     # nurse vent_crawling video "Which way should I go?"
     nurse vent_crawling video "Which way should I go?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:942
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:943
 translate crowdin quest_nurse_venting_maxine_camera_11fdb519_1:
 
     # extend "" nointeract
@@ -3444,7 +3444,7 @@ translate crowdin quest_nurse_venting_maxine_camera_973951a3:
     # mc "Okay, let's pick a direction for you."
     mc "Okay, let's pick a direction for you."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:970
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:971
 translate crowdin quest_nurse_venting_maxine_camera_11fdb519_2:
 
     # extend "" nointeract
@@ -3582,7 +3582,7 @@ translate crowdin quest_nurse_venting_maxine_camera_581582b0:
     # nurse vent_crawling video "Where to next?"
     nurse vent_crawling video "Where to next?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1001
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1002
 translate crowdin quest_nurse_venting_maxine_camera_11fdb519_3:
 
     # extend "" nointeract
@@ -3882,769 +3882,769 @@ translate crowdin quest_nurse_venting_clubroom_window_go_3c0b75f6:
     # "Might as well leave them here before [maxine] pesters me about the soap goblins again..."
     "Might as well leave them here before [maxine] pesters me about the soap goblins again..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1134
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1137
 translate crowdin quest_nurse_venting_ground_floor_exit_arrow_go2_ad9e60d9:
 
     # "As enticing as escaping this hellhole is, I promised to meet the [nurse] in her office."
     "As enticing as escaping this hellhole is, I promised to meet the [nurse] in her office."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1141
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1144
 translate crowdin quest_nurse_venting_stuck_5d429815:
 
     # nurse "[mc]? Is that you?"
     nurse "[mc]? Is that you?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1142
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1145
 translate crowdin quest_nurse_venting_stuck_1792a34a:
 
     # "Woah, her ass looks extra fine coming out of there!"
     "Woah, her ass looks extra fine coming out of there!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1143
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1146
 translate crowdin quest_nurse_venting_stuck_b21b4564:
 
     # "Those thick juicy thighs wobbling like jelly..."
     "Those thick juicy thighs wobbling like jelly..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1144
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1147
 translate crowdin quest_nurse_venting_stuck_eb3d9d0e:
 
     # nurse "Oh, my..."
     nurse "Oh, my..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1145
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1148
 translate crowdin quest_nurse_venting_stuck_f3b3d28f:
 
     # mc "What's wrong?"
     mc "What's wrong?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1146
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1149
 translate crowdin quest_nurse_venting_stuck_50c83ead:
 
     # nurse "I can't move..."
     nurse "I can't move..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1147
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1150
 translate crowdin quest_nurse_venting_stuck_5c122d02:
 
     # nurse "Oh, no..."
     nurse "Oh, no..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1148
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1151
 translate crowdin quest_nurse_venting_stuck_a9fd9e74:
 
     # mc "You're stuck?"
     mc "You're stuck?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1149
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1152
 translate crowdin quest_nurse_venting_stuck_558f2815:
 
     # nurse "Y-yes..."
     nurse "Y-yes..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1150
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1153
 translate crowdin quest_nurse_venting_stuck_e708bb85:
 
     # nurse "This is entirely unprecedented!"
     nurse "This is entirely unprecedented!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1151
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1154
 translate crowdin quest_nurse_venting_stuck_6700e27e:
 
     # mc "Let me see if I can help get you loose."
     mc "Let me see if I can help get you loose."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1152
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1155
 translate crowdin quest_nurse_venting_stuck_59c40e01:
 
     # nurse "Very well, but I have felt bloated lately and there's a couple of extra pounds I've meant to get rid off..."
     nurse "Very well, but I have felt bloated lately and there's a couple of extra pounds I've meant to get rid off..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1153
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1156
 translate crowdin quest_nurse_venting_stuck_ed422103:
 
     # mc "Nonsense! You look great."
     mc "Nonsense! You look great."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1154
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1157
 translate crowdin quest_nurse_venting_stuck_c0730012:
 
     # "My fingers press into her thickness. She's so soft."
     "My fingers press into her thickness. She's so soft."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1155
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1158
 translate crowdin quest_nurse_venting_stuck_1979d74e:
 
     # mc "And you feel great too."
     mc "And you feel great too."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1156
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1159
 translate crowdin quest_nurse_venting_stuck_14c6848d:
 
     # nurse "Oh, but... [mc]..."
     nurse "Oh, but... [mc]..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1157
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1160
 translate crowdin quest_nurse_venting_stuck_11455b53:
 
     # mc "What?"
     mc "What?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1158
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1161
 translate crowdin quest_nurse_venting_stuck_46b1618d:
 
     # nurse "That's a bit inappropriate..."
     nurse "That's a bit inappropriate..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1159
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1162
 translate crowdin quest_nurse_venting_stuck_559355e4:
 
     # mc "So is crawling naked through the vents."
     mc "So is crawling naked through the vents."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1160
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1163
 translate crowdin quest_nurse_venting_stuck_9b46c4f3:
 
     # nurse "I suppose..."
     nurse "I suppose..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1161
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1164
 translate crowdin quest_nurse_venting_stuck_191b59a4:
 
     # "If I grab her by the hips, I could perhaps work her free."
     "If I grab her by the hips, I could perhaps work her free."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1162
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1165
 translate crowdin quest_nurse_venting_stuck_55050dc2:
 
     # "But seeing her like this... stuck... presenting... helpless... I can't help but feel her up."
     "But seeing her like this... stuck... presenting... helpless... I can't help but feel her up."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1163
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1166
 translate crowdin quest_nurse_venting_stuck_6c96a770:
 
     # nurse "I... I think if you help me wiggle, it might help..."
     nurse "I... I think if you help me wiggle, it might help..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1164
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1167
 translate crowdin quest_nurse_venting_stuck_dc8c8596:
 
     # mc "You bet. Let's get you wiggling."
     mc "You bet. Let's get you wiggling."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1165
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1169
 translate crowdin quest_nurse_venting_stuck_11fdb519:
 
     # extend "" nointeract
     extend "" nointeract
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1168
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1171
 translate crowdin quest_nurse_venting_stuck_210998de:
 
     # mc "All right, here we go."
     mc "All right, here we go."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1174
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1177
 translate crowdin quest_nurse_venting_stuck_a54fc33d:
 
     # nurse "Oh!" with vpunch
     nurse "Oh!" with vpunch
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1181
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1184
 translate crowdin quest_nurse_venting_stuck_ecaee8f5:
 
     # nurse blush "You did it!"
     nurse blush "You did it!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1182
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1185
 translate crowdin quest_nurse_venting_stuck_dd5ccfdb:
 
     # nurse blush "Thank you. That was quite the ordeal."
     nurse blush "Thank you. That was quite the ordeal."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1183
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1186
 translate crowdin quest_nurse_venting_stuck_4d2daba2:
 
     # mc "Don't mention it!"
     mc "Don't mention it!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1184
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1187
 translate crowdin quest_nurse_venting_stuck_9c0541c5:
 
     # mc "Do you have the hook?"
     mc "Do you have the hook?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1185
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1188
 translate crowdin quest_nurse_venting_stuck_8cef784f:
 
     # nurse blush "Here you go."
     nurse blush "Here you go."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1192
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1195
 translate crowdin quest_nurse_venting_stuck_dcb6dace:
 
     # mc "Thank you. You should probably get some rest now."
     mc "Thank you. You should probably get some rest now."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1193
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1196
 translate crowdin quest_nurse_venting_stuck_03ec3898:
 
     # nurse concerned "I suppose I should."
     nurse concerned "I suppose I should."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1194
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1197
 translate crowdin quest_nurse_venting_stuck_4cc05154:
 
     # nurse concerned "This was enough excitement to last the rest of the year..."
     nurse concerned "This was enough excitement to last the rest of the year..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1196
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1199
 translate crowdin quest_nurse_venting_stuck_185f1a66:
 
     # "My fingers dig deeper into her hips."
     "My fingers dig deeper into her hips."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1197
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1200
 translate crowdin quest_nurse_venting_stuck_17b17ac1:
 
     # "Her ass shakes and wiggles, and something stirs inside me."
     "Her ass shakes and wiggles, and something stirs inside me."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1198
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1201
 translate crowdin quest_nurse_venting_stuck_51dc981c:
 
     # "Perhaps helping her can wait a bit..."
     "Perhaps helping her can wait a bit..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1199
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1202
 translate crowdin quest_nurse_venting_stuck_65e6a06b:
 
     # nurse "Oh... that's... that..."
     nurse "Oh... that's... that..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1200
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1203
 translate crowdin quest_nurse_venting_stuck_d7d3946b:
 
     # mc "I have a different plan."
     mc "I have a different plan."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1201
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1204
 translate crowdin quest_nurse_venting_stuck_5a9fa793:
 
     # nurse "What do you mean?"
     nurse "What do you mean?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1202
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1205
 translate crowdin quest_nurse_venting_stuck_da7e8dae:
 
     # "She's built like a fertility goddess. Those big thighs leading up to that full ass. That winking sphincter."
     "She's built like a fertility goddess. Those big thighs leading up to that full ass. That winking sphincter."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1203
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1206
 translate crowdin quest_nurse_venting_stuck_72c52284:
 
     # mc "You're incredibly stuck, but I have an idea."
     mc "You're incredibly stuck, but I have an idea."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1213
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1216
 translate crowdin quest_nurse_venting_stuck_afd90519:
 
     # nurse "Oh!"
     nurse "Oh!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1214
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1217
 translate crowdin quest_nurse_venting_stuck_7a3aed40:
 
     # "She knows where this is going. Her knees are pulling apart. She's opening herself to me."
     "She knows where this is going. Her knees are pulling apart. She's opening herself to me."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1215
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1218
 translate crowdin quest_nurse_venting_stuck_429e9ce1:
 
     # nurse "But what if someone comes in?"
     nurse "But what if someone comes in?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1216
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1219
 translate crowdin quest_nurse_venting_stuck_40ea3949:
 
     # mc "They'll see me fucking you."
     mc "They'll see me fucking you."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1217
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1220
 translate crowdin quest_nurse_venting_stuck_a52888da:
 
     # nurse "I could get in trouble!"
     nurse "I could get in trouble!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1218
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1221
 translate crowdin quest_nurse_venting_stuck_0cd326ee:
 
     # mc "Oh, you're already in trouble."
     mc "Oh, you're already in trouble."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1219
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1222
 translate crowdin quest_nurse_venting_stuck_e122f520:
 
     # nurse "I suppose I am..."
     nurse "I suppose I am..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1220
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1223
 translate crowdin quest_nurse_venting_stuck_28ba79cd:
 
     # mc "That's right."
     mc "That's right."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1221
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1224
 translate crowdin quest_nurse_venting_stuck_ed5e0f3b:
 
     # "My fingers run up and down her inner thighs. This brings my face close to her pussy and the heat coming off it."
     "My fingers run up and down her inner thighs. This brings my face close to her pussy and the heat coming off it."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1222
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1225
 translate crowdin quest_nurse_venting_stuck_7a8ed1a4:
 
     # "A sheen of wetness is already spreading along the line of her lips."
     "A sheen of wetness is already spreading along the line of her lips."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1223
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1226
 translate crowdin quest_nurse_venting_stuck_113328c3:
 
     # "I give her a lick, top to bottom, and her knees give out. She tastes a little sour, a little sweet."
     "I give her a lick, top to bottom, and her knees give out. She tastes a little sour, a little sweet."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1224
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1227
 translate crowdin quest_nurse_venting_stuck_0ed9c1a6:
 
     # "The flat of my tongue works her lips. With the tip, I give her clit the occasional flick."
     "The flat of my tongue works her lips. With the tip, I give her clit the occasional flick."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1225
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1228
 translate crowdin quest_nurse_venting_stuck_65bed0e7:
 
     # "She's trembling, arching her back upwards. She can't help herself."
     "She's trembling, arching her back upwards. She can't help herself."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1226
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1229
 translate crowdin quest_nurse_venting_stuck_d47e4504:
 
     # nurse "P-please!"
     nurse "P-please!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1227
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1230
 translate crowdin quest_nurse_venting_stuck_46d024ef:
 
     # mc "Please what?"
     mc "Please what?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1228
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1231
 translate crowdin quest_nurse_venting_stuck_531e1814:
 
     # nurse "Please, give it to me... sir."
     nurse "Please, give it to me... sir."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1229
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1232
 translate crowdin quest_nurse_venting_stuck_d7bba259:
 
     # mc "Oh, I do like that!"
     mc "Oh, I do like that!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1234
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1237
 translate crowdin quest_nurse_venting_stuck_2646ac45:
 
     # "I've always wanted to try a pornstar position..."
     "I've always wanted to try a pornstar position..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1235
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1238
 translate crowdin quest_nurse_venting_stuck_e02f7afb:
 
     # "I play the head of my dick over her pussy."
     "I play the head of my dick over her pussy."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1236
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1239
 translate crowdin quest_nurse_venting_stuck_ca0e1778:
 
     # "I have to make her mine. The power over her is exhilarating."
     "I have to make her mine. The power over her is exhilarating."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1237
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1240
 translate crowdin quest_nurse_venting_stuck_87ebb778:
 
     # "Before I press in, I savor how good it will feel."
     "Before I press in, I savor how good it will feel."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1238
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1241
 translate crowdin quest_nurse_venting_stuck_bea3a2f8:
 
     # "That pressure, that warmth, that long slide..."
     "That pressure, that warmth, that long slide..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1247
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1250
 translate crowdin quest_nurse_venting_stuck_f191d84a:
 
     # "Carefully, I ease the tip in. Savoring her soft heat."
     "Carefully, I ease the tip in. Savoring her soft heat."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1248
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1251
 translate crowdin quest_nurse_venting_stuck_afd90519_1:
 
     # nurse "Oh!"
     nurse "Oh!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1249
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1252
 translate crowdin quest_nurse_venting_stuck_1638e95b:
 
     # "The touch sends a wave of electricity through me."
     "The touch sends a wave of electricity through me."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1254
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1257
 translate crowdin quest_nurse_venting_stuck_31c7bb1a:
 
     # "Slow, steady, heavy thrusts. I've got her ass moving like the surface of the ocean."
     "Slow, steady, heavy thrusts. I've got her ass moving like the surface of the ocean."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1255
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1258
 translate crowdin quest_nurse_venting_stuck_073118f2:
 
     # "It's mesmerizing."
     "It's mesmerizing."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1256
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1259
 translate crowdin quest_nurse_venting_stuck_010cd6e0:
 
     # "Time to put some marks on her."
     "Time to put some marks on her."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1262
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1265
 translate crowdin quest_nurse_venting_stuck_329489d4:
 
     # "The first spank is a doozy, right where the fat of her ass folds over the fat of her thigh."
     "The first spank is a doozy, right where the fat of her ass folds over the fat of her thigh."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1263
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1266
 translate crowdin quest_nurse_venting_stuck_899bfc09:
 
     # nurse "Ow!"
     nurse "Ow!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1264
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1267
 translate crowdin quest_nurse_venting_stuck_9e530d4f:
 
     # mc "Shut up. You like it."
     mc "Shut up. You like it."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1265
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1268
 translate crowdin quest_nurse_venting_stuck_68fa02c4:
 
     # nurse "I do!"
     nurse "I do!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1266
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1269
 translate crowdin quest_nurse_venting_stuck_2abaff8c:
 
     # "I increase the pace."
     "I increase the pace."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1272
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1275
 translate crowdin quest_nurse_venting_stuck_c7bf4109:
 
     # nurse "Harder!"
     nurse "Harder!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1273
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1276
 translate crowdin quest_nurse_venting_stuck_5c4d48a0:
 
     # mc "Beg for it!"
     mc "Beg for it!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1274
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1277
 translate crowdin quest_nurse_venting_stuck_652b4384:
 
     # nurse "Please, harder!"
     nurse "Please, harder!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1280
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1283
 translate crowdin quest_nurse_venting_stuck_07f418a8:
 
     # "I put my back into it, rising off the floor to give her my attention."
     "I put my back into it, rising off the floor to give her my attention."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1281
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1284
 translate crowdin quest_nurse_venting_stuck_cd07ecaa:
 
     # "As I get closer, I increase the pace still."
     "As I get closer, I increase the pace still."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1282
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1285
 translate crowdin quest_nurse_venting_stuck_8f464168:
 
     # nurse "Yes! Yes! Please!"
     nurse "Yes! Yes! Please!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1288
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1291
 translate crowdin quest_nurse_venting_stuck_71abb570:
 
     # "After years and years of masturbation and self-edging, I've mastered my own pleasure..."
     "After years and years of masturbation and self-edging, I've mastered my own pleasure..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1289
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1292
 translate crowdin quest_nurse_venting_stuck_2452579e:
 
     # "Holding it in. Holding it in longer and longer."
     "Holding it in. Holding it in longer and longer."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1290
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1293
 translate crowdin quest_nurse_venting_stuck_ad9f8fd5:
 
     # nurse "Oh, my lord!"
     nurse "Oh, my lord!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1296
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1299
 translate crowdin quest_nurse_venting_stuck_0f50ee1c:
 
     # "Fucking her deep and hard."
     "Fucking her deep and hard."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1297
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1300
 translate crowdin quest_nurse_venting_stuck_a138eea7:
 
     # "Well... as hard as this position allows me..."
     "Well... as hard as this position allows me..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1298
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1301
 translate crowdin quest_nurse_venting_stuck_c8ae0c4b:
 
     # "My stomach muscles flex with every thrust."
     "My stomach muscles flex with every thrust."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1299
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1302
 translate crowdin quest_nurse_venting_stuck_e65ee36c:
 
     # "Her ass jiggles. She moans. An orgasm rips through her."
     "Her ass jiggles. She moans. An orgasm rips through her."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1300
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1303
 translate crowdin quest_nurse_venting_stuck_e60698db:
 
     # "And that's not something my masturbation practice has prepared me for."
     "And that's not something my masturbation practice has prepared me for."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1301
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1304
 translate crowdin quest_nurse_venting_stuck_83852efa:
 
     # "Tight, pulsing, pulling me in..."
     "Tight, pulsing, pulling me in..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1302
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1305
 translate crowdin quest_nurse_venting_stuck_97cc9ce7:
 
     # "I have to pull out!"
     "I have to pull out!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1304
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1307
 translate crowdin quest_nurse_venting_stuck_21801d2a:
 
     # mc "F-fuck!"
     mc "F-fuck!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1305
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1308
 translate crowdin quest_nurse_venting_stuck_72679f11:
 
     # "Ropes of cum stream out across her ass cheeks."
     "Ropes of cum stream out across her ass cheeks."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1306
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1309
 translate crowdin quest_nurse_venting_stuck_17b5eb46:
 
     # nurse "Oooh! That's burning hot!"
     nurse "Oooh! That's burning hot!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1307
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1310
 translate crowdin quest_nurse_venting_stuck_ab7f7a97:
 
     # "I've never felt so good finishing myself off. It's like my soul is leaving my body."
     "I've never felt so good finishing myself off. It's like my soul is leaving my body."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1308
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1311
 translate crowdin quest_nurse_venting_stuck_991dc41a:
 
     # "I brace myself against the floor and pour out the rest of my jizz onto her."
     "I brace myself against the floor and pour out the rest of my jizz onto her."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1309
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1312
 translate crowdin quest_nurse_venting_stuck_654c65df:
 
     # "Some of it runs down the slope of her ass cheeks and pools in the small of her back."
     "Some of it runs down the slope of her ass cheeks and pools in the small of her back."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1310
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1313
 translate crowdin quest_nurse_venting_stuck_df01fea2:
 
     # nurse "Oh, dear..."
     nurse "Oh, dear..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1311
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1314
 translate crowdin quest_nurse_venting_stuck_9cdabd8d:
 
     # mc "Oh, dear, indeed."
     mc "Oh, dear, indeed."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1321
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1324
 translate crowdin quest_nurse_venting_stuck_d9677c9b:
 
     # "And now what, I help her get free?"
     "And now what, I help her get free?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1322
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1325
 translate crowdin quest_nurse_venting_stuck_de24d778:
 
     # "Maybe I won't."
     "Maybe I won't."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1323
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1326
 translate crowdin quest_nurse_venting_stuck_e0bdc3f5:
 
     # "Maybe I'll walk away and lock the door behind me..."
     "Maybe I'll walk away and lock the door behind me..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1324
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1327
 translate crowdin quest_nurse_venting_stuck_9e7156c4:
 
     # "I wouldn't mind having my own personal fuck toy stuck in this vent."
     "I wouldn't mind having my own personal fuck toy stuck in this vent."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1325
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1328
 translate crowdin quest_nurse_venting_stuck_8a6e5202:
 
     # "Just need to figure out how to bring her food and I'm—"
     "Just need to figure out how to bring her food and I'm—"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1326
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1329
 translate crowdin quest_nurse_venting_stuck_52e5d6f1:
 
     # nurse "[mc]? It worked!"
     nurse "[mc]? It worked!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1327
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1330
 translate crowdin quest_nurse_venting_stuck_661bb4d1:
 
     # mc "What did?"
     mc "What did?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1328
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1331
 translate crowdin quest_nurse_venting_stuck_4706c2ef:
 
     # nurse "Your plan! I'm free!"
     nurse "Your plan! I'm free!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1330
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1333
 translate crowdin quest_nurse_venting_stuck_3273faed:
 
     # "No freaking way..."
     "No freaking way..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1331
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1334
 translate crowdin quest_nurse_venting_stuck_10413277:
 
     # mc "Err... of course it did! Told you so!"
     mc "Err... of course it did! Told you so!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1332
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1335
 translate crowdin quest_nurse_venting_stuck_b35c8291:
 
     # nurse blush "So you did."
     nurse blush "So you did."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1333
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1336
 translate crowdin quest_nurse_venting_stuck_fa85e1d4:
 
     # nurse blush "I should trust you from now on."
     nurse blush "I should trust you from now on."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1334
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1337
 translate crowdin quest_nurse_venting_stuck_48b81418:
 
     # mc "You definitely should."
     mc "You definitely should."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1335
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1338
 translate crowdin quest_nurse_venting_stuck_9c0541c5_1:
 
     # mc "Do you have the hook?"
     mc "Do you have the hook?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1336
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1339
 translate crowdin quest_nurse_venting_stuck_8cef784f_1:
 
     # nurse blush "Here you go."
     nurse blush "Here you go."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1343
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1346
 translate crowdin quest_nurse_venting_stuck_bcfd267a:
 
     # nurse concerned "I don't think I'll be able to sit for a week..."
     nurse concerned "I don't think I'll be able to sit for a week..."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1344
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1347
 translate crowdin quest_nurse_venting_stuck_c6fcc58f:
 
     # nurse concerned "Time to break out the polysporin."
     nurse concerned "Time to break out the polysporin."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1353
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1356
 translate crowdin quest_nurse_venting_not_stuck_58a39ba6:
 
     # mc "You've made it!"
     mc "You've made it!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1354
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1357
 translate crowdin quest_nurse_venting_not_stuck_9c0541c5:
 
     # mc "Do you have the hook?"
     mc "Do you have the hook?"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1355
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1358
 translate crowdin quest_nurse_venting_not_stuck_58576c3d:
 
     # nurse smile "Here you go."
     nurse smile "Here you go."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1362
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1365
 translate crowdin quest_nurse_venting_not_stuck_4cfd5321:
 
     # mc "You should probably get some rest now."
     mc "You should probably get some rest now."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1363
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1366
 translate crowdin quest_nurse_venting_not_stuck_405cf24f:
 
     # mc "Thanks for the help!"
     mc "Thanks for the help!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1364
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1367
 translate crowdin quest_nurse_venting_not_stuck_cb99f494:
 
     # nurse smile "Anytime!"
     nurse smile "Anytime!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1366
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1369
 translate crowdin quest_nurse_venting_not_stuck_3487d162:
 
     # "The [nurse] is so sweet. I wish we could hang out more."
     "The [nurse] is so sweet. I wish we could hang out more."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1367
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1370
 translate crowdin quest_nurse_venting_not_stuck_dfce5cf7:
 
     # "I don't care that she's a bit older, she's so... soft and agreeable."
     "I don't care that she's a bit older, she's so... soft and agreeable."
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1368
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1371
 translate crowdin quest_nurse_venting_not_stuck_bf1d34bb:
 
     # "So squeezable!"
     "So squeezable!"
 
-# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1369
+# game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1372
 translate crowdin quest_nurse_venting_not_stuck_c4beb45f:
 
     # "Maybe I could ask her out some time?"
@@ -4704,11 +4704,11 @@ translate crowdin strings:
     old "\"Maybe. But I don't care.\""
     new "\"Maybe. But I don't care.\""
 
-    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1165
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1168
     old "Pull her out"
     new "Pull her out"
 
-    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1165
+    # game/1000_base_game/game/characters/nurse/q_nurse_venting.rpy:1168
     old "?nurse.lust>=8@[nurse.lust]/8|{image=nurse contact_icon}|{image=stats lust}|Find an alternative plan"
     new "?nurse.lust>=8@[nurse.lust]/8|{image=nurse contact_icon}|{image=stats lust}|Find an alternative plan"
 

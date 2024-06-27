@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:76
 translate crowdin home_bedroom_closet_kate_fate_dress_ebc2c219:
@@ -6,7 +6,7 @@ translate crowdin home_bedroom_closet_kate_fate_dress_ebc2c219:
     # "Okay, time to pick my outfit for this endeavor..."
     "Okay, time to pick my outfit for this endeavor..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:77
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:78
 translate crowdin home_bedroom_closet_kate_fate_dress_11fdb519:
 
     # extend "" nointeract
@@ -60,7 +60,7 @@ translate crowdin home_bedroom_closet_interact_dress_to_the_nine_902a1c4c:
     # "Wouldn't hurt to put some more thought into it this time."
     "Wouldn't hurt to put some more thought into it this time."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:97
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:98
 translate crowdin home_bedroom_closet_interact_dress_to_the_nine_11fdb519:
 
     # extend "" nointeract
@@ -102,7 +102,7 @@ translate crowdin home_bedroom_closet_interact_kate_blowjob_dream_get_dressed_52
     # "Okay, quickly. What would be a good outfit today? There aren't many good options."
     "Okay, quickly. What would be a good outfit today? There aren't many good options."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:122
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:123
 translate crowdin home_bedroom_closet_interact_kate_blowjob_dream_get_dressed_11fdb519:
 
     # extend "" nointeract
@@ -258,7 +258,7 @@ translate crowdin home_bedroom_closet_jacklyn_statement_clothes_76034314:
     # "Well, no other option than picking something."
     "Well, no other option than picking something."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:183
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:184
 translate crowdin home_bedroom_closet_jacklyn_statement_clothes_11fdb519:
 
     # extend "" nointeract
@@ -408,7 +408,7 @@ translate crowdin home_bedroom_closet_jacklyn_statement_intruder_1b7dae81:
     # mc "That sounds like spying to me."
     mc "That sounds like spying to me."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:226
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:227
 translate crowdin home_bedroom_closet_jacklyn_statement_intruder_11fdb519:
 
     # extend "" nointeract
@@ -528,7 +528,7 @@ translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_6efc0963
     # jacklyn smile "Wicked. Wanna get out of here? I know a good way to make a statement."
     jacklyn smile "Wicked. Wanna get out of here? I know a good way to make a statement."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:268
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:269
 translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_11fdb519:
 
     # extend "" nointeract
@@ -840,7 +840,7 @@ translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_574ecb64
     # mc "I don't really know..."
     mc "I don't really know..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:343
+# game/1000_base_game/game/locations/home/bedroom/int_closet.rpy:344
 translate crowdin home_bedroom_closet_jacklyn_statement_really_going_on_11fdb519_1:
 
     # extend "" nointeract

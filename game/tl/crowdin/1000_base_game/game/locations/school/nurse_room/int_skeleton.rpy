@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/nurse_room/int_skeleton.rpy:30
 translate crowdin school_nurse_room_skeleton_interact_d4d47b50:

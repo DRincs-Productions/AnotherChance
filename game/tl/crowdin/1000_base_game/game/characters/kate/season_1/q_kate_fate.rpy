@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:17
 translate crowdin quest_kate_fate_start_ec93e813:
@@ -18,7 +18,7 @@ translate crowdin quest_kate_fate_start_1dad092a:
     # kate flirty "Have you come to perv on the cheerleaders again?"
     kate flirty "Have you come to perv on the cheerleaders again?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:21
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:22
 translate crowdin quest_kate_fate_start_11fdb519:
 
     # extend "" nointeract
@@ -180,7 +180,7 @@ translate crowdin quest_kate_fate_start_bce9e1bc:
     # kate gushing_rope "Ready?"
     kate gushing_rope "Ready?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:81
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:82
 translate crowdin quest_kate_fate_start_11fdb519_1:
 
     # extend "" nointeract
@@ -240,12 +240,6 @@ translate crowdin quest_kate_fate_start_4562d7fd:
     # mc "Ouch!{w=.5}{nw}" with vpunch
     mc "Ouch!{w=.5}{nw}" with vpunch
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:121
-translate crowdin quest_kate_fate_start_e1f385a7:
-
-    # extend ""
-    extend ""
-
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:122
 translate crowdin quest_kate_fate_start_5254ba2f:
 
@@ -275,12 +269,6 @@ translate crowdin quest_kate_fate_start_cc7510da:
 
     # kate "Put him on his stomach.{w=.5}{nw}"
     kate "Put him on his stomach.{w=.5}{nw}"
-
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:128
-translate crowdin quest_kate_fate_start_e1f385a7_1:
-
-    # extend ""
-    extend ""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:135
 translate crowdin quest_kate_fate_start_14de9f66:
@@ -576,7 +564,7 @@ translate crowdin quest_kate_fate_fight_67d37a8d:
     # stacy "How about we stuff him into the new girl's locker?"
     stacy "How about we stuff him into the new girl's locker?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:308
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:309
 translate crowdin quest_kate_fate_fight_11fdb519:
 
     # extend "" nointeract
@@ -1110,7 +1098,7 @@ translate crowdin quest_kate_fate_socks_e78ba8fe:
     # "There's no winning here, only different levels of losing."
     "There's no winning here, only different levels of losing."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:423
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:424
 translate crowdin quest_kate_fate_socks_11fdb519:
 
     # extend "" nointeract
@@ -1470,7 +1458,7 @@ translate crowdin quest_kate_fate_socks_d3e1ee04:
     # "Maybe certain things should be left unsaid."
     "Maybe certain things should be left unsaid."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:518
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:519
 translate crowdin quest_kate_fate_socks_11fdb519_1:
 
     # extend "" nointeract
@@ -1812,7 +1800,7 @@ translate crowdin quest_kate_fate_bound_817371e5:
     # kate cheerleader_feet_nofeet_kate_phoneground_neutral "Nod if you understand."
     kate cheerleader_feet_nofeet_kate_phoneground_neutral "Nod if you understand."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:625
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:626
 translate crowdin quest_kate_fate_bound_11fdb519:
 
     # extend "" nointeract
@@ -1926,7 +1914,7 @@ translate crowdin quest_kate_fate_hunt_first_hall_east_b001aab5:
     # "There's no way I'll outrun a group of fit cheerleaders..."
     "There's no way I'll outrun a group of fit cheerleaders..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:687
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:688
 translate crowdin quest_kate_fate_hunt_first_hall_east_11fdb519:
 
     # extend "" nointeract
@@ -1950,7 +1938,7 @@ translate crowdin quest_kate_fate_hunt_first_hall_east_faf0fca6:
     # "Shit, shit, shit. Think fast!"
     "Shit, shit, shit. Think fast!"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:696
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:697
 translate crowdin quest_kate_fate_hunt_first_hall_east_11fdb519_1:
 
     # extend "" nointeract
@@ -2130,7 +2118,7 @@ translate crowdin quest_kate_fate_fight_surrender_2f9d5045:
     # kate laughing "So, are you coming back to the gym willingly, or should I get the girls?"
     kate laughing "So, are you coming back to the gym willingly, or should I get the girls?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:770
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:771
 translate crowdin quest_kate_fate_fight_surrender_11fdb519:
 
     # extend "" nointeract
@@ -2346,7 +2334,7 @@ translate crowdin quest_kate_fate_caught_e587e445:
     # kate cheerleader_feet "No, what?"
     kate cheerleader_feet "No, what?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:846
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:847
 translate crowdin quest_kate_fate_caught_11fdb519:
 
     # extend "" nointeract
@@ -2742,7 +2730,7 @@ translate crowdin quest_kate_fate_conversation_439e3dfc:
     # kate cheerleader_feet_nofeet_kate_laughing_phoneground "A whole night with my socks in your mouth! How does it feel?"
     kate cheerleader_feet_nofeet_kate_laughing_phoneground "A whole night with my socks in your mouth! How does it feel?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:963
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:964
 translate crowdin quest_kate_fate_conversation_11fdb519:
 
     # extend "" nointeract
@@ -2802,7 +2790,7 @@ translate crowdin quest_kate_fate_conversation_31f9d375:
     # kate cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground "And what do you say?"
     kate cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground "And what do you say?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:982
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:983
 translate crowdin quest_kate_fate_conversation_11fdb519_1:
 
     # extend "" nointeract
@@ -3000,7 +2988,7 @@ translate crowdin quest_kate_fate_conversation_9bdeb303:
     # isabelle skeptical "It was [kate], wasn't it?"
     isabelle skeptical "It was [kate], wasn't it?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1053
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1054
 translate crowdin quest_kate_fate_conversation_11fdb519_2:
 
     # extend "" nointeract
@@ -3264,7 +3252,7 @@ translate crowdin quest_kate_fate_conversation_73055172:
     # kate cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground "Feeling properly disciplined?"
     kate cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground "Feeling properly disciplined?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1154
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1155
 translate crowdin quest_kate_fate_conversation_11fdb519_3:
 
     # extend "" nointeract
@@ -3408,7 +3396,7 @@ translate crowdin quest_kate_fate_conversation_12eac64d:
     # kate cheerleader_feet_nofeet_kate_confident_ballgag_phoneground "There you go! Let's hear it."
     kate cheerleader_feet_nofeet_kate_confident_ballgag_phoneground "There you go! Let's hear it."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1191
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1192
 translate crowdin quest_kate_fate_conversation_11fdb519_4:
 
     # extend "" nointeract
@@ -3696,7 +3684,7 @@ translate crowdin quest_kate_fate_rescue_de216d06:
     # isabelle neutral "No one asked you to be a complete tosser, but here we are."
     isabelle neutral "No one asked you to be a complete tosser, but here we are."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1266
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1267
 translate crowdin quest_kate_fate_rescue_11fdb519:
 
     # extend "" nointeract
@@ -3846,7 +3834,7 @@ translate crowdin quest_kate_fate_rescue_7ee7ae9b:
     # isabelle skeptical "Do they? I have my doubts."
     isabelle skeptical "Do they? I have my doubts."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1307
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1308
 translate crowdin quest_kate_fate_rescue_11fdb519_1:
 
     # extend "" nointeract
@@ -3930,7 +3918,7 @@ translate crowdin quest_kate_fate_rescue_f1ea4db2:
     # "Shit. Now [kate] is mad for real."
     "Shit. Now [kate] is mad for real."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1340
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1341
 translate crowdin quest_kate_fate_rescue_11fdb519_2:
 
     # extend "" nointeract
@@ -4068,7 +4056,7 @@ translate crowdin quest_kate_fate_dead_end_kate_e0ab4756:
     # mc "Yeah, I found this title..."
     mc "Yeah, I found this title..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1383
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1384
 translate crowdin quest_kate_fate_dead_end_kate_11fdb519:
 
     # extend "" nointeract

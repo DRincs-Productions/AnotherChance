@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/entrance/int_bush.rpy:48
 translate crowdin school_entrance_bush_interact_a31a7204:
@@ -54,7 +54,7 @@ translate crowdin school_entrance_bush_quest_kate_search_for_nurse_25534cb2:
     # nurse surprised "Please, don't sneak up on people like that!"
     nurse surprised "Please, don't sneak up on people like that!"
 
-# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:66
+# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:67
 translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519:
 
     # extend "" nointeract
@@ -414,7 +414,7 @@ translate crowdin school_entrance_bush_quest_kate_search_for_nurse_da9a2594:
     # nurse afraid "..."
     nurse afraid "..."
 
-# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:138
+# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:139
 translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_1:
 
     # extend "" nointeract
@@ -504,7 +504,7 @@ translate crowdin school_entrance_bush_quest_kate_search_for_nurse_0f1646a3:
     # nurse blush "They're both perfect for brews."
     nurse blush "They're both perfect for brews."
 
-# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:174
+# game/1000_base_game/game/locations/school/entrance/int_bush.rpy:175
 translate crowdin school_entrance_bush_quest_kate_search_for_nurse_11fdb519_2:
 
     # extend "" nointeract

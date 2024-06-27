@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:4
 translate crowdin quest_kate_desire_start_e8823701:
@@ -324,7 +324,7 @@ translate crowdin quest_kate_desire_isabelle_advice_08ba525a:
     # isabelle angry "Bloody hell! It's hardly the point, is it?"
     isabelle angry "Bloody hell! It's hardly the point, is it?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:78
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:79
 translate crowdin quest_kate_desire_isabelle_advice_11fdb519:
 
     # extend "" nointeract
@@ -624,7 +624,7 @@ translate crowdin quest_kate_desire_kate_quest_gym_22e0901d:
     # kate confident "Luckily, my heels are sharp. I'll pop it like a zit if you bow down."
     kate confident "Luckily, my heels are sharp. I'll pop it like a zit if you bow down."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:155
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:156
 translate crowdin quest_kate_desire_kate_quest_gym_11fdb519:
 
     # extend "" nointeract
@@ -870,7 +870,7 @@ translate crowdin quest_kate_desire_kate_quest_gym_b3f46585:
     # kate excited "So, [mc], how confident are you?"
     kate excited "So, [mc], how confident are you?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:236
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:237
 translate crowdin quest_kate_desire_kate_quest_gym_11fdb519_1:
 
     # extend "" nointeract
@@ -1332,7 +1332,7 @@ translate crowdin quest_kate_desire_bus_interact_bcd7e37e:
     # kate confident "So, what's next, Sherlock?"
     kate confident "So, what's next, Sherlock?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:381
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:382
 translate crowdin quest_kate_desire_bus_interact_11fdb519:
 
     # extend "" nointeract
@@ -1386,7 +1386,7 @@ translate crowdin quest_kate_desire_bus_interact_0b04c523:
     # kate flirty "You would like that, wouldn't you?"
     kate flirty "You would like that, wouldn't you?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:394
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:395
 translate crowdin quest_kate_desire_bus_interact_11fdb519_1:
 
     # extend "" nointeract
@@ -1632,7 +1632,7 @@ translate crowdin quest_kate_desire_holdup_dfb7698a:
     # kate excited "Maybe... What are you going to do about it?"
     kate excited "Maybe... What are you going to do about it?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:470
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:471
 translate crowdin quest_kate_desire_holdup_11fdb519:
 
     # extend "" nointeract
@@ -1692,7 +1692,7 @@ translate crowdin quest_kate_desire_holdup_7c450528:
     # mc "If I win..."
     mc "If I win..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:484
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:485
 translate crowdin quest_kate_desire_holdup_11fdb519_1:
 
     # extend "" nointeract
@@ -1716,7 +1716,7 @@ translate crowdin quest_kate_desire_holdup_0188acda:
     # kate excited "And what could you possibly have that I want?"
     kate excited "And what could you possibly have that I want?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:498
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:499
 translate crowdin quest_kate_desire_holdup_11fdb519_2:
 
     # extend "" nointeract
@@ -1860,7 +1860,7 @@ translate crowdin quest_kate_desire_holdup_maxine_nude_7c74aa6d:
     # "Time to either all-in or fold."
     "Time to either all-in or fold."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:538
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:539
 translate crowdin quest_kate_desire_holdup_maxine_nude_11fdb519:
 
     # extend "" nointeract
@@ -2076,7 +2076,7 @@ translate crowdin quest_kate_desire_holdup_maxine_nude_4d2d9f3b:
     # "Crap. My knees get all wobbly and weak when [kate] starts bossing me around..."
     "Crap. My knees get all wobbly and weak when [kate] starts bossing me around..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:609
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:610
 translate crowdin quest_kate_desire_holdup_maxine_nude_11fdb519_1:
 
     # extend "" nointeract
@@ -2280,7 +2280,7 @@ translate crowdin quest_kate_desire_mrsl_talk_3dca4c8e:
     # mrsl confident "That depends on the reason for your current state of dress... or lack thereof."
     mrsl confident "That depends on the reason for your current state of dress... or lack thereof."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:670
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:671
 translate crowdin quest_kate_desire_mrsl_talk_11fdb519:
 
     # extend "" nointeract
@@ -2646,7 +2646,7 @@ translate crowdin quest_kate_desire_bathroomhelp_isabelle_c228a1c2:
     # "I need to distract her somehow to buy [isabelle] more time..."
     "I need to distract her somehow to buy [isabelle] more time..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:769
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:770
 translate crowdin quest_kate_desire_bathroomhelp_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -3114,7 +3114,7 @@ translate crowdin quest_kate_desire_bathroomhelp_isabelle_9866ae47:
     # kate confident "Right?"
     kate confident "Right?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:872
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:873
 translate crowdin quest_kate_desire_bathroomhelp_isabelle_11fdb519_1:
 
     # extend "" nointeract
@@ -3348,7 +3348,7 @@ translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_ccbdbd24:
     # kate gushing "Really? Can I see it?"
     kate gushing "Really? Can I see it?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:936
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:937
 translate crowdin quest_kate_desire_bathroomhelp_isabelle_mc_would_11fdb519:
 
     # extend "" nointeract
@@ -3540,7 +3540,7 @@ translate crowdin quest_kate_desire_conclusion_one_cea29d21:
     # kate excited "You're not going to bitch about it, are you?"
     kate excited "You're not going to bitch about it, are you?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1001
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1002
 translate crowdin quest_kate_desire_conclusion_one_11fdb519:
 
     # extend "" nointeract
@@ -3894,7 +3894,7 @@ translate crowdin quest_kate_desire_winner_0ec8a229:
     # kate skeptical "Well, those are the rules. Deal with it."
     kate skeptical "Well, those are the rules. Deal with it."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1110
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1111
 translate crowdin quest_kate_desire_winner_no_blowjob_11fdb519:
 
     # extend "" nointeract
@@ -4290,7 +4290,7 @@ translate crowdin quest_kate_desire_winner_no_blowjob_978cdf97:
     # "It might be best not to tempt fate. I'm quite fond of my dick."
     "It might be best not to tempt fate. I'm quite fond of my dick."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1231
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1232
 translate crowdin quest_kate_desire_winner_no_blowjob_11fdb519_1:
 
     # extend "" nointeract
@@ -4542,7 +4542,7 @@ translate crowdin quest_kate_desire_winner_no_blowjob_29841fc5:
     # kate "It's this or nothing."
     kate "It's this or nothing."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1304
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1305
 translate crowdin quest_kate_desire_winner_no_blowjob_11fdb519_2:
 
     # extend "" nointeract
@@ -4800,7 +4800,7 @@ translate crowdin quest_kate_desire_winner_no_blowjob_0e921308:
     # kate "Look at her beg! Isn't she cute?"
     kate "Look at her beg! Isn't she cute?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1380
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1381
 translate crowdin quest_kate_desire_winner_no_blowjob_2deb93ce:
 
     # nurse "May I perform fellatio on you, [mc]?" nointeract
@@ -4860,7 +4860,7 @@ translate crowdin quest_kate_desire_winner_no_blowjob_1976fa64:
     # mc "Very well, then..."
     mc "Very well, then..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1397
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1398
 translate crowdin quest_kate_desire_winner_no_blowjob_11fdb519_3:
 
     # extend "" nointeract
@@ -5022,7 +5022,7 @@ translate crowdin quest_kate_desire_winner_no_blowjob_d7c487ce:
     # kate "Give her an order, [mc]. She likes that."
     kate "Give her an order, [mc]. She likes that."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1440
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:1441
 translate crowdin quest_kate_desire_winner_no_blowjob_11fdb519_4:
 
     # extend "" nointeract
@@ -6510,7 +6510,7 @@ translate crowdin quest_kate_desire_spanking_8a8137bc:
     # "Oh, god..."
     "Oh, god..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2187
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2188
 translate crowdin quest_kate_desire_spanking_11fdb519:
 
     # extend "" nointeract
@@ -6684,7 +6684,7 @@ translate crowdin quest_kate_desire_spanking_f1dd1fc5:
     # kate spanking_redder_casey_up_next "Now, ask [casey] for more."
     kate spanking_redder_casey_up_next "Now, ask [casey] for more."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2360
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2361
 translate crowdin quest_kate_desire_spanking_11fdb519_1:
 
     # extend "" nointeract
@@ -6840,7 +6840,7 @@ translate crowdin quest_kate_desire_spanking_b353bb3b:
     # kate spanking_reddest_lacey_up_next "[mc], ask [lacey] for more."
     kate spanking_reddest_lacey_up_next "[mc], ask [lacey] for more."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2500
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2501
 translate crowdin quest_kate_desire_spanking_11fdb519_2:
 
     # extend "" nointeract
@@ -7122,7 +7122,7 @@ translate crowdin quest_kate_desire_spanking_977076ec:
     # kate spanking_tomato_lacey2 "Show me you're a true bitch — beg me to bust your balls."
     kate spanking_tomato_lacey2 "Show me you're a true bitch — beg me to bust your balls."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2795
+# game/1000_base_game/game/characters/kate/season_1/q_kate_desire.rpy:2796
 translate crowdin quest_kate_desire_spanking_11fdb519_3:
 
     # extend "" nointeract

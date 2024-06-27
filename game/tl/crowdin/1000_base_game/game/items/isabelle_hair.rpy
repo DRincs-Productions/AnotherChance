@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-09 16:03
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/items/isabelle_hair.rpy:18
 translate crowdin isabelle_hair_interact_c529d5a7:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4
 translate crowdin quest_lindsey_angel_start_9b346f38:
@@ -516,7 +516,7 @@ translate crowdin quest_lindsey_angel_nurse_14361222:
     # nurse surprised "Oh, no! I can't help with that! It's against the rules!"
     nurse surprised "Oh, no! I can't help with that! It's against the rules!"
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:134
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:135
 translate crowdin quest_lindsey_angel_nurse_11fdb519:
 
     # extend "" nointeract
@@ -966,7 +966,7 @@ translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_4d7cdf41:
     # "Maybe I can use that to my advantage?"
     "Maybe I can use that to my advantage?"
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:311
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:312
 translate crowdin quest_lindsey_angel_off_limits_school_ground_floor_repeat_11fdb519:
 
     # extend "" nointeract
@@ -2160,7 +2160,7 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f8cb1eb5:
     # lindsey hospital_bed sad "I... don't want to think about that day..."
     lindsey hospital_bed sad "I... don't want to think about that day..."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:687
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:688
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_11fdb519:
 
     # extend "" nointeract
@@ -2766,451 +2766,655 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_78193f34:
     # "As our lips part, [lindsey] looks up at me, giving me the most heart-melting look."
     "As our lips part, [lindsey] looks up at me, giving me the most heart-melting look."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:822
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_abe3a62a:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:823
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_aad820a2:
 
-    # "Through her chest, the pulse of her heart quickens against my palm."
-    "Through her chest, the pulse of her heart quickens against my palm."
+    # "Through her chest, the pulse of her heart quickens against my palm.{space=-15}"
+    "Through her chest, the pulse of her heart quickens against my palm.{space=-15}"
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:828
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b741621c:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:825
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_11fdb519_1:
 
-    # "Slowly, my hand moves lower, cupping her breast."
-    "Slowly, my hand moves lower, cupping her breast."
+    # extend "" nointeract
+    extend "" nointeract
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:827
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4034f300:
+
+    # mc "I'll be here for you, no matter what."
+    mc "I'll be here for you, no matter what."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:829
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_5be2dce6:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c698daed:
 
-    # "The jiggly softness makes me dizzy with desire."
-    "The jiggly softness makes me dizzy with desire."
+    # "A faint smile graces her lips, but she says nothing."
+    "A faint smile graces her lips, but she says nothing."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:830
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b7b8d919:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1eb477ce:
 
-    # "The squeeze is light, but she still moans."
-    "The squeeze is light, but she still moans."
+    # "She just sighs and closes her eyes once more."
+    "She just sighs and closes her eyes once more."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:831
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0f570b3c:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_13935017:
 
-    # "Distantly, her heart rate monitor starts beeping faster."
-    "Distantly, her heart rate monitor starts beeping faster."
+    # "And somehow, just making her smile fills me with a warm feeling."
+    "And somehow, just making her smile fills me with a warm feeling."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:832
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_cf148cfe:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_6c3d145d:
 
-    # "The sound fills me with a certain pride and giddiness."
-    "The sound fills me with a certain pride and giddiness."
+    # "Being there for her is all I want."
+    "Being there for her is all I want."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:833
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ec28d3a3:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0ebb0c1e:
 
-    # "Emboldened, my hand leaves her chest, traveling down her ribcage and stomach."
-    "Emboldened, my hand leaves her chest, traveling down her ribcage and stomach."
+    # "Protecting her. Keeping her safe."
+    "Protecting her. Keeping her safe."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:834
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_35179b53:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_76e5481c:
 
-    # "Steadily, slowly, descending."
-    "Steadily, slowly, descending."
+    # "I just can't let something like this happen to her again."
+    "I just can't let something like this happen to her again."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:835
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3080853e:
+
+    # "[lindsey] losing faith in me was one of my biggest worries during the fall break."
+    "[lindsey] losing faith in me was one of my biggest worries during the fall break."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:836
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_2b360e4a:
+
+    # "But her squeezing my arm... as if it's a lifebuoy.... is the best feeling ever."
+    "But her squeezing my arm... as if it's a lifebuoy.... is the best feeling ever."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:837
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4357e677:
+
+    # "It's like my life has gained a deeper purpose."
+    "It's like my life has gained a deeper purpose."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:839
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0b1f9988:
+
+    # "And in that moment, I take an oath to always be by her side when she{space=-30}\nneeds me."
+    "And in that moment, I take an oath to always be by her side when she{space=-30}\nneeds me."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:840
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9f980fe0:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_38c47bfe:
 
-    # "[lindsey] gasps as I get closer to her sex, but doesn't stop me."
-    "[lindsey] gasps as I get closer to her sex, but doesn't stop me."
+    # "Even if she doesn't see me the way I see her."
+    "Even if she doesn't see me the way I see her."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:841
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1e0ec856:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_272b815b:
 
-    # "She just looks at me, eyes full of innocence and surprise, but also desire."
-    "She just looks at me, eyes full of innocence and surprise, but also desire."
+    # "So radiant and perfect, even with her body broken."
+    "So radiant and perfect, even with her body broken."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:842
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_af547698:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_235b9cdb:
 
-    # "Even as my hand slips under the waistband of her panties, her eyes remain on me."
-    "Even as my hand slips under the waistband of her panties, her eyes remain on me."
+    # "It doesn't matter to me. I'll be there."
+    "It doesn't matter to me. I'll be there."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:843
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9b5c5106:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:848
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_18874401:
 
-    # "The soft skin of her mound against my palm makes me shiver."
-    "The soft skin of her mound against my palm makes me shiver."
+    # "Slowly, her grip on my arm loosens as sleep takes her."
+    "Slowly, her grip on my arm loosens as sleep takes her."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:849
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_cf853727:
+
+    # "Life is never easy, and in my darkest hours, I wish I'd had someone to hold on to."
+    "Life is never easy, and in my darkest hours, I wish I'd had someone to hold on to."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:850
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_836987f9:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_620bdcae:
 
-    # lindsey hospital_bed aroused fully_covered_pussy "[mc]..."
-    lindsey hospital_bed aroused fully_covered_pussy "[mc]..."
+    # "Someone that genuinely cared about me."
+    "Someone that genuinely cared about me."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:851
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_861e92dc:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_94910f3b:
 
-    # "She gasps as I fully cover her pussy with my hand."
-    "She gasps as I fully cover her pussy with my hand."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:852
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a46f8b48:
-
-    # "Her words are a mere whisper, and despite her broken limbs, she tries to spread her legs for me."
-    "Her words are a mere whisper, and despite her broken limbs, she tries to spread her legs for me."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:853
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_8db4273f:
-
-    # mc "Just relax."
-    mc "Just relax."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:854
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_bcbb9aed:
-
-    # "She bites her lip, her cheeks turning crimson."
-    "She bites her lip, her cheeks turning crimson."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:856
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_2c8668f0:
-
-    # "As I say this, I slide my hand further into her panties."
-    "As I say this, I slide my hand further into her panties."
+    # "I want to be that person for her."
+    "I want to be that person for her."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:857
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_939374ba:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_28ea118e:
 
-    # "Caressing her vulva."
-    "Caressing her vulva."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:858
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a123a6dc:
-
-    # "Gliding my fingers between her already slick lips."
-    "Gliding my fingers between her already slick lips."
+    # nurse "Excuse me, sir. The visiting hours ended a long time ago."
+    nurse "Excuse me, sir. The visiting hours ended a long time ago."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:859
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3374f65a:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_6042428a:
 
-    # "She squirms slightly beneath me, pressing her head back into her pillow."
-    "She squirms slightly beneath me, pressing her head back into her pillow."
+    # mc "Err, sorry! I just wanted to stay with her a little longer..."
+    mc "Err, sorry! I just wanted to stay with her a little longer..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:860
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_40d3cbe0:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_fe9b8c90:
 
-    # lindsey hospital_bed aroused sliding_hand_further "Oh... oh my..."
-    lindsey hospital_bed aroused sliding_hand_further "Oh... oh my..."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:861
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4a14a763:
-
-    # "My thumb touches her clit and she stiffens, holding her breath."
-    "My thumb touches her clit and she stiffens, holding her breath."
+    # nurse "That's sweet of you, but unfortunately I'll have to ask you to leave."
+    nurse "That's sweet of you, but unfortunately I'll have to ask you to leave."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:862
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3c44f8e9:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_582de98e:
 
-    # "Her pussy leaks into my hand, throbbing beneath my touch."
-    "Her pussy leaks into my hand, throbbing beneath my touch."
+    # mc "I understand. I'll be right out."
+    mc "I understand. I'll be right out."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:863
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4f5eab9a:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a3f96196:
 
-    # lindsey hospital_bed aroused sliding_hand_further "[mc]..."
-    lindsey hospital_bed aroused sliding_hand_further "[mc]..."
+    # mc "Goodbye, [lindsey]. I'll try to be back soon, okay?"
+    mc "Goodbye, [lindsey]. I'll try to be back soon, okay?"
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:864
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_21b5fdfc:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:865
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a9fc0bf7:
 
-    # "The sound of her whispering my name spurs me on."
-    "The sound of her whispering my name spurs me on."
+    # lindsey hospital_bed sleeping "ZzzZzzzzZz..."
+    lindsey hospital_bed sleeping "ZzzZzzzzZz..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:866
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9e804b50:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_461c1f59:
 
-    # "My fingers separate her nether lips, opening her up enough to slide a finger inside."
-    "My fingers separate her nether lips, opening her up enough to slide a finger inside."
+    # "She sleeps soundly, perhaps for the first time in weeks."
+    "She sleeps soundly, perhaps for the first time in weeks."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:867
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_20fc48d0:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_dbad5655:
 
-    # "Her eyelashes flutter, her pupils dilate, and her lips produce a single moan."
-    "Her eyelashes flutter, her pupils dilate, and her lips produce a single moan."
+    # "Hopefully, she'll feel a little better when she wakes..."
+    "Hopefully, she'll feel a little better when she wakes..."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:868
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e898ec59:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:876
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_8a173dfd:
 
-    # "She pushes against my hand, and I return the pressure."
-    "She pushes against my hand, and I return the pressure."
+    # "For some, the road bumps are bigger and more painful than others."
+    "For some, the road bumps are bigger and more painful than others."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:933
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_2fef88b3:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:877
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_40a4e3b6:
 
-    # "Her head tilts back, her eyes on the ceiling, mouth open in a silent gasp."
-    "Her head tilts back, her eyes on the ceiling, mouth open in a silent gasp."
+    # "And that's not to diminish anyone's struggles."
+    "And that's not to diminish anyone's struggles."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:934
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_321270d6:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:878
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4172103c:
 
-    # "It's like I'm controlling her entire body with the tips of my fingers."
-    "It's like I'm controlling her entire body with the tips of my fingers."
+    # "Life can sometimes be an uphill battle, but it's important to push through."
+    "Life can sometimes be an uphill battle, but it's important to push through."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:935
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_06fa882c:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:879
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_dad3bdf3:
 
-    # "Like a puppet master, I make her gasp and sigh, moan and shudder."
-    "Like a puppet master, I make her gasp and sigh, moan and shudder."
+    # "Wounds heal with time. Nothing is permanent."
+    "Wounds heal with time. Nothing is permanent."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:936
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b9a7cb14:
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:881
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_04f2cb3e:
 
-    # "More pressure, deeper penetration, faster stimulation of her clitoris.{space=-5}"
-    "More pressure, deeper penetration, faster stimulation of her clitoris.{space=-5}"
+    # "And sometimes... you just need someone to remind you of that."
+    "And sometimes... you just need someone to remind you of that."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:975
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_30856001:
-
-    # "She cries out, her orgasm building."
-    "She cries out, her orgasm building."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:976
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_64a98dd3:
-
-    # mc "That's it, baby..."
-    mc "That's it, baby..."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:977
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_8d40de46:
-
-    # mc "You deserve to feel good after everything you've been through."
-    mc "You deserve to feel good after everything you've been through."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:978
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_562b586c:
-
-    # mc "Let me make you feel good."
-    mc "Let me make you feel good."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:979
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a2746b92:
-
-    # lindsey hospital_bed ahegao sliding_finger_inside "Mmmm... it really does!"
-    lindsey hospital_bed ahegao sliding_finger_inside "Mmmm... it really does!"
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1054
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d04e6088:
-
-    # "Her toned stomach muscles flex and relax, flex and relax — the dam about to break."
-    "Her toned stomach muscles flex and relax, flex and relax — the dam about to break."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1055
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0dfe411b:
-
-    # "Panting, she looks up at me, eyes pleading."
-    "Panting, she looks up at me, eyes pleading."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1056
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f4e2d966:
-
-    # "The cutest, most desperate mewls fill the hospital room."
-    "The cutest, most desperate mewls fill the hospital room."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1057
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d1af68e2:
-
-    # "She's so close, her pussy's gripping my fingers, trying to pull me in."
-    "She's so close, her pussy's gripping my fingers, trying to pull me in."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1058
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_da7f8854:
-
-    # "Her swollen, sensitive clitoris an endless focus of my thumb."
-    "Her swollen, sensitive clitoris an endless focus of my thumb."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1107
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_10328b09:
-
-    # lindsey hospital_bed squirt sliding_finger_inside "Ohhhhhh!" with hpunch
-    lindsey hospital_bed squirt sliding_finger_inside "Ohhhhhh!" with hpunch
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1109
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c8fd0a9e:
-
-    # "Finally, she gives in and explodes around my fingers."
-    "Finally, she gives in and explodes around my fingers."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1110
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_249838f9:
-
-    # "A near silent, but oh so powerful orgasm."
-    "A near silent, but oh so powerful orgasm."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1111
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7bc4ca45:
-
-    # "Juices flow freely from her pussy, soaking my hand and her panties,{space=-5}\neven her bed."
-    "Juices flow freely from her pussy, soaking my hand and her panties,{space=-5}\neven her bed."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1112
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_cd514de9:
-
-    # "Her heart monitor is going crazy."
-    "Her heart monitor is going crazy."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1113
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a7b70f50:
-
-    # lindsey hospital_bed pleased sliding_finger_inside "Oh, my god... that..."
-    lindsey hospital_bed pleased sliding_finger_inside "Oh, my god... that..."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1114
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4d253d65:
-
-    # mc "That."
-    mc "That."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1120
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a62338e7:
-
-    # "It's hard to keep the smile off my face..."
-    "It's hard to keep the smile off my face..."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1121
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1c071fea:
-
-    # "I just made [lindsey] squirt right into my hand!"
-    "I just made [lindsey] squirt right into my hand!"
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1122
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9f28deae:
-
-    # "She relaxes back against the pillow, a smile of relief flitting across her rosy lips."
-    "She relaxes back against the pillow, a smile of relief flitting across her rosy lips."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1125
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_82507346:
-
-    # lindsey hospital_bed pleased squirt_into_hand "Amazing..."
-    lindsey hospital_bed pleased squirt_into_hand "Amazing..."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1126
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1d02fc98:
-
-    # "And it truly is."
-    "And it truly is."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1127
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d1e8824e:
-
-    # "To give someone pleasure is such a beautiful thing."
-    "To give someone pleasure is such a beautiful thing."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1128
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e5b2772c:
-
-    # "Especially when she can't do it herself."
-    "Especially when she can't do it herself."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1129
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b32a815a:
-
-    # "...not that she would ever admit to doing something like that,\nof course."
-    "...not that she would ever admit to doing something like that,\nof course."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1136
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0224cbd2:
-
-    # "She looks at me in surprise and embarrassment when I grab a napkin, and gently dab her pussy."
-    "She looks at me in surprise and embarrassment when I grab a napkin, and gently dab her pussy."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1137
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7ecf3d10:
-
-    # "She blushes deeply, but knows that she can't clean herself up."
-    "She blushes deeply, but knows that she can't clean herself up."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1138
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c84a5160:
-
-    # "And I refuse to just let her soak in her juices."
-    "And I refuse to just let her soak in her juices."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1139
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b8b2b952:
-
-    # lindsey hospital_bed blush napkin_dab "Thank you..."
-    lindsey hospital_bed blush napkin_dab "Thank you..."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1140
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4d2daba2:
-
-    # mc "Don't mention it!"
-    mc "Don't mention it!"
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1141
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c0319164:
-
-    # lindsey hospital_bed blush napkin_dab "You can't either... no one can know..."
-    lindsey hospital_bed blush napkin_dab "You can't either... no one can know..."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1142
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b7132fe3:
-
-    # mc "Don't worry about it. My lips are—"
-    mc "Don't worry about it. My lips are—"
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1148
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_893f6575:
-
-    # nurse "What's going on in here? The visiting hours ended a long time ago."
-    nurse "What's going on in here? The visiting hours ended a long time ago."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1150
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1d498f77:
-
-    # nurse "Time to go."
-    nurse "Time to go."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1161
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_fe4baaf7:
-
-    # "Not exactly how I had planned to end the visit, but it could've been worse..."
-    "Not exactly how I had planned to end the visit, but it could've been worse..."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1162
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_8e0d304e:
-
-    # "At least I got to see [lindsey], and that's what matters."
-    "At least I got to see [lindsey], and that's what matters."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1163
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ae4abec6:
-
-    # "Hopefully, my visit brightened her day a little bit."
-    "Hopefully, my visit brightened her day a little bit."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1164
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_11f6cb1b:
-
-    # "Being in a sterile hospital room for an extended period of time can't a good thing."
-    "Being in a sterile hospital room for an extended period of time can't a good thing."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1165
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d31f19d8:
-
-    # "I really have to visit her again soon..."
-    "I really have to visit her again soon..."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1166
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ab822386:
-
-    # "But for now, I feel relieved and exhausted at the same time."
-    "But for now, I feel relieved and exhausted at the same time."
-
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1173
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:888
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0ee8a040:
 
     # "It's getting late. I can't wait to get home."
     "It's getting late. I can't wait to get home."
 
-# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1184
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:900
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_460d86d9:
+
+    # mc "Just relax, okay? I'll make you feel better."
+    mc "Just relax, okay? I'll make you feel better."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:906
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b741621c:
+
+    # "Slowly, my hand moves lower, cupping her breast."
+    "Slowly, my hand moves lower, cupping her breast."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:907
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_5be2dce6:
+
+    # "The jiggly softness makes me dizzy with desire."
+    "The jiggly softness makes me dizzy with desire."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:908
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b7b8d919:
+
+    # "The squeeze is light, but she still moans."
+    "The squeeze is light, but she still moans."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:909
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0f570b3c:
+
+    # "Distantly, her heart rate monitor starts beeping faster."
+    "Distantly, her heart rate monitor starts beeping faster."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:910
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_cf148cfe:
+
+    # "The sound fills me with a certain pride and giddiness."
+    "The sound fills me with a certain pride and giddiness."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:911
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ec28d3a3:
+
+    # "Emboldened, my hand leaves her chest, traveling down her ribcage and stomach."
+    "Emboldened, my hand leaves her chest, traveling down her ribcage and stomach."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:912
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_35179b53:
+
+    # "Steadily, slowly, descending."
+    "Steadily, slowly, descending."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:918
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9f980fe0:
+
+    # "[lindsey] gasps as I get closer to her sex, but doesn't stop me."
+    "[lindsey] gasps as I get closer to her sex, but doesn't stop me."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:919
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1e0ec856:
+
+    # "She just looks at me, eyes full of innocence and surprise, but also desire."
+    "She just looks at me, eyes full of innocence and surprise, but also desire."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:920
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_af547698:
+
+    # "Even as my hand slips under the waistband of her panties, her eyes remain on me."
+    "Even as my hand slips under the waistband of her panties, her eyes remain on me."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:921
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9b5c5106:
+
+    # "The soft skin of her mound against my palm makes me shiver."
+    "The soft skin of her mound against my palm makes me shiver."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:928
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_836987f9:
+
+    # lindsey hospital_bed aroused fully_covered_pussy "[mc]..."
+    lindsey hospital_bed aroused fully_covered_pussy "[mc]..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:929
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_861e92dc:
+
+    # "She gasps as I fully cover her pussy with my hand."
+    "She gasps as I fully cover her pussy with my hand."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:930
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a46f8b48:
+
+    # "Her words are a mere whisper, and despite her broken limbs, she tries to spread her legs for me."
+    "Her words are a mere whisper, and despite her broken limbs, she tries to spread her legs for me."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:931
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_8db4273f:
+
+    # mc "Just relax."
+    mc "Just relax."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:932
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_bcbb9aed:
+
+    # "She bites her lip, her cheeks turning crimson."
+    "She bites her lip, her cheeks turning crimson."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:934
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_2c8668f0:
+
+    # "As I say this, I slide my hand further into her panties."
+    "As I say this, I slide my hand further into her panties."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:935
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_939374ba:
+
+    # "Caressing her vulva."
+    "Caressing her vulva."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:936
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a123a6dc:
+
+    # "Gliding my fingers between her already slick lips."
+    "Gliding my fingers between her already slick lips."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:937
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3374f65a:
+
+    # "She squirms slightly beneath me, pressing her head back into her pillow."
+    "She squirms slightly beneath me, pressing her head back into her pillow."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:938
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_40d3cbe0:
+
+    # lindsey hospital_bed aroused sliding_hand_further "Oh... oh my..."
+    lindsey hospital_bed aroused sliding_hand_further "Oh... oh my..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:939
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4a14a763:
+
+    # "My thumb touches her clit and she stiffens, holding her breath."
+    "My thumb touches her clit and she stiffens, holding her breath."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:940
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3c44f8e9:
+
+    # "Her pussy leaks into my hand, throbbing beneath my touch."
+    "Her pussy leaks into my hand, throbbing beneath my touch."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:941
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4f5eab9a:
+
+    # lindsey hospital_bed aroused sliding_hand_further "[mc]..."
+    lindsey hospital_bed aroused sliding_hand_further "[mc]..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:942
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_21b5fdfc:
+
+    # "The sound of her whispering my name spurs me on."
+    "The sound of her whispering my name spurs me on."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:944
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9e804b50:
+
+    # "My fingers separate her nether lips, opening her up enough to slide a finger inside."
+    "My fingers separate her nether lips, opening her up enough to slide a finger inside."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:945
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_20fc48d0:
+
+    # "Her eyelashes flutter, her pupils dilate, and her lips produce a single moan."
+    "Her eyelashes flutter, her pupils dilate, and her lips produce a single moan."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:946
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e898ec59:
+
+    # "She pushes against my hand, and I return the pressure."
+    "She pushes against my hand, and I return the pressure."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1011
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_2fef88b3:
+
+    # "Her head tilts back, her eyes on the ceiling, mouth open in a silent gasp."
+    "Her head tilts back, her eyes on the ceiling, mouth open in a silent gasp."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1012
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_321270d6:
+
+    # "It's like I'm controlling her entire body with the tips of my fingers."
+    "It's like I'm controlling her entire body with the tips of my fingers."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1013
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_06fa882c:
+
+    # "Like a puppet master, I make her gasp and sigh, moan and shudder."
+    "Like a puppet master, I make her gasp and sigh, moan and shudder."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1014
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b9a7cb14:
+
+    # "More pressure, deeper penetration, faster stimulation of her clitoris.{space=-5}"
+    "More pressure, deeper penetration, faster stimulation of her clitoris.{space=-5}"
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1053
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_30856001:
+
+    # "She cries out, her orgasm building."
+    "She cries out, her orgasm building."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1054
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_64a98dd3:
+
+    # mc "That's it, baby..."
+    mc "That's it, baby..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1055
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_8d40de46:
+
+    # mc "You deserve to feel good after everything you've been through."
+    mc "You deserve to feel good after everything you've been through."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1056
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_562b586c:
+
+    # mc "Let me make you feel good."
+    mc "Let me make you feel good."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1057
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a2746b92:
+
+    # lindsey hospital_bed ahegao sliding_finger_inside "Mmmm... it really does!"
+    lindsey hospital_bed ahegao sliding_finger_inside "Mmmm... it really does!"
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1132
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d04e6088:
+
+    # "Her toned stomach muscles flex and relax, flex and relax — the dam about to break."
+    "Her toned stomach muscles flex and relax, flex and relax — the dam about to break."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1133
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0dfe411b:
+
+    # "Panting, she looks up at me, eyes pleading."
+    "Panting, she looks up at me, eyes pleading."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1134
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f4e2d966:
+
+    # "The cutest, most desperate mewls fill the hospital room."
+    "The cutest, most desperate mewls fill the hospital room."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1135
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d1af68e2:
+
+    # "She's so close, her pussy's gripping my fingers, trying to pull me in."
+    "She's so close, her pussy's gripping my fingers, trying to pull me in."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1136
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_da7f8854:
+
+    # "Her swollen, sensitive clitoris an endless focus of my thumb."
+    "Her swollen, sensitive clitoris an endless focus of my thumb."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1185
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_10328b09:
+
+    # lindsey hospital_bed squirt sliding_finger_inside "Ohhhhhh!" with hpunch
+    lindsey hospital_bed squirt sliding_finger_inside "Ohhhhhh!" with hpunch
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1187
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c8fd0a9e:
+
+    # "Finally, she gives in and explodes around my fingers."
+    "Finally, she gives in and explodes around my fingers."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1188
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_249838f9:
+
+    # "A near silent, but oh so powerful orgasm."
+    "A near silent, but oh so powerful orgasm."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1189
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7bc4ca45:
+
+    # "Juices flow freely from her pussy, soaking my hand and her panties,{space=-5}\neven her bed."
+    "Juices flow freely from her pussy, soaking my hand and her panties,{space=-5}\neven her bed."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1190
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_cd514de9:
+
+    # "Her heart monitor is going crazy."
+    "Her heart monitor is going crazy."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1191
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a7b70f50:
+
+    # lindsey hospital_bed pleased sliding_finger_inside "Oh, my god... that..."
+    lindsey hospital_bed pleased sliding_finger_inside "Oh, my god... that..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1192
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4d253d65:
+
+    # mc "That."
+    mc "That."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1198
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a62338e7:
+
+    # "It's hard to keep the smile off my face..."
+    "It's hard to keep the smile off my face..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1199
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1c071fea:
+
+    # "I just made [lindsey] squirt right into my hand!"
+    "I just made [lindsey] squirt right into my hand!"
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1200
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9f28deae:
+
+    # "She relaxes back against the pillow, a smile of relief flitting across her rosy lips."
+    "She relaxes back against the pillow, a smile of relief flitting across her rosy lips."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1202
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_82507346:
+
+    # lindsey hospital_bed pleased squirt_into_hand "Amazing..."
+    lindsey hospital_bed pleased squirt_into_hand "Amazing..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1203
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1d02fc98:
+
+    # "And it truly is."
+    "And it truly is."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1204
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d1e8824e:
+
+    # "To give someone pleasure is such a beautiful thing."
+    "To give someone pleasure is such a beautiful thing."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1205
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e5b2772c:
+
+    # "Especially when she can't do it herself."
+    "Especially when she can't do it herself."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1206
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b32a815a:
+
+    # "...not that she would ever admit to doing something like that,\nof course."
+    "...not that she would ever admit to doing something like that,\nof course."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1213
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0224cbd2:
+
+    # "She looks at me in surprise and embarrassment when I grab a napkin, and gently dab her pussy."
+    "She looks at me in surprise and embarrassment when I grab a napkin, and gently dab her pussy."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1214
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7ecf3d10:
+
+    # "She blushes deeply, but knows that she can't clean herself up."
+    "She blushes deeply, but knows that she can't clean herself up."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1215
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c84a5160:
+
+    # "And I refuse to just let her soak in her juices."
+    "And I refuse to just let her soak in her juices."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1216
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b8b2b952:
+
+    # lindsey hospital_bed blush napkin_dab "Thank you..."
+    lindsey hospital_bed blush napkin_dab "Thank you..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1217
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4d2daba2:
+
+    # mc "Don't mention it!"
+    mc "Don't mention it!"
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1218
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c0319164:
+
+    # lindsey hospital_bed blush napkin_dab "You can't either... no one can know..."
+    lindsey hospital_bed blush napkin_dab "You can't either... no one can know..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1219
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b7132fe3:
+
+    # mc "Don't worry about it. My lips are—"
+    mc "Don't worry about it. My lips are—"
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1225
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_893f6575:
+
+    # nurse "What's going on in here? The visiting hours ended a long time ago."
+    nurse "What's going on in here? The visiting hours ended a long time ago."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1227
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1d498f77:
+
+    # nurse "Time to go."
+    nurse "Time to go."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1238
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_fe4baaf7:
+
+    # "Not exactly how I had planned to end the visit, but it could've been worse..."
+    "Not exactly how I had planned to end the visit, but it could've been worse..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1239
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_8e0d304e:
+
+    # "At least I got to see [lindsey], and that's what matters."
+    "At least I got to see [lindsey], and that's what matters."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1240
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ae4abec6:
+
+    # "Hopefully, my visit brightened her day a little bit."
+    "Hopefully, my visit brightened her day a little bit."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1241
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_11f6cb1b:
+
+    # "Being in a sterile hospital room for an extended period of time can't a good thing."
+    "Being in a sterile hospital room for an extended period of time can't a good thing."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1242
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d31f19d8:
+
+    # "I really have to visit her again soon..."
+    "I really have to visit her again soon..."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1243
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ab822386:
+
+    # "But for now, I feel relieved and exhausted at the same time."
+    "But for now, I feel relieved and exhausted at the same time."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1250
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0ee8a040_1:
+
+    # "It's getting late. I can't wait to get home."
+    "It's getting late. I can't wait to get home."
+
+# game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1261
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3a2f23e0:
 
     # "Access denied?! How the hell did my [item.title_lower] not work?!"
@@ -3241,4 +3445,12 @@ translate crowdin strings:
     # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:687
     old "\"I know it's difficult...\nbut I'm here to help.\""
     new "\"I know it's difficult...\nbut I'm here to help.\""
+
+    # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:824
+    old "\"I'll be here for you, no matter what.\""
+    new "\"I'll be here for you, no matter what.\""
+
+    # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:824
+    old "?lindsey.lust>=15@[lindsey.lust]/15|{image=lindsey contact_icon}|{image=stats lust_3}|\"Just relax, okay? I'll make you feel better.\""
+    new "?lindsey.lust>=15@[lindsey.lust]/15|{image=lindsey contact_icon}|{image=stats lust_3}|\"Just relax, okay? I'll make you feel better.\""
 

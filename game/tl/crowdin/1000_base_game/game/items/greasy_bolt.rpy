@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/items/greasy_bolt.rpy:17
 translate crowdin int_greasy_bolt_2c7d2895:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/items/packages.rpy:18
 translate crowdin package_gigglypuff_seeds_interact_8879661a:
@@ -125,4 +125,76 @@ translate crowdin package_hex_vex_and_texmex_consume_307eab09:
 
     # "I better give her some space while I figure this shit out."
     "I better give her some space while I figure this shit out."
+
+# game/1000_base_game/game/items/packages.rpy:427
+translate crowdin package_hearshey_shesay_interact_8879661a:
+
+    # "Smells a bit like paper and tape. Odd."
+    "Smells a bit like paper and tape. Odd."
+
+# game/1000_base_game/game/items/packages.rpy:431
+translate crowdin package_hearshey_shesay_consume_a87573ec:
+
+    # "I can smell the chocolatey sweetness wafting from the packaging."
+    "I can smell the chocolatey sweetness wafting from the packaging."
+
+# game/1000_base_game/game/items/packages.rpy:437
+translate crowdin package_hearshey_shesay_consume_b2b8713b:
+
+    # "All right, I have all the pieces for the perfect apology."
+    "All right, I have all the pieces for the perfect apology."
+
+# game/1000_base_game/game/items/packages.rpy:438
+translate crowdin package_hearshey_shesay_consume_a40fd9fa:
+
+    # "Now, I just need to find the courage to face [isabelle]..."
+    "Now, I just need to find the courage to face [isabelle]..."
+
+# game/1000_base_game/game/items/packages.rpy:462
+translate crowdin package_tob_le_bone_interact_8879661a:
+
+    # "Smells a bit like paper and tape. Odd."
+    "Smells a bit like paper and tape. Odd."
+
+# game/1000_base_game/game/items/packages.rpy:466
+translate crowdin package_tob_le_bone_consume_a87573ec:
+
+    # "I can smell the chocolatey sweetness wafting from the packaging."
+    "I can smell the chocolatey sweetness wafting from the packaging."
+
+# game/1000_base_game/game/items/packages.rpy:472
+translate crowdin package_tob_le_bone_consume_b2b8713b:
+
+    # "All right, I have all the pieces for the perfect apology."
+    "All right, I have all the pieces for the perfect apology."
+
+# game/1000_base_game/game/items/packages.rpy:473
+translate crowdin package_tob_le_bone_consume_a40fd9fa:
+
+    # "Now, I just need to find the courage to face [isabelle]..."
+    "Now, I just need to find the courage to face [isabelle]..."
+
+# game/1000_base_game/game/items/packages.rpy:497
+translate crowdin package_dick_wonky_interact_8879661a:
+
+    # "Smells a bit like paper and tape. Odd."
+    "Smells a bit like paper and tape. Odd."
+
+# game/1000_base_game/game/items/packages.rpy:501
+translate crowdin package_dick_wonky_consume_a87573ec:
+
+    # "I can smell the chocolatey sweetness wafting from the packaging."
+    "I can smell the chocolatey sweetness wafting from the packaging."
+
+# game/1000_base_game/game/items/packages.rpy:507
+translate crowdin package_dick_wonky_consume_b2b8713b:
+
+    # "All right, I have all the pieces for the perfect apology."
+    "All right, I have all the pieces for the perfect apology."
+
+# game/1000_base_game/game/items/packages.rpy:508
+translate crowdin package_dick_wonky_consume_a40fd9fa:
+
+    # "Now, I just need to find the courage to face [isabelle]..."
+    "Now, I just need to find the courage to face [isabelle]..."
 

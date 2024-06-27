@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/75_flora_invitation.rpy:13
 translate crowdin replay_flora_invitation_1bc47233:
@@ -444,7 +444,7 @@ translate crowdin replay_flora_invitation_13e76c82:
     # "Seconds later, I..."
     "Seconds later, I..."
 
-# game/1000_base_game/game/replays/75_flora_invitation.rpy:560
+# game/1000_base_game/game/replays/75_flora_invitation.rpy:561
 translate crowdin replay_flora_invitation_11fdb519:
 
     # extend "" nointeract

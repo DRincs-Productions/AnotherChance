@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/10_flora_relief.rpy:8
 translate crowdin replay_flora_relief_a49ff1a8:

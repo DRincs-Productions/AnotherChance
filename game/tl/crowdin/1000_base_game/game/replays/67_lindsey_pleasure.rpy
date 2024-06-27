@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:6
 translate crowdin replay_lindsey_pleasure_9950ab28:
@@ -294,7 +294,7 @@ translate crowdin replay_lindsey_pleasure_f8cb1eb5:
     # lindsey hospital_bed sad "I... don't want to think about that day..."
     lindsey hospital_bed sad "I... don't want to think about that day..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:62
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:63
 translate crowdin replay_lindsey_pleasure_11fdb519:
 
     # extend "" nointeract

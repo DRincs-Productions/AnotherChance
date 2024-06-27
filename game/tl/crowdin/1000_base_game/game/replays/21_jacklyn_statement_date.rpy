@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/21_jacklyn_statement_date.rpy:6
 translate crowdin replay_jacklyn_statement_date_75331f42:
@@ -120,7 +120,7 @@ translate crowdin replay_jacklyn_statement_date_e3035455:
     # "Hmm... need to think of a good topic."
     "Hmm... need to think of a good topic."
 
-# game/1000_base_game/game/replays/21_jacklyn_statement_date.rpy:37
+# game/1000_base_game/game/replays/21_jacklyn_statement_date.rpy:38
 translate crowdin replay_jacklyn_statement_date_11fdb519:
 
     # extend "" nointeract

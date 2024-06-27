@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:11
 translate crowdin quest_flora_bonsai_spaghetti_505d8ca3:
@@ -198,7 +198,7 @@ translate crowdin quest_flora_bonsai_spaghetti_bd3dfeea:
     # flora cringe "Do not come near me."
     flora cringe "Do not come near me."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:60
+# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:61
 translate crowdin quest_flora_bonsai_spaghetti_11fdb519:
 
     # extend "" nointeract
@@ -522,7 +522,7 @@ translate crowdin quest_flora_bonsai_help_home_47f4326a:
     # flora confused "[mc]? Is that you?"
     flora confused "[mc]? Is that you?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:136
+# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:137
 translate crowdin quest_flora_bonsai_help_home_11fdb519:
 
     # extend "" nointeract
@@ -840,7 +840,7 @@ translate crowdin quest_flora_bonsai_bed_f8e67682:
     # "Yes, and I'm a total hypocrite thinking this. Fuck."
     "Yes, and I'm a total hypocrite thinking this. Fuck."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:218
+# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:219
 translate crowdin quest_flora_bonsai_bed_11fdb519:
 
     # extend "" nointeract
@@ -1122,7 +1122,7 @@ translate crowdin quest_flora_bonsai_bed_97abf7a0:
     # flora bed sad "I'm burning the recipe tomorrow."
     flora bed sad "I'm burning the recipe tomorrow."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:278
+# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:279
 translate crowdin quest_flora_bonsai_bed_11fdb519_1:
 
     # extend "" nointeract
@@ -1584,7 +1584,7 @@ translate crowdin quest_flora_bonsai_knock_knock_943089dd:
     # "Shit. [isabelle]'s at the door."
     "Shit. [isabelle]'s at the door."
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:449
+# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:450
 translate crowdin quest_flora_bonsai_knock_knock_11fdb519:
 
     # extend "" nointeract
@@ -1668,7 +1668,7 @@ translate crowdin quest_flora_bonsai_knock_knock_10921889:
     # isabelle "[mc]? What's going on?"
     isabelle "[mc]? What's going on?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:469
+# game/1000_base_game/game/characters/flora/season_1/q_flora_bonsai.rpy:470
 translate crowdin quest_flora_bonsai_knock_knock_11fdb519_1:
 
     # extend "" nointeract

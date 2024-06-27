@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/home/kitchen/int_packages.rpy:16
 translate crowdin home_kitchen_package_gigglypuff_seeds_take_d9aa0b0e:
@@ -158,6 +158,42 @@ translate crowdin home_kitchen_package_hex_vex_and_texmex_take_73ff944f:
 
 # game/1000_base_game/game/locations/home/kitchen/int_packages.rpy:384
 translate crowdin home_kitchen_package_hex_vex_and_texmex_interact_b9ef138c:
+
+    # "Letting it sit too long on the counter might cause all sorts of uncomfortable questions."
+    "Letting it sit too long on the counter might cause all sorts of uncomfortable questions."
+
+# game/1000_base_game/game/locations/home/kitchen/int_packages.rpy:405
+translate crowdin home_kitchen_package_hearshey_shesay_take_73ff944f:
+
+    # "Oh, a package for me!"
+    "Oh, a package for me!"
+
+# game/1000_base_game/game/locations/home/kitchen/int_packages.rpy:412
+translate crowdin home_kitchen_package_hearshey_shesay_interact_b9ef138c:
+
+    # "Letting it sit too long on the counter might cause all sorts of uncomfortable questions."
+    "Letting it sit too long on the counter might cause all sorts of uncomfortable questions."
+
+# game/1000_base_game/game/locations/home/kitchen/int_packages.rpy:433
+translate crowdin home_kitchen_package_tob_le_bone_take_73ff944f:
+
+    # "Oh, a package for me!"
+    "Oh, a package for me!"
+
+# game/1000_base_game/game/locations/home/kitchen/int_packages.rpy:440
+translate crowdin home_kitchen_package_tob_le_bone_interact_b9ef138c:
+
+    # "Letting it sit too long on the counter might cause all sorts of uncomfortable questions."
+    "Letting it sit too long on the counter might cause all sorts of uncomfortable questions."
+
+# game/1000_base_game/game/locations/home/kitchen/int_packages.rpy:461
+translate crowdin home_kitchen_package_dick_wonky_take_73ff944f:
+
+    # "Oh, a package for me!"
+    "Oh, a package for me!"
+
+# game/1000_base_game/game/locations/home/kitchen/int_packages.rpy:468
+translate crowdin home_kitchen_package_dick_wonky_interact_b9ef138c:
 
     # "Letting it sit too long on the counter might cause all sorts of uncomfortable questions."
     "Letting it sit too long on the counter might cause all sorts of uncomfortable questions."

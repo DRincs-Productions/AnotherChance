@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/33_jo_assignment.rpy:6
 translate crowdin replay_jo_assignment_0b9fb1ef:
@@ -120,7 +120,7 @@ translate crowdin replay_jo_assignment_decc597c:
     # "Okay, this is getting out of hand!"
     "Okay, this is getting out of hand!"
 
-# game/1000_base_game/game/replays/33_jo_assignment.rpy:26
+# game/1000_base_game/game/replays/33_jo_assignment.rpy:27
 translate crowdin replay_jo_assignment_11fdb519:
 
     # extend "" nointeract

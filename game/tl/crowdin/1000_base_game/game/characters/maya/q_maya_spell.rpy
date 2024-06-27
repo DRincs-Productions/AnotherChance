@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:3
 translate crowdin quest_maya_spell_start_d75d1eb1:
@@ -90,7 +90,7 @@ translate crowdin quest_maya_spell_start_69ba74b1:
     # maya dramatic "My days seem to be numbered."
     maya dramatic "My days seem to be numbered."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:19
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:20
 translate crowdin quest_maya_spell_start_11fdb519:
 
     # extend "" nointeract
@@ -576,7 +576,7 @@ translate crowdin quest_maya_spell_hair_kate_f50763a9:
     # kate skeptical "What the hell are you staring at?"
     kate skeptical "What the hell are you staring at?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:145
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:146
 translate crowdin quest_maya_spell_hair_kate_11fdb519:
 
     # extend "" nointeract
@@ -912,7 +912,7 @@ translate crowdin quest_maya_spell_hair_kate_dea2cd36:
     # kate eyeroll "What do you even want?"
     kate eyeroll "What do you even want?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:241
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:242
 translate crowdin quest_maya_spell_hair_kate_11fdb519_1:
 
     # extend "" nointeract
@@ -1320,7 +1320,7 @@ translate crowdin quest_maya_spell_hair_isabelle_a36718ce:
     # isabelle skeptical "And what could that possibly be?"
     isabelle skeptical "And what could that possibly be?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:384
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:385
 translate crowdin quest_maya_spell_hair_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -1758,7 +1758,7 @@ translate crowdin quest_maya_spell_sweat_bd20e3ff:
     # jacklyn neutral "Tell me what's blending your dots."
     jacklyn neutral "Tell me what's blending your dots."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:517
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:518
 translate crowdin quest_maya_spell_sweat_11fdb519:
 
     # extend "" nointeract
@@ -2550,7 +2550,7 @@ translate crowdin quest_maya_spell_sweat_sex_84184da8:
     # jacklyn paint_shelf_aftermath smile "Help a girl out and clean up after yourself?"
     jacklyn paint_shelf_aftermath smile "Help a girl out and clean up after yourself?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1017
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1018
 translate crowdin quest_maya_spell_sweat_sex_11fdb519:
 
     # extend "" nointeract
@@ -3042,7 +3042,7 @@ translate crowdin quest_maya_spell_maya_1e14e148:
     # "Hmm... as tempting as that actually is..."
     "Hmm... as tempting as that actually is..."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1207
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1208
 translate crowdin quest_maya_spell_maya_11fdb519:
 
     # extend "" nointeract
@@ -3552,7 +3552,7 @@ translate crowdin quest_maya_spell_midnight_upon_entering_11bedf1c:
     # "Hmm..."
     "Hmm..."
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1501
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1502
 translate crowdin quest_maya_spell_midnight_upon_entering_11fdb519:
 
     # extend "" nointeract
@@ -4272,7 +4272,7 @@ translate crowdin quest_maya_spell_spell_b3f140b8:
     # maya dramatic "Anyway, are we lighting this joint up or what?"
     maya dramatic "Anyway, are we lighting this joint up or what?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1820
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1821
 translate crowdin quest_maya_spell_spell_11fdb519:
 
     # extend "" nointeract
@@ -4566,7 +4566,7 @@ translate crowdin quest_maya_spell_spell_e48869cf:
     # maya thinking "Do I want to know how you got these things?"
     maya thinking "Do I want to know how you got these things?"
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1886
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1887
 translate crowdin quest_maya_spell_spell_11fdb519_1:
 
     # extend "" nointeract

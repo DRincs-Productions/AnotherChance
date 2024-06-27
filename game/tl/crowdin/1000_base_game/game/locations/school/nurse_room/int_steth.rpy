@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/nurse_room/int_steth.rpy:31
 translate crowdin school_nurse_room_steth_interact_2b35b6fe:
@@ -6,7 +6,7 @@ translate crowdin school_nurse_room_steth_interact_2b35b6fe:
     # mc "..."
     mc "..."
 
-# game/1000_base_game/game/locations/school/nurse_room/int_steth.rpy:32
+# game/1000_base_game/game/locations/school/nurse_room/int_steth.rpy:33
 translate crowdin school_nurse_room_steth_interact_11fdb519:
 
     # extend "" nointeract

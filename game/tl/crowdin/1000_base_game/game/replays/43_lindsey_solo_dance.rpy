@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/43_lindsey_solo_dance.rpy:9
 translate crowdin replay_lindsey_solo_dance_90e5ed60:
@@ -60,7 +60,7 @@ translate crowdin replay_lindsey_solo_dance_c1649283:
     # "She probably wouldn't like it if I took a picture of her, but this is a once in a lifetime moment..."
     "She probably wouldn't like it if I took a picture of her, but this is a once in a lifetime moment..."
 
-# game/1000_base_game/game/replays/43_lindsey_solo_dance.rpy:28
+# game/1000_base_game/game/replays/43_lindsey_solo_dance.rpy:29
 translate crowdin replay_lindsey_solo_dance_11fdb519:
 
     # extend "" nointeract

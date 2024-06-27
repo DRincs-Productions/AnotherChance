@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:39
 translate crowdin school_cafeteria_drink_machine_interact_5ff67c8d:
@@ -12,7 +12,7 @@ translate crowdin school_cafeteria_drink_machine_use_item_90c42596:
     # "All right... the choice is simple, but..."
     "All right... the choice is simple, but..."
 
-# game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:47
+# game/1000_base_game/game/locations/school/cafeteria/int_drink_machine.rpy:48
 translate crowdin school_cafeteria_drink_machine_use_item_11fdb519:
 
     # extend "" nointeract

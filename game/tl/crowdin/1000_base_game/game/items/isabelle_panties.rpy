@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/items/isabelle_panties.rpy:18
 translate crowdin isabelle_panties_interact_2581c627:
@@ -12,7 +12,7 @@ translate crowdin isabelle_panties_interact_9bb56de8:
     # "Sniffing these would be an unforgivable sin."
     "Sniffing these would be an unforgivable sin."
 
-# game/1000_base_game/game/items/isabelle_panties.rpy:21
+# game/1000_base_game/game/items/isabelle_panties.rpy:22
 translate crowdin isabelle_panties_interact_11fdb519:
 
     # extend "" nointeract
@@ -78,7 +78,7 @@ translate crowdin isabelle_panties_interact_a137c3cc:
     # isabelle cringe "What the hell, [mc]?!"
     isabelle cringe "What the hell, [mc]?!"
 
-# game/1000_base_game/game/items/isabelle_panties.rpy:37
+# game/1000_base_game/game/items/isabelle_panties.rpy:38
 translate crowdin isabelle_panties_interact_11fdb519_1:
 
     # extend "" nointeract

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/jo/q_jo_day.rpy:3
 translate crowdin quest_jo_day_start_9e2bc76f:
@@ -306,7 +306,7 @@ translate crowdin quest_jo_day_flora_22b0bb5e:
     # flora sarcastic "So, what did you do now?"
     flora sarcastic "So, what did you do now?"
 
-# game/1000_base_game/game/characters/jo/q_jo_day.rpy:82
+# game/1000_base_game/game/characters/jo/q_jo_day.rpy:83
 translate crowdin quest_jo_day_flora_11fdb519:
 
     # extend "" nointeract
@@ -672,7 +672,7 @@ translate crowdin quest_jo_day_flora_2f6c6fd5:
     # mc "Unless... you want to help me?"
     mc "Unless... you want to help me?"
 
-# game/1000_base_game/game/characters/jo/q_jo_day.rpy:157
+# game/1000_base_game/game/characters/jo/q_jo_day.rpy:158
 translate crowdin quest_jo_day_flora_11fdb519_1:
 
     # extend "" nointeract
@@ -810,7 +810,7 @@ translate crowdin quest_jo_day_flora_38924d58:
     # flora neutral "Two-hundred bucks. That's my final offer."
     flora neutral "Two-hundred bucks. That's my final offer."
 
-# game/1000_base_game/game/characters/jo/q_jo_day.rpy:194
+# game/1000_base_game/game/characters/jo/q_jo_day.rpy:195
 translate crowdin quest_jo_day_flora_11fdb519_2:
 
     # extend "" nointeract
@@ -1590,7 +1590,7 @@ translate crowdin quest_jo_day_nurse_harvest_84a79ba2:
     # nurse smile "I had to go a really long way to get all of those. Quite a workout!"
     nurse smile "I had to go a really long way to get all of those. Quite a workout!"
 
-# game/1000_base_game/game/characters/jo/q_jo_day.rpy:495
+# game/1000_base_game/game/characters/jo/q_jo_day.rpy:496
 translate crowdin quest_jo_day_nurse_harvest_11fdb519:
 
     # extend "" nointeract

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:88
 translate crowdin school_ground_floor_guard_booth_interact_default_c0f68e65:
@@ -36,7 +36,7 @@ translate crowdin school_ground_floor_guard_booth_interact_the_key_7a715d94:
     # guard "Did you get the permission slip from your homeroom teacher?"
     guard "Did you get the permission slip from your homeroom teacher?"
 
-# game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:100
+# game/1000_base_game/game/locations/school/ground_floor/int_guard_booth.rpy:101
 translate crowdin school_ground_floor_guard_booth_interact_the_key_11fdb519:
 
     # extend "" nointeract

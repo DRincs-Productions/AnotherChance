@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:2
 translate crowdin quest_jacklyn_sweets_start_9efa726c:
@@ -192,7 +192,7 @@ translate crowdin quest_jacklyn_sweets_doughnuts_0e151e9b:
     # "Well, I don't have all day."
     "Well, I don't have all day."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:40
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:41
 translate crowdin quest_jacklyn_sweets_doughnuts_11fdb519:
 
     # extend "" nointeract
@@ -522,7 +522,7 @@ translate crowdin quest_jacklyn_sweets_oldpromises_fc569331:
     # jacklyn neutral "I know, but what's the angle here?"
     jacklyn neutral "I know, but what's the angle here?"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:137
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:138
 translate crowdin quest_jacklyn_sweets_oldpromises_11fdb519:
 
     # extend "" nointeract
@@ -1626,7 +1626,7 @@ translate crowdin quest_jacklyn_sweets_finaltouches_3b063470:
     # jacklyn excited "You've really been murdering that canvas lately, [mc]."
     jacklyn excited "You've really been murdering that canvas lately, [mc]."
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:475
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:476
 translate crowdin quest_jacklyn_sweets_finaltouches_11fdb519:
 
     # extend "" nointeract
@@ -1866,7 +1866,7 @@ translate crowdin quest_jacklyn_sweets_finaltouches_cfc6fb68:
     # jacklyn king_of_sweets_lip_bite "Of course! All the junk food in the world got nothing on the old king!{space=-15}"
     jacklyn king_of_sweets_lip_bite "Of course! All the junk food in the world got nothing on the old king!{space=-15}"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:531
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:532
 translate crowdin quest_jacklyn_sweets_finaltouches_11fdb519_1:
 
     # extend "" nointeract
@@ -2496,7 +2496,7 @@ translate crowdin quest_jacklyn_sweets_finaltouches_3dc889ae:
     # jacklyn king_of_sweets_cum_on_face1 "You're the artist now — tell me where you want the final splash of color!{space=-85}"
     jacklyn king_of_sweets_cum_on_face1 "You're the artist now — tell me where you want the final splash of color!{space=-85}"
 
-# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:974
+# game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_sweets.rpy:975
 translate crowdin quest_jacklyn_sweets_finaltouches_11fdb519_2:
 
     # extend "" nointeract

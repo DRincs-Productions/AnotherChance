@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/items/love_potion_droplet.rpy:17
 translate crowdin love_potion_droplet_interact_dfa0fae3:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/nurse_room/int_drawing.rpy:22
 translate crowdin school_nurse_room_drawing_interact_3fb8b310:

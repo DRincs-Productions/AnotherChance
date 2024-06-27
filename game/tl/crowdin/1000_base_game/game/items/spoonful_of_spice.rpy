@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/items/spoonful_of_spice.rpy:17
 translate crowdin int_spoonful_of_spice_9e2e5983:

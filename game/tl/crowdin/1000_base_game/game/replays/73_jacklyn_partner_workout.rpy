@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/73_jacklyn_partner_workout.rpy:6
 translate crowdin replay_jacklyn_partner_workout_b1106d69:
@@ -366,7 +366,7 @@ translate crowdin replay_jacklyn_partner_workout_84184da8:
     # jacklyn paint_shelf_aftermath smile "Help a girl out and clean up after yourself?"
     jacklyn paint_shelf_aftermath smile "Help a girl out and clean up after yourself?"
 
-# game/1000_base_game/game/replays/73_jacklyn_partner_workout.rpy:331
+# game/1000_base_game/game/replays/73_jacklyn_partner_workout.rpy:332
 translate crowdin replay_jacklyn_partner_workout_11fdb519:
 
     # extend "" nointeract

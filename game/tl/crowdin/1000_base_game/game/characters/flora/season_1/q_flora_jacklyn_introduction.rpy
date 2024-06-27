@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/flora/season_1/q_flora_jacklyn_introduction.rpy:3
 translate crowdin flora_quest_flora_jacklyn_introduction_start_5a36f080:
@@ -120,7 +120,7 @@ translate crowdin quest_flora_jacklyn_introduction_bathroom_41052988:
     # flora sad "What do you think?"
     flora sad "What do you think?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_jacklyn_introduction.rpy:32
+# game/1000_base_game/game/characters/flora/season_1/q_flora_jacklyn_introduction.rpy:33
 translate crowdin quest_flora_jacklyn_introduction_bathroom_11fdb519:
 
     # extend "" nointeract
@@ -408,7 +408,7 @@ translate crowdin quest_flora_jacklyn_introduction_bathroom_33d87aee:
     # flora neutral "Well, what did you think?"
     flora neutral "Well, what did you think?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_jacklyn_introduction.rpy:92
+# game/1000_base_game/game/characters/flora/season_1/q_flora_jacklyn_introduction.rpy:93
 translate crowdin quest_flora_jacklyn_introduction_bathroom_11fdb519_1:
 
     # extend "" nointeract
@@ -780,7 +780,7 @@ translate crowdin jacklyn_quest_flora_jacklyn_introduction_e3bd09c9:
     # jacklyn thinking "Depends. What's your pitch?"
     jacklyn thinking "Depends. What's your pitch?"
 
-# game/1000_base_game/game/characters/flora/season_1/q_flora_jacklyn_introduction.rpy:174
+# game/1000_base_game/game/characters/flora/season_1/q_flora_jacklyn_introduction.rpy:175
 translate crowdin jacklyn_quest_flora_jacklyn_introduction_11fdb519:
 
     # extend "" nointeract

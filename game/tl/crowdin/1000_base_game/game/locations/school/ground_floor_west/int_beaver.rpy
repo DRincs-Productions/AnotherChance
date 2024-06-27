@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/ground_floor_west/int_beaver.rpy:15
 translate crowdin school_ground_floor_west_beaver_interact_c26f25f8:
@@ -30,7 +30,7 @@ translate crowdin school_ground_floor_west_beaver_interact_f3fae455:
     # "It's scared shitless."
     "It's scared shitless."
 
-# game/1000_base_game/game/locations/school/ground_floor_west/int_beaver.rpy:21
+# game/1000_base_game/game/locations/school/ground_floor_west/int_beaver.rpy:22
 translate crowdin school_ground_floor_west_beaver_interact_11fdb519:
 
     # extend "" nointeract

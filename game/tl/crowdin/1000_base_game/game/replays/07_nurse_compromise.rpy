@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/07_nurse_compromise.rpy:9
 translate crowdin replay_nurse_compromise_2eb35981:
@@ -72,7 +72,7 @@ translate crowdin replay_nurse_compromise_d1d8cad4:
     # nurse blush "This is not what it looks like!"
     nurse blush "This is not what it looks like!"
 
-# game/1000_base_game/game/replays/07_nurse_compromise.rpy:22
+# game/1000_base_game/game/replays/07_nurse_compromise.rpy:23
 translate crowdin replay_nurse_compromise_11fdb519:
 
     # extend "" nointeract

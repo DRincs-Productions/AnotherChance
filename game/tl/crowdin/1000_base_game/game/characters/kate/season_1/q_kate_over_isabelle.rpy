@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:5
 translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_aeb844b7:
@@ -42,7 +42,7 @@ translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_899ac0db:
     # "Old me would've jumped ship a long time ago, but this is going to turn into scratching and hair-pulling at any moment."
     "Old me would've jumped ship a long time ago, but this is going to turn into scratching and hair-pulling at any moment."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:14
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:15
 translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519:
 
     # extend "" nointeract
@@ -108,7 +108,7 @@ translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_19bf8541:
     # isabelle annoyed "You know what? I'm over it... come on, [mc], let's go."
     isabelle annoyed "You know what? I'm over it... come on, [mc], let's go."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:36
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:37
 translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519_1:
 
     # extend "" nointeract
@@ -300,7 +300,7 @@ translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_e239979e:
     # "You daydream for a little while, and then suddenly you've lost sight of everything. If only there was a rewind button..."
     "You daydream for a little while, and then suddenly you've lost sight of everything. If only there was a rewind button..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:98
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:99
 translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519_2:
 
     # extend "" nointeract
@@ -576,7 +576,7 @@ translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_19bf8541_1:
     # isabelle annoyed "You know what? I'm over it... come on, [mc], let's go."
     isabelle annoyed "You know what? I'm over it... come on, [mc], let's go."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:199
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:200
 translate crowdin kate_quest_isabelle_tour_confront_side_isabelle_11fdb519_3:
 
     # extend "" nointeract
@@ -738,7 +738,7 @@ translate crowdin kate_quest_isabelle_tour_confront_side_kate_96027384:
     # kate neutral "Why are you still here?"
     kate neutral "Why are you still here?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:260
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:261
 translate crowdin kate_over_isabelle_choosing_kate_11fdb519:
 
     # extend "" nointeract
@@ -792,7 +792,7 @@ translate crowdin kate_over_isabelle_choosing_kate_a5415468:
     # "But on the other hand, she's new here and [kate]'s probably going to ruin her..."
     "But on the other hand, she's new here and [kate]'s probably going to ruin her..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:273
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:274
 translate crowdin kate_over_isabelle_choosing_kate_11fdb519_1:
 
     # extend "" nointeract
@@ -948,7 +948,7 @@ translate crowdin kate_over_isabelle_choosing_kate_914f36a2:
     # kate laughing "Or do you prefer being a lonely loser for the rest of your life?"
     kate laughing "Or do you prefer being a lonely loser for the rest of your life?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:317
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:318
 translate crowdin kate_over_isabelle_choosing_kate_11fdb519_2:
 
     # extend "" nointeract
@@ -1074,7 +1074,7 @@ translate crowdin kate_over_isabelle_choosing_kate_182a8330:
     # kate neutral "Okay, what do you want?"
     kate neutral "Okay, what do you want?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:351
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:352
 translate crowdin kate_over_isabelle_choosing_kate_11fdb519_3:
 
     # extend "" nointeract
@@ -1602,7 +1602,7 @@ translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_52055429
     # kate confident "Really? That went faster than expected."
     kate confident "Really? That went faster than expected."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:479
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:480
 translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_11fdb519:
 
     # extend "" nointeract
@@ -1722,7 +1722,7 @@ translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_0c63936a
     # kate cringe "That's enough, isn't it?"
     kate cringe "That's enough, isn't it?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:506
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:507
 translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_11fdb519_1:
 
     # extend "" nointeract
@@ -1824,7 +1824,7 @@ translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_7d6da87a
     # kate neutral "Show me some goddamn respect!"
     kate neutral "Show me some goddamn respect!"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:533
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:534
 translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_11fdb519_2:
 
     # extend "" nointeract
@@ -2010,7 +2010,7 @@ translate crowdin kate_quest_isabelle_tour_kate_over_isabelle_cafeteria_3c47ec2f
     # kate neutral "Okay. Get lost now."
     kate neutral "Okay. Get lost now."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:580
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:581
 translate crowdin kate_kiss_shoe_scene_11fdb519:
 
     # extend "" nointeract
@@ -2106,7 +2106,7 @@ translate crowdin kate_kiss_shoe_scene_46718f46:
     # "I just need to experience it fully..."
     "I just need to experience it fully..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:601
+# game/1000_base_game/game/characters/kate/season_1/q_kate_over_isabelle.rpy:602
 translate crowdin kate_kiss_shoe_scene_11fdb519_1:
 
     # extend "" nointeract

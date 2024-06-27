@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:3
 translate crowdin quest_maxine_hook_start_8a0e7ef1:
@@ -444,7 +444,7 @@ translate crowdin quest_maxine_hook_wake_09f928ce:
     # maxine annoyed "I could've been investigating the ghost of Pond Park. Yet here I am, wasting my time."
     maxine annoyed "I could've been investigating the ghost of Pond Park. Yet here I am, wasting my time."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:107
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:108
 translate crowdin quest_maxine_hook_wake_11fdb519:
 
     # extend "" nointeract
@@ -924,7 +924,7 @@ translate crowdin quest_maxine_hook_lindsey_8eabcac6:
     # "She's laughing, but it feels forced."
     "She's laughing, but it feels forced."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:213
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:214
 translate crowdin quest_maxine_hook_lindsey_11fdb519:
 
     # extend "" nointeract
@@ -1242,7 +1242,7 @@ translate crowdin quest_maxine_hook_glade_175090d5:
     # isabelle neutral "The forest is full of little animals."
     isabelle neutral "The forest is full of little animals."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:304
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:305
 translate crowdin quest_maxine_hook_glade_11fdb519:
 
     # extend "" nointeract
@@ -1704,7 +1704,7 @@ translate crowdin quest_maxine_hook_glade_fdd067de:
     # maxine neutral "Can I have it?"
     maxine neutral "Can I have it?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:418
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:419
 translate crowdin quest_maxine_hook_glade_11fdb519_1:
 
     # extend "" nointeract
@@ -2142,7 +2142,7 @@ translate crowdin quest_maxine_hook_dig_1b73705b:
     # maxine smile "Are you lost?"
     maxine smile "Are you lost?"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:562
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:563
 translate crowdin quest_maxine_hook_dig_11fdb519:
 
     # extend "" nointeract
@@ -2310,7 +2310,7 @@ translate crowdin quest_maxine_hook_dig_use_item_ac0e17e2:
     # mc "Not so fast!"
     mc "Not so fast!"
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:614
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:615
 translate crowdin quest_maxine_hook_dig_use_item_11fdb519:
 
     # extend "" nointeract
@@ -2514,7 +2514,7 @@ translate crowdin quest_maxine_hook_night_school_entrance_door_f4991c8f:
     # "Even though someone left some lights on, this door is locked for the day."
     "Even though someone left some lights on, this door is locked for the day."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:698
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:699
 translate crowdin quest_maxine_hook_night_school_entrance_door_11fdb519:
 
     # extend "" nointeract
@@ -2616,7 +2616,7 @@ translate crowdin quest_maxine_hook_day_2d2ad868:
     # guard suspicious "Don't ask questions. Just go to the cafeteria."
     guard suspicious "Don't ask questions. Just go to the cafeteria."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:731
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:732
 translate crowdin quest_maxine_hook_day_11fdb519:
 
     # extend "" nointeract
@@ -3186,7 +3186,7 @@ translate crowdin quest_maxine_hook_thief_55395484:
     # maxine smile "Not even a little bit."
     maxine smile "Not even a little bit."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:922
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:923
 translate crowdin quest_maxine_hook_thief_11fdb519:
 
     # extend "" nointeract
@@ -3276,7 +3276,7 @@ translate crowdin quest_maxine_hook_thief_f6b4c3c4:
     # maxine hooking_up_smile "And with the help of the equipment here, we're going to hook me up to the internet."
     maxine hooking_up_smile "And with the help of the equipment here, we're going to hook me up to the internet."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:952
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:953
 translate crowdin quest_maxine_hook_thief_11fdb519_1:
 
     # extend "" nointeract
@@ -3660,7 +3660,7 @@ translate crowdin quest_maxine_hook_table_e7a68319:
     # "I have no idea what she's saying..."
     "I have no idea what she's saying..."
 
-# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1040
+# game/1000_base_game/game/characters/maxine/q_maxine_hook.rpy:1041
 translate crowdin quest_maxine_hook_table_11fdb519:
 
     # extend "" nointeract

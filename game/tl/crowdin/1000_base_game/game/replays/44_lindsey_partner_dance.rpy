@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/replays/44_lindsey_partner_dance.rpy:11
 translate crowdin replay_lindsey_partner_dance_eb07dd0c:
@@ -204,7 +204,7 @@ translate crowdin replay_lindsey_partner_dance_4f79ba70:
     # lindsey dancing_with_the_mc_smile "Yeah..."
     lindsey dancing_with_the_mc_smile "Yeah..."
 
-# game/1000_base_game/game/replays/44_lindsey_partner_dance.rpy:210
+# game/1000_base_game/game/replays/44_lindsey_partner_dance.rpy:211
 translate crowdin replay_lindsey_partner_dance_11fdb519:
 
     # extend "" nointeract

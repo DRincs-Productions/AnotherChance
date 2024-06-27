@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/school/first_hall_west/int_piano.rpy:40
 translate crowdin school_first_hall_west_piano_interact_0bd11f0c:
@@ -78,7 +78,7 @@ translate crowdin school_first_hall_west_piano_quest_2b1fd990:
     # "Hmm... what to play, what to play..."
     "Hmm... what to play, what to play..."
 
-# game/1000_base_game/game/locations/school/first_hall_west/int_piano.rpy:78
+# game/1000_base_game/game/locations/school/first_hall_west/int_piano.rpy:79
 translate crowdin school_first_hall_west_piano_quest_11fdb519:
 
     # extend "" nointeract

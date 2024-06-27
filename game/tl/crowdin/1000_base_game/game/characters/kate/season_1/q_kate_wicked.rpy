@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-03-29 11:55
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:20
 translate crowdin quest_kate_wicked_start_ccd3f5c7:
@@ -30,7 +30,7 @@ translate crowdin quest_kate_wicked_start_8adcfa30:
     # kate neutral "Let's not get ahead of ourselves here."
     kate neutral "Let's not get ahead of ourselves here."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:26
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:27
 translate crowdin quest_kate_wicked_start_11fdb519:
 
     # extend "" nointeract
@@ -294,7 +294,7 @@ translate crowdin quest_kate_wicked_start_b8ca1c38:
     # kate eyeroll "That's why it's a {i}secret{/} party, dumbo."
     kate eyeroll "That's why it's a {i}secret{/} party, dumbo."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:81
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:82
 translate crowdin quest_kate_wicked_start_11fdb519_1:
 
     # extend "" nointeract
@@ -354,7 +354,7 @@ translate crowdin quest_kate_wicked_start_988734d1:
     # kate skeptical "Is there a problem?"
     kate skeptical "Is there a problem?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:98
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:99
 translate crowdin quest_kate_wicked_start_11fdb519_2:
 
     # extend "" nointeract
@@ -534,7 +534,7 @@ translate crowdin quest_kate_wicked_phone_call_ff16dd37:
     # jo smile "Are you going to tell me what this is about?"
     jo smile "Are you going to tell me what this is about?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:166
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:167
 translate crowdin quest_kate_wicked_phone_call_11fdb519:
 
     # extend "" nointeract
@@ -684,7 +684,7 @@ translate crowdin quest_kate_wicked_phone_call_1f7514f4:
     # jo laughing "Shy? She's never struck me as the shy type!"
     jo laughing "Shy? She's never struck me as the shy type!"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:215
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:216
 translate crowdin quest_kate_wicked_phone_call_11fdb519_1:
 
     # extend "" nointeract
@@ -840,7 +840,7 @@ translate crowdin quest_kate_wicked_phone_call_kate_eb349388:
     # kate neutral "So, did you get the key?"
     kate neutral "So, did you get the key?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:262
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:263
 translate crowdin quest_kate_wicked_phone_call_kate_11fdb519:
 
     # extend "" nointeract
@@ -1278,7 +1278,7 @@ translate crowdin quest_kate_wicked_school_dc353d7e:
     # kate excited "Am I making myself clear?"
     kate excited "Am I making myself clear?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:376
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:377
 translate crowdin quest_kate_wicked_school_11fdb519:
 
     # extend "" nointeract
@@ -2082,7 +2082,7 @@ translate crowdin quest_kate_wicked_costume_exterior_flora_d0ad97f5:
     # flora "And why is that, exactly?"
     flora "And why is that, exactly?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:655
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:656
 translate crowdin quest_kate_wicked_costume_exterior_flora_11fdb519:
 
     # extend "" nointeract
@@ -2352,7 +2352,7 @@ translate crowdin quest_kate_wicked_costume_exterior_maxine_8843042a:
     # maxine "Our membership fees—"
     maxine "Our membership fees—"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:742
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:743
 translate crowdin quest_kate_wicked_costume_exterior_maxine_11fdb519:
 
     # extend "" nointeract
@@ -2454,7 +2454,7 @@ translate crowdin quest_kate_wicked_costume_exterior_maxine_fffbc069:
     # maxine "I'm afraid I don't have\nthat many on hand..."
     maxine "I'm afraid I don't have\nthat many on hand..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:763
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:764
 translate crowdin quest_kate_wicked_costume_exterior_maxine_11fdb519_1:
 
     # extend "" nointeract
@@ -2586,7 +2586,7 @@ translate crowdin quest_kate_wicked_costume_exterior_perks_1863c1b6:
     # maxine "For TITs or ASS?"
     maxine "For TITs or ASS?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:808
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:809
 translate crowdin quest_kate_wicked_costume_exterior_perks_11fdb519:
 
     # extend "" nointeract
@@ -2616,7 +2616,7 @@ translate crowdin quest_kate_wicked_costume_exterior_perks_84f98b25:
     # maxine "That's right."
     maxine "That's right."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:817
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:818
 translate crowdin quest_kate_wicked_costume_exterior_perks_11fdb519_1:
 
     # extend "" nointeract
@@ -2700,7 +2700,7 @@ translate crowdin quest_kate_wicked_costume_exterior_perks_c45c232e:
     # maxine "As a member, you have to\nchoose between a bouncy\nor flat rate of returns."
     maxine "As a member, you have to\nchoose between a bouncy\nor flat rate of returns."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:836
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:837
 translate crowdin quest_kate_wicked_costume_exterior_perks_11fdb519_2:
 
     # extend "" nointeract
@@ -3006,7 +3006,7 @@ translate crowdin quest_kate_wicked_costume_entrance_hall_exit_a135f154:
     # "The risky thing would be to find a bedsheet, evade the [guard], and go to [kate]'s party."
     "The risky thing would be to find a bedsheet, evade the [guard], and go to [kate]'s party."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:939
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:940
 translate crowdin quest_kate_wicked_costume_entrance_hall_exit_11fdb519:
 
     # extend "" nointeract
@@ -3048,7 +3048,7 @@ translate crowdin quest_kate_wicked_costume_admin_wing_nurse_536b40a1:
     # nurse annoyed "What are you doing here after dark?"
     nurse annoyed "What are you doing here after dark?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:980
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:981
 translate crowdin quest_kate_wicked_costume_admin_wing_nurse_11fdb519:
 
     # extend "" nointeract
@@ -3504,7 +3504,7 @@ translate crowdin quest_kate_wicked_costume_admin_wing_nurse_aa0f436f:
     # "Hmm... maybe I could borrow her costume? That would get me into the party unnoticed..."
     "Hmm... maybe I could borrow her costume? That would get me into the party unnoticed..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1075
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1076
 translate crowdin quest_kate_wicked_costume_admin_wing_nurse_11fdb519_1:
 
     # extend "" nointeract
@@ -3768,12 +3768,6 @@ translate crowdin quest_kate_wicked_costume_admin_wing_nurse_2a0ae260:
     # kate "Everyone! Welcome to my yearly ladies-only costume party!{nw}"
     kate "Everyone! Welcome to my yearly ladies-only costume party!{nw}"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1138
-translate crowdin quest_kate_wicked_costume_admin_wing_nurse_e1f385a7:
-
-    # extend ""
-    extend ""
-
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1139
 translate crowdin quest_kate_wicked_costume_admin_wing_nurse_6d8f5916:
 
@@ -3791,12 +3785,6 @@ translate crowdin quest_kate_wicked_costume_admin_wing_nurse_589cb0ae:
 
     # kate "Start the music!{nw}"
     kate "Start the music!{nw}"
-
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1143
-translate crowdin quest_kate_wicked_costume_admin_wing_nurse_e1f385a7_1:
-
-    # extend ""
-    extend ""
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1144
 translate crowdin quest_kate_wicked_costume_admin_wing_nurse_933ae36d:
@@ -4158,7 +4146,7 @@ translate crowdin quest_kate_wicked_costume_admin_wing_nurse_d56bef4f:
     # "On the other hand, it might be my only chance to touch her beautiful feet..."
     "On the other hand, it might be my only chance to touch her beautiful feet..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1259
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1260
 translate crowdin quest_kate_wicked_costume_admin_wing_nurse_11fdb519_2:
 
     # extend "" nointeract
@@ -5046,7 +5034,7 @@ translate crowdin quest_kate_wicked_party_3e209470:
     # "Well, that should be easy enough..."
     "Well, that should be easy enough..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1500
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1501
 translate crowdin quest_kate_wicked_party_11fdb519:
 
     # extend "" nointeract
@@ -5598,7 +5586,7 @@ translate crowdin quest_kate_wicked_party_music_class_cc9b55a1:
     # lindsey blush "Fine! Tell me my sins, Mrs. Ghost."
     lindsey blush "Fine! Tell me my sins, Mrs. Ghost."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1636
+# game/1000_base_game/game/characters/kate/season_1/q_kate_wicked.rpy:1637
 translate crowdin quest_kate_wicked_party_music_class_11fdb519:
 
     # extend "" nointeract

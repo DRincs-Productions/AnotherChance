@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-11-05 22:06
+﻿# TODO: Translation updated at 2024-06-27 19:24
 
 # game/1000_base_game/game/locations/home/bedroom/int_vhs_player.rpy:31
 translate crowdin home_bedroom_vcr_tape_3e5ae245:
