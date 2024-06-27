@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-04-11 08:32\n"
+"PO-Revision-Date: 2024-06-27 19:46\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:17 #-#-# translate crowdin quest_kate_fate_start_ec93e813:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:17 #-#-# translate crowdin quest_kate_fate_start_ec93e813:
 msgid "[_kate_s_neutral_] Excuse me. What do you think you're doing?"
 msgstr "[_kate_s_neutral_] Excuse-moi. Que penses-tu que tu fais ?"
 
@@ -24,7 +24,7 @@ msgstr "[_mc_] Err ... juste en passant ..."
 msgid "[_kate_s_flirty_] Have you come to perv on the cheerleaders again?"
 msgstr "[Es-tu venu pour perverser les pom-pom girls encore une fois ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:21 #-#-# translate crowdin quest_kate_fate_start_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:22 #-#-# translate crowdin quest_kate_fate_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -132,7 +132,7 @@ msgstr "[_mc_]..."
 msgid "[_kate_s_gushing_rope_] Ready?"
 msgstr "[_kate_s_gushing_rope_] Prêt ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:81 #-#-# translate crowdin quest_kate_fate_start_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:82 #-#-# translate crowdin quest_kate_fate_start_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -172,10 +172,6 @@ msgstr "Ils font pression sur leurs corps en forme de tous les côtés alors qu'
 msgid "[_mc_] Ouch!{w=.5}{nw} [withvpunch]"
 msgstr "[_mc_] Ouch ! {w = .5}{nw} [withvpunch]"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:121 #-#-# translate crowdin quest_kate_fate_start_e1f385a7:
-msgid "[_extend_] "
-msgstr "[_extend_] "
-
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:122 #-#-# translate crowdin quest_kate_fate_start_5254ba2f:
 msgid "I never knew my elbows could be made to touch each other... Damn, they're welded together by rope."
 msgstr "Je ne savais pas que mes coudes pouvaient être faits pour se toucher ... Merde, ils sont soudés ensemble par corde."
@@ -195,10 +191,6 @@ msgstr "Probablement l'amendement sur l'égalité des droits."
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:126 #-#-# translate crowdin quest_kate_fate_start_cc7510da:
 msgid "[_kate_] Put him on his stomach.{w=.5}{nw}"
 msgstr "[_kate_] Mettez-le sur son estomac. {w=.5}{nw}"
-
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:128 #-#-# translate crowdin quest_kate_fate_start_e1f385a7_1:
-msgid "[_extend_] "
-msgstr "[_extend_] "
 
 # game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:135 #-#-# translate crowdin quest_kate_fate_start_14de9f66:
 msgid "Shit, I know what she wants! Run!"
@@ -396,7 +388,7 @@ msgstr "[_kate_s_cheerleader_feet_kate_laughing_] Vous n'aimez pas cette idée ?
 msgid "[_stacy_] How about we stuff him into the new girl's locker?"
 msgstr "[_stacy_] Comment on le fait entrer dans le casier de la nouvelle fille ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:308 #-#-# translate crowdin quest_kate_fate_fight_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:309 #-#-# translate crowdin quest_kate_fate_fight_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -752,7 +744,7 @@ msgstr "Je peux dire qu'ils sont tous démangeaisons pour me donner un mariage s
 msgid "There's no winning here, only different levels of losing."
 msgstr "Il n'y a pas de victoire ici, seulement différents niveaux de perte."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:423 #-#-# translate crowdin quest_kate_fate_socks_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:424 #-#-# translate crowdin quest_kate_fate_socks_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -992,7 +984,7 @@ msgstr "Je ne sais pas si je suis prêt à faire face à de tels niveaux d'humil
 msgid "Maybe certain things should be left unsaid."
 msgstr "Peut-être que certaines choses devraient être laissées sans dire."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:518 #-#-# translate crowdin quest_kate_fate_socks_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:519 #-#-# translate crowdin quest_kate_fate_socks_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1220,7 +1212,7 @@ msgstr "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_neutral_] Mais gardez 
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_neutral_] Nod if you understand."
 msgstr "[_kate_s_cheerleader_feet_nofeet_kate_phoneground_neutral_] Hochez la tête si vous comprenez."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:625 #-#-# translate crowdin quest_kate_fate_bound_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:626 #-#-# translate crowdin quest_kate_fate_bound_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1296,7 +1288,7 @@ msgstr "Putain, ils viennent après moi !"
 msgid "There's no way I'll outrun a group of fit cheerleaders..."
 msgstr "Il n'y a pas moyen de m'indigner d'un groupe de cheerleaders en forme ..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:687 #-#-# translate crowdin quest_kate_fate_hunt_first_hall_east_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:688 #-#-# translate crowdin quest_kate_fate_hunt_first_hall_east_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1312,7 +1304,7 @@ msgstr "Où dois-je me cacher ?"
 msgid "Shit, shit, shit. Think fast!"
 msgstr "Merde, merde, merde. Pense vite !"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:696 #-#-# translate crowdin quest_kate_fate_hunt_first_hall_east_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:697 #-#-# translate crowdin quest_kate_fate_hunt_first_hall_east_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1432,7 +1424,7 @@ msgstr "Personne ne peut aller contre ce faisceau éclairé de matière grise."
 msgid "[_kate_s_laughing_] So, are you coming back to the gym willingly, or should I get the girls?"
 msgstr "[_kate_s_laughing_] Alors, tu reviennes volontairement à la gym, ou devrais-je avoir les filles ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:770 #-#-# translate crowdin quest_kate_fate_fight_surrender_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:771 #-#-# translate crowdin quest_kate_fate_fight_surrender_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1576,7 +1568,7 @@ msgstr "[Non..."
 msgid "[_kate_s_cheerleader_feet_] No, what?"
 msgstr "[_kate_s_cheerleader_feet_] Non, quoi ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:846 #-#-# translate crowdin quest_kate_fate_caught_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:847 #-#-# translate crowdin quest_kate_fate_caught_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1840,7 +1832,7 @@ msgstr "[_mc_] {i}Ughmmph. {/}"
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_laughing_phoneground_] A whole night with my socks in your mouth! How does it feel?"
 msgstr "[_kate_s_cheerleader_feet_nofeet_kate_laughing_phoneground_] Toute la nuit avec mes chaussettes dans la bouche ! Comment ça se sent ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:963 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:964 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -1880,7 +1872,7 @@ msgstr "[_kate_s_cheerleader_feet_nofeet_kate_laughing_phoneground_] Je pense qu
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground_] And what do you say?"
 msgstr "[_kate_s_cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground_] Et que dis-tu ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:982 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:983 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2012,7 +2004,7 @@ msgstr "[_isabelle_s_concerned_] Que s'est-il passé ici ?"
 msgid "[_isabelle_s_skeptical_] It was [kate], wasn't it?"
 msgstr "[_isabelle_s_skeptical_] C'était [kate], n'est-ce pas ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1053 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519_2:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1054 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2188,7 +2180,7 @@ msgstr "[_kate_s_cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground_
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground_] Feeling properly disciplined?"
 msgstr "[_kate_s_cheerleader_feet_nofeet_kate_holdingsock_confident_phoneground_] Sentiment discipliné ?"
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1154 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519_3:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1155 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519_3:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2284,7 +2276,7 @@ msgstr "[_kate_s_cheerleader_feet_nofeet_kate_neutral_phoneground_] Si ce n'est 
 msgid "[_kate_s_cheerleader_feet_nofeet_kate_confident_ballgag_phoneground_] There you go! Let's hear it."
 msgstr "[_kate_s_cheerleader_feet_nofeet_kate_confident_ballgag_phoneground_] Vous y allez ! Allons l'entendre."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1191 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519_4:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1192 #-#-# translate crowdin quest_kate_fate_conversation_11fdb519_4:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2476,7 +2468,7 @@ msgstr "[_kate_s_skeptical_] Personne n'a demandé votre avis."
 msgid "[_isabelle_s_neutral_] No one asked you to be a complete tosser, but here we are."
 msgstr "[Personne ne t'a demandé d'être un vrai con, mais nous y sommes."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1266 #-#-# translate crowdin quest_kate_fate_rescue_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1267 #-#-# translate crowdin quest_kate_fate_rescue_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2576,7 +2568,7 @@ msgstr "[_kate_s_eyeroll_] Les gens changent."
 msgid "[_isabelle_s_skeptical_] Do they? I have my doubts."
 msgstr "[_isabelle_s_skeptical_] Est-ce qu'ils ? J'ai mes doutes."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1307 #-#-# translate crowdin quest_kate_fate_rescue_11fdb519_1:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1308 #-#-# translate crowdin quest_kate_fate_rescue_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2632,7 +2624,7 @@ msgstr "[_kate_s_angry_] Cette petite salope !"
 msgid "Shit. Now [kate] is mad for real."
 msgstr "Merde. Maintenant, [kate] est fou pour de vrai."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1340 #-#-# translate crowdin quest_kate_fate_rescue_11fdb519_2:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1341 #-#-# translate crowdin quest_kate_fate_rescue_11fdb519_2:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
@@ -2724,7 +2716,7 @@ msgstr "[_kate_s_confident_] Oui ?"
 msgid "[_mc_] Yeah, I found this title..."
 msgstr "[_mc_] Oui, j'ai trouvé ce titre ..."
 
-# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1383 #-#-# translate crowdin quest_kate_fate_dead_end_kate_11fdb519:
+# game/1000_base_game/game/characters/kate/season_1/q_kate_fate.rpy:1384 #-#-# translate crowdin quest_kate_fate_dead_end_kate_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr "[_extend_]  [nointeract]"
 
