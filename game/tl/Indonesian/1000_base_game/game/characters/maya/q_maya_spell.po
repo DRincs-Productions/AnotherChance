@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2024-04-09 11:58\n"
+"PO-Revision-Date: 2024-06-27 20:04\n"
 
-# TODO: Translation updated at 2024-03-29 11:55 #|#|# # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:3 #-#-# translate crowdin quest_maya_spell_start_d75d1eb1:
+# TODO: Translation updated at 2024-06-27 19:24 #|#|# # game/1000_base_game/game/characters/maya/q_maya_spell.rpy:3 #-#-# translate crowdin quest_maya_spell_start_d75d1eb1:
 msgid "[_mc_] Hey, [maya]! Guess what?"
 msgstr ""
 
@@ -72,7 +72,7 @@ msgstr ""
 msgid "[_maya_s_dramatic_] My days seem to be numbered."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:19 #-#-# translate crowdin quest_maya_spell_start_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:20 #-#-# translate crowdin quest_maya_spell_start_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -400,7 +400,7 @@ msgstr ""
 msgid "[_kate_s_skeptical_] What the hell are you staring at?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:145 #-#-# translate crowdin quest_maya_spell_hair_kate_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:146 #-#-# translate crowdin quest_maya_spell_hair_kate_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -624,7 +624,7 @@ msgstr ""
 msgid "[_kate_s_eyeroll_] What do you even want?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:241 #-#-# translate crowdin quest_maya_spell_hair_kate_11fdb519_1:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:242 #-#-# translate crowdin quest_maya_spell_hair_kate_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -897,7 +897,7 @@ msgstr ""
 msgid "[_isabelle_s_skeptical_] And what could that possibly be?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:384 #-#-# translate crowdin quest_maya_spell_hair_isabelle_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:385 #-#-# translate crowdin quest_maya_spell_hair_isabelle_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1192,7 +1192,7 @@ msgstr ""
 msgid "[_jacklyn_s_neutral_] Tell me what's blending your dots."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:517 #-#-# translate crowdin quest_maya_spell_sweat_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:518 #-#-# translate crowdin quest_maya_spell_sweat_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -1731,7 +1731,7 @@ msgstr ""
 msgid "[_jacklyn_s_paint_shelf_aftermath_s_smile_] Help a girl out and clean up after yourself?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1017 #-#-# translate crowdin quest_maya_spell_sweat_sex_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1018 #-#-# translate crowdin quest_maya_spell_sweat_sex_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -2063,7 +2063,7 @@ msgstr ""
 msgid "Hmm... as tempting as that actually is..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1207 #-#-# translate crowdin quest_maya_spell_maya_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1208 #-#-# translate crowdin quest_maya_spell_maya_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -2405,7 +2405,7 @@ msgstr ""
 msgid "Hmm..."
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1501 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1502 #-#-# translate crowdin quest_maya_spell_midnight_upon_entering_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -2887,7 +2887,7 @@ msgstr ""
 msgid "[_maya_s_dramatic_] Anyway, are we lighting this joint up or what?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1820 #-#-# translate crowdin quest_maya_spell_spell_11fdb519:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1821 #-#-# translate crowdin quest_maya_spell_spell_11fdb519:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
@@ -3083,7 +3083,7 @@ msgstr ""
 msgid "[_maya_s_thinking_] Do I want to know how you got these things?"
 msgstr ""
 
-# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1886 #-#-# translate crowdin quest_maya_spell_spell_11fdb519_1:
+# game/1000_base_game/game/characters/maya/q_maya_spell.rpy:1887 #-#-# translate crowdin quest_maya_spell_spell_11fdb519_1:
 msgid "[_extend_]  [nointeract]"
 msgstr ""
 
