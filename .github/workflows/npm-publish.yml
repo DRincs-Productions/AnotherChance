@@ -1,0 +1,23 @@
+# This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
+# For more information see: https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
+
+name: Translations
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+run-name: Deploy to ${{ inputs.deploy_target }} by @${{ github.actor }}
+
+jobs:
+  create-release:
+    name: Create Release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+    - uses: actions/checkout@v3
+    - uses: ncipollo/release-action@v1
+      with:
+        body: "Release ${{ github.ref }}"
