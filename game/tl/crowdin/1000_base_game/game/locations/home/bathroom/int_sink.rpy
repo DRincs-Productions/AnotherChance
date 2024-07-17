@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
 # game/1000_base_game/game/locations/home/bathroom/int_sink.rpy:49
 translate crowdin home_bathroom_sink_use_socks_fe062c18:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
 # game/1000_base_game/game/locations/school/nurse_room/int_bonsai.rpy:38
 translate crowdin school_nurse_room_bonsai_interact_227ecfe5:

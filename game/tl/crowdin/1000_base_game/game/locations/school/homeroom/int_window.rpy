@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
 # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:53
 translate crowdin school_homeroom_window_grapple_1649e1c4:
@@ -317,8 +317,4 @@ translate crowdin strings:
     # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:130
     old "Climb out"
     new "Climb out"
-
-    # game/1000_base_game/game/locations/school/homeroom/int_window.rpy:130
-    old "Not right now"
-    new "Not right now"
 

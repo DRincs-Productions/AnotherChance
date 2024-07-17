@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
 # game/1000_base_game/engine/kinetic_text_tags.rpy:1
 translate crowdin 6c0c3176:

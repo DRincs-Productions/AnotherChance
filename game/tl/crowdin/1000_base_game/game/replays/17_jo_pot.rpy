@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
 # game/1000_base_game/game/replays/17_jo_pot.rpy:7
 translate crowdin replay_jo_pot_da8af48d:

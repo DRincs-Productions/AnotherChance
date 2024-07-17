@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:6
 translate crowdin replay_lindsey_pleasure_9950ab28:
@@ -235,10 +235,10 @@ translate crowdin replay_lindsey_pleasure_18bb83c5:
     mc "And I also know they're wrong."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:52
-translate crowdin replay_lindsey_pleasure_85d8d73d:
+translate crowdin replay_lindsey_pleasure_7865b8f4:
 
-    # lindsey hospital_bed surprised "What do you mean...?"
-    lindsey hospital_bed surprised "What do you mean...?"
+    # lindsey hospital_bed_angel surprised "What do you mean...?"
+    lindsey hospital_bed_angel surprised "What do you mean...?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:53
 translate crowdin replay_lindsey_pleasure_557738cd:
@@ -247,10 +247,10 @@ translate crowdin replay_lindsey_pleasure_557738cd:
     mc "It wasn't a suicide attempt."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:54
-translate crowdin replay_lindsey_pleasure_01fbf441:
+translate crowdin replay_lindsey_pleasure_16698b8e:
 
-    # lindsey hospital_bed surprised "..."
-    lindsey hospital_bed surprised "..."
+    # lindsey hospital_bed_angel surprised "..."
+    lindsey hospital_bed_angel surprised "..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:55
 translate crowdin replay_lindsey_pleasure_bc4f1a33:
@@ -259,16 +259,16 @@ translate crowdin replay_lindsey_pleasure_bc4f1a33:
     mc "Right?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:56
-translate crowdin replay_lindsey_pleasure_9c289b81:
+translate crowdin replay_lindsey_pleasure_c779baa8:
 
-    # lindsey hospital_bed sad "I... I don't know..."
-    lindsey hospital_bed sad "I... I don't know..."
+    # lindsey hospital_bed_angel sad "I... I don't know..."
+    lindsey hospital_bed_angel sad "I... I don't know..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:57
-translate crowdin replay_lindsey_pleasure_79b00819:
+translate crowdin replay_lindsey_pleasure_602ed3d5:
 
-    # lindsey hospital_bed sad "I don't remember..."
-    lindsey hospital_bed sad "I don't remember..."
+    # lindsey hospital_bed_angel sad "I don't remember..."
+    lindsey hospital_bed_angel sad "I don't remember..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:58
 translate crowdin replay_lindsey_pleasure_a0cabb37:
@@ -289,10 +289,10 @@ translate crowdin replay_lindsey_pleasure_13426ab2:
     mc "What's the last thing you remember?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:61
-translate crowdin replay_lindsey_pleasure_f8cb1eb5:
+translate crowdin replay_lindsey_pleasure_07bd9400:
 
-    # lindsey hospital_bed sad "I... don't want to think about that day..."
-    lindsey hospital_bed sad "I... don't want to think about that day..."
+    # lindsey hospital_bed_angel sad "I... don't want to think about that day..."
+    lindsey hospital_bed_angel sad "I... don't want to think about that day..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:63
 translate crowdin replay_lindsey_pleasure_11fdb519:
@@ -313,10 +313,10 @@ translate crowdin replay_lindsey_pleasure_a7e50ed8:
     mc "You just need to let your body heal."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:67
-translate crowdin replay_lindsey_pleasure_6b8fc7fa:
+translate crowdin replay_lindsey_pleasure_55032c32:
 
-    # lindsey hospital_bed surprised "But what's the point?"
-    lindsey hospital_bed surprised "But what's the point?"
+    # lindsey hospital_bed_angel surprised "But what's the point?"
+    lindsey hospital_bed_angel surprised "But what's the point?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:68
 translate crowdin replay_lindsey_pleasure_e2d35725:
@@ -337,16 +337,16 @@ translate crowdin replay_lindsey_pleasure_b6709c34:
     mc "So, the point is living it."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:71
-translate crowdin replay_lindsey_pleasure_d702d5fd:
+translate crowdin replay_lindsey_pleasure_7443c974:
 
-    # lindsey hospital_bed surprised "I don't know what to do if I can't run again..."
-    lindsey hospital_bed surprised "I don't know what to do if I can't run again..."
+    # lindsey hospital_bed_angel surprised "I don't know what to do if I can't run again..."
+    lindsey hospital_bed_angel surprised "I don't know what to do if I can't run again..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:72
-translate crowdin replay_lindsey_pleasure_7bd8227f:
+translate crowdin replay_lindsey_pleasure_126ff62a:
 
-    # lindsey hospital_bed surprised "It was my entire life..."
-    lindsey hospital_bed surprised "It was my entire life..."
+    # lindsey hospital_bed_angel surprised "It was my entire life..."
+    lindsey hospital_bed_angel surprised "It was my entire life..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:73
 translate crowdin replay_lindsey_pleasure_4019c9b3:
@@ -361,10 +361,10 @@ translate crowdin replay_lindsey_pleasure_bec7bb9a:
     mc "You can still enjoy King's Bard, for example."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:75
-translate crowdin replay_lindsey_pleasure_1099794b:
+translate crowdin replay_lindsey_pleasure_7f673a6a:
 
-    # lindsey hospital_bed sad "I guess..."
-    lindsey hospital_bed sad "I guess..."
+    # lindsey hospital_bed_angel sad "I guess..."
+    lindsey hospital_bed_angel sad "I guess..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:76
 translate crowdin replay_lindsey_pleasure_e651b605:
@@ -385,10 +385,10 @@ translate crowdin replay_lindsey_pleasure_48681352:
     mc "Maybe there's a championship for that?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:79
-translate crowdin replay_lindsey_pleasure_acf53326:
+translate crowdin replay_lindsey_pleasure_2c1b039f:
 
-    # lindsey hospital_bed closed_eyes "That's sweet..."
-    lindsey hospital_bed closed_eyes "That's sweet..."
+    # lindsey hospital_bed_angel closed_eyes "That's sweet..."
+    lindsey hospital_bed_angel closed_eyes "That's sweet..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:80
 translate crowdin replay_lindsey_pleasure_00fd474f:
@@ -415,16 +415,16 @@ translate crowdin replay_lindsey_pleasure_cc848956:
     mc "I know it's difficult... but I'm here to help."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:85
-translate crowdin replay_lindsey_pleasure_4cec1fba:
+translate crowdin replay_lindsey_pleasure_dec7bd76:
 
-    # lindsey hospital_bed surprised "Help? How?"
-    lindsey hospital_bed surprised "Help? How?"
+    # lindsey hospital_bed_angel surprised "Help? How?"
+    lindsey hospital_bed_angel surprised "Help? How?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:86
-translate crowdin replay_lindsey_pleasure_49e94815:
+translate crowdin replay_lindsey_pleasure_1309ba0d:
 
-    # lindsey hospital_bed sad "I've already lost everything..."
-    lindsey hospital_bed sad "I've already lost everything..."
+    # lindsey hospital_bed_angel sad "I've already lost everything..."
+    lindsey hospital_bed_angel sad "I've already lost everything..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:87
 translate crowdin replay_lindsey_pleasure_4ce7e4cb:
@@ -463,10 +463,10 @@ translate crowdin replay_lindsey_pleasure_599b5235:
     mc "And I promise you, as long as I live, you have my sword and shield."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:93
-translate crowdin replay_lindsey_pleasure_24a3c9f2:
+translate crowdin replay_lindsey_pleasure_c66f2790:
 
-    # lindsey hospital_bed closed_eyes "..."
-    lindsey hospital_bed closed_eyes "..."
+    # lindsey hospital_bed_angel closed_eyes "..."
+    lindsey hospital_bed_angel closed_eyes "..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:94
 translate crowdin replay_lindsey_pleasure_7edf6e32:
@@ -487,10 +487,10 @@ translate crowdin replay_lindsey_pleasure_581de8f8:
     "Hers, more labored than usual."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:97
-translate crowdin replay_lindsey_pleasure_b2c06f67:
+translate crowdin replay_lindsey_pleasure_260f6976:
 
-    # lindsey hospital_bed sad "I can't..."
-    lindsey hospital_bed sad "I can't..."
+    # lindsey hospital_bed_angel sad "I can't..."
+    lindsey hospital_bed_angel sad "I can't..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:98
 translate crowdin replay_lindsey_pleasure_3f871f46:
@@ -499,88 +499,88 @@ translate crowdin replay_lindsey_pleasure_3f871f46:
     mc "Hmm?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:99
-translate crowdin replay_lindsey_pleasure_fac575a8:
+translate crowdin replay_lindsey_pleasure_5df9a8d4:
 
-    # lindsey hospital_bed sad "I keep seeing it..."
-    lindsey hospital_bed sad "I keep seeing it..."
+    # lindsey hospital_bed_angel sad "I keep seeing it..."
+    lindsey hospital_bed_angel sad "I keep seeing it..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:100
-translate crowdin replay_lindsey_pleasure_13926bcc:
+translate crowdin replay_lindsey_pleasure_07752cb0:
 
-    # lindsey hospital_bed sad "As soon as I close my eyes, the abyss opens up below me..."
-    lindsey hospital_bed sad "As soon as I close my eyes, the abyss opens up below me..."
+    # lindsey hospital_bed_angel sad "As soon as I close my eyes, the abyss opens up below me..."
+    lindsey hospital_bed_angel sad "As soon as I close my eyes, the abyss opens up below me..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:101
-translate crowdin replay_lindsey_pleasure_f2a24584:
+translate crowdin replay_lindsey_pleasure_731fadca:
 
-    # lindsey hospital_bed sad "I'm teetering on the edge, doing my best not to fall..."
-    lindsey hospital_bed sad "I'm teetering on the edge, doing my best not to fall..."
+    # lindsey hospital_bed_angel sad "I'm teetering on the edge, doing my best not to fall..."
+    lindsey hospital_bed_angel sad "I'm teetering on the edge, doing my best not to fall..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:102
-translate crowdin replay_lindsey_pleasure_6be0ef01:
+translate crowdin replay_lindsey_pleasure_ff7b022c:
 
-    # lindsey hospital_bed sad "But gravity takes hold and my stomach drops, and I with it..."
-    lindsey hospital_bed sad "But gravity takes hold and my stomach drops, and I with it..."
+    # lindsey hospital_bed_angel sad "But gravity takes hold and my stomach drops, and I with it..."
+    lindsey hospital_bed_angel sad "But gravity takes hold and my stomach drops, and I with it..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:103
-translate crowdin replay_lindsey_pleasure_6b00bdd6:
+translate crowdin replay_lindsey_pleasure_fda24eb3:
 
-    # lindsey hospital_bed sad "I want to scream, but nothing comes out..."
-    lindsey hospital_bed sad "I want to scream, but nothing comes out..."
+    # lindsey hospital_bed_angel sad "I want to scream, but nothing comes out..."
+    lindsey hospital_bed_angel sad "I want to scream, but nothing comes out..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:104
-translate crowdin replay_lindsey_pleasure_6cf0fef5:
+translate crowdin replay_lindsey_pleasure_1502830e:
 
-    # lindsey hospital_bed sad "I gasp for air as I fall... and fall... and fall... all the way down..."
-    lindsey hospital_bed sad "I gasp for air as I fall... and fall... and fall... all the way down..."
+    # lindsey hospital_bed_angel sad "I gasp for air as I fall... and fall... and fall... all the way down..."
+    lindsey hospital_bed_angel sad "I gasp for air as I fall... and fall... and fall... all the way down..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:105
-translate crowdin replay_lindsey_pleasure_8d73b05f:
+translate crowdin replay_lindsey_pleasure_9c828bc3:
 
-    # lindsey hospital_bed sad "And then it's just darkness... I'm alone in the void... but only for a short while..."
-    lindsey hospital_bed sad "And then it's just darkness... I'm alone in the void... but only for a short while..."
+    # lindsey hospital_bed_angel sad "And then it's just darkness... I'm alone in the void... but only for a short while..."
+    lindsey hospital_bed_angel sad "And then it's just darkness... I'm alone in the void... but only for a short while..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:106
-translate crowdin replay_lindsey_pleasure_c6382c67:
+translate crowdin replay_lindsey_pleasure_eb239889:
 
-    # lindsey hospital_bed sad "Pain blinds me when I wake up... each beat of my heart rips me apart..."
-    lindsey hospital_bed sad "Pain blinds me when I wake up... each beat of my heart rips me apart..."
+    # lindsey hospital_bed_angel sad "Pain blinds me when I wake up... each beat of my heart rips me apart..."
+    lindsey hospital_bed_angel sad "Pain blinds me when I wake up... each beat of my heart rips me apart..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:107
-translate crowdin replay_lindsey_pleasure_836388a4:
+translate crowdin replay_lindsey_pleasure_f6506f8d:
 
-    # lindsey hospital_bed sad "My arms won't move... my legs lie crumpled like paper..."
-    lindsey hospital_bed sad "My arms won't move... my legs lie crumpled like paper..."
+    # lindsey hospital_bed_angel sad "My arms won't move... my legs lie crumpled like paper..."
+    lindsey hospital_bed_angel sad "My arms won't move... my legs lie crumpled like paper..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:108
-translate crowdin replay_lindsey_pleasure_42cc5a56:
+translate crowdin replay_lindsey_pleasure_ba78f762:
 
-    # lindsey hospital_bed sad "I can't breathe, my lungs won't fill..."
-    lindsey hospital_bed sad "I can't breathe, my lungs won't fill..."
+    # lindsey hospital_bed_angel sad "I can't breathe, my lungs won't fill..."
+    lindsey hospital_bed_angel sad "I can't breathe, my lungs won't fill..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:109
-translate crowdin replay_lindsey_pleasure_6d0946c6:
+translate crowdin replay_lindsey_pleasure_71a88e3c:
 
-    # lindsey hospital_bed sad "I start to fade again..."
-    lindsey hospital_bed sad "I start to fade again..."
+    # lindsey hospital_bed_angel sad "I start to fade again..."
+    lindsey hospital_bed_angel sad "I start to fade again..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:110
-translate crowdin replay_lindsey_pleasure_5095dde2:
+translate crowdin replay_lindsey_pleasure_dbc4f619:
 
-    # lindsey hospital_bed sad "But someone stands over me, radiating light... white, gold, and pink...{space=-30}"
-    lindsey hospital_bed sad "But someone stands over me, radiating light... white, gold, and pink...{space=-30}"
+    # lindsey hospital_bed_angel sad "But someone stands over me, radiating light... white, gold, and pink...{space=-30}"
+    lindsey hospital_bed_angel sad "But someone stands over me, radiating light... white, gold, and pink...{space=-30}"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:111
-translate crowdin replay_lindsey_pleasure_16584bb1:
+translate crowdin replay_lindsey_pleasure_2fc32cc9:
 
-    # lindsey hospital_bed sad "And then my lungs fill with blessed air, my heart beats anew..."
-    lindsey hospital_bed sad "And then my lungs fill with blessed air, my heart beats anew..."
+    # lindsey hospital_bed_angel sad "And then my lungs fill with blessed air, my heart beats anew..."
+    lindsey hospital_bed_angel sad "And then my lungs fill with blessed air, my heart beats anew..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:112
-translate crowdin replay_lindsey_pleasure_e4e0e9a7:
+translate crowdin replay_lindsey_pleasure_9ddbf768:
 
-    # lindsey hospital_bed sad "And I just sleep... for so long..."
-    lindsey hospital_bed sad "And I just sleep... for so long..."
+    # lindsey hospital_bed_angel sad "And I just sleep... for so long..."
+    lindsey hospital_bed_angel sad "And I just sleep... for so long..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:113
 translate crowdin replay_lindsey_pleasure_47eec9a1_1:
@@ -589,22 +589,22 @@ translate crowdin replay_lindsey_pleasure_47eec9a1_1:
     mc "I'm really sorry..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:114
-translate crowdin replay_lindsey_pleasure_c6dac94b:
+translate crowdin replay_lindsey_pleasure_3212b257:
 
-    # lindsey hospital_bed sad "I'm afraid to close my eyes... I don't know if I'll wake up again..."
-    lindsey hospital_bed sad "I'm afraid to close my eyes... I don't know if I'll wake up again..."
+    # lindsey hospital_bed_angel sad "I'm afraid to close my eyes... I don't know if I'll wake up again..."
+    lindsey hospital_bed_angel sad "I'm afraid to close my eyes... I don't know if I'll wake up again..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:115
-translate crowdin replay_lindsey_pleasure_0937f720:
+translate crowdin replay_lindsey_pleasure_e46238a7:
 
-    # lindsey hospital_bed sad "I don't know if this is all a dream..."
-    lindsey hospital_bed sad "I don't know if this is all a dream..."
+    # lindsey hospital_bed_angel sad "I don't know if this is all a dream..."
+    lindsey hospital_bed_angel sad "I don't know if this is all a dream..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:116
-translate crowdin replay_lindsey_pleasure_99e794a2:
+translate crowdin replay_lindsey_pleasure_519ea665:
 
-    # lindsey hospital_bed sad "What if I died that day?"
-    lindsey hospital_bed sad "What if I died that day?"
+    # lindsey hospital_bed_angel sad "What if I died that day?"
+    lindsey hospital_bed_angel sad "What if I died that day?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:117
 translate crowdin replay_lindsey_pleasure_4103cc74:
@@ -619,10 +619,10 @@ translate crowdin replay_lindsey_pleasure_fa1a543e:
     mc "And you're alive now."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:119
-translate crowdin replay_lindsey_pleasure_f1b696b9:
+translate crowdin replay_lindsey_pleasure_da9216a1:
 
-    # lindsey hospital_bed surprised "Promise?"
-    lindsey hospital_bed surprised "Promise?"
+    # lindsey hospital_bed_angel surprised "Promise?"
+    lindsey hospital_bed_angel surprised "Promise?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:120
 translate crowdin replay_lindsey_pleasure_1093051f:
@@ -631,10 +631,10 @@ translate crowdin replay_lindsey_pleasure_1093051f:
     mc "I promise. I'll stay by your side until you wake."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:121
-translate crowdin replay_lindsey_pleasure_c7998958:
+translate crowdin replay_lindsey_pleasure_12b9503a:
 
-    # lindsey hospital_bed closed_eyes "Thank you..."
-    lindsey hospital_bed closed_eyes "Thank you..."
+    # lindsey hospital_bed_angel closed_eyes "Thank you..."
+    lindsey hospital_bed_angel closed_eyes "Thank you..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:122
 translate crowdin replay_lindsey_pleasure_287a6e10:
@@ -733,10 +733,10 @@ translate crowdin replay_lindsey_pleasure_c26ec6d6:
     "It's strong. Just like she's always been."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:144
-translate crowdin replay_lindsey_pleasure_3a079b48:
+translate crowdin replay_lindsey_pleasure_bfaa355f:
 
-    # lindsey hospital_bed sleepy hand_against_chest "[mc]...?"
-    lindsey hospital_bed sleepy hand_against_chest "[mc]...?"
+    # lindsey hospital_bed_angel sleepy hand_against_chest "[mc]...?"
+    lindsey hospital_bed_angel sleepy hand_against_chest "[mc]...?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:145
 translate crowdin replay_lindsey_pleasure_d116897a:
@@ -745,16 +745,16 @@ translate crowdin replay_lindsey_pleasure_d116897a:
     mc "I'm sorry! Did I wake you?"
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:146
-translate crowdin replay_lindsey_pleasure_ee30e35f:
+translate crowdin replay_lindsey_pleasure_29cb94f3:
 
-    # lindsey hospital_bed sleepy hand_against_chest "It's okay..."
-    lindsey hospital_bed sleepy hand_against_chest "It's okay..."
+    # lindsey hospital_bed_angel sleepy hand_against_chest "It's okay..."
+    lindsey hospital_bed_angel sleepy hand_against_chest "It's okay..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:147
-translate crowdin replay_lindsey_pleasure_cbeb34ad:
+translate crowdin replay_lindsey_pleasure_52ce03e3:
 
-    # lindsey hospital_bed sleepy hand_against_chest "Thanks for staying with me..."
-    lindsey hospital_bed sleepy hand_against_chest "Thanks for staying with me..."
+    # lindsey hospital_bed_angel sleepy hand_against_chest "Thanks for staying with me..."
+    lindsey hospital_bed_angel sleepy hand_against_chest "Thanks for staying with me..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:148
 translate crowdin replay_lindsey_pleasure_7376fbc6:
@@ -775,10 +775,10 @@ translate crowdin replay_lindsey_pleasure_b5286497:
     "The sound of her laughter sends joy bubbling through me."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:152
-translate crowdin replay_lindsey_pleasure_d6f1bf5c:
+translate crowdin replay_lindsey_pleasure_8c66eb81:
 
-    # lindsey hospital_bed smile hand_against_chest "I like you... you're cute."
-    lindsey hospital_bed smile hand_against_chest "I like you... you're cute."
+    # lindsey hospital_bed_angel smile hand_against_chest "I like you... you're cute."
+    lindsey hospital_bed_angel smile hand_against_chest "I like you... you're cute."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:153
 translate crowdin replay_lindsey_pleasure_c60a3282:
@@ -853,10 +853,10 @@ translate crowdin replay_lindsey_pleasure_47d11b28:
     "I lean in close, my lips inches from hers."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:170
-translate crowdin replay_lindsey_pleasure_9765f797:
+translate crowdin replay_lindsey_pleasure_e6dfdf22:
 
-    # lindsey hospital_bed kiss fingertips_against_cheek "Go on..."
-    lindsey hospital_bed kiss fingertips_against_cheek "Go on..."
+    # lindsey hospital_bed_angel kiss fingertips_against_cheek "Go on..."
+    lindsey hospital_bed_angel kiss fingertips_against_cheek "Go on..."
 
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:180
 translate crowdin replay_lindsey_pleasure_3d340470:
@@ -900,403 +900,409 @@ translate crowdin replay_lindsey_pleasure_78193f34:
     # "As our lips part, [lindsey] looks up at me, giving me the most heart-melting look."
     "As our lips part, [lindsey] looks up at me, giving me the most heart-melting look."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:195
-translate crowdin replay_lindsey_pleasure_abe3a62a:
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:196
+translate crowdin replay_lindsey_pleasure_aad820a2:
 
-    # "Through her chest, the pulse of her heart quickens against my palm."
-    "Through her chest, the pulse of her heart quickens against my palm."
+    # "Through her chest, the pulse of her heart quickens against my palm.{space=-15}"
+    "Through her chest, the pulse of her heart quickens against my palm.{space=-15}"
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:201
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:197
+translate crowdin replay_lindsey_pleasure_460d86d9:
+
+    # mc "Just relax, okay? I'll make you feel better."
+    mc "Just relax, okay? I'll make you feel better."
+
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:203
 translate crowdin replay_lindsey_pleasure_b741621c:
 
     # "Slowly, my hand moves lower, cupping her breast."
     "Slowly, my hand moves lower, cupping her breast."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:202
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:204
 translate crowdin replay_lindsey_pleasure_5be2dce6:
 
     # "The jiggly softness makes me dizzy with desire."
     "The jiggly softness makes me dizzy with desire."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:203
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:205
 translate crowdin replay_lindsey_pleasure_b7b8d919:
 
     # "The squeeze is light, but she still moans."
     "The squeeze is light, but she still moans."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:204
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:206
 translate crowdin replay_lindsey_pleasure_0f570b3c:
 
     # "Distantly, her heart rate monitor starts beeping faster."
     "Distantly, her heart rate monitor starts beeping faster."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:205
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:207
 translate crowdin replay_lindsey_pleasure_cf148cfe:
 
     # "The sound fills me with a certain pride and giddiness."
     "The sound fills me with a certain pride and giddiness."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:206
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:208
 translate crowdin replay_lindsey_pleasure_ec28d3a3:
 
     # "Emboldened, my hand leaves her chest, traveling down her ribcage and stomach."
     "Emboldened, my hand leaves her chest, traveling down her ribcage and stomach."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:207
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:209
 translate crowdin replay_lindsey_pleasure_35179b53:
 
     # "Steadily, slowly, descending."
     "Steadily, slowly, descending."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:213
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:215
 translate crowdin replay_lindsey_pleasure_9f980fe0:
 
     # "[lindsey] gasps as I get closer to her sex, but doesn't stop me."
     "[lindsey] gasps as I get closer to her sex, but doesn't stop me."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:214
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:216
 translate crowdin replay_lindsey_pleasure_1e0ec856:
 
     # "She just looks at me, eyes full of innocence and surprise, but also desire."
     "She just looks at me, eyes full of innocence and surprise, but also desire."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:215
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:217
 translate crowdin replay_lindsey_pleasure_af547698:
 
     # "Even as my hand slips under the waistband of her panties, her eyes remain on me."
     "Even as my hand slips under the waistband of her panties, her eyes remain on me."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:216
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:218
 translate crowdin replay_lindsey_pleasure_9b5c5106:
 
     # "The soft skin of her mound against my palm makes me shiver."
     "The soft skin of her mound against my palm makes me shiver."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:223
-translate crowdin replay_lindsey_pleasure_836987f9:
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:225
+translate crowdin replay_lindsey_pleasure_5149495a:
 
-    # lindsey hospital_bed aroused fully_covered_pussy "[mc]..."
-    lindsey hospital_bed aroused fully_covered_pussy "[mc]..."
+    # lindsey hospital_bed_angel aroused fully_covered_pussy "[mc]..."
+    lindsey hospital_bed_angel aroused fully_covered_pussy "[mc]..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:224
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:226
 translate crowdin replay_lindsey_pleasure_861e92dc:
 
     # "She gasps as I fully cover her pussy with my hand."
     "She gasps as I fully cover her pussy with my hand."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:225
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:227
 translate crowdin replay_lindsey_pleasure_a46f8b48:
 
     # "Her words are a mere whisper, and despite her broken limbs, she tries to spread her legs for me."
     "Her words are a mere whisper, and despite her broken limbs, she tries to spread her legs for me."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:226
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:228
 translate crowdin replay_lindsey_pleasure_8db4273f:
 
     # mc "Just relax."
     mc "Just relax."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:227
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:229
 translate crowdin replay_lindsey_pleasure_bcbb9aed:
 
     # "She bites her lip, her cheeks turning crimson."
     "She bites her lip, her cheeks turning crimson."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:229
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:231
 translate crowdin replay_lindsey_pleasure_2c8668f0:
 
     # "As I say this, I slide my hand further into her panties."
     "As I say this, I slide my hand further into her panties."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:230
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:232
 translate crowdin replay_lindsey_pleasure_939374ba:
 
     # "Caressing her vulva."
     "Caressing her vulva."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:231
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:233
 translate crowdin replay_lindsey_pleasure_a123a6dc:
 
     # "Gliding my fingers between her already slick lips."
     "Gliding my fingers between her already slick lips."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:232
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:234
 translate crowdin replay_lindsey_pleasure_3374f65a:
 
     # "She squirms slightly beneath me, pressing her head back into her pillow."
     "She squirms slightly beneath me, pressing her head back into her pillow."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:233
-translate crowdin replay_lindsey_pleasure_40d3cbe0:
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:235
+translate crowdin replay_lindsey_pleasure_74383852:
 
-    # lindsey hospital_bed aroused sliding_hand_further "Oh... oh my..."
-    lindsey hospital_bed aroused sliding_hand_further "Oh... oh my..."
+    # lindsey hospital_bed_angel aroused sliding_hand_further "Oh... oh my..."
+    lindsey hospital_bed_angel aroused sliding_hand_further "Oh... oh my..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:234
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:236
 translate crowdin replay_lindsey_pleasure_4a14a763:
 
     # "My thumb touches her clit and she stiffens, holding her breath."
     "My thumb touches her clit and she stiffens, holding her breath."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:235
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:237
 translate crowdin replay_lindsey_pleasure_3c44f8e9:
 
     # "Her pussy leaks into my hand, throbbing beneath my touch."
     "Her pussy leaks into my hand, throbbing beneath my touch."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:236
-translate crowdin replay_lindsey_pleasure_4f5eab9a:
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:238
+translate crowdin replay_lindsey_pleasure_67186574:
 
-    # lindsey hospital_bed aroused sliding_hand_further "[mc]..."
-    lindsey hospital_bed aroused sliding_hand_further "[mc]..."
+    # lindsey hospital_bed_angel aroused sliding_hand_further "[mc]..."
+    lindsey hospital_bed_angel aroused sliding_hand_further "[mc]..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:237
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:239
 translate crowdin replay_lindsey_pleasure_21b5fdfc:
 
     # "The sound of her whispering my name spurs me on."
     "The sound of her whispering my name spurs me on."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:239
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:241
 translate crowdin replay_lindsey_pleasure_9e804b50:
 
     # "My fingers separate her nether lips, opening her up enough to slide a finger inside."
     "My fingers separate her nether lips, opening her up enough to slide a finger inside."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:240
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:242
 translate crowdin replay_lindsey_pleasure_20fc48d0:
 
     # "Her eyelashes flutter, her pupils dilate, and her lips produce a single moan."
     "Her eyelashes flutter, her pupils dilate, and her lips produce a single moan."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:241
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:243
 translate crowdin replay_lindsey_pleasure_e898ec59:
 
     # "She pushes against my hand, and I return the pressure."
     "She pushes against my hand, and I return the pressure."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:306
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:308
 translate crowdin replay_lindsey_pleasure_2fef88b3:
 
     # "Her head tilts back, her eyes on the ceiling, mouth open in a silent gasp."
     "Her head tilts back, her eyes on the ceiling, mouth open in a silent gasp."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:307
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:309
 translate crowdin replay_lindsey_pleasure_321270d6:
 
     # "It's like I'm controlling her entire body with the tips of my fingers."
     "It's like I'm controlling her entire body with the tips of my fingers."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:308
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:310
 translate crowdin replay_lindsey_pleasure_06fa882c:
 
     # "Like a puppet master, I make her gasp and sigh, moan and shudder."
     "Like a puppet master, I make her gasp and sigh, moan and shudder."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:309
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:311
 translate crowdin replay_lindsey_pleasure_b9a7cb14:
 
     # "More pressure, deeper penetration, faster stimulation of her clitoris.{space=-5}"
     "More pressure, deeper penetration, faster stimulation of her clitoris.{space=-5}"
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:348
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:350
 translate crowdin replay_lindsey_pleasure_30856001:
 
     # "She cries out, her orgasm building."
     "She cries out, her orgasm building."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:349
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:351
 translate crowdin replay_lindsey_pleasure_64a98dd3:
 
     # mc "That's it, baby..."
     mc "That's it, baby..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:350
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:352
 translate crowdin replay_lindsey_pleasure_8d40de46:
 
     # mc "You deserve to feel good after everything you've been through."
     mc "You deserve to feel good after everything you've been through."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:351
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:353
 translate crowdin replay_lindsey_pleasure_562b586c:
 
     # mc "Let me make you feel good."
     mc "Let me make you feel good."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:352
-translate crowdin replay_lindsey_pleasure_a2746b92:
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:354
+translate crowdin replay_lindsey_pleasure_6cbb967b:
 
-    # lindsey hospital_bed ahegao sliding_finger_inside "Mmmm... it really does!"
-    lindsey hospital_bed ahegao sliding_finger_inside "Mmmm... it really does!"
+    # lindsey hospital_bed_angel ahegao sliding_finger_inside "Mmmm... it really does!"
+    lindsey hospital_bed_angel ahegao sliding_finger_inside "Mmmm... it really does!"
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:427
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:429
 translate crowdin replay_lindsey_pleasure_d04e6088:
 
     # "Her toned stomach muscles flex and relax, flex and relax — the dam about to break."
     "Her toned stomach muscles flex and relax, flex and relax — the dam about to break."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:428
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:430
 translate crowdin replay_lindsey_pleasure_0dfe411b:
 
     # "Panting, she looks up at me, eyes pleading."
     "Panting, she looks up at me, eyes pleading."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:429
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:431
 translate crowdin replay_lindsey_pleasure_f4e2d966:
 
     # "The cutest, most desperate mewls fill the hospital room."
     "The cutest, most desperate mewls fill the hospital room."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:430
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:432
 translate crowdin replay_lindsey_pleasure_d1af68e2:
 
     # "She's so close, her pussy's gripping my fingers, trying to pull me in."
     "She's so close, her pussy's gripping my fingers, trying to pull me in."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:431
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:433
 translate crowdin replay_lindsey_pleasure_da7f8854:
 
     # "Her swollen, sensitive clitoris an endless focus of my thumb."
     "Her swollen, sensitive clitoris an endless focus of my thumb."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:480
-translate crowdin replay_lindsey_pleasure_10328b09:
-
-    # lindsey hospital_bed squirt sliding_finger_inside "Ohhhhhh!" with hpunch
-    lindsey hospital_bed squirt sliding_finger_inside "Ohhhhhh!" with hpunch
-
 # game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:482
+translate crowdin replay_lindsey_pleasure_4440cc2b:
+
+    # lindsey hospital_bed_angel squirt sliding_finger_inside "Ohhhhhh!" with hpunch
+    lindsey hospital_bed_angel squirt sliding_finger_inside "Ohhhhhh!" with hpunch
+
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:484
 translate crowdin replay_lindsey_pleasure_c8fd0a9e:
 
     # "Finally, she gives in and explodes around my fingers."
     "Finally, she gives in and explodes around my fingers."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:483
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:485
 translate crowdin replay_lindsey_pleasure_249838f9:
 
     # "A near silent, but oh so powerful orgasm."
     "A near silent, but oh so powerful orgasm."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:484
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:486
 translate crowdin replay_lindsey_pleasure_7bc4ca45:
 
     # "Juices flow freely from her pussy, soaking my hand and her panties,{space=-5}\neven her bed."
     "Juices flow freely from her pussy, soaking my hand and her panties,{space=-5}\neven her bed."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:485
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:487
 translate crowdin replay_lindsey_pleasure_cd514de9:
 
     # "Her heart monitor is going crazy."
     "Her heart monitor is going crazy."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:486
-translate crowdin replay_lindsey_pleasure_a7b70f50:
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:488
+translate crowdin replay_lindsey_pleasure_32b44a02:
 
-    # lindsey hospital_bed pleased sliding_finger_inside "Oh, my god... that..."
-    lindsey hospital_bed pleased sliding_finger_inside "Oh, my god... that..."
+    # lindsey hospital_bed_angel pleased sliding_finger_inside "Oh, my god... that..."
+    lindsey hospital_bed_angel pleased sliding_finger_inside "Oh, my god... that..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:487
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:489
 translate crowdin replay_lindsey_pleasure_4d253d65:
 
     # mc "That."
     mc "That."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:493
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:495
 translate crowdin replay_lindsey_pleasure_a62338e7:
 
     # "It's hard to keep the smile off my face..."
     "It's hard to keep the smile off my face..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:494
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:496
 translate crowdin replay_lindsey_pleasure_1c071fea:
 
     # "I just made [lindsey] squirt right into my hand!"
     "I just made [lindsey] squirt right into my hand!"
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:495
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:497
 translate crowdin replay_lindsey_pleasure_9f28deae:
 
     # "She relaxes back against the pillow, a smile of relief flitting across her rosy lips."
     "She relaxes back against the pillow, a smile of relief flitting across her rosy lips."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:496
-translate crowdin replay_lindsey_pleasure_82507346:
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:498
+translate crowdin replay_lindsey_pleasure_f4cfa089:
 
-    # lindsey hospital_bed pleased squirt_into_hand "Amazing..."
-    lindsey hospital_bed pleased squirt_into_hand "Amazing..."
+    # lindsey hospital_bed_angel pleased squirt_into_hand "Amazing..."
+    lindsey hospital_bed_angel pleased squirt_into_hand "Amazing..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:497
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:499
 translate crowdin replay_lindsey_pleasure_1d02fc98:
 
     # "And it truly is."
     "And it truly is."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:498
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:500
 translate crowdin replay_lindsey_pleasure_d1e8824e:
 
     # "To give someone pleasure is such a beautiful thing."
     "To give someone pleasure is such a beautiful thing."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:499
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:501
 translate crowdin replay_lindsey_pleasure_e5b2772c:
 
     # "Especially when she can't do it herself."
     "Especially when she can't do it herself."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:500
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:502
 translate crowdin replay_lindsey_pleasure_b32a815a:
 
     # "...not that she would ever admit to doing something like that,\nof course."
     "...not that she would ever admit to doing something like that,\nof course."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:507
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:509
 translate crowdin replay_lindsey_pleasure_0224cbd2:
 
     # "She looks at me in surprise and embarrassment when I grab a napkin, and gently dab her pussy."
     "She looks at me in surprise and embarrassment when I grab a napkin, and gently dab her pussy."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:508
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:510
 translate crowdin replay_lindsey_pleasure_7ecf3d10:
 
     # "She blushes deeply, but knows that she can't clean herself up."
     "She blushes deeply, but knows that she can't clean herself up."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:509
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:511
 translate crowdin replay_lindsey_pleasure_c84a5160:
 
     # "And I refuse to just let her soak in her juices."
     "And I refuse to just let her soak in her juices."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:510
-translate crowdin replay_lindsey_pleasure_b8b2b952:
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:512
+translate crowdin replay_lindsey_pleasure_fbe9916d:
 
-    # lindsey hospital_bed blush napkin_dab "Thank you..."
-    lindsey hospital_bed blush napkin_dab "Thank you..."
+    # lindsey hospital_bed_angel blush napkin_dab "Thank you..."
+    lindsey hospital_bed_angel blush napkin_dab "Thank you..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:511
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:513
 translate crowdin replay_lindsey_pleasure_4d2daba2:
 
     # mc "Don't mention it!"
     mc "Don't mention it!"
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:512
-translate crowdin replay_lindsey_pleasure_c0319164:
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:514
+translate crowdin replay_lindsey_pleasure_5c03b3d2:
 
-    # lindsey hospital_bed blush napkin_dab "You can't either... no one can know..."
-    lindsey hospital_bed blush napkin_dab "You can't either... no one can know..."
+    # lindsey hospital_bed_angel blush napkin_dab "You can't either... no one can know..."
+    lindsey hospital_bed_angel blush napkin_dab "You can't either... no one can know..."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:513
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:515
 translate crowdin replay_lindsey_pleasure_b7132fe3:
 
     # mc "Don't worry about it. My lips are—"
     mc "Don't worry about it. My lips are—"
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:519
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:521
 translate crowdin replay_lindsey_pleasure_893f6575:
 
     # nurse "What's going on in here? The visiting hours ended a long time ago."
     nurse "What's going on in here? The visiting hours ended a long time ago."
 
-# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:521
+# game/1000_base_game/game/replays/67_lindsey_pleasure.rpy:523
 translate crowdin replay_lindsey_pleasure_1d498f77:
 
     # nurse "Time to go."

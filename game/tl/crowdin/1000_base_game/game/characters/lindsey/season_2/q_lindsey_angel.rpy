@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:4
 translate crowdin quest_lindsey_angel_start_9b346f38:
@@ -2101,10 +2101,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_18bb83c5:
     mc "And I also know they're wrong."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:677
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_85d8d73d:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7865b8f4:
 
-    # lindsey hospital_bed surprised "What do you mean...?"
-    lindsey hospital_bed surprised "What do you mean...?"
+    # lindsey hospital_bed_angel surprised "What do you mean...?"
+    lindsey hospital_bed_angel surprised "What do you mean...?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:678
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_557738cd:
@@ -2113,10 +2113,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_557738cd:
     mc "It wasn't a suicide attempt."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:679
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_01fbf441:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_16698b8e:
 
-    # lindsey hospital_bed surprised "..."
-    lindsey hospital_bed surprised "..."
+    # lindsey hospital_bed_angel surprised "..."
+    lindsey hospital_bed_angel surprised "..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:680
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_bc4f1a33:
@@ -2125,16 +2125,16 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_bc4f1a33:
     mc "Right?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:681
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9c289b81:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c779baa8:
 
-    # lindsey hospital_bed sad "I... I don't know..."
-    lindsey hospital_bed sad "I... I don't know..."
+    # lindsey hospital_bed_angel sad "I... I don't know..."
+    lindsey hospital_bed_angel sad "I... I don't know..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:682
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_79b00819:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_602ed3d5:
 
-    # lindsey hospital_bed sad "I don't remember..."
-    lindsey hospital_bed sad "I don't remember..."
+    # lindsey hospital_bed_angel sad "I don't remember..."
+    lindsey hospital_bed_angel sad "I don't remember..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:683
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a0cabb37:
@@ -2155,10 +2155,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_13426ab2:
     mc "What's the last thing you remember?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:686
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f8cb1eb5:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_07bd9400:
 
-    # lindsey hospital_bed sad "I... don't want to think about that day..."
-    lindsey hospital_bed sad "I... don't want to think about that day..."
+    # lindsey hospital_bed_angel sad "I... don't want to think about that day..."
+    lindsey hospital_bed_angel sad "I... don't want to think about that day..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:688
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_11fdb519:
@@ -2179,10 +2179,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a7e50ed8:
     mc "You just need to let your body heal."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:692
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_6b8fc7fa:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_55032c32:
 
-    # lindsey hospital_bed surprised "But what's the point?"
-    lindsey hospital_bed surprised "But what's the point?"
+    # lindsey hospital_bed_angel surprised "But what's the point?"
+    lindsey hospital_bed_angel surprised "But what's the point?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:693
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e2d35725:
@@ -2203,16 +2203,16 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b6709c34:
     mc "So, the point is living it."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:696
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d702d5fd:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7443c974:
 
-    # lindsey hospital_bed surprised "I don't know what to do if I can't run again..."
-    lindsey hospital_bed surprised "I don't know what to do if I can't run again..."
+    # lindsey hospital_bed_angel surprised "I don't know what to do if I can't run again..."
+    lindsey hospital_bed_angel surprised "I don't know what to do if I can't run again..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:697
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7bd8227f:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_126ff62a:
 
-    # lindsey hospital_bed surprised "It was my entire life..."
-    lindsey hospital_bed surprised "It was my entire life..."
+    # lindsey hospital_bed_angel surprised "It was my entire life..."
+    lindsey hospital_bed_angel surprised "It was my entire life..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:698
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4019c9b3:
@@ -2227,10 +2227,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_bec7bb9a:
     mc "You can still enjoy King's Bard, for example."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:700
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1099794b:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7f673a6a:
 
-    # lindsey hospital_bed sad "I guess..."
-    lindsey hospital_bed sad "I guess..."
+    # lindsey hospital_bed_angel sad "I guess..."
+    lindsey hospital_bed_angel sad "I guess..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:701
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e651b605:
@@ -2251,10 +2251,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_48681352:
     mc "Maybe there's a championship for that?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:705
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_acf53326:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_2c1b039f:
 
-    # lindsey hospital_bed closed_eyes "That's sweet..."
-    lindsey hospital_bed closed_eyes "That's sweet..."
+    # lindsey hospital_bed_angel closed_eyes "That's sweet..."
+    lindsey hospital_bed_angel closed_eyes "That's sweet..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:706
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_00fd474f:
@@ -2281,16 +2281,16 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_cc848956:
     mc "I know it's difficult... but I'm here to help."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:711
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4cec1fba:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_dec7bd76:
 
-    # lindsey hospital_bed surprised "Help? How?"
-    lindsey hospital_bed surprised "Help? How?"
+    # lindsey hospital_bed_angel surprised "Help? How?"
+    lindsey hospital_bed_angel surprised "Help? How?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:712
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_49e94815:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1309ba0d:
 
-    # lindsey hospital_bed sad "I've already lost everything..."
-    lindsey hospital_bed sad "I've already lost everything..."
+    # lindsey hospital_bed_angel sad "I've already lost everything..."
+    lindsey hospital_bed_angel sad "I've already lost everything..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:713
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4ce7e4cb:
@@ -2329,10 +2329,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_599b5235:
     mc "And I promise you, as long as I live, you have my sword and shield."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:720
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_24a3c9f2:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c66f2790:
 
-    # lindsey hospital_bed closed_eyes "..."
-    lindsey hospital_bed closed_eyes "..."
+    # lindsey hospital_bed_angel closed_eyes "..."
+    lindsey hospital_bed_angel closed_eyes "..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:721
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7edf6e32:
@@ -2353,10 +2353,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_581de8f8:
     "Hers, more labored than usual."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:724
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b2c06f67:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_260f6976:
 
-    # lindsey hospital_bed sad "I can't..."
-    lindsey hospital_bed sad "I can't..."
+    # lindsey hospital_bed_angel sad "I can't..."
+    lindsey hospital_bed_angel sad "I can't..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:725
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3f871f46:
@@ -2365,88 +2365,88 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3f871f46:
     mc "Hmm?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:726
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_fac575a8:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_5df9a8d4:
 
-    # lindsey hospital_bed sad "I keep seeing it..."
-    lindsey hospital_bed sad "I keep seeing it..."
+    # lindsey hospital_bed_angel sad "I keep seeing it..."
+    lindsey hospital_bed_angel sad "I keep seeing it..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:727
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_13926bcc:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_07752cb0:
 
-    # lindsey hospital_bed sad "As soon as I close my eyes, the abyss opens up below me..."
-    lindsey hospital_bed sad "As soon as I close my eyes, the abyss opens up below me..."
+    # lindsey hospital_bed_angel sad "As soon as I close my eyes, the abyss opens up below me..."
+    lindsey hospital_bed_angel sad "As soon as I close my eyes, the abyss opens up below me..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:728
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f2a24584:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_731fadca:
 
-    # lindsey hospital_bed sad "I'm teetering on the edge, doing my best not to fall..."
-    lindsey hospital_bed sad "I'm teetering on the edge, doing my best not to fall..."
+    # lindsey hospital_bed_angel sad "I'm teetering on the edge, doing my best not to fall..."
+    lindsey hospital_bed_angel sad "I'm teetering on the edge, doing my best not to fall..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:729
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_6be0ef01:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ff7b022c:
 
-    # lindsey hospital_bed sad "But gravity takes hold and my stomach drops, and I with it..."
-    lindsey hospital_bed sad "But gravity takes hold and my stomach drops, and I with it..."
+    # lindsey hospital_bed_angel sad "But gravity takes hold and my stomach drops, and I with it..."
+    lindsey hospital_bed_angel sad "But gravity takes hold and my stomach drops, and I with it..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:730
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_6b00bdd6:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_fda24eb3:
 
-    # lindsey hospital_bed sad "I want to scream, but nothing comes out..."
-    lindsey hospital_bed sad "I want to scream, but nothing comes out..."
+    # lindsey hospital_bed_angel sad "I want to scream, but nothing comes out..."
+    lindsey hospital_bed_angel sad "I want to scream, but nothing comes out..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:731
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_6cf0fef5:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1502830e:
 
-    # lindsey hospital_bed sad "I gasp for air as I fall... and fall... and fall... all the way down..."
-    lindsey hospital_bed sad "I gasp for air as I fall... and fall... and fall... all the way down..."
+    # lindsey hospital_bed_angel sad "I gasp for air as I fall... and fall... and fall... all the way down..."
+    lindsey hospital_bed_angel sad "I gasp for air as I fall... and fall... and fall... all the way down..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:732
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_8d73b05f:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9c828bc3:
 
-    # lindsey hospital_bed sad "And then it's just darkness... I'm alone in the void... but only for a short while..."
-    lindsey hospital_bed sad "And then it's just darkness... I'm alone in the void... but only for a short while..."
+    # lindsey hospital_bed_angel sad "And then it's just darkness... I'm alone in the void... but only for a short while..."
+    lindsey hospital_bed_angel sad "And then it's just darkness... I'm alone in the void... but only for a short while..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:733
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c6382c67:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_eb239889:
 
-    # lindsey hospital_bed sad "Pain blinds me when I wake up... each beat of my heart rips me apart..."
-    lindsey hospital_bed sad "Pain blinds me when I wake up... each beat of my heart rips me apart..."
+    # lindsey hospital_bed_angel sad "Pain blinds me when I wake up... each beat of my heart rips me apart..."
+    lindsey hospital_bed_angel sad "Pain blinds me when I wake up... each beat of my heart rips me apart..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:734
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_836388a4:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f6506f8d:
 
-    # lindsey hospital_bed sad "My arms won't move... my legs lie crumpled like paper..."
-    lindsey hospital_bed sad "My arms won't move... my legs lie crumpled like paper..."
+    # lindsey hospital_bed_angel sad "My arms won't move... my legs lie crumpled like paper..."
+    lindsey hospital_bed_angel sad "My arms won't move... my legs lie crumpled like paper..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:735
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_42cc5a56:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ba78f762:
 
-    # lindsey hospital_bed sad "I can't breathe, my lungs won't fill..."
-    lindsey hospital_bed sad "I can't breathe, my lungs won't fill..."
+    # lindsey hospital_bed_angel sad "I can't breathe, my lungs won't fill..."
+    lindsey hospital_bed_angel sad "I can't breathe, my lungs won't fill..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:736
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_6d0946c6:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_71a88e3c:
 
-    # lindsey hospital_bed sad "I start to fade again..."
-    lindsey hospital_bed sad "I start to fade again..."
+    # lindsey hospital_bed_angel sad "I start to fade again..."
+    lindsey hospital_bed_angel sad "I start to fade again..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:737
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_5095dde2:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_dbc4f619:
 
-    # lindsey hospital_bed sad "But someone stands over me, radiating light... white, gold, and pink...{space=-30}"
-    lindsey hospital_bed sad "But someone stands over me, radiating light... white, gold, and pink...{space=-30}"
+    # lindsey hospital_bed_angel sad "But someone stands over me, radiating light... white, gold, and pink...{space=-30}"
+    lindsey hospital_bed_angel sad "But someone stands over me, radiating light... white, gold, and pink...{space=-30}"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:738
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_16584bb1:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_2fc32cc9:
 
-    # lindsey hospital_bed sad "And then my lungs fill with blessed air, my heart beats anew..."
-    lindsey hospital_bed sad "And then my lungs fill with blessed air, my heart beats anew..."
+    # lindsey hospital_bed_angel sad "And then my lungs fill with blessed air, my heart beats anew..."
+    lindsey hospital_bed_angel sad "And then my lungs fill with blessed air, my heart beats anew..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:739
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e4e0e9a7:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9ddbf768:
 
-    # lindsey hospital_bed sad "And I just sleep... for so long..."
-    lindsey hospital_bed sad "And I just sleep... for so long..."
+    # lindsey hospital_bed_angel sad "And I just sleep... for so long..."
+    lindsey hospital_bed_angel sad "And I just sleep... for so long..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:740
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_47eec9a1_1:
@@ -2455,22 +2455,22 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_47eec9a1_1:
     mc "I'm really sorry..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:741
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c6dac94b:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3212b257:
 
-    # lindsey hospital_bed sad "I'm afraid to close my eyes... I don't know if I'll wake up again..."
-    lindsey hospital_bed sad "I'm afraid to close my eyes... I don't know if I'll wake up again..."
+    # lindsey hospital_bed_angel sad "I'm afraid to close my eyes... I don't know if I'll wake up again..."
+    lindsey hospital_bed_angel sad "I'm afraid to close my eyes... I don't know if I'll wake up again..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:742
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0937f720:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e46238a7:
 
-    # lindsey hospital_bed sad "I don't know if this is all a dream..."
-    lindsey hospital_bed sad "I don't know if this is all a dream..."
+    # lindsey hospital_bed_angel sad "I don't know if this is all a dream..."
+    lindsey hospital_bed_angel sad "I don't know if this is all a dream..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:743
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_99e794a2:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_519ea665:
 
-    # lindsey hospital_bed sad "What if I died that day?"
-    lindsey hospital_bed sad "What if I died that day?"
+    # lindsey hospital_bed_angel sad "What if I died that day?"
+    lindsey hospital_bed_angel sad "What if I died that day?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:744
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4103cc74:
@@ -2485,10 +2485,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_fa1a543e:
     mc "And you're alive now."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:746
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f1b696b9:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_da9216a1:
 
-    # lindsey hospital_bed surprised "Promise?"
-    lindsey hospital_bed surprised "Promise?"
+    # lindsey hospital_bed_angel surprised "Promise?"
+    lindsey hospital_bed_angel surprised "Promise?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:747
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1093051f:
@@ -2497,10 +2497,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1093051f:
     mc "I promise. I'll stay by your side until you wake."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:748
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c7998958:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_12b9503a:
 
-    # lindsey hospital_bed closed_eyes "Thank you..."
-    lindsey hospital_bed closed_eyes "Thank you..."
+    # lindsey hospital_bed_angel closed_eyes "Thank you..."
+    lindsey hospital_bed_angel closed_eyes "Thank you..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:749
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_287a6e10:
@@ -2599,10 +2599,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c26ec6d6:
     "It's strong. Just like she's always been."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:771
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3a079b48:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_bfaa355f:
 
-    # lindsey hospital_bed sleepy hand_against_chest "[mc]...?"
-    lindsey hospital_bed sleepy hand_against_chest "[mc]...?"
+    # lindsey hospital_bed_angel sleepy hand_against_chest "[mc]...?"
+    lindsey hospital_bed_angel sleepy hand_against_chest "[mc]...?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:772
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d116897a:
@@ -2611,16 +2611,16 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d116897a:
     mc "I'm sorry! Did I wake you?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:773
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_ee30e35f:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_29cb94f3:
 
-    # lindsey hospital_bed sleepy hand_against_chest "It's okay..."
-    lindsey hospital_bed sleepy hand_against_chest "It's okay..."
+    # lindsey hospital_bed_angel sleepy hand_against_chest "It's okay..."
+    lindsey hospital_bed_angel sleepy hand_against_chest "It's okay..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:774
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_cbeb34ad:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_52ce03e3:
 
-    # lindsey hospital_bed sleepy hand_against_chest "Thanks for staying with me..."
-    lindsey hospital_bed sleepy hand_against_chest "Thanks for staying with me..."
+    # lindsey hospital_bed_angel sleepy hand_against_chest "Thanks for staying with me..."
+    lindsey hospital_bed_angel sleepy hand_against_chest "Thanks for staying with me..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:775
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_7376fbc6:
@@ -2641,10 +2641,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b5286497:
     "The sound of her laughter sends joy bubbling through me."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:779
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d6f1bf5c:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_8c66eb81:
 
-    # lindsey hospital_bed smile hand_against_chest "I like you... you're cute."
-    lindsey hospital_bed smile hand_against_chest "I like you... you're cute."
+    # lindsey hospital_bed_angel smile hand_against_chest "I like you... you're cute."
+    lindsey hospital_bed_angel smile hand_against_chest "I like you... you're cute."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:780
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c60a3282:
@@ -2719,10 +2719,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_47d11b28:
     "I lean in close, my lips inches from hers."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:797
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9765f797:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_e6dfdf22:
 
-    # lindsey hospital_bed kiss fingertips_against_cheek "Go on..."
-    lindsey hospital_bed kiss fingertips_against_cheek "Go on..."
+    # lindsey hospital_bed_angel kiss fingertips_against_cheek "Go on..."
+    lindsey hospital_bed_angel kiss fingertips_against_cheek "Go on..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:807
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3d340470:
@@ -2917,10 +2917,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a3f96196:
     mc "Goodbye, [lindsey]. I'll try to be back soon, okay?"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:865
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a9fc0bf7:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_0cc20d6d:
 
-    # lindsey hospital_bed sleeping "ZzzZzzzzZz..."
-    lindsey hospital_bed sleeping "ZzzZzzzzZz..."
+    # lindsey hospital_bed_angel sleeping "ZzzZzzzzZz..."
+    lindsey hospital_bed_angel sleeping "ZzzZzzzzZz..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:866
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_461c1f59:
@@ -3043,10 +3043,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9b5c5106:
     "The soft skin of her mound against my palm makes me shiver."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:928
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_836987f9:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_5149495a:
 
-    # lindsey hospital_bed aroused fully_covered_pussy "[mc]..."
-    lindsey hospital_bed aroused fully_covered_pussy "[mc]..."
+    # lindsey hospital_bed_angel aroused fully_covered_pussy "[mc]..."
+    lindsey hospital_bed_angel aroused fully_covered_pussy "[mc]..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:929
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_861e92dc:
@@ -3097,10 +3097,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3374f65a:
     "She squirms slightly beneath me, pressing her head back into her pillow."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:938
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_40d3cbe0:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_74383852:
 
-    # lindsey hospital_bed aroused sliding_hand_further "Oh... oh my..."
-    lindsey hospital_bed aroused sliding_hand_further "Oh... oh my..."
+    # lindsey hospital_bed_angel aroused sliding_hand_further "Oh... oh my..."
+    lindsey hospital_bed_angel aroused sliding_hand_further "Oh... oh my..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:939
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4a14a763:
@@ -3115,10 +3115,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_3c44f8e9:
     "Her pussy leaks into my hand, throbbing beneath my touch."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:941
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4f5eab9a:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_67186574:
 
-    # lindsey hospital_bed aroused sliding_hand_further "[mc]..."
-    lindsey hospital_bed aroused sliding_hand_further "[mc]..."
+    # lindsey hospital_bed_angel aroused sliding_hand_further "[mc]..."
+    lindsey hospital_bed_angel aroused sliding_hand_further "[mc]..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:942
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_21b5fdfc:
@@ -3193,10 +3193,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_562b586c:
     mc "Let me make you feel good."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1057
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a2746b92:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_6cbb967b:
 
-    # lindsey hospital_bed ahegao sliding_finger_inside "Mmmm... it really does!"
-    lindsey hospital_bed ahegao sliding_finger_inside "Mmmm... it really does!"
+    # lindsey hospital_bed_angel ahegao sliding_finger_inside "Mmmm... it really does!"
+    lindsey hospital_bed_angel ahegao sliding_finger_inside "Mmmm... it really does!"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1132
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_d04e6088:
@@ -3229,10 +3229,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_da7f8854:
     "Her swollen, sensitive clitoris an endless focus of my thumb."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1185
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_10328b09:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4440cc2b:
 
-    # lindsey hospital_bed squirt sliding_finger_inside "Ohhhhhh!" with hpunch
-    lindsey hospital_bed squirt sliding_finger_inside "Ohhhhhh!" with hpunch
+    # lindsey hospital_bed_angel squirt sliding_finger_inside "Ohhhhhh!" with hpunch
+    lindsey hospital_bed_angel squirt sliding_finger_inside "Ohhhhhh!" with hpunch
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1187
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c8fd0a9e:
@@ -3259,10 +3259,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_cd514de9:
     "Her heart monitor is going crazy."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1191
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_a7b70f50:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_32b44a02:
 
-    # lindsey hospital_bed pleased sliding_finger_inside "Oh, my god... that..."
-    lindsey hospital_bed pleased sliding_finger_inside "Oh, my god... that..."
+    # lindsey hospital_bed_angel pleased sliding_finger_inside "Oh, my god... that..."
+    lindsey hospital_bed_angel pleased sliding_finger_inside "Oh, my god... that..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1192
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4d253d65:
@@ -3289,10 +3289,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_9f28deae:
     "She relaxes back against the pillow, a smile of relief flitting across her rosy lips."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1202
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_82507346:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_f4cfa089:
 
-    # lindsey hospital_bed pleased squirt_into_hand "Amazing..."
-    lindsey hospital_bed pleased squirt_into_hand "Amazing..."
+    # lindsey hospital_bed_angel pleased squirt_into_hand "Amazing..."
+    lindsey hospital_bed_angel pleased squirt_into_hand "Amazing..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1203
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_1d02fc98:
@@ -3337,10 +3337,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c84a5160:
     "And I refuse to just let her soak in her juices."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1216
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b8b2b952:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_fbe9916d:
 
-    # lindsey hospital_bed blush napkin_dab "Thank you..."
-    lindsey hospital_bed blush napkin_dab "Thank you..."
+    # lindsey hospital_bed_angel blush napkin_dab "Thank you..."
+    lindsey hospital_bed_angel blush napkin_dab "Thank you..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1217
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4d2daba2:
@@ -3349,10 +3349,10 @@ translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_4d2daba2:
     mc "Don't mention it!"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1218
-translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_c0319164:
+translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_5c03b3d2:
 
-    # lindsey hospital_bed blush napkin_dab "You can't either... no one can know..."
-    lindsey hospital_bed blush napkin_dab "You can't either... no one can know..."
+    # lindsey hospital_bed_angel blush napkin_dab "You can't either... no one can know..."
+    lindsey hospital_bed_angel blush napkin_dab "You can't either... no one can know..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_angel.rpy:1219
 translate crowdin quest_lindsey_angel_hospital_hospital_glass_door_b7132fe3:

@@ -1,306 +1,306 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:106
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:112
 translate crowdin home_bedroom_bed_interact_smash_or_pass_beeping_65c0f802:
 
     # "With that blasted thing going off, there ain't no rest for the wicked."
     "With that blasted thing going off, there ain't no rest for the wicked."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:110
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:116
 translate crowdin home_bedroom_bed_interact_smash_or_pass_dd30775b:
 
     # "Ah, the softness of my pillow! Going back to sleep is one of my last few pleasures in life."
     "Ah, the softness of my pillow! Going back to sleep is one of my last few pleasures in life."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:111
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:117
 translate crowdin home_bedroom_bed_interact_smash_or_pass_a20cefa7:
 
     # "..."
     "..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:112
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:118
 translate crowdin home_bedroom_bed_interact_smash_or_pass_7daa0e56:
 
     # "Those texts last night. That's so weird. No one has texted me in years. How did that person even get my number?"
     "Those texts last night. That's so weird. No one has texted me in years. How did that person even get my number?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:113
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:119
 translate crowdin home_bedroom_bed_interact_smash_or_pass_121b19dd:
 
     # "No more sleep for me, it seems. Might as well get up. The bathroom calls."
     "No more sleep for me, it seems. Might as well get up. The bathroom calls."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:117
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:123
 translate crowdin home_bedroom_bed_interact_dress_to_the_nine_14d12604:
 
     # "Rest is for the dead... and those who don't have a bus to catch. The former would be my choice if I had one."
     "Rest is for the dead... and those who don't have a bus to catch. The former would be my choice if I had one."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:121
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:127
 translate crowdin home_bedroom_bed_interact_back_to_school_special_e4a1f821:
 
     # "If only. But [jo]'s waiting downstairs."
     "If only. But [jo]'s waiting downstairs."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:125
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:131
 translate crowdin home_bedroom_bed_interact_isabelle_tour_b5562f1d:
 
     # "Thread count: 400."
     "Thread count: 400."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:126
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:132
 translate crowdin home_bedroom_bed_interact_isabelle_tour_ad3520ce:
 
     # "Girl count: 0."
     "Girl count: 0."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:130
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:136
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_courage_badge_8dd0c84e:
 
     # "Sleeping would be nice, but the new porn collection isn't going to start itself. Now's a good time for it."
     "Sleeping would be nice, but the new porn collection isn't going to start itself. Now's a good time for it."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:131
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:137
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_courage_badge_2e04c3b6:
 
     # "Always sleep better after getting off, anyway."
     "Always sleep better after getting off, anyway."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:135
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:141
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_3e019131:
 
     # "Ah, finally! There's nothing better than lying down after a long day."
     "Ah, finally! There's nothing better than lying down after a long day."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:136
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:142
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_8bbfcd46:
 
     # "My mind needs rest for all the new challenges tomorrow."
     "My mind needs rest for all the new challenges tomorrow."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:143
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:149
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_a20cefa7:
 
     # "..."
     "..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:144
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:150
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_a621b733:
 
     # "Trying to fall asleep is one of my least favorite activities."
     "Trying to fall asleep is one of my least favorite activities."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:145
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:151
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_5811ca84:
 
     # "My mind keeps wandering to old embarrassments and failures."
     "My mind keeps wandering to old embarrassments and failures."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:147
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:153
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_4cbe89e4:
 
     # "Huh?"
     "Huh?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:148
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:154
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_50b32835:
 
     # "Was that my phone?"
     "Was that my phone?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:153
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:159
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_84927830:
 
     # hidden_number "I really shouldn't be messaging you, but I just wanted to say that you've done well today."
     hidden_number "I really shouldn't be messaging you, but I just wanted to say that you've done well today."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:154
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:160
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_85b75762:
 
     # hidden_number "Some mistakes, granted. But you're still learning."
     hidden_number "Some mistakes, granted. But you're still learning."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:155
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:161
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_f06f6b9c:
 
     # "Who are you? Seriously? Why do you keep spying on me?"
     "Who are you? Seriously? Why do you keep spying on me?"
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:156
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:162
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_dbe0c717:
 
     # hidden_number "I'm no one special, but I am proud of you."
     hidden_number "I'm no one special, but I am proud of you."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:159
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:165
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_d130ff42:
 
     # "Why is everyone suddenly proud of me! There's no way the old me would've had it this easy."
     "Why is everyone suddenly proud of me! There's no way the old me would've had it this easy."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:160
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:166
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_91f1cd21:
 
     # "To be honest, it still feels like a practical joke."
     "To be honest, it still feels like a practical joke."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:161
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:167
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_87e860fb:
 
     # "They must have an agenda in all of this, else they wouldn't be so persistent."
     "They must have an agenda in all of this, else they wouldn't be so persistent."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:164
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:170
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_a40ca7e2:
 
     # "Can we meet? I'd like to talk to you about a few things."
     "Can we meet? I'd like to talk to you about a few things."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:167
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:173
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_a20cefa7_1:
 
     # "..."
     "..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:168
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:174
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_a20cefa7_2:
 
     # "..."
     "..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:169
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:175
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_a20cefa7_3:
 
     # "..."
     "..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:170
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:176
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_8ffce313:
 
     # "No answer. How typical."
     "No answer. How typical."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:172
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:178
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_b6810919:
 
     # "Oh, well..."
     "Oh, well..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:173
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:179
 translate crowdin home_bedroom_bed_interact_kate_blowjob_dream_sleep_12d029af:
 
     # "Sleep, take me!"
     "Sleep, take me!"
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:186
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:192
 translate crowdin home_bedroom_bed_interact_kate_blowjob_open_door_84554908:
 
     # "So many crusty white stains on these sheets..."
     "So many crusty white stains on these sheets..."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:187
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:193
 translate crowdin home_bedroom_bed_interact_kate_blowjob_open_door_787b3c9b:
 
     # "I really need to stop drinking milk in bed."
     "I really need to stop drinking milk in bed."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:191
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:197
 translate crowdin home_bedroom_bed_interact_kate_blowjob_alarm_68c28f7e:
 
     # "Could definitely sleep for a while longer, but once prone it's hard to get up again."
     "Could definitely sleep for a while longer, but once prone it's hard to get up again."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:198
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:204
 translate crowdin home_bedroom_bed_interact_sleep_7b854a1e:
 
     # "My work here is done."
     "My work here is done."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:210
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:216
 translate crowdin home_bedroom_bed_interact_force_sleep_2b57cdb7:
 
     # "An evil energy disturbs my sleep."
     "An evil energy disturbs my sleep."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:211
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:217
 translate crowdin home_bedroom_bed_interact_force_sleep_d5fc941f:
 
     # "Darkness on the horizon."
     "Darkness on the horizon."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:212
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:218
 translate crowdin home_bedroom_bed_interact_force_sleep_c253af4b:
 
     # "Black eyes. Beaks and talons."
     "Black eyes. Beaks and talons."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:213
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:219
 translate crowdin home_bedroom_bed_interact_force_sleep_19b5cb8d:
 
     # "Wings of shadow."
     "Wings of shadow."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:214
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:220
 translate crowdin home_bedroom_bed_interact_force_sleep_88b63399:
 
     # "Ravaging the holy land — the field of glory."
     "Ravaging the holy land — the field of glory."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:215
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:221
 translate crowdin home_bedroom_bed_interact_force_sleep_7907056f:
 
     # "It seems to be coming from the forest glade."
     "It seems to be coming from the forest glade."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:241
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:247
 translate crowdin home_bedroom_bed_interact_force_sleep_2b57cdb7_1:
 
     # "An evil energy disturbs my sleep."
     "An evil energy disturbs my sleep."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:242
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:248
 translate crowdin home_bedroom_bed_interact_force_sleep_d5fc941f_1:
 
     # "Darkness on the horizon."
     "Darkness on the horizon."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:243
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:249
 translate crowdin home_bedroom_bed_interact_force_sleep_c253af4b_1:
 
     # "Black eyes. Beaks and talons."
     "Black eyes. Beaks and talons."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:244
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:250
 translate crowdin home_bedroom_bed_interact_force_sleep_19b5cb8d_1:
 
     # "Wings of shadow."
     "Wings of shadow."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:245
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:251
 translate crowdin home_bedroom_bed_interact_force_sleep_88b63399_1:
 
     # "Ravaging the holy land — the field of glory."
     "Ravaging the holy land — the field of glory."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:246
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:252
 translate crowdin home_bedroom_bed_interact_force_sleep_7907056f_1:
 
     # "It seems to be coming from the forest glade."
     "It seems to be coming from the forest glade."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:271
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:277
 translate crowdin home_bedroom_bed_interact_force_sleep_4df2d2cf:
 
     # "Rest is for the dead."
     "Rest is for the dead."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:272
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:278
 translate crowdin home_bedroom_bed_interact_force_sleep_e89bdcb9:
 
     # "And those who are afraid of energy drinks."
     "And those who are afraid of energy drinks."
 
-# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:276
+# game/1000_base_game/game/locations/home/bedroom/int_bed.rpy:282
 translate crowdin home_bedroom_bed_interact_jacklyn_statement_831b218b:
 
     # "Nothing under here apart from old dust and playboy bunnies."

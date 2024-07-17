@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
 # game/1000_base_game/game/characters/jacklyn/season_1/q_jacklyn_broken_fuse.rpy:3
 translate crowdin jacklyn_quest_jacklyn_broken_fuse_start_a0d205f9:

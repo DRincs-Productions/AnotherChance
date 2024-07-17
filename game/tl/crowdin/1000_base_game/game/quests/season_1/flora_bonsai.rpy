@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-06-27 19:24
+﻿# TODO: Translation updated at 2024-07-17 11:24
 
 # game/1000_base_game/game/quests/season_1/flora_bonsai.rpy:397
 translate crowdin quest_flora_bonsai_water_prompt_b8b14a46:
