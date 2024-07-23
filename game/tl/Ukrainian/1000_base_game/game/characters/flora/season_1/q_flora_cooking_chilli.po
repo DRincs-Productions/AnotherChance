@@ -1,0 +1,1994 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.po\n"
+"X-Crowdin-File-ID: 12974\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2024-07-23 09:45\n"
+
+# TODO: Translation updated at 2024-07-17 11:24 #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:8 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586:
+msgid "You picked up a cooking item. Is it the right one? No one knows."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:27 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586_1:
+msgid "You picked up a cooking item. Is it the right one? No one knows."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:44 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586_2:
+msgid "You picked up a cooking item. Is it the right one? No one knows."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:59 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586_3:
+msgid "You picked up a cooking item. Is it the right one? No one knows."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:76 #-#-# translate crowdin flora_cooking_chilli_drawer_interact_c1c15586_4:
+msgid "You picked up a cooking item. Is it the right one? No one knows."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:88 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_a0fa02a5:
+msgid "[_flora_s_excited_] I've been looking for you!"
+msgstr "[_flora_s_excited_] Я тебе шукала!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:89 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_37e3e009:
+msgid "[_mc_] Okay, now I'm officially worried."
+msgstr "[_mc_] Гаразд, тепер я офіційно починаю хвилюватися."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:90 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_bb72baca:
+msgid "[_flora_s_concerned_] What's that supposed to mean?"
+msgstr "[_flora_s_concerned_] Що це має означати?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:91 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_d2878f6f:
+msgid "[_flora_s_concerned_] Whatever. I don't want to know."
+msgstr "[_flora_s_concerned_] Неважливо. Я не хочу знати."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:92 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_08db0d71:
+msgid "[_mc_] You really don't."
+msgstr "[_mc_] Справді не хочеш."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:93 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_5dec4acf:
+msgid "[_flora_s_cringe_] What did you do?"
+msgstr "[_flora_s_cringe_] Що ти вже зробив?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:94 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_ec9d0d1b:
+msgid "[_mc_] What didn't I do?"
+msgstr "[_mc_] Що я ще не робив?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:95 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_c56e37fe:
+msgid "[_flora_s_cringe_] Gross."
+msgstr "[_flora_s_cringe_] Гидота."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:96 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_23cf38a6:
+msgid "I'd love to know what images just popped up in her head."
+msgstr "Цікаво було б дізнатися, які картини зараз виникли у неї в голові."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:97 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_d1798798:
+msgid "She really does have a low opinion of me. The question is, how low?"
+msgstr "Вона справді невисокої думки про мене. Питання лише тому, наскільки низької?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:98 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_289b713b:
+msgid "[_mc_] So, why were you looking for me?"
+msgstr "[_mc_] То навіщо ти мене шукала?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:99 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_7805f849:
+msgid "[_flora_s_excited_] I've decided to cook for the place I'm interning at this fall."
+msgstr "[_flora_s_excited_] Я вирішила приготувати щось для місця, де проходжу стажування цієї осені."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:100 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_02666a72:
+msgid "[_flora_s_concerned_] I need you to pick up the big pot in the school kitchen and bring it home."
+msgstr "[_flora_s_concerned_] Мені потрібно, щоб ти взяв велику каструлю на шкільній кухні і приніс її додому."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:101 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_0a0ee8ae:
+msgid "[_flora_s_concerned_] It's too heavy for me."
+msgstr "[_flora_s_concerned_] Вона надто важка для мене."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:102 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_b9b653f6:
+msgid "[_flora_s_confident_] And if you don't do it, I'll tell [jo] you broke into the bathroom when I was showering again."
+msgstr "[_flora_s_confident_] І якщо ти її не принесеш, я скажу [jo], що ти знову вдерся до ванної, коли я приймала душ."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:103 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_d615b134:
+msgid "[_mc_] You wouldn't..."
+msgstr "[_mc_] Ти не..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:104 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_600d6051:
+msgid "[_flora_s_excited_] She said she'd cut off your internet cord if you did it again, remember?"
+msgstr "[_flora_s_excited_] Вона сказала, що переріже тобі інтернет, якщо ти зробиш це ще раз, пам'ятаєш?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:105 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_d0cb9683:
+msgid "[_mc_] I do remember that... like it was yesterday."
+msgstr "[_mc_] Я пам'ятаю це... наче це було вчора."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:106 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_41553d4d:
+msgid "[_flora_s_angry_] It was yesterday!"
+msgstr "[_flora_s_angry_] Це і було вчора!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:107 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_2004146e:
+msgid "Ugh, time travel certainly does mess with your memory."
+msgstr "Тьху, подорож у часі, безумовно, псує пам'ять."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:108 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_2cd8c050:
+msgid "[_mc_] Fine, I'll do it."
+msgstr "[_mc_] Гаразд, я зроблю це."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:109 #-#-# translate crowdin flora_quest_flora_cooking_chilli_start_5f5b1315:
+msgid "[_flora_s_excited_] Good!"
+msgstr "[_flora_s_excited_] Прекрасно!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:122 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_5dff6b43:
+msgid "[_flora_] That took some time."
+msgstr "[_flora_] Це зайняло деякий час."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:123 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_b791aa27:
+msgid "[_flora_] Did you at least bring the pot?"
+msgstr "[_flora_] Ти хоча б каструлю приніс?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:126 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:129 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_365f5767:
+msgid "[_mc_] Yes, here you go!"
+msgstr "[_mc_] Так, тримай!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:131 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_83fdeb2b:
+msgid "[_flora_s_afraid_] Just like that?"
+msgstr "[_flora_s_afraid_] Отак просто?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:132 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_21a73aa2:
+msgid "[_flora_s_afraid_] No annoying back and forth? No arguing?"
+msgstr "[_flora_s_afraid_] Ніяких дратівливих \"спробуй упіймай\"? Ніяких суперечок?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:133 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_c1e79756:
+msgid "[_mc_] I think you have me confused with someone else."
+msgstr "[_mc_] Я думаю, ти мене з кимось переплутала."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:134 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_bbff1738:
+msgid "[_flora_s_concerned_] I think not."
+msgstr "[_flora_s_concerned_] Не думаю."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:135 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_f5ea3169:
+msgid "[_mc_] Well, no funny business this time. I'm trying to get out of my old habits."
+msgstr "[_mc_] Ну, цього разу без жартів. Я намагаюся позбутися старих звичок."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:137 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_d11e48c1:
+msgid "[_flora_s_smile_] That's good to hear."
+msgstr "[_flora_s_smile_] Приємно чути."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:140 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_8fc3f519:
+msgid "[_mc_] Yes, but you're going to have to pay me in food."
+msgstr "[_mc_] Так, але тобі доведеться розрахуватися зі мною їжею."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:141 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_a95b62e7:
+msgid "[_flora_s_laughing_] Oh, I was hoping you'd be my guinea pig!"
+msgstr "[_flora_s_laughing_] О, я думала, що тебе доведеться вмовляти, щоб ти став моїм піддослідним кроликом!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:142 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_25e2a543:
+msgid "[_mc_] Err... on second thought—"
+msgstr "[_mc_] Емм... якщо подумати—"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:143 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_d2362ecf:
+msgid "[_flora_s_laughing_] Too late! You're going to eat and you're going to smile..."
+msgstr "[_flora_s_laughing_] Пізно! Ти їстимеш і посміхатимешся..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:144 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_eb37ee6d:
+msgid "[_flora_s_angry_] ...or I'm telling [jo] you ruined my cooking. I know you're on thin ice right now."
+msgstr "[_flora_s_angry_] ...або я скажу [jo], що ти зіпсував мою страву. Я знаю, що ти зараз ходиш по тонкому льоду."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:145 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_03c31274:
+msgid "[_mc_] Ugh, you're such a freaking child. Fine..."
+msgstr "[_mc_] Ох, ти поводишся, як довбана дитина. Гаразд..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:146 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_8cbcdf5d:
+msgid "[_flora_s_excited_] Sweet."
+msgstr "[_flora_s_excited_] Мило."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:150 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_4c02e1d7:
+msgid "[_mc_] Don't talk to me like that."
+msgstr "[_mc_] Не розмовляй зі мною так."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:152 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_ff5ff03b:
+msgid "[_flora_s_confident_] What are you going to do about it?"
+msgstr "[_flora_s_confident_] А що ти мені зробиш?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:153 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_de3d6bbb:
+msgid "[_mc_] I'll release your ant farm again."
+msgstr "[_mc_] Я знову звільню твій мурашник."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:154 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_0e24fb53:
+msgid "[_flora_s_embarrassed_] You can't! They're not ready to face the real world!"
+msgstr "[_flora_s_embarrassed_] Ти не можеш! Вони ще не готові зіткнутися з реальним світом!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:155 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_ffce5d4f:
+msgid "[_flora_s_embarrassed_] You'll be in so much trouble!"
+msgstr "[_flora_s_embarrassed_] У вас будуть великі неприємності!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:156 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_f3d91fc7:
+msgid "[_mc_] Some things are worth suffering for."
+msgstr "[_mc_] Деякі речі варті того, щоб за них страждати."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:157 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_dd4a528d:
+msgid "[_flora_s_sad_] Okay, I'm sorry. Thanks for bringing the pot!"
+msgstr "[_flora_s_sad_] Гаразд, вибач. Дякую, що приніс каструлю!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:158 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_8765b4cb:
+msgid "[_mc_] You're welcome!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:162 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_069d8f84:
+msgid "[_flora_s_smile_] I'm just going to put this here."
+msgstr "[_flora_s_smile_] Так, поставлю її тут."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:164 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_6e81a916:
+msgid "[_mc_] What are you cooking anyway?"
+msgstr "[_mc_] Що ти взагалі готуєш?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:165 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_c79f3cc4:
+msgid "[_flora_s_thinking_] I'm making chili."
+msgstr "[_flora_s_thinking_] Я готую чилі."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:166 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_7744c91c:
+msgid "[_flora_s_flirty_] Extra hot."
+msgstr "[_flora_s_flirty_] Дуже гарячий."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:167 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_814f70ff:
+msgid "Damn it, [flora]. Why do you have to do this to me?"
+msgstr "Чорт забирай, [flora]. За що ти так зі мною?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:168 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_b89787ff:
+msgid "It's so hard to think straight when she's always teasing."
+msgstr "Так важко мислити тверезо, коли вона постійно дражниться."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:169 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_46d21327:
+msgid "[_flora_s_neutral_] I found the recipe while surfing on your computer."
+msgstr "[_flora_s_neutral_] Я знайшла цей рецепт в інеті,  коли сиділа за твоїм комп'ютером."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:170 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_11455b53:
+msgid "[_mc_] What?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:171 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_e8dfec7e:
+msgid "[_mc_] How did you get on my computer?"
+msgstr "[_mc_] Як ти взагалі увійшла в мій пк?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:172 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_eed187f3:
+msgid "[_flora_s_confident_] You left it logged in while going to the bathroom. You have a weird web browser, by the way!"
+msgstr "[_flora_s_confident_] Ти залишив його увімкненим, поки виходив до туалету. До речі, у тебе доволі дивний браузер!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:173 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_1c1cb79c:
+msgid "[_mc_] Ugh. I forgot how annoying you are."
+msgstr "[_mc_] Пфф. Я й забув, яка ти дратівлива."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:174 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_ecbebd1e:
+msgid "[_mc_] Wait a minute. Did you use the Tor browser?"
+msgstr "[_mc_] Зачекай хвилинку. Ти використовувала браузер Tor?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:175 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_22875b57:
+msgid "[_flora_s_neutral_] Yep."
+msgstr "[_flora_s_neutral_] Так."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:176 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_50898a7d:
+msgid "[_mc_] You found the recipe on the dark web?"
+msgstr "[_mc_] Ти знайшла рецепт в даркнеті?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:177 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_ce29963d:
+msgid "[_flora_s_excited_] It was cheap, too! Only had to pay five bitcoins."
+msgstr "[_flora_s_excited_] До того ж, це було дешево! Треба було заплатити лише п'ять біткоїнів."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:178 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_32123090:
+msgid "[_mc_] Five bitcoins?! What?!"
+msgstr "[_mc_] П'ять біткоїнів?! Що за?!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:179 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_2543326c:
+msgid "[_flora_s_laughing_] I'm kidding! I'm not as clueless as you think."
+msgstr "[_flora_s_laughing_] Жартую! Я не така дурна, як ти думаєш."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:180 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_b07f5128:
+msgid "[_flora_s_laughing_] You should've seen your face!"
+msgstr "[_flora_s_laughing_] Бачив би ти своє обличчя!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:181 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_a5598472:
+msgid "[_flora_s_excited_] Anywho! I'm going to start cutting up the chili peppers."
+msgstr "[_flora_s_excited_] Пофіг! Почну нарізати перець чилі."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:182 #-#-# translate crowdin flora_quest_flora_cooking_chilli_give_pot_063fc08e:
+msgid "[_flora_] Can you hand me a knife first and then a cutting board, please?"
+msgstr "[_flora_] Подай мені, будь ласка, спочатку ніж, а потім нарізну дошку."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:196 #-#-# translate crowdin flora_quest_flora_cooking_chilli_chilli_recipe_step_one_0810d32b:
+msgid "[_flora_s_sad_] [mc]..."
+msgstr "[_flora_s_sad_] [mc]..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:197 #-#-# translate crowdin flora_quest_flora_cooking_chilli_chilli_recipe_step_one_90f87446:
+msgid "[_flora_s_sad_] We haven't even made it past the first step."
+msgstr "[_flora_s_sad_] Ми навіть перший крок не можемо пройти."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:198 #-#-# translate crowdin flora_quest_flora_cooking_chilli_chilli_recipe_step_one_2450f9cf:
+msgid "[_flora_s_afraid_] I'm not sad. I'm just disappointed."
+msgstr "[_flora_s_afraid_] Я не засмучена. Просто розчарована."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:199 #-#-# translate crowdin flora_quest_flora_cooking_chilli_chilli_recipe_step_one_1d3f9422:
+msgid "[_flora_s_sad_] Please bring me a knife first and then a cutting board."
+msgstr "[_flora_s_sad_] Будь ласка, подай спочатку ніж, а вже потім дошку."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:200 #-#-# translate crowdin flora_quest_flora_cooking_chilli_chilli_recipe_step_one_51882e23:
+msgid "[_flora_s_sad_] In that order."
+msgstr "[_flora_s_sad_] В такому порядку."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:203 #-#-# translate crowdin flora_quest_flora_cooking_chilli_chilli_recipe_step_one_5e8bcc79:
+msgid "[_mc_] So, I brought you the pot. Can I go to my room now?"
+msgstr "[_mc_] Я приніс тобі каструлю. Можна вже піду до себе в кімнату?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:204 #-#-# translate crowdin flora_quest_flora_cooking_chilli_chilli_recipe_step_one_02a6a76f:
+msgid "[_flora_s_angry_] Weren't you listening?! I need to start cutting the chili."
+msgstr "[_flora_s_angry_] Ти взагалі не слухав?! Треба почати нарізати чилі."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:205 #-#-# translate crowdin flora_quest_flora_cooking_chilli_chilli_recipe_step_one_dc210c2d:
+msgid "[_flora_s_angry_] Bring me a knife first and then a cutting board."
+msgstr "[_flora_s_angry_] Принеси мені спочатку ніж, а потім кухонну дошку."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:206 #-#-# translate crowdin flora_quest_flora_cooking_chilli_chilli_recipe_step_one_318abb82:
+msgid "[_flora_s_annoyed_] In that order!"
+msgstr "[_flora_s_annoyed_] В такому порядку!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:212 #-#-# translate crowdin flora_quest_flora_cooking_chilli_drawer_check_with_flora_d6cedc54:
+msgid "I already got enough items. I should give them to [flora]."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:221 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_5a112df5:
+msgid "[_flora_s_excited_] Finally!"
+msgstr "[_flora_s_excited_] Нарешті!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:222 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_18334796:
+msgid "[_flora_s_excited_] I mean, you could certainly have done that faster, but I appreciate the help!"
+msgstr "[_flora_s_excited_] Типу, ти звісно, міг би зробити це швидше, але спасибі за допомогу!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:223 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_e45cd792:
+msgid "[_mc_] Gee, thanks."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:224 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_0607793b:
+msgid "[_flora_s_neutral_] I think this is going to be the best chili ever!"
+msgstr "[_flora_s_neutral_] Думаю, це буде найкращий чилі в історії!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:225 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_e07d5ee6:
+msgid "[_flora_s_neutral_] The people at my internship are going to love it!"
+msgstr "[_flora_s_neutral_] Люди на моїй практиці будуть у захваті!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:226 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_3984ef90:
+msgid "[_flora_s_excited_] Want to have a taste?"
+msgstr "[_flora_s_excited_] Хочеш спробувати?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:229 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:233 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_e1218cab:
+msgid "[_mc_] No, thanks. I think I'll pass."
+msgstr "[_mc_] Ні, дякую. Думаю, я пас."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:235 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_e7eadd89:
+msgid "[_flora_s_angry_] Rude."
+msgstr "[_flora_s_angry_] Грубо."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:236 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_3dc8e9ad:
+msgid "[_flora_s_angry_] Fine, more for me!"
+msgstr "[_flora_s_angry_] Гаразд, мені більше дістанеться!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:237 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_9c5ba08c:
+msgid "Probably dodged a bullet there."
+msgstr "Зараз я, мабуть, ухилився від кулі."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:241 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_fcb4e2b9:
+msgid "[_mc_] Okay, sure. How bad can it be?"
+msgstr "[_mc_] Звісно. Не може ж все може бути настільки погано?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:243 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_f7df9440:
+msgid "[_flora_s_confident_] Okay. Choo-choo! Open up, here comes the train!"
+msgstr "[_flora_s_confident_] Гаразд. Чух-чух! Відкривай ротик, потяг їде!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:244 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_99540e6d:
+msgid "[_mc_] Can you not?"
+msgstr "[_mc_] Можна без цього?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:245 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_831c812b:
+msgid "[_flora_s_concerned_] Fine."
+msgstr "[_flora_s_concerned_] Добре."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:246 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_86dc6cd7:
+msgid "Probably going to regret this later, but here goes..."
+msgstr "Напевно, зараз я про це пошкодую, але..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:247 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_2b35b6fe:
+msgid "[_mc_] ..."
+msgstr "[_mc_] ..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:248 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_3f5d9ddd:
+msgid "[_flora_s_excited_] Yummy?"
+msgstr "[_flora_s_excited_] Смачно?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:249 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c03f81da:
+msgid "[_mc_] {i}*Cough, cough*{/}"
+msgstr "[_mc_] {i}*Кхм, Кхм*{/}"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:250 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c36a3a60:
+msgid "[_mc_] Yes, lovely..."
+msgstr "[_mc_] Так, з любов'ю..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:251 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_7ed1435d:
+msgid "[_flora_s_laughing_] Yay!"
+msgstr "[_flora_s_laughing_] Ура!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:259 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_cde9eb32:
+msgid "[_flora_s_angry_] Okay, that should do the trick."
+msgstr "[_flora_s_angry_] Гаразд, це повинно спрацювати."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:260 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_a42703ef:
+msgid "[_flora_s_angry_] Now, I just need to purge these spoons of your unholy taint."
+msgstr "[_flora_s_angry_] Тепер мені лише потрібно очистити ці ложки від твого брудного сліду."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:261 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_cffc3eab:
+msgid "[_mc_] Make sure you cite the right bible verses..."
+msgstr "[_mc_] Переконайся, що ти цитуєш правильні рядки з Біблії..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:262 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_cb5e05f6:
+msgid "[_flora_s_confident_] Oh, I know them by heart."
+msgstr "[_flora_s_confident_] О, я знаю їх напам'ять."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:263 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_1bf2c6e1:
+msgid "[_flora_s_confident_] While I perform this exorcism, bring me a pan, a shot glass, a measuring beaker, and flour. In that order."
+msgstr "[_flora_s_confident_] Поки я здійснюватиму цей обряд, принеси мені каструлю, чарку, мірну склянку і борошно. Саме в такому порядку."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:264 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_97e39139:
+msgid "[_mc_] Whatever you say, chef."
+msgstr "[_mc_] Як скажете, шеф."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:276 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_373e5269:
+msgid "[_flora_s_smile_] Thank you."
+msgstr "[_flora_s_smile_] Дякую."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:277 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_82e7eba7:
+msgid "[_mc_] I licked one of them."
+msgstr "[_mc_] Я лизнув одну з них."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:278 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_095fe222:
+msgid "[_flora_s_cringe_] Why?"
+msgstr "[_flora_s_cringe_] Навіщо?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:279 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_2ca2e4f3:
+msgid "[_mc_] I thought it'd bring some extra flavor."
+msgstr "[_mc_] Я подумав, що це додасть особливого шарму."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:280 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c56e37fe:
+msgid "[_flora_s_cringe_] Gross."
+msgstr "[_flora_s_cringe_] Гидота."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:281 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_b5f0123a:
+msgid "[_flora_s_cringe_] I'll have to wash it now."
+msgstr "[_flora_s_cringe_] Тепер я мушу її вимити."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:282 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_deb9986d:
+msgid "[_mc_] That's the price you pay for making me help."
+msgstr "[_mc_] Це ціна, яку ти платиш за те, що змусила мене допомагти."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:283 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_bf2b5e33:
+msgid "[_flora_s_annoyed_] Okay, while I clean this off. Put a spoonful of spices in the pot."
+msgstr "[_flora_s_annoyed_] Гаразд, поки я відмиватиму її, поклади ложку спецій у каструлю."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:293 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_1f3c86b0:
+msgid "[_flora_s_afraid_] Did you get the right spices?"
+msgstr "[_flora_s_afraid_] Ти взяв правильні спеції?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:294 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_4123fda6:
+msgid "[_mc_] You didn't specify so I brought the whole collection..."
+msgstr "[_mc_] Ти не уточнила, тож я приніс весь набір..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:295 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_d8f5ccd2:
+msgid "[_flora_s_eyeroll_] Okay, that's better than none."
+msgstr "[_flora_s_eyeroll_] Гаразд, це краще, ніж нічого."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:297 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_2c3d5aec:
+msgid "[_flora_s_eyeroll_] Put on the apron now."
+msgstr "[_flora_s_eyeroll_] Одягни фартух."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:298 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_acc4e2c4:
+msgid "[_mc_] Me? I thought it was for you."
+msgstr "[_mc_] Я? Думав, це для тебе."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:299 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c51b9085:
+msgid "[_flora_s_confident_] You're the clumsy one here."
+msgstr "[_flora_s_confident_] Ну це ти тут незграбний."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:300 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_4ef7e440:
+msgid "[_mc_] Ugh. What about the grater?"
+msgstr "[_mc_] Ах. А як щодо терки?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:301 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c4d8767f:
+msgid "[_flora_s_thinking_] Did I say a grater? Well, I don't need it."
+msgstr "[_flora_s_thinking_] Я сказала тертку? Ну, вона мені не потрібна."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:302 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_2b35b6fe_1:
+msgid "[_mc_] ..."
+msgstr "[_mc_] ..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:304 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_c8f0c4aa:
+msgid "[_flora_s_laughing_] Bring me two spoons instead!"
+msgstr "[_flora_s_laughing_] Принеси краще дві ложки!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:315 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_56ee99ff:
+msgid "[_flora_s_excited_] Thank you!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:316 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_91bcfd68:
+msgid "[_mc_] So, I'm free to leave?"
+msgstr "[_mc_] То я можу йти?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:317 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_09cabec3:
+msgid "[_flora_s_concerned_] No! I need more help!"
+msgstr "[_flora_s_concerned_] Ні! Мені ще потрібна допомога!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:318 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_7dc7dc25:
+msgid "[_flora_s_concerned_] While I cut the chili peppers, you're going to cut the onion."
+msgstr "[_flora_s_concerned_] Поки я нарізаю перець чилі, ти наріжеш цибулю."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:319 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_cf8a1276:
+msgid "[_mc_] What if I slice off my fingers?"
+msgstr "[_mc_] А якщо я відріжу собі пальці?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:320 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_67423cde:
+msgid "[_flora_s_excited_] Then we're adding them to the pot!"
+msgstr "[_flora_s_excited_] Тоді додамо їх у каструлю!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:321 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_b0f570e5:
+msgid "[_flora_s_neutral_] Don't worry. The knife is really sharp. It won't even hurt."
+msgstr "[_flora_s_neutral_] Не хвилюйся. Ніж дуже гострий. Це навіть не буде боляче."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:322 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_5e7d0a40:
+msgid "[_mc_] Okay, can we stop talking about cutting off my fingers?"
+msgstr "[_mc_] Гаразд, ми можемо припинити говорити про відрізання моїх пальців?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:323 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_35754de5:
+msgid "[_flora_s_excited_] I'll keep it up until you're finished with the onion."
+msgstr "[_flora_s_excited_] Я продовжу, поки ти не закінчиш з цибулею."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:324 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_2b35b6fe_2:
+msgid "[_mc_] ..."
+msgstr "[_mc_] ..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:325 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_d068db4b:
+msgid "[_flora_s_thinking_] I've put the onion on the counter."
+msgstr "[_flora_s_thinking_] Я поклала цибулю на стіл."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:326 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_01d80b3b:
+msgid "[_flora_s_thinking_] Get to the chopping!"
+msgstr "[_flora_s_thinking_] Приступай до нарізки!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:327 #-#-# translate crowdin flora_quest_flora_cooking_chilli_step_one_evaluate_a5f2b569:
+msgid "[_flora_s_laughing_] Noooow!"
+msgstr "[_flora_s_laughing_] Нееегайно!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:340 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_9e5fe86a:
+msgid "[_mc_] I brought what you asked."
+msgstr "[_mc_] Я приніс те, що ти просила."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:341 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_0b5ae3b7:
+msgid "[_flora_s_eyeroll_] What am I supposed to do with this?"
+msgstr "[_flora_s_eyeroll_] Що мені з цим робити?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:343 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_9e5fe86a_1:
+msgid "[_mc_] I brought what you asked."
+msgstr "[_mc_] Я приніс те, що ти просила."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:344 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_582d0ba8:
+msgid "[_flora_s_concerned_] You're messing with me, aren't you?"
+msgstr "[_flora_s_concerned_] Ти знущаєшся наді мною?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:345 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_8ad3262f:
+msgid "[_flora_s_laughing_] I will make you suffer later."
+msgstr "[_flora_s_laughing_] Я змушу тебе страждати потім."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:347 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_9e5fe86a_2:
+msgid "[_mc_] I brought what you asked."
+msgstr "[_mc_] Я приніс те, що ти просила."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:348 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_9aa4fc38:
+msgid "[_flora_s_annoyed_] That's all wrong. Start over."
+msgstr "[_flora_s_annoyed_] Це все неправильно. Починай спочатку."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:350 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_9e5fe86a_3:
+msgid "[_mc_] I brought what you asked."
+msgstr "[_mc_] Я приніс те, що ти просила."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:351 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_c178a3b1:
+msgid "[_flora_s_cringe_] What's this? You think this is a game?"
+msgstr "[_flora_s_cringe_] Що це таке? Ти думаєш, це гра?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:352 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_803d571b:
+msgid "[_flora_s_cringe_] My internship rides on this chili! Get it right!"
+msgstr "[_flora_s_cringe_] Моя практика залежить від цього чилі! Зроби все правильно!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:354 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_9e5fe86a_4:
+msgid "[_mc_] I brought what you asked."
+msgstr "[_mc_] Я приніс те, що ти просила."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:355 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_938d030d:
+msgid "[_flora_s_angry_] What are you? What are you?"
+msgstr "[_flora_s_angry_] Що ти таке? Хто ти?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:356 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_1f53c48a:
+msgid "[_mc_] An idiot sandwich?"
+msgstr "[_mc_] Ідіот з сендвічем?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:357 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_2dca0c79:
+msgid "[_flora_s_angry_] Damn it, [mc]! It's fucking raw!"
+msgstr "[_flora_s_angry_] Чорт забирай, [mc]! Воно, бляха, сире!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:358 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_324c0d00:
+msgid "Ugh, I hate her Gordon Ramsay impression..."
+msgstr "Пфф, ненавиджу її імітацію Гордона Рамзі..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:359 #-#-# translate crowdin flora_quest_flora_cooking_chilli_incorrect_1c3947e5:
+msgid "[_flora_s_laughing_] I need [s]. In that order."
+msgstr "[_flora_s_laughing_] Мені потрібно [s]. В такому порядку."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:368 #-#-# translate crowdin flora_quest_flora_cooking_try_again_716cb683:
+msgid "[_flora_s_sad_] Are you ready to try again?"
+msgstr "[_flora_s_sad_] Готовий спробувати ще раз?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:369 #-#-# translate crowdin flora_quest_flora_cooking_try_again_eb4a8446:
+msgid "[_flora_s_afraid_] I hope you know what you're retrieveing from the drawers this time."
+msgstr "[_flora_s_afraid_] Сподіваюся, ти знаєш, що витягнеш з шухляд цього разу."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:386 #-#-# translate crowdin flora_quest_flora_cooking_chilli_end_7b7e56fc:
+msgid "[_flora_s_confident_] Wow! You did that flawlessly! Not a single mistake! Must be the first time ever."
+msgstr "[_flora_s_confident_] Ого! Ти зробив це бездоганно! Жодної помилки! Мабуть, вперше в житті."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:389 #-#-# translate crowdin flora_quest_flora_cooking_chilli_end_c88c1bb2:
+msgid "[_flora_s_laughing_] And you only messed up [s] times!"
+msgstr "[_flora_s_laughing_] І ти лише напартачив [s] раз!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:390 #-#-# translate crowdin flora_quest_flora_cooking_chilli_end_a91f3fef:
+msgid "[_flora_s_thinking_] I just need you to do one more thing for me now."
+msgstr "[_flora_s_thinking_] Мені просто потрібно, щоб ти зробив для мене ще одну річ."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:391 #-#-# translate crowdin flora_quest_flora_cooking_chilli_end_cb395599:
+msgid "[_mc_] Ugh, what is it?"
+msgstr "[_mc_] Ем, що ще?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:392 #-#-# translate crowdin flora_quest_flora_cooking_chilli_end_8d887225:
+msgid "[_flora_s_flirty_] I want to add a special touch, but I forgot my phone in the bathroom and it has the recipe. Can you get it for me?"
+msgstr "[_flora_s_flirty_] Я хочу додати фінальний штрих, але я забула свій телефон у ванній кімнаті, а в ньому є рецепт. Можеш мені його принести?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:393 #-#-# translate crowdin flora_quest_flora_cooking_chilli_end_9474ae7d:
+msgid "[_mc_] Fine, whatever."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:399 #-#-# translate crowdin flora_quest_flora_cooking_chilli_drawer_end_71846403:
+msgid "Wait."
+msgstr "Зачекати."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:400 #-#-# translate crowdin flora_quest_flora_cooking_chilli_drawer_end_e18ad361:
+msgid "What was inside here again?"
+msgstr "Нагадай, що тут було всередині?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:401 #-#-# translate crowdin flora_quest_flora_cooking_chilli_drawer_end_a724e0ad:
+msgid "Beats me."
+msgstr "Без поняття."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:409 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_0a19dae7:
+msgid "Hmm... where is that coming from?"
+msgstr "Хм... звідки ж цей звук?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:410 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:411 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_999ff132:
+msgid "It's definitely somewhere in this bathroom!"
+msgstr "Це точно десь у цій ванній кімнаті!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:412 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:413 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_4e0daab7:
+msgid "It went to voicemail."
+msgstr "Залишу голосове повідомлення."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:416 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:418 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_3bf6c9bd:
+msgid "[_mc_] Hey, [flora]! I found your phone. Well, if you're listening to this, you already know that."
+msgstr "[_mc_] Гей, [flora]! Я знайшов твій телефон. Ну, якщо ти слухаєш, знать вже знаєш про це."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:419 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_cac52dab:
+msgid "[_mc_] I just wanted to say that it feels like it's been years since we last talked. I missed you more than you know."
+msgstr "[_mc_] Я просто хотів сказати, що таке відчуття, ніби минули роки відколи ми востаннє розмовляли. Я сумував за тобою більше, ніж ти можеш собі уявити."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:422 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_21d19432:
+msgid "[_mc_] Sorry, for not always measuring up, but this time around I'll try to be a better person... and a better friend to you."
+msgstr "[_mc_] Вибач, що я не завжди відповідаю, але цього разу я постараюся бути кращою людиною... і кращим другом для тебе."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:424 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_998a5101:
+msgid "[_mc_] Hey, I found you phone. I also found your browser history on it..."
+msgstr "[_mc_] Ей, я знайшов твій телефон. А також цікаву історію твого браузера..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:427 #-#-# translate crowdin flora_quest_flora_cooking_chilli_call_flora_8ce55132:
+msgid "[_mc_] Really, [flora]? Dragons fucking cars? Not exactly what I expected from you."
+msgstr "[_mc_] Реально, [flora]? Дракони трахають машин? Не зовсім те, що я чекав від тебе."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:438 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_38707dde:
+msgid "[_flora_s_embarrassed_] Aaaaah! [withhpunch]"
+msgstr "[_flora_s_embarrassed_] Аааааааа! [withhpunch]"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:439 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_f991893b:
+msgid "[_mc_] What's wrong, [flora]? Where are your pants?"
+msgstr "[_mc_] Що сталось, [flora]? Де твої штани?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:440 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_224e4fe2:
+msgid "[_flora_s_embarrassed_] I... I... oh my god, it burns!"
+msgstr "[_flora_s_embarrassed_] Я... Я... о бооооже, як пече!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:441 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_1eabe1bd:
+msgid "[_mc_] Did you get chili in your eyes?"
+msgstr "[_mc_] Тобі чилі потрапив в очі?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:442 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_96f02a10:
+msgid "[_flora_s_afraid_] Oh, god! Worse!"
+msgstr "[_flora_s_afraid_] О, Боже! Гірше!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:443 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_736b554b:
+msgid "[_mc_] Where did you get it?"
+msgstr "[_mc_] Куди він попав?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:444 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_fdfd1f8f:
+msgid "[_flora_s_embarrassed_] ..."
+msgstr "[_flora_s_embarrassed_] ..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:445 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_70aac4cb:
+msgid "[_mc_] Oh, I see."
+msgstr "[_mc_] А, зрозумів."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:448 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:451 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_12fed678:
+msgid "[_mc_] Why did you touch yourself while cooking?"
+msgstr "[_mc_] Навіщо ти торкалась себе там під час приготування?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:452 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_362bf261:
+msgid "[_mc_] I mean, how did this even happen?"
+msgstr "[_mc_] Типу, як це взагалі сталося?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:453 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_2888f46d:
+msgid "[_flora_s_afraid_] I... forgot to wash my hands after cutting the chili peppers!"
+msgstr "[_flora_s_afraid_] Я... забула помити руки після нарізання перцю чилі!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:454 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_e3ff9971:
+msgid "[_flora_s_afraid_] Oh my god, it's like fire!"
+msgstr "[_flora_s_afraid_] Боже мій, таке відчуття що я горю!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:455 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_180e4c57:
+msgid "[_mc_] Do you think blowing on it would help?"
+msgstr "[_mc_] Як думаєш, це допоможе, якщо подмухати туди?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:457 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_ece3a0f4:
+msgid "[_flora_s_skeptical_] Screw..."
+msgstr "[_flora_s_skeptical_] Та пішов..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:458 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_c4083637:
+msgid "[_flora_s_skeptical_] You..."
+msgstr "[_flora_s_skeptical_] Ти..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:459 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_8c3f401a:
+msgid "[_flora_s_embarrassed_] Aaaah!"
+msgstr "[_flora_s_embarrassed_] Ааааа!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:462 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_11fdb519_1:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:465 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_3bb9859d:
+msgid "[_mc_] Sounds like you have a bit of a situation on your hands... and in your panties."
+msgstr "[_mc_] Схоже, що у тебе є певні проблеми в руках... і в трусах."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:466 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_4410dafa:
+msgid "She's kinda cute jumping up and down, unable to do anything about it."
+msgstr "Вона мила коли підстрибує вгору-вниз, не в змозі нічого з цим вдіяти."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:469 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_0fc31ffb:
+msgid "[_flora_s_afraid_] You're... the worst..."
+msgstr "[_flora_s_afraid_] Ти... найгірший..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:470 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_33dc5155:
+msgid "[_flora_s_afraid_] Aaaah! Ah, ah, ah, ah!"
+msgstr "[_flora_s_afraid_] Аааа! Ай, ай, ай, ай!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:472 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_44c66280:
+msgid "She ran upstairs, screaming. Probably to wash herself off."
+msgstr "Вона побігла нагору з криком. Напевно, щоб відмитися."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:473 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_96a01b01:
+msgid "I should go check on her."
+msgstr "Піду перевірю, як вона."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:476 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_37fb022b:
+msgid "[_mc_] Can I help somehow?"
+msgstr "[_mc_] Я можу чимось допомогти?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:478 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_67435fa3:
+msgid "[_flora_s_afraid_] Nooo! I need to—"
+msgstr "[_flora_s_afraid_] Ні! Мені потрібно—"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:479 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_605ab060:
+msgid "[_flora_s_afraid_] Ah! I'm burning up!"
+msgstr "[_flora_s_afraid_] Ай! Я вся горю!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:481 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_980da3c1:
+msgid "She ran to the bathroom, better follow."
+msgstr "Вона побігла до туалету, краще піти за нею."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:486 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_37fb022b_1:
+msgid "[_mc_] Can I help somehow?"
+msgstr "[_mc_] Я можу чимось допомогти?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:488 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_67435fa3_1:
+msgid "[_flora_s_afraid_] Nooo! I need to—"
+msgstr "[_flora_s_afraid_] Ні! Мені потрібно—"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:489 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_605ab060_1:
+msgid "[_flora_s_afraid_] Ah! I'm burning up!"
+msgstr "[_flora_s_afraid_] Ай! Я вся горю!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:491 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_980da3c1_1:
+msgid "She ran to the bathroom, better follow."
+msgstr "Вона побігла до туалету, краще піти за нею."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:496 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_7e79fc72:
+msgid "[_mc_] Seriously, I don't even want to know. I'll look after your food while you clean up."
+msgstr "[_mc_] Серйозно, я навіть не хочу знати. Я пригляну за їжею, поки ти там миєшся."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:497 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_bb7c4b08:
+msgid "[_flora_s_afraid_] Aaaah! Thanks! I'm sorry you had to see this!"
+msgstr "[_flora_s_afraid_] Аааа! Дякую! Мені шкода, що тобі довелося це побачити!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:498 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_5ec51200:
+msgid "[_mc_] Oh, no worries. Here's your phone."
+msgstr "[_mc_] О, не хвилюйся. Ось твій телефон."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:501 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_299d125f:
+msgid "[_flora_s_embarrassed_] I regret life!"
+msgstr "[_flora_s_embarrassed_] Яке ж життя фігове!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:502 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_44a85bb9:
+msgid "She ran upstairs to the shower. She'll be fine."
+msgstr "Вона побігла нагору в душ. З нею все буде добре."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:510 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_8707c80f:
+msgid "[_mc_] Hey, [flora]! Do you want me to call someone? [withhpunch]"
+msgstr "[_mc_] Ей, [flora]! Хочеш щоб я комусь подзвонив? [withhpunch]"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:511 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_cc1a3113:
+msgid "[_flora_] {size=25}I, uhhh! I think I got it!{/}"
+msgstr "[_flora_] {size=25}Я, ух! Здається, вийшло!{/}"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:513 #-#-# translate crowdin flora_quest_flora_cooking_return_phone_d05858b5:
+msgid "She's got it. No need for me to get involved. She's more than capable."
+msgstr "Вона впорається. Мені не потрібно втручатися. Вона більш ніж здатна."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:526 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_923c0259:
+msgid "[_flora_s_embarrassed_] Oh my god! Oh my god! Oh my god!"
+msgstr "[_flora_s_embarrassed_] Боже мій! Боже мій! Боже мій!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:527 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_0d06c1f1:
+msgid "[_flora_s_embarrassed_] It's getting worse!"
+msgstr "[_flora_s_embarrassed_] Стає гірше!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:528 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_7f76a8a9:
+msgid "[_mc_] Just take off your clothes and step in the shower."
+msgstr "[_mc_] Просто роздягнися і зайди в душ."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:529 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_4bacf2d8:
+msgid "[_flora_s_afraid_] What? Nooo!"
+msgstr "[_flora_s_afraid_] Що? Нііі!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:530 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_81d3a116:
+msgid "[_flora_s_afraid_] Not with you here!"
+msgstr "[_flora_s_afraid_] Тільки не з тобою!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:531 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_b5f42c62:
+msgid "[_mc_] I've seen you naked before, you know."
+msgstr "[_mc_] Знаєш, я вже бачив тебе голою."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:532 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_e8a364f8:
+msgid "[_flora_s_embarrassed_] Oh my god, it hurts so much! Ow, ow, ow!"
+msgstr "[_flora_s_embarrassed_] Боже, як же боляче! Ау, ау, ау!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:533 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_909d8ffc:
+msgid "[_flora_s_afraid_] Uhhhhhhh!"
+msgstr "[_flora_s_afraid_] Гмммммм!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:534 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_294a8dce:
+msgid "[_mc_] Here, I'll help you."
+msgstr "[_mc_] Давай, я тобі допоможу."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:535 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_5c63e891:
+msgid "[_flora_s_embarrassed_] Oh, man! Buuuut! Owwww!"
+msgstr "[_flora_s_embarrassed_] О, Боже! Алеее! Аййй!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:536 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_4859f4b4:
+msgid "[_flora_s_embarrassed_] Fine, but don't look!"
+msgstr "[_flora_s_embarrassed_] Гаразд, але не дивись!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:537 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_5d91f812:
+msgid "[_mc_] I can't not look!"
+msgstr "[_mc_] Я не можу не дивитися!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:538 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_d8e61d46:
+msgid "[_flora_s_cringe_] I'm going to die!"
+msgstr "[_flora_s_cringe_] Я зараз помру!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:540 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_429a893c:
+msgid "Eyes crackling with dark fire, she pulls the shirt over her head, slamming it to the floor."
+msgstr "Її очі палають темним вогнем, вона зриває з себе футболку і кидає її на підлогу."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:542 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_6a25d615:
+msgid "Her small breasts give a slight bounce as they fall out."
+msgstr "Її маленькі груди злегка пружинять, коли вивалюються."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:543 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_b0ab633a:
+msgid "Stripping in front of an audience is probably on her list of fantasies."
+msgstr "Роздягнутися перед глядачами, напевно, є в списку її фантазій."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:544 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_df43a1f6:
+msgid "But not this particular audience. Not me. Anyone but me."
+msgstr "Але не перед цією публікою. Не переді мною. Хто завгодно, тільки не я."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:545 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_34563de1:
+msgid "Despite the blooming flames in her pussy, every move is slow. Reluctant."
+msgstr "Незважаючи на квітуче полум'я в її кицьці, кожен рух повільний. Неохочий."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:546 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_65a0c86f:
+msgid "[_flora_s_embarrassed_] Stop looking!"
+msgstr "[_flora_s_embarrassed_] Припини дивитися!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:547 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_697215e8:
+msgid "At best, it's a half-hearted attempt at covering her body."
+msgstr "У кращому випадку, це недолуга спроба прикрити своє тіло."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:548 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_898f4f29:
+msgid "In the glistening moisture of her sweat, her freckles twinkle like tiny stars across her skin."
+msgstr "Серед блискучої від поту шкіри мерехтять веснянки, наче крихітні зірочки."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:549 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_393a7e53:
+msgid "The glimpses I've caught of her in the past feel meaningless in comparison."
+msgstr "Ті проблиски, які я бачив її в минулому, здаються безглуздими в порівнянні з цим."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:550 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_9646f6fb:
+msgid "This is different. Intimate."
+msgstr "Це інше. Інтимніше."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:551 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_fa331665:
+msgid "Her ragged breath in my ear as she steadies herself on my shoulder, digging her nails in."
+msgstr "Її уривчасте дихання в моєму вусі, коли вона впивається нігтями в моє плече."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:552 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_c07c3755:
+msgid "Frustration and indignation, but also secret gratitude that I'm here."
+msgstr "Розчарування і обурення, але також таємна вдячність за те, що я тут."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:553 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_5b5f3016:
+msgid "The heat from her body steams my forehead."
+msgstr "Тепло її тіла розпарює моє чоло."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:554 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_bac0d229:
+msgid "Her milky thighs and flat tummy beg for my touch."
+msgstr "Її ніжні бедра і гладенький животик так і просять мого дотику."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:555 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_21289b32:
+msgid "It would be so easy to reach out and grab her by the waist and pull her close."
+msgstr "Було б так легко простягнути руку, схопити її за талію і притягнути до себе."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:556 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_399150ae:
+msgid "Push my lips against hers... run my tongue over her skin... explore every curve and taste..."
+msgstr "Притулитися губами до її губ... провести язиком по її шкірі... дослідити кожен вигин і смак..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:557 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_142ebf3a:
+msgid "But I can't. I'd burn in hell for that."
+msgstr "Але я не можу. Я за це горітиму в пеклі."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:558 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_2a776385:
+msgid "With one eye on me, her fingers slip inside the waistband of her panties. Cautiously, tugging them down her hip bones."
+msgstr "Не зводячи з мене очей, її пальці ковзають по поясу трусиків. Обережно спускаючи їх вниз по стегнах."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:561 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_5fae6b8d:
+msgid "The fires licking her pussy now burn through her body, glowing in embers of embarrassment on her cheeks."
+msgstr "Вогонь, що облизував її кицьку, тепер пронизує все тіло, жевріючи вуглинками збентеження навіть на щоках."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:562 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_2b191f05:
+msgid "The sexual jokes. The teasing. She never meant for it to get real."
+msgstr "Сексуальні жарти. Подразнення. Вона ніколи не хотіла, щоб це стало реальністю."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:563 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_eb3c9af6:
+msgid "She can't bring herself to look me in the eyes. This is one of those moments that she'll never forget."
+msgstr "Вона не може змусити себе подивитися мені в очі. Це один з тих моментів, які вона ніколи не забуде."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:564 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_a742ef97:
+msgid "Utterly naked."
+msgstr "Абсолютно гола."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:565 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_1adeb70a:
+msgid "Unable to hide her perky nipples, her inflamed labia, the peach fuzz between her legs."
+msgstr "Неможливо приховати її пружні соски, запалені статеві губи, персиковий пушок між ногами."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:566 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_41efcf0c:
+msgid "Who does she shave for? Herself? She probably loves to feel sexy in secret."
+msgstr "Для кого вона голиться? Для себе? Напевно, їй подобається відчувати себе сексуальною в таємниці."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:567 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_fbf05ac4:
+msgid "Sliding a hand down her pants when no one's looking. Rubbing the smooth lips of her pussy, coating her fingers in the moisture."
+msgstr "Засовувати руку у штани, коли ніхто не бачить. Терти гладенькі статеві губи, вкриваючи пальці вологою."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:568 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_41a6fd95:
+msgid "They say that girl-next-door-types are the kinkiest. I wonder if she ever puts those fingers in her mouth, tasting herself."
+msgstr "Кажуть, що скромні найзбоченіші. Цікаво, чи брала вона коли-небудь ці пальці до рота, пробуючи себе на смак."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:569 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_6567206e:
+msgid "Does she ever think of me when touching herself? Probably not."
+msgstr "Вона коли-небудь думає про мене, коли торкається себе? Мабуть, ні."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:570 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_e60e010d:
+msgid "Maybe she will from now on."
+msgstr "Можливо, відтепер буде."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:571 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_56111a7e:
+msgid "She bounces on the spot, dizzy with pain, looking to me for guidance and comfort."
+msgstr "Вона стрибає на місці, у неї паморочиться в голові від болю. Все що їй залишається це дивитися на мене в пошуках настанови та розради."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:572 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_03bb01f0:
+msgid "[_flora_s_crying_] I'm going to die!"
+msgstr "[_flora_s_crying_] Я зараз загину!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:573 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_10947772:
+msgid "[_mc_] You're not going to die. Just get in the shower and aim the showerhead between your legs."
+msgstr "[_mc_] Ти не загинеш. Просто стань у душ і направ струмінь води собі між ноги."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:574 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_57d9a3aa:
+msgid "[_flora_s_crying_] Aaah! Ah!"
+msgstr "[_flora_s_crying_] Ааа! Ааа!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:575 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_5fb25f59:
+msgid "She's in too much pain to think straight."
+msgstr "Їй надто боляче, щоб тверезо мислити."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:576 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_608cc3d9:
+msgid "[flora] being naked is nothing new to me, but this feels wrong and inappropriate. But she is suffering..."
+msgstr "Це щось новеньке, бачити [flora] оголеною, але водночас це здається неправильним і недоречним. Але вона страждає..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:579 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:585 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_6e073743:
+msgid "[_flora_] Aah!"
+msgstr "[_flora_] Ааа!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:586 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_be65a85a:
+msgid "Never seen a real vagina this close before. It's so wrinkly and cute. Like a cupcake with filling."
+msgstr "Ніколи не бачив справжню вагіну так близько. Вона така зморшкувата і мила. Як кекс з начинкою."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:587 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_b456d26c:
+msgid "As she spreads her legs, exposing her pussy, strings of sticky natural lubrication cling to inner walls of her vagina."
+msgstr "Коли вона розсовує ноги, оголюючи свою кицьку, ниточки липкої природної змазки прилипають до внутрішніх стінок її вагіни."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:588 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_c5b12a89:
+msgid "Oozing out and mixing with the sheen of sweat on her swollen outer labia."
+msgstr "Витікає і змішується з блиском поту на її набряклих зовнішніх статевих губах."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:589 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_f6aa4325:
+msgid "And the smell is like... hm... there's no good comparison. It's a nice and full smell..."
+msgstr "А запах... хм... немає хорошого порівняння. Приємний і насичений запах..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:590 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_e26a4a52:
+msgid "It just smells like pussy! That's it. Nothing like it."
+msgstr "Пахне кицькою! Точно. Нічого подібного."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:591 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_5bd14c02:
+msgid "They say that every pussy tastes differently."
+msgstr "Кажуть, що кожна кицька має свій смак."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:592 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_1539cbc3:
+msgid "If I stuck out my tongue now, tracing the tip through her folds, would it be sweet?"
+msgstr "Якби я зараз висунув язика, провівши кінчиком по її складках, чи було б це солодко?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:593 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_be5e0637:
+msgid "Would it taste as syrupy and pleasant as I imagine? Or would it be saltier like her personality?"
+msgstr "Чи буде смак таким же сиропоподібним і приємним, як я його собі уявляю? Чи буде солонішим, як її особистість?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:594 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_aff191a8:
+msgid "If only she'd let me swirl my tongue over her clit. Dip it into her vagina. Tickle her asshole."
+msgstr "Якби тільки вона дозволила мені провести язиком по її клітору. Занурити його в її піхву. Взявшись за її дупу."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:595 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_e3fa7b14:
+msgid "I'd take the burning chili any day just to have a taste."
+msgstr "Я б їв пекучий чилі скільки завгодно, аби просто спробувати."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:596 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_7e63eea9:
+msgid "Oh, god. These thoughts are so wrong."
+msgstr "О, Боже. Ці думки такі неправильні."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:597 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_dbcb4944:
+msgid "[_mc_] I'll be gentle."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:598 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_6593857a:
+msgid "[_flora_s_FloraShowerPoseA1_] Oh my god, phrasing!"
+msgstr "[_flora_s_FloraShowerPoseA1_] О боже, ця фраза!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:599 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_55f352e4:
+msgid "[_mc_] Sorry, I'll be gentle the first time."
+msgstr "[_mc_] Вибач, я буду обережним вперше."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:600 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_41a2126a:
+msgid "[_flora_] Shut up!"
+msgstr "[_flora_] Замовкни!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:601 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_98652491:
+msgid "[_flora_s_FloraShowerPoseA1_] Just do it!"
+msgstr "[_flora_s_FloraShowerPoseA1_] Просто зроби це!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:603 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_0c9cacc1:
+msgid "[_flora_] Eeeeeee! Cold, cold, cold! Too cold!"
+msgstr "[_flora_] Ааааааа! Холодна, холодна, холодна! Занадто холодна!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:604 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_c3c9089b:
+msgid "[_mc_] Sorry, thought you wanted to cool down."
+msgstr "[_mc_] Вибач, думав, ти хочеш охолонути."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:605 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_a56f0cd4:
+msgid "[_mc_] Is this better?"
+msgstr "[_mc_] Так краще?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:606 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_bc956369:
+msgid "[_jo_] Everything okay up there?"
+msgstr "[_jo_] Усе гаразд?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:607 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_78eb8881:
+msgid "Oh, no! [jo]'s already home."
+msgstr "О, ні! [jo] вже вдома."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:608 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_50433b8f:
+msgid "[_mc_] Err... Yes! Everything's fine up here, [jo]!"
+msgstr "[_mc_] Емм... Так! Все гаразд, [jo]!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:609 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_08117382:
+msgid "[_jo_] [flora]?"
+msgstr "[_jo_] [flora]?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:610 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_a26067d6:
+msgid "[_mc_] [flora], answer her!"
+msgstr "[_mc_] [flora], відповідай!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:611 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_9bb138fe:
+msgid "[_flora_] Yes, [jo]! I'm fine!"
+msgstr "[_flora_] Так, [jo]! я в порядку!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:612 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_69baf495:
+msgid "[_flora_] Ugh... I'm so not fine..."
+msgstr "[_flora_] Ух... Я взагалі не в порядку..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:613 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_314894e0:
+msgid "[_flora_s_FloraShowerPoseA1_] This isn't working..."
+msgstr "[_flora_s_FloraShowerPoseA1_] Це не працює..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:614 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_6924b829:
+msgid "[_mc_] What should I do?"
+msgstr "[_mc_] Що тоді робити?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:615 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_579f9470:
+msgid "[_flora_] Well, the water isn't working! Get milk or something!"
+msgstr "[_flora_] Ну, вода не працює! Принеси молока або ще чогось!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:616 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_4641b6d9:
+msgid "[_mc_] Oh, right. That's supposed to work. Be right back!"
+msgstr "[_mc_] О, точно. Повинно спрацювати. Зараз повернуся!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:622 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_6191cf54:
+msgid "[_mc_] Here, you're more than capable at handling this yourself."
+msgstr "[_mc_] Ось, ти більш ніж здатна впоратися з цим самостійно."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:623 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_994b498e:
+msgid "[_mc_] I'll wait outside."
+msgstr "[_mc_] Я почекаю зовні."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:626 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_c98a7567:
+msgid "[_flora_s_embarrassed_] That's... really... kind..."
+msgstr "[_flora_s_embarrassed_] Це... дуже... люб'язно..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:627 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_77919a16:
+msgid "[_flora_s_embarrassed_] Aaah! Please don't tell [jo] about this!"
+msgstr "[_flora_s_embarrassed_] Аааа! Будь ласка, не розказуй про це [jo]!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:628 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_94d64b74:
+msgid "[_mc_] Don't worry."
+msgstr "[_mc_] Не хвилюйся."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:629 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_fc694d5d:
+msgid "That took a lot of willpower, but everyone's going to be better off because of it."
+msgstr "Це вимагало великої сили волі, але від цього всі будуть у виграші."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:630 #-#-# translate crowdin flora_quest_flora_cooking_enter_bathroom_ea04cd83:
+msgid "Old me would've done some bad things there, but what's the point of another chance if you're just going to spoil it?"
+msgstr "Старий я зробив б там щось погане, але який сенс у ще одному шансі, якщо ти просто збираєшся його зіпсувати?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:650 #-#-# translate crowdin flora_quest_flora_cooking_get_milk_811885cb:
+msgid "Crap, [jo]'s blocking the mini fridge."
+msgstr "Чорт, [jo] блокує доступ до мініхолодильника."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:651 #-#-# translate crowdin flora_quest_flora_cooking_get_milk_ecb2cd28:
+msgid "Need to get her out of here somehow, without making it suspicious."
+msgstr "Треба якось її відволікти, але так, щоб це не викликало підозр."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:652 #-#-# translate crowdin flora_quest_flora_cooking_get_milk_57280b73:
+msgid "She hates it when I take stuff out of the fridge and bring it upstairs."
+msgstr "Вона ненавидить, коли я дістаю продукти з холодильника і несу їх нагору."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:653 #-#-# translate crowdin flora_quest_flora_cooking_get_milk_40d38d07:
+msgid "She'll interrogate me into confession..."
+msgstr "Вона вибиватиме з мене зізнання..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:662 #-#-# translate crowdin flora_cooking_get_milk_517bc69f:
+msgid "Considering the circumstances, she'd probably kill me if I came back empty-handed."
+msgstr "Враховуючи обставини, вона, напевно, вбила б мене, якби я повернувся з порожніми руками."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:667 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_241cb2d0:
+msgid "[_jo_s_smile_] Hey, kiddo! How's your day?"
+msgstr "[_jo_s_smile_] Привіт, малий! Як пройшов твій день?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:668 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_48004927:
+msgid "[_jo_s_neutral_] Your cheeks are a bit red. You're not coming down with something, are you?"
+msgstr "[_jo_s_neutral_] У тебе щоки трохи почервоніли. Ти ж не занедужав чимось?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:669 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_36b9414e:
+msgid "[_mc_] I'm fine, [jo]."
+msgstr "[_mc_] Я в порядку, [jo]."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:670 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_61d7d078:
+msgid "[_jo_s_neutral_] And why are [flora]'s pants on the floor?"
+msgstr "[_jo_s_neutral_] До речі, чому штани [flora] на підлозі?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:671 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_e4674b37:
+msgid "[_mc_] You know her, [jo]. She's always leaving her stuff everywhere."
+msgstr "[_mc_] Ти знаєш її, [jo]. Вона завжди залишає свої речі всюди."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:672 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_91f7b2ea:
+msgid "[_jo_s_thinking_] Hmm... when it comes to being messy, she's not the first member of this household that pops into my head."
+msgstr "[_jo_s_thinking_] Хм... коли мова заходить про безлад, вона не перший член цієї сім'ї, який спадає мені на думку."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:673 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_5b99f024:
+msgid "[_mc_] Oh, but I think you've become much better at picking up after yourself!"
+msgstr "[_mc_] Можливо, але я думаю, що ти стала краще прибирати за собою останнім часом!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:674 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_502220d2:
+msgid "...And after me."
+msgstr "...І після мене."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:675 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_5d93e09d:
+msgid "[_jo_s_annoyed_] Don't test your luck, young man."
+msgstr "[_jo_s_annoyed_] Не випробуй долю, юначе."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:676 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_a38dc7d1:
+msgid "She's still covering the mini-fridge."
+msgstr "Вона все ще перекриває мініхолодильник."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:677 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_ba63f986:
+msgid "Hmm... what would be the best trick to lure her away?"
+msgstr "Хм... який трюк буде найкращим, щоб виманити її звідси?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:678 #-#-# translate crowdin flora_quest_flora_cooking_chilli_jo_d1e31bd4:
+msgid "Perhaps using some of the kitchen utensils would work..."
+msgstr "Можливо, використання якогось кухонного приладдя підійде..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:692 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_add_item_35b8b41e:
+msgid "I got [s1]."
+msgstr "У мене є [s1]."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:693 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_add_item_73bc4793:
+msgid "I should get a couple more things."
+msgstr "Треба взяти ще кілька речей."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:697 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_add_item_946e7427:
+msgid "I got [s2]."
+msgstr "У мене є [s2]."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:698 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_add_item_53ea73db:
+msgid "With one more item I'll be able to make a distraction."
+msgstr "Ще одна річ, на яку я зможу відволікти її."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:712 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_9b9ad020:
+msgid "All right, put on the apron to look presentable."
+msgstr "Гаразд, одягаємо фартух, щоб виглядати презентабельно."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:713 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_3f7d162c:
+msgid "Put the pan on the stove and turn up the heat."
+msgstr "Ставимо каструлю на плиту і робимо сильний вогонь."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:714 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_a525fe02:
+msgid "A bit of the plastic bag in the pan..."
+msgstr "Трохи поліетиленового пакета на сковороді..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:718 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_385a6762:
+msgid "[_jo_s_concerned_] What is that smell?"
+msgstr "[_jo_s_concerned_] Що це за запах?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:719 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_f5590ac3:
+msgid "[_mc_] Uh, must've been some residue of something left in the pan."
+msgstr "[_mc_] Мабуть, на сковорідці залишилися якісь залишки чогось."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:720 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_607b6c68:
+msgid "[_jo_s_concerned_] My goodness! It smells like molten plastic!"
+msgstr "[_jo_s_concerned_] Боже мій! Пахне розплавленим пластиком!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:721 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_25352b47:
+msgid "[_mc_] I'm sorry, [jo]. I should've checked the pan before putting it on the stove."
+msgstr "[_mc_] Вибач, [jo]. Треба було перевірити каструлю, перш ніж ставити її на плиту."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:722 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_660c8577:
+msgid "[_jo_s_sarcastic_] Don't worry about it."
+msgstr "[_jo_s_sarcastic_] Не хвилюйся про це."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:723 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_01c96991:
+msgid "[_jo_s_sarcastic_] I'm going to go open the door and let some smoke out."
+msgstr "[_jo_s_sarcastic_] Піду відчиню двері і випущу трохи диму."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:725 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_51e5bc5a:
+msgid "Great! Now's my chance."
+msgstr "Чудово! Це мій шанс."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:728 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_2c7ef8b7:
+msgid "Okay, use the lighter to \"accidentally\" set the towel on fire."
+msgstr "Гаразд, використаю запальничку, щоб \"випадково\" підпалити рушник."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:730 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_72f173c6:
+msgid "[_mc_] Oh, shit!"
+msgstr "[_mc_] О, чорт!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:731 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_b8ef45ee:
+msgid "Then, \"accidentally\" drop shot glass so that it shatters."
+msgstr "Потім \"випадково\" кину чарку так, щоб вона розбилася."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:732 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_a20cefa7:
+msgid "..."
+msgstr "..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:733 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_cef78804:
+msgid "Hmm... that didn't work. Need to use some force."
+msgstr "Хм... це не спрацювало. Треба застосувати силу."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:739 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_892b2a30:
+msgid "[_jo_s_concerned_] What's happening?"
+msgstr "[_jo_s_concerned_] Що сталося?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:740 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_7d0b0ddc:
+msgid "[_mc_] I was trying to light a candle, burned my finger on the lighter."
+msgstr "[_mc_] Я намагався запалити свічку, обпік палець об запальничку."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:741 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_87b7e045:
+msgid "[_mc_] I'm sorry I dropped the glass. I know it's one of your favorites."
+msgstr "[_mc_] Вибач, я впустив склянку. Я знаю, що це один з твоїх улюблених."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:742 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_24688d42:
+msgid "[_jo_s_afraid_] Don't worry about the stupid glass. Are you—"
+msgstr "[_jo_s_afraid_] Не хвилюйся про ту дурну склянку. Ти —"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:743 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_67ff4af7:
+msgid "[_jo_s_afraid_] The towel is on fire! Move! [withhpunch]"
+msgstr "[_jo_s_afraid_] Рушник горить! Відійди! [withhpunch]"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:745 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_12b4c2c4:
+msgid "Great. While she's busy putting out the fire and cleaning up the glass, the milk is mine for the taking."
+msgstr "Чудово. Поки вона зайнята тим, що гасить вогонь і прибирає скло, молоко в моїх руках."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:748 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_990da501:
+msgid "So, just put the flour in the beaker..."
+msgstr "Отже, просто висипаємо борошно в склянку..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:749 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_bbef6bfd:
+msgid "Take a whiff of the spices..."
+msgstr "Нюхаємо спеції..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:750 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_a20cefa7_1:
+msgid "..."
+msgstr "..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:753 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_0d751751:
+msgid "Achoo! [withvpunch]"
+msgstr "Апчхи! [withvpunch]"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:758 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_cc92eb76:
+msgid "[_jo_s_concerned_] Oh, my... what happened?"
+msgstr "[_jo_s_concerned_] О, Боже... що сталося?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:759 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_7af78d79:
+msgid "[_mc_] I'm so sorry, I sneezed into the flour bag..."
+msgstr "[_mc_] Вибач, я чхнув в мішок з борошном..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:760 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_a6175c1a:
+msgid "[_jo_s_laughing_] Don't worry about it!"
+msgstr "[_jo_s_laughing_] Не хвилюйся про це!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:761 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_958467d4:
+msgid "[_jo_s_laughing_] You look adorable covered in flour."
+msgstr "[_jo_s_laughing_] Ти виглядаєш чарівно, вкритий борошном."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:762 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_edf92ba6:
+msgid "[_mc_] Thanks, [jo]..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:763 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_14c4623e:
+msgid "[_jo_s_excited_] Go clean up, I'll take care of the kitchen."
+msgstr "[_jo_s_excited_] Іди вмийся, а я займуся кухнею."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:765 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_05ee9848:
+msgid "She's distracted now. The milk shall be mine."
+msgstr "Вона відволіклася. Молоко буде моїм."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:768 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_0c06c190:
+msgid "A little squeeze of ketchup on the finger."
+msgstr "Трохи видавити кетчуп на палець."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:769 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_39aaa22f:
+msgid "Knife and cutting board ready."
+msgstr "Ніж і дошка готові."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:771 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_c1cad6ea:
+msgid "[_mc_] Crap!"
+msgstr "[_mc_] Чорт!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:773 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_d190f714:
+msgid "[_jo_s_concerned_] Oh, honey! Are you okay?"
+msgstr "[_jo_s_concerned_] О, любий! З тобою все гаразд?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:774 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_83fd9e3c:
+msgid "[_mc_] The knife slipped. It's not that bad."
+msgstr "[_mc_] Ніж вислизнув. Все не так вже й погано."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:775 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_026572e5:
+msgid "[_jo_s_afraid_] Wait here, I'll get go get the first aid kit!"
+msgstr "[_jo_s_afraid_] Зачекай тут, я принесу аптечку!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:777 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_bca76ebf:
+msgid "Okay, here's my chance to grab the milk."
+msgstr "Гаразд, ось мій шанс принести молока."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:781 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_19fe11f1:
+msgid "Let's see... I have [s1], [s2], and [s3]."
+msgstr "Подивимось... У мене є [s1], [s2] і [s3]."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:782 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_5c115aa6:
+msgid "And with this I can make...!"
+msgstr "І з цим я можу зробити...!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:783 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_9850f53c:
+msgid "Nothing."
+msgstr "Нічого."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:784 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_f6364c0a:
+msgid "Absolutely nothing."
+msgstr "Абсолютно нічого."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:785 #-#-# translate crowdin flora_quest_flora_cooking_chilli_distraction_check_247a90d7:
+msgid "Try again."
+msgstr "Спробуємо ще раз."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:798 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_a49ff1a8:
+msgid "[_flora_] Oh, man! Why won't it stop burning!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:799 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_bb4f15f2:
+msgid "[_mc_] I brought you the milk."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:800 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_dc1f391b:
+msgid "[_mc_] Let's try it."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:804 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_450e5077:
+msgid "[_flora_] Ayeeee! Coooold!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:805 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_c8a9c991:
+msgid "[_mc_] Sorry, it's straight from the fridge."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:806 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_0bb15cb3:
+msgid "[_flora_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:807 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_d59d6f07:
+msgid "[_flora_] It's working! Oh my god, my poor pussy..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:808 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_670fa694:
+msgid "[_flora_] Thank you..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:810 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_08335e2e:
+msgid "[_flora_] That's the best feeling ever..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:811 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_9c61d563:
+msgid "She looks like she's drifting in the clouds right now. Must be quite the release when the heat's finally fading."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:812 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_846baed3:
+msgid "Beads of sweat dot her forehead and her face is still red, but there's that look of complete relief washing over her face."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:813 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_84b2cd90:
+msgid "[_flora_] Can you... like... give me a moment, please?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:815 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_d7076091:
+msgid "She's totally out of it. Her hand is moving between her legs."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:816 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_03c33b00:
+msgid "She didn't even care to check if I left."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:818 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_11fdb519:
+msgid "[_extend_]  [nointeract]"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:823 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_495896dd:
+msgid "[_flora_] Mmmmm!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:824 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_ea81432a:
+msgid "Her hand is moving like it has a will of its own. Down her groin, between her thighs."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:826 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_f7e53c0f:
+msgid "She's hypnotizing me with her hand!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:833 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_35e49c9b:
+msgid "Slowly circling her clit. A couple of fingers dip inside her. Weaving through her folds."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:834 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_8cd4fd69:
+msgid "Her hips buck as a shiver of pleasure rolls through her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:836 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_7ac3a898:
+msgid "Fingers glistening with her juices, she smears them over her entire pussy."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:837 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_8f56ef58:
+msgid "She's so good at it. Years of experience in pleasing herself."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:842 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_91347db1:
+msgid "It's better than any porn because this is genuine. She's doing it for herself."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:843 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_90c65bb0:
+msgid "She just wants to bring herself to that edge."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:845 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_a4fddcfc:
+msgid "What a marvel to behold! So innocent and naughty at the same time."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:856 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_2b81bca5:
+msgid "Another shiver. The muscles of her stomach and abdomen tensing up."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:863 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_a1416b7d:
+msgid "[_flora_] Mmmm..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:866 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_8aa6091e:
+msgid "[_flora_] Ah!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:873 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_31dfd7a3:
+msgid "It finally makes sense why it's called \"playing with your pussy.\""
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:874 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_254d8801:
+msgid "The way she tugs at her labia, teases her clit, sweeps her fingers through her folds. It's all so playful!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:881 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_964f37f0:
+msgid "Her breath stops short in her throat. A tiny gasp. A gush that floods her pussy."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:888 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_9732805a:
+msgid "She's getting so close. Balancing on that edge of pleasure. Preparing herself for the ultimate dive..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:892 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_c5a1b75a:
+msgid "Here it comes..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:900 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_8bfcf43d:
+msgid "[_flora_] Oh god..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:902 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_602be5f3:
+msgid "That final shudder. The sigh of relief."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:903 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_e7c969e4:
+msgid "The burst pipe."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:905 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_be56115a:
+msgid "I feel like applauding her, but that would give everything away."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:906 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_776e8ccd:
+msgid "She came right over her hand and floor. Not a single care in the world."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:907 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_0207cb69:
+msgid "Her mind is on some other plane of existence right now, but it won't be long before she returns to her senses."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:908 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_4808ac74:
+msgid "Ugh, time to go before she notices me..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:909 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_e7070ae4:
+msgid "I'll just leave her phone here."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:911 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_10e39bb9:
+msgid "This is one of those things that should probably never be spoken about again."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:912 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_d23f86c2:
+msgid "She'd kill me if she knew that I watched her."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:913 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_658063cc:
+msgid "But damn, that was hot..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:914 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_296437bb:
+msgid "Is that a weird thing to feel? Probably."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:915 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_e276612c:
+msgid "Does anyone care? Probably not."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:916 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_00258366:
+msgid "How am I ever going to get these images out of my head?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:922 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_76c42612:
+msgid "[flora] has been through enough today. She doesn't need me perving on her."
+msgstr "[flora] сьогодні вже достатньо натерпілася. Їй не потрібно, щоб я до неї приставав."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:923 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_24650b53:
+msgid "That internship is probably putting a lot of stress on her."
+msgstr "Ця практика, напевно, створює для неї великий стрес."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:924 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_d31be5cf:
+msgid "Hopefully, she'll finally be able to take the edge off and get some much needed release."
+msgstr "Сподіваюся, вона нарешті зможе зняти напругу і розслабитись."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:925 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_48bceeab:
+msgid "Leaving her alone is what any decent person would've done."
+msgstr "Залишити її в спокої - це те, що зробила б будь-яка порядна людина."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:926 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_72ccf109:
+msgid "Plus, it's honestly weird to watch [flora] masturbate."
+msgstr "Плюс, чесно кажучи, дивно дивитися, як [flora] мастурбує."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:927 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_858430ad:
+msgid "I'll just put her phone here..."
+msgstr "Просто покладу її телефон сюди..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:933 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_b1aa1d5e:
+msgid "[_flora_] Oh god."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:934 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_df930c6c:
+msgid "[_mc_] This isn't exactly milk, but I hope it'll help."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:938 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_0bb15cb3_1:
+msgid "[_flora_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:939 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_3348c50c:
+msgid "[_flora_] It... It's working!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:940 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_a31340dd:
+msgid "[_mc_] Really?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:941 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_67382771:
+msgid "[_flora_] Yes! Can you, um, spread it out?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:942 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_cfce055e:
+msgid "[_mc_] Are you sure?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:943 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_bcc226ac:
+msgid "[_flora_] Yes, I still have chili on my fingers!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:944 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_46cfa2f4:
+msgid "[_mc_] All right..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:946 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_e725df9a:
+msgid "It's... so much softer than I ever expected..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:947 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_536594eb:
+msgid "Her lips are like hot wet silk in my hand."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:948 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_7453ff14:
+msgid "It's like touching a little bit of heaven. The most forbidden and sinful part of it..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:949 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_8dff3498:
+msgid "Squishy and smooth and... the best thing ever."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:951 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_65879b56:
+msgid "An infinite number of the sweetest juiciest pussies have filled my dreams for years, but nothing could compare to this."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:952 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_671af047:
+msgid "Running my fingers through her folds, feeling her twitch under my touch. Her little gasps as my hand brushes over her clit."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:955 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_287ca819:
+msgid "[_flora_] Ohhh! It's working!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:957 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_5b4742e1:
+msgid "She's vibrating against my hand. Buzzing almost!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:961 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_b44f30e5:
+msgid "[_flora_] W-what's happening?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:962 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_75ca1300:
+msgid "[_flora_] Oh."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:965 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_daf9ab45:
+msgid "[_flora_] Ohh!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:967 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_2b35b6fe:
+msgid "[_mc_] ..."
+msgstr "[_mc_] ..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:968 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_f251abf7:
+msgid "[_flora_] ...!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:971 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_ee241da0:
+msgid "Her pee is like liquid fire gushing through my fingers, spattering over my arm and face."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:972 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_99c4ad3b:
+msgid "Always thought girl pee would smell differently, but it's the same musky hint of ammonia."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:973 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_d67c0ed0:
+msgid "Almost got some in my mouth and eyes..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:974 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_b6363c85:
+msgid "Glad it missed, although... can't help but be curious about the taste..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:976 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_db900b18:
+msgid "[_mc_] Did you... just pee on me?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:977 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_70fd3475:
+msgid "[_flora_] I'm so sorry!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:980 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_68900fb3:
+msgid "[_flora_] I don't know what happened!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:981 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_d0428052:
+msgid "My guess is the Pepelepsi combined with the residue of the chili peppers had some kind of chemical reaction..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:982 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_6f79ae9a:
+msgid "[_mc_] I don't know either, but I'm glad you're not burning up anymore!"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:984 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_7c101bd5:
+msgid "[_flora_] Thanks... I guess..."
+msgstr "[_flora_] Дякую... Напевно..."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:985 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_0a502616:
+msgid "That was probably the most reluctant \"thank you\" I've ever heard, but I'll take it."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:986 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_2f45a754:
+msgid "[_flora_s_FloraShowerPoseA1_concerned_pepelepsi_] Why does my pussy smell like Pepelepsi?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:987 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_40e6fa00:
+msgid "[_mc_] Err... we were out of milk..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:988 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_ca9166ff:
+msgid "[_flora_s_FloraShowerPoseA1_angry_pepelepsi_] So you grabbed the bottle of that radioactive waste and decided to pour it all over my poor pussy?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:989 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_c44ab834:
+msgid "[_mc_] It seemed to work. Would you have rather I let you suffer?"
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:990 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_2bc591a7:
+msgid "[_flora_s_FloraShowerPoseA1_confident_pepelepsi_] Maybe."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:991 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_54b71383:
+msgid "[_flora_] Well, you're lucky my pussy can withstand almost anything."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:992 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_869b4e51:
+msgid "She sure isn't wrong about me being lucky."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:993 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_a39340cb:
+msgid "[_flora_s_concerned_] ..."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:994 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_4cc24033:
+msgid "Now is probably a good time to make my escape."
+msgstr "Зараз, напевно, найкращий час для моєї втечі."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:995 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_0d98b1e1:
+msgid "[_mc_] Well, I'm glad you're okay. Peace out!"
+msgstr "[_mc_] Що ж, я радий, що з тобою все гаразд. Удачі!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:997 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_26a20dee:
+msgid "[_flora_s_angry_] Don't you dare tell anyone about this."
+msgstr "[_flora_s_angry_] Не смій нікому про це розповідати."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:998 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_824b617b:
+msgid "[_mc_] Who am I going to tell?"
+msgstr "[_mc_] Кому я розповім?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:999 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_50dca868:
+msgid "[_flora_s_confident_] I'm glad you don't have any friends."
+msgstr "[_flora_s_confident_] Я рада, що у тебе немає друзів."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1000 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_43d6ae70:
+msgid "[_flora_s_confident_] Then, I'd have to kill you."
+msgstr "[_flora_s_confident_] Тоді мені б довелось тебе вбити."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1001 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_f856878a:
+msgid "[_mc_] All right, then!"
+msgstr "[_mc_] Гаразд!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1006 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_865bdc82:
+msgid "[_flora_s_annoyed_] Are you going to stare forever or let me dress in peace?"
+msgstr "[_flora_s_annoyed_] Ти так і будеш вічно витріщатися чи даси мені спокійно одягнутися?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1007 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_e7f5ecc5:
+msgid "[_mc_] Is that a rhetorical question or are you giving me a choice here?"
+msgstr "[_mc_] Це риторичне запитання чи ти даєш мені вибір?"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1008 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_7c40a4d5:
+msgid "[_flora_s_laughing_] I would scream at you, but you smell like pee and that's kinda funny."
+msgstr "[_flora_s_laughing_] Я б накричала на тебе, але ти пахнеш сечею, і це трохи смішно."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1009 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_93ad85a8:
+msgid "She has the weirdest humor."
+msgstr "У неї дуже дивний гумор."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1010 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_441fd07a:
+msgid "[_mc_] I'll just take a shower now."
+msgstr "[_mc_] Я тільки прийму душ."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1011 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_c00da638:
+msgid "[_flora_s_angry_] Get out!"
+msgstr "[_flora_s_angry_] Забирайся геть!"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1012 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_481ffcab:
+msgid "[_mc_] Ugh, fine."
+msgstr ""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1018 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_cfd19ad9:
+msgid "Phew, she looked like she was about to slit my throat with her nails."
+msgstr "Тьху, вона виглядала так, ніби збиралась перерізати мені горло нігтями."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1019 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_6b0d63ad:
+msgid "This incident should probably never be spoken about again."
+msgstr "Про те що сталося, напевно, не варто більше згадувати ніколи."
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:1024 #-#-# translate crowdin flora_quest_flora_cooking_got_liquid_66f86355:
+msgid "It would be hot to stick my [item.title_lower] in her pussy, but she'd probably kill me."
+msgstr "Було б прикольно встромити мій [item.title_lower] в її кицьку, але вона, мабуть, вб'є мене."
+
+# §translate crowdin strings: #|#|# # game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:125
+msgid "\"Yes, here you go!\""
+msgstr "\"Так, тримай!\""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:125
+msgid "\"Yes, but you're going to have to pay me in food.\""
+msgstr "\"Так, але тобі доведеться розрахуватися зі мною їжею.\""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:125
+msgid "\"Don't talk to me like that.\""
+msgstr "\"Не розмовляй зі мною так.\""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:228
+msgid "\"No, thanks. I think I'll pass.\""
+msgstr "\"Ні, дякую. Думаю, я пас.\""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:228
+msgid "\"Okay, sure. How bad can it be?\""
+msgstr "\"Звісно. Не може ж все може бути настільки погано?\""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:415
+msgid "Leave a nice voice message"
+msgstr "Залишити гарне голосове повідомлення"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:415
+msgid "Leave a vulgar voice message"
+msgstr "Залишити вульгарне голосове повідомлення"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:447
+msgid "\"Why did you touch yourself while cooking?\""
+msgstr "\"Навіщо ти торкалась себе там під час приготування?\""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:447
+msgid "\"Can I help somehow?\""
+msgstr "\"Я можу чимось допомогти?\""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:447
+msgid "\"Seriously, I don't even want to know. I'll look after your food while you clean up.\""
+msgstr "\"Серйозно, я навіть не хочу знати. Я пригляну за їжею, поки ти там миєшся.\""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:461
+msgid "\"Sounds like you have a bit of a situation on your hands... and in your panties.\""
+msgstr "\"Схоже, що у тебе є певні проблеми в руках... і в трусах.\""
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:578
+msgid "Stay and help her clean off"
+msgstr "Залишитись та допомогти їй"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:578
+msgid "Turn on the shower, but let her clean off herself"
+msgstr "Увімкнути душ, але хай вона миє себе сама"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:817
+msgid "Stay and watch"
+msgstr "Залишитись та спостерігати"
+
+# game/1000_base_game/game/characters/flora/season_1/q_flora_cooking_chilli.rpy:817
+msgid "Give her some privacy"
+msgstr "Залишити її на самоті"
+
