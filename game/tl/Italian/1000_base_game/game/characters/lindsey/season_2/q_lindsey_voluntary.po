@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-07-19 08:17\n"
+"PO-Revision-Date: 2024-07-23 06:32\n"
 
 # TODO: Translation updated at 2024-07-17 11:24 #|#|# # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_voluntary.rpy:2 #-#-# translate crowdin quest_lindsey_voluntary_start_79e92d99:
 msgid "God, whenever I see the hospital I get the urge to visit [lindsey]..."
@@ -762,7 +762,7 @@ msgstr "[_mc_] Cancellami da quella lista, [maxine]."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_voluntary.rpy:308 #-#-# translate crowdin quest_lindsey_voluntary_investigation_759830b7:
 msgid "[_maxine_s_annoyed_] I'm afraid I can't."
-msgstr ""
+msgstr "[_maxine_s_annoyed_] Temo di non poterlo fare."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_voluntary.rpy:309 #-#-# translate crowdin quest_lindsey_voluntary_investigation_2898400c:
 msgid "[_mc_] Why the hell not?"
@@ -862,7 +862,7 @@ msgstr "[_maxine_s_confident_hands_down_] Sembra infatti che abbia una particola
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_voluntary.rpy:338 #-#-# translate crowdin quest_lindsey_voluntary_investigation_ec1ed5e2:
 msgid "[_maxine_s_confident_hands_down_] She once gifted me a knitted [spinach] doll."
-msgstr ""
+msgstr "[_maxine_s_confident_hands_down_] Una volta mi regalò una bambola [spinach] fatta a maglia."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_voluntary.rpy:339 #-#-# translate crowdin quest_lindsey_voluntary_investigation_19f1a62b:
 msgid "So, [cyberia] {i}was{/} right..."
@@ -1466,7 +1466,7 @@ msgstr "[_maya_s_kiss_] Pensi che potrebbe funzionare? Per golly, gee!"
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_voluntary.rpy:543 #-#-# translate crowdin quest_lindsey_voluntary_interrogation_c0ef7b9e:
 msgid "[_mc_] Stop that. I know you have emotions."
-msgstr ""
+msgstr "[_mc_] Smettila. So che hai delle emozioni."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_voluntary.rpy:544 #-#-# translate crowdin quest_lindsey_voluntary_interrogation_bcbb70d8:
 msgid "[_mc_] I'm sure [lindsey]'s fall had to affect you at least somewhat."
@@ -1566,7 +1566,7 @@ msgstr "Welp. Non è molto più chiaro cosa sia successo esattamente quella nott
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_voluntary.rpy:571 #-#-# translate crowdin quest_lindsey_voluntary_interrogation_653b89f9:
 msgid "Right now, I feel more inclined to believe [maya]..."
-msgstr ""
+msgstr "In questo momento mi sento più propenso a credere [maya]..."
 
 # game/1000_base_game/game/characters/lindsey/season_2/q_lindsey_voluntary.rpy:572 #-#-# translate crowdin quest_lindsey_voluntary_interrogation_a47086ff:
 msgid "But then why would [cyberia] bring her up?"
