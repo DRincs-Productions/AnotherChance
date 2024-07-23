@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/school/principal_office/int_principal_desk.po\n"
+"X-Crowdin-File-ID: 12870\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"PO-Revision-Date: 2024-07-23 09:44\n"
+
+# TODO: Translation updated at 2024-02-09 16:03 #|#|# # game/1000_base_game/game/locations/school/principal_office/int_principal_desk.rpy:15 #-#-# translate crowdin school_principal_office_principal_desk_interact_9715e560:
+msgid "The principal's desk, also known as the power desk."
+msgstr ""
+
+# game/1000_base_game/game/locations/school/principal_office/int_principal_desk.rpy:16 #-#-# translate crowdin school_principal_office_principal_desk_interact_8afc86d4:
+msgid "Imposing and meant to intimidate students."
+msgstr ""
+
