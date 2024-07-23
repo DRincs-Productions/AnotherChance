@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/locations/home/bathroom/int_clothing_line.po\n"
+"X-Crowdin-File-ID: 11778\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"PO-Revision-Date: 2024-07-23 06:36\n"
+
+# TODO: Translation updated at 2023-11-05 22:06 #|#|# # game/1000_base_game/game/locations/home/bathroom/int_clothing_line.rpy:29 #-#-# translate crowdin quest_mrsl_HOT_hang_laundry_5257a97e:
+msgid "Aaaand done! [jo] better have those videotapes for me now."
+msgstr "Et voilà, c'est fait ! [J'ai intérêt à ce que vous me donniez ces cassettes vidéo maintenant."
+
+# game/1000_base_game/game/locations/home/bathroom/int_clothing_line.rpy:31 #-#-# translate crowdin quest_mrsl_HOT_hang_laundry_5d0ffff0:
+msgid "I'm not leaving my [item.title_lower] hung out to dry!"
+msgstr "Je ne pars pas de mon [item.title_lower] suspendu à sec !"
+
+# game/1000_base_game/game/locations/home/bathroom/int_clothing_line.rpy:36 #-#-# translate crowdin home_bathroom_clothesline_empty_interact_1128dc1e:
+msgid "This seems like a good place to hang up my boots. To dry, of course. No one's retiring yet."
+msgstr "Cela semble être un bon endroit pour accrocher mes bottes. Pour les faire sécher, bien sûr. Personne n'a encore pris sa retraite."
+
