@@ -777,13 +777,13 @@ translate french strings:
     old "The updates were cancelled."
     new "La mise à jour a été annulée."
 
-    # renpy/common/00updater.rpy:1666
-    old "Proceed"
-    new "Continuer"
+    # # renpy/common/00updater.rpy:1666
+    # old "Proceed"
+    # new "Continuer"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Plein écran"
+    # # renpy/common/00compat.rpy:371
+    # old "Fullscreen"
+    # new "Plein écran"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
@@ -837,17 +837,17 @@ translate french strings:
     old "Force GLES2 Renderer"
     new "Forcer le moteur de rendu GLES2"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Manette"
+    # # renpy/common/00gltest.rpy:132
+    # old "Gamepad"
+    # new "Manette"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Activer (Sans Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrage"
+    # # renpy/common/(.*)
+    # old "Calibrate"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -877,9 +877,9 @@ translate french strings:
     old "Changes will take effect the next time this program is run."
     new "Les changements prendront effet au prochain démarrage du programme."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Quitter"
+    # # renpy/common/(.*)
+    # old "Quit"
+    # new "(.*)"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
