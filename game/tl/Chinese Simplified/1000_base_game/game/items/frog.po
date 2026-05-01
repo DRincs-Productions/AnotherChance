@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/items/frog.po\n"
+"X-Crowdin-File-ID: 12824\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-07-23 10:01\n"
+
+# TODO: Translation updated at 2024-07-17 11:24 #|#|# # game/1000_base_game/game/items/frog.rpy:19 #-#-# translate crowdin frog_interact_0d3e533c:
+msgid "[_nurse_] Rubbit! Rubbit!"
+msgstr "[_nurse_] 肉他！肉他！"
+
+# game/1000_base_game/game/items/frog.rpy:20 #-#-# translate crowdin frog_interact_c7f62570:
+msgid "[_mc_] Rub it? If you insist..."
+msgstr "[_mc_] 揉他？如果你坚持..."
+
+# game/1000_base_game/game/items/frog.rpy:21 #-#-# translate crowdin frog_interact_0d3e533c_1:
+msgid "[_nurse_] Rubbit! Rubbit!"
+msgstr "[_nurse_] 肉他！肉他！"
+
+# game/1000_base_game/game/items/frog.rpy:22 #-#-# translate crowdin frog_interact_4cd2d6dd:
+msgid "[_mc_] You like that?"
+msgstr ""
+
+# game/1000_base_game/game/items/frog.rpy:23 #-#-# translate crowdin frog_interact_923f4c62:
+msgid "[_nurse_] {i}Gurgle...{/}"
+msgstr "[_nurse_] {i}咯咯笑...{/}"
+

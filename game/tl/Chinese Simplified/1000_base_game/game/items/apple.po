@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: another-chance\n"
+"X-Crowdin-Project-ID: 625928\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/game/tl/crowdin/1000_base_game/game/items/apple.po\n"
+"X-Crowdin-File-ID: 11362\n"
+"Project-Id-Version: another-chance\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-07-23 09:45\n"
+
+# TODO: Translation updated at 2024-07-17 11:24 #|#|# # game/1000_base_game/game/items/apple.rpy:16 #-#-# translate crowdin apple_interact_b8c7b10c:
+msgid "Earbuds not included. Charger not included. Battery not included."
+msgstr "不自带耳塞，不自带充电器，连电池也不自带。"
+
+# game/1000_base_game/game/items/apple.rpy:17 #-#-# translate crowdin apple_interact_878a0f83:
+msgid "Goes bad after a short while."
+msgstr "用了一小会后就坏掉了。"
+
+# game/1000_base_game/game/items/apple.rpy:18 #-#-# translate crowdin apple_interact_964d080b:
+msgid "In other words, a classic apple."
+msgstr "换而言之，经典的苹果产品。"
+
+# game/1000_base_game/game/items/apple.rpy:19 #-#-# translate crowdin apple_interact_0c300a56:
+msgid "Luckily, you can always get a new and fresh one."
+msgstr "但幸运的是，你随时都可以去换副新的耳机。"
+
